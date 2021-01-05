@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 05 Jan 2021 02:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2021 02:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国股指期货上涨，标准普尔500指数合约上涨0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0211939.d.html</link>
+            <guid>1960045</guid>
+            <pubDate>Tue, 05 Jan 2021 02:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股电信股盘中直线拉涨。中国移动、中国电信现涨超2%，中国联通涨1.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0211616.d.html</link>
+            <guid>1960044</guid>
+            <pubDate>Tue, 05 Jan 2021 02:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  汽车整车股走弱，宇通客车跌近8%，福田汽车、东风汽车、广汽集团、曙光股份、一汽解放、中国重汽、长安汽车等纷纷走弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0630103.d.html</link>
+            <guid>1960043</guid>
+            <pubDate>Tue, 05 Jan 2021 02:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元触及6.45关口，续刷2018年6月以来高位。离岸人民币兑美元日内涨近0.3%，升破6.44，暂报6.4337。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0211474.d.html</link>
+            <guid>1960042</guid>
+            <pubDate>Tue, 05 Jan 2021 02:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  农业种植板块拉升，新农开发涨停，黑芝麻涨6%，荃银高科、莫高股份等跟涨。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0211127.d.html</link>
@@ -582,30 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0608420.d.html</link>
             <guid>1959926</guid>
             <pubDate>Tue, 05 Jan 2021 00:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国食品药品监督管理局：两种不同的MRNA疫苗现在在预防成人感染新冠病毒方面显示出约95%的有效性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0608331.d.html</link>
-            <guid>1959925</guid>
-            <pubDate>Tue, 05 Jan 2021 00:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：今年个人和家庭普通小客车指标38200个】昨天，北京市小客车指标办公布《关于2021年小客车指标总量和配置比例的通告》，发布今年配置小客车指标配置情况。据介绍，今年个人和家庭普通小客车指标共计38200个。新能源指标方面，家庭指标额度占年度新能源小客车指标配额约54.2%，共计32520个；个人指标额度占年度指标配额约36.1%，共计21680个。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0189614.d.html</link>
-            <guid>1959924</guid>
-            <pubDate>Tue, 05 Jan 2021 00:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富时罗素宣布将三家中企移出全球指数】在官网的一份声明中，富时罗素表示自1月7日开盘起，将从富时全球股票指数系列和富时中国A股指数中删除中国联合网络通信集团有限公司（中国联通）、南京熊猫电子股份有限公司和中芯国际集成电路制造有限公司（中芯国际）三家公司的股票。声明中，富时罗素表示公司已参照特朗普政府禁止投资被指“有军方背景中资企业”的行政令，经审核后把一些中资企业移出全球指数。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0189465.d.html</link>
-            <guid>1959923</guid>
-            <pubDate>Tue, 05 Jan 2021 00:43:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【两市融资余额增加236.96亿元】截至1月4日，上交所融资余额报7804.90亿元，较前一交易日增加121.23亿元；深交所融资余额报7252.30亿元，较前一交易日增加115.73亿元；两市合计15057.20亿元，较前一交易日增加236.96亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0607585.d.html</link>
-            <guid>1959922</guid>
-            <pubDate>Tue, 05 Jan 2021 00:40:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

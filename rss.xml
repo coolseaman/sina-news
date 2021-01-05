@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://ruanyf.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 05 Jan 2021 01:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2021 01:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://ruanyf.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[恒指盘初跌幅迅速扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0617594.d.html</link>
+            <guid>1959974</guid>
+            <pubDate>Tue, 05 Jan 2021 01:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国债期货开盘，10年期国债期货主力合约涨0.06%，5年期涨0.06%，2年期平开。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0617498.d.html</link>
+            <guid>1959972</guid>
+            <pubDate>Tue, 05 Jan 2021 01:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[创业板指低开低走，跌超1％，沪指失守3500点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0617467.d.html</link>
+            <guid>1959971</guid>
+            <pubDate>Tue, 05 Jan 2021 01:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国有线电视新闻网（CNN），超过170名商界领袖签署联名信，敦促国会接受拜登为美国下一任总统的结果。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0616975.d.html</link>
+            <guid>1959968</guid>
+            <pubDate>Tue, 05 Jan 2021 01:29:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[墨西哥总统洛佩斯：墨西哥批准紧急使用阿斯利康的新冠疫苗。]]></title>
             <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0616618.d.html</link>
@@ -582,30 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0595501.d.html</link>
             <guid>1959866</guid>
             <pubDate>Mon, 04 Jan 2021 23:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚ASX200指数1月5日（周二）开盘下跌44.70点，跌幅0.67%，报6684.20点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0595477.d.html</link>
-            <guid>1959865</guid>
-            <pubDate>Mon, 04 Jan 2021 23:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民币对美元汇率强势亮相 CFETS指数美元权重或将持续下调】升值逾1%，重回6.40时代——2021年首个交易日，人民币对美元汇率强势亮相。 2020年12月31日，外汇交易中心调整CFETS人民币汇率指数篮子货币权重，第三次下调美元权重。业内人士认为，该调整将进一步扩大人民币双边汇率弹性。考虑到中欧投资协定谈判如期完成、美国贸易或将持续萎缩等因素，未来人民币指数的美元权重可能持续下降。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0176913.d.html</link>
-            <guid>1959864</guid>
-            <pubDate>Mon, 04 Jan 2021 23:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，特朗普任命的佐治亚州检察官辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznctkf0176879.d.html</link>
-            <guid>1959863</guid>
-            <pubDate>Mon, 04 Jan 2021 23:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1月5日亚太盘初，美国三大股指期货均跌约0.2%，延续上日三大股指收跌逾1%的表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-01-05/detail-iiznezxt0594817.d.html</link>
-            <guid>1959862</guid>
-            <pubDate>Mon, 04 Jan 2021 23:06:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

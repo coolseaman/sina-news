@@ -4,11 +4,468 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 06 Feb 2021 08:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 20:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国新增20586例新冠肺炎病例，新增191例死亡病例、累计死亡78794例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4528043.d.html</link>
+            <guid>2014644</guid>
+            <pubDate>Sat, 06 Feb 2021 19:58:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大新增新冠病毒感染确诊病例2604例，累计超过80万例，达到800360例；新增死亡病例73例，累计达到20682例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5512121.d.html</link>
+            <guid>2014643</guid>
+            <pubDate>Sat, 06 Feb 2021 19:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非购买新车将不再出现车价和维修价格捆绑现象】 据南非媒体当地时间2月6日报道，南非竞争委员会规定，7月1日后，该国新车销售将不再出现车价和维修价格捆绑现象。南非竞争委员会规定7月1日起该国销售的全新机动车价格将与该机动车的服务/维护价格分开。原始设备制造商（OEM）和独立的第三方供应商（4S店 ）必须将服务/维护转让给被保险公司认可的其它企业。该规定虽然不具备法规效力，但是这些指导方针将为汽车销售行业设定新的标准。南非一些保险公司表示，这将让消费者对汽车价格和增值服务价格有进一步的了解，同时让这些产品报价具有比原来更大的竞争力。在此之前，在南非购买新车，通常会把保养等服务价格和新车价格捆绑在一起进行销售。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4525304.d.html</link>
+            <guid>2014625</guid>
+            <pubDate>Sat, 06 Feb 2021 18:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利新增13442例新冠肺炎病例，上一日增加14218例；新增385例死亡病例，上一日增加377例。]]></title>
+            <guid>2014607</guid>
+            <pubDate>Sat, 06 Feb 2021 18:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利多地出现新冠病毒变种感染聚集性疫情】 据安莎社2月6日报道，艾米利亚-罗马涅大区首府博洛尼亚圣奥索拉医院的消化内科病房出现新冠病毒感染聚集性疫情，目前已发现6名患者及4名医护人员感染了新冠病毒变种。《共和国报》米兰地方版6日报道，伦巴第大区布雷西亚省一个人口仅有1400人的小市镇科尔扎诺出现人群大规模感染英国发现的新冠病毒变异株，目前感染及预防性隔离人数已达250人。该市市长及其家人也已确诊感染，目前正在隔离。据推断，该地变异病毒初期感染者应来自幼儿园和小学，然后出现校内及家庭传播。为防止病毒进一步扩散，科尔扎诺的学校已紧急关闭。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftpnny5508821.d.html</link>
+            <guid>2014533</guid>
+            <pubDate>Sat, 06 Feb 2021 17:58:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：02月07日01时36分在台湾宜兰县海域（北纬24.65度，东经122.50度）发生5.2级地震，震源深度70千米。]]></title>
+            <guid>2014532</guid>
+            <pubDate>Sat, 06 Feb 2021 17:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊新增新冠肺炎累计确诊病例163213例，累计死亡病例5951例；由于出现新冠肺炎确诊病例等相关原因不同程度停课的学校已达336所。（央视）]]></title>
+            <guid>2014450</guid>
+            <pubDate>Sat, 06 Feb 2021 17:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新冠肺炎累计确诊病例3929835例，累计死亡病例112092例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-07/detail-ikftssap4515797.d.html</link>
+            <guid>2014405</guid>
+            <pubDate>Sat, 06 Feb 2021 16:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【青海海西州茫崖市发生4.2级地震】据中国地震台网正式测定，2月6日22时54分在青海海西州茫崖市发生4.2级地震，震源深度10千米，震中位于北纬38.59度，东经93.80度。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5497544.d.html</link>
+            <guid>2014356</guid>
+            <pubDate>Sat, 06 Feb 2021 15:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国家防办、应急管理部调度部署南方地区抗旱保供水工作】国家防办、应急管理部召开会商调度会，与水利部、中国气象局会商研判，视频连线相关省（自治区）防指，部署抗旱保供水工作。会议强调，切实抓好当前抗旱保供水工作。要密切关注旱情发展变化，加强会商研判，及时发布干旱预警信息，抓住有利时机实施人工增雨；要组织协调水利部门加强抗旱水源统筹管理，切实做好江河湖库和各类抗旱工程联合调度、湖库联调等综合性措施，科学调度水源；要制定完善人饮解困方案，落实应急调水、打井取水等各种措施，及时组织国家综合性消防救援队伍拉水、送水，千方百计确保旱区群众基本生活用水；要加强旱情旱灾统计分析和报送工作，实时掌握当前旱情发展情况，及时采取抗旱措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4507828.d.html</link>
+            <guid>2014332</guid>
+            <pubDate>Sat, 06 Feb 2021 14:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【市调机构公布今年1月国内手机市场份额：OPPO排名第一】市场调研机构BCI公布了今年1月份国内手机市场份额。数据显示，OPPO手机市场份额占比超20%，连续五周排名第一。Vivo占比19.9%，紧随其后，排名第二。华为、小米、苹果分列三到五位。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5491684.d.html</link>
+            <guid>2014315</guid>
+            <pubDate>Sat, 06 Feb 2021 14:35:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球新冠肺炎确诊病例超过1亿479万例】根据世卫组织最新实时统计数据，全球累计新冠肺炎确诊病例104790123例，累计死亡病例2285048例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5491630.d.html</link>
+            <guid>2014314</guid>
+            <pubDate>Sat, 06 Feb 2021 14:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【媒体：“缺芯”或致全球汽车减产长期化】媒体消息，半导体短缺可能导致汽车减产陷入长期化。有观点认为，这种减产势头会一直持续至今年夏季。疫情蔓延使得个人电脑等电子设备对半导体的需求骤增，再加上一些特有的结构性问题，相关行业面临困境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5489282.d.html</link>
+            <guid>2014308</guid>
+            <pubDate>Sat, 06 Feb 2021 14:09:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据缅甸媒体报道，正在被扣押中的缅甸国务资政昂山素季于当地时间2月6日早上接种新冠疫苗。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4501710.d.html</link>
+            <guid>2014290</guid>
+            <pubDate>Sat, 06 Feb 2021 13:50:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【与德拉基会晤后，意大利联盟党主席暗示不反对与五星运动党联合执政】意大利联盟党主席萨尔维尼表示，右翼政党将于下周决定是否支持由欧洲央行前行长德拉基领导的政府，但在周六与德拉基的讨论中已就部分问题达成共识。自德拉基获得授权以来，这位激进的右翼领导人反复改变策略，先是呼吁提前选举，然后又称不会与议会最大政党——五星运动党一起执政。目前萨尔维尼的最新表态是没有为（加入）德拉基政府设定任何条件。德拉基目前正在与五星运动党会面，这是他与各政党第一轮正式谈判中的最后一次会议，下周德拉基还将举行第二轮谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4501158.d.html</link>
+            <guid>2014258</guid>
+            <pubDate>Sat, 06 Feb 2021 13:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家统计局回应修订2019年GDP数据：是正常制度化安排 并非为做大2020年增速】 国家统计局日前公布了经最终核实的2019年GDP数据，GDP总量比初步核算数有所减少。国家统计局副局长盛来运表示，调整修订是一种正常的制度化安排，不像有些网友调侃的那样，是为了做大2020年GDP增速。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5484831.d.html</link>
+            <guid>2014129</guid>
+            <pubDate>Sat, 06 Feb 2021 13:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：俄罗斯卫星V新冠疫苗已在缅甸注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4498901.d.html</link>
+            <guid>2014128</guid>
+            <pubDate>Sat, 06 Feb 2021 13:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：印尼批准科兴生物疫苗用于老年人群。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4498821.d.html</link>
+            <guid>2014121</guid>
+            <pubDate>Sat, 06 Feb 2021 13:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：航空公司称，此前一架空客A320客机发出求救信号的原因为出现无线电系统故障。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5483505.d.html</link>
+            <guid>2014069</guid>
+            <pubDate>Sat, 06 Feb 2021 13:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国国际贸易大臣特拉斯：Ngozi Okonjo-Iweala是一位优秀的WTO总干事候选人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4497339.d.html</link>
+            <guid>2014056</guid>
+            <pubDate>Sat, 06 Feb 2021 12:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗总统鲁哈尼表示，伊朗已经收到俄罗斯卫星V新冠疫苗，下周即可开启接种工作。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5483104.d.html</link>
+            <guid>2014055</guid>
+            <pubDate>Sat, 06 Feb 2021 12:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄正在开发疫苗快速制备技术 “卫星V”可100%预防新冠中重症】俄罗斯加马列亚流行病学与微生物学国家研究中心主任金茨堡表示，加马列亚中心正在开发一种疫苗快速制备技术，以应对新冠病毒自身发生变化的情况。金茨堡还表示，新冠疫苗“卫星V”可100%预防新冠中重症。他在“俄罗斯-1”电视台节目中说，“疫苗可100%预防新冠中重症。就是说，接种后，一旦接触到这种病原体，也会无感而愈，即根本不需要住院治疗。”]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5483079.d.html</link>
+            <guid>2014052</guid>
+            <pubDate>Sat, 06 Feb 2021 12:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利五星运动党：意大利需要一个亲欧洲政府。德拉吉的政策提议是决定我们是否加入政府的关键。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4496649.d.html</link>
+            <guid>2014028</guid>
+            <pubDate>Sat, 06 Feb 2021 12:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利五星运动党：已向德拉基提议成立一家公共投资银行并强调“公民收入”政策的重要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4496310.d.html</link>
+            <guid>2014011</guid>
+            <pubDate>Sat, 06 Feb 2021 12:45:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西卫生监管机构：辉瑞已申请在巴西注册其研发的新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5481892.d.html</link>
+            <guid>2014009</guid>
+            <pubDate>Sat, 06 Feb 2021 12:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利五星运动党：意大利需要一个亲欧洲政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4496095.d.html</link>
+            <guid>2014008</guid>
+            <pubDate>Sat, 06 Feb 2021 12:43:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：一架飞往阿姆斯特丹的客机在发出求救信号后返回莫斯科。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4494892.d.html</link>
+            <guid>2013983</guid>
+            <pubDate>Sat, 06 Feb 2021 12:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  北京市地方金融监督管理局：下一步，北京将围绕2022年冬奥会稳步推进数字人民币更多试点应用，持续深化落实“两区”政策，不断完善法定数字货币试验区和金融科技应用场景试验区建设，提升北京智慧城市服务水平，打造国际消费中心城市，为北京冬奥会支付环境建设做好服务保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5480230.d.html</link>
+            <guid>2013976</guid>
+            <pubDate>Sat, 06 Feb 2021 12:29:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北京“数字王府井 冰雪购物节”数字人民币试点活动正式启动】在北京冬奥会开幕倒计时一周年之际，为实施科技冬奥行动计划，加强冬奥支付服务环境建设，北京市围绕冬奥消费全场景，启动“数字王府井 冰雪购物节”数字人民币试点活动。该活动由北京市东城区人民政府主办，通过预约报名、抽签发放红包的方式，向中签人员发放5万份数字人民币红包，每份红包金额200元。中签人员可在王府井指定商户和京东商城“数字王府井 冰雪购物节”活动专区无门槛消费。预约报名通道自2021年2月7日正式开启，消费活动时间为2月10日至2月17日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4494456.d.html</link>
+            <guid>2013973</guid>
+            <pubDate>Sat, 06 Feb 2021 12:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明起，北京发放5万份金额200元数字人民币红包。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5479892.d.html</link>
+            <guid>2013963</guid>
+            <pubDate>Sat, 06 Feb 2021 12:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【宁夏葡萄酒出口量逆势增长 同比增长46.4%】据银川海关发布的数据显示，宁夏2020年葡萄酒出口值达265万元，同比增长46.4%，主要出口国家和地区为美国、欧盟、澳大利亚、日本等。在疫情带来的不利外贸环境中，宁夏葡萄酒“出海”速度加快，实现了逆势增长。目前，宁夏葡萄酒种植面积已达49.2万亩，占中国酿酒葡萄面积的1/4。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5479470.d.html</link>
+            <guid>2013952</guid>
+            <pubDate>Sat, 06 Feb 2021 12:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据德国《明镜》周刊：德国政府将对BioNTech提高疫苗产能提供帮助。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4493530.d.html</link>
+            <guid>2013947</guid>
+            <pubDate>Sat, 06 Feb 2021 12:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧盟委员会前主席容克：新冠肺炎疫情不会给欧元带来风险】欧盟委员会前主席容克在接受《新苏黎世报》的采访时表示，尽管成员国在抗击新冠病毒大流行期间赤字和债务不断增加，但预计欧元不会受到短期或中期负面影响。如果成员国能够明智地使用欧盟复苏基金，比如用在面向未来的改革上，欧元将能够承受得住疫情压力。容克还承认了对欧盟疫苗推广管理方式的批评，并补充说，期望每个人在（疫苗获批的）最初几周或几个月内接种疫苗是不现实的。欧洲已经订购了足够的疫苗，到秋季可以为70%的人口接种。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4492276.d.html</link>
+            <guid>2013913</guid>
+            <pubDate>Sat, 06 Feb 2021 12:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华为哈勃投资EDA企业无锡飞谱电子】华为旗下哈勃科技投资有限公司新增一家对外投资——无锡飞谱电子信息技术有限公司。无锡飞谱电子是国内专业从事国产自主研发的CAE/EDA软件产品的技术领先企业，目前公司仿真软件涉及领域包括：电大平台精细结构的隐身RCS、复杂电磁环境下的天线建模、模型修复及网格剖分、基于高阶曲面网格的高效计算、并行电磁计算、复杂平台的天线布局、封装天线及高速仿真、射频、微波和毫米波器件仿真和优化等相关电磁领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5477998.d.html</link>
+            <guid>2013912</guid>
+            <pubDate>Sat, 06 Feb 2021 12:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【合肥市教育局正研究相关意见：准备给学区房设“入学年限”】“目前，教育局正会同相关部门研究相关意见，有望出台学区内住宅房入学年限政策。”合肥市教育局有关人士2月6日接受记者采访时，首次明确表态将出台学区内住宅房入学年限政策。“目前我市的确存在少数家长在孩子入学后随即售卖住宅房现象，同一套住宅房在小学6年内、初中3年内出现多名适龄儿童少年入学。”该人士表示，教育主管部门认为这种行为背离了《义务教育法》“就近入学”的本意，影响教育公平。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5475294.d.html</link>
+            <guid>2013827</guid>
+            <pubDate>Sat, 06 Feb 2021 11:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币涨破40500美元/枚，日内涨近6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5474974.d.html</link>
+            <guid>2013817</guid>
+            <pubDate>Sat, 06 Feb 2021 11:45:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2月6日《新闻联播》主要内容】今天《新闻联播》主要内容有：1、习近平春节前夕视察看望空军航空兵某师 向全体人民解放军指战员武警部队官兵军队文职人员民兵预备役人员致以新春祝福；2、习近平向第34届非洲联盟峰会致贺电；3、努力干成一番新事业 干出一片新天地——习近平总书记在贵州考察引起广大干部群众热烈反响；4、【央视快评】坚持以高质量发展统揽全局；5、李克强出席同欧洲企业家高级别视频对话会；6、【奋斗百年路 启航新征程·脱贫攻坚答卷】茶山村的美丽“蝶变”；7、【新春走基层】安徽合肥：城市“寒带”里的坚守；8、【就地过年 暖在身边】暖心保障贴心服务 大家小家安心过年；9、天问一号传回首幅火星图像；10、国家卫生健康委通报最新疫情；11、内地首批10万剂新冠疫苗运抵澳门；12、IMF总裁：中国将为全球经济注入更多动能；13、全球新冠肺炎确诊病例超过1亿437万例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5474919.d.html</link>
+            <guid>2013814</guid>
+            <pubDate>Sat, 06 Feb 2021 11:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Wind数据显示，开年以来公募基金调研次数达3172次。被调研频次最高的华峰测控获72家基金调研，游戏界的“茅台”吉比特和新宙邦也获得70家基金公司调研。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5474330.d.html</link>
+            <guid>2013779</guid>
+            <pubDate>Sat, 06 Feb 2021 11:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浪潮集团2021年首月营收同比增长61%】浪潮集团召开规划启动会，会上披露了1月整体运营情况：1月份，浪潮集团整体运营情况良好，营业收入同比增长61%，各项主要经营指标均大幅增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4488424.d.html</link>
+            <guid>2013777</guid>
+            <pubDate>Sat, 06 Feb 2021 11:37:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  济南一批进口冷冻牛肉2份样本检出阳性，未流入市场。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4487920.d.html</link>
+            <guid>2013765</guid>
+            <pubDate>Sat, 06 Feb 2021 11:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【当前加密货币总市值突破1.2万亿美元】Coingecko行情显示，当前全球加密货币总市值突破1.2万亿美元。排名第一的是比特币，市值约合7496亿美元，当前市值占比为62.44%；以太坊排名第二，市值约合1927亿美元，当前市值占比为16.04%；泰达币排名第三，市值约合274亿美元，当前市值占比为2.27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5472895.d.html</link>
+            <guid>2013763</guid>
+            <pubDate>Sat, 06 Feb 2021 11:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2月6日全国预计发送旅客1881万人次】记者从国务院联防联控机制春运工作专班了解到，今日（2月6日）全国春运预计发送旅客1881万人次。其中铁路预计发送397万人次，公路1380万人次，水路32万人次，民航72万人次。全国高速公路预计流量2821万辆。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5472664.d.html</link>
+            <guid>2013762</guid>
+            <pubDate>Sat, 06 Feb 2021 11:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“重庆·两江之星”火箭成功发射】今日下午17时05分05秒，零壹空间新型智能亚轨道火箭OS-X6B暨“重庆·两江之星”在公司重庆两江测控指挥中心远程指控下，从西北某发射场成功发射，试验载荷成功分离，全程飞行正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5472132.d.html</link>
+            <guid>2013761</guid>
+            <pubDate>Sat, 06 Feb 2021 11:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  伊朗新增新冠肺炎确诊病例6983例，累计确诊1459370例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4486126.d.html</link>
+            <guid>2013760</guid>
+            <pubDate>Sat, 06 Feb 2021 11:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黑龙江绥化发布安排意见：分类解除管控措施，有序恢复经济社会秩序。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4485865.d.html</link>
+            <guid>2013758</guid>
+            <pubDate>Sat, 06 Feb 2021 11:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【永冠新材：现有订单已排至三月中旬 将新投产OPP薄膜生产线】由于海外疫情季节性爆发，胶粘带行业持续供不应求。永冠新材表示，公司现有订单已排至三月中旬。为进一步缓解积压在手OPP胶带订单、美纹纸胶带订单、PVC胶带订单的压力，将新投产OPP薄膜生产线，以及美纹纸和PVC生产线假期从12天缩短至4天。全球出口集装箱普遍高度紧张的局势下，永冠借助海铁联运优势渠道，输出出口产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4485075.d.html</link>
+            <guid>2013757</guid>
+            <pubDate>Sat, 06 Feb 2021 10:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三桥梁通车 引江济淮工程取得重大进展】今天引江济淮工程取得重大进展，该工程线路上的三座市政桥梁改建工程正式建成并通车，这是引江济淮第一批完工并通车的市政桥梁工程。这三座通车的桥梁分别为巢湖路桥、翡翠路桥和创新大道桥，均位于安徽合肥市的肥西县城，是当地通往合肥市主城区的重要交通桥梁。这三座市政桥梁的放行通车，将大大缓解肥西县通往合肥主城区的交通压力，对肥西县区域路网结构优化以及后期引江济淮市政桥梁工程建设具有重要的示范作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5470555.d.html</link>
+            <guid>2013755</guid>
+            <pubDate>Sat, 06 Feb 2021 10:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  比特币重回40000美元/枚上方，为1月14日以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5470478.d.html</link>
+            <guid>2013754</guid>
+            <pubDate>Sat, 06 Feb 2021 10:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利联盟党主席萨尔维尼：我们与德拉基在企业政策上的想法最为接近。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4484033.d.html</link>
+            <guid>2013753</guid>
+            <pubDate>Sat, 06 Feb 2021 10:45:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委维斯科：不能认为公共债务可以无限期增加。随着经济前景的不确定性减弱，对经济的支持措施应该变得更加有选择性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4483013.d.html</link>
+            <guid>2013751</guid>
+            <pubDate>Sat, 06 Feb 2021 10:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行管委维斯科：对意大利政策质量和经济前景的信心恢复，可能会进一步降低公共债务的溢价风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468778.d.html</link>
+            <guid>2013750</guid>
+            <pubDate>Sat, 06 Feb 2021 10:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行管委维斯科：一旦紧急情况结束，意大利必须从支持措施转向增长所需的改革和投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4482789.d.html</link>
+            <guid>2013749</guid>
+            <pubDate>Sat, 06 Feb 2021 10:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行管委维斯科：意大利银行业的资本状况继续加强。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468506.d.html</link>
+            <guid>2013748</guid>
+            <pubDate>Sat, 06 Feb 2021 10:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行管委维斯科：支出仍受疫情担忧限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4482746.d.html</link>
+            <guid>2013747</guid>
+            <pubDate>Sat, 06 Feb 2021 10:29:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行管委维斯科：财政政策必须以降低债务比率为目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468486.d.html</link>
+            <guid>2013746</guid>
+            <pubDate>Sat, 06 Feb 2021 10:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委维斯科：预计经济复苏将从今年春季开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468426.d.html</link>
+            <guid>2013745</guid>
+            <pubDate>Sat, 06 Feb 2021 10:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行管委维斯科：未来将面临“非常大的”风险，主要风险之一是遏制新冠疫情的难度超出预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468403.d.html</link>
+            <guid>2013744</guid>
+            <pubDate>Sat, 06 Feb 2021 10:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：Facebook呼吁缅甸当局解除对社交媒体的封锁。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5468142.d.html</link>
+            <guid>2013743</guid>
+            <pubDate>Sat, 06 Feb 2021 10:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  黑龙江省黑河市应对新冠肺炎疫情领导小组指挥部交通运输组：自2021年2月7日起，黑河市区域内县内、县际客运班车恢复营运。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4481472.d.html</link>
+            <guid>2013742</guid>
+            <pubDate>Sat, 06 Feb 2021 10:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  习近平春节前夕视察看望空军航空兵某师，向全体人民解放军指战员、武警部队官兵、军队文职人员、民兵预备役人员致以新春祝福。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4479896.d.html</link>
+            <guid>2013740</guid>
+            <pubDate>Sat, 06 Feb 2021 10:03:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国家主席习近平6日致电第34届非洲联盟峰会，向非洲国家和人民表示热烈祝贺，习近平祝愿非洲国家和人民在联合自强、发展进步的道路上不断取得更大成就。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4479878.d.html</link>
+            <guid>2013739</guid>
+            <pubDate>Sat, 06 Feb 2021 10:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“十四五”时期山东年均增速设定为5.5％左右】 山东省十三届人大五次会议召开第二次新闻发布会，关于《山东省国民经济和社会发展第十四个五年规划和2035年远景目标纲要》，山东省政府新闻发言人于成河介绍，规划纲要明确提出的总体目标是：到2035年基本建成新时代现代化强省，未来5年着力实现“七个走在前列”“九个强省突破”。经过深入测算，山东省里将“十四五”时期年均增速设定为5.5%左右，工作中力争达到6%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4479584.d.html</link>
+            <guid>2013738</guid>
+            <pubDate>Sat, 06 Feb 2021 10:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【广西开展打击海洋非法捕捞专项治理行动】从广西壮族自治区农业农村厅获悉，广西近日启动为期一年的打击海洋非法捕捞专项治理行动，对使用违规渔具、毒鱼、电鱼等破坏渔业资源的非法捕捞行为进行严打。下一步，广西将继续推进专项治理行动，对重点水域、重点区域开展彻底排查，掌握动态信息，全力摸排、打击非法捕捞、运输、经营的地下产业链。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4478212.d.html</link>
+            <guid>2013736</guid>
+            <pubDate>Sat, 06 Feb 2021 09:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑龙江省新冠肺炎救治中心新冠肺炎重症患者清零】今天，经专家组评估，黑龙江省新冠肺炎救治中心最后4名新冠肺炎重型患者，转为普通型。黑龙江省新冠肺炎救治中心重型患者全部清零，黑龙江省新冠肺炎患者重症患者清零。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5463553.d.html</link>
+            <guid>2013735</guid>
+            <pubDate>Sat, 06 Feb 2021 09:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  马来西亚周六新增3847例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4477430.d.html</link>
+            <guid>2013734</guid>
+            <pubDate>Sat, 06 Feb 2021 09:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：法国波尔多居民楼爆炸事件至少造成三人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5461668.d.html</link>
+            <guid>2013733</guid>
+            <pubDate>Sat, 06 Feb 2021 09:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中金公司完成国内券商首单代客结售汇业务】中国国际金融股份有限公司于2月5日成功为平安国际融资租赁（天津）有限公司办理了一笔差额交割远期结售汇业务，实现了中金公司代客结售汇业务零的突破。在本次交易中，平安国际融资租赁（天津）有限公司叙做了名义本金3000万美元的一年期远期购汇，到期以人民币差额结算，用以对冲外币负债的汇率风险。]]></title>
+            <guid>2013732</guid>
+            <pubDate>Sat, 06 Feb 2021 09:36:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：法国波尔多中部居民楼发生爆炸，警方怀疑此次爆炸为煤气泄漏引起的。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4474541.d.html</link>
+            <guid>2013731</guid>
+            <pubDate>Sat, 06 Feb 2021 09:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄专家：俄“ EpiVacCorona”疫苗对过敏和癌症患者或更安全】据俄罗斯卫星通讯社2月6日消息，莫斯科斯科尔科沃管理学院健康发展中心主任玛丽娜·维尔达诺娃称，较其他疫苗，俄罗斯的“EpiVacCorona”新冠病毒疫苗对过敏患者和癌症患者可能更安全，而“Kovivak”灭活疫苗则在运输上更方便。维尔达诺娃还提到，俄罗斯科学院楚马科夫联邦研究中心研发的第三款“Kovivak”灭活疫苗将在4月份面世。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4472916.d.html</link>
+            <guid>2013730</guid>
+            <pubDate>Sat, 06 Feb 2021 09:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  印尼报告新增12156例新冠肺炎确诊病例，新增191例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5457183.d.html</link>
+            <guid>2013729</guid>
+            <pubDate>Sat, 06 Feb 2021 09:11:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【香港新增新冠肺炎确诊病例19例 累计确诊10608例】香港特区政府卫生署卫生防护中心2月5日下午公布，截至当日零时，香港新增新冠肺炎确诊病例19例，其中6例无感染源头，3例为输入性病例。香港累计报告新冠肺炎确诊病例10608例。此外，香港特区政府卫生署宣布，全港地区的所有住宅，一旦发现1例以上新增确诊病例，政府就会考虑把整栋大厦列入强制检测范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5456571.d.html</link>
+            <guid>2013728</guid>
+            <pubDate>Sat, 06 Feb 2021 09:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际奥委会委员查德·庞德表示，如果新冠疫情危机加剧，国际奥委会有权取消东京奥运会。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4469564.d.html</link>
+            <guid>2013726</guid>
+            <pubDate>Sat, 06 Feb 2021 08:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科兴控股生物技术有限公司宣布，国家药品监督管理局已于2月5日依法批准公司旗下子公司北京科兴中维生物技术有限公司研制的新型冠状病毒灭活疫苗克尔来福在国内附条件上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4468385.d.html</link>
+            <guid>2013724</guid>
+            <pubDate>Sat, 06 Feb 2021 08:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【崔东树：2020年世界新能源车286万，中国占41%】 乘联会秘书长崔东树发文称，2020年全球广义新能源乘用车销量达到516万台，同比增速达到17%。其中插混、纯电动、燃料电池的狭义新能源车全球销量达到286万台，同比增长36%。中国新能源乘用车19年的世界份额达到51%。但2020年受到政策环境与疫情等的影响，中国新能源车市场世界地位下降到41%，欧洲追赶超越态势明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5453116.d.html</link>
+            <guid>2013723</guid>
+            <pubDate>Sat, 06 Feb 2021 08:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  数小时前特斯拉CEO埃隆·马斯克在推特上发起一项投票，未来地球上的货币是狗狗币还是所有其他加密货币？截至目前，在超100万次投票中，有71.9%的网友选择了狗狗币，28.1%的网友选择了其他货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5452640.d.html</link>
+            <guid>2013722</guid>
+            <pubDate>Sat, 06 Feb 2021 08:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海洋山港LNG码头天然气同期接卸量创下历史新高】今天一艘马来西亚籍红宝石公主号LNG（液化天然气）运输船在上海洋山港LNG码头接卸完成14.5万立方液化天气。今年以来已有11艘LNG运输船靠泊洋山港，洋山LNG接收站接卸量创下同期历史新高。]]></title>
+            <guid>2013721</guid>
+            <pubDate>Sat, 06 Feb 2021 08:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中金公司完成国内券商首单代客结售汇业务】中国国际金融股份有限公司于昨日成功为平安国际融资租赁（天津）有限公司办理了一笔差额交割远期结售汇业务，实现了中金公司代客结售汇业务零的突破，这也是国内证券公司的首单代客结售汇业务。在本次交易中，平安国际融资租赁（天津）有限公司叙做了名义本金3000万美元的一年期远期购汇，到期以人民币差额结算，用以对冲外币负债的汇率风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5451249.d.html</link>
+            <guid>2013720</guid>
+            <pubDate>Sat, 06 Feb 2021 08:17:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  俄罗斯新增新冠肺炎死亡病例497例，累计死亡病例达76229例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5450339.d.html</link>
@@ -145,465 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4449458.d.html</link>
             <guid>2013688</guid>
             <pubDate>Sat, 06 Feb 2021 05:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【昂山素季的澳大利亚顾问自曝“被扣押”】路透社刚刚爆料，缅甸国务资政昂山素季的澳大利亚顾问自曝“被扣押”。昂山素季的澳大利亚经济顾问肖恩·图内尔（Sean Turnell）6日向路透社表示，“我猜你很快就会知道，我正在被扣押。”图内尔还说，自己“被指控了，暂还不确定是（被指控）什么。我很好，很强大，没有任何罪恶感。”报道说，他在发来的信息中还附带一个微笑的表情符号。路透社称，随后无法联系到图内尔。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5432920.d.html</link>
-            <guid>2013685</guid>
-            <pubDate>Sat, 06 Feb 2021 05:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球制造业保持稳定态势】中国物流与采购联合会今天（6日）发布了1月份全球制造业采购经理指数。指数较上月略有回落，全球制造业增速较上月有所放缓，但仍保持恢复态势，整体运行较为稳定。1月份，全球制造业采购经理指数为54.4%，较上月回落0.8个百分点，但连续7个月保持在50%以上。分区域看，亚洲、欧洲、美洲制造业采购经理指数较上月均有不同程度下降，非洲制造业采购经理指数则较上月小幅上升。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4447085.d.html</link>
-            <guid>2013684</guid>
-            <pubDate>Sat, 06 Feb 2021 05:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【央视评沈阳某母婴中心多名婴儿染肺炎：严查漏洞 敲响警钟！】央视评论“沈阳某母婴中心多名婴儿染肺炎”称，护理机构本该提供专业育儿服务，现在却连基本的卫生保障都做不到；还有家长反映有新生儿确诊后，护理中心未及时通知家长防范，是否属实？疫情之下，规范管理对公共卫生健康的重要性，如何强调都不为过！漏洞出在哪儿，需严查！]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5432724.d.html</link>
-            <guid>2013683</guid>
-            <pubDate>Sat, 06 Feb 2021 05:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西将加购2000万剂中国新冠疫苗】巴西圣保罗州州长周四表示，巴西正在就加购2000万剂中国新冠疫苗进行谈判。巴西的疫情依旧严峻，造成近23万人死亡。 上个月，巴西卫生部长宣布，巴西联邦政府已与圣保罗州布坦坦研究所签订协议，计划购买1亿剂由北京科兴中维生物技术有限公司研发的克尔来福新冠疫苗。布坦坦研究所将于4月底之前交付首批4600万剂疫苗，其余5400万剂计划在今年内交付。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5432589.d.html</link>
-            <guid>2013682</guid>
-            <pubDate>Sat, 06 Feb 2021 05:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【克宫回应拜登首次外交政策讲话涉俄内容：“不接受”！】据俄新社5日消息，谈及拜登上任后发表的首次外交政策演讲中涉及俄罗斯的表态，克里姆林宫严词拒绝。俄新社援引俄总统新闻秘书佩斯科夫话说：“某些‘最后通牒’的评论对我们来说通常是不可接受的，我们已经说过我们将不会听取此类声明，（以及）某些指导性声明，我们不会这么做。”当地时间4日早些时候，美国总统拜登在国务院发表了上任后的首次外交政策演讲。俄新社称，拜登表示，美国将迫使俄罗斯为自己的行为“付出代价”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4445509.d.html</link>
-            <guid>2013681</guid>
-            <pubDate>Sat, 06 Feb 2021 05:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据路透统计：美国周五新增至少165999例新冠肺炎确诊病例，累计达2691万例，新增至少3582例死亡病例，累计达459872例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5431091.d.html</link>
-            <guid>2013680</guid>
-            <pubDate>Sat, 06 Feb 2021 05:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据央视新闻：当地时间2月6日，缅甸仰光发生大规模示威游行，缅甸军方出动大批军警控制局面。截至记者发稿时，民众与警方正在对峙，现场气氛紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5430501.d.html</link>
-            <guid>2013679</guid>
-            <pubDate>Sat, 06 Feb 2021 05:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据新华财经：记者从国家管网西部管道公司了解到，今年1月，中亚天然气管道单日输送天然气量峰值达1.53亿立方米，累计向国内输送天然气38.7亿立方米，相当于北京40天的用气量。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5430451.d.html</link>
-            <guid>2013678</guid>
-            <pubDate>Sat, 06 Feb 2021 05:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  韩国新增12例感染变种新冠病毒的病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4443195.d.html</link>
-            <guid>2013677</guid>
-            <pubDate>Sat, 06 Feb 2021 05:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【500ETF融券激增多次被暂停，机构一边“抱团”一边做空？真相在此】近期市场震荡加剧，500ETF融券激增，华夏中证500ETF更是反复提示融券交易风险，引起广泛关注。甚至有猜测认为，500ETF触及暂停交易阀值，是因为机构一边“抱团”一边做空。对此，业内人士明确表示，上述猜测并不准确。首先，500ETF融券投资者主要为个人投资者和量化私募。其次，融券不完全是做空行为，也是多空平衡的表现形式。据悉，500ETF融券卖出需求旺盛的一个主要原因，是中证500股指期货长期贴水，通过股指期货做空成本高于融券卖出成本。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4442574.d.html</link>
-            <guid>2013676</guid>
-            <pubDate>Sat, 06 Feb 2021 05:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[狗狗币一度走高，日内涨近10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4440361.d.html</link>
-            <guid>2013675</guid>
-            <pubDate>Sat, 06 Feb 2021 05:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO埃隆·马斯克在推特发起一项调查，未来地球上的货币是狗狗币还是所有其他加密货币？]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5425412.d.html</link>
-            <guid>2013672</guid>
-            <pubDate>Sat, 06 Feb 2021 04:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国新增490例新冠肺炎确诊病例，累计23134例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4438279.d.html</link>
-            <guid>2013670</guid>
-            <pubDate>Sat, 06 Feb 2021 04:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杨洁篪应约同美国国务卿布林肯通电话】杨洁篪表示，中美关系发展给两国人民带来巨大利益，也促进了世界和平和繁荣。当前中美关系正处在关键时刻。中国政府对美政策始终保持高度稳定性和连续性。中方敦促美方纠正一段时期以来的错误，同中方一道，秉持不冲突不对抗、相互尊重、合作共赢的精神，聚焦合作，管控分歧，推动中美关系健康稳定向前发展。布林肯表示，美中关系对两国和世界都非常重要。美方愿同中方发展稳定、建设性的双边关系。布林肯重申，美方将继续奉行一个中国政策，遵守中美三个联合公报，这一政策立场没有变化。（外交部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4437656.d.html</link>
-            <guid>2013669</guid>
-            <pubDate>Sat, 06 Feb 2021 04:39:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱优腾联合开启首个网络电影春节档】今日上午，由国家广播电视总局网络视听节目管理司指导，中国电影家协会网络电影工作委员会联合爱奇艺、腾讯视频、优酷联合正式提出网络电影春节档的概念，并倡议以网络电影为互联网电影的统一称谓。现场，中国电影家协会网络电影工作委员会协同云合数据、爱奇艺、腾讯、优酷三大平台共同发布了《2020年中国网络电影行业年度报告》。2021网络春节档电影片包括了《少林寺之得宝传奇》《发财日记》这类以单片付费模式网络发行的新片、《吉祥如意》《紧急救援》《拆弹专家2》等院线热门大片，以及精品网络电影和院线电影纪录片等众多优质内容上新。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5423098.d.html</link>
-            <guid>2013668</guid>
-            <pubDate>Sat, 06 Feb 2021 04:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国新增10458例新冠肺炎确诊病例，累计确诊2275394例。德国新增689例新冠肺炎死亡病例，累计死亡61286例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4437033.d.html</link>
-            <guid>2013667</guid>
-            <pubDate>Sat, 06 Feb 2021 04:33:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[兴业证券：2021-2022年全球汽车行业有望迎来恢复性增长，预计2021年销量有望同比增长12.4%，2022年有望同比增长8.4%，欧美主要国家汽车销有望实现双位数增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5421725.d.html</link>
-            <guid>2013666</guid>
-            <pubDate>Sat, 06 Feb 2021 04:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国宣布支持尼日利亚的世贸组织总干事人选】美国贸易代表办公室5日宣布，美国政府支持尼日利亚人恩戈齐·奥孔乔-伊韦阿拉成为世界贸易组织总干事候选人。由于韩国产业通商资源部通商交涉本部长俞明希5日宣布退出世贸组织总干事遴选，奥孔乔-伊韦阿拉目前已成为新任总干事唯一候选人。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4434105.d.html</link>
-            <guid>2013665</guid>
-            <pubDate>Sat, 06 Feb 2021 04:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本周，北向资金净流入253.26亿元】 净买入额居前三的是宁德时代、阳光电源、长江电力，净买入额分别是39.1亿元、13.99亿元、11.19亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4430687.d.html</link>
-            <guid>2013663</guid>
-            <pubDate>Sat, 06 Feb 2021 04:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天风证券：景气度趋势是资金加仓科创板个股的重要标准】天风证券今日最新研究报告指出，景气度趋势是资金加仓科创板个股的重要标准。从2020年Q4资金新增持仓标的来看，主要集中在电气设备、化工、机械设备、电子等行业，这也和当前景气度较高的板块相一致。具体来看，在主动权益类基金新增持仓的44只科创板个股中，15只标的已经公布年报业绩预报，2020年年报业绩增速中位数为53.6%，较2020Q3的42.4%进一步改善，这也印证了资金对景气度改善标的的偏好。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5416043.d.html</link>
-            <guid>2013662</guid>
-            <pubDate>Sat, 06 Feb 2021 03:59:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京大兴天宫院北里社区2月6日12时起解封】记者从北京市大兴区新冠肺炎疫情防控工作领导小组了解到，天宫院北里社区，自2021年2月6日12时起解除封闭管理。 解除封闭管理的天宫院北里社区居民，在开展7天健康监测的同时，应遵守常态化疫情防控工作要求，落实戴口罩、勤洗手、少外出、不聚集等防护措施。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5415916.d.html</link>
-            <guid>2013661</guid>
-            <pubDate>Sat, 06 Feb 2021 03:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：资金面最紧的时刻应该已经过去 2月慢涨延续】中信证券今日最新研报指出，国内资金面最紧的时刻应该已经过去，预计整体流动性环境仍将支持实体经济的平稳增长。2月A股依然处于资金平稳流入驱动的轮动慢涨下半场。配置上，建议紧扣“五大安全”和业绩超预期两条主线，“五大安全”中关注当前仍具性价比的品种，包括半导体设备、信创、稀土、军工、饲料和种子等；业绩超预期和一季报弹性方面，关注各大板块细分主线的龙头品种。此外，建议继续增配港股中内地机构偏好和估值“洼地”两条主线，重点关注互联网龙头、电信运营商和在线教育。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4430008.d.html</link>
-            <guid>2013660</guid>
-            <pubDate>Sat, 06 Feb 2021 03:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京冬奥会场馆100%清洁能源供电】为了进一步提升赛时场馆保障能力，国网北京电力借鉴2008年北京奥运会经验，牵头制定冬奥场馆电力设施建设原则和6项技术标准。目前，28项北京2022年冬奥会配套电网工程已经全部建成投运。同时，电网建设项目还将张北地区的绿色清洁能源接入北京电网，北京冬奥会所有场馆实现100%绿电供应。 （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5415580.d.html</link>
-            <guid>2013659</guid>
-            <pubDate>Sat, 06 Feb 2021 03:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王老吉药业公开抗新冠中药专利：对发热咳嗽等症状缓解率较高】2月5日，广州王老吉药业股份有限公司公开了一项名为“一种中药组合物在制备抗新型冠状病毒药物中的应用”的专利，公开号CN112316032A，申请日期为2020年11月。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5414612.d.html</link>
-            <guid>2013658</guid>
-            <pubDate>Sat, 06 Feb 2021 03:49:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京惠民文化消费电子券将于10日发放】据北京日报2月6日消息，根据本市“福满京城 春贺神州”2021年春节、元宵节文化活动安排，2021年北京惠民文化消费电子券将于2月10日提前启动发放，向市民群众送文惠、贺新春。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4427842.d.html</link>
-            <guid>2013657</guid>
-            <pubDate>Sat, 06 Feb 2021 03:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈光明旗下千亿睿远基金股权激励获批】2月5日晚间，证监会官网披露了《关于核准睿远基金管理有限公司变更股权的批复》，备受瞩目的睿远基金股权激励终于“落地”。批复文件显示，睿远基金第二大股东、公司副总傅鹏博将其持有的20.51%股权转让给赵枫以及上海怡远企业管理中心等4个有限合伙企业。股权变更完成之后，睿远基金注册资本保持1亿元不变，总经理陈光明仍持有睿远基金55%股权，为公司第一大股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5411840.d.html</link>
-            <guid>2013654</guid>
-            <pubDate>Sat, 06 Feb 2021 03:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大立光：1月营收46.07亿元 月减6%为六个月来低点】大立光昨日公布，1月营收46.07亿元，月减6%，年增12%，为六个月来低点。大立光表示，现在进入传统淡季，加上半导体元件供应吃紧等因素，让1月营收持续较前月下滑。2月逢农历过年，工作天数减少，2月拉货仍呈现月减状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5410993.d.html</link>
-            <guid>2013650</guid>
-            <pubDate>Sat, 06 Feb 2021 03:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海洋山港LNG码头天然气同期接卸量创下历史新高】今天（6日）一艘马来西亚籍红宝石公主号LNG（液化天然气）运输船在上海洋山港LNG码头接卸完成14.5万立方液化天气。今年以来已有11艘LNG运输船靠泊洋山港，洋山LNG接收站接卸量创下同期历史新高。上海洋山边检站等口岸查验单位严密疫情防控措施，保障船舶安全快速通关，高效接卸作业，保障牛年春节期间上海居民生活用气无忧。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5410712.d.html</link>
-            <guid>2013644</guid>
-            <pubDate>Sat, 06 Feb 2021 03:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球还要多久才能恢复到疫情之前的正常状态？预计7.4年】根据美国首席传染病专家福奇等官员的说法，“要想让生活一切回归正常，疫苗接种须覆盖70%至85%人口。”全球最大的疫苗接种数据库——彭博社的疫苗追踪项目数据显示， 以两剂疫苗75%的覆盖率为目标，全球还需要7.4年才能恢复疫情之前的常态。通过疫苗接种情况来衡量，以色列是世界上疫苗接种率最高的国家，有望在短短两个月内实现75%的覆盖率。美国将在2022年之前达到这个水平。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4423243.d.html</link>
-            <guid>2013601</guid>
-            <pubDate>Sat, 06 Feb 2021 03:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南离岛免税购物邮寄服务可实现72小时内送达】从海南省邮政管理局召开的新闻发布会获悉，海南离岛免税购物邮寄送达业务已正式启动，全国地市以上城市可保证72小时内送达，目前寄递服务邮费由免税经营企业支付。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5408508.d.html</link>
-            <guid>2013589</guid>
-            <pubDate>Sat, 06 Feb 2021 03:11:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重返社交媒体？！时隔1个月，特朗普在社交平台“gab”上发文】据英国《独立报》6日报道，美国前总统特朗普日前重新启用了其在社交媒体“gab”上的账号，并于当地时间2月5日上传了其律师对他在下周举行的第二次弹劾听证会上作证的要求的回应。《独立报》介绍说，自1月8日开始，特朗普首次在“gab”网站上发帖。当天特朗普发了3条贴文。在1月6日美国国会发生骚乱后，推特、脸书和YouTube等社交平台都采取行动，暂时冻结了特朗普的账户或删除了部分内容。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5405041.d.html</link>
-            <guid>2013527</guid>
-            <pubDate>Sat, 06 Feb 2021 02:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CAPSE发布《2021年2月春节后旅客出行意愿分析报告》，报告显示：整体来看，春运后期旅客的出行有明显的恢复趋势，春运后期出行人次预计是春运前期的4.3倍。（民航资源网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5403697.d.html</link>
-            <guid>2013505</guid>
-            <pubDate>Sat, 06 Feb 2021 02:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莱特币站上160美元/枚，日内涨3.11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4417954.d.html</link>
-            <guid>2013503</guid>
-            <pubDate>Sat, 06 Feb 2021 02:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南免税店评测：新店难以挑战中免】通过对免税店的影响消费者的各项因素进行分析，中免在三亚和海口的两家市内免税店不论是从地理位置、价格策略、品牌丰富度、运营面积还是柜员的专业度都处于行业领先地位，新开业免税店各有不足之处，与中免存在一定的差距，短时间内难以望其项背。（兴业证券）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5403599.d.html</link>
-            <guid>2013502</guid>
-            <pubDate>Sat, 06 Feb 2021 02:47:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拿下NASA大订单！SpaceX将负责SPHEREx发射任务】 据俄罗斯卫星网，美国国家航空航天局(NASA)与美国太空探索技术公司(SpaceX)签订了SPHEREx太空望远镜项目发射任务的合同。这一任务旨在了解宇宙的演化和星系的形成。SpaceX的“猎鹰9号”火箭将负责把太空望远镜发射升空。NASA还称，新任务的费用将近1亿美元。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5402520.d.html</link>
-            <guid>2013481</guid>
-            <pubDate>Sat, 06 Feb 2021 02:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2月6日起京津地铁乘车二维码实现互联互通】北京市交通委2月6日发布称，即日起，北京、天津地铁乘车二维码实现互联互通，范围包括两市城市轨道交通所有运营线路及车站。北京市民可使用“亿通行APP”乘坐天津地铁，天津市民可使用“天津地铁APP”乘坐北京地铁，切实便捷京、津两地乘客跨城地铁出行。北京交通部门还在推进与石家庄、广州等城市地铁乘车二维码互联互通工作，力争2021年实现。（新华视点）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4416587.d.html</link>
-            <guid>2013472</guid>
-            <pubDate>Sat, 06 Feb 2021 02:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：预计到6月1日 美国新冠肺炎累计死亡人数或超70万人】根据华盛顿大学健康指标与评估研究所的最新预测，到6月1日，预计美国累计新冠肺炎死亡人数或将达到63.1万人。最坏的情况下，可能会升至70.3万人。这一预测在很大程度上是基于疫苗接种推广进度和新冠病毒变异株的传播速度做出的。该机构人员警告称，如果接种过疫苗的人们以为自己安全并开始大量出行或者旅游，造成出行人数出现反弹趋势，到4月和5月，美国17个州的单日新增死亡人数可能会再次上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5401014.d.html</link>
-            <guid>2013450</guid>
-            <pubDate>Sat, 06 Feb 2021 02:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【什么信号？SWIFT携手中国央行设合资公司，涉及数字人民币跨境应用？】 从国家企业信用信息公示系统获悉，SWIFT联手中国人民银行清算总中心、跨境银行间支付清算有限责任公司、央行数字货币研究所和中国支付清算协会，于1月16日在北京成立了金融网关信息服务有限公司。这是SWIFT首次与中国支付清算机构共同成立合资公司。在不少业内人士看来，新公司的设立是在为数字人民币跨境应用以及未来的人民币国际化做准备。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4414873.d.html</link>
-            <guid>2013433</guid>
-            <pubDate>Sat, 06 Feb 2021 02:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华微评：德勤被指有猫腻 不能当热闹看】会计师事务所德勤内部曝出一份举报PPT引发广泛关注，据称涉及多起违规审计，牵扯多家上市公司。对此，相关监管部门应高度重视，不置身事外，要及时介入，锁定线索，固定证据，一查到底，不姑息、不手软，坚决维护审计的严肃性、可信度。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5400268.d.html</link>
-            <guid>2013432</guid>
-            <pubDate>Sat, 06 Feb 2021 02:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行开出2021年首笔罚单，剑指金融机构客户身份识别义务】 2月5日，央行向中信银行连开15张罚单。罚单信息显示，因未按规定履行客户身份识别义务等四项违法行为，该行被处以罚款2890万元；与此同时，该行时任零售银行部常务副总经理等多位相关责任人也一并被罚，共计罚款61.5万元。从中信银行处获悉，这是央行2019年对中信银行检查发现问题的处理结果。自2019年接受检查期间，该行按照“立查立改、举一反三”原则，积极开展整改工作。截至目前，具体问题已基本完成整改。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4410414.d.html</link>
-            <guid>2013374</guid>
-            <pubDate>Sat, 06 Feb 2021 02:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市首个碳中和主题公园将建】记者近日了解到，温榆河公园昌平一期将打造北京市首个碳中和主题公园，预计2021年底建成开园。公园在设计过程中，纳入了减碳行为体系，在主路旁设置互动装置和虚拟骑行车、虚拟马拉松跑道等，市民将来可以扫码注册建立个人“碳积分账户”，通过在园内虚拟骑行游览、人脸识别打卡跑步、参与垃圾分类等互动设施积攒“碳积分”，用来兑换公园内氢燃料观光车票、低碳集市植物种子、主题文创周边产品等。（中国证券网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5394475.d.html</link>
-            <guid>2013340</guid>
-            <pubDate>Sat, 06 Feb 2021 02:02:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传TikTok要在都柏林建新总部，可容纳约2000名员工】2月6日，知情人士透露，字节跳动旗下的短视频服务TikTok已经在爱尔兰都柏林确定五个候选地点，计划在其中之一建设的新总部可容纳约2000名员工。据这位不愿透露姓名的人士透露，TikTok正在寻找大约18580平方米的办公空间。知情人士表示，TikTok计划在今年年底前将员工搬迁至新办公地，具体时间主要受当地疫情形势的影响。该公司发言人未能立即置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5394380.d.html</link>
-            <guid>2013339</guid>
-            <pubDate>Sat, 06 Feb 2021 02:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海新房摇号推出计分制 优先满足 “无房家庭”】 今天（2月6日），上海新一轮楼市调控“沪十条”中有关新房摇号的新规正式落地实施。“沪十条”实施以来首次新开的3处楼盘，全部采用计分制，优先满足 “无房家庭”自住购房需求。购房人在认购后，将综合家庭、户籍、拥有的住房状况、5年内在沪购房记录以及在沪缴纳社保五大因素，拥有一个积分；再按照摇号人数比房源多30%的原则，按积分高低排序，选取进入公证摇号选房的人员名单。（看看新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4408504.d.html</link>
-            <guid>2013325</guid>
-            <pubDate>Sat, 06 Feb 2021 01:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞波币日内下跌超5%，现报0.43美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5392712.d.html</link>
-            <guid>2013281</guid>
-            <pubDate>Sat, 06 Feb 2021 01:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【住房租赁监管升级 “租金贷”篱笆扎紧】2月以来，深圳、北京、上海三地先后发布了针对住房租赁资金监管的文件，直指长租公寓平台“资金池”问题和“租金贷”资金监管问题。深圳、北京、上海近日发布的文件，一个共同点即严控“租金贷”拨付对象，“租金贷”资金不得拨付给住房租赁企业，只能拨付给个人。业内人士认为，这一监管措施有利于制止租赁平台利用“租金贷”盲目扩张，从根本上杜绝“爆雷”事件发生。“对银行业影响不大，不少银行前两年已识别出租金贷款的相关风险，减少或退出在这个领域的布局。”一位国有大行华南地区业务人士告诉记者。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5390951.d.html</link>
-            <guid>2013244</guid>
-            <pubDate>Sat, 06 Feb 2021 01:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【散户逼空狂潮影响下 Reddit应用1月安装量同比翻一倍】Sensor Tower商店情报数据显示，在“散户逼空华尔街”狂潮中，散户投资者们所聚集的社交应用Reddit的1月全球下载量达到660万，同比增长128%，同时1月美国月活用户人数（MAU）也同比增长54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4404944.d.html</link>
-            <guid>2013235</guid>
-            <pubDate>Sat, 06 Feb 2021 01:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：缅甸发布指令，要求电信公司屏蔽Twitter。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5390087.d.html</link>
-            <guid>2013233</guid>
-            <pubDate>Sat, 06 Feb 2021 01:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：昨日报告新增无症状感染者10例（境外输入9例）；当日转为确诊病例1例（无境外输入）；当日解除医学观察31例（境外输入8例）；尚在医学观察无症状感染者733例（境外输入283例）。]]></title>
-            <guid>2013145</guid>
-            <pubDate>Sat, 06 Feb 2021 01:19:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：昨日报告新增确诊病例12例，其中境外输入病例8例（上海5例，天津1例，广东1例，陕西1例），本土病例4例（黑龙江3例，吉林1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。]]></title>
-            <guid>2013143</guid>
-            <pubDate>Sat, 06 Feb 2021 01:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币站上39000美元，日内涨1.77%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4399615.d.html</link>
-            <guid>2013122</guid>
-            <pubDate>Sat, 06 Feb 2021 01:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥卫生部：墨西哥单日新增13051例新冠肺炎确诊病例，累计确诊达1912871例。墨西哥单日新增1368例新冠肺炎死亡病例，累计死亡达164290例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5383912.d.html</link>
-            <guid>2013102</guid>
-            <pubDate>Sat, 06 Feb 2021 01:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旅客乘火车进京须持7日内核酸检测证明】据铁路12306手机客户端消息，按照首都疫情防控要求，低风险地区进京人员须持抵京前7日内核酸检测阴性证明，乘车前请确认核酸检测阴性证明以备查验。这一消息从全国铁路客户服务热线12306得到证实，购买进京车票的旅客，在进站时须提供7日内核酸检测阴性证明(含电子版检测证明)，时间自1月31日起至3月15日结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4396662.d.html</link>
-            <guid>2013097</guid>
-            <pubDate>Sat, 06 Feb 2021 00:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6787亿美元！美国2020年贸易赤字创12年新高】据路透社5日报道，因新冠肺炎疫情持续蔓延对物流相关服务的影响，2020年美国贸易赤字创下过去12年来的新高。美国商务部5日发布的数据显示，2020年美国贸易赤字跳涨17.7%，达到6787亿美元，创下自2008年全球金融危机暴发以来的年度最高值。其中出口贸易下降15.7%，达到2010年以来的最低水平，进口贸易也下跌9.5%，创下四年以来的新低。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5381138.d.html</link>
-            <guid>2013095</guid>
-            <pubDate>Sat, 06 Feb 2021 00:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登重申关于新冠纾困计划工作重点将加强疫苗接种工作力度】美国总统拜登于当地时间2月5日在白宫发表讲话，强调了新冠肺炎纾困计划将着重在加强新冠疫苗接种工作、为美国人民提供纾困支票和失业保险、帮助小企业创造就业机会和提高最低工资等方面进行工作部署。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4394976.d.html</link>
-            <guid>2013083</guid>
-            <pubDate>Sat, 06 Feb 2021 00:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美债收益率上行推高美元 对新兴市场影响有限】经济复苏预期强烈，美债收益率重拾升势，10年期美债收益率持续收于1%以上，推动美元指数走强至91关口以上。受访业内人士认为，考虑到美国经济实际前景，美债收益率上升空间有限，美元将在宽松货币政策背景下趋于走弱，新兴市场所受影响有限。“美元持续走软预期、新兴市场股市估值合理及盈利反弹势头强劲等，或将支持新兴市场风险市场表现。从全球市场范围来看，在经济复苏预期下，更看好新兴市场股市和全球中小盘股票。”花旗分析师认为。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4393367.d.html</link>
-            <guid>2013082</guid>
-            <pubDate>Sat, 06 Feb 2021 00:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国新增393例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5377823.d.html</link>
-            <guid>2013081</guid>
-            <pubDate>Sat, 06 Feb 2021 00:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高阳正式任职博时基金总经理】博时基金迎来新任总经理。今日，博时基金发布公告称，自2021年2月5日起，高阳正式就任博时基金总经理。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4391763.d.html</link>
-            <guid>2013080</guid>
-            <pubDate>Sat, 06 Feb 2021 00:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球最大黄金ETF--SPDR Gold Trust持仓较上日减少3.33吨，当前持仓量为1156.51吨。全球最大白银ETF--iShares Silver Trust持仓较上日减少141.58吨，当前持仓量为20364.27吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5375366.d.html</link>
-            <guid>2013079</guid>
-            <pubDate>Sat, 06 Feb 2021 00:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福克斯新闻取消“卢·道布斯今夜”节目，由特朗普坚定盟友主持】美国《赫芬顿邮报》刚刚消息，福克斯新闻取消了“卢·道布斯今夜”（“Lou Dobbs Tonight”）节目。消息称，该节目由美国前总统特朗普的坚定盟友卢·道布斯主持。 这一消息由《洛杉矶时报》首先报道，该节目将于当地时间周五（5日）最后一次播出。据报道，目前仍受雇于福克斯新闻的卢·道布斯以后将不会出现在其他节目中。 《赫芬顿邮报》介绍，道布斯是福克斯商业新闻电视台（Fox Business Network）收视率最高的主持人，也是特朗普的狂热支持者。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5375352.d.html</link>
-            <guid>2013078</guid>
-            <pubDate>Sat, 06 Feb 2021 00:13:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东昨日新增境外输入无症状感染者4例】2月5日0-24时，广东全省新增境外输入确诊病例1例，佛山报告，来自孟加拉国。新增境外输入无症状感染者4例，广州报告2例，均来自印度；佛山报告1例，来自沙特阿拉伯；江门报告1例，来自尼日利亚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5375175.d.html</link>
-            <guid>2013077</guid>
-            <pubDate>Sat, 06 Feb 2021 00:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北连续两天本地零新增】2021年2月5日0—24时，河北省无新增新型冠状病毒肺炎确诊病例，无新增死亡病例，无新增疑似病例，无新增无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4389505.d.html</link>
-            <guid>2013076</guid>
-            <pubDate>Sat, 06 Feb 2021 00:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉林省卫健委：2月5日0—24时，吉林全省新发现确诊病例1例（通化市1例），无症状感染者1例（通化市1例），均是通过对隔离医学观察人员开展主动检测筛查发现；有35例确诊病例达到新冠肺炎出院标准，治愈出院。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4388148.d.html</link>
-            <guid>2013075</guid>
-            <pubDate>Fri, 05 Feb 2021 23:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首家“合资转外资独资”寿险公司花落安联】记者昨日获悉，安联中国保险控股与中信信托达成产权转让协议，前者将收购后者所持有的中德安联人寿49%股权。交易完成后，中德安联人寿将成为安联中国保险控股的全资子公司。本次交易尚待银保监会批准后生效。一旦获批，中德安联人寿将成为此轮金融市场进一步开放后第二家外资独资寿险公司（第一家为友邦，模式为“分改子”），首家“合资转外资独资”寿险公司。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4388111.d.html</link>
-            <guid>2013074</guid>
-            <pubDate>Fri, 05 Feb 2021 23:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：特朗普不应该听取情报简报；一揽子纾困措施不太可能包括最低薪资上调，准备好就最低薪资进行两党谈判。]]></title>
-            <guid>2013073</guid>
-            <pubDate>Fri, 05 Feb 2021 23:57:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京连续7天本地零新增】5日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例和无症状感染者；治愈出院3例。（北京头条）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5373513.d.html</link>
-            <guid>2013072</guid>
-            <pubDate>Fri, 05 Feb 2021 23:56:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，韩国将放松社交距离限制措施，首尔以外的餐馆可以营业到晚上10点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5373226.d.html</link>
-            <guid>2013071</guid>
-            <pubDate>Fri, 05 Feb 2021 23:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今天18时起，上海宝山区临江新村（一、二村）小区调整为低风险地区】根据国务院联防联控机制有关要求，经上海市防控办研究决定，从2月6日18时起，将上海市宝山区临江新村（一、二村）小区由中风险地区调整为低风险地区，上海市其他区域风险等级不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5373165.d.html</link>
-            <guid>2013070</guid>
-            <pubDate>Fri, 05 Feb 2021 23:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲铝买家开始为低碳铝产品额外付费】 众多铝生产商已经在很长一段时期内兜售环境友好型冶炼工艺，认为那才是铝冶炼行业的未来。据研究机构Harbor Intelligence，本周，欧洲市场上，多笔所谓“绿色铝”铸坯及铸造产品的成交价较标准售价出现溢价。美国得州研究公司Austin主管Jorge Vazquez认为，欧洲铝市场的绿色交易不仅仅是一点点火花而已，已经出现来自消费和生产这两端的大型玩家。该公司在一份客户报告中指出，本周欧洲原铝的成交量大约为20万吨，其中好几笔交易所执行的溢价高达14美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4387312.d.html</link>
-            <guid>2013069</guid>
-            <pubDate>Fri, 05 Feb 2021 23:49:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[昨天上海无新增本地新冠肺炎确诊病例，新增5例境外输入病例。（上海发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5372793.d.html</link>
-            <guid>2013068</guid>
-            <pubDate>Fri, 05 Feb 2021 23:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登表示，他准备单独进行最低工资谈判，提高最低工资不太可能在一揽子救济计划中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4387035.d.html</link>
-            <guid>2013067</guid>
-            <pubDate>Fri, 05 Feb 2021 23:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国金融监管部门加强对券商Robinhood等类似游戏的APP监管力度】 Robinhood等券商的在线交易APP具备类似游戏的功能，已经引起美国最高经纪监管部门的重视，这反过来加重了Robinhood等券商、以及那些在1月份游戏驿站（GME）股价飙涨中发挥关键性作用的公司的监管负担。美国金融业监管局（FIRA）将加强审查前述APP的工作纳入年度审查的重点名单，称其将密切监控券商如何披露潜在风险和如何管控自己用户对在线交易工具的使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5372643.d.html</link>
-            <guid>2013066</guid>
-            <pubDate>Fri, 05 Feb 2021 23:45:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州期货交易所完成工商注册登记】近日，广州期货交易所完成工商注册登记，注册名称为广州期货交易所股份有限公司，注册资本为30亿元人民币，注册地点是广州市南沙区。从股东构成及股比情况来看，上海期货交易所、郑州商品交易所、大连商品交易所、中国金融期货交易所股份有限公司、中国平安保险（集团）股份有限公司的持股比例均为15%，广东珠江投资控股集团有限公司和广州金融控股集团有限公司的持股比例均为9%，香港交易及结算所有限公司的持股比例为7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5372549.d.html</link>
-            <guid>2013065</guid>
-            <pubDate>Fri, 05 Feb 2021 23:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、外交部发言人——中美共同利益远大于分歧；2、孙春兰强调，扎实推动“十四五”教育工作开好局起好步；3、《排污许可管理条例》3月1日起施行，排污单位应按证排污（权威发布）；4、辽宁5年提升435万农村人口供水保障水平；5、中欧班列连续9个月单月开行超千列。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5371842.d.html</link>
-            <guid>2013064</guid>
-            <pubDate>Fri, 05 Feb 2021 23:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：1、习近平春节前夕赴贵州看望慰问各族干部群众，向全国各族人民致以美好的新春祝福，祝各族人民幸福吉祥祝伟大祖国繁荣富强；2、中央党史和文献研究院，新近购藏马克思六封书信手稿原件。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4386203.d.html</link>
-            <guid>2013063</guid>
-            <pubDate>Fri, 05 Feb 2021 23:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江昨日新增3例确诊】2021年2月5日0-24时，黑龙江省新增新冠肺炎确诊病例3例（绥化市望奎县），1例为无症状感染者转为确诊病例，2例是在对集中隔离的密切接触者进行核酸检测中发现的；当日新增治愈出院确诊病例28例（绥化市望奎县23例、海伦市2例、安达市1例、北林区1例，哈尔滨市呼兰区1例）；无新增无症状感染者；当日解除无症状感染者医学观察23例（绥化市望奎县20例、安达市1例，齐齐哈尔市建华区1例，伊春市大箐山县1例）。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5371103.d.html</link>
-            <guid>2013062</guid>
-            <pubDate>Fri, 05 Feb 2021 23:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织：中国新冠疫苗的评估进程已处于非常后期的阶段】当地时间2月5日，世卫组织举行新冠肺炎例行发布会，世卫组织助理总干事玛丽安热拉·西芒表示，目前世卫组织对13种新冠疫苗展开评估，其中四种疫苗的评估进程处于非常后期的阶段，包括中国国药集团和科兴公司的两种新冠疫苗，世卫组织已派团队前往中国考察相关设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftssap4384958.d.html</link>
-            <guid>2013061</guid>
-            <pubDate>Fri, 05 Feb 2021 23:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织：全球新冠疫苗接种量已超新冠肺炎感染者总数】当地时间2月5日，世卫组织举行新冠肺炎例行发布会，世卫组织总干事谭德塞表示，全球新冠疫苗接种量已超新冠肺炎感染者总数，在如此短的时间内取得了令人瞩目的成就，这是一个好消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-06/detail-ikftpnny5370284.d.html</link>
-            <guid>2013060</guid>
-            <pubDate>Fri, 05 Feb 2021 23:16:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

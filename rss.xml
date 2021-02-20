@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Feb 2021 17:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2021 18:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国南方各州将在周末短暂回暖】据美国气象部门当地时间2月20日预测，美国南方各州将在周末经历短暂的气温快速回暖，让饱受暴风雪和严寒之苦的部分地区得到缓解。但是南方各州在经历短暂回暖后，会在下周中期再次受到冷空气影响。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7793814.d.html</link>
+            <guid>2033185</guid>
+            <pubDate>Sat, 20 Feb 2021 17:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家能源公司表示不会暂停在缅甸能源项目】近日，澳大利亚伍德赛德石油公司表示尽管目前缅甸政局动荡，但该公司在缅甸的能源勘探和开采工作将如期进行；法国道达尔石油公司称对目前的缅甸局势表示关注，将努力保证公司员工与合作商员工的人身安全，并希望重新看到和平与繁荣的缅甸；韩国浦项国际发言人崔有涵称，缅甸政局动荡并未影响在缅甸的天然气生产。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8773374.d.html</link>
+            <guid>2033184</guid>
+            <pubDate>Sat, 20 Feb 2021 17:39:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据俄罗斯卫星网：三枚火箭弹击中伊拉克首都巴格达附近的美国巴拉德空军基地，造成一人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8770883.d.html</link>
+            <guid>2033183</guid>
+            <pubDate>Sat, 20 Feb 2021 17:30:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国白宫：拜登和特鲁多将就双方在应对新冠疫情、气候变化和经济关系方面的共同努力进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7784847.d.html</link>
+            <guid>2033182</guid>
+            <pubDate>Sat, 20 Feb 2021 17:23:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  加拿大总理特鲁多和美国总统拜登将于2月23日进行视讯会议。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7781953.d.html</link>
@@ -579,29 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8616262.d.html</link>
             <guid>2033074</guid>
             <pubDate>Sat, 20 Feb 2021 09:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[银保监会：商业银行与合作机构共同出资发放互联网贷款的，与单一合作方（含其关联方）发放的本行贷款余额不得超过本行一级资本净额的25%。商业银行与全部合作机构共同出资发放的互联网贷款余额不得超过本行全部贷款余额的50%。]]></title>
-            <guid>2033073</guid>
-            <pubDate>Sat, 20 Feb 2021 09:03:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国银保监会办公厅关于进一步规范商业银行互联网贷款业务的通知：商业银行与合作机构共同出资发放互联网贷款的，应严格落实出资比例区间管理要求，单笔贷款中合作方出资比例不得低于30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7631860.d.html</link>
-            <guid>2033072</guid>
-            <pubDate>Sat, 20 Feb 2021 09:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯新增新冠肺炎确诊病例12953例，累计确诊超415万例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftssap7631395.d.html</link>
-            <guid>2033071</guid>
-            <pubDate>Sat, 20 Feb 2021 09:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[狗狗币日内涨幅扩大至7.66％，现报0.060346美元/枚。此前特斯拉CEO马斯克推特上称和孩子们一起搭建了一些狗狗币矿机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-20/detail-ikftpnny8615034.d.html</link>
-            <guid>2033069</guid>
-            <pubDate>Sat, 20 Feb 2021 08:56:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Feb 2021 17:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 18:05:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据英国广播公司（BBC）：伊拉克油长称，由于油价上涨，伊拉克决定冻结原油预付款协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7970505.d.html</link>
+            <guid>2034149</guid>
+            <pubDate>Sun, 21 Feb 2021 17:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：阿尔及利亚在政府改组中任命新的能源部长。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7970001.d.html</link>
+            <guid>2034124</guid>
+            <pubDate>Sun, 21 Feb 2021 17:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【黑龙江绥化望奎县调整为低风险地区】据望奎融媒之声微信公众号消息，绥化市疫情防控应急指挥部发布关于将望奎县疫情风险等级调整为低风险地区的公告。自2021年2月22日起，将望奎县疫情风险等级由中风险地区调整为低风险地区。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftssap7968987.d.html</link>
+            <guid>2034066</guid>
+            <pubDate>Sun, 21 Feb 2021 17:30:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【经参头版：上半年全球通胀风险有限但需未雨绸缪】今年上半年美日欧等主要经济体通货膨胀无论从范围或程度上来看，影响都将较为有限。我国由于受春节错月因素影响，物价出现下滑，但仍需未雨绸缪，防范输入性通胀。此外，实体经济部分的通胀压力虽然目前看来有限，但大量流动性进入虚拟经济领域，不但使政策有效性大打折扣，也加剧了资产估值的泡沫压力，加大了金融风险。]]></title>
             <link>https://finance.sina.cn/7x24/2021-02-22/detail-ikftpnny8951277.d.html</link>
@@ -584,24 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8911320.d.html</link>
             <guid>2033458</guid>
             <pubDate>Sun, 21 Feb 2021 10:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳：民营企业、中小企业境内上市最高可奖150万元】深圳市政府决定组织实施2022年民营及中小企业创新发展培育扶持计划。其中，改制上市培育资助项目的奖励方式包括，对拟在境内证券交易所首次公开发行股票，并已经完成上市辅导的，给予最高不超过150万元的奖励；对直接在境外证券交易所首次公开发行股票的，给予最高不超过80万元的奖励；对已在“新三板”成功挂牌的，给予最高不超过50万元的奖励。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftssap7927157.d.html</link>
-            <guid>2033457</guid>
-            <pubDate>Sun, 21 Feb 2021 10:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苏丹财政部长：关税税率不包括在贬值范围内，关税税率改革正在研究中。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910990.d.html</link>
-            <guid>2033456</guid>
-            <pubDate>Sun, 21 Feb 2021 10:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  印尼新增新冠肺炎确诊病例7300例，累计确诊1278653例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-02-21/detail-ikftpnny8910611.d.html</link>
-            <guid>2033455</guid>
-            <pubDate>Sun, 21 Feb 2021 10:45:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

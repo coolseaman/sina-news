@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Mar 2021 17:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Mar 2021 18:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  根据世卫组织最新实时统计数据，截至欧洲中部时间3月20日13时28分（北京时间3月20日20时28分），全球累计新冠肺炎确诊病例121969223例，累计死亡病例2694094例。20日全球新冠肺炎确诊病例新增494917例，死亡病例新增9921例。（央视）]]></title>
+            <guid>2080892</guid>
+            <pubDate>Sat, 20 Mar 2021 17:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国外交部：土耳其退出伊斯坦布尔公约的决定，对欧洲和土耳其传递出错误的信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9038245.d.html</link>
+            <guid>2080891</guid>
+            <pubDate>Sat, 20 Mar 2021 17:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生态环境部研究员夏光：实现碳达峰时间非常紧迫，需要大量的政策】、3月20日，在由国务院发展研究中心主办、中国发展研究基金会承办的“中国发展高层论坛2021年会”上，生态环境部研究员、原国家生态环境保护督察专员夏光在在“助力碳达峰与碳中和目标”分论坛中指出，中国实现碳达峰的时间非常紧迫，必须通过制定相关的政策向全社会提供为实现碳达峰的目标而共同奋斗的一种驱动力，需要大量的政策。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam5878823.d.html</link>
+            <guid>2080890</guid>
+            <pubDate>Sat, 20 Mar 2021 17:42:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯千岛群岛附近发生5.1级地震，震源深度10公里。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9036944.d.html</link>
@@ -580,24 +597,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9009729.d.html</link>
             <guid>2080274</guid>
             <pubDate>Sat, 20 Mar 2021 11:32:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京奥组委首席执行官武藤敏郎：我们不会公布退款的金额。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9009352.d.html</link>
-            <guid>2080272</guid>
-            <pubDate>Sat, 20 Mar 2021 11:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京奥组委首席执行官武藤敏郎：将在4月的五方会议后决定奥运会是否接待国内观众。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikknscsi9009323.d.html</link>
-            <guid>2080271</guid>
-            <pubDate>Sat, 20 Mar 2021 11:27:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新增8例新冠肺炎确诊病例】香港特区政府卫生署卫生防护中心20日公布，截至当日零时，香港新增8例新冠肺炎确诊病例，其中有7例本土感染病例。香港累计报告新冠肺炎确诊病例达11371例。这是自3月10日以来，香港单日新增确诊病例数首次回落至个位数。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-20/detail-ikkntiam5849541.d.html</link>
-            <guid>2080270</guid>
-            <pubDate>Sat, 20 Mar 2021 11:20:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

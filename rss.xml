@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 Mar 2021 21:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Mar 2021 22:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  据CME“美联储观察”：美联储4月维持利率在0%-0.25%区间的概率为97.8%，加息25个基点至0.25%-0.50%区间的概率为2.2%；6月维持利率在0%-0.25%区间的概率为97.8%，加息25个基点的概率为2.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9201518.d.html</link>
+            <guid>2082271</guid>
+            <pubDate>Sun, 21 Mar 2021 22:06:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国新冠肺炎超2981万例】美国约翰斯·霍普金斯大学统计数据显示，截至美东时间3月21日16时26分，美国累计新冠肺炎确诊病例达29812343例，累计死亡病例542302例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9201220.d.html</link>
+            <guid>2082270</guid>
+            <pubDate>Sun, 21 Mar 2021 22:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股股指期货低开，标普500指数期货跌0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9201209.d.html</link>
+            <guid>2082269</guid>
+            <pubDate>Sun, 21 Mar 2021 22:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑土耳其里拉USD/TRY盘初涨超15%，报8.2781，为去年11月以来新高。消息面上，此前土耳其央行行长Agbal因加息过猛被土耳其总统埃尔多安免职。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6041732.d.html</link>
+            <guid>2082268</guid>
+            <pubDate>Sun, 21 Mar 2021 22:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【322家上市公司年报亮相，逾七成业绩增长，43家现金流充裕】2020年是疫情冲击、流动性宽松以及政策支持引导比较突出和特殊的一年，一些绩优股并不具备长期增长逻辑，短期利好业绩数据或许还是好的卖出机会。还有一些绩优股估值比较高，透支了未来的成长性，高位调整的风险不能忽视。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9200936.d.html</link>
+            <guid>2082267</guid>
+            <pubDate>Sun, 21 Mar 2021 21:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【私募高度关注流动性变化，长期看好成长股机会】在经历大幅调整后，上周市场有所企稳，但上周五的一根长阴线，又让投资者忐忑不安。私募认为，现在部分好公司估值跌到了合理位置，“核心资产”未来将分化；今年结构性行情值得看好，市场并不存在整体泡沫，需要关注流动性等影响因素。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6040651.d.html</link>
+            <guid>2082183</guid>
+            <pubDate>Sun, 21 Mar 2021 21:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其里拉一度暴跌17%】 土耳其总统撤掉大力加息的央行行长，新行长承诺让通胀永久下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9199266.d.html</link>
+            <guid>2082074</guid>
+            <pubDate>Sun, 21 Mar 2021 21:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：沙特领导的联军摧毁了胡塞武装位于也门首都萨那的的弹道导弹与无人机组装工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikknscsi9198814.d.html</link>
+            <guid>2082019</guid>
+            <pubDate>Sun, 21 Mar 2021 21:11:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：沙特领导的联军对位于也门首都的胡塞武装目标发动了攻击。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-22/detail-ikkntiam6038742.d.html</link>
@@ -549,54 +597,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9161480.d.html</link>
             <guid>2081147</guid>
             <pubDate>Sun, 21 Mar 2021 11:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港新增8例新冠肺炎确诊病例，连续2日确诊为个位数】香港特区政府卫生署卫生防护中心21日公布，截至当日零时，香港新增8例新冠肺炎确诊病例，其中有4例本土感染病例。香港单日新增确诊病例数连续2日为个位数。香港累计报告新冠肺炎确诊病例达11379例。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9161195.d.html</link>
-            <guid>2081146</guid>
-            <pubDate>Sun, 21 Mar 2021 11:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【迪瑞医疗：拟推2021年限制性股票激励计划】迪瑞医疗发布2021年限制性股票激励计划(草案)，拟向激励对象授予的限制性股票数量为190.74万股，占公告时公司股本总额的0.69%。该计划拟授予的激励对象不超过125人。该计划授予限制性股票的授予价格为12.7元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6002163.d.html</link>
-            <guid>2081145</guid>
-            <pubDate>Sun, 21 Mar 2021 11:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家发展改革委召开钢铁、有色、建材行业碳达峰研讨会】3月19日，国家发展改革委产业司主持召开钢铁、有色金属、建材行业碳达峰工作研讨会。会议围绕科学制定重点行业碳达峰方案、推进产业低碳转型、提升能源利用效率等方面进行交流。国家发展改革委将坚决贯彻落实党中央、国务院决策部署，抓紧研究出台相关政策措施，组织相关部门积极编制碳达峰方案，积极推动相关行业绿色低碳转型和可持续发展。一是研究制定钢铁、有色金属、建材等行业碳达峰方案，助力实现国家碳达峰碳中和目标；二是结合传统高耗能行业实际，抓紧抓实行业自身潜力，推动产业转型升级、结构优化；三是提升能源利用效率，推动能源资源高效配置、高效利用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9159746.d.html</link>
-            <guid>2081144</guid>
-            <pubDate>Sun, 21 Mar 2021 11:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国地质勘探局：玻利维亚乌尤尼西南以南87千米处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9159342.d.html</link>
-            <guid>2081143</guid>
-            <pubDate>Sun, 21 Mar 2021 11:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波士顿咨询CEO：汽车供应链脱碳，消费者购车成本仅增2%】总体而言，端到端的脱碳对最终消费者价格的影响比很多人想象的要小得多。”在3月20日举行的中国发展高层论坛2021年会上，波士顿咨询首席执行官李瑞麒（Rich Lesser）说道。他认为，可控、明确且“低于预期”的脱碳成本有助于让更多主体参与全球减碳行动。李瑞麒称，波士顿咨询最近与世界经济论坛就该主题进行了一项专项研究，在跟踪研究的八个主要行业中，供应链脱碳传导给终端消费者的价格涨幅介于1%到4%的区间，“这是因为高碳的原材料（成本）通常只占最终消费者支付价格的一小部分。”他特别举例称，让汽车供应链脱碳，只会使最终消费者的购车成本增加2%。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikkntiam6000566.d.html</link>
-            <guid>2081142</guid>
-            <pubDate>Sun, 21 Mar 2021 11:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古回应黄河大堤死猪事件：已成立应急处置领导小组】3月21日，有媒体报道称，日前，记者在黄河内蒙古达拉特旗段发现，大堤内有不少死猪，有的零星几头分散在堤坝护坡上，有的十几头堆在国堤通往主河道土路两侧，有的十几头浸泡在堤内水中。针对这一报道，达拉特旗政府表示：“发现该报道信息后，立即成立了以旗委书记任组长、旗委副书记、政府旗长任常务副组长的应急处置领导小组；同时，旗委、政府主要领导、分管领导立即带领公安、农牧等部门和相关苏木镇负责人第一时间赶赴现场进行调查核实处置。”（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9159070.d.html</link>
-            <guid>2081141</guid>
-            <pubDate>Sun, 21 Mar 2021 11:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞波币日内跌5.02%，现报0.50美元/枚。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9158842.d.html</link>
-            <guid>2081140</guid>
-            <pubDate>Sun, 21 Mar 2021 11:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大智慧：拟授予限制性股票不超5000万股】大智慧发布2021年限制性股票激励计划(草案)，拟授予限制性股票数量不超过5000万股，占公告时公司股本总额的2.52%。其中首次授予4189万股，占公告时公司股本总额的2.11%；预留不超过811万股，预留部分占此次授予权益总额不超过16.22%。该激励计划首次授予的激励对象总人数不超过484人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-21/detail-ikknscsi9158828.d.html</link>
-            <guid>2081139</guid>
-            <pubDate>Sun, 21 Mar 2021 11:07:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

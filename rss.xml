@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Mar 2021 22:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Mar 2021 23:01:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【德国连续三日新增超两万 卫生部长呼吁实施硬性“封城”】 截至27日，德国疾控机构公布的单日新增确诊感染新冠病毒已连续第三日突破两万。德国联邦卫生部长施潘当天表示，德国有必要实施10-14天的硬性“封城”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9485908.d.html</link>
+            <guid>2092720</guid>
+            <pubDate>Sat, 27 Mar 2021 22:54:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方再对美、加实施制裁 专家：未来可将BCI纳入制裁名单】3月27日，继欧盟、英国之后，中国再度出手，对美国、加拿大有关人员和实体实施制裁。相关专家当日接受《环球时报》采访时表示，如果相关国家、机构人员依旧不收手，继续上演国际闹剧，那么中方还会持续对相关领域采取进一步制裁措施，不排除将对“抵制中国新疆棉花”的国际非政府组织BCI(瑞士良好棉花发展协会)纳入制裁名单。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9484443.d.html</link>
+            <guid>2092719</guid>
+            <pubDate>Sat, 27 Mar 2021 22:49:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大众汽车因安全气囊问题在美国召回超15万辆奥迪A3轿车】大众汽车公司向美国国家公路交通安全管理局提交的一份文件显示，大众汽车公司已在美国召回超过15万辆奥迪汽车，原因是担心其乘客安全气囊可能无法启动。此次召回预计将影响2015年至2020年生产的153152辆奥迪A3轿车，包括轿车、Etron和Cabriolet车型，以及某些S3轿车。]]></title>
+            <guid>2092718</guid>
+            <pubDate>Sat, 27 Mar 2021 22:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界银行下调2021年泰国经济增长预估至3.4%】世界银行近日下调了2021年泰国经济增长预估，从年初预估的4%降至3.4%，主要原因是新冠肺炎疫情造成的各种不确定性导致泰国国内经济复苏缓慢。世界银行曼谷办事处资深经济学家吉迪鹏指出，占泰国GDP13~15% 的旅游业复苏艰难，虽然入境外国游客数量有所增加，疫苗接种也对旅游业恢复促进作用，但仍存在很大不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2633738.d.html</link>
+            <guid>2092717</guid>
+            <pubDate>Sat, 27 Mar 2021 22:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【清明、五一假期各地将迎旅游高峰 赏花游产品热度升级】多家在线旅游企业数据显示，清明及五一小长假的出游机票、度假酒店、租车自驾、景区门票、跨省跟团游等旅游产品预订情况良好，有些地方的火车票、民宿等甚至出现了预订紧张的情形，旅游市场回暖态势明显，预计各地将在假期迎来旅游高峰。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2629263.d.html</link>
+            <guid>2092716</guid>
+            <pubDate>Sat, 27 Mar 2021 22:10:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国新冠肺炎累计确诊病例超3021万例】当地时间3月27日，根据美国约翰斯·霍普金斯大学数据，截至美东时间当天17点27分（北京时间3月28日凌晨5点27分），美国确诊新冠病毒感染人数达30212225人，因为新冠肺炎感染相关死亡累计人数达548800人。两项数据与24小时前相比，新增确诊68654人，新增死亡845人。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2623752.d.html</link>
@@ -566,36 +595,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2436105.d.html</link>
             <guid>2092376</guid>
             <pubDate>Sat, 27 Mar 2021 12:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：美国政府阿富汗和解事务特别代表哈利勒扎德将在星期四启程前往土耳其和中东地区，敦促阿富汗各方加快结束冲突的谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2435764.d.html</link>
-            <guid>2092374</guid>
-            <pubDate>Sat, 27 Mar 2021 12:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【张文宏：疫苗成为世界重新开放的唯一渠道】上海市新冠肺炎医疗救治专家组组长、复旦大学附属华山医院感染科主任张文宏27日在澳门表示，新冠病毒变异是自然规律，已成为人类的常驻病毒，疫苗成为世界重新开放的唯一渠道。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2434257.d.html</link>
-            <guid>2092342</guid>
-            <pubDate>Sat, 27 Mar 2021 12:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京津冀交通一体化新突破 京唐铁路天津段桥梁工程主体完工】作为推进京津冀交通一体化率先突破的标志性工程，京唐铁路建设有新进展。从天津市交通运输委员会获悉，中铁二十四局承建的京唐铁路跨潮白新河特大桥节段预制胶拼连续梁末联连续梁顺利合龙，亚洲最大跨度节段胶拼铁路连续梁桥主体工程顺利施工完成。京唐铁路天津段桥梁工程主体完工。京唐铁路是京津冀地区轨道交通网络的重要组成部分，工程起点位于北京站城市副中心站，途经北京通州、河北廊坊、天津宝坻、河北唐山，终点位于河北省唐山市唐山站，线路长148公里，其中天津市境内线路长42.8公里。本项目于2017年10月开工建设，目前天津段桥梁工程主体完工，计划2022年建成通车。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9274761.d.html</link>
-            <guid>2092337</guid>
-            <pubDate>Sat, 27 Mar 2021 12:45:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国制药集团收购德国制药厂并将用于生产疫苗】据西德意志广播报道，德国伍珀耳塔地区将在年内成为疫苗生产地。中国制药集团药明生物将在几周内接管拜尔集团在伍珀耳塔地区的生产工厂，拜尔集团现正在准备移交工作。拜耳集团将在接下来的几个月对中方员工进行培训，该工厂将用于生产新冠疫苗和其他生物制剂的活性成分，在获得当局批准后，正式的生产可能于今年12月开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikkntiam9273202.d.html</link>
-            <guid>2092291</guid>
-            <pubDate>Sat, 27 Mar 2021 12:40:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【面临股民集体索赔，康美药业最新回应：将积极应诉】3月27日康美药业公告，收到中证中小投资者服务中心《关于发布接受康美药业虚假陈述民事赔偿案投资者委托说明的通知》，公司将积极应诉，做好与广州中院、投服中心及投资者的沟通工作，妥善安排诉讼相关事务。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-27/detail-ikknscsk2429232.d.html</link>
-            <guid>2092244</guid>
-            <pubDate>Sat, 27 Mar 2021 12:31:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

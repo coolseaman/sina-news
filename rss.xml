@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Mar 2021 17:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 18:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【十大券商策略：市场底部确认 悲观预期顶点已现！A股将迎来值得参与的反弹】中信证券：节后投资者谨慎情绪逐级递增，当前悲观预期顶点已现，市场底部确认，4月投资者情绪和行为将趋于平静，但市场形成新一轮持续上涨需要时间，基本面将替代流动性成为破局因素，中国稳健增长的正面因素不断积累，海外强复苏的预期向下修正，配置上应继续向新主线转移。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3175881.d.html</link>
+            <guid>2093729</guid>
+            <pubDate>Sun, 28 Mar 2021 18:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  以色列新增523例新冠肺炎确诊病例，累计831906例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0011548.d.html</link>
+            <guid>2093728</guid>
+            <pubDate>Sun, 28 Mar 2021 18:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国疾控中心：美国新冠肺炎确诊病例升至30038363例，死亡病例升至546144例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntian0000214.d.html</link>
+            <guid>2093727</guid>
+            <pubDate>Sun, 28 Mar 2021 17:44:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国田纳西州纳什维尔发生洪水，造成至少4人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3149507.d.html</link>
+            <guid>2093726</guid>
+            <pubDate>Sun, 28 Mar 2021 17:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿布扎比G42 Healthcare与国药的合资公司目前正在与阿联酋制药公司Julphar合作生产新冠疫苗，目标产能每年2亿剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikknscsk3149214.d.html</link>
+            <guid>2093725</guid>
+            <pubDate>Sun, 28 Mar 2021 17:28:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  伊拉克获得首批阿斯利新冠疫苗。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-29/detail-ikkntiam9973366.d.html</link>
@@ -576,36 +606,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9785050.d.html</link>
             <guid>2093626</guid>
             <pubDate>Sun, 28 Mar 2021 10:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟专员Thierry Bret：欧盟不会允许阿斯利康疫苗的出口，直到它履行承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2939197.d.html</link>
-            <guid>2093624</guid>
-            <pubDate>Sun, 28 Mar 2021 10:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟专员：欧盟到7月中旬可生产4.2亿剂新冠疫苗】欧盟专员Thierry Bret表示，欧盟将在7月份获得足够的疫苗来实现群体免疫。欧盟到7月中旬可生产4.2亿剂新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9779940.d.html</link>
-            <guid>2093623</guid>
-            <pubDate>Sun, 28 Mar 2021 10:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苏伊士运河管理局（SCA）：疏浚已经达到18米，以使船只脱困。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2936987.d.html</link>
-            <guid>2093622</guid>
-            <pubDate>Sun, 28 Mar 2021 10:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中央气象台发布沙尘暴蓝色预警：新疆局地有沙尘暴】中央气象台3月28日18时发布沙尘暴蓝色预警：预计，3月28日20时至29日20时，内蒙古东南部、辽宁中西部、吉林南部、天津、河北中南部、山西南部、河南、山东、苏皖北部、新疆南疆盆地和东部、甘肃北部、宁夏、陕西中北部等地有扬沙或浮尘天气，其中，新疆东部局地有沙尘暴。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2936882.d.html</link>
-            <guid>2093621</guid>
-            <pubDate>Sun, 28 Mar 2021 10:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟专员Thierry Bret：希望看到欧洲的夏季旅游季节和去年的情况类似。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9775873.d.html</link>
-            <guid>2093620</guid>
-            <pubDate>Sun, 28 Mar 2021 10:29:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

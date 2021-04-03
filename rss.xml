@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Apr 2021 19:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Apr 2021 20:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[希腊新增新冠肺炎确诊病例3232例，累计确诊273459例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2970507.d.html</link>
+            <guid>2103826</guid>
+            <pubDate>Sat, 03 Apr 2021 20:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  南非累计新冠肺炎确诊病例达1551501例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5816414.d.html</link>
+            <guid>2103825</guid>
+            <pubDate>Sat, 03 Apr 2021 19:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：由于新冠肺炎病例激增，巴勒斯坦领导人将紧急状态延长至5月。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2956804.d.html</link>
+            <guid>2103824</guid>
+            <pubDate>Sat, 03 Apr 2021 19:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  墨西哥卫生部：累计新冠肺炎死亡病例达204011例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5804594.d.html</link>
+            <guid>2103823</guid>
+            <pubDate>Sat, 03 Apr 2021 19:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西班牙新增至少9500例新冠肺炎确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmyaawa5802358.d.html</link>
+            <guid>2103822</guid>
+            <pubDate>Sat, 03 Apr 2021 19:23:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国会大厦袭击警员案最新进展 犯罪嫌疑人为仇恨组织虔诚追随者】美国多家媒体4月3日报道称，开车袭击国会警员的非裔犯罪嫌疑人诺亚·格林（Noah Green）被认定为极端仇恨组织-伊斯兰民族组织（Nation of Islam）虔诚的追随者，生前曾在社交平台上多次发表仇恨言论。据犯罪嫌疑人格林的家属透露，格林长久以来存在心理健康问题，并怀疑和其宗教信仰有关。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2935609.d.html</link>
+            <guid>2103821</guid>
+            <pubDate>Sat, 03 Apr 2021 19:10:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  中国地震台网自动测定：04月04日02时42分在印尼班达海附近发生6.0级左右地震，最终结果以正式速报为准。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-04/detail-ikmxzfmk2921653.d.html</link>
@@ -566,42 +602,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2561690.d.html</link>
             <guid>2102932</guid>
             <pubDate>Sat, 03 Apr 2021 10:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【买口罩不给钱 德国卫生部长遭口罩供应商起诉】据德国媒体当地时间4月3日报道，已故前联邦总理赫尔穆特·科尔的儿子沃尔特·科尔已向波恩地方法院提起针对联邦卫生部长施潘的诉讼，诉讼金额达到近550万欧元。沃尔特·科尔的公司去年春天参加了德国联邦卫生部FFP2防疫口罩的竞标，并获得以单价4.50欧元交付一百万个FFP2口罩的订单。然而，卫生部至今尚未支付账单。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2560379.d.html</link>
-            <guid>2102931</guid>
-            <pubDate>Sat, 03 Apr 2021 10:05:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东：网约车司机外卖小哥快递员纳入工伤保险参保范围】 从广东省人力资源和社会保障部门了解到，网约车、外卖、快递劳务等新业态从业人员纳入工伤保险参保范围。广东省《关于单位从业的超过法定退休年龄劳动者等特定人员参加工伤保险的办法（试行）》1日起执行，试行期2年。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5417682.d.html</link>
-            <guid>2102930</guid>
-            <pubDate>Sat, 03 Apr 2021 10:04:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【张忆东：战略性看多人民币资产，最迟5月中旬A股调整告一段落，二季度是黄金坑】兴业证券全球首席策略分析师张忆东称，成长股不要着急进行短期博弈抄底，过去的一年多里，预期都打得太满了，所以，休息才能够更好的前行。真正的成长股是能够穿越周期的，近期调整之后，真正的优质成长股也不具备系统性的风险。现在进入左侧布局的阶段，可以围绕长期基本面耐心布局。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2556743.d.html</link>
-            <guid>2102929</guid>
-            <pubDate>Sat, 03 Apr 2021 09:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港特区政府卫生署卫生防护中心4月3日公布，截至今日零时零分，香港新增新冠肺炎确诊病例2例，其中1例为本地确诊病例，未确诊传染源。截至目前，香港累计新冠肺炎确诊病例11501例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmxzfmk2556494.d.html</link>
-            <guid>2102928</guid>
-            <pubDate>Sat, 03 Apr 2021 09:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天风证券：给予腾讯买入评级 目标价705港元】天风证券最新研究认为，预计腾讯2020-2022年收入为4,813亿元/5,941亿元/7,116亿元，同比增长28%/23%/20%，Non-IFRS归母净利润为1,238亿元/1,567亿元/1,912亿元，同比增长31%/27%/22%，该公司当前市值对应2021-2022年PE分别为30x和25x。考虑短期游戏提供业绩支撑，全球化与重磅产品打开增长空间，金融科技、广告中台化、微信生态商业化提供中长期增长驱动力、腾讯云等企业服务挖掘产业互联网长期价值，结合参考可比公司的估值情况，给予腾讯2022年PE30x，对应目标价705港元，买入评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5413229.d.html</link>
-            <guid>2102927</guid>
-            <pubDate>Sat, 03 Apr 2021 09:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国央行公布数字货币推进时间表 今年将测试零售型数字货币】当地时间4月2日，泰国中央银行公布数字货币推进时间表，并向社会征询对零售型数字货币的意见。根据时间表，泰国央行将在2021—2022年进行零售型数字货币测试。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-03/detail-ikmyaawa5411985.d.html</link>
-            <guid>2102926</guid>
-            <pubDate>Sat, 03 Apr 2021 09:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

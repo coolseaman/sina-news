@@ -4,11 +4,206 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 09 Apr 2021 15:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Apr 2021 16:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国商务部长雷蒙多、白宫国家经济委员会主任布赖恩·迪斯和美国国家安全顾问沙利文将参加有关芯片供应的峰会。通用汽车、福特汽车(F.N)、谷歌(GOOG.O,GOOGL.O)、英特尔(INTC.O)、美光科技(MU.O)、恩智浦半导体(NXPI.O)等也会参与。]]></title>
+            <guid>2112907</guid>
+            <pubDate>Fri, 09 Apr 2021 16:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士罕见病制药公司VectivBio AG(VECT.O)上市首日开盘价报23美元，IPO价为17美元/股。]]></title>
+            <guid>2112906</guid>
+            <pubDate>Fri, 09 Apr 2021 16:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 纳指盘中翻红。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8803867.d.html</link>
+            <guid>2112905</guid>
+            <pubDate>Fri, 09 Apr 2021 15:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉在加拿大上架超短续航Model 3】据Electrek报道，特斯拉(TSLA.O)在加拿大官网上架了只有150公里续航且没有Autopilot功能的Model 3选项。据悉，该款式的Model 3是特斯拉为了符合加拿大的鼓励补贴政策而设计的，但没有在官网上的自订选项显示，只能通过线下询问工作人员订购。而据车辆注册数据来看，该款式的Model 3购买人数寥寥无几。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5944829.d.html</link>
+            <guid>2112904</guid>
+            <pubDate>Fri, 09 Apr 2021 15:48:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利4月9日新增18938例新冠肺炎病例（上日增加17221例），新增718例死亡病例（上日增加487例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8802947.d.html</link>
+            <guid>2112903</guid>
+            <pubDate>Fri, 09 Apr 2021 15:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【欧洲主要股指收盘涨跌不一 德国DAX30指数涨0.26%】欧洲主要股指收盘涨跌不一，德国DAX30指数涨0.26%，英国富时100指数跌0.34%，法国CAC40指数涨0.06%，欧洲斯托克50指数涨0.04%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8802871.d.html</link>
+            <guid>2112902</guid>
+            <pubDate>Fri, 09 Apr 2021 15:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉(TSLA.O)短线异动下挫，现跌超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8801678.d.html</link>
+            <guid>2112901</guid>
+            <pubDate>Fri, 09 Apr 2021 15:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【在岸人民币兑美元夜盘跌14个基点】在岸人民币兑美元（CNY）北京时间23:30收报6.5530元，较周三夜盘收盘跌14点。成交量366.87亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8801585.d.html</link>
+            <guid>2112899</guid>
+            <pubDate>Fri, 09 Apr 2021 15:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收涨0.15%，报15226.19点。法国股指初步收平，英国股指初步收跌0.31%，意大利股指初步收跌0.51%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8801373.d.html</link>
+            <guid>2112898</guid>
+            <pubDate>Fri, 09 Apr 2021 15:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Benchmark：将阿里巴巴目标价从315美元下调至310美元】投行Benchmark将阿里巴巴(BABA.N)目标价从315美元下调至310美元，不过维持买入评级。该行将阿里第四财季的营收预期上调，以反映顾客消费金额强势反弹；下调每股盈利预测，以反映公司在淘宝特价版和社区团购上的投资增加。该行表示，2022财年是一个“投资大年”，并表示最近成立的MMC业务部门表明阿里巴巴 "坚定不移地致力于拓展杂货/生鲜业务"，她认为此举是 "攻守兼备"。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5943039.d.html</link>
+            <guid>2112897</guid>
+            <pubDate>Fri, 09 Apr 2021 15:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)盘中走高，现涨超1%，此前外媒报道，亚马逊在组建工会的投票中锁定胜局。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5943026.d.html</link>
+            <guid>2112896</guid>
+            <pubDate>Fri, 09 Apr 2021 15:34:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【强生疫苗也会导致血栓风险？欧洲药管局：已开始调查】欧洲药品管理局（EMA）安全委员会表示，有报告称接种强生公司新冠肺炎疫苗之后出现4例严重的罕见血栓反应，且出现人体“血小板含量下降”现象；其中三人是在美国境内接种的强生疫苗，另外一人是在强生疫苗的临床试验阶段接种的该公司疫苗。该委员会已经就此问题展开调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8801010.d.html</link>
+            <guid>2112895</guid>
+            <pubDate>Fri, 09 Apr 2021 15:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿斯利康(AZN.O)目前预计将向欧盟27个成员国以及冰岛、挪威交付130万剂疫苗，3月中旬时的预期为260万剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5942587.d.html</link>
+            <guid>2112894</guid>
+            <pubDate>Fri, 09 Apr 2021 15:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  阿斯利康(AZN.O)将向欧盟交付的新冠疫苗数量削减一半。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5942559.d.html</link>
+            <guid>2112893</guid>
+            <pubDate>Fri, 09 Apr 2021 15:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  白宫疫苗协调员ZIENTS：强生预计在获得FDA批准之前，每周提供的新冠疫苗剂量相对较低。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5942177.d.html</link>
+            <guid>2112892</guid>
+            <pubDate>Fri, 09 Apr 2021 15:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织总干事谭德塞：如果新冠病毒的突变是显著的，我们现在的疫苗可能不起作用。必须迅速增加疫苗接种，否则新冠病毒变种就会增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5942047.d.html</link>
+            <guid>2112891</guid>
+            <pubDate>Fri, 09 Apr 2021 15:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳指现已走出回调区域，但成长股面临压力的警报还远未解除。自2月12日纳指触及新高以来，该指数下跌了2%，而道指在这段时间里却屡创新高，同期上涨了7％。纳指要想摆脱跑输局面就必须从2020年最热门的一些股票中借力。但就目前而言，无论是特斯拉还是ARK Innovation ETF都没有显示出要参与接下来一轮涨势的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8800335.d.html</link>
+            <guid>2112890</guid>
+            <pubDate>Fri, 09 Apr 2021 15:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫发布公告称，美国总统拜登将在当地时间周五发布行政令，以组建美国最高法院总统委员会，该委员会由两党专家组成，将考虑美国最高法院的潜在改革，包括法院的成员和规模。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8800308.d.html</link>
+            <guid>2112889</guid>
+            <pubDate>Fri, 09 Apr 2021 15:19:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国生猪产能加快恢复，猪肉价格连降十周，分析师称还有下跌空间】 3月份，新发地市场猪肉价格比较2月份下降11%，同比去年下降29%。据介绍，目前猪肉价格正处于下降区间，主要是生猪产能恢复，猪肉上市量明显增加。根据农业农村部对全国500个集贸市场监测，3月份最后一周，全国猪肉价格每公斤42.53元，连续10周下降，同比下降23.7%。据全国生猪产能加快恢复，2月末，全国能繁母猪存栏量相当于2017年年末的95%，全国生猪存栏量继续保持在4亿头以上。农信互联生猪分析师夏晨丰称，未来国内生猪供给还将保持大幅增加的趋势，预计今年上半年生猪出栏量同比增长65%左右，短时内处于消费淡季，预计猪肉价格还有下跌空间。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8800211.d.html</link>
+            <guid>2112888</guid>
+            <pubDate>Fri, 09 Apr 2021 15:17:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利卫生部：意大利将放宽米兰和其他的地区的疫情限制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941897.d.html</link>
+            <guid>2112887</guid>
+            <pubDate>Fri, 09 Apr 2021 15:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国就菲利普亲王的逝世向女王、王室和所有英国人表示“最深切的哀悼”。]]></title>
+            <guid>2112886</guid>
+            <pubDate>Fri, 09 Apr 2021 15:17:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  消息人士：美国总统拜登下周一将与美国国会议员就2.3万亿美元的基础设施和就业方案举行会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941876.d.html</link>
+            <guid>2112885</guid>
+            <pubDate>Fri, 09 Apr 2021 15:17:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦授权紧急使用中国科兴新冠疫苗】记者9日从巴基斯坦国家卫生研究所获悉，巴基斯坦药品管理局日前已给予中国科兴公司研制的新冠疫苗紧急使用授权。据巴药品管理局8日发布的一份声明，科兴新冠疫苗已获准在18岁及以上巴基斯坦民众中紧急使用。这是巴基斯坦授权紧急使用的第三款中国新冠疫苗。此前，巴药品管理局已授权紧急使用中国国药集团新冠疫苗和康希诺新冠疫苗。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941867.d.html</link>
+            <guid>2112884</guid>
+            <pubDate>Fri, 09 Apr 2021 15:16:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界银行行长：需要在新冠肺炎疫苗的生产和供应方面继续提高透明度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941804.d.html</link>
+            <guid>2112883</guid>
+            <pubDate>Fri, 09 Apr 2021 15:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟将就采购18亿剂第二代新冠疫苗开启谈判】 当地时间4月9日，据法新社援引欧盟委员会的消息，为了应对未来可能出现的变异新冠病毒，欧盟将就采购18亿剂第二代新冠疫苗开启谈判。欧盟委员会已于3月24日正式提出加速批准改良版新冠疫苗的措施，相关提案还将于当地时间4月15日在欧洲议会环境与公共健康委员会进行审议。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941792.d.html</link>
+            <guid>2112882</guid>
+            <pubDate>Fri, 09 Apr 2021 15:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【汇丰在线交易平台已禁止购买MicroStrategy股票】据cointelegraph消息，汇丰客户不再可以在其在线交易平台HSBC InvestDirect或HIDC上购买MicroStrategy股票，同时，汇丰已指示已经拥有MicroStrategy股票的用户不要购买额外的股票。将MSTR列入黑名单只是汇丰银行最近反加密行动中的最新动作，但是在HIDC交易目录中仍列出了进行比特币大量投资的其他公司，例如特斯拉(TSLA.O)，Hut 8 Mining和Square(SQ.N)。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941615.d.html</link>
+            <guid>2112881</guid>
+            <pubDate>Fri, 09 Apr 2021 15:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国新增3150例新冠肺炎确诊病例，新增60例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799769.d.html</link>
+            <guid>2112880</guid>
+            <pubDate>Fri, 09 Apr 2021 15:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国家药监局：祛斑美白化妆品须通过人体功效评价试验】据国家药监局官网9日发布的《#化妆品功效宣称评价规范#》，具有祛斑美白、防晒、防脱发、祛痘、滋养和修护功效的化妆品，应当通过人体功效评价试验方式进行功效宣称评价。具有祛斑美白、防晒和防脱发功效的化妆品，应当由化妆品注册和备案检验机构按照强制性国家标准、技术规范的要求开展人体功效评价试验，并出具报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799637.d.html</link>
+            <guid>2112879</guid>
+            <pubDate>Fri, 09 Apr 2021 15:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：根据美国总统拜登的预算，美国国税局的执法经费将在2022财年增加9亿美元。拜登总统的预算要求包括为国税局提供132亿美元，较2021财年增加了12亿美元或10.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5941329.d.html</link>
+            <guid>2112878</guid>
+            <pubDate>Fri, 09 Apr 2021 15:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登的预算寻求在2022财年增加7690亿美元的非国防可自由支配支出，比2021财年水平增加16%；增加7530亿美元的国防支出，较2021财年增加1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799558.d.html</link>
+            <guid>2112877</guid>
+            <pubDate>Fri, 09 Apr 2021 15:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国已经有31903366人接种第一剂新冠肺炎疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799396.d.html</link>
+            <guid>2112876</guid>
+            <pubDate>Fri, 09 Apr 2021 15:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【大商所、郑商所夜盘收盘 纯碱跌超3%】大商所、郑商所夜盘收盘，多数品种下跌，EG、纯碱跌超3%，短纤、焦炭等跌超2%，豆一跌超1%，棕榈、郑煤等小幅下跌；菜粕、棉纱涨超1%，豆粕、白糖等小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799373.d.html</link>
+            <guid>2112875</guid>
+            <pubDate>Fri, 09 Apr 2021 15:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国政府官员称，白宫预计将在春季晚些时候向国会提交全部预算。美国总统拜登的初步预算提案不包括2万亿美元的基础设施提案或税收改革。 美国总统拜登的预算提案包括21亿美元用于解决枪支暴力问题。美国总统拜登的预算提案在气候变化方面增加140亿美元的支出，以在2050年前达到净零排放。预算提案包括增加20%用于国家科学基金会的预算，还有5亿美元用于气候和能源研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8799322.d.html</link>
+            <guid>2112874</guid>
+            <pubDate>Fri, 09 Apr 2021 15:05:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国总统拜登寻求2022财年财政预算增加8.4%至1.52万亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8798886.d.html</link>
@@ -406,203 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8793335.d.html</link>
             <guid>2112807</guid>
             <pubDate>Fri, 09 Apr 2021 14:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：波音737 Max客机的电气故障问题影响到约90架飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8793158.d.html</link>
-            <guid>2112806</guid>
-            <pubDate>Fri, 09 Apr 2021 14:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国20年期国债收益率从日内高点回落，现报2.231%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8792903.d.html</link>
-            <guid>2112805</guid>
-            <pubDate>Fri, 09 Apr 2021 13:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【Wedbush：特斯拉在中国的销售势头强劲】Wedbush分析师Daniel Ives周五在报告中表示，特斯拉在中国的销售表现良好。此前公布的中国市场数据显示对特斯拉的需求正在持续强劲回升。Ives表示，3月份特斯拉汽车交付量为35,500辆，大约是2月份的两倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8792754.d.html</link>
-            <guid>2112803</guid>
-            <pubDate>Fri, 09 Apr 2021 13:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Moderna(MRNA.O)涨超5%，据报道，研究人员即将尝试使用该公司的mRNA(信使核糖核酸)技术平台研发艾滋病毒疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8792614.d.html</link>
-            <guid>2112802</guid>
-            <pubDate>Fri, 09 Apr 2021 13:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同益股份：光刻胶基材有部分已通过国内光刻胶生产厂商测试 目前有少量销售】同益股份(300538)表示，公司引进的光刻胶基材已经进入国内光刻胶生产厂商及面板厂商持续测试中，有部分已通过国内光刻胶生产厂商测试，目前有少量销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5934302.d.html</link>
-            <guid>2112801</guid>
-            <pubDate>Fri, 09 Apr 2021 13:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全国人大常委会副委员长王晨：集中力量突破“卡脖子”关键技术 不断提升自主创新和原始创新能力】全国人大常委会副委员长王晨7日至8日在山东调研时强调，新一轮科技革命和产业变革正在重塑全球经济和产业格局。要深入实施创新驱动发展战略，完善科技创新体系，大力培养科技人才，集中力量突破“卡脖子”关键技术，不断提升自主创新和原始创新能力。要围绕“十四五”规划确定的目标任务，坚持创新在我国现代化建设全局中的核心地位，充分发挥科技创新的关键和中坚作用，依靠科技创新塑造发展新优势，加快推进新旧动能转换，努力推动经济体系优化升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8792443.d.html</link>
-            <guid>2112800</guid>
-            <pubDate>Fri, 09 Apr 2021 13:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：一季度全球汽车业痛失600亿美元，100万辆汽车因缺芯推迟交付】全球车企“芯片短缺”问题愈演愈烈，据报道，全球汽车产业从去年年底开始受到芯片供给不足的困扰。大众、丰田、本田、日产、福特以及通用等多家汽车公司先后宣布停产或减产计划。市场研究机构英国埃信华迈公司曾预测，今年第一季度，全球将有100万辆汽车因“缺芯”推迟交付。全年全球汽车产业销售额将减少600亿美元。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5934223.d.html</link>
-            <guid>2112799</guid>
-            <pubDate>Fri, 09 Apr 2021 13:52:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟寻求与辉瑞签订新的疫苗供应协议，将在2022年-2023年提供18亿剂疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5933990.d.html</link>
-            <guid>2112798</guid>
-            <pubDate>Fri, 09 Apr 2021 13:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯媒体VTimes：俄罗斯政府将讨论禁止土耳其游客入境。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8791951.d.html</link>
-            <guid>2112797</guid>
-            <pubDate>Fri, 09 Apr 2021 13:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  晶科能源(JKS.N)跌超10%，公司第一季度亏损3.63亿元，同比转亏。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8791836.d.html</link>
-            <guid>2112796</guid>
-            <pubDate>Fri, 09 Apr 2021 13:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵金属网站Kitco：美国PPI超预期】金银承压最新公布的美国3月PPI数据高于预期，提振美指并推升美债收益率，现货金银价格应声下跌。PPI数据本身不直接预示通胀即将出现，但值得注意的是3月PPI月率录得1%，为2月录得的0.5%的两倍。若是将该报告与近期美债收益率走势结合来看，确实表明未来物价可能会出现显著上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8791816.d.html</link>
-            <guid>2112795</guid>
-            <pubDate>Fri, 09 Apr 2021 13:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  高盛公司将瑞声科技评级上调至买进，目标价58港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8791739.d.html</link>
-            <guid>2112794</guid>
-            <pubDate>Fri, 09 Apr 2021 13:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【克宫：对菲利普亲王去世表示深切哀悼】白金汉宫9日宣布，英国女王伊丽莎白二世的丈夫菲利普亲王于当地时间今天早上在温莎城堡去世，享年99岁。据俄罗斯卫星网刚刚消息，克里姆林宫表示，俄罗斯总统普京已向伊丽莎白二世发去唁电，对菲利普亲王的去世表示深切哀悼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5933426.d.html</link>
-            <guid>2112793</guid>
-            <pubDate>Fri, 09 Apr 2021 13:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波司登(03998.HK)：本公司预期2020/2021财年的收入和本公司权益持有人应占利润较截至2020年3月31日止年度同期分别约有10%-15%和约40%的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8791537.d.html</link>
-            <guid>2112792</guid>
-            <pubDate>Fri, 09 Apr 2021 13:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  细胞分析公司Celcuity大涨超50%，公司与辉瑞(PFE.N)达成开发和商业化乳腺癌药物Gedatolisib的许可协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8790903.d.html</link>
-            <guid>2112791</guid>
-            <pubDate>Fri, 09 Apr 2021 13:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  海湾资源涨15%，公司2020年营收同比增长166%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8790861.d.html</link>
-            <guid>2112790</guid>
-            <pubDate>Fri, 09 Apr 2021 13:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行行长：汇率的突然变化是不受欢迎的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5932428.d.html</link>
-            <guid>2112789</guid>
-            <pubDate>Fri, 09 Apr 2021 13:39:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行行长：有可能进行外汇干预。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8790598.d.html</link>
-            <guid>2112788</guid>
-            <pubDate>Fri, 09 Apr 2021 13:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数站上4100点，续刷历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5931834.d.html</link>
-            <guid>2112787</guid>
-            <pubDate>Fri, 09 Apr 2021 13:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  波音跌2%，早前公司通报称部分737 Max客机出现电气故障问题，多家航司已停飞涉事飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8789942.d.html</link>
-            <guid>2112786</guid>
-            <pubDate>Fri, 09 Apr 2021 13:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[搜狐高开13.2%，搜狗涨5%，有消息称腾讯私有化搜狗的交易接近完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5931482.d.html</link>
-            <guid>2112785</guid>
-            <pubDate>Fri, 09 Apr 2021 13:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘涨0.1％，标普500跌0.03％，纳指跌0.3％】波音跌1.8％，公司发现部分737 Max飞机存在一个潜在的电气问题，已通知16家客户停飞直到问题解决。搜狐涨12.1%，传腾讯收购搜狗交易将获批。FuboTV涨7.7%，公司获世界杯南美区预选赛的独家流媒体转播权。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5931460.d.html</link>
-            <guid>2112784</guid>
-            <pubDate>Fri, 09 Apr 2021 13:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新雷能年度报告：2020年净利润同比增长98% 拟10转6派0.65元】新雷能发布年报，实现营业收入8.43亿元，同比增长营业收入；净利润1.23亿元，同比增长98.07%；基本每股收益0.74元；拟10转6派0.65元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5931423.d.html</link>
-            <guid>2112783</guid>
-            <pubDate>Fri, 09 Apr 2021 13:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本共同网，日本国内新冠感染者9日累计超过50万人。2月上旬达到40万人后，约两个月期间增加10万人，快速上升的势头持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5931188.d.html</link>
-            <guid>2112782</guid>
-            <pubDate>Fri, 09 Apr 2021 13:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日财经TOP10】➊「习近平：坚决遏制电信网络诈骗犯罪多发高发态势」➋「商务部：坚决反对美方将7家中国相关机构列入出口管制“实体清单”」➌「国家统计局：3月份CPI同比涨0.4% PPI同比涨4.4%」➍「四部门：允许符合条件非居民在海南自贸港内购买房产」➎「各地严查“炒房”蛛丝马迹：房贷利率跳涨 银行放贷审慎」➏「“北斗掉线”让司机自杀？北斗工程师忍不住了：里面的误会太多了」➐「顺丰控股召开股东大会 董事长王卫因业绩预亏致歉」➑「百世快递、极兔因“低价倾销”被罚：义乌部分分拨中心停运」➒「奥马电器内幕交易案未了：原融钰集团董事长尹宏伟拖欠千万罚金」➓「李宁的爱国营销，玩砸了」]]></title>
-            <guid>2112781</guid>
-            <pubDate>Fri, 09 Apr 2021 13:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙商证券：网传“邱冠华”表述观点与公司对信贷社融研判观点不符】浙商证券发布《关于网络引用“邱冠华”观点的声明》称，3月29日，公司发现，有网络以“邱冠华”（与公司研究所所长同名）的名义发布央行货币信贷政策解读。公司邱冠华未召开过主题为“解读央行3月25日召开的信贷结构调整会议”的电话会议，相关网传信息表述的观点与公司对信贷社融研判发表的观点不符。浙商证券最新研究观点请以官方发布的研究报告为准，切勿轻信任何其他渠道未经核实的内容，以防止被误导。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8789311.d.html</link>
-            <guid>2112780</guid>
-            <pubDate>Fri, 09 Apr 2021 13:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行行长：现在考虑收紧货币政策还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5930626.d.html</link>
-            <guid>2112779</guid>
-            <pubDate>Fri, 09 Apr 2021 13:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【太极股份年度报告：2020年净利润同比增长9.94% 拟10派1.91元】太极股份发布年报，实现营业收入85.33亿元，同比增长20.81%；净利润3.69亿元，同比增长9.94%；基本每股收益0.6373元，拟每10股派发现金红利1.91元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8788773.d.html</link>
-            <guid>2112778</guid>
-            <pubDate>Fri, 09 Apr 2021 13:21:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中泰化学：预计一季度净利同比增加5311.00%—5697.50%】中泰化学公告，公司2021年第一季度业绩预计增加7亿元到7.5亿元，同比增长5311.00%—5697.50%。业绩变动的原因主要是受市场影响，公司主要产品聚氯乙烯树脂、粘胶纤维、粘胶纱价格及销量较上年同期有较大幅度上涨所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5930379.d.html</link>
-            <guid>2112777</guid>
-            <pubDate>Fri, 09 Apr 2021 13:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联创光电年度报告：2020年净利润同比增长39% 拟10派0.58元】联创光电发布年报，实现营业收入38.27亿元，同比减少12.12%；净利润2.7亿元，同比增长38.58%；基本每股收益0.61元；拟10派0.58元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5929690.d.html</link>
-            <guid>2112776</guid>
-            <pubDate>Fri, 09 Apr 2021 13:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【普利特年度报告：2020年净利润同比上升140% 拟10送2派0.5元】普利特发布年报，实现营业收入44.48亿元，同比上升23.54%；净利润3.96亿元，同比上升139.99%；基本每股收益0.4683元，拟每10股派发现金红利0.5元(含税)，送红股2股(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5929628.d.html</link>
-            <guid>2112775</guid>
-            <pubDate>Fri, 09 Apr 2021 13:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿拉斯加航空：收到波音关于737 Max的警告，已停飞4架客机。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmxzfmk5929584.d.html</link>
-            <guid>2112774</guid>
-            <pubDate>Fri, 09 Apr 2021 13:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【千红制药年度报告：2020年净亏损1.32亿元 拟10派1.2元】千红制药发布年报，实现营业收入16.68亿元，同比下降0.45%；净亏损1.32亿元，上年度为净利润2.63亿元；基本每股亏损0.11元，拟每10股派发现金红利1.2元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-09/detail-ikmyaawa8787666.d.html</link>
-            <guid>2112773</guid>
-            <pubDate>Fri, 09 Apr 2021 13:14:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

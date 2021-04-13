@@ -4,18 +4,401 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 13 Apr 2021 02:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Apr 2021 03:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[中国3月出口同比(按人民币计)今值: 20.7% ， 预期: 28.6% ， 前值: 10.9%。中国3月出口同比(按美元计)今值: 30.6% ， 预期: 38% ， 前值: 18.1%。中国3月进口同比(按美元计)今值: 38.1% ， 预期: 24.4% ， 前值: 6.5%。中国3月贸易帐(按美元计)(亿美元)今值: 138 ， 预期: 520 ， 前值: 781.7。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9377395.d.html</link>
+            <guid>2118798</guid>
+            <pubDate>Tue, 13 Apr 2021 03:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本经济产业省：日本4-6月粗钢产量季度环比减少1.8%，为2324万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9376878.d.html</link>
+            <guid>2118797</guid>
+            <pubDate>Tue, 13 Apr 2021 03:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：有市场传言美国经济增长加快和美国国债收益率上升将推高美元兑日元，但这很难说，因为外汇市场受各种因素影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6517924.d.html</link>
+            <guid>2118796</guid>
+            <pubDate>Tue, 13 Apr 2021 03:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西太平洋银行前瞻新西兰联储利率决议：短期内官方现金利率（OCR）将维持在0.25%不变】预计新西兰联储将维持货币政策不变，在可预见的未来官方现金利率（OCR）将保持在0.25%。新西兰经济开局较弱，将抵消全球经济前景迅速改善的影响。此外，政府上月公布的楼市政策对该联储房价预估影响不大。该行认为新西兰联储已为短期内的通胀飙升做好了准备，但这将是暂时的，预计新西兰联储将重申持续回归通胀和就业目标仍需相当长的时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9376774.d.html</link>
+            <guid>2118795</guid>
+            <pubDate>Tue, 13 Apr 2021 03:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【资金供需平衡，银行间回购利率持稳】央行今日继续在公开市场开展100亿元逆回购操作，持平到期。银行间隔夜和7天质押式回购加权平均利率盘初互有涨跌，幅度都不大。截止北京时间11:00，1天期回购利率基本持平，报1.7747%；7天期回购利率上涨4个基点，报2.0200%。彭博援引交易员表示，早盘资金面不松不紧，整体供需平衡。不过1年期利率互换迈向1月下旬来低位，显示市场对未来资金面不悲观。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9376643.d.html</link>
+            <guid>2118794</guid>
+            <pubDate>Tue, 13 Apr 2021 03:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台积电：相信亚利桑那州晶圆厂计划将获得成功】台积电发言人Nina Kao在电邮中称，该公司在亚利桑那州的项目位列美国历史上最大的外国直接投资行列，公司相信这项与美国政府合作的计划将获得成功。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9376482.d.html</link>
+            <guid>2118792</guid>
+            <pubDate>Tue, 13 Apr 2021 03:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币涨破61000美元/枚，日内涨幅近2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9376334.d.html</link>
+            <guid>2118791</guid>
+            <pubDate>Tue, 13 Apr 2021 03:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广发证券：3月末超储率回升至1.4%左右】 广发证券刘郁、肖金川在研报中指出，M0和财政存款回流，但3月末超储率可能仍不高。一是节后现金回流，3月M0存量环比减少5425亿元，大致相当于超额准备金率上升0.28个百分点。二是财政存款减少4854亿元，约对应超额准备金率上升0.25个百分点。三是存款缴准，新增居民和企业存款合计36690亿元，需缴准约3449亿元，对应超额准备金率约下降0.18个百分点。三个因素合计，对超额准备金率的正面影响为0.35个百分点。3月末的超额准备金率可能会较2月末的1.0%略有回升，但仍明显低于去年同期的2.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6516900.d.html</link>
+            <guid>2118790</guid>
+            <pubDate>Tue, 13 Apr 2021 03:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[隔夜shibor报1.7810%，下跌1.1个基点；7天shibor报2.0610%，上涨1.1个基点；3个月shibor报2.6050%，下跌0.3个基点。]]></title>
+            <guid>2118789</guid>
+            <pubDate>Tue, 13 Apr 2021 03:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本经济产业省METI：日本4-6月粗钢产量同比增长28.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6516628.d.html</link>
+            <guid>2118788</guid>
+            <pubDate>Tue, 13 Apr 2021 03:02:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泓德睿源三年持有期灵活配置今日发行，截至10时30分认购规模近10亿】从渠道人士处获悉，截至上午10点30分，由泓德基金研究部总监秦毅拟管理的泓德睿源三年持有期灵活配置混合型基金认购规模接近10亿元。据悉，该基金的最低募集份额总额为2亿份，最低募集金额为2亿元人民币；募集规模上限为80亿元人民币（不包含募集利息），采用末日比例确认的方式实现募集规模的有效控制。数据显示，截至2020年12月31日，秦毅目前在管4只权益型基金与1只债券型基金，整体管理规模为229.88亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9375572.d.html</link>
+            <guid>2118787</guid>
+            <pubDate>Tue, 13 Apr 2021 03:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福岛渔业界强烈反对核废水入海】今天，日本政府正式决定排核废水入海。有民调显示，50%日本国民不同意核废水排放入海。福岛渔业界强烈反对该决定，称恐将给当地渔业造成沉重打击。据了解，2011年福岛核电站核泄漏严重影响福岛县渔业，2020年福岛县近海捕鱼量不足事故前两成。韩国民众也对此深表担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9375407.d.html</link>
+            <guid>2118786</guid>
+            <pubDate>Tue, 13 Apr 2021 03:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股航运板块短线走高，太平洋航运涨4.2%，中远海运涨2.8%，中国外运涨2.6%，中远海发涨2.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9375231.d.html</link>
+            <guid>2118785</guid>
+            <pubDate>Tue, 13 Apr 2021 03:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：政府成功部署了灵活的财政支出，这在支持日本经济方面发挥了关键作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9374691.d.html</link>
+            <guid>2118784</guid>
+            <pubDate>Tue, 13 Apr 2021 02:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：个人认为日本可以在结构改革方面做得更好。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9374550.d.html</link>
+            <guid>2118783</guid>
+            <pubDate>Tue, 13 Apr 2021 02:58:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据韩联社，由31个韩国公民团体组成的“脱核市民行动”13日发表声明，谴责日本政府擅自决定向大海排放核电站废水，并将日本政府的决定界定为核恐怖活动，称将谋求一切手段阻止污水入海。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9373971.d.html</link>
+            <guid>2118782</guid>
+            <pubDate>Tue, 13 Apr 2021 02:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美债10年收益率日内涨幅达到1.07%，报1.684。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9373922.d.html</link>
+            <guid>2118781</guid>
+            <pubDate>Tue, 13 Apr 2021 02:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【FF选择英伟达NVIDIA Drive Orin平台芯片 全力升级自动驾驶】北京时间4月13日，总部位于美国加州的全球共享智能出行生态系统公司法拉第未来（FF）宣布将在其极致奢华旗舰产品FF 91电动车上搭载英伟达NVIDIA Drive Orin平台芯片。FF91计划在2022年上市时实现先进的高速公路自动驾驶功能和先进的停车和召唤功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6514936.d.html</link>
+            <guid>2118779</guid>
+            <pubDate>Tue, 13 Apr 2021 02:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国疾控机构罗伯特·科赫研究所：德国新增10810例新冠肺炎确诊病例，累计达3022323例，新增294例死亡病例，累计达78746例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6514619.d.html</link>
+            <guid>2118776</guid>
+            <pubDate>Tue, 13 Apr 2021 02:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【林郑月娥：五月中内地居民赴港豁免14天检疫】4月12日，香港特区行政长官林郑月娥在记者会上表示，香港第四波新冠肺炎疫情到目前为止已明显受控，确诊病例及源头未明病例显著减少，“外防输入”成功阻截变种病毒流入社区，留在医院的确诊病人下降至125名，且九成情况稳定。她认为，以全球标准来说，香港应属低风险地区。此外，特区政府4月底将把“回港易”计划扩展到内地其他地区，香港居民通过“回港易”回港，可以免除14天强制检疫。林郑月娥还提到，计划在5月中旬推出“来港易”，允许内地居民无须14日强制检疫来港。  （中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6514109.d.html</link>
+            <guid>2118775</guid>
+            <pubDate>Tue, 13 Apr 2021 02:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  自4月13日零时起，山东省内潍坊、滨州、德州、济宁、枣庄、菏泽、日照、泰安等各地焦炭生产企业干熄焦价格在原价格基础上均上调110元/吨，湿熄焦上调100元/吨。（我的钢铁网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6513953.d.html</link>
+            <guid>2118774</guid>
+            <pubDate>Tue, 13 Apr 2021 02:52:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：日本央行将通过收益率曲线控制（YCC）在很长一段时间内继续维持宽松的货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6513885.d.html</link>
+            <guid>2118773</guid>
+            <pubDate>Tue, 13 Apr 2021 02:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本政府拟为稳定确保半导体助推投资】据日本共同社，日本政府12日召开经济增长战略会议，面向稳定确保陷入全球供应不足的半导体，讨论了支援国内投资的措施。应对支撑数字社会的半导体需求成为国家的课题。官房长官加藤胜信表示，“将促进研发和投资，力图构筑切实的供应体制”，强调将加紧目前迟缓的尖端品国产化。此次会议邀请民间专家等召开，讨论将被反映到夏季制定的经济增长战略中去。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6513678.d.html</link>
+            <guid>2118771</guid>
+            <pubDate>Tue, 13 Apr 2021 02:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达60亿元。]]></title>
+            <guid>2118770</guid>
+            <pubDate>Tue, 13 Apr 2021 02:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：日本央行将继续保持宽松政策。日本央行3月的评估使得宽松政策更加灵活和可持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6513509.d.html</link>
+            <guid>2118768</guid>
+            <pubDate>Tue, 13 Apr 2021 02:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾主要股指下跌1%，至6,453.13点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6513428.d.html</link>
+            <guid>2118767</guid>
+            <pubDate>Tue, 13 Apr 2021 02:50:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海关总署：四方面促进我国外贸高质量发展】海关总署新闻发言人、统计分析司司长李魁文表示，在促进外贸高质量发展措施方面，海关坚决落实党中央、国务院的决策部署，扎实做好“六稳”工作，全面落实“六保”任务，巩固口岸疫情防控和促进外贸稳增长的成效，不断强化监管、优化服务，推动外贸量稳质升。一是继续加强口岸疫情防控。二是持续优化口岸营商环境。三是支持打造高水平对外开放平台。四是深入推进改革创新。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6513056.d.html</link>
+            <guid>2118766</guid>
+            <pubDate>Tue, 13 Apr 2021 02:50:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署新闻发言人李魁文：我国外贸保持去年下半年来持续向好势头，有助全年量稳质升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6512785.d.html</link>
+            <guid>2118765</guid>
+            <pubDate>Tue, 13 Apr 2021 02:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：需要时间，但能够实现2％的通胀目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9371695.d.html</link>
+            <guid>2118764</guid>
+            <pubDate>Tue, 13 Apr 2021 02:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南出台自贸试验区深化改革创新意见，积极申建“空中丝绸之路”自由贸易港】中共河南省委、河南省人民政府发布了《关于推进中国（河南）自由贸易试验区深化改革创新打造新时代制度型开放高地的意见》。意见提出，依托郑州航空港经济综合实验区，积极争取设立河南自贸试验区扩展区域，不断拓展探索创新领域，实施更高水平的投资贸易自由化政策和制度，建设国际物流枢纽、新型国际贸易中心、先进制造业基地和航空经济先行示范区，打造更具国际竞争力的自由贸易园区。积极申建“空中丝绸之路”自由贸易港。（大河报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9371453.d.html</link>
+            <guid>2118763</guid>
+            <pubDate>Tue, 13 Apr 2021 02:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【我国与RCEP贸易伙伴一季度进出口增长22.9%】海关总署13日发布的数据显示，今年一季度，我国对“一带一路”沿线国家、RCEP贸易伙伴进出口分别增长21.4%和22.9%，在主要贸易伙伴进出口增长的同时，外贸更加多元化。（新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9371311.d.html</link>
+            <guid>2118762</guid>
+            <pubDate>Tue, 13 Apr 2021 02:46:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海关总署谈“一箱难求”：密切关注国际运输市场变化】海关总署新闻发言人、统计分析司司长李魁文表示，受国际疫情影响，交通运输市场特别是海运市场在运量、运价等方面出现了“一箱难求”等新情况。海关总署会同交通运输等相关部门，密切关注国际运输市场变化，在营商环境方面，会同有关部门持续用力，促进外贸健康发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9371048.d.html</link>
+            <guid>2118761</guid>
+            <pubDate>Tue, 13 Apr 2021 02:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【民企保持我国第一外贸经营主体地位】海关总署13日发布的数据显示，今年一季度，#我国民营企业进出口3.95万亿元#，同比增长42.7%，占我国外贸总值的46.7%，比去年同期提升4.4个百分点，继续保持我国第一大外贸经营主体地位。民企外贸韧劲继续凸显，活力持续增强。   （新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9371017.d.html</link>
+            <guid>2118760</guid>
+            <pubDate>Tue, 13 Apr 2021 02:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球白手起家U40富豪前六名四位来自中国】4月13日，胡润研究院发布的《2021胡润全球白手起家U40富豪榜》显示，全球共找到79位40岁以下的白手起家十亿美金企业家，比去年多26位。总财富比去年增加1.5万亿，达到3.4万亿。马克·扎克伯格以6530亿元财富成为全球40岁以下白手起家首富。前六名中四位来自中国。抖音创始人38岁张一鸣财富增加2500亿元，相当于这一年每天增加7个亿，达到3500亿元，位列世界第二。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9370842.d.html</link>
+            <guid>2118759</guid>
+            <pubDate>Tue, 13 Apr 2021 02:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河钢唐钢镀铝板国内市场占有率超30%】今年以来，河钢唐钢镀铝板订单量实现较大幅度增长，一季度产销量突破3万吨，国内市场占有率超过30%，成为首季该企业创效重要增长点。镀铝板具有良好的耐腐蚀性和耐热性，其耐蚀性为普通镀锌产品的3至6倍。（河北日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6511485.d.html</link>
+            <guid>2118758</guid>
+            <pubDate>Tue, 13 Apr 2021 02:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南省委、省政府发布《意见》推进河南自贸试验区深化改革创新打造新时代制度型开放高地】记者昨日从河南省政府获悉，河南省委、省政府发布《关于推进中国（河南）自由贸易试验区深化改革创新打造新时代制度型开放高地的意见》，加快建设制度型开放高地。《意见》提出，到2025年，基本形成以投资贸易自由化便利化为核心的制度型开放政策体系，营商环境达到国内一流水平，主导产业、新业态新模式和外向型经济快速增长，服务共建“一带一路”的现代综合交通枢纽地位进一步增强。（河南商报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9370370.d.html</link>
+            <guid>2118757</guid>
+            <pubDate>Tue, 13 Apr 2021 02:41:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【媒体评论：房地产税立法如何积极稳妥推进】房地产税立法关系千家万户的利益。房地产税开征的难点绝对不在技术层面上，而是在利益格局的调整上。房地产市场能否承受房地产税开征的压力，可能是最重要的需要考虑的难题。房地产税制的设计还必须考虑到已有的房地产五税（房产税、城镇土地使用税、耕地占用税、土地增值税、契税五种只对房地产开征的税种）所提供的税收收入占全部税收收入之比已经不低的事实。积极稳妥推进房地产税立法工作，建议考虑轻税原则。唯有如此，房地产税立法才能得到尽可能多的老百姓拥护，房地产税开征工作才有望顺利进行。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6511276.d.html</link>
+            <guid>2118756</guid>
+            <pubDate>Tue, 13 Apr 2021 02:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  海关总署新闻发言人李魁文：跨境电商作为新兴贸易业态，今年以来延续了去年良好的发展态势，也成为外贸稳增长的主要力量之一。一季度，我国跨境电商进出口4195亿元，同比增长46.5%，其中出口2808亿元，增长69.3%；进口1387亿元，增长15.1%。海关总署将与有关部委一道，不断创新优化监管制度，支持跨境电商等新业态健康有序发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6510720.d.html</link>
+            <guid>2118755</guid>
+            <pubDate>Tue, 13 Apr 2021 02:39:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相菅义伟：福岛核污水排放与日本前首相安倍晋三的声明并不矛盾，福岛情况“在控制之中”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6510029.d.html</link>
+            <guid>2118750</guid>
+            <pubDate>Tue, 13 Apr 2021 02:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南自贸港又一批重点项目集中签约协议投资金额约657亿元】据海南自贸港消息， 13日， 海南自由贸易港2021年(第二批)重点项目集中签约活动在海南国际会展中心举行，共签约106个项目，协议投资金额约657亿元，其中外资项目22个，内资项目84个。签约项目三次产业占比分别为7.5%、10.4%、82.1%，项目涵盖旅游业、现代服务业、高新技术产业“三大产业”；入驻重点园区项目41个，占比达38.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9368957.d.html</link>
+            <guid>2118749</guid>
+            <pubDate>Tue, 13 Apr 2021 02:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东生猪养殖企业获贷款贴息】从山东省财政厅获悉，山东强化资金政策保障促进生猪稳产保供，对生猪养殖企业贷款进行贴息，省级财政贴息2700万元，撬动全省银行贷款34.46亿元。（大众日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6509733.d.html</link>
+            <guid>2118748</guid>
+            <pubDate>Tue, 13 Apr 2021 02:34:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：密切关注最新的国际运输市场变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6509573.d.html</link>
+            <guid>2118747</guid>
+            <pubDate>Tue, 13 Apr 2021 02:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署新闻发言人李魁文：我国1-3月跨境电子商务出口同比增长69.3％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9368455.d.html</link>
+            <guid>2118746</guid>
+            <pubDate>Tue, 13 Apr 2021 02:32:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新西兰ASB银行前瞻新西兰联储利率决议：沟通焦点将是抑制长期利率预期】新西兰联储本次利率决议将不会公布最新的经济预测，预计重点将是抑制长期利率预期。随着大流行似乎即将结束，全球金融市场情绪有所改善，支持了2021年新西兰和海外国家10年期国债收益率的大幅飙升。虽然美国可能会在未来三个月内达到群体免疫，但在新西兰开放边境并恢复正常之前，仍有很长的路要走。预计新西兰联储希望避免过早收紧货币政策，12月GDP季率意外下降凸显了未来一年新西兰经济复苏的脆弱性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9368416.d.html</link>
+            <guid>2118745</guid>
+            <pubDate>Tue, 13 Apr 2021 02:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日经225指数上午收盘报29848.41点，涨幅1.05%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9368354.d.html</link>
+            <guid>2118744</guid>
+            <pubDate>Tue, 13 Apr 2021 02:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱：预计印度4月整体CPI同比放缓至4.20%，主要反映基数效应逆转。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6509367.d.html</link>
+            <guid>2118743</guid>
+            <pubDate>Tue, 13 Apr 2021 02:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【外交部批日本核废水排海极不负责】外交部回应日本决定核废水排海：日方在未穷尽安全处置手段的情况下，不顾国内外质疑和反对，未经与周边国家和国际社会充分协商，单方面决定以排海方式处置福岛核电站事故核废水，这种做法极其不负责任，将严重损害国际公共健康安全和周边国家人民切身利益。强烈敦促日方认清自身责任，秉持科学态度，履行国际义务，对国际社会、周边国家以及本国国民的严重关切作出应有回应。重新审视福岛核电站核废水处置问题，在同各利益攸关国家和国际原子能机构充分协商并达成一致前，不得擅自启动排海。  （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6509319.d.html</link>
+            <guid>2118742</guid>
+            <pubDate>Tue, 13 Apr 2021 02:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【易纲、肖亚庆等出席博鳌亚洲论坛2021年年会】博鳌亚洲论坛发布2021年年会嘉宾名单，工信部部长肖亚庆、财政部部长刘昆、人民银行行长易纲等政府代表，以及桥水基金联合主席达利欧、特斯拉CEO马斯克、华为副董事长胡厚崑等将出席。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6508790.d.html</link>
+            <guid>2118740</guid>
+            <pubDate>Tue, 13 Apr 2021 02:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  无线耳机板块异动拉升，共达电声涨停，歌尔股份涨7%，立讯精密、鹏辉能源等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6508731.d.html</link>
+            <guid>2118739</guid>
+            <pubDate>Tue, 13 Apr 2021 02:29:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海关总署：大力支持海南自贸港建设 加快零关税政策及海关监管办法全面落地实施】海关总署新闻发言人、统计分析司司长李魁文今日介绍2021年一季度进出口情况，表示支持打造高水平对外开放平台。海关大力支持海南自由贸易港建设，加快零关税政策及海关监管办法全面落地实施，推动海关特殊监管区域与自贸试验区融合发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9367688.d.html</link>
+            <guid>2118738</guid>
+            <pubDate>Tue, 13 Apr 2021 02:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本核污水真能“一倒了之”？影响有多大？】福岛核电站放射性废水主要有三个来源，反应堆原有的冷却剂、事故后为持续冷却堆芯而新注入的水、大量渗入反应堆的地下水及雨水等。东京电力共准备了约1000个储水罐，目前9成已装满。所有储水设施的总容量约为137万吨，预计到2022年秋季达到极限。日本政府决定向海洋排放的福岛核电站废水，是经处理后的废水。但这些废水中依然含有氚、锶、铯、碘等放射性核素。专家表示，福岛大量废水向太平洋排放后，必将导致放射性核素在排放点附近海域的海洋沉积物和海洋生物中富集，部分核素将随洋流等向其他海域迁移、扩散。（科技日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9367376.d.html</link>
+            <guid>2118737</guid>
+            <pubDate>Tue, 13 Apr 2021 02:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本政府决定将福岛核污水排放入海，美国务院：符合全球公认核安全标准，期待继续协调】日本政府4月13日召开内阁会议正式决定，福岛第一核电站核污水经过滤并稀释后将排入大海。据彭博社最新消息，美国国务院发言人内德·普莱斯当地时间12日对此表态。普莱斯在一份声明中表示，此举符合全球标准。 （环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6508122.d.html</link>
+            <guid>2118736</guid>
+            <pubDate>Tue, 13 Apr 2021 02:26:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国KOSPI指数涨幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6507775.d.html</link>
+            <guid>2118734</guid>
+            <pubDate>Tue, 13 Apr 2021 02:25:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【快讯：创业板指涨逾2％】指数走强，创业板指拉升涨逾2％，沪指涨0.25％，深成指涨1.13％，水产、电子签名、食品安全等板块指数涨幅居前，电力、水电、电力改革等板块指数跌幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9366722.d.html</link>
+            <guid>2118733</guid>
+            <pubDate>Tue, 13 Apr 2021 02:25:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[外交部：我们强烈敦促日方认清自身责任，秉持科学态度，履行国际义务，对国际社会、周边国家以及本国国民的严重关切作出应有回应。重新审视福岛核电站核废水处置问题，在同各利益攸关国家和国际原子能机构充分协商并达成一致前，不得擅自启动排海。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6507671.d.html</link>
+            <guid>2118732</guid>
+            <pubDate>Tue, 13 Apr 2021 02:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[创业板指涨幅扩大至2%，渔业、数字货币板块涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9366611.d.html</link>
+            <guid>2118731</guid>
+            <pubDate>Tue, 13 Apr 2021 02:25:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外交部：对日本决定以海洋排放方式处置核电站事故核废水表示严重关切】外交部： 4月13日，日本政府决定以海洋排放方式处置福岛核电站事故核废水。作为日本近邻和利益攸关方，中方对此表示严重关切。日方在未穷尽安全处置手段的情况下，不顾国内外质疑和反对，未经与周边国家和国际社会充分协商，单方面决定以排海方式处置福岛核电站事故核废水，这种做法极其不负责任，将严重损害国际公共健康安全和周边国家人民切身利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9366388.d.html</link>
+            <guid>2118730</guid>
+            <pubDate>Tue, 13 Apr 2021 02:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  医药生物板块全线走强，热景生物、易瑞生物双双涨停，沃森生物、康泰生物、安科生物、我武生物等纷纷走高。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9366306.d.html</link>
+            <guid>2118729</guid>
+            <pubDate>Tue, 13 Apr 2021 02:23:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署：我国一季度对RCEP贸易伙伴出口增长27.58，自其进囗增长19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6507354.d.html</link>
+            <guid>2118726</guid>
+            <pubDate>Tue, 13 Apr 2021 02:23:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 美国支持日本福岛污水入海决定，称符合全球公认核安全标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6507280.d.html</link>
+            <guid>2118724</guid>
+            <pubDate>Tue, 13 Apr 2021 02:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海关总署新闻发言人、统计分析司司长李魁文：我国一带一路朋友圈持续拓展。一季度，对“一带一路”沿线国家、RCEP贸易伙伴进出口分别增长21.4%、22.9%；其中，越南、印尼以及波兰等国增速明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6507255.d.html</link>
+            <guid>2118723</guid>
+            <pubDate>Tue, 13 Apr 2021 02:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海关总署：一季度我国进口玉米增加437.8%】据海关统计，一季度，我国进口大豆2117.8万吨，增加19%；玉米672.7万吨，增加437.8%；小麦292.5万吨，增加131.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6507203.d.html</link>
+            <guid>2118722</guid>
+            <pubDate>Tue, 13 Apr 2021 02:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生态环境部专家：我国管辖海域不可避免会受到放射性物质的跨界污染影响】生态环境部核与辐射安全中心首席专家刘新华说，日本政府拟决定向海洋排放的福岛核电站废水，是经处理后的废水。但这些废水中依然含有氚、锶、铯、碘等放射性核素。福岛大量废水向太平洋排放后，必将导致放射性核素在排放点附近海域的海洋沉积物和海洋生物中富集，部分核素将随洋流等向其他海域迁移、扩散。日本是我国的近邻，不论日本排放废水是采取近岸排放还是远洋公共海域排放，放射性核素都将随洋流在北太平洋海域扩散，我国管辖海域不可避免会受到放射性物质的跨界污染影响。（科技日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6506934.d.html</link>
+            <guid>2118721</guid>
+            <pubDate>Tue, 13 Apr 2021 02:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北向资金净流入达50亿元。]]></title>
+            <guid>2118720</guid>
+            <pubDate>Tue, 13 Apr 2021 02:21:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[富时中国A50指数期货涨幅扩大至1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6506672.d.html</link>
             <guid>2118719</guid>
             <pubDate>Tue, 13 Apr 2021 02:20:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[富时中国A50指数期货涨幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6506664.d.html</link>
             <guid>2118718</guid>
             <pubDate>Tue, 13 Apr 2021 02:20:50 GMT</pubDate>
         </item>
@@ -222,386 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6500182.d.html</link>
             <guid>2118574</guid>
             <pubDate>Tue, 13 Apr 2021 01:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国加州两家连锁影院宣布永久关闭 包括好莱坞圆顶剧院】美国加州太平洋影院公司（Pacific Theatres）周一宣布，将永久关闭旗下两个连锁影院品牌ArcLight Cinemas与Pacific Theatres的所有影剧院，包括好莱坞日落大道著名的圆顶剧院（Cinerama Dome）。该集团是由于疫情而关闭的一系列公司中的最新一家，这场疫情给影院行业造成了巨大打击。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9358289.d.html</link>
-            <guid>2118561</guid>
-            <pubDate>Tue, 13 Apr 2021 01:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委：加快规划建设京津冀、长三角、粤港澳大湾区等重点城市群城际铁路】发改委印发《2021年新型城镇化和城乡融合发展重点任务》。其中提出，建设轨道上的城市群和都市圈。加快规划建设京津冀、长三角、粤港澳大湾区等重点城市群城际铁路，支持其他有条件城市群合理规划建设城际轨道交通。优化综合交通枢纽布局，建设一体化综合客运枢纽和衔接高效的综合货运枢纽，促进各类交通方式无缝接驳、便捷换乘。推广交通“一卡通”、二维码“一码畅行”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6499115.d.html</link>
-            <guid>2118553</guid>
-            <pubDate>Tue, 13 Apr 2021 01:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中金所10年期国债气候主力合约涨0.27%，5年期主力合约涨0.19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9357995.d.html</link>
-            <guid>2118552</guid>
-            <pubDate>Tue, 13 Apr 2021 01:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委：着力解决大城市住房突出问题 加快培育发展住房租赁市场】坚持房子是用来住的、不是用来炒的定位，因地制宜、多策并举，稳定地价、房价和预期，促进房地产市场平稳健康发展。加快培育发展住房租赁市场，有效盘活存量住房资源，有力有序扩大租赁住房供给，完善长租房政策，合理调控租金水平。以人口流入多、房价高的城市为重点，扩大保障性租赁住房供给，着力解决困难群体和农业转移人口、新就业大学生等新市民住房问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6498889.d.html</link>
-            <guid>2118546</guid>
-            <pubDate>Tue, 13 Apr 2021 01:51:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6497921.d.html</link>
-            <guid>2118539</guid>
-            <pubDate>Tue, 13 Apr 2021 01:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[创业板指低开高走，涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9356878.d.html</link>
-            <guid>2118538</guid>
-            <pubDate>Tue, 13 Apr 2021 01:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委：深化改革农村土地制度】积极探索实施农村集体经营性建设用地入市制度，出台稳妥有序推进农村集体经营性建设用地入市的指导意见。推动深化农村宅基地制度改革试点地区率先健全宅基地分配、流转、抵押、退出、使用、收益、审批、监管等制度。鼓励农村集体经济组织及其成员采取自营、出租、入股、合作等方式，盘活农村闲置宅基地和地上房屋。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9356819.d.html</link>
-            <guid>2118537</guid>
-            <pubDate>Tue, 13 Apr 2021 01:48:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净流入达30亿元。]]></title>
-            <guid>2118533</guid>
-            <pubDate>Tue, 13 Apr 2021 01:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[发改委：健全城市群一体化发展机制。制定京津冀协同发展、粤港澳大湾区建设、长三角一体化发展“十四五”实施方案。扎实实施成渝地区双城经济圈建设规划纲要。研究编制长江中游、北部湾、关中平原等跨省区城市群实施方案，有序引导省内城市群发展。健全城市群多层次协调机制和成本共担利益共享机制，提高一体化发展水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9356536.d.html</link>
-            <guid>2118531</guid>
-            <pubDate>Tue, 13 Apr 2021 01:47:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委：推动城镇基本公共服务覆盖未落户常住人口】鼓励在人口集中流入城市扩大义务教育阶段公办学校学位供给，优化事业编制调配、增加教师编制数量。支持有条件地区将未落户常住人口纳入普惠性学前教育保障范围。简化社保转移接续程序。完成养老保险全国统筹信息系统建设。推进普通门诊费用跨省直接结算。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9356415.d.html</link>
-            <guid>2118518</guid>
-            <pubDate>Tue, 13 Apr 2021 01:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行将以直接购买商业票据的方式提供4000亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6497350.d.html</link>
-            <guid>2118517</guid>
-            <pubDate>Tue, 13 Apr 2021 01:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生指数上涨0.9%；友邦保险引领上涨。]]></title>
-            <guid>2118516</guid>
-            <pubDate>Tue, 13 Apr 2021 01:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日经225指数日内涨幅达到1.01%，报29836.12。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6497184.d.html</link>
-            <guid>2118515</guid>
-            <pubDate>Tue, 13 Apr 2021 01:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委：城区常住人口300万以下城市落实全面取消落户限制政策】发改委印发《2021年新型城镇化和城乡融合发展重点任务》，有序放开放宽城市落户限制，城区常住人口300万以下城市落实全面取消落户限制政策，实行积分落户政策的城市确保社保缴纳年限和居住年限分数占主要比例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9355988.d.html</link>
-            <guid>2118501</guid>
-            <pubDate>Tue, 13 Apr 2021 01:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[煤炭概念板块异动下跌，陕西黑猫跌超6%，美锦能源、郑州煤电、云煤能源、靖远煤电等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9355447.d.html</link>
-            <guid>2118492</guid>
-            <pubDate>Tue, 13 Apr 2021 01:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩政府召开副部级会议讨论日本核水入海对策】据韩联社，韩国政府13日紧急召开有关部门次官（副部长）会议，对日本政府宣布将福岛核电站污水排入大海事宜进行讨论。外交部、海洋水产部、原子能安全委员会等有关部门次官与会，共同讨论政府对日方所作决定的立场及对策。主持会议的国务调整室室长具润哲将在会后召开记者会介绍会议结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6496023.d.html</link>
-            <guid>2118486</guid>
-            <pubDate>Tue, 13 Apr 2021 01:42:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[水产养殖板块开盘继续拉升领涨，大湖股份、百洋股份涨停，中水渔业、国联水产、獐子岛等多股涨逾7％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9354309.d.html</link>
-            <guid>2118482</guid>
-            <pubDate>Tue, 13 Apr 2021 01:40:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“资管新规”过渡期结束前夕 信托公司打破刚兑、停售固收产品成常态】 多家信托公司人士处了解到，为了进一步压降规模，部分信托公司非标固定收益类产品已经停售，业务减少情况较为突出。在过渡期大限将至背景下，向投资者树立“破刚兑”信念，和地方政府频频对簿公堂的案例也时有发生。在分析人士看来，当前不少信托公司对传统业务的依赖严重，对转型的路径和方向不清晰，应亟待制定完整的公司战略转型目标，同时加强组织架构、投研体系和人才团队的建设。（北京商报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6495216.d.html</link>
-            <guid>2118481</guid>
-            <pubDate>Tue, 13 Apr 2021 01:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：新兴市场的欧洲债券发行在第一季度有所增长，尽管市场出现了一些波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9353629.d.html</link>
-            <guid>2118478</guid>
-            <pubDate>Tue, 13 Apr 2021 01:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股区块链板块盘初走低，欧科云链跌5.5%，火币科技跌4%，雄岸科技跌2.4%，美图跌1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9353469.d.html</link>
-            <guid>2118476</guid>
-            <pubDate>Tue, 13 Apr 2021 01:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数字货币概念再度活跃，截至发稿，数字认证、飞天诚信、御银股份等多股强势拉升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9353373.d.html</link>
-            <guid>2118473</guid>
-            <pubDate>Tue, 13 Apr 2021 01:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海南板块下挫走弱，览海医疗跌超6%，海南海药、大东海A、葫芦娃、金盘科技跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6494223.d.html</link>
-            <guid>2118465</guid>
-            <pubDate>Tue, 13 Apr 2021 01:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【快讯：水产股继续拉升 大湖股份3连板】大湖股份3连板，中水渔业涨超8%，獐子岛、开创国际、国联水产等个股跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6494171.d.html</link>
-            <guid>2118464</guid>
-            <pubDate>Tue, 13 Apr 2021 01:37:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[调查：所有32位分析师认为韩国央行周四将维持利率于0.50%不变。29位分析师中有20位认为韩国央行到2022年底至少将升息一次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9352754.d.html</link>
-            <guid>2118463</guid>
-            <pubDate>Tue, 13 Apr 2021 01:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大联邦政府出资约59亿加元救助加拿大航空公司】加拿大航空公司当地时间4月12日晚宣布，已经与加拿大联邦政府达成一项协议，联邦政府将通过低息贷款和股权融资的混合方式，为加拿大航空公司提供58.79亿加元的流动性。加拿大副总理兼财政部长克里斯蒂亚·弗里兰当晚在新闻发布会上证实了这一消息。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9352510.d.html</link>
-            <guid>2118461</guid>
-            <pubDate>Tue, 13 Apr 2021 01:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白酒概念开盘走高，水井坊涨超4%，古井贡酒、酒鬼酒、今世缘、泸州老窖跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9352436.d.html</link>
-            <guid>2118458</guid>
-            <pubDate>Tue, 13 Apr 2021 01:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚3月NAB商业景气指数录得25，创有纪录以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6493357.d.html</link>
-            <guid>2118457</guid>
-            <pubDate>Tue, 13 Apr 2021 01:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财政部等发布2021-2030年支持新型显示产业发展进口税收政策】财政部、海关总署、税务总局发布关于2021-2030年支持新型显示产业发展进口税收政策的通知。自2021年1月1日至2030年12月31日，对新型显示器件（即薄膜晶体管液晶显示器件、有源矩阵有机发光二极管显示器件、Micro-LED显示器件，下同）生产企业进口国内不能生产或性能不能满足需求的自用生产性（含研发用，下同）原材料、消耗品和净化室配套系统、生产设备（包括进口设备和国产设备）零配件，对新型显示产业的关键原材料、零配件（即靶材、光刻胶、掩模版、偏光片、彩色滤光膜）生产企业进口国内不能生产或性能不能满足需求的自用生产性原材料、消耗品，免征进口关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9352163.d.html</link>
-            <guid>2118451</guid>
-            <pubDate>Tue, 13 Apr 2021 01:33:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  电力股开盘大幅走低，豫能控股触及跌停，湖北能源、华银电力、闽东电力、新天绿能等跌超7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9352007.d.html</link>
-            <guid>2118446</guid>
-            <pubDate>Tue, 13 Apr 2021 01:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本在提高流动性的拍卖中出售0.5万亿日元的日本国债。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6492926.d.html</link>
-            <guid>2118443</guid>
-            <pubDate>Tue, 13 Apr 2021 01:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国债期货早盘高开，10年期涨0.17%，5年期涨0.12%，2年期涨0.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9351914.d.html</link>
-            <guid>2118439</guid>
-            <pubDate>Tue, 13 Apr 2021 01:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国完全接种新冠疫苗的人数达到总人口的22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9351875.d.html</link>
-            <guid>2118435</guid>
-            <pubDate>Tue, 13 Apr 2021 01:32:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股三大股指悉数翻红。]]></title>
-            <guid>2118427</guid>
-            <pubDate>Tue, 13 Apr 2021 01:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚3月NAB商业景气指数25，前值15；澳大利亚3月NAB商业信心指数15，前值16。]]></title>
-            <guid>2118426</guid>
-            <pubDate>Tue, 13 Apr 2021 01:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中证转债指数低开0.04%，蓝晓转债涨3.23%，新泉转债涨2.93%，明泰转债涨2.8%；华菱转2跌3.6%，华峰转债跌近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6492013.d.html</link>
-            <guid>2118424</guid>
-            <pubDate>Tue, 13 Apr 2021 01:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热景生物开盘涨停，公司预计第一季度净利同比增长超1000倍，暂居两市预增榜首。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6491983.d.html</link>
-            <guid>2118423</guid>
-            <pubDate>Tue, 13 Apr 2021 01:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[顺丰控股开盘微涨0.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6491485.d.html</link>
-            <guid>2118417</guid>
-            <pubDate>Tue, 13 Apr 2021 01:26:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三大股指低开，水产、盐、饲料等板块指数涨幅居前，水电、电力、碳中和等板块指数跌幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6491428.d.html</link>
-            <guid>2118416</guid>
-            <pubDate>Tue, 13 Apr 2021 01:26:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科创50指数开盘报1242.76点，跌0.06%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6491289.d.html</link>
-            <guid>2118415</guid>
-            <pubDate>Tue, 13 Apr 2021 01:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三大股指低开，沪指跌0.05％，深成指跌0.04％，创业板跌0.01％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6491008.d.html</link>
-            <guid>2118412</guid>
-            <pubDate>Tue, 13 Apr 2021 01:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚洲美元债券息差扩大了约2-3个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9349028.d.html</link>
-            <guid>2118392</guid>
-            <pubDate>Tue, 13 Apr 2021 01:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生科技指数开盘涨0.07%。百度、美团微跌，小米微涨。京东跌超1%。腾讯控股平开。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6489893.d.html</link>
-            <guid>2118389</guid>
-            <pubDate>Tue, 13 Apr 2021 01:22:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股恒指高开涨0.37％，国企指数涨0.27％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6489654.d.html</link>
-            <guid>2118378</guid>
-            <pubDate>Tue, 13 Apr 2021 01:21:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国央行公开市场今日将进行100亿元人民币7天期逆回购操作。中标利率2.20%，与此前持平。因今日有100亿元逆回购到期，当日实现零投放和零回笼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6489597.d.html</link>
-            <guid>2118377</guid>
-            <pubDate>Tue, 13 Apr 2021 01:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿里巴巴港股开涨约3.4%，蚂蚁集团日前回应四部门联合约谈，将整体申设金融控股公司，实现金融业务全部纳入监管。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6489077.d.html</link>
-            <guid>2118367</guid>
-            <pubDate>Tue, 13 Apr 2021 01:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[铁矿石主力合约涨3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6488866.d.html</link>
-            <guid>2118365</guid>
-            <pubDate>Tue, 13 Apr 2021 01:19:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人民币中间价报6.5454，上调124点，上一交易日中间价报6.5578，在岸人民币上一交易日收报6.5514。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9346977.d.html</link>
-            <guid>2118355</guid>
-            <pubDate>Tue, 13 Apr 2021 01:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯将于欧洲中部时间下午2点（北京时间晚上8点）与乌克兰外长会晤。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9346917.d.html</link>
-            <guid>2118354</guid>
-            <pubDate>Tue, 13 Apr 2021 01:15:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经济日报：收费荐股乱象当休矣】对于投资顾问机构而言，要认真回归投顾业务本源，券商和研究机构当然比普通投资者掌握更多信息，研究和投资能力也更强，但这种能力应该放在引导服务投资者做好价值投资，有效回避风险上，而不是宣传所谓“回报”高、“赚钱”快，拉更多投资者“入圈”，短期冲量做业绩。对于监管部门而言，更要严格依法办事，除了重拳出击打击虚假宣传、服务“挂羊头卖狗肉”等行为，也要对证券投资顾问服务严格加以规范，尤其是对打着“无效退款”旗号蒙蔽投资者的机构，其收费是否合法合规，服务是否真实履行了相关规定，要严格检查和规范，防范一些“南郭”先生滥竽充数而大发横财。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9346668.d.html</link>
-            <guid>2118353</guid>
-            <pubDate>Tue, 13 Apr 2021 01:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【埃及采购大型挖泥船以加宽航道】埃及苏伊士运河管理局12日在东北部城市伊斯梅利亚举行仪式，庆祝该管理局采购的大型绞吸式挖泥船交付。埃及苏伊士运河管理局主席乌萨马·拉比耶在仪式上说，此次购入的挖泥船是中东和非洲地区最大的挖泥船之一，将极大增强管理局挖泥作业能力，有助于埃及在境内外开展各类河道疏浚项目。 （新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6487234.d.html</link>
-            <guid>2118352</guid>
-            <pubDate>Tue, 13 Apr 2021 01:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行：将在未来直接购买10000亿日元的日本国债。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9346030.d.html</link>
-            <guid>2118351</guid>
-            <pubDate>Tue, 13 Apr 2021 01:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  日本央行行长黑田东彦定于当地时间11:36（北京时间12:36）出席国会。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9345171.d.html</link>
-            <guid>2118350</guid>
-            <pubDate>Tue, 13 Apr 2021 01:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基金高换手之谜：“小算盘”大玄机】Wind数据显示，若以2020年股票交易额除以2020年底基金规模粗略计算换手率，超过10倍的基金产品逾千只，其中甚至有年换手率二三十倍的产品。进一步梳理数据后发现，近年来公募行业整体平均换手率并不高，龙头公司还有下降趋势。但仍有少部分基金的发展轨迹里，高换手操作始终如影随形。在2020年公募基金规模快速扩张中，真正被广大投资者青睐的基金经理大多具有换手率非常低、长期业绩表现优异、区间回撤控制能力强的特点，如张坤、刘彦春、董承非等，他们管理的产品年均换手率多在两倍以下。这种现象值得那些热衷用高换手操作获利的基金公司反思。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9345008.d.html</link>
-            <guid>2118349</guid>
-            <pubDate>Tue, 13 Apr 2021 01:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蔚来2021年一季度上险数出炉，三款在售车型ES8、ES6和EC6共销售19844辆，同比激增420%。在高端品牌中，蔚来一季度平均成交价达42.8万元，排名第四。 （36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6485675.d.html</link>
-            <guid>2118348</guid>
-            <pubDate>Tue, 13 Apr 2021 01:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官加藤胜信：日本首相菅义伟将于4月15日至19日访问美国。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6485006.d.html</link>
-            <guid>2118347</guid>
-            <pubDate>Tue, 13 Apr 2021 01:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国10年国债活跃券收益率跌至1月末来新低】中国10年国债活跃券收益率迈向连续第四日下行，跌2.75个基点，报3.1575%。参考中债收益率估值，为1月末来的最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6484974.d.html</link>
-            <guid>2118346</guid>
-            <pubDate>Tue, 13 Apr 2021 01:06:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走低逾0.1美元，现报24.68美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6484506.d.html</link>
-            <guid>2118345</guid>
-            <pubDate>Tue, 13 Apr 2021 01:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【一汽丰田“亚洲狮”在津下线】昨天，一汽丰田“十四五”期间首款新车“亚洲狮”在天津基地泰达工厂正式下线。“亚洲狮”的下线，完善了一汽丰田B-级轿车产品序列，有效丰富了商品线，为其实现“十四五”目标奠定了坚实的产品基础。据介绍，今年一季度，天津一汽丰田生产20.4万辆，同比增长89%；销售22万辆，同比增长77%，实现了“十四五”开门红。（天津发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9343234.d.html</link>
-            <guid>2118337</guid>
-            <pubDate>Tue, 13 Apr 2021 01:02:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【人民日报钟声评论：美方最需要反思何谓人权】在得克萨斯州边境地区，包括儿童在内的数千人拥挤在被美国媒体描述为“集中营”的临时设施里；孩子们痛哭着，见不到父母，甚至几天不见阳光……这样的事情，竟然发生在21世纪，而且是所谓“人权教师爷”一再粉饰的世界最发达国家干出来的。美国的人权观到底是什么？对于这个问题，美国那些所谓“人权教师爷”嘴上说的是一套，实际做的是另一套。现在，他们对自己做的那一套已经如此习以为常，以至于连块遮羞布都懒得围上。  （人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9343076.d.html</link>
-            <guid>2118333</guid>
-            <pubDate>Tue, 13 Apr 2021 01:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：美国总统拜登的美国就业计划将促进美国经济增长，重塑部分经济。就业计划将对美国经济增长、就业和生产率产生积极影响。美国提高企业税对经济和企业信贷质量的影响有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9342921.d.html</link>
-            <guid>2118330</guid>
-            <pubDate>Tue, 13 Apr 2021 01:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时中国A50指数期货开盘涨0.04%，上个交易日凌晨夜盘涨0.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9342842.d.html</link>
-            <guid>2118326</guid>
-            <pubDate>Tue, 13 Apr 2021 01:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国内商品期货早盘开盘 铁矿涨超2%】国内商品期货早盘开盘，多数品种下跌，菜粕、豆二等跌超2%，淀粉、沪银等跌逾1%，郑油、PP等小幅下跌；铁矿、郑煤涨超2%，玻璃、焦炭等涨超1%，沥青、PTA等小幅上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6483553.d.html</link>
-            <guid>2118325</guid>
-            <pubDate>Tue, 13 Apr 2021 01:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新浪期货每日研报精选。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmyaawa9342581.d.html</link>
-            <guid>2118320</guid>
-            <pubDate>Tue, 13 Apr 2021 01:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：三星将帮助其供应商联华电子扩大产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-13/detail-ikmxzfmk6483324.d.html</link>
-            <guid>2118317</guid>
-            <pubDate>Tue, 13 Apr 2021 00:59:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

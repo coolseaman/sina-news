@@ -4,11 +4,69 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 11 Jun 2021 17:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jun 2021 18:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  市场消息：由于缺少半导体，大众汽车在巴西的3家工厂停产。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0564586.d.html</link>
+            <guid>2205474</guid>
+            <pubDate>Fri, 11 Jun 2021 18:18:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股AI板块齐涨，Palantir(PLTR.N)涨1.5%，英伟达(NVDA.O)涨2.64%，C3.ai(AI.N)涨3.41%，Veritone(VERI.O)涨4.23%。]]></title>
+            <guid>2205473</guid>
+            <pubDate>Fri, 11 Jun 2021 18:18:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非方面表示，Gqebherha工厂所生产的强生新冠疫苗有待进一步研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0564411.d.html</link>
+            <guid>2205472</guid>
+            <pubDate>Fri, 11 Jun 2021 18:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Boss直聘(BZ.O)涨幅扩大至90%，现报36.45美元，总市值超145亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0564078.d.html</link>
+            <guid>2205471</guid>
+            <pubDate>Fri, 11 Jun 2021 18:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：专门从事亚马逊第三方卖家收购的消费品公司Thrasio据悉正在就与Michael Klein的特殊目的收购公司(SPAC)合并上市事宜进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0563675.d.html</link>
+            <guid>2205470</guid>
+            <pubDate>Fri, 11 Jun 2021 18:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：空白支票公司Churchill Capital Corp II与在线教育公司Skillsoft宣布完成业务合并，并且即将收购技术技能培训提供商Global Knowledge，以打造领先的企业数字学习公司。]]></title>
+            <guid>2205469</guid>
+            <pubDate>Fri, 11 Jun 2021 17:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  第九城市(NCTY.O)直线走高，涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0562950.d.html</link>
+            <guid>2205468</guid>
+            <pubDate>Fri, 11 Jun 2021 17:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 8月黄金期货收跌0.9%，报1879.60美元/盎司，本周累跌约0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9163187.d.html</link>
+            <guid>2205467</guid>
+            <pubDate>Fri, 11 Jun 2021 17:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Moderna(MRNA.O)小幅走高，涨至0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0562783.d.html</link>
+            <guid>2205466</guid>
+            <pubDate>Fri, 11 Jun 2021 17:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫德纳公司认为注射该公司的新冠疫苗与心肌炎间没有因果关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqcfnca0562716.d.html</link>
+            <guid>2205465</guid>
+            <pubDate>Fri, 11 Jun 2021 17:41:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[广州市荔湾区新型冠状病毒肺炎疫情防控指挥部：现定于6月12日对荔湾区白鹤洞街、东漖街、中南街等3条街道辖区内全体居民进行全员核酸检测。（荔湾发布）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-12/detail-ikqciyzi9162512.d.html</link>
@@ -545,66 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0546611.d.html</link>
             <guid>2205373</guid>
             <pubDate>Fri, 11 Jun 2021 14:27:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑瑞郎USD/CHF日内涨幅0.50%，现报0.8989。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9146738.d.html</link>
-            <guid>2205372</guid>
-            <pubDate>Fri, 11 Jun 2021 14:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普500指数转跌，成分股礼来制药跌超4.7%，辉瑞制药跌超1.4%，卡特彼勒跌超1.3%，宝洁跌约1.1%，强生跌超1.0%，英伟达和麦当劳则维持至少超过1.2%的涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0546331.d.html</link>
-            <guid>2205371</guid>
-            <pubDate>Fri, 11 Jun 2021 14:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ CBOT豆油期货触发跌停限制，日内下跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0546249.d.html</link>
-            <guid>2205370</guid>
-            <pubDate>Fri, 11 Jun 2021 14:23:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国儿童基金会和国际劳工组织最新报告显示，在新冠疫情开始之前，全球各地打击童工的进展就已经停滞。2020年初，有1.6亿5至17 岁的儿童从事与年龄不符和/或危险的工作，比2016年的约1.52亿有所增加。虽然亚洲和拉丁美洲的童工数量有所减少，但在撒哈拉以南非洲地区童工数量再次上升，无论是绝对数量还是相对数量。报告还显示，在发展中国家最常见的童工形象之一——儿童在工厂里为工资工作——实际上是最不常见的场景，72%的童工与家人一起工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0546073.d.html</link>
-            <guid>2205369</guid>
-            <pubDate>Fri, 11 Jun 2021 14:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD涨0.39%至1.2140，创2周新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9145917.d.html</link>
-            <guid>2205368</guid>
-            <pubDate>Fri, 11 Jun 2021 14:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  fuboTV盘中异动走高，现涨近10%，接近收复本周跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0545612.d.html</link>
-            <guid>2205367</guid>
-            <pubDate>Fri, 11 Jun 2021 14:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莫德纳就向12-17岁儿童接种疫苗向瑞士提交申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9145771.d.html</link>
-            <guid>2205366</guid>
-            <pubDate>Fri, 11 Jun 2021 14:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在现货市场交易中，巴西雷亚尔兑美元下跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqcfnca0545509.d.html</link>
-            <guid>2205365</guid>
-            <pubDate>Fri, 11 Jun 2021 14:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  道指日内转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9145651.d.html</link>
-            <guid>2205364</guid>
-            <pubDate>Fri, 11 Jun 2021 14:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Argus：苹果在维持近10年跑赢大市的强势后，今年的走势相对较弱，不过主要是因为板块轮动，而不是管理层决策错误。维持苹果买入评级，目标价165美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-11/detail-ikqciyzi9145374.d.html</link>
-            <guid>2205363</guid>
-            <pubDate>Fri, 11 Jun 2021 14:12:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

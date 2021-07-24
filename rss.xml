@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Jul 2021 16:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 17:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国印第安纳波利斯市发生多起枪击和暴力袭击事件 造成2人死亡多人受伤】美国印第安纳州印第安纳波利斯市当地时间7月24日凌晨发生多起枪击事件和一起暴力袭击事件，造成2人死亡，多人受伤。除此之外，当地警方还报告了另外4起枪击事件，4起枪击事件共造成4人受伤，其中3人情况危急。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8844592.d.html</link>
+            <guid>2251955</guid>
+            <pubDate>Sat, 24 Jul 2021 17:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增12381例新冠肺炎确诊病例，为5月中旬以来最高单日病例报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8842752.d.html</link>
+            <guid>2251954</guid>
+            <pubDate>Sat, 24 Jul 2021 17:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡新增127例本土新冠肺炎病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8840907.d.html</link>
+            <guid>2251953</guid>
+            <pubDate>Sat, 24 Jul 2021 16:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币短线快速拉升，日内涨1.7%至34312美元/枚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8840018.d.html</link>
+            <guid>2251952</guid>
+            <pubDate>Sat, 24 Jul 2021 16:29:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网自动测定：07月25日00时23分在四川阿坝州阿坝县附近发生4.1级左右地震。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8839822.d.html</link>
@@ -577,30 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7385498.d.html</link>
             <guid>2251570</guid>
             <pubDate>Sat, 24 Jul 2021 07:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年全国电影总票房突破300亿元】据灯塔专业版实时数据，截至7月24日14时21分29秒，2021年我国电影市场总票房（含预售）突破300亿元，总观影人次达7.49亿人，总场次则为7384.44万场。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8781408.d.html</link>
-            <guid>2251569</guid>
-            <pubDate>Sat, 24 Jul 2021 07:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内陆风力或达10-12级！上海浦东台风预警升级为橙色】7月24日14时，浦东新区气象台发布台风橙色预警信号：受今年第6号台风“烟花”影响，预计今天夜里到明天本区风力内陆将出现10-12级，沿江沿海地区12级以上的阵风，台风黄色预警信号更新为台风橙色预警信号。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8780371.d.html</link>
-            <guid>2251567</guid>
-            <pubDate>Sat, 24 Jul 2021 07:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：截至2021年7月23日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗152489.7万剂次。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7382385.d.html</link>
-            <guid>2251566</guid>
-            <pubDate>Sat, 24 Jul 2021 07:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国新增至少128152例新冠肺炎确诊病例，累计达3458万例，新增至少402例死亡病例，累计达609080例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8779245.d.html</link>
-            <guid>2251565</guid>
-            <pubDate>Sat, 24 Jul 2021 06:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

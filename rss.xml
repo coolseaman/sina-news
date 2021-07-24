@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Jul 2021 21:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 22:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国企业承建的赞比亚下凯富峡水电站举行并网发电仪式】当地时间7月23日，由中国企业承建的下凯富峡水电站在赞比亚齐坎卡塔举行并网发电仪式，赞比亚总统伦古以及中赞双方代表出席了下凯富峡水电站的并网发电仪式，伦古总统为项目的发电运营揭牌，他在致辞中感谢中国政府和企业对缓解赞比亚电力短缺所做的重要贡献，并表示下凯富峡水电站并网发电将极大促进当地社会经济发展，同时助力赞比亚成为南部非洲地区的电力中心。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8859210.d.html</link>
+            <guid>2251972</guid>
+            <pubDate>Sat, 24 Jul 2021 21:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国丹佛市发生枪击事件 共造成两人死亡】当地时间7月24日，美国科罗拉多州丹佛市发生枪击事件，共造成两人死亡，目前尚无嫌疑人被拘留。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7461056.d.html</link>
+            <guid>2251971</guid>
+            <pubDate>Sat, 24 Jul 2021 21:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【意大利数十座城市爆发游行抗议推行“数字绿色证书”】意大利全国80多个城市爆发示威游行，抗议政府22日推出的要求进入餐饮场所、观看体育比赛和其他公共场所时必须出示“数字绿色证书”的法令。抗议者认为使用“数字绿色证书”会带来经济损失，人们应该拥有选择是否接种疫苗的自由。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqcfnca8857144.d.html</link>
@@ -589,18 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8795602.d.html</link>
             <guid>2251596</guid>
             <pubDate>Sat, 24 Jul 2021 09:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市金融监管局局长霍学文：将推动全国自愿减排交易中心建设】霍学文透露，近期，北京将积极推动全国自愿减排交易中心的建设，同时还将重磅推出ESG中国版的指数，为海内外基金、银行理财、保险资管、财富管理，提供ESG投资的中国标准。霍学文强调，北京还将进一步促进绿色金融产品、市场和规则创新，包括绿色信贷、绿色债券、绿色保险、绿色基金。（中新经纬）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8793891.d.html</link>
-            <guid>2251594</guid>
-            <pubDate>Sat, 24 Jul 2021 08:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[河南省召开新闻发布会通报：强降雨已致河南死亡57人、失踪5人。（北京头条）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8793027.d.html</link>
-            <guid>2251592</guid>
-            <pubDate>Sat, 24 Jul 2021 08:50:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

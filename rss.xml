@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 24 Jul 2021 19:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 20:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[阿富汗内政部24日宣布，在全国34个省中的31个省实施宵禁，以遏制因塔利班近期加大攻势所导致的暴力事件激增。根据宵禁规定，每日22时至次日4时民众必须待在家里，不得外出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7457408.d.html</link>
+            <guid>2251966</guid>
+            <pubDate>Sat, 24 Jul 2021 19:59:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国疾控中心：截至7月24日，美国已注射3.40亿剂新冠疫苗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7456223.d.html</link>
+            <guid>2251965</guid>
+            <pubDate>Sat, 24 Jul 2021 19:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南非骚乱地区食品价格开始回落】据南非媒体当地时间7月23日报道，南非骚乱的重灾区德班地区的食品价格开始回落。因骚乱导致德班与外界的公路中断，该地生鲜产品市场临时关闭，当地商品价格一度出现飞涨。曾经53兰特（约合人民币23元）十公斤的土豆，上涨到了100兰特。不过到7月23日，价格又回落到85兰特。虽然价格仍然略高，但已经在向正常水平回落。除了土豆之外，包括卷心菜、 西红柿的价格也曾出现了较大幅度的上涨。不过现在价格正在回落，估计很快就会回到正常水平。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7455935.d.html</link>
+            <guid>2251964</guid>
+            <pubDate>Sat, 24 Jul 2021 19:27:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国新增25624例新冠肺炎确诊病例，新增22例死亡病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-25/detail-ikqciyzk7455185.d.html</link>
@@ -583,24 +601,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7392457.d.html</link>
             <guid>2251585</guid>
             <pubDate>Sat, 24 Jul 2021 08:25:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【管涛：人民币在SDR权重第三，有追赶空间】7月24日，国家外汇管理局国际收支司原司长管涛在2021中国财富论坛上表示，中国现在经济体量很大，贸易、投融资规模比较大，投资现状和潜力相差比较大。人民币是SDR里头第三大权重货币，占比10.9%，我们有追赶空间。（财经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7392354.d.html</link>
-            <guid>2251584</guid>
-            <pubDate>Sat, 24 Jul 2021 08:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾卫生部：菲律宾新增6216例新冠肺炎确诊病例，累计确诊154.3万例；新增241例死亡病例，累计死亡27131例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7391169.d.html</link>
-            <guid>2251583</guid>
-            <pubDate>Sat, 24 Jul 2021 08:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会原副主席王兆星：巴塞尔监管规则并不是保守封闭、一成不变的】王兆星表示，巴塞尔监管规则并不是保守封闭、一成不变的，而是根据金融业态和金融风险变化不断进行调整完善的。中国金融监管部门从中国实际出发，因地制宜制定实施金融监管规则，有遵循、有创新、有发展，有些领域更严格，有些领域更灵活，注重补齐监管体系的弱项短板。在促进金融支持实体经济的同时，牢牢守住不发生系统性金融风险的底线。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7391152.d.html</link>
-            <guid>2251582</guid>
-            <pubDate>Sat, 24 Jul 2021 08:13:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

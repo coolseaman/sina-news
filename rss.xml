@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 31 Jul 2021 09:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 10:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[四川宜宾：对南溪确诊病例标本基因测序结果表明，与泸州无症状感染者及南京禄口机场疫情毒株高度同源。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8744674.d.html</link>
+            <guid>2263514</guid>
+            <pubDate>Sat, 31 Jul 2021 10:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行行长纳比乌琳娜：通货膨胀将会持续下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8744429.d.html</link>
+            <guid>2263498</guid>
+            <pubDate>Sat, 31 Jul 2021 10:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银川新增1例确诊，为成都病例密接】7月31日，宁夏银川市召开疫情防控新闻发布会。30日晚，银川市组织对成都市确诊病例密切接触者张某某进行追踪排查，经诊断为新冠肺炎确诊病例，临床分型为轻型。 （澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0140673.d.html</link>
+            <guid>2263488</guid>
+            <pubDate>Sat, 31 Jul 2021 10:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上半年国内民航业复苏明显，老人学生或成民航客源新增长点】 2021年上半年，民航业复苏信号明显，全行业旅客运输量2.45亿人次，恢复到疫情前的76.2%。在采访中，多家航空公司表示，通过今年上半年国内民航的强劲复苏，他们都很看好接下来的国内市场。记者了解到，今年上半年，乘坐飞机出入境的旅客不到190万人次，是2019年上半年的3.7%。国际民航客运市场的停滞，使得大量宽体机转回国内，国内航空运力供给大幅增加，也带来了票价的相对稳定。专家分析，下一步，国内民航旅客群体的结构将继续转变，新增的年轻人将成为客源的主体，学生群体和老年人群体将成为新的增长点。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8742058.d.html</link>
+            <guid>2263478</guid>
+            <pubDate>Sat, 31 Jul 2021 09:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼新增新冠肺炎确诊病例37284例，累计确诊3409658例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8740873.d.html</link>
+            <guid>2263476</guid>
+            <pubDate>Sat, 31 Jul 2021 09:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江苏扬州5地升级为中风险地区。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0136695.d.html</link>
+            <guid>2263470</guid>
+            <pubDate>Sat, 31 Jul 2021 09:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国家统计局：2021年上半年全国规模以上文化及相关产业企业营业收入增长30.4%】国家统计局数据显示，据对全国6.3万家规模以上文化及相关产业企业调查，上半年，上述企业实现营业收入54380亿元，按可比口径计算，比上年同期增长30.4%；比2019年上半年增长22.4%，两年平均增长10.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0135776.d.html</link>
+            <guid>2263465</guid>
+            <pubDate>Sat, 31 Jul 2021 09:22:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  据天空新闻：亚马逊支持的Rivian电动汽车公司正与英国大臣们就在英国建厂进行谈判。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8737771.d.html</link>
@@ -563,48 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0064521.d.html</link>
             <guid>2263043</guid>
             <pubDate>Sat, 31 Jul 2021 01:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【广西7月30日新增密接者4人】7月30日0至24时，广西无新增本土确诊病例、疑似病例和无症状感染者。30日新增密切接触者4例，解除医学隔离观察密切接触者9例。现有境外输入确诊病例2例，现有境外输入无症状感染者5例，现有密切接触者67人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0062790.d.html</link>
-            <guid>2263030</guid>
-            <pubDate>Sat, 31 Jul 2021 01:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【7月31日起 12306网站售票改签服务时间延长至20小时】从中国国家铁路集团有限公司获悉，为了更好地方便旅客购票，经过充分试验测试，在确保12306网站（含手机客户端，下同）安全平稳运行前提下，国铁集团决定，自7月31日起，铁路12306网站售票改签服务时间由每日5:00至23:30，调整为每日5:00至次日凌晨1:00，提供每日20小时售票改签服务。同时，继续提供每日24小时退票服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8663385.d.html</link>
-            <guid>2263011</guid>
-            <pubDate>Sat, 31 Jul 2021 01:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海关总署对印度5家企业采取紧急预防性措施】因从进口自印度5批次冻南美白虾的6个外包装样本中检出新冠病毒核酸阳性，按照海关总署公告2020年第103号的规定，全国海关自即日起暂停接受印度水产品生产企业M/s. Kondiya Fresh Foods.（注册编号为1870）、M/S.NINANS PVT LTD（注册编号为833）、ROYAL IMPORTS AND EXPORTS（注册编号为1890）和M/s. Balasore Marine Exports Pvt. Ltd.（注册编号为481）的产品进口申报1周，自8月5日起继续暂停接受印度水产品生产企业M/s. Ghan Marine Products（注册编号为911）的产品进口申报1周。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0060565.d.html</link>
-            <guid>2263007</guid>
-            <pubDate>Sat, 31 Jul 2021 01:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全线停运10天后 郑州地铁1号线今日开始空载运行】今日上午9点，一趟地铁列车从紫荆山站站台内呼啸而过。在全线停运10天后，郑州地铁1号线开始空载运行。 (河南日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8662180.d.html</link>
-            <guid>2262998</guid>
-            <pubDate>Sat, 31 Jul 2021 01:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家发改委：预计下半年PPI同比涨幅及其与CPI同比变化的“剪刀差”将进一步收窄】国家发改委：展望下半年，受近期国际原油价格波动等输入性因素、电子信息和电气机械行业元器件供应不稳、去年同期原材料价格基数较低等影响，PPI同比涨幅仍在高位徘徊，但上涨动能有所减弱，预计下半年PPI同比涨幅及其与CPI同比变化的“剪刀差”将进一步收窄。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8660990.d.html</link>
-            <guid>2262993</guid>
-            <pubDate>Sat, 31 Jul 2021 01:26:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广西凭祥一柜越南进口货物核酸样本采集检测结果呈弱阳性】从广西凭祥市新型冠状病毒感染的肺炎疫情防控工作领导小组指挥部了解到，2021年7月29日19时30分，凭祥市疫情防控指挥部接报称，广西荣顾红星农产品有限公司货场（中国东盟凭祥水果城）内一柜越南进口货物核酸样本采集检测结果呈弱阳性。接报后，凭祥市疫情防控指挥部立即启动应急预案，积极开展现场处置、流调核查等工作。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8660924.d.html</link>
-            <guid>2262992</guid>
-            <pubDate>Sat, 31 Jul 2021 01:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：当其他其他国家拥有自己的央行数字货币时，而美国没有，这是不可持续的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0057688.d.html</link>
-            <guid>2262990</guid>
-            <pubDate>Sat, 31 Jul 2021 01:22:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,114 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 31 Jul 2021 07:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jul 2021 08:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[国家卫健委：已派工作组赴南京和张家界等地指导疫情处置和医疗救治工作。（北京日报）]]></title>
+            <title><![CDATA[国务院联防联控机制发布会上介绍，对已完成免疫接种一年以内的普通人群，暂没有必要进行加强针接种。但是对从事高暴露风险职业等特定人群，正在研究是否有必要开展加强针。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8729759.d.html</link>
+            <guid>2263405</guid>
+            <pubDate>Sat, 31 Jul 2021 08:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米手环X曝光？小米公关部：图是真的，产品不是真的】 针对网传小米手环X曝光图，小米公关部总经理王化通过其个人微博发文回应称，图是真的，产品不是真的，“这是小米内部新员工培训过程中的沙盘模拟”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8729740.d.html</link>
+            <guid>2263404</guid>
+            <pubDate>Sat, 31 Jul 2021 08:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾报告新增8147例新冠肺炎确诊病例，新增167例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0125277.d.html</link>
+            <guid>2263397</guid>
+            <pubDate>Sat, 31 Jul 2021 08:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中疾控专家：我国没有疫情大规模暴发的现实环境】31日，中国疾控中心研究员、科研攻关组疫苗研发专家班专家组成员邵一鸣在发布会上介绍，我们国家去年以来采取的防控措施也都是有效的。由于我们现有的防控措施能够落实到位，疫苗接种也是在全球是领先的，没有大规模暴发的现实环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0124741.d.html</link>
+            <guid>2263394</guid>
+            <pubDate>Sat, 31 Jul 2021 07:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中疾控：初判张家界首发病例与南京禄口机场疫情相关】中国疾控中心研究员冯子健表示，本轮疫情是先经南京禄口机场输入并引起了进一步的传播，多个省份都有病例和感染者传入。初步判断，张家界的首发病例也与南京禄口机场的疫情相关，传至湖南张家界的病例或者感染者又经旅游景点和大型演出活动感染了其他人，导致病毒进一步传播，是近期除南京以外感染和传播人数较多的重点疫点。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0124486.d.html</link>
+            <guid>2263393</guid>
+            <pubDate>Sat, 31 Jul 2021 07:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本东京报告新增4058例新冠肺炎确诊病例，7日均值为2920例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8726563.d.html</link>
+            <guid>2263388</guid>
+            <pubDate>Sat, 31 Jul 2021 07:51:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中疾控：变异病毒在疫苗控制范围内，我国新冠疫苗可有效降低重症率和死亡率。（央视）]]></title>
+            <guid>2263387</guid>
+            <pubDate>Sat, 31 Jul 2021 07:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国疾控中心研究员冯子健：与Alpha变异株相比，感染德尔塔变异株的患者住院风险增加了2.6倍。它对病死率的影响，目前还没有获得明确的研究结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0123993.d.html</link>
+            <guid>2263386</guid>
+            <pubDate>Sat, 31 Jul 2021 07:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【专家回应打完疫苗仍被感染】科研攻关组疫苗研发专班专家组成员邵一鸣：打疫苗以后被感染，我们叫“突破病例”，它是常态，不是例外，但它是巨大人群中的少数。任何一款疫苗都不是百分之百的保护，目前各种变异株仍在我们疫苗的可控范围之内。疫苗接种必须和严格的防控措施并用。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8726399.d.html</link>
+            <guid>2263385</guid>
+            <pubDate>Sat, 31 Jul 2021 07:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国务院国有企业改革领导小组办公室专题推进国有企业强化正向激励】7月30日，国务院国有企业改革领导小组办公室以视频方式，召开国有企业强化正向激励专题推进会，指导国有企业加大力度强化正向激励。会议强调，下半年要补短板、强弱项，以更加有力的举措确保改革任务整体推进。要抓重点、攻难点，以更加扎实的作风推动关键任务取得突破，聚焦三项制度改革、任期制契约化、科技创新、经营性国有资产集中统一监管等方面攻坚克难。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8726300.d.html</link>
+            <guid>2263383</guid>
+            <pubDate>Sat, 31 Jul 2021 07:49:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【扬州泰州国际机场所有客运航班暂停】因疫情防控形势需要，自2021年7月31日零时起，暂停扬州泰州国际机场所有客运航班起降，恢复时间另行通知。（扬州发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8726202.d.html</link>
+            <guid>2263381</guid>
+            <pubDate>Sat, 31 Jul 2021 07:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【提醒！正逢暑期旅游旺季，中疾控回应疫情对暑期旅行影响】中国疾控中心研究员冯子健：①高中风险地区人员，取消外出旅行；②其他地区人员，中疾控提醒暂缓高中风险地区旅行；③无论到哪里旅行，都要做好个人防护；④老年人、慢性病患者，尽量不去外地旅行。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8726020.d.html</link>
+            <guid>2263379</guid>
+            <pubDate>Sat, 31 Jul 2021 07:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国疾控中心：不同技术路线的疫苗不能互相替换】中国疾控中心免疫规划首席专家王华庆表示，目前，在接种新冠疫苗的过程中，不同技术路线的疫苗不能互相替换。目前，按照《新冠病毒疫苗接种技术指南》第一版的规定，建议现阶段使用同一厂家的同品种疫苗完成接种。有一些特殊情况，用同一个企业的同一个品种的疫苗不能够完成的话，后续也要用相同技术路线的疫苗来完成接种。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0122986.d.html</link>
+            <guid>2263371</guid>
+            <pubDate>Sat, 31 Jul 2021 07:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫生健康委疾控局一级巡视员贺青华：自7月20日南京报告发生本土病例以来，截至7月29日24时，各地累计报告关联病例262例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8724548.d.html</link>
+            <guid>2263361</guid>
+            <pubDate>Sat, 31 Jul 2021 07:34:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委医政医管局监察专员郭燕红：截至今天早上，南京的新冠确诊病例中有9位重症患者，他们都是感染了德尔塔变异毒株。9位重症患者占到住院治疗患者总数的4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8724408.d.html</link>
+            <guid>2263359</guid>
+            <pubDate>Sat, 31 Jul 2021 07:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【病毒发生变异，现有防控措施是否有效？国家卫健委回应：目前仍然有效】国家卫健委疾控局一级巡视员贺青华回应，目前防控措施仍然有效，结论基于两个基本的认识：第一，科学界对这个病毒的认识。它仍然是个冠状病毒，它的传染源、传播途径已经基本清楚。第二，基于我们国家目前防控工作的实践。因为我们现在的防控措施处置广东疫情、辽宁疫情、云南疫情等等，将近30多起疫情，用这些措施处置这些疫情，效果是显著的。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8723930.d.html</link>
+            <guid>2263353</guid>
+            <pubDate>Sat, 31 Jul 2021 07:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【知情人透露禄口机场发现疫情两天后员工照常上下班】禄口国际机场抗疫防线何以失守？一位驻场工作人员在接受采访时说，尽管禄口机场20日就发现病例，但受访者21、22日两天依旧冒着被感染风险照常上下班。专家分析，由于没有及时封闭机场，转移隔离工作人员，传播链外溢，社区传播和跨省传播风险陡增。目前，南京已动员各方资源将机场工作人员及家属集中转运隔离，防止发生新的传播，尽快遏制住此轮疫情。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0121305.d.html</link>
+            <guid>2263352</guid>
+            <pubDate>Sat, 31 Jul 2021 07:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫健委：已派工作组赴南京和张家界等地指导疫情处置和医疗救治工作。]]></title>
             <guid>2263339</guid>
             <pubDate>Sat, 31 Jul 2021 07:16:32 GMT</pubDate>
         </item>
@@ -503,107 +604,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0053700.d.html</link>
             <guid>2262964</guid>
             <pubDate>Sat, 31 Jul 2021 01:03:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家统计局：7月份，中国制造业采购经理指数（PMI）为50.4%，低于上月0.5个百分点，继续位于临界点以上，制造业总体继续保持扩张态势，但步伐有所放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0053549.d.html</link>
-            <guid>2262962</guid>
-            <pubDate>Sat, 31 Jul 2021 01:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国7月官方制造业PMI 50.4 ， 预期: 50.8 ， 前值: 50.9。中国7月官方非制造业PMI 53.3 ， 预期: 53.3 ， 前值: 53.5。中国7月官方综合PMI 52.4 ， 前值: 52.9。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0053215.d.html</link>
-            <guid>2262959</guid>
-            <pubDate>Sat, 31 Jul 2021 01:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：有许多人有工作的意愿，但就业与岗位的匹配过程需要时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8655539.d.html</link>
-            <guid>2262956</guid>
-            <pubDate>Sat, 31 Jul 2021 00:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【扬州：瘦西湖、大明寺等景区今起暂停开放】据扬州发布消息，根据疫情防控要求，从7月31日起，瘦西湖、大明寺、个园、何园、茱萸湾景区、吴道台宅第、润扬森林公园、陈园等景区（景点）暂停对外开放，恢复开放时间另行通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8655493.d.html</link>
-            <guid>2262955</guid>
-            <pubDate>Sat, 31 Jul 2021 00:59:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：美国失业率仍相当高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8654889.d.html</link>
-            <guid>2262952</guid>
-            <pubDate>Sat, 31 Jul 2021 00:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：通胀上行的风险有所增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0051414.d.html</link>
-            <guid>2262947</guid>
-            <pubDate>Sat, 31 Jul 2021 00:50:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【德国修改入境规定和疫情风险地区划分标准】当地时间7月30日，德国联邦内阁正式通过了一项新规定，要求从8月1日起，所有12岁以上的入境者，无论来自哪个国家和地区，都必须提供新冠病毒检测阴性证明、新冠疫苗接种证明或者新冠肺炎康复证明中的一种。与此同时，德国决定把对疫情风险地区的划分由此前的三个类别减少至两个类别，即只保留疫情高风险地区和病毒变异地区，取消疫情普通风险地区。（央视）]]></title>
-            <guid>2262943</guid>
-            <pubDate>Sat, 31 Jul 2021 00:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国报告新增18912例新冠肺炎确诊病例，新增178例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8652976.d.html</link>
-            <guid>2262939</guid>
-            <pubDate>Sat, 31 Jul 2021 00:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德国联邦疾控机构警告称该国第四波疫情已经开始】自7月以来，德国疫情呈现出持续反弹的态势。对此，德国联邦疾控机构罗伯特·科赫研究所发出警告，称德国第四波疫情已经开始。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8652951.d.html</link>
-            <guid>2262938</guid>
-            <pubDate>Sat, 31 Jul 2021 00:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：一旦9月经济数据出炉，预计将在就业目标前进的速度方面更有信心。最近的高通胀很可能是暂时的，长期通胀预期不会被推高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8652825.d.html</link>
-            <guid>2262935</guid>
-            <pubDate>Sat, 31 Jul 2021 00:43:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国新增1539例新冠肺炎确诊病例。韩国方面表示，已有37.4%的人群接种第一剂新冠肺炎疫苗，已有13.9%的人群完成完全接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8651753.d.html</link>
-            <guid>2262929</guid>
-            <pubDate>Sat, 31 Jul 2021 00:37:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：关注通胀压力可能扩大或持续的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0048883.d.html</link>
-            <guid>2262928</guid>
-            <pubDate>Sat, 31 Jul 2021 00:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：缩减购债的时机将主要取决于就业方面是否存在取得实质性进展的证据。 如果通胀持续大幅高于目标，美联储将调整政策，引导通胀温和回落至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0048275.d.html</link>
-            <guid>2262922</guid>
-            <pubDate>Sat, 31 Jul 2021 00:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川新增新型冠状病毒肺炎确诊病例1例】7月30日0-24时，四川新增新型冠状病毒肺炎确诊病例1例，为省外输入本土病例： 女，43岁，为7月25日泸州无症状感染者的密切接触者，7月24日自上海乘机返回泸州，7月25日起被集中隔离，7月30日诊断为确诊病例（轻型）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8651026.d.html</link>
-            <guid>2262921</guid>
-            <pubDate>Sat, 31 Jul 2021 00:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：在今年接下来至2022年的时间内，顺风因素可能会转变为逆风因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8650888.d.html</link>
-            <guid>2262918</guid>
-            <pubDate>Sat, 31 Jul 2021 00:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事布雷纳德：在未来的会议上，我们将继续评估进展情况，以及降低资产购买速度的条件。到今天为止，就业恢复还有一段路要走。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqcfncc0047924.d.html</link>
-            <guid>2262917</guid>
-            <pubDate>Sat, 31 Jul 2021 00:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【总规模1500亿 河南拟设立新兴产业投资引导基金】近日，河南省人民政府办公厅印发《新兴产业投资引导基金 创业投资引导基金实施方案和考核评价办法（试行）》。其中，新兴产业投资引导基金重点投向河南省新型显示和智能终端、生物医药、节能环保、新能源及网联汽车、新一代人工智能、网络安全等新兴产业及优势特色产业链条上的成长期、成熟期创新型企业，该基金总规模1500亿元；而创业投资引导基金重点投向河南省新型显示和智能终端、生物医药、节能环保等新兴产业及优势特色产业链条上的种子期、初创期、早中期创新型企业或创新类、天使类项目，该基金总规模150亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-31/detail-ikqciyzk8650483.d.html</link>
-            <guid>2262914</guid>
-            <pubDate>Sat, 31 Jul 2021 00:30:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

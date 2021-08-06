@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 06 Aug 2021 18:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Aug 2021 19:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.33%，报26042点，低水137点。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0005326.d.html</link>
+            <guid>2270607</guid>
+            <pubDate>Fri, 06 Aug 2021 19:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大卫生部：报告显示在加拿大和国际上接种了辉瑞-BioNTech SE新冠疫苗的人群中有少数人患上了贝尔氏麻痹症。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1402440.d.html</link>
+            <guid>2270606</guid>
+            <pubDate>Fri, 06 Aug 2021 18:52:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【五部门：坚守评级独立性，建立回溯检验机制】经过公开征求意见后，8月6日，人民银行会同国家发展改革委、财政部、银保监会、证监会联合发布《关于促进债券市场信用评级行业健康发展的通知》，从提升评级质量和区分度、完善评级公司内部控制和评级独立性、加强信息披露、加大对违规行为惩戒力度等方面强化信用评级行业要求。相较于征求意见稿，《通知》主要明确了行业整改过渡期，细化评级机构启动回溯程序的前置条件和细化适用于投资者付费评级模式的业务范围等。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0004827.d.html</link>
+            <guid>2270605</guid>
+            <pubDate>Fri, 06 Aug 2021 18:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国报告新增60例新冠肺炎确诊病例，累计达112190例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1401697.d.html</link>
+            <guid>2270604</guid>
+            <pubDate>Fri, 06 Aug 2021 18:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 9月原油期货收跌0.81美元，跌幅1.17%，报68.28美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0003903.d.html</link>
+            <guid>2270603</guid>
+            <pubDate>Fri, 06 Aug 2021 18:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海原油期货主力合约夜盘收跌0.44%，报426.6元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0003804.d.html</link>
+            <guid>2270602</guid>
+            <pubDate>Fri, 06 Aug 2021 18:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 8月7日（周六）晚盘收盘下跌1.77%报368.3元/克；上海黄金交易所白银T+D 8月7日（周六）晚盘收盘下跌2.64%报5118.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1401273.d.html</link>
+            <guid>2270601</guid>
+            <pubDate>Fri, 06 Aug 2021 18:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约州报告新增3700例新冠肺炎确诊病例，新增5例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1401188.d.html</link>
+            <guid>2270600</guid>
+            <pubDate>Fri, 06 Aug 2021 18:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国务卿布林肯和阿尔及利亚副总理Lamamra就利比亚、突尼斯和新冠肺炎疫苗实施计划（COVAX）的问题进行了谈话。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1401181.d.html</link>
+            <guid>2270599</guid>
+            <pubDate>Fri, 06 Aug 2021 18:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国外交部：建议所有在阿富汗的英国国民现在通过商业手段离开阿富汗。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1400886.d.html</link>
+            <guid>2270598</guid>
+            <pubDate>Fri, 06 Aug 2021 18:24:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[法国报告新增25077例新冠肺炎确诊病例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0002642.d.html</link>
@@ -543,66 +603,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1380519.d.html</link>
             <guid>2270490</guid>
             <pubDate>Fri, 06 Aug 2021 14:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国司法部辩称禁止驱逐令是阻止疫情蔓延的必要行动】拜登政府要求华盛顿的一位联邦法官支持在新冠疫情最严重的地区实施新的禁止驱逐令，并表示，在德尔塔变异毒株肆虐之际，这是一项必要的公共卫生行动。在美国疾控中心宣布新的禁止令之前，先前全国性的驱逐禁令已经过期，引发了国会中民主党人的抗议。美国司法部在周五提交法庭的文件中称，疾控中心是在“行使其权力，采取一系列必要行动来减少传染病在各州之间的传播。”司法部还表示，“由于高度传染性的德尔塔变异毒株，疫情的轨迹已经发生了巨大变化，”并且“基于数学模型，病例趋势将在未来几周继续增加。”]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1380501.d.html</link>
-            <guid>2270489</guid>
-            <pubDate>Fri, 06 Aug 2021 14:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳第二批集中供地22宗土地全部中止挂牌出让】深圳交易集团有限公司（深圳公共资源交易中心）今晚发布《深圳市土地使用权出让补充公告》称，于2021年7月9日发布的《深圳市土地使用权出让公告》（深土交告〔2021〕号），以挂牌方式公开出让的22宗土地使用权，现根据委托人通知，为稳妥推进我市第二批次居住用地集中挂牌交易组织工作，经研究决定，现中止上述宗地的挂牌出让工作，具体出让时间另行公告。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9983000.d.html</link>
-            <guid>2270488</guid>
-            <pubDate>Fri, 06 Aug 2021 14:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Our World in Data数据，随着新冠delta变体引发新的关注，疫苗接种竞赛变得越来越紧迫。以色列的领先地位已被阿联酋赶超，该地区已有71.2%的人口完成了疫苗接种，巴林的接种率达到62.4%，以色列紧随其后，为61.2%。在美国，49.4%的人已完成疫苗接种。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1380326.d.html</link>
-            <guid>2270487</guid>
-            <pubDate>Fri, 06 Aug 2021 14:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国阿富汗问题特使敦促安理会向双方发出强烈信号，停止战斗，进行谈判是至关重要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9982624.d.html</link>
-            <guid>2270486</guid>
-            <pubDate>Fri, 06 Aug 2021 14:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY持续上扬，短线拉升10点，现报92.81，为7月27日来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1379979.d.html</link>
-            <guid>2270485</guid>
-            <pubDate>Fri, 06 Aug 2021 14:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度总理莫迪：印度各邦正努力削减贸易监管负担。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1379664.d.html</link>
-            <guid>2270484</guid>
-            <pubDate>Fri, 06 Aug 2021 14:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY涨0.5％至110.32。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9982319.d.html</link>
-            <guid>2270483</guid>
-            <pubDate>Fri, 06 Aug 2021 14:22:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股锂电板块盘中拉升，延续本周涨势，Livent(LTHM.O)涨3.2%，智利矿业化工(SQM.N)涨2.4%，雅宝(ALB.N)涨1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqcfncc1379587.d.html</link>
-            <guid>2270482</guid>
-            <pubDate>Fri, 06 Aug 2021 14:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟部长将于8月18日就立陶宛边境局势举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9982109.d.html</link>
-            <guid>2270481</guid>
-            <pubDate>Fri, 06 Aug 2021 14:20:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度总理莫迪：印度看到了复苏的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-06/detail-ikqciyzk9981953.d.html</link>
-            <guid>2270480</guid>
-            <pubDate>Fri, 06 Aug 2021 14:19:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

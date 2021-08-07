@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 20:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 21:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  以色列新增新冠肺炎确诊病例5515例，累计确诊897326例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0172457.d.html</link>
+            <guid>2272686</guid>
+            <pubDate>Sat, 07 Aug 2021 21:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国新增新冠肺炎确诊病例25755例 多地爆发反对健康通行证游行】根据法国公共卫生署当地时间7日公布的统计数字，过去24小时法国新增新冠肺炎确诊病例25755例，累计确诊6284708例。7日当天，包括巴黎、马赛、里昂等法国多地举行示威活动，抗议即将于9日生效的“健康通行证”法案。根据法国内政部7日晚公布的数据，当天共有超过23万人参加了抗议活动。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1569295.d.html</link>
+            <guid>2272685</guid>
+            <pubDate>Sat, 07 Aug 2021 20:37:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  德国新增新冠肺炎确诊病例3448例 累计确诊3784433例。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0169987.d.html</link>
@@ -593,18 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0110179.d.html</link>
             <guid>2271793</guid>
             <pubDate>Sat, 07 Aug 2021 08:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京：各机场、火车站将严格查验进京人员北京健康宝，对非绿码人员将劝阻登机登车。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1508245.d.html</link>
-            <guid>2271792</guid>
-            <pubDate>Sat, 07 Aug 2021 08:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京疫情防控新闻发布会：进一步把防疫责任压得更实、行动落得更快、措施抓得更紧，坚决阻断疫情输入风险，坚决守住疫情反弹防线，尽最大努力确保北京本地零感染。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1507461.d.html</link>
-            <guid>2271783</guid>
-            <pubDate>Sat, 07 Aug 2021 08:13:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

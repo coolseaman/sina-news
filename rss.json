@@ -6,6 +6,20 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2272686,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0172457.d.html",
+            "title": "  以色列新增新冠肺炎确诊病例5515例，累计确诊897326例。",
+            "date_modified": "2021-08-07T21:14:41.000Z"
+        },
+        {
+            "id": 2272685,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1569295.d.html",
+            "title": "【法国新增新冠肺炎确诊病例25755例 多地爆发反对健康通行证游行】根据法国公共卫生署当地时间7日公布的统计数字，过去24小时法国新增新冠肺炎确诊病例25755例，累计确诊6284708例。7日当天，包括巴黎、马赛、里昂等法国多地举行示威活动，抗议即将于9日生效的“健康通行证”法案。根据法国内政部7日晚公布的数据，当天共有超过23万人参加了抗议活动。（央视）",
+            "date_modified": "2021-08-07T20:37:25.000Z"
+        },
+        {
             "id": 2272684,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0169987.d.html",
@@ -687,20 +701,6 @@
             "url": "https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0110179.d.html",
             "title": "菲律宾新增11021例新冠肺炎确诊病例，新增162例死亡病例。",
             "date_modified": "2021-08-07T08:20:12.000Z"
-        },
-        {
-            "id": 2271792,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1508245.d.html",
-            "title": "北京：各机场、火车站将严格查验进京人员北京健康宝，对非绿码人员将劝阻登机登车。",
-            "date_modified": "2021-08-07T08:20:02.000Z"
-        },
-        {
-            "id": 2271783,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1507461.d.html",
-            "title": "北京疫情防控新闻发布会：进一步把防疫责任压得更实、行动落得更快、措施抓得更紧，坚决阻断疫情输入风险，坚决守住疫情反弹防线，尽最大努力确保北京本地零感染。",
-            "date_modified": "2021-08-07T08:13:38.000Z"
         }
     ]
 }

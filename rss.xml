@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 16:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 17:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[南非新冠肺炎确诊病例累计达2523488例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1558447.d.html</link>
+            <guid>2272505</guid>
+            <pubDate>Sat, 07 Aug 2021 17:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[为防控新冠疫情，缅甸第三次延长公众假期至8月15日。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1557265.d.html</link>
+            <guid>2272476</guid>
+            <pubDate>Sat, 07 Aug 2021 16:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国援助老挝第五批新冠疫苗运抵万象】当地时间8月7日晚，中国政府援助老挝的一批新冠疫苗运抵老挝首都万象瓦岱国际机场，这是中国援助老挝的第五批新冠疫苗。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0157936.d.html</link>
+            <guid>2272417</guid>
+            <pubDate>Sat, 07 Aug 2021 16:44:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【澳门已完成全民核酸采样程序 96%检测结果已出均为阴性】澳门新冠病毒感染应变协调中心8月7日表示，全民核酸检测计划已完成采样程序。截至当天21时，澳门全民核酸检测累计采样614465人，加上自8月3日后有101786人自行前往进行核酸检测，且不在全民核酸检测计划内，目前共有716251人进行了核酸检测。其中685350人已有检测结果，约占全部核酸检测人数的96%，检测结果全部为阴性。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1554340.d.html</link>
@@ -587,24 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1504077.d.html</link>
             <guid>2271765</guid>
             <pubDate>Sat, 07 Aug 2021 07:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：中高风险地区旅居史人员暂缓进返京】8月7日上午，北京新冠疫情防控工作领导小组第一百一十四次会议召开。会议强调，要严格各地风险人员进返京防疫管理。对目前尚在中高风险地区所在县（市、区、旗）及14日内有该区域旅居史的待进返京人员，告知有关就地防疫要求，暂缓进返京。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1503572.d.html</link>
-            <guid>2271762</guid>
-            <pubDate>Sat, 07 Aug 2021 07:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚新增19257例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1502444.d.html</link>
-            <guid>2271754</guid>
-            <pubDate>Sat, 07 Aug 2021 07:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北荆州、黄冈无新增本土病例 疫情已基本稳定】湖北省疫情防控指挥部通报，荆州市城区已完成一轮核酸检测，检测93.3万人，结果均为阴性，已连续6天无新增感染者。黄冈市红安县已检测17.5万人，结果均为阴性，已连续5天无新增感染者。荆州、黄冈没有新增本土病例，疫情已基本稳定。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1501737.d.html</link>
-            <guid>2271750</guid>
-            <pubDate>Sat, 07 Aug 2021 07:30:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

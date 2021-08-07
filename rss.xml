@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Aug 2021 19:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 20:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  德国新增新冠肺炎确诊病例3448例 累计确诊3784433例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0169987.d.html</link>
+            <guid>2272684</guid>
+            <pubDate>Sat, 07 Aug 2021 20:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其新增新冠肺炎确诊病例25100例，累计确诊5895841例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1566655.d.html</link>
+            <guid>2272683</guid>
+            <pubDate>Sat, 07 Aug 2021 19:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克新增新冠肺炎确诊病例7973例，累计确诊1704363例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqcfncc1566100.d.html</link>
+            <guid>2272682</guid>
+            <pubDate>Sat, 07 Aug 2021 19:15:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国参议院投票推进两党基础设施法案通过进程】美国参议院当地时间8月7日以67票赞成、27票反对的投票结果，进一步推进了拜登的两党基础设施法案的通过进程。虽然尚不清楚该法案的最终表决日期，但是7日的投票几乎可以肯定该法案将在参议院获得通过。这项价值5500亿美元的预算法案，将解决核心基础设施需求，其中，1100亿美元将用于公路和桥梁，660亿美元将用于铁路，75亿美元将用于电动汽车终点站，170亿美元将用于港口，250亿美元将用于机场，550亿美元将用于清洁饮用水，650亿美元将用于高速互联网等。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-08/detail-ikqciyzm0165864.d.html</link>
@@ -587,24 +605,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1507461.d.html</link>
             <guid>2271783</guid>
             <pubDate>Sat, 07 Aug 2021 08:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京：对目前尚在中高风险地区待进返京人员，弹窗提示暂缓进返京。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0109059.d.html</link>
-            <guid>2271781</guid>
-            <pubDate>Sat, 07 Aug 2021 08:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京疫情防控新闻发布会：8月7日0-15时，北京无新增本地新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0108424.d.html</link>
-            <guid>2271776</guid>
-            <pubDate>Sat, 07 Aug 2021 08:07:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三部门：平台不得制定损害外卖骑手等劳动者安全健康考核指标】近日，应急管理部、公安部、人力资源和社会保障部相关司局联合召开重点平台经济企业安全生产和劳动权益保障宣贯会议。会议要求各平台经济企业牢固树立安全生产“红线”意识和底线思维，加强安全生产警示教育和配送运输工具合规性检查，引导安全文明配送。要重视劳动者身心健康，优化平台算法，不得制定损害劳动者安全健康的考核指标，有效防范化解新就业形态安全风险，维护外卖骑手等劳动者生命安全和劳动权益，不断提升人民群众幸福感、安全感。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1505131.d.html</link>
-            <guid>2271768</guid>
-            <pubDate>Sat, 07 Aug 2021 07:58:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

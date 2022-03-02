@@ -4,11 +4,423 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 02 Mar 2022 06:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：俄国防部称，俄武装力量摧毁了地面上47架、空中11架乌克兰飞机，击毁了472辆坦克、62件火箭炮、46架无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3761177.d.html</link>
+            <guid>2559130</guid>
+            <pubDate>Wed, 02 Mar 2022 07:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯联邦储蓄银行：现在关注的是经济和银行面临的新挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6203089.d.html</link>
+            <guid>2559129</guid>
+            <pubDate>Wed, 02 Mar 2022 07:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[银保监会主席郭树清表示，2021年重点领域金融风险持续得到控制，宏观杠杆率下降大约8个百分点，金融体系资产扩张恢复到较低水平，房地产泡沫化、金融化势头得到扭转。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3760909.d.html</link>
+            <guid>2559128</guid>
+            <pubDate>Wed, 02 Mar 2022 07:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【林郑月娥重申：香港不作全城市封城】综合香港电台网站、《香港经济日报》消息，林郑月娥今日（2日）表示，港府在中央大力支持下，可以在短时间做多次检测，以达至“清零”的目标。有地方全城禁足或封城，但香港一定不会采取有关做法。林郑月娥强调，全民检测一定会考虑香港的实际情况，不作全城市封城。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3760881.d.html</link>
+            <guid>2559127</guid>
+            <pubDate>Wed, 02 Mar 2022 07:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄国防部称，俄罗斯空天军对乌克兰军事基础设施发起了密集航空打击，67个设施被击毁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6202687.d.html</link>
+            <guid>2559126</guid>
+            <pubDate>Wed, 02 Mar 2022 07:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯方面表示，使用了高精度武器打击基辅，以压制针对俄罗斯的信息攻击，基辅地区电视塔的广播设备已经无法使用。（当前是基辅时间上午09:10）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3760614.d.html</link>
+            <guid>2559125</guid>
+            <pubDate>Wed, 02 Mar 2022 07:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气公司Gazprom：周三经由乌克兰的天然气运输量为109.4百万立方米/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3760211.d.html</link>
+            <guid>2559124</guid>
+            <pubDate>Wed, 02 Mar 2022 07:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股股指期货短线走低，纳指期货、标普500指数期货跌0.2%，道指期货跌0.12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6202081.d.html</link>
+            <guid>2559123</guid>
+            <pubDate>Wed, 02 Mar 2022 07:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲斯托克50指数期货跌幅扩大至1.1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3760073.d.html</link>
+            <guid>2559122</guid>
+            <pubDate>Wed, 02 Mar 2022 07:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部：在俄罗斯的特别军事行动中，乌克兰共有1502个军事基础设施陷入瘫痪。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6201619.d.html</link>
+            <guid>2559121</guid>
+            <pubDate>Wed, 02 Mar 2022 07:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受俄乌局势影响，CBOT小麦日内大涨6.00%，现报1044.00美分/蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3759623.d.html</link>
+            <guid>2559120</guid>
+            <pubDate>Wed, 02 Mar 2022 07:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股午后持续走低，恒指跌幅扩大至2%，恒生科技指数跌幅达2.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3759562.d.html</link>
+            <guid>2559119</guid>
+            <pubDate>Wed, 02 Mar 2022 07:05:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上汽集团董事长陈虹：加强政策保障 促进国产大算力芯片发展】上汽集团董事长陈虹今年两会提出《关于完善相关政策体系 支持汽车产业绿色低碳高质量发展的建议》、《关于加强产业链布局和基础设施建设 推动新能源汽车可持续发展的建议》等四项建议，分别从落实“双碳”战略目标、推动新能源汽车可持续发展、智能网联汽车发展及产业链补链强链等四方面提出了建议。其中，陈虹建议，加强产业链布局与低碳技术研发创新，对锂、钴等上游资源进行有效整合与掌控，保证产业链安全；加强政策保障促进国产大算力芯片发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6201515.d.html</link>
+            <guid>2559118</guid>
+            <pubDate>Wed, 02 Mar 2022 07:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气公司Gazprom：正按照客户的要求，经由乌克兰向欧洲输送天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6201474.d.html</link>
+            <guid>2559117</guid>
+            <pubDate>Wed, 02 Mar 2022 07:05:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄新社：俄罗斯国防部称，俄罗斯武装部队完全控制了乌克兰的赫尔松地区中心。（当前是基辅时间上午09:04）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6201185.d.html</link>
+            <guid>2559116</guid>
+            <pubDate>Wed, 02 Mar 2022 07:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲天然气价格涨幅扩大至11％，报135欧元/兆瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6201050.d.html</link>
+            <guid>2559115</guid>
+            <pubDate>Wed, 02 Mar 2022 07:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北向资金全天净卖出7.76亿元】北向资金全天净卖出7.76亿元，终结连续3日净买入，早盘一度净买入超23亿元；其中沪股通净卖出4.51亿元，深股通净卖出3.25亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3758930.d.html</link>
+            <guid>2559114</guid>
+            <pubDate>Wed, 02 Mar 2022 07:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月Nationwide房价指数月率录得1.7%，创2021年8月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3758904.d.html</link>
+            <guid>2559113</guid>
+            <pubDate>Wed, 02 Mar 2022 07:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【收评：两市低开低走创指跌1.8% 权重弱势题材活跃】3月2日消息，两市低开，沪指早间弱势震荡，创指开盘跳水一度跌超2.5%，随后跌幅有所收窄，医药医疗、半导体芯片、风电设备等跌幅居前，中俄贸易、油气股集体大涨。午后指数弱势震荡，黄白二线继续分化，权重弱势题材活跃，医药股持续走强，基建股盘中崛起，光伏、绿电板块拉升回暖，总体而言，市场存量博弈特征明显，仍然呈现箱体震荡格局，个股涨跌参半，赚钱效应较差。截至收盘，沪指跌0.13%，深证成指跌1.05%，创业板指跌1.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6200833.d.html</link>
+            <guid>2559112</guid>
+            <pubDate>Wed, 02 Mar 2022 07:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑俄罗斯卢布USD/RUB开跌1.44%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6200758.d.html</link>
+            <guid>2559111</guid>
+            <pubDate>Wed, 02 Mar 2022 07:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国2月Nationwide房价指数同比 12.6%，预期 10.8%，前值 11.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6200618.d.html</link>
+            <guid>2559110</guid>
+            <pubDate>Wed, 02 Mar 2022 07:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内商品期货收盘普涨 LU、原油、PTA、沥青主力合约涨停】国内商品期货收盘普涨，LU、原油、PTA主力合约涨停，郑煤、LPG等涨超6%，EB、铁矿石等涨超4%，纯碱、焦煤等涨超3%，郑棉、沪镍等涨超2%，沪金、菜粕等涨逾1%，玉米、豆粕等小幅上涨；仅生猪、红枣等少数品种收跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6200558.d.html</link>
+            <guid>2559109</guid>
+            <pubDate>Wed, 02 Mar 2022 07:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海虹桥商务区将建设数字经济生态区域 大力发展工业互联网、北斗导航等产业】上海虹桥国际中央商务区（以下简称“虹桥商务区”）管委会党组书记、常务副主任鲍炳章今日表示，虹桥商务区未来将聚焦数字新经济，把握新一轮科技革命和产业变革的新机遇，建设虹桥数字经济的生态区域，以数字技术助力制造业智能化改造，大力发展工业互联网、电子竞技、北斗导航等产业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3758451.d.html</link>
+            <guid>2559108</guid>
+            <pubDate>Wed, 02 Mar 2022 07:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油日内大涨4%，现报111.53美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6199795.d.html</link>
+            <guid>2559106</guid>
+            <pubDate>Wed, 02 Mar 2022 06:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部长：乌克兰将很快收到更多的毒刺和标枪导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3757833.d.html</link>
+            <guid>2559105</guid>
+            <pubDate>Wed, 02 Mar 2022 06:55:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【自基辅撤离的华人已抵达罗马尼亚首都】当地时间3月2日8时左右，自乌克兰基辅撤离的华人已抵达罗马尼亚首都布加勒斯特。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3757796.d.html</link>
+            <guid>2559104</guid>
+            <pubDate>Wed, 02 Mar 2022 06:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油上破110美元/桶，续创2013年来新高，较日低上涨超5美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3757612.d.html</link>
+            <guid>2559103</guid>
+            <pubDate>Wed, 02 Mar 2022 06:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至2022年3月1日，北京市累计报告接种新冠病毒疫苗5931.02万剂次，累计接种2273.54万人。（首都健康）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6199452.d.html</link>
+            <guid>2559102</guid>
+            <pubDate>Wed, 02 Mar 2022 06:53:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度SENSEX指数下跌2％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3757470.d.html</link>
+            <guid>2559101</guid>
+            <pubDate>Wed, 02 Mar 2022 06:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【1-2月百强房企拿地额同比下降超六成，联合拿地模式遇冷】今年前两个月，全国土地市场仍然延续去年底的低迷行情。据中指研究院数据显示，1-2月，全国300城各类用地成交2460.71亿元，同比下降超过六成；百强房企拿地额同比降幅也超过六成。从目前来看，多数房企并未拿地，国资背景的房企成为拿地“主力军”。而从北京首轮集中供地的情况来看，房企联合拿地的模式也不被看好。(新京报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6199236.d.html</link>
+            <guid>2559100</guid>
+            <pubDate>Wed, 02 Mar 2022 06:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海虹桥商务区将支持新能源汽车进一步做强做大 打造绿色低碳先行引领区】上海虹桥国际中央商务区管委会常务副主任鲍炳章今日表示，未来虹桥商务区将聚焦汽车新势力，强化终端带动，加快智能网联汽车产业要素和配套资源的集聚，支持新能源汽车进一步做强做大。他同时表示，虹桥商务区将聚焦低碳新能源，坚持绿色低碳的发展理念，加快集聚新能源龙头企业，聚焦新能源、节能环保、碳交易等，打造绿色低碳先行引领区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3757221.d.html</link>
+            <guid>2559099</guid>
+            <pubDate>Wed, 02 Mar 2022 06:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[杰富瑞：将SEA(SE.N)目标价从251美元下调至197美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3756841.d.html</link>
+            <guid>2559098</guid>
+            <pubDate>Wed, 02 Mar 2022 06:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家卫建委：截至2022年3月1日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗313559.8万剂次。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6197734.d.html</link>
+            <guid>2559097</guid>
+            <pubDate>Wed, 02 Mar 2022 06:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沥青主力合约触及涨停，报3736元/吨，涨幅7.98%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6197711.d.html</link>
+            <guid>2559096</guid>
+            <pubDate>Wed, 02 Mar 2022 06:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油日内大涨3%，现报109.55美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3755818.d.html</link>
+            <guid>2559095</guid>
+            <pubDate>Wed, 02 Mar 2022 06:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线走高10点，报97.54；英镑兑美元GBP/USD短线走低近20点，现报1.3293。]]></title>
+            <guid>2559094</guid>
+            <pubDate>Wed, 02 Mar 2022 06:44:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油短线走高1.1美元，现报109.31美元/桶。布伦特原油短线走高1美元，报110.86美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6197367.d.html</link>
+            <guid>2559093</guid>
+            <pubDate>Wed, 02 Mar 2022 06:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【格林美：正在积极与国有资本合作 推进报废汽车业务混改】格林美在互动平台表示，2020年，公司报废汽车综合利用17.5万吨，约87500辆，同比增长超过16%。公司正在积极与国有资本合作，推进报废汽车业务混改，不断将其培育发展壮大，推动报废汽车在未来实现亿级盈利能力，城市矿山年资源再生总量超千万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3755471.d.html</link>
+            <guid>2559092</guid>
+            <pubDate>Wed, 02 Mar 2022 06:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分锂电材料报价今日继续上涨，电池级碳酸锂涨3000元/吨】据上海钢联发布数据显示，部分锂电材料报价今日继续上涨，电池级碳酸锂涨3000元/吨；氢氧化锂涨2500元/吨；电解钴涨1500-3300元/吨；镍豆涨3200元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6197234.d.html</link>
+            <guid>2559091</guid>
+            <pubDate>Wed, 02 Mar 2022 06:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏伊士运河部分船舶通行费上涨】埃及苏伊士运河管理局3月1日提高部分船舶的通行费，费用涨幅最高为10%。这是苏伊士运河通行费两个月内第二次上调。苏伊士运河管理局在声明中说，液化石油气船、化学运输船和其他液货船通行费上调10%；车辆和天然气运输船、杂货船以及多用途船通行费增加7%；油船、原油船和干散货船通行费上调5%。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6197185.d.html</link>
+            <guid>2559090</guid>
+            <pubDate>Wed, 02 Mar 2022 06:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【20世茂G1盘中跌超22% 临时停牌】20世茂G1（163216）盘中跌22%，上交所决定，自03月02日14时31分开始暂停20世茂G1（163216）交易，自03月02日14时57分起恢复交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3755271.d.html</link>
+            <guid>2559089</guid>
+            <pubDate>Wed, 02 Mar 2022 06:40:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：波音停止向俄罗斯航空公司提供售后服务】据俄新社消息，当地时间3月2日，波音公司宣布停止向俄罗斯航空公司提供配件、售后服务和技术支持。（参考消息）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6196908.d.html</link>
+            <guid>2559088</guid>
+            <pubDate>Wed, 02 Mar 2022 06:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯联邦储蓄银行决定退出欧洲市场】俄罗斯联邦储蓄银行（Sberbank）3月2日在网站声明中称，已决定退出欧洲市场。 声明称，该银行在欧洲的子公司出现不正常资金外流，部分公司员工的人身安全受到威胁。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6196616.d.html</link>
+            <guid>2559087</guid>
+            <pubDate>Wed, 02 Mar 2022 06:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：俄罗斯海上石油出口为600万桶/日，国际能源署（IEA）释放的原油仅抵消其中断1个月的影响的三分之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6196526.d.html</link>
+            <guid>2559086</guid>
+            <pubDate>Wed, 02 Mar 2022 06:37:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股恒生科技指数跌2%，舜宇光学科技跌近9%，快手跌超8%，瑞声科技跌近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3754614.d.html</link>
+            <guid>2559085</guid>
+            <pubDate>Wed, 02 Mar 2022 06:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吉林省地方金融监管局：降低政府性融资担保费率】吉林省地方金融监管局副局长刘健在省政府新闻发布会上表示，省地方金融监管局将按照省委省政府决策部署，持续增加信贷投放，引导各机构围绕项目和企业融资需求，做到“早贷、快贷”。加强金融精准供给，加速推进施工项目和“三早”项目审批投放。降低政府性融资担保费率，引导合作机构逐步将平均担保费率降至1%以下。（吉林发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6196200.d.html</link>
+            <guid>2559084</guid>
+            <pubDate>Wed, 02 Mar 2022 06:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：波兰、保加利亚和斯洛伐克否认向乌克兰提供70架战机】波兰、保加利亚和斯洛伐克否认了三国会向乌克兰提供战斗机的说法。波兰总统杜达表示，由于波兰和北约不是俄乌冲突中的当事方，因此该国不会向乌克兰提供战斗机。斯洛伐克国防部长纳吉同样表示，该国没有向乌克兰提供战机的计划。北约秘书长斯托尔滕贝格表示，北约不会向乌克兰派兵，或是调动飞机进入乌克兰领空。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3754250.d.html</link>
+            <guid>2559083</guid>
+            <pubDate>Wed, 02 Mar 2022 06:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【牧原股份：俄乌局势是否影响国内饲料价格尚不明朗】俄乌局势是否会影响玉米价格，从而导致猪饲料涨价，影响猪价？对公司猪产品有何影响？牧原股份证券办在回复函中表示，公司所需饲料原料主要采购于国内，俄乌局势对国内饲料原料价格是否有影响尚不明朗。而对于应对措施，牧原股份证券办表示，目前俄乌局势对公司暂无直接影响。公司持续采取多种措施降低饲料原料采购成本，提升盈利能力。公司会根据粮食市场行情变化趋势及时调整配方，推行低玉米豆粕配方，降低饲料成本；根据生产需求和市场行情等灵活调整饲料原料采购策略，同时借助远期合同等工具降低采购价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3754194.d.html</link>
+            <guid>2559082</guid>
+            <pubDate>Wed, 02 Mar 2022 06:34:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪深两市成交额突破8000亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3754022.d.html</link>
+            <guid>2559081</guid>
+            <pubDate>Wed, 02 Mar 2022 06:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：国际能源机构宣布释放6000万紧急石油储备，但这还不足以缓解危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6195771.d.html</link>
+            <guid>2559080</guid>
+            <pubDate>Wed, 02 Mar 2022 06:33:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国KOSPI指数3月2日（周三）收盘上涨4.34点，涨幅0.16%，报2703.52点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6195510.d.html</link>
+            <guid>2559079</guid>
+            <pubDate>Wed, 02 Mar 2022 06:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美团于深圳成立低空物流科技公司】企查查APP显示，2月28日，深圳美团低空物流科技有限公司成立，注册资本1000万元人民币，经营范围包含：智能机器人的研发；新材料技术研发；智能无人飞行器制造；民用航空器驾驶员培训等。企查查股权穿透显示，该公司由美团关联公司北京三快科技有限公司100%控股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6195481.d.html</link>
+            <guid>2559078</guid>
+            <pubDate>Wed, 02 Mar 2022 06:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚边境警察：自2月24日以来，有11.31万乌克兰人进入罗马尼亚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6195210.d.html</link>
+            <guid>2559077</guid>
+            <pubDate>Wed, 02 Mar 2022 06:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2月以来发行失败基金增至6只 创金合信基金旗下产品发行失败 】创金合信基金发布公告称，创金合信甄选回报于2021年12月13日开始募集，截止2022年2月28日基金募集期限届满，该基金未能满足基金合同规定的基金备案的条件，故不能生效。加上此前发行失败的德邦锐丰、宝盈鸿翔债券、平安中证港股通消费、同泰同享、中银证券国证新能源车电池ETF，这已是年内第6只募集失败的基金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3753353.d.html</link>
+            <guid>2559076</guid>
+            <pubDate>Wed, 02 Mar 2022 06:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国经济部长哈贝克表示，在短期内，我们可能不得不保持燃煤电厂的运转，在中期将寻求转向可再生能源。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3753307.d.html</link>
+            <guid>2559075</guid>
+            <pubDate>Wed, 02 Mar 2022 06:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国家航天集团总裁罗戈津否认俄罗斯卫星都已失控。他表示，所有的控制中心都运转正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3753277.d.html</link>
+            <guid>2559074</guid>
+            <pubDate>Wed, 02 Mar 2022 06:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼经济部长哈贝克：有关能源的最坏情况尚未成真；俄罗斯仍在输送供应。]]></title>
+            <guid>2559073</guid>
+            <pubDate>Wed, 02 Mar 2022 06:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰哈尔科夫州州长：乌克兰东部城市哈尔科夫发生炮击事件，至少造成21人死亡，112人受伤。（当前是基辅时间上午08:27）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3753044.d.html</link>
+            <guid>2559072</guid>
+            <pubDate>Wed, 02 Mar 2022 06:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业界称三星电子正研发取代碳化硅聚焦环的新材料 碳化硼成有力备选方案】三星电子正在研发取代碳化硅(SiC)聚焦环(Focus Ring)的新材料。业界消息指出，硬度表现优秀的碳化硼(B4C)成为三星有力备选方案。三星为将B4C打造成新一代聚焦环材料，正在进行相关研发。聚焦环在半导体产业中，主要用于硅片蚀刻工艺，除了能固定硅片之外，也有维持电浆体密度、防止硅片遭污染等功用。 (DIGITIMES)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3752985.d.html</link>
+            <guid>2559071</guid>
+            <pubDate>Wed, 02 Mar 2022 06:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国零售商首次跻身全球销售十强】德勤最新研究报告《2022全球零售力量》显示，2020财年（2020年7月1日至2021年6月30日），全球零售250强共计创收5.11万亿美元，复合增长率达5.2%；全球零售前十强的收入占250强收入总额的34.6%，高于上一财年的32.7%；全球零售前十强的收入同比提升8个百分点。值得注意的是，报告显示，2020财年，中国零售商首次跻身全球零售前十强。京东排名上升4位，位列第九位。苏宁、唯品会、永辉超市等14家中国企业也入围250强榜单。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6194671.d.html</link>
+            <guid>2559070</guid>
+            <pubDate>Wed, 02 Mar 2022 06:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥总统拒绝参与制裁俄罗斯】墨西哥总统洛佩斯当地时间1日表示，不会参与西方国家对俄罗斯的制裁，因为墨西哥寻求与所有国家保持和平关系。保持中立将使墨西哥处于 "与冲突各方对话 "的位置。墨西哥仍将对俄罗斯航空公司保持空域开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3752820.d.html</link>
+            <guid>2559069</guid>
+            <pubDate>Wed, 02 Mar 2022 06:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本共同社：日本发现疑似的俄罗斯直升机进入其领空。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3752756.d.html</link>
+            <guid>2559068</guid>
+            <pubDate>Wed, 02 Mar 2022 06:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【服务器业者：2022年上半年缺料状况依旧严峻 并无缓解迹象】服务器缺料问题在2022年上半年仍然无解，追料与备料仍是厂商一大挑战。神达指出，目前缺料状况依旧严峻，并未有缓解迹象;纬颖表示，缺料范围有收敛，然长短料的问题尚未解决，因应备料及扩厂需求，纬颖将透过私募或现金增资发行新股或发行海外存托凭证方式增资。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3752273.d.html</link>
+            <guid>2559067</guid>
+            <pubDate>Wed, 02 Mar 2022 06:22:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大皇家银行：国际能源署协调释放的石油量顶不过市场半天的需求】加拿大皇家银行表示，国际能源署的原油释放量“根本不足以冷却未来10年（或更长时间）最为强劲的基本面”。在俄罗斯入侵乌克兰后，原油市场真切地经历了一次地缘政治风险。目前全球原油需求量约为1亿桶/日，6000万桶“仅能满足大半天的需求”，几乎不能让市场撑过“午餐时间”。尽管加拿大皇家银行指出，两周前有关夏季前油价为115美元/桶的预测似乎过于激进，但考虑到地缘政治因素，目前油价可能面临进一步上行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6193904.d.html</link>
+            <guid>2559066</guid>
+            <pubDate>Wed, 02 Mar 2022 06:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比亚迪成立汽车零部件公司，注册资本5000万】企查查APP显示，3月1日，长沙比亚迪汽车零部件有限公司成立，注册资本5000万元人民币，经营范围包含：汽车零部件研发；新能源汽车整车销售；电动汽车充电基础设施运营；小微型客车租赁经营服务等。企查查股权穿透显示，该公司由比亚迪汽车工业有限公司100%控股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3752085.d.html</link>
+            <guid>2559065</guid>
+            <pubDate>Wed, 02 Mar 2022 06:21:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日本共同社：日本广岛县将寻求结束疫情紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3751798.d.html</link>
+            <guid>2559064</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：“顿涅茨克人民共和国”人民警察发言人巴苏林称，马里乌波尔已被包围。（当前是基辅时间上午08:19）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3751744.d.html</link>
+            <guid>2559063</guid>
+            <pubDate>Wed, 02 Mar 2022 06:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：减并港口收费项目 定向降低沿海港口引航费】交通运输部、国家发改委发布减并港口收费等有关事项，取消港口设施保安费的政府定价，将其纳入港口作业包干费作为子项，该子项收费标准不得高于原收费标准。深圳港、湄洲湾港、日照港、锦州港，降低引航（移泊）费基准费率15%，上海港、宁波舟山港、大连港、唐山港、青岛港、连云港、湛江港、福州港、防城港、威海港、黄骅港、烟台港、厦门港、泉州港，降低引航（移泊）费基准费率10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3751683.d.html</link>
+            <guid>2559062</guid>
+            <pubDate>Wed, 02 Mar 2022 06:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年上海虹桥商务区实现税收收入346亿元 新增法人企业同比增长45%】上海市副市长、虹桥国际中央商务区（以下简称“虹桥商务区”）管委会主任宗明今日表示，2021年虹桥商务区实现税收收入346亿元，同比增长29.1%。她同时表示，一年来新增法人企业同比增长45%，重点产业新增企业数占比超70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3751601.d.html</link>
+            <guid>2559061</guid>
+            <pubDate>Wed, 02 Mar 2022 06:19:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加拿大皇家银行：国际能源署（IEA）释放的原油储备还“远远不够”。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6192859.d.html</link>
@@ -192,417 +604,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3745753.d.html</link>
             <guid>2559028</guid>
             <pubDate>Wed, 02 Mar 2022 05:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【快讯：基建股震荡走强 浙江建投涨停】浙江建投、奇信股份、瑞和股份涨停，黑牡丹、宁波建工、杭州园林、汇通集团、诚邦股份等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6187472.d.html</link>
-            <guid>2559027</guid>
-            <pubDate>Wed, 02 Mar 2022 05:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，俄罗斯联邦储蓄银行将离开欧洲市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3745456.d.html</link>
-            <guid>2559026</guid>
-            <pubDate>Wed, 02 Mar 2022 05:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南省房协统计开发企业融资需求，汇总后统一上报省住建厅】 河南省房地产业协会发布关于统计上报开发企业（项目）融资需求的通知。《通知》显示，为贯彻落实河南省委、省政府“万人助万企”活动部署，贯通政银企三方合作对接，强化重点领域、重点企业及重大项目融资保障，拟开展房地产领域专项银企对接，按照省住建厅要求，统计开发企业（项目）融资需求情况，并要求有融资需求的企业（项目）填写企业融资需求统计表，并于3月4日（本周五）12点前上报至河南省房协秘书处，汇总后统一上报省住建厅。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3745406.d.html</link>
-            <guid>2559025</guid>
-            <pubDate>Wed, 02 Mar 2022 05:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[兖煤澳大利亚大涨超50%，领涨港股煤炭板块，股价报36.25港元，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6187134.d.html</link>
-            <guid>2559024</guid>
-            <pubDate>Wed, 02 Mar 2022 05:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“顿涅茨克人民共和国”称，乌克兰军队连夜炮轰该地区，造成学校被毁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6186673.d.html</link>
-            <guid>2559023</guid>
-            <pubDate>Wed, 02 Mar 2022 05:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[元宇宙概念股异动拉升，佳创视讯涨超7%，恒信东方、川网传媒、中青宝、美盛文化、风语筑等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3744458.d.html</link>
-            <guid>2559022</guid>
-            <pubDate>Wed, 02 Mar 2022 05:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台湾加权指数3月2日（周三）收盘下跌30.65点，跌幅0.17%，报17867.6点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3744419.d.html</link>
-            <guid>2559021</guid>
-            <pubDate>Wed, 02 Mar 2022 05:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯2月天然气产量为621.06亿立方米，同比下降0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6185706.d.html</link>
-            <guid>2559020</guid>
-            <pubDate>Wed, 02 Mar 2022 05:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音：暂停在莫斯科主要业务】波音方面表示，已经暂停了在莫斯科的主要业务并临时关闭了基辅办公室。我们还将暂停针对俄罗斯的航空公司的零件、维修和技术支持服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6185503.d.html</link>
-            <guid>2559019</guid>
-            <pubDate>Wed, 02 Mar 2022 05:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股互联网医疗股普跌，麦迪卫康跌5.88%，阿里健康跌3.47%，众安在线跌3%，京东健康跌2.37%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3743788.d.html</link>
-            <guid>2559018</guid>
-            <pubDate>Wed, 02 Mar 2022 05:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯2月石油产量达110.55万桶/日，同比增长9.3％，环比增长0.2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6185407.d.html</link>
-            <guid>2559017</guid>
-            <pubDate>Wed, 02 Mar 2022 05:32:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪在长沙成立两家新公司 经营范围均含汽车零部件研发】天眼查显示，3月1日，长沙星朝汽车有限公司、长沙比亚迪汽车零部件有限公司成立，注册资本均为5000万人民币，法定代表人分别为何志奇、罗忠良，经营范围均含汽车零部件研发、制造；新能源汽车整车销售；电动汽车充电基础设施运营等，两家公司均由比亚迪汽车工业有限公司全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3743218.d.html</link>
-            <guid>2559016</guid>
-            <pubDate>Wed, 02 Mar 2022 05:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碧桂园午后跌超6%，报5.77港元，刷新近一年新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3743195.d.html</link>
-            <guid>2559015</guid>
-            <pubDate>Wed, 02 Mar 2022 05:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间3月2日，俄罗斯航天署表示，将在拜科努尔发射场发射36颗英国OneWeb通信卫星的联盟-2.1b火箭已进入发射台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6184638.d.html</link>
-            <guid>2559014</guid>
-            <pubDate>Wed, 02 Mar 2022 05:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【快讯：光伏板块异动拉升 上能电气涨停】创业板股上能电气涨停，东方日升、盛弘股份、爱康科技、星云股份等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3742604.d.html</link>
-            <guid>2559013</guid>
-            <pubDate>Wed, 02 Mar 2022 05:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[浙江建投午后一度触及涨停。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6184231.d.html</link>
-            <guid>2559012</guid>
-            <pubDate>Wed, 02 Mar 2022 05:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚S&P/ASX200指数3月2日（周三）收盘上涨20.20点，涨幅0.28%，报7116.70点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3741919.d.html</link>
-            <guid>2559011</guid>
-            <pubDate>Wed, 02 Mar 2022 05:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士“北溪-2”运营商Nord Stream 2 AG公司所在的楚格州发言人表示，该公司已经解雇所有106名工作人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6183546.d.html</link>
-            <guid>2559010</guid>
-            <pubDate>Wed, 02 Mar 2022 05:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本放送协会NHK：日本将从3月10日起提高汽油补贴的上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3741860.d.html</link>
-            <guid>2559009</guid>
-            <pubDate>Wed, 02 Mar 2022 05:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广晟有色：MLCC用纳米级稀土氧化物研发取得重大突破】记者获悉，近日广晟有色、风华高科联合启动的高端电子陶瓷（MLCC）纳米级稀土氧化物研发取得重大突破。在先进电子陶瓷工艺中，粉体制备是最核心的技术之一。针对当前普遍采用传统生产工艺存在的对设备要求较高、投资大，产品生产成本高等缺点，广晟有色采用低成本的湿法共沉技术工艺进行研发，从而提升产品性能。目前，在纯度、松装密度、高比表面积、晶相和结晶度等方面取得突破性进展，粉体团聚问题、颗粒形貌获得了重大进展，并解决了粉体分散稳定性难题。小试样品已基本达到客户对产品的要求，广晟有色科研团队正继续优化试验参数，稳定产品各项指标，谋划建成新产品生产线。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6183234.d.html</link>
-            <guid>2559008</guid>
-            <pubDate>Wed, 02 Mar 2022 05:19:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股房地产板块持续走低】港股房地产板块持续走低，世茂集团跌近11%，龙光集团跌近10%，融创中国跌近6%，碧桂园跌超5%，禹洲集团跌近5%，中国奥园跌超4%，中国恒大跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6182774.d.html</link>
-            <guid>2559007</guid>
-            <pubDate>Wed, 02 Mar 2022 05:16:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，俄旅游署建议俄罗斯公民拒绝到访那些对俄罗斯实施制裁的国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3741062.d.html</link>
-            <guid>2559006</guid>
-            <pubDate>Wed, 02 Mar 2022 05:15:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  南非国际贸易管理委员会发布公告，对自中国进口的冷/鲜大蒜产品反倾销日落复审案作出终裁，决定维持征税。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6182528.d.html</link>
-            <guid>2559005</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构报告：今年全球半导体行业资本开支有望创历史新高】半导体市调机构IC Insights发布报告称，2022年，全球半导体行业资本开支有望创历史新高至1904亿美元（约合人民币12017亿元），同比增长24%。这将是继1993年-1995年之后第二次全球半导体资本开支连续三年（2020年-2022年）增速均在两位数以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3740779.d.html</link>
-            <guid>2559004</guid>
-            <pubDate>Wed, 02 Mar 2022 05:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【快讯：港口、物流、中俄贸易概念继续走强】锦州港、天顺股份4连板，浙江东日、中成股份、长久物流等涨停，厦门港务、连云港、辽港股份、安通股份等继续冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3740593.d.html</link>
-            <guid>2559003</guid>
-            <pubDate>Wed, 02 Mar 2022 05:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[光伏板块拉升回暖，中来股份涨超10%，东方日升、海优新材、上能电气、爱康科技等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3740525.d.html</link>
-            <guid>2559002</guid>
-            <pubDate>Wed, 02 Mar 2022 05:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印度继续对华瓷砖征收反倾销税】印度财政部税收局发布通报第09/2022-Customs(ADD)号称，继续对中国的涉案产品征收为期5年的反倾销税，税额为0～1.87美元/平方米，其中佛山市金怡陶瓷有限公司和新兴县致胜陶瓷有限公司均为0，其他生产商为1.87美元/平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3740249.d.html</link>
-            <guid>2559001</guid>
-            <pubDate>Wed, 02 Mar 2022 05:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国驻乌克兰大使馆：中国公民撤侨可带外籍配偶父母子女】据中国驻乌克兰大使馆消息，3月2日（周三）中午12:00，请所有在基辅及周边自愿撤离的华侨和临时来乌人员在基辅市地铁蓝线终点站Teremky集合，然后统一乘坐大巴前往摩尔多瓦。自驾人员可随车队前行。中国公民的外籍配偶、父母或子女可一同乘车，请携带好本国护照。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6181203.d.html</link>
-            <guid>2559000</guid>
-            <pubDate>Wed, 02 Mar 2022 05:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股物管股下挫，领悦服务集团(02165.HK)跌超12%，中骏商管(00606.HK)、旭辉永升服务(01995.HK)、宝龙商业(09909.HK)跌超6%，碧桂园服务(06098.HK)跌5.74%，奥园健康(03662.HK)、融创服务(01516.HK)跌约5%。]]></title>
-            <guid>2558999</guid>
-            <pubDate>Wed, 02 Mar 2022 05:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥外长埃布拉德：与美国国务卿布林肯进行了交谈；分享了墨西哥对乌克兰局势的看法。]]></title>
-            <guid>2558998</guid>
-            <pubDate>Wed, 02 Mar 2022 05:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外长：将采取措施减轻战争对粮食供应构成的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3739148.d.html</link>
-            <guid>2558997</guid>
-            <pubDate>Wed, 02 Mar 2022 05:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行：3月2日不会恢复莫斯科交易所的股市交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3738996.d.html</link>
-            <guid>2558996</guid>
-            <pubDate>Wed, 02 Mar 2022 05:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[医药股持续走强，粤万年青快速封板，陇神戎发、大理药业、龙津药业、紫鑫药业等多股涨停，香雪制药、康缘药业、华森制药等涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3738886.d.html</link>
-            <guid>2558995</guid>
-            <pubDate>Wed, 02 Mar 2022 05:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土外长称土耳其无意参与对俄制裁】据俄罗斯卫星网消息，土耳其外长恰武什奥卢3月1日表示，该国不想参与对俄制裁。土耳其阿纳多卢通讯社援引恰武什奥卢讲话称：“我们根本就没参与过那种制裁，也没有任何参与的愿望。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6180187.d.html</link>
-            <guid>2558994</guid>
-            <pubDate>Wed, 02 Mar 2022 04:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【拜登提倡美国制造】刚刚，美国总统拜登在国情咨文演讲中提倡“与其依赖外国供应链，不如在美国制造。拜登称，他希望通过降低生产成本引领更多“美国制造”，以此对抗通货膨胀，而不是降低美国人的工资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6180080.d.html</link>
-            <guid>2558993</guid>
-            <pubDate>Wed, 02 Mar 2022 04:58:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗：维持对蔚来的“买入”评级】花旗称，NT2.0平台首款产品，蔚来自动驾驶旗舰轿车ET7将于3月28日开始交付。这将成为蔚来的催化剂，不过3月新订单仍面临摇摆因素。花旗维持对蔚来的“买入”评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3738525.d.html</link>
-            <guid>2558992</guid>
-            <pubDate>Wed, 02 Mar 2022 04:58:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特表示，制裁命令生效后，将遵守欧盟对俄罗斯国家媒体的制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6179843.d.html</link>
-            <guid>2558991</guid>
-            <pubDate>Wed, 02 Mar 2022 04:56:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗：维持理想汽车港股“买入”评级】花旗称，理想汽车2月交付量略高于市场预期，与同行比表现相对稳定。即将推出的新车型理想X01将成为未来增长的强劲催化剂。加上理想去年四季度表现强劲，短期料获市场看好，维持港股“买入”评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3738333.d.html</link>
-            <guid>2558990</guid>
-            <pubDate>Wed, 02 Mar 2022 04:56:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡GLP寻求旗下投资业务在美国IPO，筹资约20亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6179731.d.html</link>
-            <guid>2558989</guid>
-            <pubDate>Wed, 02 Mar 2022 04:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登发表首次国情咨文演讲，又提到“与中国竞争”】拜登在演讲中表示，其政府计划今年开始修复超6.5万英里（约合10.5万公里）的高速公路及1500座桥梁，资金均来自此前签署通过的两党基础设施投资法案。不过，据报道，拜登在大力宣传这一基建法案、感谢美国两党所做的工作时，他将该法案与美国和中国的竞争联系起来。“看，这将改变美国，让我们走上赢得21世纪经济竞争的道路，在我们面对的与世界其他国家——特别是与中国的竞争中。”拜登声称。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6179508.d.html</link>
-            <guid>2558988</guid>
-            <pubDate>Wed, 02 Mar 2022 04:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联合国发起16.5亿美元紧急募捐呼吁 为支持乌克兰人道主义需求】联合国1日发起16.5亿美元的紧急募捐呼吁，向乌克兰境内的人民和逃往邻国的难民提供人道主义支持。紧急募捐包括两部分，其中11亿美元用于在最初的3个月内援助乌克兰境内的600万人。另外5.5亿美元将用于一项区域难民响应计划，帮助逃往波兰、摩尔多瓦、匈牙利、罗马尼亚以及周边其他国家的难民，提供住所、紧急救济物品、现金援助、精神健康和社会心理支持等。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6178835.d.html</link>
-            <guid>2558987</guid>
-            <pubDate>Wed, 02 Mar 2022 04:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间3月2日，哈萨克斯坦总统托卡耶夫表示，在目前地缘政治局势紧张的情况下，哈方支持联合国发挥更重要的以及团结国际社会的作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3737189.d.html</link>
-            <guid>2558986</guid>
-            <pubDate>Wed, 02 Mar 2022 04:49:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度总理莫迪：印度应该专注于电动出行解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3737050.d.html</link>
-            <guid>2558985</guid>
-            <pubDate>Wed, 02 Mar 2022 04:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度总理莫迪：应该为数据治理设定标准和规范。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3736989.d.html</link>
-            <guid>2558984</guid>
-            <pubDate>Wed, 02 Mar 2022 04:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登呼吁对他的美联储提名人选进行投票】美国总统乔·拜登向国会发表其首份国情咨文演讲。拜登呼吁参议院共和党人不要再阻止对他的五位美联储提名人选投票，“确认我的美联储提名人选，美联储在对抗通胀方面发挥着关键作用，”他说。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6178270.d.html</link>
-            <guid>2558983</guid>
-            <pubDate>Wed, 02 Mar 2022 04:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【埃克森美孚宣布将退出俄罗斯的油气业务 业务估值超40亿美元】埃克森美孚当地时间周二宣布，由于俄乌冲突影响，埃克森美孚将退出俄罗斯的油气业务，并停止新的投资。据公司今年2月最新提交的年报显示，该公司对俄罗斯的油气业务估值超过40亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3736358.d.html</link>
-            <guid>2558982</guid>
-            <pubDate>Wed, 02 Mar 2022 04:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准】由纽约州卫生部发布、一项未经同行评议的研究显示，奥密克戎（Omicron）激增期间，辉瑞新冠疫苗对5—11岁儿童的保护效力从去年12月中旬的68%快速下降至今年1月底的12%。研究提出，完全接种辉瑞疫苗对降低儿童新冠重症率有效，但在预防感染方面效果不佳。Novavax称将在今年下半年争取其新冠重组蛋白疫苗NVX-CoV2373全面获批上市。（财新）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3735721.d.html</link>
-            <guid>2558981</guid>
-            <pubDate>Wed, 02 Mar 2022 04:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[因原油价格飙升，印度卢比兑美元跌0.6%，报75.75。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6176245.d.html</link>
-            <guid>2558980</guid>
-            <pubDate>Wed, 02 Mar 2022 04:32:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京：及时将更多北京市创新药械纳入政府采购和推广应用范围】《北京市生物医药全产业链开放实施方案》近日在北京市经开区正式实施，《方案》是针对北京“两区”建设出台的第一个全产业链开放实施方案，对北京市生物医药产业从研发到临床应用等各环节实现全产业链覆盖，从5大方面提出17项共50条具体发展措施。在市场准入和产品研发、注册方面，提出市场准入、国际研发合作、研发用物品通关“三个便利化”；在供应链方面，提出建立“链长制”“揭榜挂帅”等机制；在临床应用方面，提出合理调整创新医疗项目价格管理机制、及时将更多北京市创新药械纳入政府采购和推广应用范围等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6176203.d.html</link>
-            <guid>2558979</guid>
-            <pubDate>Wed, 02 Mar 2022 04:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行副行长祖布鲁克：瑞士央行将“在形势需要时”提高利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3734280.d.html</link>
-            <guid>2558978</guid>
-            <pubDate>Wed, 02 Mar 2022 04:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行副行长祖布鲁克：为了避免瑞士法郎的过度升值，保持较低的利率是很重要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6175870.d.html</link>
-            <guid>2558977</guid>
-            <pubDate>Wed, 02 Mar 2022 04:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财经网站Forexlive前瞻鲍威尔陈词会：鲍威尔会支持加息25个基点】自上周俄乌冲突升级以来，加息幅度预期就开始下降。在避险的基础上，美国国债收益率大幅下降。在3月份的会议上加息50个基点的前景已经消散，尽管加息25个基点是市场共识。市场今天将密切关注和倾听美联储主席鲍威尔的讲话，寻找有关下一次美联储会议的线索。鲍威尔已经表明了自己是一个谨慎的美联储主席，他应该不会表明有50个基点的可能性，而是支持加息25个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3733874.d.html</link>
-            <guid>2558976</guid>
-            <pubDate>Wed, 02 Mar 2022 04:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长安汽车党委书记朱华荣：加强汽车行业投资准入政策管控力度 防止重复建设】全国人大代表、长安汽车党委书记朱华荣在今年两会建议中表示，股比放开后若不能合理对外资车企在中国的业务布局（包括新的投资等）进行引导，可能导致已有合资产能放空，造车资源浪费。朱华荣建议，更新并完善《汽车产业投资管理规定》等相关国家政策，加强汽车行业投资准入政策管控力度，加强涉外投资项目（产能）安全审查，防止盲目布点和重复建设投资；加强地方政府对外资车企的金融税收等优惠条件的监管，避免外资在地方政府间博弈重复获得优惠政策；引导地方政府政策、引导外方支持现有合资企业的电动化转型。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6174969.d.html</link>
-            <guid>2558975</guid>
-            <pubDate>Wed, 02 Mar 2022 04:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南VN指数下跌1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6174786.d.html</link>
-            <guid>2558974</guid>
-            <pubDate>Wed, 02 Mar 2022 04:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：欧洲议会通过决议案谴责俄罗斯在乌军事行动 请求欧盟给予乌克兰欧盟候选国地位】据塔斯社布鲁塞尔报道，欧洲议会当地时间3月1日在紧急全体会议上通过一项决议案，谴责俄罗斯在乌克兰采取军事行动，并呼吁严厉制裁俄罗斯，包括限制从俄罗斯进口油气和将俄罗斯踢出环球银行间金融通信协会（SWIFT）。 报道称，欧洲议会还请求欧盟机构和欧盟成员国致力于给予乌克兰欧盟候选国地位。据报道，乌克兰总统泽连斯基以视频方式在会上发表了讲话。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3732152.d.html</link>
-            <guid>2558973</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  力量钻石回复深交所关注函，称不存在通过披露利润分配预案炒作股价情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3732113.d.html</link>
-            <guid>2558972</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  金财互联：公司持股6.47%的股东朱建立计划未来3个月内，以集中竞价和大宗交易方式减持公司股份1293.469万股，占公司总股本的1.66%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6173643.d.html</link>
-            <guid>2558971</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  震裕科技披露与宁德时代合同的进展：《框架采购合同》项下自2021年12月1日至2022年2月28日止，公司与宁德时代及其控股子公司签订采购订单累计达到6.35亿元（不含税），超过公司最近一个会计年度营业收入的50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3732065.d.html</link>
-            <guid>2558970</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  迦南智能：预中标国家电网2022年新增第三批采购（营销新增批次电能表招标采购）项目，中标额约5757.52万元。]]></title>
-            <guid>2558969</guid>
-            <pubDate>Wed, 02 Mar 2022 04:17:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴基斯坦宣布进口俄罗斯小麦和天然气 英媒：在向普京伸援手】据英国《每日邮报》报道，巴基斯坦总理伊姆兰·汗在上周与俄罗斯总统普京会晤后，宣布巴基斯坦将从俄罗斯进口约200万吨小麦，并购买俄天然气。对此《每日邮报》在报道中称，通过签署采购协议，巴基斯坦成为第一个“支持被遗弃的普京”的主要国家。这家英国媒体还声称，由于西方制裁正在对俄经济造成“毁灭性打击”，巴基斯坦此举是正在向普京伸出援手。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3731921.d.html</link>
-            <guid>2558968</guid>
-            <pubDate>Wed, 02 Mar 2022 04:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【拜登：西方将没收俄寡头们的“游艇、豪华公寓和私人飞机”】美国总统拜登当地时间3月1日晚以乌克兰冲突话题，开启其任内首次国情咨文演讲。拜登还表示，西方将没收俄罗斯寡头们的“游艇、豪华公寓和私人飞机”。拜登还表示，美国“向乌克兰提供了超过10亿美元的直接援助”，其中包括来自美国和盟国的军事、经济和人道主义援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3731757.d.html</link>
-            <guid>2558967</guid>
-            <pubDate>Wed, 02 Mar 2022 04:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙光已将一笔3.95亿元ABS本息划入指定托管账户】从接近龙光方面人士获悉，龙光已于日前划款至指定托管账户，用于兑付3月9日到期的光耀06A资产支持专项计划。据悉，光耀06A资产支持专项计划余额为3.95亿元，票面利率为4.95%。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6172798.d.html</link>
-            <guid>2558966</guid>
-            <pubDate>Wed, 02 Mar 2022 04:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【足篮排三大球国际联合会限制俄罗斯参赛】一向远离政治的体坛，也开始就俄乌冲突事件表明立场。当地时间3月1日，国际排球联合会（FIVA）、国际篮球联合会（FIBA）等国际性体育组织纷纷宣布对俄罗斯禁赛，一夜之间，俄罗斯运动员无缘“三大球”国际赛事。由于白俄罗斯支援俄方军事行动，也被部分体育组织列为制裁对象。（财新）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3731189.d.html</link>
-            <guid>2558965</guid>
-            <pubDate>Wed, 02 Mar 2022 04:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河南省统计开发企业融资需求 拟开展房地产领域专项银企对接】有消息称，河南省房地产业协会近日发布文件，拟开展房地产领域专项银企对接。按照省住建厅要求，现统计开发企业（项目）融资需求情况，并要求相关企业于3月4日12点前报省房协秘书处，省房协汇总后统一上报省住建厅。经核实，该消息属实，目前已有部分企业上报了相关融资需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3731074.d.html</link>
-            <guid>2558964</guid>
-            <pubDate>Wed, 02 Mar 2022 04:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股午评：恒指跌1.07% 光伏板块大跌百度绩后涨超7%】今日港股恒指开跌0.85%，随后跌幅扩大，截至午盘，恒生指数跌1.07%，报22518.18点，国企指数跌0.87%，红筹指数跌0.29%。恒生科技指数走低，快手跌超7%，舜宇光学科技跌超6%，网易跌超3%。光伏太阳能股下跌，信义玻璃跌8%且领跌蓝筹，信义光能跌7%，福耀玻璃跌超4%。内房股走跌，世茂集团跌近10%，龙光集团跌9.60%，旭辉控股集团跌超7%。百度涨7.63%。俄铝跌17.06%，近八个交易日已累跌逾50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3730558.d.html</link>
-            <guid>2558963</guid>
-            <pubDate>Wed, 02 Mar 2022 04:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三句话概括拜登国情咨文演讲】当地时间3月1日，美国总统拜登开启任内首次国情咨文演讲。 ①就俄乌局势，拜登说，美国正式宣布对俄罗斯关闭领空；已动员美军前往欧洲保护北约盟友；重申美国不会向乌克兰部署军队，也不会参与与俄军的冲突；美国将从战略储备中释放3000万桶石油。 ②就新冠疫情，拜登称，美国“永远不会接受与新冠共存”，同时警告新冠病毒或再次变异，必须保持警惕。 ③就基建和经济，拜登说，将抗击通货膨胀列为其“首要任务”；计划今年开始修复超过6.5万英里(约10.4万公里)的高速公路和1500座桥梁。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6171976.d.html</link>
-            <guid>2558962</guid>
-            <pubDate>Wed, 02 Mar 2022 04:09:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧盟委员会主席谈乌克兰入盟：首先必须结束战事】欧盟委员会主席冯德莱恩3月1日谈及乌克兰加入欧盟一事时表示，首先必须结束战事。冯德莱恩3月1日在欧洲议会发表演讲说，如今欧盟与乌克兰的关系比以往任何时候都紧密，“前面仍有很长的路要走。我们必须结束这场战事。我们应该讨论接下来的步骤”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3730231.d.html</link>
-            <guid>2558961</guid>
-            <pubDate>Wed, 02 Mar 2022 04:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东证指数跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwiwss3730046.d.html</link>
-            <guid>2558960</guid>
-            <pubDate>Wed, 02 Mar 2022 04:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百项措施“减污降碳” 今年北京全市碳排放强度将降3%左右】3月2日，北京市生态环境局介绍，《北京市深入打好污染防治攻坚战2022年行动计划》已于近日印发实施。确定2022年主要目标为：全市及各区碳排放强度下降3%左右；尽最大努力巩固空气质量改善成效；地表水国考断面达到或优于Ⅲ类水体比例不低于70.3%，消除劣Ⅴ类水体断面；受污染耕地及重点建设用地安全利用得到有效保障；生态环境质量指数（EI）力争稳定向好；并同步分解了各区年度生态环境保护有关指标及重点任务计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-02/detail-imcwipih6171469.d.html</link>
-            <guid>2558959</guid>
-            <pubDate>Wed, 02 Mar 2022 04:06:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

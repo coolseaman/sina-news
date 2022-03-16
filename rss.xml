@@ -4,11 +4,393 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 16 Mar 2022 16:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 17:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购中接纳了1.614万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8920992.d.html</link>
+            <guid>2584738</guid>
+            <pubDate>Wed, 16 Mar 2022 17:16:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  星巴克公司表示，霍华德舒尔茨作为临时首席执行官的薪酬将为1美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6473637.d.html</link>
+            <guid>2584737</guid>
+            <pubDate>Wed, 16 Mar 2022 17:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日本福岛第二核电站1号机使用后的核燃料池停止冷却】据日本原子能规制委员会透露，东京电力公司福岛第二核电站1号机已使用的核燃料池停止冷却。3号机也曾一度停止运行，但目前已恢复正常。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6473598.d.html</link>
+            <guid>2584736</guid>
+            <pubDate>Wed, 16 Mar 2022 17:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国无人机制造商AeroVironment(AVAV.O)小幅走高，一度上涨10.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8920894.d.html</link>
+            <guid>2584735</guid>
+            <pubDate>Wed, 16 Mar 2022 17:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大交通部：禁止白俄罗斯飞机进入加拿大领空。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6473514.d.html</link>
+            <guid>2584734</guid>
+            <pubDate>Wed, 16 Mar 2022 17:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：强劲的全球经济对产油国有利。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6473307.d.html</link>
+            <guid>2584733</guid>
+            <pubDate>Wed, 16 Mar 2022 17:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：与沙特王储讨论了石油价格问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6473259.d.html</link>
+            <guid>2584732</guid>
+            <pubDate>Wed, 16 Mar 2022 17:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  星巴克(SBUX.O)：预计将在未来7年内向股东返还450亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6473236.d.html</link>
+            <guid>2584731</guid>
+            <pubDate>Wed, 16 Mar 2022 17:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：本周宣布的对乌克兰的安全援助总额达到10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6473181.d.html</link>
+            <guid>2584730</guid>
+            <pubDate>Wed, 16 Mar 2022 17:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国报告新增145例新冠肺炎死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8920513.d.html</link>
+            <guid>2584729</guid>
+            <pubDate>Wed, 16 Mar 2022 17:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国将向乌克兰提供武装无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6473156.d.html</link>
+            <guid>2584728</guid>
+            <pubDate>Wed, 16 Mar 2022 17:09:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股小幅走低，纳指跌幅缩窄至2%以内，道指跌幅缩窄至0.7%，标普500指数现跌1.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8920469.d.html</link>
+            <guid>2584727</guid>
+            <pubDate>Wed, 16 Mar 2022 17:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：希腊表示采取进一步措施缓解能源价格飙升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8920378.d.html</link>
+            <guid>2584726</guid>
+            <pubDate>Wed, 16 Mar 2022 17:07:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：将为乌克兰提供额外8亿美元的安全援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8920302.d.html</link>
+            <guid>2584725</guid>
+            <pubDate>Wed, 16 Mar 2022 17:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：（在谈到石油生产时）沙特方面认为有必要确保全球石油和天然气市场的稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8920288.d.html</link>
+            <guid>2584724</guid>
+            <pubDate>Wed, 16 Mar 2022 17:06:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：随着时间的推移，对俄罗斯的制裁只会（给俄罗斯）带来更为痛苦的后果。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8920262.d.html</link>
+            <guid>2584723</guid>
+            <pubDate>Wed, 16 Mar 2022 17:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：世界各地团结一致支持乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472956.d.html</link>
+            <guid>2584722</guid>
+            <pubDate>Wed, 16 Mar 2022 17:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奈飞(NFLX.O)：家庭之间可以共享账户，通过付费就可以家庭以外分享账户，将在智利，哥斯达黎加和秘鲁测试这两个新功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472906.d.html</link>
+            <guid>2584721</guid>
+            <pubDate>Wed, 16 Mar 2022 17:05:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国新增新冠肺炎确诊病例262593例 累计确诊超1769万例】根据德国联邦疾控机构罗伯特·科赫研究所发布的最新数据，截至当地时间3月16日0时，德国新冠肺炎确诊病例累计达17695210例，较前一日新增262593例；累计死亡126142例，较前一日新增269例。全国7天内每10万人发病率为1607.1，已连续14天呈上升态势。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472889.d.html</link>
+            <guid>2584720</guid>
+            <pubDate>Wed, 16 Mar 2022 17:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间3月16日，土耳其总统埃尔多安宣布，他本人将参加本月24日在布鲁塞尔召开的有关俄乌局势的北约峰会。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472787.d.html</link>
+            <guid>2584719</guid>
+            <pubDate>Wed, 16 Mar 2022 17:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本福岛第一核电站火灾报警器被触发】当地时间16日晚，日本近海连续发生强震。据日本电视台报道，福岛第一核电站火灾报警器被触发，但目前无法确认是否发生火灾。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472754.d.html</link>
+            <guid>2584718</guid>
+            <pubDate>Wed, 16 Mar 2022 17:03:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相约翰逊：我们一致认为，有需要避免通胀持续走高以及“毁灭性的经济影响”。]]></title>
+            <guid>2584717</guid>
+            <pubDate>Wed, 16 Mar 2022 17:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德债英债收益率周三涨幅突出，投资者静待美联储决议声明】周二（2月8日）欧市尾盘，德国10年期国债收益率涨5.7个基点，报0.389%，盘中交投于0.361%-0.400%区间；两年期德债收益率涨8.1个基点，报-0.336%，盘中交投于-0.401%至-0.329%区间。法国10年期国债收益率涨4.0个基点，报0.846%。英国10年期国债收益率涨5.1个基点，报1.627%，盘中交投于1.594%-1.648%区间；两年期英债收益率涨4.2个基点，报1.407%，盘中交投于1.373%-1.422%区间。意大利10年期国债收益率跌0.5个基点，报1.893%，欧市盘初曾冲高至1.960%，美股盘初曾跌至日低1.872%。西班牙10年期国债收益率涨2.2个基点，报1.337%，欧市盘初曾涨至1.377%，随后转跌至1.306%。希腊10年期国债收益率涨0.8个基点，报2.666%，欧市盘初曾转涨并冲高至2.684%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472675.d.html</link>
+            <guid>2584716</guid>
+            <pubDate>Wed, 16 Mar 2022 17:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：星巴克(SBUX.O)证实，计划到2030年将门店扩大到5.5万家。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472650.d.html</link>
+            <guid>2584715</guid>
+            <pubDate>Wed, 16 Mar 2022 17:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨0.81%，沪铜收涨0.52%，沪铝收涨1.18%，沪锌收涨0.66%，沪铅收涨0.13%，沪镍收跌1.85%，沪锡收跌0.36%。不锈钢夜盘收跌1.69%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472585.d.html</link>
+            <guid>2584714</guid>
+            <pubDate>Wed, 16 Mar 2022 17:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国国家统计与经济研究所：地缘冲突对经济增长造成“毁灭性”影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8919862.d.html</link>
+            <guid>2584713</guid>
+            <pubDate>Wed, 16 Mar 2022 17:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国国家统计与经济研究所：法国第二季度通胀将在4.5%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8919842.d.html</link>
+            <guid>2584712</guid>
+            <pubDate>Wed, 16 Mar 2022 17:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日媒：受地震影响，福岛第二核电站冷却泵一度停止运转】《产经新闻》刚刚消息，原子力规制厅发布消息称，受福岛县近海地震影响，福岛第二核电站的第1、3号机组的冷却泵停止运转。据报道，有关部门收到报告，3号机组的冷却泵当地时间17日1时15分回复运转。报道援引原子力规制厅负责人的话称，福岛第二核电站不在运转状态，所以燃料温度足够低，需要7天时间水温才会升至65度，将冷静地应对事态。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8919808.d.html</link>
+            <guid>2584711</guid>
+            <pubDate>Wed, 16 Mar 2022 17:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vuzix(VUZI.US)涨6.83%，报6.175美元。该公司表示已与北美4G LTE和5G硬件、软件和连接解决方案及捆绑产品的分销商Converge Io T签署了分销协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8919603.d.html</link>
+            <guid>2584710</guid>
+            <pubDate>Wed, 16 Mar 2022 16:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相岸田文雄：日本东北新干线脱轨，没有伤亡报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472223.d.html</link>
+            <guid>2584709</guid>
+            <pubDate>Wed, 16 Mar 2022 16:56:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国国会山民主党成员们提出一份关于汽油价格的立法草案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8919468.d.html</link>
+            <guid>2584708</guid>
+            <pubDate>Wed, 16 Mar 2022 16:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士化肥公司EuroChem Group AG：本公司CEO Vladimir Rashevskiy已经递交辞呈、并辞去董事会职务，其此前被欧盟纳入制裁清单。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6472197.d.html</link>
+            <guid>2584707</guid>
+            <pubDate>Wed, 16 Mar 2022 16:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本首相岸田文雄：东京地区的停电可能会在一小时内恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8919309.d.html</link>
+            <guid>2584706</guid>
+            <pubDate>Wed, 16 Mar 2022 16:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本首相岸田文雄：核电站没有发生任何异常。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8919250.d.html</link>
+            <guid>2584705</guid>
+            <pubDate>Wed, 16 Mar 2022 16:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NTT东日本公司等通信公司称，由于地震波及范围广，目前尚未确认到此次地震对通信服务造成的影响。（央视）]]></title>
+            <guid>2584704</guid>
+            <pubDate>Wed, 16 Mar 2022 16:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：日本东北海岸石卷港的海啸预警水位正在上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8919092.d.html</link>
+            <guid>2584703</guid>
+            <pubDate>Wed, 16 Mar 2022 16:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统顾问Podolyak：乌克兰方面寻求停火以及俄罗斯方面撤军。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8918949.d.html</link>
+            <guid>2584702</guid>
+            <pubDate>Wed, 16 Mar 2022 16:49:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日本内阁官房长官称收到宫城县福岛县等地大量报警】当地时间17日，日本内阁官房长官松野博一在凌晨0时30分左右召开的临时记者招待会上表示，地震发生后，宫城县和福岛县等地的110和119接到了大量报警，目前正在全力收集和掌握受灾信息。此外，他还表示从宫城县到福岛县沿岸已发布了海啸警报，请民众注意不要靠近海岸，并呼吁民众今后一周内提防发生强震的可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6471345.d.html</link>
+            <guid>2584701</guid>
+            <pubDate>Wed, 16 Mar 2022 16:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北约再次拒绝在乌克兰设立禁飞区】当地时间3月16日，北约秘书长斯托尔滕贝格在当天举行的北约成员国国防部长特别会议后表示，尽管乌克兰总统泽连斯基当天稍早在向美国国会议员发表讲话时，再次呼吁在乌克兰设立禁飞区，但北约仍决定不采取这类行动，也不会以维和部队的名义派地面部队越过波乌边境。北约当前的主要任务仍是防止俄乌冲突升级和扩大。为此，北约国防部长已责成军事指挥官制定在陆海空及网络和太空领域的全面且长期的防卫遏制计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8918560.d.html</link>
+            <guid>2584700</guid>
+            <pubDate>Wed, 16 Mar 2022 16:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东日本旅客铁道株式会社（JR-East）：新干线列车在福岛站北部脱轨，没有造成人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6471231.d.html</link>
+            <guid>2584699</guid>
+            <pubDate>Wed, 16 Mar 2022 16:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本核监管机构表示，福岛第一核电站几个冷却池的水泵已经停止，但仍有备用电源。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6471152.d.html</link>
+            <guid>2584698</guid>
+            <pubDate>Wed, 16 Mar 2022 16:43:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NTT东日本公司等通信公司称，由于地震波及范围广，目前尚未确认到此次地震对通信服务造成的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6471041.d.html</link>
+            <guid>2584697</guid>
+            <pubDate>Wed, 16 Mar 2022 16:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】德国DAX30指数3月16日（周三）收盘上涨527.84点，涨幅3.79%，报14445.11点；英国富时100指数3月16日（周三）收盘上涨125.05点，涨幅1.74%，报7300.75点；法国CAC40指数3月16日（周三）收盘上涨233.64点，涨幅3.68%，报6588.64点；欧洲斯托克50指数3月16日（周三）收盘上涨155.04点，涨幅4.15%，报3893.15点；西班牙IBEX35指数3月16日（周三）收盘上涨142.86点，涨幅1.73%，报8378.96点；意大利富时MIB指数3月16日（周三）收盘上涨778.14点，涨幅3.31%，报24278.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6470934.d.html</link>
+            <guid>2584696</guid>
+            <pubDate>Wed, 16 Mar 2022 16:41:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧股主要指数收盘大涨，德国DAX30指数涨3.79%，英国富时100指数涨1.74%，法国CAC40指数涨3.68%，欧洲斯托克50指数涨4.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8918017.d.html</link>
+            <guid>2584695</guid>
+            <pubDate>Wed, 16 Mar 2022 16:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  巴西总统表示，政府要求巴西石油公司推迟1天提高燃料价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6470711.d.html</link>
+            <guid>2584694</guid>
+            <pubDate>Wed, 16 Mar 2022 16:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[原子能管制委员会：福岛第一核电站几个冷却池的水泵已经停止，但还有备用电力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6470672.d.html</link>
+            <guid>2584693</guid>
+            <pubDate>Wed, 16 Mar 2022 16:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  原子能管制委员会：福岛第一核电站三号乏燃料池泵重启。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8917828.d.html</link>
+            <guid>2584692</guid>
+            <pubDate>Wed, 16 Mar 2022 16:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪分析的分析师Mark Zandi：美联储的鹰派程度恐怕会超过市场的想象。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8917804.d.html</link>
+            <guid>2584691</guid>
+            <pubDate>Wed, 16 Mar 2022 16:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟委员会批准对西班牙能源密集型产业总额达29亿欧元援助】当地时间3月16日，欧盟委员会批准了对西班牙的总额29亿欧元的援助，以补偿该国部分能源密集型产业因能源价格上涨造成的成本上涨。欧盟委员会执行副主席韦斯塔格表示，援助力度仅限于必要的最低程度，不会对欧盟的竞争力和贸易产生负面影响。该援助将影响到西班牙的造纸、钢铁、皮革、有色金属材料等行业。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8917789.d.html</link>
+            <guid>2584690</guid>
+            <pubDate>Wed, 16 Mar 2022 16:37:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲委员会移走俄罗斯国旗】据俄新社16日最新消息，欧洲委员会的决策机构部长委员会在一份公报中称，该机构决定，自3月16日起，俄罗斯不再是其成员。此前，在俄罗斯15日已宣布退出欧洲委员会的情况下，欧洲委员会议会大会（PACE）仍进行了投票，并于当晚宣布，决定将俄罗斯逐出欧洲委员会。当地时间3月16日，欧洲委员会的工作人员从欧洲委员会大楼前降下并移走俄罗斯国旗。美国政治资讯新媒体“The Recount”在推特上发布了这一幕场景的视频。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6470410.d.html</link>
+            <guid>2584689</guid>
+            <pubDate>Wed, 16 Mar 2022 16:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秦淮数据(CD.O)高开高走，盘中一度涨近60%，现涨51.5%，此前该公司组建了新的管理团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8917625.d.html</link>
+            <guid>2584688</guid>
+            <pubDate>Wed, 16 Mar 2022 16:35:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软(MSFT.O)：微软和加拿大最大的通讯公司之一Rogers宣布了一项为期五年的战略联盟，将5G网络与微软公用云服务平台Azure结合。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6470243.d.html</link>
+            <guid>2584687</guid>
+            <pubDate>Wed, 16 Mar 2022 16:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据AXIOS网站：美国国务卿布林肯计划访问沙特和阿联酋。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6470216.d.html</link>
+            <guid>2584686</guid>
+            <pubDate>Wed, 16 Mar 2022 16:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖南开通首条至南美洲货运航线】16日，随着白俄罗斯航空的B747全货机落地湖南长沙黄花国际机场，长沙至巴西圣保罗国际货运航线正式开通。该航线由吉晟航空运营，是长沙开通的首条至南美洲的不定期货运航线。白俄罗斯航空公司计划于今年3月16日至年底，每周执飞1班，预计能为长沙黄花国际机场新增5000吨货邮吞吐量。该洲际航线出港货品结构主要为电商产品、医药品、机电产品、高新技术产品等高附加值货物，进港货物将是南美洲特色的水果、冰鲜、原材料、轻纺产品、消费品等。（中新社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6470165.d.html</link>
+            <guid>2584685</guid>
+            <pubDate>Wed, 16 Mar 2022 16:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本核管理局称已触发火灾警报的是AT号5福岛第一核电站的涡轮建筑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6470123.d.html</link>
+            <guid>2584684</guid>
+            <pubDate>Wed, 16 Mar 2022 16:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股白银股普跌，MAG Silver(MAG.A)跌约2%，First Majestic(AG.O)跌1.73%，Fortuna Silver(FSM.N)跌1.33%，Silvercorp Metals(SVM)跌1.46%，泛美白银(PAAS.O)跌0.83%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8917259.d.html</link>
+            <guid>2584683</guid>
+            <pubDate>Wed, 16 Mar 2022 16:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本福岛第一核电站触发火灾警报】日本原子力规制委员会官网显示，日本福岛第一核电站5号机组触发火灾警报，目前正在确认情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8917191.d.html</link>
+            <guid>2584682</guid>
+            <pubDate>Wed, 16 Mar 2022 16:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨3.02%，报448.24点。德国DAX 30指数初步收涨3.65%，报14424.52点。法国股指初步收涨3.82%，英国股指初步收涨1.69%，意大利股指初步收涨3.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6469974.d.html</link>
+            <guid>2584681</guid>
+            <pubDate>Wed, 16 Mar 2022 16:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自然资源部海啸预警中心根据初步地震参数判断，日本本州7.4级地震可能会在震源周围引发局地海啸，但不会对我国沿岸造成影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8917033.d.html</link>
+            <guid>2584680</guid>
+            <pubDate>Wed, 16 Mar 2022 16:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本电信（KDDI）和日本软银集团：3月16日地震未曾造成网络服务中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6469803.d.html</link>
+            <guid>2584679</guid>
+            <pubDate>Wed, 16 Mar 2022 16:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  原子能管制委员会：有“足够的时间”重启福岛核电站的水泵。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6469717.d.html</link>
+            <guid>2584678</guid>
+            <pubDate>Wed, 16 Mar 2022 16:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东京电力公司：受地震影响 关东地区出现大范围停电】东京电力公司发布消息，受地震影响，关东地区出现大范围停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6469671.d.html</link>
+            <guid>2584677</guid>
+            <pubDate>Wed, 16 Mar 2022 16:27:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯： 东京电力公司称将于当地时间凌晨00 : 37分逐步恢复电力供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6469357.d.html</link>
+            <guid>2584676</guid>
+            <pubDate>Wed, 16 Mar 2022 16:23:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  洛克希德马丁(LMT.N)盘中下跌6.6%，此前报道称美国国防部削减洛克希德马丁F-35战斗机购买数量至61架。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwiwss6469320.d.html</link>
+            <guid>2584675</guid>
+            <pubDate>Wed, 16 Mar 2022 16:22:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[原子能管制委员会：福岛第一核电站的火灾警报响起。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-17/detail-imcwipih8916180.d.html</link>
@@ -224,388 +606,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8913144.d.html</link>
             <guid>2584639</guid>
             <pubDate>Wed, 16 Mar 2022 15:46:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本电力交易所：日本地震导致5.4吉瓦的火电中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6465870.d.html</link>
-            <guid>2584638</guid>
-            <pubDate>Wed, 16 Mar 2022 15:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股抗疫概念股普涨，Moderna(MRNA.O)涨10.52%，BioNTech SE(BNTX.O)涨8.12%，诺瓦瓦克斯医药(NVAX.O)涨4.57%，Ocugen(OCGN.O)涨3.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8913099.d.html</link>
-            <guid>2584637</guid>
-            <pubDate>Wed, 16 Mar 2022 15:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：英特尔正在与德国就55亿美元的工厂补贴进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6465685.d.html</link>
-            <guid>2584636</guid>
-            <pubDate>Wed, 16 Mar 2022 15:43:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：形势变化，《北约—俄罗斯基本协定》（NATO-Russia Founding Act）也无法阻碍东部联盟的加强。]]></title>
-            <guid>2584635</guid>
-            <pubDate>Wed, 16 Mar 2022 15:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本东海第二核电站已停止运转】当地时间3月16日23时37分左右，日本福岛县附近海域发生里氏7.3级地震，震度为6强。受此影响，位于茨城县东海村的东海第二核电站已停止运转，目前正在确认核电站是否受到了地震影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6465635.d.html</link>
-            <guid>2584634</guid>
-            <pubDate>Wed, 16 Mar 2022 15:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【日媒：福岛第一核电站辐射数值未发现异常】日本共同社刚刚消息，福岛第一核电站辐射数值未发现异常。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6465610.d.html</link>
-            <guid>2584633</guid>
-            <pubDate>Wed, 16 Mar 2022 15:42:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：有乌克兰官员表示，谈判尚未取得重大进展；其宣称俄罗斯更为积极的语气更多的是希望缓解制裁压力，称其为“烟幕”。]]></title>
-            <guid>2584632</guid>
-            <pubDate>Wed, 16 Mar 2022 15:42:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【BDI指数下滑，因所有船型运价指数均下跌】波罗的海干散货运价指数周三下跌，因所有船型运价指数均下跌。BDI指数下跌98点至2591点。海岬型船运价指数下跌191点，至2632点。海岬型船日均获利下滑1583美元，至21830美元。巴拿马型船运价指数下跌99点，至2847点。巴拿马型船日均获利下滑886美元，至25626美元。超灵便型船运价指数下滑25点，至2876点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912778.d.html</link>
-            <guid>2584631</guid>
-            <pubDate>Wed, 16 Mar 2022 15:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：日本最大炼油商新日本石油公司Eneos的根岸（Negishi）炼油厂受地震影响而停工。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912759.d.html</link>
-            <guid>2584630</guid>
-            <pubDate>Wed, 16 Mar 2022 15:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国证券交易委员会收到美国两党关于加密货币监管的信函。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912689.d.html</link>
-            <guid>2584629</guid>
-            <pubDate>Wed, 16 Mar 2022 15:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：国际法庭命令俄罗斯和乌克兰不要升级冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912647.d.html</link>
-            <guid>2584628</guid>
-            <pubDate>Wed, 16 Mar 2022 15:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本内阁官房长官松野博一：为下周震度6强的地震做好准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6465305.d.html</link>
-            <guid>2584627</guid>
-            <pubDate>Wed, 16 Mar 2022 15:38:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯蒂费尔：维持Roblox(RBLX.N)买入评级，目标价下调至65美元】斯蒂费尔发布研报表示，维持Roblox(RBLX.N)买入评级，目标价从90美元下调至65美元。斯蒂费尔分析师Drew Crum表示，Roblox 2月份的预订量低于他的预期，观众指标保持一致，用户投入时间“健康”。他指出，考虑到1-2月份的预订量和管理层对上半年的评论，他已经降低了自己的预期。不过，他继续认为，从第二季度末到今年下半年，预订量将有所提高，并认为随着股价的回落，风险回报“对上行有利”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912591.d.html</link>
-            <guid>2584626</guid>
-            <pubDate>Wed, 16 Mar 2022 15:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[希腊ASE指数收涨5.68%，报871.99点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912560.d.html</link>
-            <guid>2584625</guid>
-            <pubDate>Wed, 16 Mar 2022 15:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本强震引发大规模停电】日本放送协会（NHK）消息，当地时间16日晚，日本福岛近海发生7.3级强震。目前，包括东京、神奈川和千叶在内的关东地区1都8县已有约208万户停电。此外，福岛、宫城和青森在内的东北地区也有超15万户停电。东京大学地震研究所教授古村孝志表示，“福岛海岸及其周边的地震活动一直很频繁，311大地震的影响还在持续，目前处于容易发生地震的状态。今后短时间内很可能发生（和这次）同等规模的地震。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6465239.d.html</link>
-            <guid>2584624</guid>
-            <pubDate>Wed, 16 Mar 2022 15:37:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【3月16日0时至18时 天津新增41例阳性感染者】从天津市防控指挥部获悉，3月16日0时至18时，天津市疾控部门报告41名本土新冠病毒核酸检测阳性感染者，确诊病例34例（轻型29例，普通型5例），无症状感染者5例，尚未分型2例。均已转运至市定点医院。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912532.d.html</link>
-            <guid>2584623</guid>
-            <pubDate>Wed, 16 Mar 2022 15:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北约秘书长斯托尔滕贝格：北约正计划在东侧增兵。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912492.d.html</link>
-            <guid>2584622</guid>
-            <pubDate>Wed, 16 Mar 2022 15:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间3月16日，欧洲委员会正式宣布将俄罗斯排除出该组织。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912403.d.html</link>
-            <guid>2584621</guid>
-            <pubDate>Wed, 16 Mar 2022 15:34:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【纳斯达克金龙中国指数涨27％ 至少8只中概股涨幅超过50%】纳斯达克金龙中国指数涨27％，截至23:30，至少有8只中概股涨幅超过50%，房多多涨105%，金山云涨75%，贝壳涨63%，知乎涨60%，秦准数据涨58%，世纪互联涨57%，欢聚涨54%，叮咚买菜涨51%。此外，拼多多、万国数据、爱奇艺、达达、斗鱼等至少13只股票涨超40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6465078.d.html</link>
-            <guid>2584620</guid>
-            <pubDate>Wed, 16 Mar 2022 15:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本近海发生地震 日媒：岸田文雄进入首相官邸】日本时事通讯社刚刚消息，受福岛县近海为震源的地震影响，日本首相岸田文雄进入首相官邸，岸田告诉记者：“已下达指示努力掌握情况，政府合力投入到救急工作中。”日本广播协会刚刚消息，当地时间23时36分，福岛县近海发生7.3级地震，福岛县、宫城县已发布海啸警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8912270.d.html</link>
-            <guid>2584619</guid>
-            <pubDate>Wed, 16 Mar 2022 15:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：北约成员国同意，北约部队不应出现在乌克兰领土或领空。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911985.d.html</link>
-            <guid>2584618</guid>
-            <pubDate>Wed, 16 Mar 2022 15:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【星巴克CEO将于下月退休 创始人舒尔茨将暂时掌舵】星巴克(SBUX.O)在周三的一份声明中表示，61岁的约翰逊将于4月4日离职，并将在董事会留任至9月。现年68岁的星巴克创始人舒尔茨将重新掌舵，他将重新加入董事会并处理日常管理工作，此外还将帮助公司寻找一位新的领导人，星巴克预计今年秋季完成这项工作。舒尔茨在声明中表示:“虽然我之前没有重返星巴克的计划，但我知道这家公司必须再次转型，以迎接一个新的、令人兴奋的未来，让我们所有的利益相关者共同实现繁荣。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911868.d.html</link>
-            <guid>2584617</guid>
-            <pubDate>Wed, 16 Mar 2022 15:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总理让·卡斯泰：法国将提高LNG进口能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6464621.d.html</link>
-            <guid>2584616</guid>
-            <pubDate>Wed, 16 Mar 2022 15:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总理让·卡斯泰：法国计划在2027年前停止从俄罗斯进口天然气和石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911851.d.html</link>
-            <guid>2584615</guid>
-            <pubDate>Wed, 16 Mar 2022 15:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：北约国防部长们准备加强东翼防卫的建议，并将其提交马德里峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6464492.d.html</link>
-            <guid>2584614</guid>
-            <pubDate>Wed, 16 Mar 2022 15:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本东京羽田机场跑道受地震影响已关闭 正在确认是否受损】据日本气象厅消息，当地时间3月16日23时37分左右，日本福岛县附近海域发生里氏7.3级地震，震度为6强。受此影响，羽田机场跑道已暂时关闭，相关方面正在确认跑道是否在地震中受损。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6464367.d.html</link>
-            <guid>2584613</guid>
-            <pubDate>Wed, 16 Mar 2022 15:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：女川核电站没有发生火灾。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911563.d.html</link>
-            <guid>2584612</guid>
-            <pubDate>Wed, 16 Mar 2022 15:23:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乌总统办公室顾问：“结束战争”的唯一办法是乌俄总统直接会谈】据俄新社16日报道，乌克兰总统办公室顾问、俄乌谈判乌方代表团成员波多利亚克接受媒体采访时称，“结束战争的唯一办法”是乌克兰总统泽连斯基与俄罗斯总统普京直接会谈，双方正在研究两位总统可能进行的直接会谈的相关文件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6464286.d.html</link>
-            <guid>2584611</guid>
-            <pubDate>Wed, 16 Mar 2022 15:22:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【福建龙岩市新罗区16日发现1例新冠病毒初筛阳性人员】从相关部门获悉，福建龙岩市新罗区16日发现1例新冠病毒初筛阳性人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6464150.d.html</link>
-            <guid>2584610</guid>
-            <pubDate>Wed, 16 Mar 2022 15:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：奥地利方面计划增加12.6万亿的战略天然气储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911367.d.html</link>
-            <guid>2584609</guid>
-            <pubDate>Wed, 16 Mar 2022 15:20:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄安全会议秘书与美总统国家安全顾问通电话】俄罗斯安全会议秘书帕特鲁舍夫16日与美国总统国家安全顾问沙利文通电话。据悉，此次通话由美方发起。帕特鲁舍夫在通话中向美方重申俄方立场，即不允许乌克兰接受外部势力指令，故意拖延谈判进程。俄方要求美方对乌克兰施加压力，要求乌方尽快通过外交途径解决危机。帕特鲁舍夫还表示，美方必须停止支持在乌境内的新纳粹分子和恐怖分子，拒绝向乌克兰政府提供武器装备。否则，局势只能继续升级。俄方同意与美方保持沟通。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6464063.d.html</link>
-            <guid>2584608</guid>
-            <pubDate>Wed, 16 Mar 2022 15:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本3月16日地震震级创2022年迄今全球最高】今年以来，全球共发生六级以上地震31次，其中6.0级到6.9级30次，7.0级到7.9级1次，8.0级以上0次，最大地震是3月16日在日本本州东岸近海发生的7.4级地震。 （中国地震台网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6464034.d.html</link>
-            <guid>2584607</guid>
-            <pubDate>Wed, 16 Mar 2022 15:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港立法会通过逾2700亿港元临时拨款 涉及抗疫及消费券】香港特区立法会16日通过涉及超2700亿元（港元）的临时拨款决议案，供特区政府在新财政年度开始至《2022年拨款条例》实施期间使用。有关款项包括为“防疫抗疫基金”注资、为医院管理局提供支援及向市民派发消费券等。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911276.d.html</link>
-            <guid>2584606</guid>
-            <pubDate>Wed, 16 Mar 2022 15:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股大型科技股涨幅扩大，Meta Platforms(FB.O)涨超5%，特斯拉(TSLA.O)涨4.3%，奈飞(NFLX.O)涨3.7%，英特尔(INTC.O)涨3%，谷歌A(GOOGL.O)涨2.36%，亚马逊(AMZN.O)涨2.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911271.d.html</link>
-            <guid>2584605</guid>
-            <pubDate>Wed, 16 Mar 2022 15:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本福岛核电站运营商正在评估地震后可能造成的损害。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911235.d.html</link>
-            <guid>2584604</guid>
-            <pubDate>Wed, 16 Mar 2022 15:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：日本东海第二核电站在地震后没有出现异常。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6463977.d.html</link>
-            <guid>2584603</guid>
-            <pubDate>Wed, 16 Mar 2022 15:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总理：围绕燃料救助问题达成原则性总能量协议，法国将向企业提高担保贷款的限额。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6463952.d.html</link>
-            <guid>2584600</guid>
-            <pubDate>Wed, 16 Mar 2022 15:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【伊朗媒体：伊朗称维也纳核谈判“非常接近”尾声】据半官方的伊朗学生通讯社3月16日报道，伊朗外交部长阿卜杜拉希扬在德黑兰对记者说，俄罗斯已确保“恢复2015年核协议的谈判与在乌克兰的战争之间没有联系”，维也纳核谈判“非常接近”尾声。与沙特的谈判仍在议程上，下一轮谈判的日期尚未敲定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6463914.d.html</link>
-            <guid>2584599</guid>
-            <pubDate>Wed, 16 Mar 2022 15:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝雅：重申波音(BA.N)增持评级以及306美元的目标价】贝雅分析师Peter Arment 重申波音(BA.N)增持评级以及306美元的目标价。Arment表示，随着737-MAX的交付日益临近，波音将成为看涨新选择。他注意到了近期的抛售，但同时预计第一季度末或第二季度初将恢复交付。他还指出，恢复在中国的交付计划对于该公司的波音737-MAX生产率计划和长期费用现金流恢复至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6463880.d.html</link>
-            <guid>2584598</guid>
-            <pubDate>Wed, 16 Mar 2022 15:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股旅游板块掀起涨停潮，为何成为反弹“先锋”？】3月16日，A股景点及旅游板块掀起涨停潮。截至收盘，17只股票涨停。作为扩大内需的主力产业之一，国内旅游业在2021年迎来了一定程度的回暖。而今年一月份，行业复苏整体趋势不减。根据统计，在已经发布业绩预告或报告的24家A股文旅上市公司中，半数以上公司去年实现扭亏、减亏、预盈。 不可否认的是，今年以来，局部地区散发的疫情再度冲击文旅产业。但在严格遵循疫情防控的前提条件下，国内文旅产业如2020年疫情集中暴发时遭遇的停摆状态，很难再上演。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8911031.d.html</link>
-            <guid>2584597</guid>
-            <pubDate>Wed, 16 Mar 2022 15:15:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汉威科技：仪表业务应该会继续维持产销两旺的状况 订单已排到二季度后】汉威科技表示，公司目前经营基本面良好，传感器今年到了业务的释放期，去年传感器业务的增长相对比较保守，因为更多是消化前年热电堆传感器的峰值，同时布局家电和汽车这两块业务也带来了许多成本，所以今年传感器应该会回归到正常的增长。仪表业务应该会继续维持去年中旬开始产销两旺的状况，因为目前来看订单的保有量较大，目前已经排到了二季度之后，产能也相比去年年初扩产许多。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6463706.d.html</link>
-            <guid>2584596</guid>
-            <pubDate>Wed, 16 Mar 2022 15:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金融博客零对冲：不知何故，美联储自2018年以来的首次加息甚至都不是今天的三大新闻之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8910960.d.html</link>
-            <guid>2584595</guid>
-            <pubDate>Wed, 16 Mar 2022 15:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本今晚发生了两次强震，分别是6.0级和7.4级，两次震中接近，且都位于海域，距离陆地约80公里，距离东京约291公里。 （中国地震台网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8910912.d.html</link>
-            <guid>2584594</guid>
-            <pubDate>Wed, 16 Mar 2022 15:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京电力公司：东京超过70万栋建筑断电。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8910800.d.html</link>
-            <guid>2584593</guid>
-            <pubDate>Wed, 16 Mar 2022 15:12:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本东北电力公司正在确认女川核电站状况】据日本气象厅消息，当地时间3月16日23时37分左右，日本福岛县附近海域发生里氏7.3级地震，震度为6强。受此影响，位于宫城县的女川核电站已停止运转。日本东北电力公司正在确认核电站是否存在异常状况。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8910773.d.html</link>
-            <guid>2584592</guid>
-            <pubDate>Wed, 16 Mar 2022 15:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：日本首相岸田文雄命令各部门收集有关地震的信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6463423.d.html</link>
-            <guid>2584591</guid>
-            <pubDate>Wed, 16 Mar 2022 15:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总理让·卡斯泰：法国政府的弹性计划将在可行的情况下，尽快将对俄罗斯能源和大宗商品出口的依赖降至最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8910683.d.html</link>
-            <guid>2584590</guid>
-            <pubDate>Wed, 16 Mar 2022 15:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【自然资源部海啸预警中心：本次日本本州东岸近海海域地震不会引发海啸】2022年3月16日22时36分（北京时间），日本本州东岸近海海域（37.79N,141.42E）发生7.3级地震，震源深度为110.0千米。自然资源部海啸预警中心根据初步地震参数判断，本次地震不会引发海啸。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8910644.d.html</link>
-            <guid>2584589</guid>
-            <pubDate>Wed, 16 Mar 2022 15:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东京电力公司正确认福岛核电站是否因地震产生异常】据中国地震台网正式测定，3月16日22时34分在日本本州东岸近海（北纬37.62度，东经141.99度）发生6.0级地震，震源深度10千米。目前东京电力公司正在确认福岛第一核电站、福岛第二核电站是否因为地震产生异常。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6463122.d.html</link>
-            <guid>2584588</guid>
-            <pubDate>Wed, 16 Mar 2022 15:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：03月16日22时36分在日本本州东岸近海发生7.4级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462925.d.html</link>
-            <guid>2584587</guid>
-            <pubDate>Wed, 16 Mar 2022 15:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全国人大外事委员会发言人就美国“2022财年综合拨款法案”涉华消极条款发表谈话：美方不顾中方多次严正交涉，执意将含有涉台、涉港、涉藏、涉疆等多项涉华消极条款的“2022财年综合拨款法案”签署成法，严重损害中国国家利益，粗暴干涉中国内政。我们对此坚决反对。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462889.d.html</link>
-            <guid>2584586</guid>
-            <pubDate>Wed, 16 Mar 2022 15:06:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【孙春兰在吉林调研时强调：坚定必胜信心，尽快控制疫情】中共中央政治局委员、国务院副总理孙春兰13日至16日到吉林省调研指导疫情防控工作并指出，当前吉林省疫情仍在高位流行，社区传播仍未彻底阻断。要继续组织好全员筛查，科学开展核酸和抗原检测，力求做到“四早”“四应”。对新发现感染者2小时内完成网络报告，加强社区和定点医院、方舱医院的衔接，第一时间转运收治到位。掌握隔离人员转归情况，统筹调配隔离房间，加快隔离资源周转使用。加强隔离酒店、方舱医院、医疗机构规范管理，工作人员严格闭环，避免交叉感染。保障封控小区居民基本生活和就医购药需求，指定专人负责、专车转运到对口医院，切实做好孕妇、儿童、透析患者、急诊病人等医疗服务。要完善学校常态化防控措施，各学校推开抗原检测，原则上将每天抽检比例扩大到20%，提高疫情早发现能力。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8910156.d.html</link>
-            <guid>2584585</guid>
-            <pubDate>Wed, 16 Mar 2022 15:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【陕西省宝鸡市增加一个高风险地区】陕西省宝鸡市应对新冠肺炎疫情工作领导小组（指挥部）研究决定，自发布之日起，将金台区中山西路街道胜利村由中风险地区升级为高风险地区，将金台区中山东路街道东仁新城小区由低风险地区升级为中风险地区。调整后，宝鸡市共有高风险地区2个，中风险地区17个。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462844.d.html</link>
-            <guid>2584584</guid>
-            <pubDate>Wed, 16 Mar 2022 15:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本福岛县附近海域发生7.3级地震】据日本气象厅消息，日本福岛县附近海域16日发生7.3级地震，首都东京震感强烈。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462807.d.html</link>
-            <guid>2584583</guid>
-            <pubDate>Wed, 16 Mar 2022 15:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[螺纹期货夜盘收涨1.25%，热卷收涨1.10%；铁矿石期货收涨2.65%。焦炭夜盘收涨0.90%，焦煤收涨0.86%，动力煤收跌0.17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8909962.d.html</link>
-            <guid>2584582</guid>
-            <pubDate>Wed, 16 Mar 2022 15:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫发言人表示，披露任何解决乌克兰冲突的潜在协议都为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462643.d.html</link>
-            <guid>2584581</guid>
-            <pubDate>Wed, 16 Mar 2022 15:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广东东莞新增7例本土新冠肺炎确诊病例】3月16日0—20时，东莞市新增7例本土确诊病例（松山湖园区4例，大朗镇、石排镇、横沥镇各1例）和27例本土无症状感染者（松山湖园区9例、大朗镇9例、常平镇5例、横沥镇2例、石排镇2例），均已送定点救治医院隔离治疗。上述人员中，18例在集中隔离发现，12例在密接筛查发现，4例在区域筛查发现，涉及活动场所均已进行环境核酸采样和终末消毒。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462572.d.html</link>
-            <guid>2584580</guid>
-            <pubDate>Wed, 16 Mar 2022 15:03:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[由于乌克兰中立地位的报道，俄罗斯信贷违约掉期（CDS）下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462555.d.html</link>
-            <guid>2584579</guid>
-            <pubDate>Wed, 16 Mar 2022 15:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：日本气象厅将于周四凌晨1:30（北京时间0:30）举行简报会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462440.d.html</link>
-            <guid>2584578</guid>
-            <pubDate>Wed, 16 Mar 2022 15:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股早盘，恐惧与贪婪指数读数为21，表明市场处在极度恐惧状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8909737.d.html</link>
-            <guid>2584577</guid>
-            <pubDate>Wed, 16 Mar 2022 15:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本气象厅已发出海啸预警】当地时间23时34分，日本福岛县宫城县海岸附近发生6级强烈地震。目前，日本气象厅已向上述两个地区太平洋沿岸地区发出海啸预警，海啸预计高度约1米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwipih8909726.d.html</link>
-            <guid>2584576</guid>
-            <pubDate>Wed, 16 Mar 2022 15:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京电力表示，地震后约有200万户家庭断电。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462316.d.html</link>
-            <guid>2584575</guid>
-            <pubDate>Wed, 16 Mar 2022 15:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本接连发生2次强烈地震】当地时间23时34分，日本福岛县宫城县海岸附近发生6级强烈地震。目前，日本气象厅已向上述两个地区太平洋沿岸地区发出海啸预警，海啸预计高度约1米。记者所在的东京地区震感强烈。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462293.d.html</link>
-            <guid>2584574</guid>
-            <pubDate>Wed, 16 Mar 2022 15:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东京电力公司：正在检查地震对设施的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-16/detail-imcwiwss6462270.d.html</link>
-            <guid>2584573</guid>
-            <pubDate>Wed, 16 Mar 2022 15:00:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

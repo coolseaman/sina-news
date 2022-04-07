@@ -4,11 +4,183 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 07 Apr 2022 18:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 19:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[媒体消息：以色列特拉维夫枪击事件造成至少2人死亡，8人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2975394.d.html</link>
+            <guid>2619882</guid>
+            <pubDate>Thu, 07 Apr 2022 19:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储埃文斯：失业率很低，就业参与率可能会更高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0530138.d.html</link>
+            <guid>2619879</guid>
+            <pubDate>Thu, 07 Apr 2022 19:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯财政部：目前卢布升值不会对财政政策构成威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0529945.d.html</link>
+            <guid>2619878</guid>
+            <pubDate>Thu, 07 Apr 2022 19:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储的博斯蒂克：美联储的目标是尽可能长时间地保持持续增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2975049.d.html</link>
+            <guid>2619877</guid>
+            <pubDate>Thu, 07 Apr 2022 19:07:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储博斯蒂克：缺乏就业流动性会让整个经济付出代价。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2975020.d.html</link>
+            <guid>2619876</guid>
+            <pubDate>Thu, 07 Apr 2022 19:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  恒指期货夜盘收跌0.28%，报21740点，低水69点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2974656.d.html</link>
+            <guid>2619872</guid>
+            <pubDate>Thu, 07 Apr 2022 19:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国2月消费信贷(亿美元)：前值68.38，预期166.50，实际值418.20。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2974647.d.html</link>
+            <guid>2619871</guid>
+            <pubDate>Thu, 07 Apr 2022 19:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新华时评：坚决打赢这场疫情防控攻坚战】中国有信心打赢这场攻坚战。三年来，一场场大仗硬仗，中国都打过来了。出色的抗疫斗争，是中国应对危机卓越能力的生动缩影。要打赢这场仗，必须坚持“动态清零”总方针不犹豫不动摇，这是三年来面对抗疫大考中国不断交出优异答卷的重要经验。“动态清零”，需要时间，更需要坚决果断的态度、迅速有力的行动，必须咬紧牙关、持续攻坚，不折不扣落实已部署的各项疫情防控举措，全力守护市民群众安康。在阻击疫情的艰难时刻，只要人人齐心，以“咬定青山不放松”的韧劲、“不破楼兰终不还”的拼劲，继续攻坚克难、顽强奋战，这座城市一定能够迎来胜利的曙光。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2974552.d.html</link>
+            <guid>2619870</guid>
+            <pubDate>Thu, 07 Apr 2022 18:59:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟轮值主席国法国表示，欧盟常驻代表同意对俄罗斯实施第五轮制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0529063.d.html</link>
+            <guid>2619869</guid>
+            <pubDate>Thu, 07 Apr 2022 18:55:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【托克集团从LME大量提取锌库存 因电价飙升导致其欧洲冶炼厂减产】知情人士透露，托克集团正在大规模从伦敦金属交易所仓库提取锌库存，以弥补欧洲减产导致的该公司供应缺口。自3月底以来，从LME仓库提取锌库存的注销仓单增加超过45000吨，使得可用库存降至一年多来最低水平。这其中很大部分是托克集团提取的。托克集团拥有欧洲最大的锌冶炼商Nyrstar，在2019年通过债务重组取得了该公司控制权。该公司已经宣布，由于电力成本急剧上升，旗下欧洲冶炼厂全面减产。锌价今年已经上涨19%，上个月曾触及每吨4896美元的纪录高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0528912.d.html</link>
+            <guid>2619868</guid>
+            <pubDate>Thu, 07 Apr 2022 18:54:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股尾盘走高，纳指转涨，此前一度跌超1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2974084.d.html</link>
+            <guid>2619867</guid>
+            <pubDate>Thu, 07 Apr 2022 18:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登不需要每天进行新冠肺炎检测。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2973926.d.html</link>
+            <guid>2619866</guid>
+            <pubDate>Thu, 07 Apr 2022 18:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【希腊央行下调2022年经济增长预期至3.8%】希腊中央银行当地时间7日在其报告中表示，希腊央行将本年度经济增长预期从之前的4.8%下调至3.8%，并将通货膨胀率上调至5.2%。希腊央行行长雅尼斯·斯图纳拉斯表示，在不利的情况下，今年希腊经济增长可能将放缓至2.8%，通货膨胀率将升至7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2973861.d.html</link>
+            <guid>2619865</guid>
+            <pubDate>Thu, 07 Apr 2022 18:51:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将中国金茂(00817.HK)评级上调至超配，目标价3.50港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0528504.d.html</link>
+            <guid>2619864</guid>
+            <pubDate>Thu, 07 Apr 2022 18:50:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：拜登计划签署新的对俄制裁法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0528392.d.html</link>
+            <guid>2619862</guid>
+            <pubDate>Thu, 07 Apr 2022 18:49:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货收于6.359美元/百万英热，为2008年12月以来最高收盘价。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2973580.d.html</link>
+            <guid>2619861</guid>
+            <pubDate>Thu, 07 Apr 2022 18:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：重申布伦特原油价格到二季度末将涨至130美元/桶的预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0527861.d.html</link>
+            <guid>2619860</guid>
+            <pubDate>Thu, 07 Apr 2022 18:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将万科企业(02202.HK)评级上调至超配，目标价25港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2972966.d.html</link>
+            <guid>2619859</guid>
+            <pubDate>Thu, 07 Apr 2022 18:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将碧桂园(02007.HK)评级上调至超配，目标价7.60港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2972949.d.html</link>
+            <guid>2619858</guid>
+            <pubDate>Thu, 07 Apr 2022 18:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：欧盟在第五轮制裁中支持对俄罗斯实施煤炭禁运。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2972942.d.html</link>
+            <guid>2619857</guid>
+            <pubDate>Thu, 07 Apr 2022 18:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国国会通过一项禁止进口俄罗斯石油的法案】美国众议院通过了禁止美国从俄罗斯进口石油、天然气和煤炭的法案，并送交总统拜登签署。众议院413-9的投票结果通过了这份法案；周四早些时候，参议院以100-0的结果全票通过该法案。一旦拜登签署，他上个月发布的命令将成为法律。国会周四也通过法案，取消俄罗斯和白俄罗斯的正常贸易关系地位，允许美国对来自俄罗斯和白俄罗斯的商品加征高额关税。根据美国能源信息管理局的数据，将原油和所有其他石油产品计算在内，俄罗斯占美国2021年石油进口量的8%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0527694.d.html</link>
+            <guid>2619856</guid>
+            <pubDate>Thu, 07 Apr 2022 18:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部：俄罗斯、土耳其国防部长通过电话讨论乌克兰局势，特别关注人道主义问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0527158.d.html</link>
+            <guid>2619855</guid>
+            <pubDate>Thu, 07 Apr 2022 18:35:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易所收盘】上海黄金交易所黄金T+D 4月8日（周五）晚盘收盘上涨0.35%报395.37元/克；上海黄金交易所白银T+D 4月8日（周五）晚盘收盘上涨1.03%报5010.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0527121.d.html</link>
+            <guid>2619854</guid>
+            <pubDate>Thu, 07 Apr 2022 18:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘主力合约收盘】截至2:30收盘，沪金主力合约收涨0.44%，报397元/克，沪银主力合约收涨0.86%，报5024元/千克，SC原油主力合约收跌5.12%，报614元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2972322.d.html</link>
+            <guid>2619853</guid>
+            <pubDate>Thu, 07 Apr 2022 18:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2205合约夜盘收跌5.12%，报613.70元人民币/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0526862.d.html</link>
+            <guid>2619852</guid>
+            <pubDate>Thu, 07 Apr 2022 18:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股白银股普涨，First Majestic(AG.O)、泛美白银(PAAS.O)涨约2%，Silvercorp Metals(SVM)涨近3%，Fortuna Silver(FSM.N)涨超3%。]]></title>
+            <guid>2619851</guid>
+            <pubDate>Thu, 07 Apr 2022 18:29:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：本周美国贷款基金的资金流入为19.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2971643.d.html</link>
+            <guid>2619850</guid>
+            <pubDate>Thu, 07 Apr 2022 18:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[基金分析公司理柏（Lipper）：本周市政债券基金的资金流出为32亿美元；高收益基金的资金流入为2.959亿美元；投资级基金的资金流出为17亿美元。]]></title>
+            <guid>2619849</guid>
+            <pubDate>Thu, 07 Apr 2022 18:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院确认凯坦吉·布朗·杰克森为美国最高法院大法官。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2971254.d.html</link>
+            <guid>2619848</guid>
+            <pubDate>Thu, 07 Apr 2022 18:19:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[理柏：最近一周，美国市政债券基金流出32亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0525894.d.html</link>
@@ -32,6 +204,12 @@
             <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0525750.d.html</link>
             <guid>2619844</guid>
             <pubDate>Thu, 07 Apr 2022 18:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅同法国总统外事顾问博纳通电话】国务委员兼外长王毅应约同法国总统外事顾问博纳通电话。双方重点就乌克兰问题交换了意见。博纳表示，法方一贯坚持独立自主的外交政策，不会陷入集团政治的逻辑。法方一贯致力于创造和维持和平，正在围绕乌克兰实现中立、获得安全担保等重大问题，同包括俄方在内的各方开展沟通。法方高度重视中方对当前形势的看法，愿同中方共同努力，推动和谈、实现停火、化解危机。王毅说，王毅表示，乌克兰问题归根到底是源于欧洲安全失衡，必须本着安全不可分割原则，重新构建均衡有效可持续的欧洲安全框架，这样才能真正实现欧洲的长治久安。中方支持法方坚持欧洲战略自主，把欧洲的命运掌握在欧洲人自己手中。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0525577.d.html</link>
+            <guid>2619843</guid>
+            <pubDate>Thu, 07 Apr 2022 18:11:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【期铝跌至三周最低，美国货币政策收紧前景打压需求】铝价周四跌至三周最低，其它工业金属价格也出现下跌，原因是市场担心美国货币政策收紧前景将抑制金属需求。伦敦金属交易所指标期铝下跌1.4%，至3393美元，创下3月17日以来的最低水平。上海期货交易所交投最活跃的5月份铝期货合约日内下跌3.5%，至每吨人民币21815元；由于美联储官员发表鹰派言论，美元维持在两年高位附近，令以美元计价的金属相对于以其他货币计价的买家更为昂贵。中国的铝交易库存自1月底以来已飙升47%至105万吨。业内人士称，这是因疫情爆发造成的物流瓶颈；“金属市场面临许多不利因素。美联储昨晚的会议记录相当激进，美元对此做出了回应，”独立顾问Robin Bhar表示。乌克兰的冲突令人担忧，由于价格处于如此高的水平，将对需求造成一定影响，还会影响全球增长。]]></title>
@@ -427,186 +605,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0517843.d.html</link>
             <guid>2619777</guid>
             <pubDate>Thu, 07 Apr 2022 16:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奥迪表示，尚未作出加入一级方程式赛车比赛的最终决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2962747.d.html</link>
-            <guid>2619776</guid>
-            <pubDate>Thu, 07 Apr 2022 16:21:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务卿布林肯：普京的计划是和谈关键。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0517565.d.html</link>
-            <guid>2619775</guid>
-            <pubDate>Thu, 07 Apr 2022 16:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：大众董事会支持奥迪、保时捷可能加入F1赛车领域的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0517549.d.html</link>
-            <guid>2619774</guid>
-            <pubDate>Thu, 07 Apr 2022 16:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄罗斯对包括澳大利亚总理在内的228名澳高级官员和议员实施个人制裁】俄罗斯外交部表示，俄罗斯对包括澳大利亚总理在内的228名澳大利亚高级官员和议员实施个人制裁。俄外交部同时表示，将很快扩大制裁名单，对澳大利亚的军人、商人、专家和媒体人士实施制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0517432.d.html</link>
-            <guid>2619773</guid>
-            <pubDate>Thu, 07 Apr 2022 16:19:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟委员会主席冯德莱恩认为，以卢布支付俄罗斯天然气费用将规避西方制裁，给企业带来风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2962482.d.html</link>
-            <guid>2619772</guid>
-            <pubDate>Thu, 07 Apr 2022 16:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务卿布林肯：我听说欧洲承诺结束对俄罗斯能源的依赖。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2962268.d.html</link>
-            <guid>2619771</guid>
-            <pubDate>Thu, 07 Apr 2022 16:16:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务卿布林肯：我们不会让任何事情阻碍向乌克兰运输武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0517212.d.html</link>
-            <guid>2619770</guid>
-            <pubDate>Thu, 07 Apr 2022 16:16:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国国务卿布林肯：与乌克兰外长讨论了北约的战略概念，将于6月在马德里公布该蓝图。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2962235.d.html</link>
-            <guid>2619769</guid>
-            <pubDate>Thu, 07 Apr 2022 16:15:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【佩洛西已完全接种新冠疫苗】北京时间7日晚间，现年82岁的美国国会众议院议长南希·佩洛西被查出新冠阳性。她的发言人在社交媒体上称，佩洛西已完全接种新冠疫苗，包括加强针。该发言人认为，佩洛西目前的“无症状”是多亏疫苗的保护。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0517166.d.html</link>
-            <guid>2619768</guid>
-            <pubDate>Thu, 07 Apr 2022 16:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国参议院通过一项禁止从俄罗斯进口能源的法案】美国参议院以100票赞成、0票反对的结果通过了一项禁止从俄罗斯进口石油和天然气的法案。这项立法禁止美国从俄罗斯进口石油、天然气、煤炭和其他能源产品。不久前，参议院曾一致通过了一项取消俄罗斯与美国以及白俄罗斯和美国正常贸易关系的贸易地位法案。预计石油禁令法案和贸易地位法案都将在当地时间4月7日晚些时候在众议院进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2962195.d.html</link>
-            <guid>2619767</guid>
-            <pubDate>Thu, 07 Apr 2022 16:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油日内均跌3%，现分别报93.98美元/桶和98.45美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2962102.d.html</link>
-            <guid>2619766</guid>
-            <pubDate>Thu, 07 Apr 2022 16:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Spotify(SPOT.N)：汽车功能方面进行了一系列更新，包括接听电话，排队播放歌曲和播客，以及显示和控制其他媒体。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2962067.d.html</link>
-            <guid>2619765</guid>
-            <pubDate>Thu, 07 Apr 2022 16:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：与乌克兰外交部长会过面，讨论美国在安全援助方面还能提供什么。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2962029.d.html</link>
-            <guid>2619764</guid>
-            <pubDate>Thu, 07 Apr 2022 16:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：与乌克兰站在一起的决心比以往任何时候都更大。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0516963.d.html</link>
-            <guid>2619763</guid>
-            <pubDate>Thu, 07 Apr 2022 16:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联大投票决定暂停俄人权理事会成员资格】俄罗斯卫星通讯社刚刚消息，联合国大会投票决定暂停俄罗斯在联合国人权理事会的成员资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0516893.d.html</link>
-            <guid>2619762</guid>
-            <pubDate>Thu, 07 Apr 2022 16:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫发言人佩斯科夫：我们的军队损失惨重。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2961894.d.html</link>
-            <guid>2619761</guid>
-            <pubDate>Thu, 07 Apr 2022 16:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：俄罗斯将包括新西兰总理阿德恩在内的130名新西兰个人列入入境黑名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2961882.d.html</link>
-            <guid>2619760</guid>
-            <pubDate>Thu, 07 Apr 2022 16:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【武警将接管上海社区？造谣】4月7日晚间，有传言称上海将要开始军事化管理，并声称有武警部队接到通知，“所有小区安排2人站岗，杜绝一切进出”。对此，上海辟谣平台向权威部门询问获悉，此传言为不实消息，请广大市民勿传谣，勿信谣。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0516560.d.html</link>
-            <guid>2619759</guid>
-            <pubDate>Thu, 07 Apr 2022 16:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国众议院通过了550亿美元的新冠肺炎援助，用于援助受疫情影响的企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2961491.d.html</link>
-            <guid>2619758</guid>
-            <pubDate>Thu, 07 Apr 2022 16:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：我们正在继续并加强对俄罗斯的压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2961462.d.html</link>
-            <guid>2619757</guid>
-            <pubDate>Thu, 07 Apr 2022 16:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海市委网信办：进一步查处网络圈群造谣行为】当前上海疫情防控形势严峻复杂，守护人民生命健康、守护城市安全运行已经到了重要关头。上海市委网信办连日来接到许多市民反映，在社交媒体特别是微信圈群中，有人大肆制造、发布、传播有关我市新冠肺炎防控工作的谣言和不实信息，希望管理部门严肃处理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0516351.d.html</link>
-            <guid>2619756</guid>
-            <pubDate>Thu, 07 Apr 2022 16:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2022年基建投资总额将达14.8万亿人民币？别轻信传闻】4月7日晚间，一则“中国基建投资总额将达2.3万亿美元（约14.8万亿人民币）”的消息在市场传开。不少投资者误认为，这意味着在房地产投资难有起色的情况下，基建投资将扛起今年稳增长的大旗，甚至不排除复刻2009年4万亿刺激计划下，基建投资年度增速高达50%以上的局面。但很快，一些专业人士就发现这则消息的逻辑存在问题。原文实际混淆了一个基础概念，也即将2022年初全国各地亮出的重大项目投资清单简单加总，就得出了2022年基建投资总额将达14.8万亿人民币的结论。事实上，此类重大项目投资清单发布是各地年初的常规动作。此前相关统计显示，截至2月16日多省市发布了2022年重大项目投资清单，总投资额合计至少超过25万亿元。一般来讲，受配套资金、开工节奏等因素的影响，这一类项目能否在年内落地存在比较大的不确定性。因此，此类加总数不宜作为观察当年基建投资完成额的可靠指标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0516243.d.html</link>
-            <guid>2619755</guid>
-            <pubDate>Thu, 07 Apr 2022 16:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日重点关注的财经数据与事件】2022年4月8日 周五① 02:00 美联储埃文斯和博斯蒂克发表讲话② 07:50 日本2月贸易帐③ 20:30 加拿大3月就业人数④ 22:00 美国2月批发销售月率⑤ 次日01:00 美国至4月8日当周石油钻井总数。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0516158.d.html</link>
-            <guid>2619754</guid>
-            <pubDate>Thu, 07 Apr 2022 16:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：俄罗斯对澳大利亚领导人实施入境禁令。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwipii2961108.d.html</link>
-            <guid>2619753</guid>
-            <pubDate>Thu, 07 Apr 2022 16:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数跌幅扩大至1%，刷新3月21日以来盘中最低位，成分股拼多多跌超7.9%，电动汽车生产商Lucid集团跌4.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0515857.d.html</link>
-            <guid>2619752</guid>
-            <pubDate>Thu, 07 Apr 2022 16:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴基斯坦最高法院宣布议会将于9日重启对总理的不信任动议投票】当地时间7日晚，巴基斯坦最高法院首席大法官乌玛尔·阿塔·班迪尔宣布，国民议会议长阿萨德·卡西尔将于4月9日上午10时召开议会会议，就针对总理伊姆兰·汗的不信任动议进行投票。首席大法官还表示，在对伊姆兰·汗总理的不信任动议投票结束之前，议会不能休会。如果对总理的不信任动议投票通过，新总理将由议会任命。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-08/detail-imcwiwst0515809.d.html</link>
-            <guid>2619751</guid>
-            <pubDate>Thu, 07 Apr 2022 15:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰外长库列巴：对联合国成员国暂停俄罗斯人权理事会成员资格表示感谢。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-07/detail-imcwipii2960838.d.html</link>
-            <guid>2619750</guid>
-            <pubDate>Thu, 07 Apr 2022 15:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线走低0.8美元，现分别报94.37美元/桶和98.84美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-07/detail-imcwipii2960638.d.html</link>
-            <guid>2619749</guid>
-            <pubDate>Thu, 07 Apr 2022 15:53:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指日内跌幅达到1.00%，报13749.57点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-07/detail-imcwiwst0515578.d.html</link>
-            <guid>2619748</guid>
-            <pubDate>Thu, 07 Apr 2022 15:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国大会投票决定暂停俄罗斯在联合国人权理事会的席位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-07/detail-imcwipii2960569.d.html</link>
-            <guid>2619747</guid>
-            <pubDate>Thu, 07 Apr 2022 15:52:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

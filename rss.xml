@@ -4,11 +4,377 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 04 May 2022 10:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 11:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：由于高温破坏了农作物，印度考虑限制小麦出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii8001663.d.html</link>
+            <guid>2656948</guid>
+            <pubDate>Wed, 04 May 2022 11:12:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥统计机构：墨西哥4月消费者信心指数录得44.3。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii8001636.d.html</link>
+            <guid>2656947</guid>
+            <pubDate>Wed, 04 May 2022 11:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  公布财报后，Uber(UBER.N)盘前跌幅缩窄，现跌1.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii8000762.d.html</link>
+            <guid>2656946</guid>
+            <pubDate>Wed, 04 May 2022 11:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Uber(UBER.N)2022年Q1净利润3.99亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii8000693.d.html</link>
+            <guid>2656945</guid>
+            <pubDate>Wed, 04 May 2022 11:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Uber(UBER.N)：预计第二季度的未计利息、税项、折旧及摊销前的利润为2.4亿美元至2.7亿美元，市场预期为2.479亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5554204.d.html</link>
+            <guid>2656944</guid>
+            <pubDate>Wed, 04 May 2022 11:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德意志银行：将爱彼迎(ABNB.O)目标价从150美元上调至155美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii8000570.d.html</link>
+            <guid>2656943</guid>
+            <pubDate>Wed, 04 May 2022 11:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗：将Lyft(LYFT.N)目标价从78美元下调至65美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii8000536.d.html</link>
+            <guid>2656942</guid>
+            <pubDate>Wed, 04 May 2022 11:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗：将星巴克(SBUX.O)目标价从91美元下调至76美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii8000528.d.html</link>
+            <guid>2656941</guid>
+            <pubDate>Wed, 04 May 2022 11:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Uber第一季度营收68.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5554031.d.html</link>
+            <guid>2656940</guid>
+            <pubDate>Wed, 04 May 2022 11:03:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至4月25日当周MBA30年期固定抵押贷款利率：前值 5.37%，公布 5.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5553752.d.html</link>
+            <guid>2656939</guid>
+            <pubDate>Wed, 04 May 2022 11:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理朔尔茨：德国政府面临的问题是，总统无法访问乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5553710.d.html</link>
+            <guid>2656938</guid>
+            <pubDate>Wed, 04 May 2022 11:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至4月25日当周MBA抵押贷款申请活动指数：前值 343.1，公布 351.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5553679.d.html</link>
+            <guid>2656937</guid>
+            <pubDate>Wed, 04 May 2022 11:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理朔尔茨：更多地关注与传统西方以外的民主国家的贸易关系很重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii8000020.d.html</link>
+            <guid>2656936</guid>
+            <pubDate>Wed, 04 May 2022 11:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  3个月期美元LIBOR上涨4.3个基点至1.40614％，连续第18天上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7999933.d.html</link>
+            <guid>2656935</guid>
+            <pubDate>Wed, 04 May 2022 10:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫德纳第一季度新冠疫苗营收59.3亿美元，预期为50.5亿美元，2021年第一季度为17亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7999917.d.html</link>
+            <guid>2656934</guid>
+            <pubDate>Wed, 04 May 2022 10:58:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，莫德纳盘前涨超6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7999903.d.html</link>
+            <guid>2656933</guid>
+            <pubDate>Wed, 04 May 2022 10:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫德纳一季度营收60.7亿美元，预估为47.1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5553424.d.html</link>
+            <guid>2656932</guid>
+            <pubDate>Wed, 04 May 2022 10:58:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚外交部长玛丽斯·佩恩在网上发表官方声明说，澳大利亚政府因乌克兰事件对110名个人实施金融制裁，其中包括“顿涅茨克人民共和国”和“卢甘斯克人民共和国”的34人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5552763.d.html</link>
+            <guid>2656931</guid>
+            <pubDate>Wed, 04 May 2022 10:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞穗：将恩智浦半导体(NXPI.O)目标价从200美元上调至205美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7998947.d.html</link>
+            <guid>2656930</guid>
+            <pubDate>Wed, 04 May 2022 10:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞穗：将杜邦(DD.N)目标价从101美元下调至97美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5552455.d.html</link>
+            <guid>2656929</guid>
+            <pubDate>Wed, 04 May 2022 10:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD日内涨超0.50%，现报0.7131。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5552395.d.html</link>
+            <guid>2656927</guid>
+            <pubDate>Wed, 04 May 2022 10:48:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟植物油协会Fediol：随着乌克兰产品通过陆路抵达，葵花籽油的供应有所改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7998494.d.html</link>
+            <guid>2656926</guid>
+            <pubDate>Wed, 04 May 2022 10:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国液化天然气公司钱尼尔能源：填补俄罗斯天然气供应缺口的能力有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7998294.d.html</link>
+            <guid>2656925</guid>
+            <pubDate>Wed, 04 May 2022 10:44:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚总统：罗马尼亚支持逐步实施的俄罗斯石油禁运。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7998269.d.html</link>
+            <guid>2656924</guid>
+            <pubDate>Wed, 04 May 2022 10:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟寻求在6月初之前禁止俄罗斯船舶运输保险，欧盟成员国仍在讨论对俄罗斯石油的制裁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5551791.d.html</link>
+            <guid>2656923</guid>
+            <pubDate>Wed, 04 May 2022 10:43:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：“冷战”回来了，目前国家安全是最重要的事情。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5551577.d.html</link>
+            <guid>2656922</guid>
+            <pubDate>Wed, 04 May 2022 10:41:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：如果乌克兰局势恶化，将会在欧洲造成经济衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5551550.d.html</link>
+            <guid>2656921</guid>
+            <pubDate>Wed, 04 May 2022 10:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国财政部长林德纳：德国的财政支持应该有助于降低工资压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7997983.d.html</link>
+            <guid>2656920</guid>
+            <pubDate>Wed, 04 May 2022 10:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海能实业：拟8000万元-1亿元回购股份】海能实业公告，公司拟回购公司部分社会公众股份，未来用于实施股权激励及/或员工持股计划。拟回购股份的价格不超过37元/股。回购资金总额不低于8000万元（含本数），不超过1亿元（含本数）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7997869.d.html</link>
+            <guid>2656919</guid>
+            <pubDate>Wed, 04 May 2022 10:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中信建投陈果：五月逢低布局的重要线索在于把握疫后修复】中信建投首席策略陈果认为，今年A股获取收益的一个重点是把握低位布局。节前市场位置符合底部条件，投资者可将其视为今年的“黄金坑”。展望未来一个季度，战略上不能再悲观，要逐步转向乐观，整个内外环境的改善趋势是大概率事件。同时，市场内外主要矛盾的改善过程很可能存在一定反复，投资者要做好准备市场在底部区域还会有一定阶段的震荡，操作战术上要有一定耐心，宜徐徐图之，以逢低位布局为基本原则。五月逢低布局的重要线索在于把握疫后修复，且考虑到当前市场情绪及本轮疫情规模，相关防疫政策信号也值得关注。综合考虑，布局疫情改善品种建议：快递、食品、建材、基建/地产、酒店、汽零。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5551204.d.html</link>
+            <guid>2656918</guid>
+            <pubDate>Wed, 04 May 2022 10:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：油价上涨的可能性非常大，今天就会为此做准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5551178.d.html</link>
+            <guid>2656917</guid>
+            <pubDate>Wed, 04 May 2022 10:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：我们需要尽一切努力把石油、天然气输送到欧洲。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5551169.d.html</link>
+            <guid>2656916</guid>
+            <pubDate>Wed, 04 May 2022 10:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国财政部长林德纳：警告不要对天然气和石油的超额利润征税，因为很难找到上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7997606.d.html</link>
+            <guid>2656915</guid>
+            <pubDate>Wed, 04 May 2022 10:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克将推特头像更换为BAYC相关图片】5月4日消息，特斯拉CEO马斯克将推特头像更换为Bored Ape Yacht Club相关图片。此前2月25日，Bored Ape Yacht Club#1837以569ETH（约合149万美元）价格成交。此后，BAYC#1837卖家、知名加密收藏家Deepak.eth在社交媒体发文表示，BAYC#1837或为马斯克通过MoonPay的NFT代购服务购买。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7997590.d.html</link>
+            <guid>2656914</guid>
+            <pubDate>Wed, 04 May 2022 10:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：随着我们取消量化宽松，目前的经济形势是不正常的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5550918.d.html</link>
+            <guid>2656913</guid>
+            <pubDate>Wed, 04 May 2022 10:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼经济部长哈贝克：对来自高油价和天然气的超额利润征税是一个讨论的话题，但很难实施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5550892.d.html</link>
+            <guid>2656912</guid>
+            <pubDate>Wed, 04 May 2022 10:36:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：美国经济非常强劲，美联储将不得不加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5550682.d.html</link>
+            <guid>2656911</guid>
+            <pubDate>Wed, 04 May 2022 10:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理朔尔茨：德国准备应对欧盟对俄罗斯的石油禁运。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5550660.d.html</link>
+            <guid>2656910</guid>
+            <pubDate>Wed, 04 May 2022 10:35:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼经济部长哈贝克：由于禁运，石油价格可能大幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5550635.d.html</link>
+            <guid>2656909</guid>
+            <pubDate>Wed, 04 May 2022 10:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[外媒援引了解新一轮制裁计划内容的欧洲外交人员的话报道，欧盟第六轮制裁要求欧盟分阶段禁止进口俄罗斯石油，匈牙利和斯洛伐克可在2023年年底前继续进口俄罗斯能源。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5550606.d.html</link>
+            <guid>2656908</guid>
+            <pubDate>Wed, 04 May 2022 10:34:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼经济部长哈贝克：不能保证石油供应不会在地区层面中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5550487.d.html</link>
+            <guid>2656907</guid>
+            <pubDate>Wed, 04 May 2022 10:34:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【顿涅茨克东部一石油基地遭乌军攻击 已致1死9伤】当地时间5月4日，位于顿涅茨克东部马凯耶夫卡的一处石油基地遭到乌军攻击，据当地政府部门最新消息，袭击已造成1人死亡，9人受伤。停火监督与协调联合中心顿涅茨克代表处发布消息称，马凯耶夫卡油库被乌克兰使用“龙卷风”多管火箭炮袭击。目前乌方对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996947.d.html</link>
+            <guid>2656906</guid>
+            <pubDate>Wed, 04 May 2022 10:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货日内涨超4%，报106.56美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996759.d.html</link>
+            <guid>2656905</guid>
+            <pubDate>Wed, 04 May 2022 10:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：（当被问及西方制裁时）制裁是一把双刃剑，欧洲公民的成本将大幅增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996277.d.html</link>
+            <guid>2656904</guid>
+            <pubDate>Wed, 04 May 2022 10:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百济神州：药监局批准注射用贝林妥欧单抗用于治疗儿童复发或难治性CD19阳性前体B细胞急性淋巴细胞白血病】百济神州(688235)5月4日晚公告，近日获悉国家药监局已附条件批准公司授权许可产品倍利妥®（注射用贝林妥欧单抗，BLINCYTO®）用于治疗儿童复发或难治性CD19阳性的前体B细胞急性淋巴细胞白血病。倍利妥®是由安进公司（Amgen Inc.）开发，公司根据双方于2020年达成的全球肿瘤战略合作，获得安进公司授权在中国商业化倍利妥®。此次获批是倍利妥®在中国获得的第二项批准，使得公司有机会为中国的患儿带来这一治疗选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996257.d.html</link>
+            <guid>2656903</guid>
+            <pubDate>Wed, 04 May 2022 10:29:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼经济部长哈贝克：欧盟对俄油禁运的过渡期已经足够。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996223.d.html</link>
+            <guid>2656902</guid>
+            <pubDate>Wed, 04 May 2022 10:28:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利：将辉瑞(PFE.N)目标价从55美元下调至52美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996190.d.html</link>
+            <guid>2656901</guid>
+            <pubDate>Wed, 04 May 2022 10:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：欧盟将为对俄石油禁运付出日渐沉重的代价。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5549684.d.html</link>
+            <guid>2656900</guid>
+            <pubDate>Wed, 04 May 2022 10:28:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫在评论欧盟禁止俄罗斯石油进口的计划时表示，我们正在研究不同的选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996147.d.html</link>
+            <guid>2656899</guid>
+            <pubDate>Wed, 04 May 2022 10:28:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯不会突袭马里乌波尔的亚速钢厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5549642.d.html</link>
+            <guid>2656898</guid>
+            <pubDate>Wed, 04 May 2022 10:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫（当被问及关于5月9日普京宣布国家动员的猜测时）表示，这是不真实和胡说八道的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996096.d.html</link>
+            <guid>2656897</guid>
+            <pubDate>Wed, 04 May 2022 10:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国财长林德纳：在通货膨胀问题上，欧洲内部也必须调整有关财政政策的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7996046.d.html</link>
+            <guid>2656896</guid>
+            <pubDate>Wed, 04 May 2022 10:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：目前还没有就普京与教皇就乌克兰冲突举行会谈达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5549545.d.html</link>
+            <guid>2656895</guid>
+            <pubDate>Wed, 04 May 2022 10:27:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯和乌克兰之间的谈判没有取得进展，莫斯科记录了基辅希望退出谈判进程的信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7995987.d.html</link>
+            <guid>2656894</guid>
+            <pubDate>Wed, 04 May 2022 10:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国财长林德纳：德国可能会迫使受制裁的人披露资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5549423.d.html</link>
+            <guid>2656893</guid>
+            <pubDate>Wed, 04 May 2022 10:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CVS健康(CVS.N)：预计本财年调整后每股收益为8.20美元至8.40美元，此前预计为8.10美元至8.30美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5549192.d.html</link>
+            <guid>2656892</guid>
+            <pubDate>Wed, 04 May 2022 10:23:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CVS健康(CVS.N)：第一季度调整后每股盈利为2.22美元，预期为2.15美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5549178.d.html</link>
+            <guid>2656891</guid>
+            <pubDate>Wed, 04 May 2022 10:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国财长林德纳：新的制裁工具正在谈判中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7995565.d.html</link>
+            <guid>2656890</guid>
+            <pubDate>Wed, 04 May 2022 10:23:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国下周天然气批发价格下跌10.16%，至115.00便士/撒姆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5549025.d.html</link>
+            <guid>2656889</guid>
+            <pubDate>Wed, 04 May 2022 10:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞杰金融：将雅诗兰黛(EL.N)目标价从345美元下调至320美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5548782.d.html</link>
+            <guid>2656888</guid>
+            <pubDate>Wed, 04 May 2022 10:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼经济部长哈贝克：德国正在快速推进液化天然气基础设施建设。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5548575.d.html</link>
+            <guid>2656887</guid>
+            <pubDate>Wed, 04 May 2022 10:19:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BENCHMARK：将AMD(AMD.O)目标价从145美元下调至125美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7994453.d.html</link>
@@ -242,368 +608,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5543384.d.html</link>
             <guid>2656848</guid>
             <pubDate>Wed, 04 May 2022 09:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行理事麦席勒：在通货膨胀方面，坚挺的瑞郎对瑞士有利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7989543.d.html</link>
-            <guid>2656847</guid>
-            <pubDate>Wed, 04 May 2022 09:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【先河环保：控制权拟变更 清利新能源将成为公司控股股东】先河环保(300137)5月4日晚公告，4 月 29 日，公司控股股东、实际控制人李玉国与清利新能源签署了《股份转让和表决权委托框架协议》、《表决权委托协议》，李玉国拟将其持有先河环保的 566.75万股股份通过大宗交易的方式转让给清利新能源；除上述拟转让的股份外，李玉国将其持有的先河环保5186.95万股股份的表决权、提案权等非财产性权利全权委托给清利新能源行使。上述股份转让完成及表决权委托生效后，清利新能源将合计控制公司 5753.69万股股份表决权，占公司股份总数的 10.55%，占公司剔除回购股份后总股数的 10.72%，清利新能源将成为公司控股股东，张菊军将成为公司实际控制人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7989500.d.html</link>
-            <guid>2656846</guid>
-            <pubDate>Wed, 04 May 2022 09:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国央行：要抓紧谋划增量政策工具，支持稳增长、稳就业、稳物价，为统筹疫情防控和经济社会发展营造良好货币金融环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7989410.d.html</link>
-            <guid>2656845</guid>
-            <pubDate>Wed, 04 May 2022 09:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所发布支持实体经济若干措施 支持市场主体增持回购】深交所发布支持实体经济若干措施。包括，支持房地产企业合理融资需求：支持房企正常融资活动，允许优质房企进一步拓宽债券募集资金用途，鼓励优质房企发行公司债券兼并收购出险房企项目，促进房地产行业平稳健康发展。支持市场主体增持回购：鼓励有条件的上市公司回购公司股票，支持大股东、董监高合规增持股份，增强市场各方信心。]]></title>
-            <guid>2656844</guid>
-            <pubDate>Wed, 04 May 2022 09:38:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰天然气公司Pgnig：波兰的天然气储存设施已满81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5542634.d.html</link>
-            <guid>2656843</guid>
-            <pubDate>Wed, 04 May 2022 09:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国央行：会议强调，防范化解重大金融风险攻坚战取得重要阶段性成果，金融风险趋于收敛、整体可控。要科学研判国际国内形势，准确把握可能带来系统性金融风险的重点领域和重点对象，进一步有效管控金融风险，坚决守住不发生系统性金融风险底线。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5542623.d.html</link>
-            <guid>2656842</guid>
-            <pubDate>Wed, 04 May 2022 09:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人民银行学习贯彻中央政治局会议精神，坚决落实金融支持稳经济工作措施：会议强调，防范化解重大金融风险攻坚战取得重要阶段性成果，金融风险趋于收敛、整体可控。要科学研判国际国内形势，准确把握可能带来系统性金融风险的重点领域和重点对象，进一步有效管控金融风险，坚决守住不发生系统性金融风险底线。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7988971.d.html</link>
-            <guid>2656841</guid>
-            <pubDate>Wed, 04 May 2022 09:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京新增本土感染者33例】北京市疾病预防控制中心副主任、全国新型冠状病毒肺炎专家组成员庞星火在4日的北京疫情防控工作新闻发布会上通报，5月4日0时至15时，北京新增本土新冠肺炎病毒感染者33例。自5月3日发布会后（5月3日15时至4日15时），新增本土新冠肺炎病毒感染52例，其中，朝阳区18例，房山区13例，丰台区和通州区各6例，海淀区4例，东城区和密云区各2例，石景山区1例；普通型2例、轻型44例、无症状感染者6例；管控人员45例，社区筛查6例，主动就诊1例。均已转至定点医院进行隔离治疗, 相关风险点位及人员均已管控落位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7988918.d.html</link>
-            <guid>2656840</guid>
-            <pubDate>Wed, 04 May 2022 09:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行理事麦席勒：仍然认为通胀将回落，但必须保持警惕。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7988813.d.html</link>
-            <guid>2656839</guid>
-            <pubDate>Wed, 04 May 2022 09:34:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5月3日15时至4日15时，北京市新增本土新冠肺炎病毒感染者52例】北京市疾病预防控制中心副主任、全国新型冠状病毒肺炎专家组成员庞星火在4日的北京疫情防控工作新闻发布会上通报，5月4日0时至15时，北京新增本土新冠肺炎病毒感染者33例。自5月3日发布会后（5月3日15时至4日15时），新增本土新冠肺炎病毒感染52例，其中，朝阳区18例，房山区13例，丰台区和通州区各6例，海淀区4例，东城区和密云区各2例，石景山区1例；普通型2例、轻型44例、无症状感染者6例；管控人员45例，社区筛查6例，主动就诊1例。均已转至定点医院进行隔离治疗, 相关风险点位及人员均已管控落位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7988777.d.html</link>
-            <guid>2656838</guid>
-            <pubDate>Wed, 04 May 2022 09:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【易事特：中标风力发电工程总承包项目】易事特(300376)5月4日晚公告，公司于近日收到昌吉国投鑫能源开发有限公司及新疆昌盛方略项目管理有限公司发出的《中标通知书》。经评定，公司在招投标中，被确认为中标人。工程名称：鑫能木垒四十个井子10万千瓦风力发电项目PC工程总承包；中标工程价格：3.35亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5542218.d.html</link>
-            <guid>2656837</guid>
-            <pubDate>Wed, 04 May 2022 09:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MKM PARTNERS：将星巴克(SBUX.O)目标价从105美元下调至98美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5542104.d.html</link>
-            <guid>2656836</guid>
-            <pubDate>Wed, 04 May 2022 09:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国元证券：第一大股东拟增持5000万元-1亿元股份】国元证券公告，第一大股东国元金控集团于4月29日通过深交所交易系统集中竞价方式增持了公司股份168.46万股，后续计划在六个月内继续增持公司股份，金额不低于5000万元，不超过1亿元（含4月29日已增持股份金额）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7988184.d.html</link>
-            <guid>2656835</guid>
-            <pubDate>Wed, 04 May 2022 09:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行理事麦席勒：消费环境的恶化可能会给经济带来压力，包括瑞士在内。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5541455.d.html</link>
-            <guid>2656834</guid>
-            <pubDate>Wed, 04 May 2022 09:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行理事麦席勒：俄乌危机将对经济造成压力，但影响有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5541431.d.html</link>
-            <guid>2656833</guid>
-            <pubDate>Wed, 04 May 2022 09:29:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行：俄乌危机将对经济造成压力，但影响有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5541402.d.html</link>
-            <guid>2656832</guid>
-            <pubDate>Wed, 04 May 2022 09:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Match Group(MTCH.O)盘前跌超6%，因发布了不及预期的第二财季营收预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7987838.d.html</link>
-            <guid>2656831</guid>
-            <pubDate>Wed, 04 May 2022 09:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【锡业股份：控股子公司复工复产】锡业股份公告，当前，马关县当地疫情管控取得积极成效，公司积极与当地政府保持持续沟通并及时报送复工复产申请，经马关县疫情防控指挥部批准，华联锌铟已于5月1日复工复产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7987586.d.html</link>
-            <guid>2656830</guid>
-            <pubDate>Wed, 04 May 2022 09:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世纪华通：中标广东省某大型数据中心项目】世纪华通公告，公司旗下公司弈峰科技于近日收到国内某领先的大型云服务商出具的关于广东省某大型数据中心项目的《中标函》。弈峰科技将于2022-2024年为本次项目进行建设，首期交付期限17个月，参照国际标准UPTIME/Tier-Ⅳ、Tier-Ⅲ及国家标准GB50174/A级机房要求进行建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5540089.d.html</link>
-            <guid>2656829</guid>
-            <pubDate>Wed, 04 May 2022 09:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期盈亏平衡通胀率上升1个基点至4.43%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7986625.d.html</link>
-            <guid>2656828</guid>
-            <pubDate>Wed, 04 May 2022 09:18:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄外交部表示，莫斯科正在积极制定回应措施和法律机制，以同西方施加的非法制裁进行抗争，同时重要的是不损害本国经济。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7986428.d.html</link>
-            <guid>2656827</guid>
-            <pubDate>Wed, 04 May 2022 09:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【家联科技：拟取得家得宝75%股权】家联科技公告，公司拟以4500万元的价格受让双鱼塑胶持有的浙江家得宝科技股份有限公司45%的股权；同时以12000万元认购家得宝本次增发的4162.37万股股份，本次增发完成后，公司持有家得宝75%的股权，家得宝将成为公司的控股子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5539763.d.html</link>
-            <guid>2656826</guid>
-            <pubDate>Wed, 04 May 2022 09:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京健康宝48小时核酸证明如何计算，解答来了——】5月4日，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，市经济和信息化局副局长彭雪海介绍，新版北京健康宝将展示核酸检测结果及已过天数，时间计算以核酸检测时间为准，即检测机构出检测结果的时间，会晚于采样时间。如检测时间是5月4日上午10点，4日显示的核酸检测时间为0天，5日显示的核酸检测时间为1天，以此类推。如果场所要求出示48小时核酸证明，5月4日的检测在4日、5日、6日，健康宝分别显示0天、1天、2天，都是满足48小时核酸阴性证明要求的。（北京日报）]]></title>
-            <guid>2656825</guid>
-            <pubDate>Wed, 04 May 2022 09:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：俄罗斯捷尔任斯克东部工业基地发生火情】据俄媒消息，当地时间5月4日，俄罗斯捷尔任斯克东部工业基地发生严重火情，紧急情况部门已抵达现场灭火。暂无有关起火原因和人员伤亡的消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7986012.d.html</link>
-            <guid>2656824</guid>
-            <pubDate>Wed, 04 May 2022 09:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京密接人员10天集中隔离加7天居家隔离】5月4日，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，密接人员应实施10天集中隔离加7天居家隔离，次密接人员实行7天居家隔离，不符合居家隔离条件的实行7天集中隔离，高风险人群实行10天居家隔离加7天健康监测，期间按规范进行核酸检测和抗原自测。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5539404.d.html</link>
-            <guid>2656823</guid>
-            <pubDate>Wed, 04 May 2022 09:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：印度央行已将全球经济增长预期下调1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7985885.d.html</link>
-            <guid>2656822</guid>
-            <pubDate>Wed, 04 May 2022 09:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国经济专家：西方制裁不会迅速导致俄罗斯经济崩溃】德国基尔世界经济研究所经济专家朗哈默指出，基于俄罗斯的国家预算状况和经济结构特点，欧盟希望通过石油禁运等制裁措施迫使俄罗斯妥协的做法不会成功。当日，欧盟委员会主席冯德莱恩宣布对俄罗斯采取包括石油禁运在内的新一轮制裁措施。基尔世界经济研究所的研究表明，俄罗斯的经济具有很大弹性，西方制裁措施作用有限。朗哈默表示，战时经济基于自给自足的持久性，而俄罗斯的国家预算状况和经济结构特点都为其创造了良好条件。朗哈默认为，重要海外资本和贸易的流失产生的负面效应肯定将在长期中显现，但不会迅速导致俄罗斯经济的崩溃。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7985809.d.html</link>
-            <guid>2656821</guid>
-            <pubDate>Wed, 04 May 2022 09:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京首轮区域核酸共筛出3管阳性】5月4日，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，北京新冠肺炎疫情防控工作领导小组检疫检测工作组副组长、市卫生健康委员会副主任、新闻发言人李昂介绍，根据市疫情防控工作领导小组部署，本市5月3日、4日、5日，连续开展三轮区域核酸筛查。昨天是第一轮，我们设置采样点位9266个，采样台2.2万台，动用采样人员4.4万名，辅助保障人员13万名，累计采样1992万人，截至4日8时已全部完成检测，共筛出3管“十混一”混采阳性，分别位于朝阳区、丰台区、密云区。落位管控、复核转运、流调溯源等工作已同步进行中。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7985525.d.html</link>
-            <guid>2656820</guid>
-            <pubDate>Wed, 04 May 2022 09:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【润建股份：签订分散式新能源发电项目开发协议 预计总投资开发金额58亿】润建股份公告，近日，公司控股子公司润建新能源有限责任公司与桂林市永福县人民政府签订了分散式新能源发电项目开发协议，预计项目总容量约90万千瓦（其中包括分散式风电项目60万千瓦、分散式光伏项目30万千瓦），预计总投资开发金额为58亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5538822.d.html</link>
-            <guid>2656819</guid>
-            <pubDate>Wed, 04 May 2022 09:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为抑制通胀 印度央行四年来首次加息】印度央行今天将基准回购利率从4%的历史低点提高到4.40%，这是近四年来的首次。在俄乌长期冲突造成的不利影响下，印度货币当局逆转了疫情时期的宽松政策，以遏制亚洲第三大经济体所面临的通胀问题。印度央行行长沙克蒂坎塔·达斯表示，持续的通胀压力日益严峻，通胀存在持续过高并令通胀预期脱锚的风险。不过达斯表示，货币政策委员会仍然保持宽松立场，同时专注于退出宽松政策的策略。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5538574.d.html</link>
-            <guid>2656818</guid>
-            <pubDate>Wed, 04 May 2022 09:07:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度NIFTY指数下跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7985016.d.html</link>
-            <guid>2656817</guid>
-            <pubDate>Wed, 04 May 2022 09:06:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京朝阳区及公共交通运营调整区域内单位居家办公】5月4日，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，朝阳全区及公共交通运营调整的区域内单位，5月5日起实行居家办公，必须到岗的，尽量采取自驾方式，减少单位内部聚集，做到单位家庭两点一线。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7984814.d.html</link>
-            <guid>2656816</guid>
-            <pubDate>Wed, 04 May 2022 09:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京餐饮经营单位继续暂停堂食服务】5月4日，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建发布“五一”节后有关防疫措施，北京餐饮经营单位继续暂停堂食服务。 （北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7984394.d.html</link>
-            <guid>2656814</guid>
-            <pubDate>Wed, 04 May 2022 09:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国即时交付的批发天然气上涨1.63%，至125.00便士/撒姆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5537856.d.html</link>
-            <guid>2656813</guid>
-            <pubDate>Wed, 04 May 2022 09:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【挪威国家石油公司发布第一季度财报：与俄相关业务净减值10.8亿美元】挪威国家石油公司（Equinor）发布2022年第一季度财报，财报显示，该公司第一季度调整后的收益为180亿美元，税后收益为51.8亿美元，与俄相关业务净减值10.8亿美元。由于俄乌冲突增加了能源市场的不确定性，尤其是欧洲天然气市场，导致能源价格在本季度上涨。挪威国家石油公司（Equinor）在本季度实现了180亿美元的调整后收益，高于去年同期的40.9亿美元。调整后的税后收益为51.8亿美元，高于去年同期的12.9亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7984308.d.html</link>
-            <guid>2656812</guid>
-            <pubDate>Wed, 04 May 2022 09:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区3月零售销售月率录得-0.4%，创2021年12月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7984236.d.html</link>
-            <guid>2656811</guid>
-            <pubDate>Wed, 04 May 2022 09:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰次日交付的批发天然气价格上涨7.42%，至103.50欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5537723.d.html</link>
-            <guid>2656810</guid>
-            <pubDate>Wed, 04 May 2022 09:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区3月零售销售环比：-0.4%；预期：-0.2%；前值；0.3%。]]></title>
-            <guid>2656809</guid>
-            <pubDate>Wed, 04 May 2022 09:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京已基本摸清社会面隐匿传播底数】在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，北京已连续进行了多轮区域核酸筛查，基本摸清社会面隐匿传播底数。 （北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5537498.d.html</link>
-            <guid>2656808</guid>
-            <pubDate>Wed, 04 May 2022 08:59:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：印度央行将是主动和灵活的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5537469.d.html</link>
-            <guid>2656807</guid>
-            <pubDate>Wed, 04 May 2022 08:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【傲农生物：4月份生猪销售量环比增长6.83%】傲农生物公告，4月份公司生猪销售量38.52万头，销售量环比增长6.83%，同比增长87.14%。1-4月，公司累计销售生猪143.20万头，销售量同比增长93.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5537434.d.html</link>
-            <guid>2656806</guid>
-            <pubDate>Wed, 04 May 2022 08:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：尽管最近有所放缓，但外国直接投资净流量仍保持强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983926.d.html</link>
-            <guid>2656805</guid>
-            <pubDate>Wed, 04 May 2022 08:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国际文传电讯社援引国防部的话表示，俄罗斯黑海潜艇向乌克兰目标发射了两枚卡利布巡航导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5537399.d.html</link>
-            <guid>2656804</guid>
-            <pubDate>Wed, 04 May 2022 08:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京本轮疫情确诊病例总数已超过2020年新发地疫情病例总数】5月4日，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，首都这轮疫情确诊病例总数已超过2020年新发地批发市场聚集性疫情病例总数，新增病例连续多日在50例上下波动。昨日新增病例有所下降，但社会面筛查仍有零星病例，首都疫情防控形势依然非常严峻。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983854.d.html</link>
-            <guid>2656803</guid>
-            <pubDate>Wed, 04 May 2022 08:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：长期流动性保持稳定；印度的外汇储备规模庞大。]]></title>
-            <guid>2656802</guid>
-            <pubDate>Wed, 04 May 2022 08:57:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：4月前4周，俄罗斯石油出口量(不包括对前苏联国家的出口量)平均上升至488万桶/日，较3月份增长2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983666.d.html</link>
-            <guid>2656801</guid>
-            <pubDate>Wed, 04 May 2022 08:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：预计主要经济体的正常化步伐将显著加快。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983530.d.html</link>
-            <guid>2656800</guid>
-            <pubDate>Wed, 04 May 2022 08:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：将支持信贷吸收和增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983508.d.html</link>
-            <guid>2656799</guid>
-            <pubDate>Wed, 04 May 2022 08:55:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：将专注于调整疫情应对措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5536932.d.html</link>
-            <guid>2656798</guid>
-            <pubDate>Wed, 04 May 2022 08:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：印度央行的决定应该被视为经济增长的积极因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5536910.d.html</link>
-            <guid>2656797</guid>
-            <pubDate>Wed, 04 May 2022 08:54:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浦东建设：子公司签署战略合作框架协议】浦东建设公告，公司子公司浦东路桥与惠山经开区管委会签署《战略合作框架协议》，就长安创新未来城的片区开发、基础设施及市政公用项目建立长期共赢的战略合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5536894.d.html</link>
-            <guid>2656796</guid>
-            <pubDate>Wed, 04 May 2022 08:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄防长：北约向乌运输武器及物资的运输工具进入乌境内后将被视为合法打击目标】俄罗斯国防部长绍伊古5月4日表示，美国及其盟友继续向乌克兰输送武器，任何装载武器或向乌克兰军队提供物资的北约运输工具在进入乌克兰境内后都将被视为合法的打击目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983365.d.html</link>
-            <guid>2656795</guid>
-            <pubDate>Wed, 04 May 2022 08:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行将存款准备金率上调50个基点至4.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983333.d.html</link>
-            <guid>2656794</guid>
-            <pubDate>Wed, 04 May 2022 08:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据韩国《每日经济新闻》：SK集团、LG新能源获得现代汽车、起亚汽车的电池订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5536731.d.html</link>
-            <guid>2656793</guid>
-            <pubDate>Wed, 04 May 2022 08:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东望时代：拟以6500万元-1.3亿元回购公司股份】东望时代公告，公司拟以不超过5.5元/股的价格回购公司A股，回购股份的资金总额不低于6500万元（含）且不超过1.30亿元（含）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5536632.d.html</link>
-            <guid>2656792</guid>
-            <pubDate>Wed, 04 May 2022 08:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：银行体系流动性充裕。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983111.d.html</link>
-            <guid>2656791</guid>
-            <pubDate>Wed, 04 May 2022 08:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部宣布将日本首相和外相列入禁止入境名单】当地时间5月4日，俄罗斯外交部宣布将日本首相和外相列入禁止入境名单。该名单包括政要、媒体和学者等共63人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7983058.d.html</link>
-            <guid>2656790</guid>
-            <pubDate>Wed, 04 May 2022 08:51:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：全球小麦短缺正在产生影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5536171.d.html</link>
-            <guid>2656789</guid>
-            <pubDate>Wed, 04 May 2022 08:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国防部：俄空天军在夜间摧毁40个乌克兰军事目标】俄罗斯国防部发言人伊戈尔·科纳申科夫少将4日向记者表示，俄空天军在夜间摧毁了40个乌克兰军事目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5536031.d.html</link>
-            <guid>2656788</guid>
-            <pubDate>Wed, 04 May 2022 08:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席谢夫乔维奇：将确保让每个欧盟成员国都参与进来。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwiwst5535961.d.html</link>
-            <guid>2656787</guid>
-            <pubDate>Wed, 04 May 2022 08:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄新社：俄罗斯将把北约在乌克兰运送武器视为目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-04/detail-imcwipii7982483.d.html</link>
-            <guid>2656786</guid>
-            <pubDate>Wed, 04 May 2022 08:47:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

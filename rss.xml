@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 May 2022 18:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 19:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【乌克兰总统泽连斯基会见加拿大总理特鲁多】乌克兰总统泽连斯基在社交媒体发布了与加拿大总理特鲁多会见的照片。泽连斯基表示，特鲁多的访问对乌克兰意义重大，两国通过共同努力能够克服所有挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-09/detail-imcwipii8770424.d.html</link>
+            <guid>2662216</guid>
+            <pubDate>Sun, 08 May 2022 18:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【化肥涨价或致全球粮食减产 损失的大米够养5亿人】国际化肥市场供应收紧，价格飙高下，农民使用更少的肥料或意味着更少的收成。据彭博社报道，国际水稻研究所预测，下一季水稻产量可能下降10%，相当于损失3600万吨大米，这能够养活5亿人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-09/detail-imcwipii8769136.d.html</link>
+            <guid>2662215</guid>
+            <pubDate>Sun, 08 May 2022 18:23:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【意大利新增新冠肺炎确诊病例30804例 累计确诊超1679万例】意大利卫生部公布的最新统计数据显示，过去24小时内，该国新增新冠肺炎确诊病例30804例，累计确诊病例16798998例；新增死亡病例72例，累计死亡病例164489例；新增治愈病例42603例，累计治愈病例15514595例；现存确诊病例1119914例。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-09/detail-imcwipii8766469.d.html</link>
@@ -597,18 +609,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-08/detail-imcwiwst6268542.d.html</link>
             <guid>2661871</guid>
             <pubDate>Sun, 08 May 2022 08:57:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市5月7日共筛查1552万人 共筛出5管混采阳性】北京市今天召开第328场新冠肺炎疫情防控工作新闻发布会。发布会上，北京市卫生健康委员会副主任李昂介绍，近期我们组织了多轮核酸检测筛查，5月7日共筛查1552万人，全部完成检测，共筛出5管混采阳性，其中，朝阳、顺义各2管，房山1管。自4月25日起，北京市已开展了8轮区域核酸筛查，共筛出60管混采阳性，为阻断疫情传播、早日实现社会面动态清零发挥了重要作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-08/detail-imcwipii8714161.d.html</link>
-            <guid>2661870</guid>
-            <pubDate>Sun, 08 May 2022 08:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本周816.51亿市值限售股解禁】数据显示，本周（5月9日~5月13日）共有81家公司限售股陆续解禁，合计解禁量70.91亿股，按5月6日收盘价计算，解禁市值为816.51亿元。从解禁市值来看，解禁市值居前三位的是：东方盛虹（339.10亿元）、财达证券（55.84亿元）、深粮控股（47.41亿元）。从解禁占比来看，解禁占比居前三位的是：有友食品（69.45%）、日丰股份（68.67%）、深粮控股（56.89%）。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-08/detail-imcwipii8714052.d.html</link>
-            <guid>2661869</guid>
-            <pubDate>Sun, 08 May 2022 08:55:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

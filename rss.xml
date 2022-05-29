@@ -4,13 +4,132 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 29 May 2022 12:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 13:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[北京东城区新增1名阳性感染者，在金融街工作。（北京时间）]]></title>
+            <title><![CDATA[斯里兰卡总理：正在努力建立两个新的货币事务委员会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4051936.d.html</link>
+            <guid>2687394</guid>
+            <pubDate>Sun, 29 May 2022 13:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯里兰卡总理：希望将国家财政收入提高到GDP的14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5476355.d.html</link>
+            <guid>2687393</guid>
+            <pubDate>Sun, 29 May 2022 13:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯里兰卡总理：斯里兰卡需要加强政府财政相关的法律。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4051811.d.html</link>
+            <guid>2687392</guid>
+            <pubDate>Sun, 29 May 2022 13:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯里兰卡总理：斯里兰卡的问题不仅限于经济方面。拟议的第21条修正案将增加斯里兰卡议会的权力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5475968.d.html</link>
+            <guid>2687391</guid>
+            <pubDate>Sun, 29 May 2022 13:18:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津港集团货物及集装箱吞吐量逆势“双增长”】截至目前，天津港集团今年货物吞吐量同比增长1.6%；集装箱吞吐量同比增长2.1%，增幅高于全国沿海港口平均水平，实现逆势“双增长”。（天津日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4051422.d.html</link>
+            <guid>2687390</guid>
+            <pubDate>Sun, 29 May 2022 13:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建发布山洪灾害风险黄色预警】福建省水文水资源勘测中心于5月29日19时32分发布山洪灾害风险黄色预警 ：根据降雨数值预报，预计未来24小时，以下区域可能出现山洪灾害风险：浦城县、光泽县、松溪县发生山洪灾害可能性较大（黄色预警）；武夷山市、建阳区可能发生山洪灾害（蓝色预警）。请当地有关单位和公众注意做好转移避险等防范工作。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5475624.d.html</link>
+            <guid>2687389</guid>
+            <pubDate>Sun, 29 May 2022 13:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知名苹果爆料人Mark Gurman：iOS 16将在未来支持息屏显示功能，类似于最新的Apple Watch，有可能是iPhone 14 Pro和iPhone 14 Pro Max的专属功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4050926.d.html</link>
+            <guid>2687388</guid>
+            <pubDate>Sun, 29 May 2022 13:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【端午节前北京开展粽子专项抽检守牢食品安全底线】“端午节”即将来临，记者今天从北京市市场监督管理局了解到，该局组织对北京市大型超市、农贸市场、小食杂店、生产企业、餐饮单位、网络平台等生产经营的粽子开展食品安全监督抽检。经检验，抽取的73批次粽子中，除2批次商业无菌项目不合格外，其余粽子产品全部合格。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5475286.d.html</link>
+            <guid>2687387</guid>
+            <pubDate>Sun, 29 May 2022 13:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海外中国ETF重现强劲流入，机构发话：增持时机已到】进入5月以来，KWEB截至5月26日，吸收资金净流入4.6亿美元。结合ETF的净值，5月26日KWEB净值恰出现了显著反弹。今年以来，KWEB整体显示了较为显著的资金净流入。不过，在2月初到3月中旬，资金出现了较为显著的净流出趋势。而到了5月资金净流入的趋势非常明显了。知名量化投资机构锐联在纽交所上市的全球首只中国A股主动ETF逆势迎来大幅认购，其管理规模也随之突破一亿美元。在本周的达沃斯论坛上，纽约梅隆等在内的投资机构也表达出中国公司目前市场情绪已经非常悲观，到了可以逐步增持入场的时机了。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4049563.d.html</link>
+            <guid>2687386</guid>
+            <pubDate>Sun, 29 May 2022 13:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其国防部：将举行爱琴海地区最大规模联合军演】当地时间5月29日，土耳其国防部发表声明称，土耳其武装部队正在为“EFES-2022”联合军事演习做准备，这将是爱琴海地区最大规模的联合军事演习，将有37个国家、累计超过1万人参与此次军演。声明称，土耳其武装部队将与意大利、阿塞拜疆等国的部队一起进行登陆军事演习。来自意大利、巴基斯坦、阿尔巴尼亚、哈萨克斯坦等国的军舰也将参加。演习中，美国武装部队的直升机、榴弹炮、装甲车等也将参与部署。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5474084.d.html</link>
+            <guid>2687385</guid>
+            <pubDate>Sun, 29 May 2022 13:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统办公室：乌克兰总统泽连斯基探访了哈尔科夫地区的乌克兰军队，这是他自俄乌冲突爆发以来首次正式到访基辅以外的地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5473862.d.html</link>
+            <guid>2687384</guid>
+            <pubDate>Sun, 29 May 2022 12:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知名苹果爆料人Mark Gurman：iPhone锁屏功能有望随着IOS 16得到升级，苹果正计划对锁屏进行重大改进，包括推出具有小组件功能的壁纸。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4049074.d.html</link>
+            <guid>2687383</guid>
+            <pubDate>Sun, 29 May 2022 12:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃尔多安称将与普京泽连斯基分别通话，克里姆林宫：有通话计划】据俄罗斯塔斯社29日援引土耳其NTV电视台报道，土耳其总统埃尔多安当天结束访问阿塞拜疆的行程，他在回国途中接受土耳其媒体采访时透露，自己将于5月30日分别同俄罗斯总统普京和乌克兰总统泽连斯基通话，呼吁各方以对话和外交途径解决冲突。 报道称，谈及俄乌冲突，埃尔多安称，“我们希望俄乌之间的这场战争尽快通过缔结和平条约而结束，但事态似乎每天都朝着更为不利的方面发展，周一（30日）我将同俄罗斯（总统）以及乌克兰（总统）通电话，我们将继续呼吁各方通过对话和外交途径（解决冲突）”。 另据俄新社29日最新报道，俄总统新闻秘书、克宫发言人佩斯科夫也向该媒体表示，俄总统普京30日将同埃尔多安通电话，“是的，有这样的计划”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5473463.d.html</link>
+            <guid>2687382</guid>
+            <pubDate>Sun, 29 May 2022 12:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海浦东制定出台《加快经济恢复迈出引领区建设更快步伐实施方案》 提振市场信心】上海浦东新区研究制定了《浦东新区加快经济恢复迈出引领区建设更快步伐实施方案》。其中，在注重保市场主体、提信心、稳预期方面，新区制定了四方面10条措施：一是保产业链供应链稳定。制定发布新区各行业领域复工复产复商复市疫情防控指引，畅通产业链供应链。二是扩大租金减免范围。落实阶段性房租减免政策，加大超市卖场纾困力度。三是强化金融助企纾困功能。支持融资担保机构进一步扩大中小微企业融资担保业务规模，加强各类助企纾困融资产品的梳理汇总和宣传推广。四是多渠道减费让利。落实减税降费政策，减免环卫作业单位生活垃圾处理费用，降低特种设备检验检测费用，采取切实有效措施制止乱收费、乱摊派、乱罚款行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5472887.d.html</link>
+            <guid>2687381</guid>
+            <pubDate>Sun, 29 May 2022 12:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列公布到2025年可再生能源占比达到20%的路线图。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5472428.d.html</link>
+            <guid>2687380</guid>
+            <pubDate>Sun, 29 May 2022 12:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：意大利考虑针对延长不良贷款机制收紧相关条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4047655.d.html</link>
+            <guid>2687379</guid>
+            <pubDate>Sun, 29 May 2022 12:41:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水利部进一步安排部署水库安全度汛和山洪灾害防御工作】水利部副部长刘伟平主持会商，进一步分析研判当前强降雨过程防御形势，安排部署水库安全度汛、中小河流洪水和山洪灾害防御等重点工作。要求各地进一步落实责任，加强雨水情监测预报，特别是局地短历时强降雨和中小河流洪水监测预报，及时发出预警；抓好中小河流洪水防御、中小水库特别是病险水库安全度汛工作，督促落实小型水库防汛“三个责任人”和“三个重点环节”工作，加强安全管理，提升险情应对处置能力；严格按照水利部印发的《关于加强山洪灾害防御工作的指导意见》要求，落实山洪灾害监测预警、提请人员转移避险、信息报送等各项措施，最大限度保障人民群众生命安全；始终坚持问题导向、结果导向，持续开展水旱灾害防御查漏补缺和风险隐患排查工作，建立整改台账，动态跟踪整改销号。]]></title>
+            <guid>2687378</guid>
+            <pubDate>Sun, 29 May 2022 12:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卫哲发起的Vision Deal通过港交所上市聆讯】港交所5月29日披露文件显示，SPAC公司Vision Deal HK Acquisition Corp.（简称“Vision Deal”）已通过港交所上市聆讯，并披露聆讯后的招股书。此前，由嘉御资本创始人兼董事长卫哲、DealGlobe易界和Opus创富融资联合发起的特殊目的收购公司（SPAC）Vision Deal在2月15日向港交所递表，花旗和海通国际担任联席保荐人。Vision Deal指出，将重点关注前沿科技并聚焦于汽车的智能化领域，以及供应链优势推动的跨境出海品牌和国内新消费企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5471897.d.html</link>
+            <guid>2687376</guid>
+            <pubDate>Sun, 29 May 2022 12:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安：土耳其和以色列将就从地中海东部通过土耳其向欧洲输送天然气的相关问题举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5471572.d.html</link>
+            <guid>2687375</guid>
+            <pubDate>Sun, 29 May 2022 12:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国累计发现16例猴痘确诊患者】据法国卫生部门当地时间5月29日消息，截至当天，法国已累计发现猴痘确诊病例16例，其中12例位于法兰西岛大区（大巴黎地区）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4046732.d.html</link>
+            <guid>2687374</guid>
+            <pubDate>Sun, 29 May 2022 12:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京东城：新增新冠肺炎病毒感染者1名】5月29日晚，东城区新增新冠肺炎病毒感染者1名，目前已转入定点医疗机构。感染者居住地为东城区天坛街道西草市东街22号，工作地为西城区金融大街9号金融街中心写字楼地下一层。5月26日作为外区确诊病例的密切接触者集中隔离，29日核酸检测阳性。主要风险点位：5月25日10:25-10:30，花家怡园（金融街中心店）17:30-17:35，西草市东街92号面条店18:50-18:56，天桥市集。]]></title>
             <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4046186.d.html</link>
             <guid>2687373</guid>
             <pubDate>Sun, 29 May 2022 12:26:45 GMT</pubDate>
@@ -482,125 +601,6 @@
             <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4025293.d.html</link>
             <guid>2687294</guid>
             <pubDate>Sun, 29 May 2022 09:07:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：西城区、朝阳区、石景山区、通州区和大兴区超过3天未报告社会面筛查感染者】北京市疾病预防控制中心副主任刘晓峰介绍，4月22日至5月28日24时，平谷区无感染者报告；门头沟区、怀柔区、延庆区、经开区未报告社会面筛查感染者；顺义区、密云区超过10天未报告社会面筛查感染者；房山区超过7天未报告社会面筛查感染者；西城区、朝阳区、石景山区、通州区和大兴区超过3天未报告社会面筛查感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5449286.d.html</link>
-            <guid>2687291</guid>
-            <pubDate>Sun, 29 May 2022 09:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京一居家人员多次外出致5千余人隔离】北京疫情防控工作发布会通报：5月23日，孙某，男，42岁，作为海淀华熙广场关联人员，接到居家隔离通知，居家隔离期间，该人违反足不出户的要求，多次外出，在小区内活动，造成疫情传播扩散风险，5月28日孙某及其妻子核酸检测阳性，致使同楼258人被转运集中隔离，其他5000余名小区居民居家隔离，目前警方已依法对孙某刑事立案侦查。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4024889.d.html</link>
-            <guid>2687290</guid>
-            <pubDate>Sun, 29 May 2022 09:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【梦网科技：与电信信元签订5G消息回落解决方案技术服务合同】梦网科技发布公告，子公司深圳梦网近日与电信信元签署了《[5G消息回落解决方案]技术服务合同》。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5449054.d.html</link>
-            <guid>2687289</guid>
-            <pubDate>Sun, 29 May 2022 09:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：菲律宾央行候任行长MEDALLA暗示6月将加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5448970.d.html</link>
-            <guid>2687288</guid>
-            <pubDate>Sun, 29 May 2022 09:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京外卖员近三日三次核酸阴性方可接单】5月29日，在北京市新型冠状病毒肺炎疫情防控工作第349场新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，本市多措并举做好电商平台和外卖人员的防疫和保供工作。外卖人员应严格落实每日一核酸，持近三日三次核酸检测阴性证明方可接单。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4024617.d.html</link>
-            <guid>2687287</guid>
-            <pubDate>Sun, 29 May 2022 09:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【傲农生物：拟6亿元设立子公司作为生猪育种核心业务的控股平台】傲农生物公告，公司拟在福建省漳州市投资设立福建傲芯种业科技有限公司，目标公司成立后，公司拟将下属生猪育种板块部分子公司股权进行整合由目标公司持股，目标公司作为公司生猪育种核心业务的控股平台。目标公司注册资本6亿元，公司持股100%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5448562.d.html</link>
-            <guid>2687286</guid>
-            <pubDate>Sun, 29 May 2022 09:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：有两名感染者居家隔离期间多次在小区内活动】北京市疾控中心副主任刘晓峰介绍，感染者1857、1862为夫妻关系，5月23日社区通知二人进行居家隔离，但在居家隔离期间二人仍多次在小区内活动，并到超市购物，增加了疫情传播风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4023858.d.html</link>
-            <guid>2687285</guid>
-            <pubDate>Sun, 29 May 2022 08:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京卫健委：北京中同蓝博医学检验实验室违规多管混检】北京市卫健委党委委员王小娥介绍，在监督检查过程中，市卫健委发现一起违规多管混检质量事件，现通报如下：28日，市卫健委组织专家对阳性病例既往阴性检测结果的样本溯源检查，通过视频检查和查看PCR仪上的扩增记录发现，北京中同蓝博医学检验实验室溯源记录不完整，记录规则不清晰，不能提供原始标本流转单和扩增板原始纸质记录，部分时间点扩增文件记录与实验室自述检测数量不符，违规对多管样本进行混管检测。以上情况严重违反质量安全规定，影响检测结果准确性，导致对核酸检测阳性人员发现和管控不及时，造成疫情进一步传播风险。在固化证据的基础上，市卫健委立即对北京中同蓝博医学检验实验室进行了严肃处理，勒令其立即停止执业，启动吊销医疗机构执业许可证程序，并配合公安部门予以立案侦查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4023835.d.html</link>
-            <guid>2687284</guid>
-            <pubDate>Sun, 29 May 2022 08:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【润丰股份回复关注函：控股子公司停产对公司日常生产经营不会产生重大不利影响】润丰股份回复深交所关注函，5月21日，承包商2名人员在公司控股子公司宁夏格瑞对一废水储罐维修呼吸阀过程中，发生意外事故，致使承包商的2名人员遇难。事故原因和相关责任问题正在调查中，尚未出具事故调查报告，因此暂无法预计宁夏格瑞恢复生产时间。宁夏格瑞的营业收入及净利润占公司合并报表营业收入及净利润的比例较低，宁夏格瑞停产期间每月影响原药自产量约1600吨，此次停产事项对公司整体原材料供应、产能、产量、日常生产经营以及财务状况不会产生重大不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4023750.d.html</link>
-            <guid>2687283</guid>
-            <pubDate>Sun, 29 May 2022 08:56:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴阿加莎正在加强。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5447877.d.html</link>
-            <guid>2687282</guid>
-            <pubDate>Sun, 29 May 2022 08:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京两地调整为低风险】今天（5月29日），北京市召开第349场新冠肺炎疫情防控工作新闻发布会。发布会上，北京市疾病预防控制中心副主任刘晓峰介绍，截至2022年5月28日24时，经市疾控中心评估，按照《北京市新冠肺炎疫情风险分级标准》，朝阳区1地、房山区1地，调整风险等级如下： 朝阳区劲松街道农光东里社区、房山区阎村镇大紫草坞村近14天各累计报告1例本土确诊病例，即日起由中风险地区降为低风险地区。 截至目前，全市共有高风险地区7个，中风险地区14个。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4023423.d.html</link>
-            <guid>2687281</guid>
-            <pubDate>Sun, 29 May 2022 08:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金浦钛业：拟12.8亿元投建新能源电池材料一体化项目】金浦钛业发布公告，公司拟在安徽（淮北）新型煤化工合成材料基地建设20万吨/年电池级磷酸铁、20万吨/年磷酸铁锂等新能源电池材料一体化项目。项目投资金额为12.8亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5447589.d.html</link>
-            <guid>2687280</guid>
-            <pubDate>Sun, 29 May 2022 08:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据塔斯社：俄罗斯国防部表示，俄罗斯军队在克里维里赫(Kryvyi Rih)摧毁了乌克兰军队的大型兵工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4023308.d.html</link>
-            <guid>2687279</guid>
-            <pubDate>Sun, 29 May 2022 08:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5月29日0至15时北京新增本土感染者7例，均为隔离观察人员】5月29日0时至15时，北京新增本土新冠肺炎病毒感染者7例（感染者1862至1868），海淀区6例，西城区1例；普通型1例，轻型3例，无症状感染者3例；均为隔离观察人员，社会面筛查人员为零。均已转至定点医院隔离治疗，相关风险点位及人员已管控落位。 （北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5447340.d.html</link>
-            <guid>2687278</guid>
-            <pubDate>Sun, 29 May 2022 08:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北京疫情防控工作发布会通报：5月29日0时至15时，北京新增本土新冠肺炎病毒感染者7例。（央视新闻）]]></title>
-            <guid>2687277</guid>
-            <pubDate>Sun, 29 May 2022 08:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京已连续两天无新增社会面病例】5月29日，在北京市新型冠状病毒肺炎疫情防控工作第349场新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，经过一个多月的连续奋战，北京已连续七天新增病例数明显下降，连续两天无新增社会面病例，疫情得到有效控制，形势稳中向好。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4021841.d.html</link>
-            <guid>2687276</guid>
-            <pubDate>Sun, 29 May 2022 08:41:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST猛狮：公司股票终止上市】*ST猛狮发布公告，深交所决定公司股票终止上市。退市整理期的交易起始日为6月6日，退市整理期为十五个交易日，预计最后交易日期为6月24日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5445807.d.html</link>
-            <guid>2687275</guid>
-            <pubDate>Sun, 29 May 2022 08:39:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国香港报告新增237例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4020748.d.html</link>
-            <guid>2687274</guid>
-            <pubDate>Sun, 29 May 2022 08:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富春股份：签署《古剑奇谭三》游戏改编授权协议】富春科技公告，全资子公司上海骏梦与北京九凤签署了《古剑奇谭三》游戏改编授权协议，北京九凤授权上海骏梦《古剑奇谭三》游戏的改编权，用于改编、发行、运营及推广一款移动游戏及一款VR游戏。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizmscu4020625.d.html</link>
-            <guid>2687273</guid>
-            <pubDate>Sun, 29 May 2022 08:32:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安诺其：拟发行可转债募资不超4亿元】安诺其公告，公司拟发行可转债募集资金总额不超过4亿元，扣除发行费用后拟投资于高档差别化分散染料及配套建设项目（一期）及补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-05-29/detail-imizirau5444580.d.html</link>
-            <guid>2687272</guid>
-            <pubDate>Sun, 29 May 2022 08:30:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

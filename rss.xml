@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 04 Jun 2022 18:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 19:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄罗斯回击：限制又一原材料出口！全球“芯慌”或将加剧】据路透社报道，当地时间2日，俄罗斯工业和贸易部表示，俄罗斯在今年年底前将限制氖气等惰性气体的出口，以回应欧盟此前针对该国半导体出口方面的限制。氖气、氪气、氙气等惰性气体是芯片制造过程中不可或缺的原材料。而据相关估计，俄罗斯惰性气体供应量占全球供应总量的30%。在俄乌冲突爆发后，全球氖气、氙气价格曾一度出现跳涨。分析认为，俄罗斯的惰性气体出口限制措施可能会加剧全球芯片市场的供应短缺问题。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-05/detail-imizirau6585687.d.html</link>
+            <guid>2694828</guid>
+            <pubDate>Sat, 04 Jun 2022 19:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白俄罗斯总统表态 乌克兰可经由白俄罗斯出口粮食】白俄罗斯通讯社3日报道，白俄罗斯总统卢卡申科表示，明斯克做好了准备允许乌克兰的粮食通过白俄罗斯运输到波罗的海港口，条件是从这些港口运输白俄罗斯的货物得到放行。报道称，卢卡申科当天与联合国秘书长古特雷斯通电话。卢卡申科说，“白俄罗斯准备好为乌克兰的粮食放开必要的铁路运力，并提议在白俄罗斯、乌克兰以及准备好提供港口的国家之间举行对话。与此同时，最重要的是，相关港口也应该对白俄罗斯的货物开绿灯。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-05/detail-imizmscu5126900.d.html</link>
+            <guid>2694827</guid>
+            <pubDate>Sat, 04 Jun 2022 18:42:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【下周将有67只股票面临限售股解禁 “奶茅”将解禁超110亿元】Wind数据显示，除将上市的新股外，下周将有67只股票面临限售股解禁，合计解禁量为29.33亿股，按最新收盘价计算，合计解禁市值为639.50亿元，环比增加112.69%。按最新收盘价计算，东航物流、伊利股份、欧林生物解禁市值居前，分别为141.13亿元、114.97亿元、54.47亿元。具体来看，东航物流6月9日将解禁6.43亿股，均为首发原股东限售股份；伊利股份6月9日将解禁3.18亿股，均为定向增发机构配售股份；欧林生物6月8日将解禁2.52亿股，为首发原股东限售股份和首发战略配售股份。从市场表现来看，Wind数据显示，东航物流、伊利股份、欧林生物6月份以来涨跌幅分别为-2.05%、-2.38%、1.45%，伊利股份定向增发机构配售股份解禁收益率为-2.09%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-05/detail-imizmscu5125054.d.html</link>
@@ -588,17 +600,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5086260.d.html</link>
             <guid>2694637</guid>
             <pubDate>Sat, 04 Jun 2022 09:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟经济委员真蒂洛尼：目标是在夏季过后提议改革欧盟稳定公约。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6542077.d.html</link>
-            <guid>2694636</guid>
-            <pubDate>Sat, 04 Jun 2022 09:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：（与伊朗）达成协议以回到《联合全面行动计划》（JCPOA）的可能性正在缩小。]]></title>
-            <guid>2694635</guid>
-            <pubDate>Sat, 04 Jun 2022 09:28:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

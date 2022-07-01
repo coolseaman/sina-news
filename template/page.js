@@ -10,7 +10,7 @@ fetch('./rss.json')
     const li = document.createElement('li');
     const p = document.createElement('p');
     const timeObj = new Date(i.date_modified);
-    p.innerHTML = `${i.title} （<a href="${i.url}" target="_blank">${timeObj.getHours()}:${timeObj.getMinutes()}</a>）`;
+    p.innerHTML = `${i.title} （<a href="${i.url}" target="_blank">${timeObj.getMonth()}-${timeObj.getDay()} ${timeObj.getHours()}:${timeObj.getMinutes()}</a>）`;
     li.appendChild(p);
     fragment.appendChild(li);
   });

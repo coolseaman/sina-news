@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 17 Jul 2022 18:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 19:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[天津7月18日新增2名本土新冠病毒阳性感染者，均为主动就医筛查发现。（央视）]]></title>
+            <guid>2743334</guid>
+            <pubDate>Sun, 17 Jul 2022 18:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁波奉化休闲渔船侧翻事故已致6人死亡】据“奉化发布”消息，截至7月18日零时35分，发生在宁波奉化区翡翠湾码头的休闲渔船侧翻事故，已致6人经抢救无效死亡，另有1人正在紧急搜救中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizirav4027446.d.html</link>
+            <guid>2743333</guid>
+            <pubDate>Sun, 17 Jul 2022 18:19:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【利比亚宣布恢复中断近3个月的港口石油出口】当地时间7月17日，利比亚石油和天然气部发表声明，宣布正式恢复已中断近3个月的港口石油出口。今年4月，利比亚国家石油公司宣布该国最大油田沙拉拉油田等遭遇“不可抗力”，石油生产被迫中断。7月15日，由利比亚民族团结政府新任命的国家石油公司总裁法尔哈特宣布解除该国油田和港口的“不可抗力”状态。法尔哈特表示，利比亚将全面恢复所有石油产区的生产活动，日产量将于近期恢复至300万桶。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-18/detail-imizmscv2155425.d.html</link>
@@ -606,18 +617,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2076901.d.html</link>
             <guid>2743229</guid>
             <pubDate>Sun, 17 Jul 2022 08:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本研究：BA.5毒株具备此前流行毒株5种变异特征 更易侵入人体细胞】据日本《读卖新闻》17日报道，近期，奥密克戎BA.5亚型毒株致日本疫情急剧扩散。日本专家认为，BA.5毒株具备迄今为止广泛传播的阿尔法、德尔塔等毒株的5种变异特征，传染性比BA.2毒株更强。此外，BA.5毒株的传染性和逃逸人类免疫反应能力或进一步增强。 (海外网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2076486.d.html</link>
-            <guid>2743228</guid>
-            <pubDate>Sun, 17 Jul 2022 08:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【哈尔斯：控股股东拟转让11.85%股份】哈尔斯公告，控股股东吕强先生拟通过协议转让的方式向龚文华先生、魏迪波女士分别转让2100万股、2800万股股份，合计占公司总股本的11.85%，转让价款共计2.87亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2075922.d.html</link>
-            <guid>2743227</guid>
-            <pubDate>Sun, 17 Jul 2022 08:28:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

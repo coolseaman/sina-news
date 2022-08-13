@@ -4,11 +4,27 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Aug 2022 18:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 19:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 【吉林省有13座水库超汛限水位】据13日20时统计，吉林省有13座水库水位超汛限，其中，大型水库3座，月亮泡水库超汛限水位0.38米、石头口门水库超汛限水位0.02米、二龙山水库超汛限水位0.02米；中型水库3座，黄河水库超汛限水位0.32米、杨木水库超汛限水位0.02米、时家店超汛限水位0.01米；小型水库5座，超汛限水位0.01~0.13米，均在有序泄流。]]></title>
+            <guid>2771666</guid>
+            <pubDate>Sat, 13 Aug 2022 18:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国单日新增新冠肺炎确诊病例21175例】法国公共卫生部门8月13日当天公布的数据显示，过去24小时，法国新增新冠肺炎确诊病例21175例；无新增死亡病例，累计死亡病例153064例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8052733.d.html</link>
+            <guid>2771652</guid>
+            <pubDate>Sat, 13 Aug 2022 18:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：特朗普的律师曾签署声明称所有机密材料已归还】据《纽约时报》8月13日报道，四名知情人士称，美国前总统特朗普的一名律师在6月曾签署了一份声明，称特朗普海湖庄园住所内的所有机密材料都已归还给了政府。（央视）]]></title>
+            <guid>2771633</guid>
+            <pubDate>Sat, 13 Aug 2022 18:26:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【叙利亚媒体：美军在叙东北部转运一批盗采石油】据叙利亚通讯社13日报道，美军当天转运一批在叙东北部盗采的石油至伊拉克境内。叙通社援引当地消息人士的话报道，美军当天发出一支由89辆油罐车组成的车队，将在叙盗采的石油通过“非法”过境点转运至伊拉克境内的美军基地。报道说，美军11日以类似方式使用144辆油罐车转运盗采石油。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8051876.d.html</link>
@@ -583,24 +599,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-13/detail-imizirav8003229.d.html</link>
             <guid>2771121</guid>
             <pubDate>Sat, 13 Aug 2022 07:49:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北怀来县：发现核酸检测初筛阳性人员 各小区（村）实行静默管理】据“怀来发布”微信公众号，8月13日，怀来县新冠肺炎疫情防控指挥部发布通告称，怀来县荣庆小区C区3号楼出现核酸检测初筛阳性人员，系8月12日从新疆来怀人员，目前防控工作正在有序进行。各小区（村）实行静默管理，非必要不外出，原则上必须居家。全县居民（含滞留人员）非必要不离开怀来。如有特殊情况确需离开怀来的，要向属地乡镇疫情防控办报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-13/detail-imizmscv6066654.d.html</link>
-            <guid>2771120</guid>
-            <pubDate>Sat, 13 Aug 2022 07:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：中国智能手机在俄销量激增】据今日俄罗斯电视台网站报道，俄罗斯《生意人报》11日援引行业数据报道，中国品牌已经挤掉世界最大智能手机销售商苹果和三星，占据了俄罗斯智能手机市场的大部分份额。报道称，在中国品牌中，小米的增幅最大。上个月，小米在俄罗斯智能手机的销量排名第一，与其子品牌POCO合计占据的市场份额达到42%。总部设在深圳的手机品牌真我7月份的销量占到俄罗斯智能手机市场17%的份额，高于上个月的13.4%。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-13/detail-imizirav8001910.d.html</link>
-            <guid>2771119</guid>
-            <pubDate>Sat, 13 Aug 2022 07:35:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行副行长：印度有充足的粮食储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-13/detail-imizirav8001054.d.html</link>
-            <guid>2771118</guid>
-            <pubDate>Sat, 13 Aug 2022 07:27:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,50 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Aug 2022 20:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 21:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据三亚发布：2022年8月14日0—24时，海南三亚市新增306例确诊病例、472例无症状感染者。8月1日0时至8月14日24时，累计发现确诊病例3305例、无症状感染者4006例。（三亚发布）]]></title>
+            <guid>2772218</guid>
+            <pubDate>Sun, 14 Aug 2022 21:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：08月15日04时54分在四川宜宾市长宁县附近发生3.1级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2772217</guid>
+            <pubDate>Sun, 14 Aug 2022 21:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美军在索马里中部发动空袭 打死13名“青年党”武装分子】当地时间8月14日，据索马里国家电视台报道，当天下午2时左右，美军在索马里中部发动空袭，打死了13名“青年党”武装分子。阿纳多卢通讯社援引匿名官员的消息说，空袭摧毁了希兰地区的“青年党”武装分子藏身处。另据索马里国家电视台报道，这次行动是与索马里国民军协调进行的。美国军方尚未确认发动此次空袭。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8160912.d.html</link>
+            <guid>2772216</guid>
+            <pubDate>Sun, 14 Aug 2022 20:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列对叙利亚大马士革周边及塔尔图斯发动空袭 致3死3伤】据叙利亚军方消息，当地时间14日20时50分左右，以色列自黎巴嫩贝鲁特东南方向对叙利亚大马士革周边地区发动空袭，与此同时，以色列自地中海方向对塔尔图斯省南部目标发动空袭。叙利亚军方表示，叙防空系统迅速启动并拦截部分敌对导弹，但袭击仍导致3名士兵死亡，另有3人受伤，空袭引发的火灾已经被控制住。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6221763.d.html</link>
+            <guid>2772201</guid>
+            <pubDate>Sun, 14 Aug 2022 20:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【抗通胀非易事 押注美联储结束紧缩恐落空】美联储一段时间以来的连续大幅加息，似乎收到了一些效果。美国7月CPI涨幅8.5%，较6月的9.1%有所下降。美国通胀高位回落，给一些市场人士带来通胀高点已过的乐观预期，期盼接下来美联储紧缩的节奏可以放缓。另外一些分析师则警告市场，不要过于乐观，提醒7月物价涨幅的回落不代表美国通胀周期和货币紧缩周期的结束。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6221593.d.html</link>
+            <guid>2772189</guid>
+            <pubDate>Sun, 14 Aug 2022 20:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克：特斯拉已生产了超过300万辆汽车，其中特斯拉上海工厂生产了100万辆汽车。]]></title>
+            <guid>2772185</guid>
+            <pubDate>Sun, 14 Aug 2022 20:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌鲁木齐新增初筛阳性人员74例】8月14日，乌鲁木齐市无新增新冠肺炎确诊病例，在集中隔离医学观察点和静态管理区域核酸检测中，初筛新冠病毒阳性人员74例，已转运至定点医疗机构接受隔离医学观察。目前，流调溯源、追踪排查等工作同步开展，所涉及的场所已进行终末消毒。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6221369.d.html</link>
+            <guid>2772166</guid>
+            <pubDate>Sun, 14 Aug 2022 20:20:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【小盘基金销售火爆 一个月386亿资金涌入中证1000ETF】近来，中证1000股指期货的推出和中证1000ETF的发行，将小盘股行情推上一个新高潮，仅一个月便有约386亿元资金涌入中证1000ETF，相关的小盘股基金也热度高涨。小盘股基金的迅速走红，不仅因为大盘风格基金的落寞，也因为市场风格的两极分化。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6220676.d.html</link>
@@ -567,47 +606,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8118840.d.html</link>
             <guid>2771894</guid>
             <pubDate>Sun, 14 Aug 2022 09:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州市番禺区：8月13日晚，我区在集中隔离场所在管密切接触者中发现1名省外来穗人员核酸检测阳性。（广州番禺发布）]]></title>
-            <guid>2771893</guid>
-            <pubDate>Sun, 14 Aug 2022 09:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海已接收海南返沪航班30架次5000余人 抵沪需 “3+4”健康管理】上海市卫生健康委副主任赵丹丹介绍，截至目前，上海已安排接收海南返沪航班30架次，共接返5000余人。抵沪后，由专人专车 “点对点”闭环转运至临时留验点进行核酸检测。检测结果阴性者，由专人专车“点对点”闭环转运至在沪居住地，开展“3天居家隔离医学观察+4天居家健康监测”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizmscv6180547.d.html</link>
-            <guid>2771892</guid>
-            <pubDate>Sun, 14 Aug 2022 09:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宇晶股份：董事罗群强拟减持公司股份不超过73.86万股】宇晶股份公告，董事罗群强拟减持公司股份不超过73.86万股，即不超过公司总股本的0.7386%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8118545.d.html</link>
-            <guid>2771891</guid>
-            <pubDate>Sun, 14 Aug 2022 09:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中孚实业：子公司受限电政策影响减产】中孚实业8月14日晚间公告，接国网四川省电力公司通知，因极端天气影响，电力供应紧张，子公司广元林丰和参股子公司广元中孚部分产能需于2022年8月14日起停产一周。广元林丰本次限电政策预计影响电解铝产量减少约0.73万吨，预计影响归属于上市公司净利润减少约0.55亿元。广元中孚本次限电政策预计影响电解铝产量减少约0.56万吨，预计影响归属于上市公司净利润减少约0.23亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizmscv6180371.d.html</link>
-            <guid>2771890</guid>
-            <pubDate>Sun, 14 Aug 2022 09:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[堪培拉机场突发枪击事件，澳总理发声：已获悉，没有持续性威胁。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8118127.d.html</link>
-            <guid>2771889</guid>
-            <pubDate>Sun, 14 Aug 2022 09:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海闵行区古美路街道万源路580弄万源城尚郡列为高风险区】上海市卫生健康委副主任赵丹丹：根据本市目前疫情形势和第九版《新型冠状病毒肺炎防控方案》相关规定，经市新冠肺炎疫情防控工作领导小组办公室研究决定，将闵行区古美路街道万源路580弄万源城尚郡列为高风险区，古美路街道的其他地区列为低风险区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizirav8117989.d.html</link>
-            <guid>2771888</guid>
-            <pubDate>Sun, 14 Aug 2022 09:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【江苏省气象台继续发布高温红色预警信号】江苏省气象台2022年08月14日16时29分继续发布高温红色预警信号：今天夜里到明天南京、镇江、无锡、苏州、常州、南通、泰州南部、扬州南部最高气温可达40℃或以上，盐城、淮安、宿迁、泰州北部、扬州北部最高气温38~39℃，徐州、连云港最高气温37℃左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-14/detail-imizmscv6179869.d.html</link>
-            <guid>2771887</guid>
-            <pubDate>Sun, 14 Aug 2022 09:10:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,558 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 15 Aug 2022 09:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 10:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【成都富士康限电停产一周】记者从负责富士康招聘的中介处了解到，成都富士康从15日至20日限电，仅保留20%保安负载，全厂生产停止。生产线员工对财联社记者表示，已接到休息通知。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6318315.d.html</link>
+            <guid>2772917</guid>
+            <pubDate>Mon, 15 Aug 2022 10:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斗鱼盘前涨超11%，公司第二季度营收为18.33亿元，去年同期为23.37亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6318261.d.html</link>
+            <guid>2772916</guid>
+            <pubDate>Mon, 15 Aug 2022 10:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财政部拨付水利救灾资金2亿元 支持做好抗旱救灾工作】财政部会同水利部认真研究，及时调度各地耕地受旱面积、因旱临时饮水困难的大牲畜数量等情况，下达河北、山西、内蒙古、河南、陕西、甘肃、宁夏、青海等8省区水利救灾资金2亿元，对受灾地区水利抗旱调水、兴建救灾所需抗旱水源等给予补助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8259981.d.html</link>
+            <guid>2772915</guid>
+            <pubDate>Mon, 15 Aug 2022 10:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海纳国际：将台积电(TSM.N)目标价从88美元下调至80美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8259781.d.html</link>
+            <guid>2772914</guid>
+            <pubDate>Mon, 15 Aug 2022 10:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国政府发言人：天然气税符合联邦政府的预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8259740.d.html</link>
+            <guid>2772913</guid>
+            <pubDate>Mon, 15 Aug 2022 10:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天成自控：收到东风乘用车S59项目定点通知】天成自控公告，近日收到东风汽车集团股份有限公司乘用车公司通知，公司已被东风乘用车选定为S59项目的座椅供应商。该项目预计于2024年开始量产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8259527.d.html</link>
+            <guid>2772912</guid>
+            <pubDate>Mon, 15 Aug 2022 10:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME三个月期镍跌超过5%，至21865美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6317757.d.html</link>
+            <guid>2772911</guid>
+            <pubDate>Mon, 15 Aug 2022 10:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天利科技：股东及其一致行动人拟减持不超3%】天利科技公告，股东钱永耀及其一致行动人江阴鑫源投资有限公司拟减持不超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6317724.d.html</link>
+            <guid>2772910</guid>
+            <pubDate>Mon, 15 Aug 2022 10:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西棉花产量预计将至多增长19%】据媒体报道，巴西棉花产量应会较上一年度增长13-19%，恢复到新冠肺炎疫情大流行前的速度。巴西2019年棉花产量为300万吨，2017年为150万吨。2022年棉花产量预计在260-280万吨之间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8259303.d.html</link>
+            <guid>2772909</guid>
+            <pubDate>Mon, 15 Aug 2022 10:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【力拓收购绿松石山资源剩余股份遭拒 掌控蒙古国奥尤陶勒盖矿计划遇阻】绿松石山资源公司表示，有关力拓公司以每股34加元现金报价收购公司流通普通股的提议，绿松石山资源独立董事特别委员会已终止对其审查并不再予以考虑。该公司称，双方并没有就价值和价格达成共识，力拓公司也未提出任何改进建议。目前，绿松石山资源51%的股份由力拓集团持有。绿松石山持有位于蒙古国的奥尤陶勒盖矿66%的股份并运营该矿山。蒙古国政府拥有该矿剩余股份。该矿山是世界上已知的最大铜金矿之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6317117.d.html</link>
+            <guid>2772908</guid>
+            <pubDate>Mon, 15 Aug 2022 10:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海关总署对3家境外水产品企业采取暂停进口措施】海关部门在对韩国DAI HAN FISHERIES CO., LTD、印度尼西亚PT. REMBANG SPORTINDO MANDIRI等3家水产品企业进行视频检查时，发现不符合联合国粮农组织（FAO）发布《新冠肺炎（COVID-19）：防止新冠肺炎在食品企业传播的指南》及食品安全有关要求，依据中国有关法律法规规定，暂停接受上述3家企业自2022年8月15日后启运水产品的进口申报。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8258783.d.html</link>
+            <guid>2772907</guid>
+            <pubDate>Mon, 15 Aug 2022 10:08:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海市政府常务会议研究新片区建设 推进未来产业发展 促进融资担保支小支农】上海市委副书记、市长龚正今天主持召开市政府常务会议，强调按照市委部署，支持临港新片区加快建设独立综合性节点滨海城市；打造未来产业创新高地，壮大前沿产业集群；发挥政府性融资担保作用，支持小微企业和“三农”主体发展；推进新一轮林地建设，打造生态之城。会议原则同意《关于充分发挥政府性融资担保作用 支持小微企业和“三农”主体发展的实施意见》并指出，要加大支小支农力度，进一步扩大中小微企业，尤其是受疫情影响较大行业企业的担保业务规模，提高支小支农担保金额占比。要加强担保体系建设，落实好管理责任和出资人职责。要优化企业融资环境，撬动更多金融活水流向小微企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8258651.d.html</link>
+            <guid>2772906</guid>
+            <pubDate>Mon, 15 Aug 2022 10:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货铂金跌3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6316792.d.html</link>
+            <guid>2772905</guid>
+            <pubDate>Mon, 15 Aug 2022 10:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家四川当地锂盐企业：确应政策要求停产】针对四川实施生产“全停6天”消息，记者从当地3家不同锂盐企业确认，均应政策停产。有锂盐企业相关人士对财联社记者表示，确有这个事情，已经停产，并表示“这是全省的”，具体以政府方通知为准。小财注：稍早些消息显示，四川电力供需紧张让电于民，方案中所有工业电力用户实施生产全停6天，2022年8月15日00:00至20日24:00。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6316771.d.html</link>
+            <guid>2772904</guid>
+            <pubDate>Mon, 15 Aug 2022 10:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东尼电子：公司6英寸导电型碳化硅衬底片尚未得到终端客户认证】东尼电子披露说明会召开情况公告，公司长晶炉安装调试情况有所变化，因公司碳化硅业务工艺路线切换，长晶炉加热方式由感应法变更为电阻法，之前的感应法长晶炉将主要用于碳化硅粉料烧制、涂层煅烧等前期准备工作，目前已安装的电阻法长晶炉数量没有报道那么多。公司6英寸导电型碳化硅衬底片尚未得到终端客户的认证；该产品认证涉及车规级，验证频率高，尤其是后端芯片验证及上车验证，认证时间长且需多次验证。公司碳化硅业务尚未获得订单；产品送样会形成少量收入，但并无贡献任何利润。目前碳化硅衬底片市场售价已低于预案测算值，且公司工艺路线切换，设备投入加大，该业务经济效益可能不及预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6316737.d.html</link>
+            <guid>2772903</guid>
+            <pubDate>Mon, 15 Aug 2022 10:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南方航空：7月旅客周转量同比下降19.76%】南方航空公告，7月集团客运运力投入（按可利用座公里计）同比下降12.21%，旅客周转量（按收入客公里计）同比下降19.76%；客座率为69.98%，同比下降6.58个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6316594.d.html</link>
+            <guid>2772902</guid>
+            <pubDate>Mon, 15 Aug 2022 10:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高温红色预警继续发布！9省区市部分地区最高气温或超40℃】中央气象台8月15日18时继续发布高温红色预警：预计8月16日白天，新疆南疆盆地和吐鲁番盆地、陕西中南部、河南南部、安徽中南部、江苏南部、上海、湖北、湖南、江西、浙江、福建、四川中东部、重庆、贵州东部和北部、广西中北部、广东中北部等地最高气温将有35～39℃，其中，四川东部、重庆中西部、陕西南部、安徽南部、湖北东南部和西部、湖南中北部、江西中北部、浙江中北部以及新疆吐鲁番盆地等地的部分地区最高气温可达40℃以上。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8258238.d.html</link>
+            <guid>2772901</guid>
+            <pubDate>Mon, 15 Aug 2022 10:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国天然气市场运营商Trading Hub Europe：德国天然气税设定为每千瓦时2.419欧分。]]></title>
+            <guid>2772900</guid>
+            <pubDate>Mon, 15 Aug 2022 10:04:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中原资产百亿增资落地：河南财政厅合计持股大幅升至78.5%】 刚刚宣布完成100亿元增资的中原资产，最新股权情况披露。新进股东河南投资集团有限公司成为中原资产的第一大股东，持股比例达50%。河南省财政厅持股比例则由此前的32%降为16%，河南省农业综合开发有限公司、中原豫资投资控股集团的持股比例也分别降至9.167%、3.333%。河南投资集团有限公司、河南省农业综合开发有限公司、中原豫资投资控股集团均为河南省财政厅全资控股公司。这也意味着，河南省财政厅对中原资产的合计持股比例由此前的57%进一步提升至78.5%。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8258135.d.html</link>
+            <guid>2772899</guid>
+            <pubDate>Mon, 15 Aug 2022 10:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中辰股份：中标南方电网配网材料框架招标项目】中辰股份公告，公司中标南方电网公司2022年配网材料第一批框架招标项目，预估金额2.81亿元，约占公司2021年度营业收入的11.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8257872.d.html</link>
+            <guid>2772898</guid>
+            <pubDate>Mon, 15 Aug 2022 10:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BMD马来西亚棕榈油主力合约跌6.67%，报4113林吉特/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8257848.d.html</link>
+            <guid>2772897</guid>
+            <pubDate>Mon, 15 Aug 2022 10:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典公共就业服务局（PES）：上周失业率维持在6.7%不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8257808.d.html</link>
+            <guid>2772896</guid>
+            <pubDate>Mon, 15 Aug 2022 10:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上机数控：拟于徐州经济技术开发区投资建设新能源产业园】上机数控公告，拟于徐州经济技术开发区投资建设新能源产业园，包括年产25GW单晶硅切片及年产24GW N型高效晶硅电池生产项目，项目总投资预计为人民币150亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6316052.d.html</link>
+            <guid>2772895</guid>
+            <pubDate>Mon, 15 Aug 2022 10:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[H.C. Wainwright：将Phunware(PHUN.O)目标价从5.5美元下调至3.5美元。]]></title>
+            <guid>2772893</guid>
+            <pubDate>Mon, 15 Aug 2022 10:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特变电工：拟65.09亿元投资建设20万吨/年高纯硅及配套源网荷储一体化项目】 特变电工公告，控股子公司天池能源公司以其全资子公司楼兰新材料为主体，在新疆巴音郭楞蒙古自治州若羌县工业园投资建设20万吨/年高纯硅及配套源网荷储一体化项目，本项目总投资约65.09亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6315716.d.html</link>
+            <guid>2772891</guid>
+            <pubDate>Mon, 15 Aug 2022 09:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【密尔克卫：公开发行可转债申请获审核通过】密尔克卫(603713)8月15日晚间公告，公开发行可转换公司债券申请获得证监会发审委审核通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6315620.d.html</link>
+            <guid>2772890</guid>
+            <pubDate>Mon, 15 Aug 2022 09:58:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北斗导航探空广东业务化试点正式启动】从中国气象局获悉，近日，随着第一个北斗导航探空仪在广东清远探空站施放，我国探空业务改革试点工作正式拉开帷幕。北斗导航探空是我国第三代探空系统，与现行L波段业务探空相比，其采用北斗导航定位技术，定位精度达到国际先进水平，测风精度由1米每秒提升到0.3米每秒。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8257167.d.html</link>
+            <guid>2772889</guid>
+            <pubDate>Mon, 15 Aug 2022 09:57:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国7月港口货物吞吐量同比增长5.7%】8月15日，交通运输部发布7月交通运输行业主要统计指标。数据显示，7月份公路水路交通固定资产投资达2591亿元，同比增长7.5%。其中公路投资2452亿元，同比增长6.8%。全国港口货物吞吐量7月为134002万吨，同比增长5.7%，集装箱吞吐量完成2636万标箱，同比增长11.2%。7月份，水路货运量完成73899万吨，同比增长7.2%。公路货运量完成327390万吨，同比下降3.8%。（证券时报网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6315330.d.html</link>
+            <guid>2772888</guid>
+            <pubDate>Mon, 15 Aug 2022 09:55:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【布伦特原油跌幅扩大至4%，报94.2美元/桶】 本周日，石油巨头沙特阿美的首席执行官表示该公司做好了增产准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8256838.d.html</link>
+            <guid>2772887</guid>
+            <pubDate>Mon, 15 Aug 2022 09:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：欧洲TTF天然气价格在短期内可能会继续上涨和波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8256799.d.html</link>
+            <guid>2772886</guid>
+            <pubDate>Mon, 15 Aug 2022 09:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：欧洲基准天然气价格TTF可能在近期内保持高位，且波动较大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8256762.d.html</link>
+            <guid>2772885</guid>
+            <pubDate>Mon, 15 Aug 2022 09:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：对斯里兰卡本币评级的负面展望反映出其未来12个月商业债务偿还的高风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6315106.d.html</link>
+            <guid>2772884</guid>
+            <pubDate>Mon, 15 Aug 2022 09:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外交部长：未能恢复2015年的核协议“不会是世界末日”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6315058.d.html</link>
+            <guid>2772883</guid>
+            <pubDate>Mon, 15 Aug 2022 09:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：预计斯里兰卡政府不会在债券到期后的30日内支付款项。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6314924.d.html</link>
+            <guid>2772882</guid>
+            <pubDate>Mon, 15 Aug 2022 09:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日出东方：上半年净亏损2255.3万元】日出东方公告，上半年净亏损2255.3万元，上年同期净利润3481.86万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8256523.d.html</link>
+            <guid>2772881</guid>
+            <pubDate>Mon, 15 Aug 2022 09:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【群兴玩具：关于公司“借壳”、“重组”的相关传闻不属实】群兴玩具公告，公司并不涉及“借壳”、“重组”的洽谈或谈判等相关行为，截止目前，公司无“借壳”、“重组”相关计划，关于公司“借壳”、“重组”的相关传闻不属实。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8256504.d.html</link>
+            <guid>2772880</guid>
+            <pubDate>Mon, 15 Aug 2022 09:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：将斯里兰卡债券评级降为“D”；确认其“SD/SD”外币和“CCC-/C”本币评级，长期本币评级前景展望为负面。]]></title>
+            <guid>2772879</guid>
+            <pubDate>Mon, 15 Aug 2022 09:52:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川对工业用户开启限电模式，或对光伏行业造成影响】 14日，四川省经济和信息化厅和国网四川省电力公司联合下发文件《关于扩大工业企业让电于民实施范围的紧急通知》。文件称，从8月15日起取消主动错避峰需求响应，在全省（除攀枝花、凉山）的19个市（州）扩大工业企业让电于民实施范围。四川是中国光伏产业大省。上海有色网称，受此影响，四川地区硅料、硅片及电池片企业全部停产停工。据不完全统计，在四川拥有光伏项目的龙头企业包括通威股份、协鑫科技、天合光能、晶科能源等。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8256402.d.html</link>
+            <guid>2772878</guid>
+            <pubDate>Mon, 15 Aug 2022 09:51:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：对布伦特原油短期价格目标是未来几周内将在80-85美元/桶的价格水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8256316.d.html</link>
+            <guid>2772877</guid>
+            <pubDate>Mon, 15 Aug 2022 09:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信银行深圳分行被指监管不审慎 龙光深圳一网红盘预售资金部分被挪用】一份盖有深圳银保监局工作印章的《银行保险违法行为举报调查意见书》显示，由中信银行深圳分行负责监管的“龙光前海天境花园”项目的预售资金，存在被挪用的情况。深圳银保监局表示，情况属实，事情还在进一步处理当中。 (界面新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6314587.d.html</link>
+            <guid>2772876</guid>
+            <pubDate>Mon, 15 Aug 2022 09:50:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三湘印象：控股股东和实控人拟减持不超过2%】三湘印象公告，公司的控股股东和实际控制人黄辉拟减持不超过2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6314260.d.html</link>
+            <guid>2772875</guid>
+            <pubDate>Mon, 15 Aug 2022 09:48:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗方面表示，如果美国要求在核问题上得到更多让步，谈判必须继续进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6313990.d.html</link>
+            <guid>2772874</guid>
+            <pubDate>Mon, 15 Aug 2022 09:46:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金跌破1780美元/盎司，日内跌1.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8255572.d.html</link>
+            <guid>2772873</guid>
+            <pubDate>Mon, 15 Aug 2022 09:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一品红：子公司获得盐酸文拉法辛缓释胶囊注册证书】一品红公告，全资子公司广州一品红制药有限公司的盐酸文拉法辛缓释胶囊于近日收到国家药品监督管理局核准签发的《药品注册证书》。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8255537.d.html</link>
+            <guid>2772872</guid>
+            <pubDate>Mon, 15 Aug 2022 09:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安徽：开展焦化企业焦炉煤气净化及深加工安全专项排查整治工作】安徽省发布焦化企业焦炉煤气净化及深加工安全专项排查整治工作方案，全面排查整治焦炉煤气深加工相关系统安全风险隐患。聚焦焦炉煤气制甲醇、焦炉煤气制LNG、粗苯加氢等装置，重点排查整治氢气、焦炉煤气等可燃气体压缩机厂房防可燃气体集聚措施落实情况，预加氢反应器、加氢反应器、甲醇转化炉、甲烷化反应器温度和压力检测报警、温度联锁切断等监测监控设施配备投用情况，粗苯加氢系统防窜料、紧急切断等设备设施配备投用情况，相关储存设施监测报警、联锁等监测监控设施配备及完好情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8255528.d.html</link>
+            <guid>2772871</guid>
+            <pubDate>Mon, 15 Aug 2022 09:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国天然气税即将开征 普通四口之家每年或增加400-600欧费用】德国行业和政府消息人士称，德国即将征收的天然气税据悉将设定在每千瓦时2-3欧分。德国此举旨在将替换俄罗斯天然气的高昂成本分摊到所有终端消费者。对于一个普通的四口之家来说，如果每千瓦时征收2欧分的税，每年将增加约400欧元的额外费用；若按3欧分计算，每年的额外费用约为600欧元。预计德国天然气市场运营商Trading Hub Europe将于周一晚些时候公布征税计划成本。8月4日，德国内阁同意从2022年10月至2024年4月征收该税。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8255461.d.html</link>
+            <guid>2772870</guid>
+            <pubDate>Mon, 15 Aug 2022 09:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小鹏汽车CEO何小鹏：超快充技术将让10万元以下燃油车被纯电车取代】在8月15日举办的小鹏超级补能发布会上，小鹏汽车CEO何小鹏表示，超快充将带来20万元以上纯电车销量爆发。随着超快充技术的发展，10万元以下燃油车将被纯电车快速取代；10万—20万元区间内燃油车将被混动和纯电车型冲击，混动表现更突出；20万元以上，则是纯电车型将更强。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6313792.d.html</link>
+            <guid>2772869</guid>
+            <pubDate>Mon, 15 Aug 2022 09:45:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turquoise Hill盘前跌近24%，公司拒绝了力拓27亿美元的收购要约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8255242.d.html</link>
+            <guid>2772868</guid>
+            <pubDate>Mon, 15 Aug 2022 09:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡航空：7月集团乘客运载率达到疫情以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6313592.d.html</link>
+            <guid>2772867</guid>
+            <pubDate>Mon, 15 Aug 2022 09:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新加坡航空：7月运载乘客147万人次，去年同期为12.88万人次。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6313560.d.html</link>
+            <guid>2772866</guid>
+            <pubDate>Mon, 15 Aug 2022 09:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【济南市城乡交通运输局原局长贾玉良被查】据山东省纪委监委网站8月15日消息，济南市城乡交通运输局原党组书记、局长贾玉良涉嫌严重违纪违法，目前正接受济南市纪委监委纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6313449.d.html</link>
+            <guid>2772865</guid>
+            <pubDate>Mon, 15 Aug 2022 09:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳机场：7月旅客吞吐量同比下降12.82%】深圳机场公告，7月旅客吞吐量同比下降12.82%，全年累计同比下降44.95%；7月航班起降架次同比增长1.07%，全年累计同比下降25.41%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6313406.d.html</link>
+            <guid>2772864</guid>
+            <pubDate>Mon, 15 Aug 2022 09:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川美丰：分（子）公司受供电影响临时停产】四川美丰公告，接相关部门通知，受电力供应紧张影响，公司下辖的化肥分公司、复合肥有限责任公司（生产基地位于德阳经济技术开发区）于8月15日12:50起临时停产，预计停产时间至8月20日24:00（以相关部门通知为准）。本次临时停产预计将影响尿素产量约1.5万吨、复合肥产量约0.6万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8254929.d.html</link>
+            <guid>2772863</guid>
+            <pubDate>Mon, 15 Aug 2022 09:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海外事故致TDI旺季行情或提前到来 已有经销商顺势提价】记者近日从TDI生产企业及经销商处了解到，受海外企业突发事故的影响，TDI行业的全球供应或将出现缺口，金九银十的TDI传统旺季有望借此提前到来。据悉，自海外事件发生以来，不少下游企业开始积极询价备货，厂家和经销商也顺势提高了产品报价。目前，国内TDI市场价格达16700元/吨，有部分经销商的报价已超过17000元/吨。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8254901.d.html</link>
+            <guid>2772862</guid>
+            <pubDate>Mon, 15 Aug 2022 09:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：印尼将于本月提高补贴燃料的价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8254851.d.html</link>
+            <guid>2772861</guid>
+            <pubDate>Mon, 15 Aug 2022 09:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【67股获机构买入型评级 浙江自然关注度最高】数据宝统计显示，今日有67只个股获机构买入型评级。其中，浙江自然关注度最高，共获8次机构买入型评级记录。海康威视、东方财富、水羊股份、扬杰科技、三花智控分别获6次、5次、5次、4次、4次机构买入型评级记录。从机构评级变动看，今日机构买入型评级记录中，有18条评级记录为机构首次关注，涉及国联证券、鸿合科技等股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6313204.d.html</link>
+            <guid>2772860</guid>
+            <pubDate>Mon, 15 Aug 2022 09:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【隆华科技：通用集团拟减持公司不超3%股份】隆华科技(300263)8月15日晚间公告，公司持股9.58%的大股东通用集团计划15个交易日后的6个月内，通过集中竞价或大宗交易方式减持公司股份不超过2700万股（占公司总股本的3%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8254615.d.html</link>
+            <guid>2772859</guid>
+            <pubDate>Mon, 15 Aug 2022 09:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江阴银行：上半年实现净利润同比增长22%】江阴银行公告，上半年实现净利润5.75亿元，同比增长22.10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6312963.d.html</link>
+            <guid>2772858</guid>
+            <pubDate>Mon, 15 Aug 2022 09:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海自主研发的新冠mRNA疫苗一期临床试验已入组完毕】记者从斯微（上海）生物科技股份有限公司获悉，该公司自主研发的新冠 mRNA疫苗（SW-BIC-213）获得国家药监局批准，一期临床试验目前已经入组完毕。这是上海首个获批开展临床试验的新冠mRNA疫苗。斯微生物方面介绍，SW-BIC-213疫苗在研发设计中包含了德尔塔、奥密克戎等多种新冠病毒变异株均有的D614G突变，对当前新冠病毒流行株具有保护效力，有一定的广谱性。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8254240.d.html</link>
+            <guid>2772857</guid>
+            <pubDate>Mon, 15 Aug 2022 09:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阅文集团：上半年总收入40.9亿 版权运营及其他收入环比增长14.3%】阅文集团公布了2022年中期业绩报告。业绩报告显示，2022年上半年阅文集团实现总收入40.9亿元；其中，在线业务为23.1亿元，版权运营及其他收入为17.8亿元。利润方面，非国际财务报告准则下的归母净利约6.7亿元，经营盈利同比增长8.2%达6.9亿元，经营利润率从去年同期的14.8%提升至17.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6312673.d.html</link>
+            <guid>2772856</guid>
+            <pubDate>Mon, 15 Aug 2022 09:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高新发展：拟发行不超过7.3亿元可转债】高新发展公告，拟发行不超过7.3亿元可转债，用于成都高新西区高端功率半导体器件和组件研发及产业化项目、补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8254099.d.html</link>
+            <guid>2772855</guid>
+            <pubDate>Mon, 15 Aug 2022 09:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：7月公路客运量34184万人，同比下降25.3%】交通运输部8月15日发布7月交通运输行业主要统计指标。2022年7月，公路客运量34184万人，同比下降25.3%；公路旅客周转量251.5亿人公里，同比下降28.9%；公路货运量327390万吨，同比下降3.8%；公路货物周转量5957.6亿吨公里，同比增长1.7%。7月，全国港口旅客吞吐量428万人，同比下降18.6%；货物吞吐量134002万吨，同比增长5.7%；集装箱吞吐量2636万TEU，同比增长11.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6312379.d.html</link>
+            <guid>2772854</guid>
+            <pubDate>Mon, 15 Aug 2022 09:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【恒生银行据悉寻找银行保险业务合作伙伴 业务估值可能逾1亿美元】  知情人士称透露，恒生银行在寻找保险业务合作伙伴，此前该行与澳大利亚保险公司QBE Insurance Group Ltd.的现有协议到期。汇丰持有这家总部位于香港的银行的多数股权。知情人士称，恒生银行正在与一家金融顾问合作，探索银行保险业务合作伙伴关系。该业务估值可能超过1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6312254.d.html</link>
+            <guid>2772853</guid>
+            <pubDate>Mon, 15 Aug 2022 09:35:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国周末交付的天然气批发价格上涨5%，至355便士/撒姆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6312174.d.html</link>
+            <guid>2772852</guid>
+            <pubDate>Mon, 15 Aug 2022 09:35:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD日内涨超1.00%，现报1.2901。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8253681.d.html</link>
+            <guid>2772851</guid>
+            <pubDate>Mon, 15 Aug 2022 09:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国财政部发言人：欧盟委员会尚未就天然气税的增值税豁免请求做出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6312084.d.html</link>
+            <guid>2772850</guid>
+            <pubDate>Mon, 15 Aug 2022 09:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【越博动力：股东拟减持不超过5.92%】越博动力公告，伊犁苏新、道丰投资拟合计减持不超过公司总股本的5.92%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8253595.d.html</link>
+            <guid>2772849</guid>
+            <pubDate>Mon, 15 Aug 2022 09:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因落实“让电于民”停产5天？雅化集团回应：已收到通知 生产经营暂未受重大影响】网传由于相关部门开展工业企业让电于民工作，雅化集团将停产5天。对此，雅化集团相关人士回应称，“公司已经收到通知，但生产经营暂时没有受到重大影响。” (中国证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6311984.d.html</link>
+            <guid>2772848</guid>
+            <pubDate>Mon, 15 Aug 2022 09:34:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[九号公司发布半年报，上半年实现净利润2.56亿元，同比增长0.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6311927.d.html</link>
+            <guid>2772847</guid>
+            <pubDate>Mon, 15 Aug 2022 09:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【何小鹏表示纯电可以淘汰混动】8月15日下午，小鹏汽车董事长何小鹏在小鹏汽车超级补能发布会上表示，依靠超快充、高续航和自营充电站，纯电动车有望改写市场格局，淘汰混动车型。“中国用户平均每周行驶不超过300公里，90%以上场景为城市和近郊。”何小鹏表示，绝大多数使用场景中，纯电已经可以满足用户需求。对此，部分网友表示不认同。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8253388.d.html</link>
+            <guid>2772846</guid>
+            <pubDate>Mon, 15 Aug 2022 09:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【现货黄金和白银持续下跌】现货白银日内跌幅扩大之2%，现报20.37美元/盎司，现货黄金日内也下跌1%，报1782美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8253311.d.html</link>
+            <guid>2772845</guid>
+            <pubDate>Mon, 15 Aug 2022 09:32:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南向资金今日净买入2.0亿元】 港股通（沪）方面，恒生中国企业、中国电信分别获净买入6.36亿港元、1.79亿港元；中芯国际净卖出额居首，金额为2.54亿港元；港股通（深）方面，恒生中国企业、中芯国际分别获净买入3.16亿港元、0.96亿港元；中国移动净卖出额居首，金额为1.64亿港元。]]></title>
+            <guid>2772844</guid>
+            <pubDate>Mon, 15 Aug 2022 09:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北向资金今日净买入10.87亿元 宁德时代净买入额居首】北向资金今日净买入10.87亿元。宁德时代、天齐锂业、亿纬锂能分别获净买入7.25亿元、5.28亿元、4.46亿元。通威股份净卖出额居首，金额为2.84亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8253100.d.html</link>
+            <guid>2772843</guid>
+            <pubDate>Mon, 15 Aug 2022 09:31:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“陵水发布”微信公众号8月15日消息，海南陵水继续实行全域静态管理疫情处置。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6311348.d.html</link>
+            <guid>2772842</guid>
+            <pubDate>Mon, 15 Aug 2022 09:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外交部长表示，如果美国就目前剩下的三个问题能够达成一致，就可以达成核协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8252782.d.html</link>
+            <guid>2772841</guid>
+            <pubDate>Mon, 15 Aug 2022 09:29:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内跌超2.00%，现报20.37美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6311144.d.html</link>
+            <guid>2772840</guid>
+            <pubDate>Mon, 15 Aug 2022 09:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉：截至8月15日全市农作物累计因旱受灾18.08万亩 共解除旱情5.08万亩】武汉市防汛抗旱指挥部办公室15日通报，7月9日以来，全市高温日数28天，降水日数7天。在不考虑水利工程调度等因素影响的情况下，武汉市六个新城区均存在不同程度干旱，其中江夏、蔡甸、经开（汉南）区存在中度干旱。截至8月15日，全市农作物累计因旱受灾18.08万亩，共解除旱情5.08万亩，现有因旱受灾面积13万亩，其中：黄陂区3.55万亩、江夏区5.46万亩、新洲区3.23万亩、汉南区0.76万亩。分作物看，粮食作物7.23万亩，蔬菜2.31万亩，其他作物3.46万亩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8252584.d.html</link>
+            <guid>2772839</guid>
+            <pubDate>Mon, 15 Aug 2022 09:28:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国药集团：奥密克戎变异株国产mRNA疫苗已提交临床申请】在15日举行的国药集团媒体通气会上，国药集团中国生物党委书记朱京津表示，当前，中国生物正在深化科技抗疫：研发的奥密克戎变异株灭活疫苗、第二代重组蛋白新冠疫苗均获得临床批件，奥密克戎变异株mRNA疫苗也已提交临床申请。治疗药物新冠特异免疫球蛋白正不断驰援疫情较重地区，单克隆抗体F61、2B11和DXP604先后进入临床，针对新流行猴痘病毒的检测试剂盒获得欧盟CE认证。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8252569.d.html</link>
+            <guid>2772838</guid>
+            <pubDate>Mon, 15 Aug 2022 09:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[理想汽车美股盘前跌逾6%，2022年第二季度营收87.3亿元，环比减少8.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8252443.d.html</link>
+            <guid>2772836</guid>
+            <pubDate>Mon, 15 Aug 2022 09:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【菲律宾寻求购买美国支奴干直升机 此前因担心制裁取消俄米-17订单】菲律宾驻美大使罗穆亚尔德斯周一表示，菲律宾正在寻求购买美国支奴干直升机。罗穆亚尔德斯称，美国愿意与菲律宾就此达成协议，双方交易或将涉及保养、维修和零部件采购。据环球时报此前援引美联社报道，由于担心美国实施制裁，菲律宾已经取消了购买16架俄罗斯米-17直升机的协议，该交易价值127亿比索（2.27亿美元）。（界面新闻）]]></title>
+            <guid>2772835</guid>
+            <pubDate>Mon, 15 Aug 2022 09:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货钯金日内跌超2.00%，现报2176.50美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8252265.d.html</link>
+            <guid>2772834</guid>
+            <pubDate>Mon, 15 Aug 2022 09:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外交部长表示，如果核谈判未能恢复2015年的核协议，伊朗有B计划。伊朗将在周一午夜前对欧盟的核协议文本做出回应。]]></title>
+            <guid>2772833</guid>
+            <pubDate>Mon, 15 Aug 2022 09:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中煤能源(01898.HK)：7月份商品煤产量1,065万吨，同比增长14.5%；商品煤销量2,252万吨，同比减少13.2%。]]></title>
+            <guid>2772832</guid>
+            <pubDate>Mon, 15 Aug 2022 09:22:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【莱绅通灵：沈东军拟减持不超过3%】莱绅通灵公告，持有15.58%公司股份的股东沈东军因自身资金需要，计划通过集中竞价交易和大宗交易方式减持公司股份不超过3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8251790.d.html</link>
+            <guid>2772831</guid>
+            <pubDate>Mon, 15 Aug 2022 09:22:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国人民银行上海总部：截至7月末，境外机构持有银行间市场债券3.51万亿元，约占银行间债券市场总托管量的2.9%。]]></title>
+            <guid>2772830</guid>
+            <pubDate>Mon, 15 Aug 2022 09:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际油价持续下行，WTI原油、布伦特原油跌幅均扩大至3%，布伦特原油触及95美元/桶。]]></title>
+            <guid>2772829</guid>
+            <pubDate>Mon, 15 Aug 2022 09:20:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国东方航空股份(00670.HK)：2022年7月，本公司客运运力投入（按可用座公里计）同比下降32.80%，旅客周转量（按客运人公里计）同比下降39.85%，客座率为66.98%，同比下降7.85个百分点。]]></title>
+            <guid>2772828</guid>
+            <pubDate>Mon, 15 Aug 2022 09:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【力拓重申收购Turquoise Hill股权的提议】全球矿业巨头力拓重申收购Turquoise Hill股权的提议，后者此前表示，其特别委员会终止了对力拓收购的审查。力拓对该委员会的决定感到失望。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6309515.d.html</link>
+            <guid>2772827</guid>
+            <pubDate>Mon, 15 Aug 2022 09:19:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：松下将把特斯拉电动汽车电池产量提高10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6309499.d.html</link>
+            <guid>2772826</guid>
+            <pubDate>Mon, 15 Aug 2022 09:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【享道出行完成超10亿元B轮战略融资】据科创板日报，上汽集团移动出行战略品牌享道出行宣布完成由上汽集团、Momenta、高行管理咨询等机构投资的超10亿元B轮融资，投后估值达10亿美元。记者获悉，该轮融资完成后，享道出行将适时启动IPO计划。同时，其与Momenta将联合布局Robotaxi出行生态。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6309430.d.html</link>
+            <guid>2772825</guid>
+            <pubDate>Mon, 15 Aug 2022 09:18:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交通银行(03328.HK)：拟于2022年8月26日（星期五）披露2022年半年度报告，并于同日17:00-18:30召开业绩发布会，就2022年半年度业绩予以说明。]]></title>
+            <guid>2772824</guid>
+            <pubDate>Mon, 15 Aug 2022 09:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【城投控股：拟收购“露香园公司”15.3%股权】城投控股公告，公司通过上海联合产权交易所摘牌方式，以115447.68万元收购上海建工集团股份有限公司持有的上海露香园建设发展有限公司15.3%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6309328.d.html</link>
+            <guid>2772823</guid>
+            <pubDate>Mon, 15 Aug 2022 09:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京昌平新增一高风险区，北京昌平4个村15个小区全员核酸】今天（15日）下午，北京市召开新冠肺炎疫情防控第386场新闻发布会。昌平区副区长白琳通报，8月15日0时至15时，昌平新增2例确诊病例，均为外省市进京人员，目前均已转至定点医院隔离诊疗。 发布会上通报，截至今天发布会，已累计判定密接72人、次密接10人，以及高风险人员666人，已全部落实管控措施，涉及外区风险人员和点位信息已横传到位。 划定确诊病例临时借住的融尚未来小区1号楼为高风险区，划定融尚未来小区2号楼、3号楼、4号楼为中风险区，以上楼宇环境已完成点位采样和消杀，小区公共区域环境采样结果均为阴性。对确诊病例到访过的溪水源农贸市场进行临时管控，商户和到访人员均已落实相应管控措施。 加大核酸筛查力度，正在对确诊病例居住地周边的七星路以东、回南路以北共4个村、15个小区开展全员核酸检测。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6309267.d.html</link>
+            <guid>2772822</guid>
+            <pubDate>Mon, 15 Aug 2022 09:17:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海南发布离琼申请“离琼码”使用的通告】8月15日8时起，滞留旅客经所在市县疫情防控指挥部统筹安排后，符合离琼各项要求的旅客在离琼当天通过海南健康码“离琼申请”激活“离琼码”（当日激活的“离琼码”为绿色，24小时后为蓝色）。旅客凭当日绿色“离琼码”进入海南的机场、火车站、港口，待检查通行。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8250725.d.html</link>
@@ -49,541 +596,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8249797.d.html</link>
             <guid>2772815</guid>
             <pubDate>Mon, 15 Aug 2022 09:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车预计2022年第三季度车辆交付量为27,000至29,000辆，较2021年第三季度增长7.5%至15.5%。收入总额为人民币89.6亿元（13.4亿美元）至人民币95.6亿元（14.3亿美元），较2021年第三季度增长15.3%至22.9%。]]></title>
-            <guid>2772814</guid>
-            <pubDate>Mon, 15 Aug 2022 09:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家外汇局副局长、新闻发言人王春英：我国外汇市场运行总体平稳，境内外汇供求延续基本平衡】7月份，受分红派息等季节性因素影响，企业、个人等非银行部门涉外收支呈现小幅逆差，属于在平衡区间内的正常波动，8月上旬为上百亿美元顺差。当前涉外收支状况并未改变境内外汇供求总体格局，7月银行结汇和售汇规模基本相当，综合考虑其他供求因素，境内外汇供求保持基本平衡。我国外汇储备规模保持稳定。展望未来，外部环境中的不稳定不确定因素依然较多，但我国继续高效统筹疫情防控和经济社会发展，国内经济持续恢复，长期向好的基本面不会改变。同时，我国外汇市场韧性增强，有基础有条件继续保持平稳运行。]]></title>
-            <guid>2772813</guid>
-            <pubDate>Mon, 15 Aug 2022 09:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家外汇局：2022年7月，银行结汇14833亿元人民币，售汇14894亿元人民币。2022年1-7月，银行累计结汇100950亿元人民币，累计售汇95556亿元人民币。]]></title>
-            <guid>2772812</guid>
-            <pubDate>Mon, 15 Aug 2022 09:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南发展：上半年净利同比增长53%】湖南发展发布半年报，公司上半年实现营业收入2.84亿元，同比增长59.06%；净利润8038.59万元，同比增长53.33%；基本每股收益0.17元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6307011.d.html</link>
-            <guid>2772811</guid>
-            <pubDate>Mon, 15 Aug 2022 09:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油日内下跌2.00%，现报95.84美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6306973.d.html</link>
-            <guid>2772810</guid>
-            <pubDate>Mon, 15 Aug 2022 09:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阅文上半年营收为40.9亿元人民币，上半年月活跃用户2.6亿，预估2.4亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6306944.d.html</link>
-            <guid>2772809</guid>
-            <pubDate>Mon, 15 Aug 2022 09:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车：2022年第二季度的车辆销售收入为84.8亿元（12.7亿美元），较2021年第二季度的人民币49.0亿元增加73.0%，较2022年第一季度的93.1亿元减少8.9%。]]></title>
-            <guid>2772808</guid>
-            <pubDate>Mon, 15 Aug 2022 09:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车第二季度每ADS亏损0.64元，市场预期亏损1.14元，上年同期亏损0.26元。]]></title>
-            <guid>2772807</guid>
-            <pubDate>Mon, 15 Aug 2022 09:02:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车第二季度净亏损6.18亿元，市场预期亏损7.24亿元，上年同期亏损2.35亿元。]]></title>
-            <guid>2772806</guid>
-            <pubDate>Mon, 15 Aug 2022 09:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车：2022年第二季度的车辆毛利率为21.2%，而2021年第二季度为18.7%，2022年第一季度为22.4%。]]></title>
-            <guid>2772805</guid>
-            <pubDate>Mon, 15 Aug 2022 09:02:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车美股盘前跌幅扩大至3.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6306789.d.html</link>
-            <guid>2772804</guid>
-            <pubDate>Mon, 15 Aug 2022 09:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度电动车公司Ola Electric将于2024年推出500公里里程的电动汽车。]]></title>
-            <guid>2772803</guid>
-            <pubDate>Mon, 15 Aug 2022 09:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宇环数控收关注函：要求自查是否存在涉嫌内幕交易或公司迎合市场热点炒作股价配合减持的情形】宇环数控收深交所关注函，要求说明你公司设备用于汽车零部件及碳化硅制造的具体情况；股价异动期间你公司实际控制人及多位高管减持你公司股票的具体情况，要求全面自查减持行为是否符合法律法规的相关规定或其各类承诺，是否存在涉嫌内幕交易或公司迎合市场热点炒作股价配合减持的情形。]]></title>
-            <guid>2772802</guid>
-            <pubDate>Mon, 15 Aug 2022 09:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泸天化：泸州纳溪区生产装置限电停产】泸天化公告，因落实四川省经济和信息化厅、国网四川省电力公司《关于扩大工业企业让电于民实施范围的紧急通知》，公司泸州纳溪区生产装置于8月15日全部停车完毕，停车期间自8月15日00:00至20日24:00。本次限电停产预计导致尿素产量减少约3.5万吨、甲醇产量减少约1万吨，预计影响归属于上市公司净利润减少约0.3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6306714.d.html</link>
-            <guid>2772801</guid>
-            <pubDate>Mon, 15 Aug 2022 09:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川成渝：子公司签订项目合作协议】四川成渝公告，控股子公司四川省多式联运投资发展有限公司拟与民生物流四川有限公司签订《项目合作协议》，共同投建核心枢纽场站、参与枢纽场站运营（如成都公路口岸）和开行“五定”公路班车等。]]></title>
-            <guid>2772800</guid>
-            <pubDate>Mon, 15 Aug 2022 09:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[理想汽车第二季度营收87.3亿元，市场预期79.9亿元，上年同期50.39亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6306466.d.html</link>
-            <guid>2772799</guid>
-            <pubDate>Mon, 15 Aug 2022 09:00:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北汽蓝谷：极狐阿尔法S全新HI版车型已上市并交付用户】北汽蓝谷在互动平台表示，华为是公司的重要战略合作伙伴之一，公司与华为合作的极狐阿尔法S全新HI版车型是首款HI（Huawei INSIDE）华为全栈智能汽车解决方案的高阶智能豪华纯电轿车，已上市并交付用户。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8248003.d.html</link>
-            <guid>2772798</guid>
-            <pubDate>Mon, 15 Aug 2022 09:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拓尔思：上半年净利润同比增长36.19%】拓尔思公告，公司上半年实现营业收入4.25亿元，同比增长8.53%；净利润7463.09万元，同比增长36.19%；基本每股收益0.10元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6306227.d.html</link>
-            <guid>2772797</guid>
-            <pubDate>Mon, 15 Aug 2022 08:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家知识产权局：拟确定北京经济技术开发区等22个园区为国家级知识产权强国建设示范园区】国家知识产权局消息，经园区申报、省局推荐、专家评审，拟确定北京经济技术开发区等22个园区为国家级知识产权强国建设示范园区。]]></title>
-            <guid>2772796</guid>
-            <pubDate>Mon, 15 Aug 2022 08:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD日内跌幅达0.50%，现报1.0206。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6305979.d.html</link>
-            <guid>2772795</guid>
-            <pubDate>Mon, 15 Aug 2022 08:57:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川成渝：子公司签订项目合作协议】四川成渝公告，控股子公司四川省多式联运投资发展有限公司拟与民生物流四川有限公司签订《项目合作协议》，本协议系双方基于合作意愿而达成的战略性、框架性约定，协议的具体实施及进度存在不确定性风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6305829.d.html</link>
-            <guid>2772794</guid>
-            <pubDate>Mon, 15 Aug 2022 08:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斗鱼2022年二季度总营收18.33亿元，毛利率16.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6305805.d.html</link>
-            <guid>2772793</guid>
-            <pubDate>Mon, 15 Aug 2022 08:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都文广旅局：黄色以上预警，全市A级景区必须立即关闭园区】成都市文广旅局向全市各区(市)县文化广电旅游行政管理部门、局机关各处室、各直属单位发出《成都市文化广电旅游局关于切实加强暑期汛期防灾减灾工作的紧急通知》，除要求深刻汲取8月13日彭州市龙门山镇龙漕沟突发山洪造成群众伤亡的教训外，还提出两大汛期文广旅事故防范的重要要求：在收到暴雨、大风、雷击等蓝色以上预警信息，或临近灾害性气象预警信息时，高危游乐项目，以及各类水上游乐活动，必须立即关闭停运；在收到暴雨、大风、雷击等黄色以上预警信息，或监测发现成灾迹象时，全市A级旅游景区必须立即关闭园区，组织游客紧急疏散，撤离至就近安全避险区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8247464.d.html</link>
-            <guid>2772792</guid>
-            <pubDate>Mon, 15 Aug 2022 08:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦镍日内大跌4.00%，现报22105.00美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6305577.d.html</link>
-            <guid>2772791</guid>
-            <pubDate>Mon, 15 Aug 2022 08:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东鹏饮料：上半年净利润同比增长11.66%】东鹏饮料公告，上半年实现净利润7.55亿元，同比增长11.66%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6305516.d.html</link>
-            <guid>2772790</guid>
-            <pubDate>Mon, 15 Aug 2022 08:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金日内跌超1.00%，现报1783.11美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8247152.d.html</link>
-            <guid>2772789</guid>
-            <pubDate>Mon, 15 Aug 2022 08:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪拟在宜春投资285亿元建设年产30GWh动力电池】宜春市政府、宜春经开区、宜丰县政府、宜春市矿业公司与比亚迪股份有限公司在南昌正式签订战略合作框架协议，比亚迪拟在宜春投资285亿元建设年产30GWh动力电池和年产10万吨电池级碳酸锂及陶瓷土（含锂）矿采选综合开发利用生产基地项目。这是继宁德时代和国轩高科之后，又一家落户宜春的全球新能源头部企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8247104.d.html</link>
-            <guid>2772787</guid>
-            <pubDate>Mon, 15 Aug 2022 08:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉化能源：上半年净利润同比增44.03%】嘉化能源公告，上半年净利润10.26亿元，同比增44.03%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8246710.d.html</link>
-            <guid>2772783</guid>
-            <pubDate>Mon, 15 Aug 2022 08:50:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST冠福：与同孚实业私募债项目相关债权人签和解协议书】ST冠福公告，公司为同孚实业发行不超过6亿元私募债提供担保，因同孚实业资金紧张，其发行的私募债已出现逾期且未兑付情形，由此引发了相关纠纷及诉讼。为妥善解决纠纷，公司与同孚实业私募债项目相关债权人及其他相关方协商，已达成和解并签署了《和解协议》。公司已在2018年对原控股股东的违规事项及为同孚实业担保的私募债项目计提了坏账损失或预计负债，此次签署和解协议，公司将在当期冲回多计提的预计负债，预计增加公司95.1万元的利润。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6304960.d.html</link>
-            <guid>2772781</guid>
-            <pubDate>Mon, 15 Aug 2022 08:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华润置地7月合约销售额280.5亿元人民币，累计合约销售额1490.9亿元人民币。]]></title>
-            <guid>2772780</guid>
-            <pubDate>Mon, 15 Aug 2022 08:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾南部棉兰老岛发生5.6级地震】据菲律宾火山地震研究所消息，今天下午4点23分，菲律宾南部棉兰老岛南达沃省麦格赛赛市西北11公里处发生5.6级地震，震源深度6公里。目前伤亡情况不明。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8246345.d.html</link>
-            <guid>2772779</guid>
-            <pubDate>Mon, 15 Aug 2022 08:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【周应波“奔私”首发新产品大卖30亿元】知名基金经理、运舟资本投资总监周应波“奔私”后的首批新产品8月15日起在招商银行、平安银行、中信银行、中金财富等多个渠道开始发售，对从渠道处获悉的数据进行不完全统计，截至下午4点，该系列新产品募集金额超过30亿元规模。其中，招商银行突破10亿元，中金财富突破10亿元，平安银行突破9.5亿元。（中证金牛座）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8246310.d.html</link>
-            <guid>2772778</guid>
-            <pubDate>Mon, 15 Aug 2022 08:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD日内跌幅达1.00%，现报0.7050。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8246179.d.html</link>
-            <guid>2772777</guid>
-            <pubDate>Mon, 15 Aug 2022 08:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光展锐董事长吴胜武：预计今年下半年和明年上半年推出展锐第二代5G芯片产品】从紫光展锐相关负责人处获悉，紫光展锐董事长吴胜武提出，目前基于6纳米EUV先进工艺的5G芯片实现了量产，截至目前有三款，其中海信有两款产品搭载了展锐的芯片，还有一款中国电信自主品牌天翼1号2022也搭载了展锐的芯片。预计在今年下半年和明年上半年，公司将推出展锐第二代5G芯片产品。 (每经)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8246056.d.html</link>
-            <guid>2772776</guid>
-            <pubDate>Mon, 15 Aug 2022 08:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国香港报告新增4896例新冠肺炎确诊病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6304346.d.html</link>
-            <guid>2772775</guid>
-            <pubDate>Mon, 15 Aug 2022 08:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【立新能源尾盘跳水 昨日买方带头砸盘】立新能源盘中一度走出14连板，尾盘打开涨停跳水。盘后龙虎榜数据显示，华鑫证券上海红宝石路全天净买入1.14亿元；国盛证券宁波桑田路尾盘卖出63万股，方正证券尾盘卖出90万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6304317.d.html</link>
-            <guid>2772774</guid>
-            <pubDate>Mon, 15 Aug 2022 08:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元NZD/USD日内走低1.00%，现报0.6384。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8245725.d.html</link>
-            <guid>2772773</guid>
-            <pubDate>Mon, 15 Aug 2022 08:44:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：今日一新增病例隐瞒涉疫行程 被立案调查】8月15日，在北京市新型冠状病毒肺炎疫情防控工作第386场新闻发布会上，市公安局副局长、新闻发言人潘绪宏通报涉疫违法案件情况。刚才疾控部门通报了3号病例，无症状感染者刘某某的相关情况。警方配合疾控部门工作中发现，刘某某为尽快返京，在申诉解除健康宝弹窗时，涉嫌隐瞒曾前往中高风险地区的行程信息。导致260人被判定为风险人员，造成疫情传播重大风险隐患。丰台警方依法对刘某某立案调查。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8245594.d.html</link>
-            <guid>2772772</guid>
-            <pubDate>Mon, 15 Aug 2022 08:43:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三星医疗：全资子公司拟对下属子公司宁波奥克斯增资】三星医疗公告，全资子公司宁波三星智能电气有限公司以房产、土地实物出资方式，对公司下属子公司宁波奥克斯高科技有限公司增资6亿元。此次增资将进一步促进公司及下属子公司的内部资源整合，有利于提升经营管理效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8245423.d.html</link>
-            <guid>2772771</guid>
-            <pubDate>Mon, 15 Aug 2022 08:42:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST未来：停牌核查结束 股票复牌】*ST未来公告，近日，公司就股票交易波动的相关事项进行了必要的核查。鉴于相关核查工作已完成，经公司申请，公司股票将于2022年8月16日（星期二）开市起复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6303753.d.html</link>
-            <guid>2772770</guid>
-            <pubDate>Mon, 15 Aug 2022 08:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月15日16时30分在青海海北州祁连县发生4.7级地震，震源深度8千米。]]></title>
-            <guid>2772769</guid>
-            <pubDate>Mon, 15 Aug 2022 08:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陆金所回应市场传闻：香港上市暂无明确时间表】今日有消息称，陆金所计划下半年在香港上市。针对此，其回应称：香港上市暂无明确时间表。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8245011.d.html</link>
-            <guid>2772768</guid>
-            <pubDate>Mon, 15 Aug 2022 08:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国中冶：1-7月新签合同额人民币7245.8亿元】中国中冶公告，1-7月新签合同额人民币7245.8亿元，较上年同期增长3.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8244859.d.html</link>
-            <guid>2772767</guid>
-            <pubDate>Mon, 15 Aug 2022 08:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【元隆雅图：公司为茅台文旅开发的限量款茅台中秋礼盒正在销售中】元隆雅图在互动平台表示，公司已经成为茅台文旅集团供应商，为其开发的限量款茅台中秋礼盒正在销售中。礼盒内含200ML飞天茅台一瓶、中秋特别版小茅手办一只以及月下清影茶具5件套。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6302947.d.html</link>
-            <guid>2772766</guid>
-            <pubDate>Mon, 15 Aug 2022 08:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美团(03690.HK)：董事会兹通告谨定于2022年8月26日（星期五）举行董事会会议，以考虑及通过本集团截至2022年6月30日止六个月的中期业绩，以及处理其他事项。]]></title>
-            <guid>2772765</guid>
-            <pubDate>Mon, 15 Aug 2022 08:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宏华数科公告，公司股东新湖智脑拟减持不超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6302890.d.html</link>
-            <guid>2772764</guid>
-            <pubDate>Mon, 15 Aug 2022 08:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：08月15日16时30分在青海海北州祁连县附近（北纬38.65度，东经99.25度）发生5.0级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2772763</guid>
-            <pubDate>Mon, 15 Aug 2022 08:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京多家银行称未收到降首付通知】针对南京限贷政策放松的传闻，记者8月15日致电中行、建行、工行、招行等多家银行南京分行或支行贷款部门进行核实，相关工作人员均表示，目前未收到明确调整通知。中行南京分行某客户经理告诉证券时报记者，该行目前仍执行原有政策，例如，已有1套房且贷款已结清的再申请房贷，执行5成首付，已有1套房且房贷未结清的再申请房贷执行8成首付。8月12日，网上传出的相关内容显示，南京部分市区下调房贷首付比例。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8244305.d.html</link>
-            <guid>2772762</guid>
-            <pubDate>Mon, 15 Aug 2022 08:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【复星医药：控股子公司获药品注册补充申请受理】复星医药公告，控股子公司上海复宏汉霖生物技术股份有限公司及其控股子公司研制的贝伐珠单抗注射液（即重组抗VEGF人源化单克隆抗体注射液，商品名：汉贝泰®）新增肝细胞癌适应症的补充申请获国家药品监督管理局药品审评中心受理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8244099.d.html</link>
-            <guid>2772761</guid>
-            <pubDate>Mon, 15 Aug 2022 08:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：菲律宾棉兰老岛地区发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6302520.d.html</link>
-            <guid>2772760</guid>
-            <pubDate>Mon, 15 Aug 2022 08:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[弘信电子公告，股东邱葵拟减持不超1.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6302246.d.html</link>
-            <guid>2772759</guid>
-            <pubDate>Mon, 15 Aug 2022 08:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元8月15日16:30收盘报6.7632，较上一交易日下跌283点。]]></title>
-            <guid>2772758</guid>
-            <pubDate>Mon, 15 Aug 2022 08:31:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京丰台划定高中风险区各一个】8月15日，在北京市新型冠状病毒肺炎疫情防控工作第386场新闻发布会上，丰台区副区长孔钢城介绍，丰台区划定风险区两个，其中高风险区一个，涉及太平桥街道丽新嘉园南区一号楼。划定中风险区一个，涉及太平桥街道丽新嘉园南区其他区域，涉及住户均已落实相应管控措施，公共空间已经开展环境采样和消毒，小区内全体居民的核酸检测工作正在有序进行。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8243602.d.html</link>
-            <guid>2772757</guid>
-            <pubDate>Mon, 15 Aug 2022 08:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格力电器在山东临沂投资成立供应链科技公司】天眼查显示，8月12日，明睿达供应链科技（临沂）有限公司成立，法定代表人为邓晓博，注册资本8000万元人民币，经营范围包括供应链管理服务；国内货物运输代理；智能仓储装备销售；普通货物仓储服务；制冷、空调设备销售；装卸搬运；家用电器安装服务等。该公司由珠海明睿达供应链科技有限公司全资持股，后者由珠海格力电器股份有限公司、重庆弘力物流有限公司共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6301900.d.html</link>
-            <guid>2772756</guid>
-            <pubDate>Mon, 15 Aug 2022 08:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，莱茵河关键航段水位下降到临界水平，处于无法通航状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8243395.d.html</link>
-            <guid>2772755</guid>
-            <pubDate>Mon, 15 Aug 2022 08:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【42℃！江苏最高气温纪录再次被刷新】15日14时15分，江苏省气象台发布通报：宜兴气温升至42.0℃，再度刷新江苏历史最高温纪录！原纪录为三天前宜兴的41.8℃。今天白天宜兴的气温有望继续冲高。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8243273.d.html</link>
-            <guid>2772754</guid>
-            <pubDate>Mon, 15 Aug 2022 08:29:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科技部、财政部：制定国家鼓励企业研发的重点领域指导目录 引导企业围绕国家需求开展技术创新】科技部、财政部印发《企业技术创新能力提升行动方案（2022-2023年）》，方案指出，引导企业加强关键核心技术攻关。制定国家鼓励企业研发的重点领域指导目录，引导企业围绕国家需求开展技术创新。国家科技计划中产业应用目标明确的项目，鼓励企业牵头组织实施，探索政府和社会资本合作开展关键核心技术攻关。支持数字经济、平台经济企业加强硬科技创新。支持中央企业、民营科技领军企业聚焦国家重大需求，牵头组建体系化、任务型创新联合体。对于企业牵头的国家科技计划项目，强化以创新联合体方式组织实施。依托更多企业组建一批国家技术创新中心等各类创新基地。加强国家工程技术研究中心评估考核和优化整合，符合条件的纳入国家技术创新中心管理。]]></title>
-            <guid>2772753</guid>
-            <pubDate>Mon, 15 Aug 2022 08:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通策医疗今日跌9.03% 3家机构净卖出1.99亿元】通策医疗今日跌9.03%，成交额15.54亿元，换手率3.52%，盘后龙虎榜数据显示，沪股通专用席位买入4078.78万元并卖出1.54亿元，2家机构专用席位净买入1.16亿元，3家机构专用席位净卖出1.99亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8243067.d.html</link>
-            <guid>2772752</guid>
-            <pubDate>Mon, 15 Aug 2022 08:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科技部、财政部：鼓励各类天使投资、风险投资基金支持企业创新创业】科技部、财政部印发《企业技术创新能力提升行动方案（2022—2023年）》的通知，强化对企业创新的风险投资等金融支持。建立金融支持科技创新体系常态化工作协调机制。鼓励各类天使投资、风险投资基金支持企业创新创业，深入落实创业投资税收优惠政策，引导创投企业投早、投小、投硬科技。用好用足科技创新再贷款、重大科技成果产业化专题债等政策工具，发挥各类金融机构的作用。推广企业创新积分贷、仪器设备信用贷等新型科技金融产品，为10万家以上企业增信授信。推广科技项目研发保险、知识产权保险等新型科技保险产品。鼓励地方建设科技企业信息平台，共享工商、社保、知识产权、税务、海关、水电等信息，完善金融机构与科技企业信息共享机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8243004.d.html</link>
-            <guid>2772751</guid>
-            <pubDate>Mon, 15 Aug 2022 08:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内跌幅达2.00%，现报90.02美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6301292.d.html</link>
-            <guid>2772750</guid>
-            <pubDate>Mon, 15 Aug 2022 08:26:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒瑞医药：HRS-5965 片获得药物临床试验批准通知书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8242733.d.html</link>
-            <guid>2772749</guid>
-            <pubDate>Mon, 15 Aug 2022 08:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TCL中环今日涨停 2家机构净卖出2.17亿元】TCL中环今日涨停，成交额63.18亿元，换手率3.57%，盘后龙虎榜数据显示，深股通专用席位买入6.47亿元并卖出3.82亿元，1家机构专用席位净买入1.03亿元，2家机构专用席位净卖出2.17亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6301174.d.html</link>
-            <guid>2772748</guid>
-            <pubDate>Mon, 15 Aug 2022 08:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京要严格落实远端管控和进返京规范管理】8月15日，在北京市新型冠状病毒肺炎疫情防控工作第386场新闻发布会上，市疾控中心副主任刘晓峰介绍，要严格落实远端管控和进返京规范管理，加强机场、车站、公路卡口等风险人员排查工作，坚持做好国际航班入境旅客和高风险岗位相关工作人员闭环管理和安全防护。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8242629.d.html</link>
-            <guid>2772747</guid>
-            <pubDate>Mon, 15 Aug 2022 08:25:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华大九天今日涨6.03% 4家机构净卖出2.68亿元】华大九天今日涨6.03%，成交额35.22亿元，换手率38.13%，盘后龙虎榜数据显示，4家机构专用席位净卖出2.68亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8242562.d.html</link>
-            <guid>2772746</guid>
-            <pubDate>Mon, 15 Aug 2022 08:24:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津松江：拟约3.977亿元收购卓朗发展剩余20%股权】天津松江公告，公司拟以现金人民币3.977亿元收购控股子公司天津卓朗科技发展有限公司20%股权，此次交易完成后，公司将持有卓朗发展100%股权，卓朗发展将成为公司的全资子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6300979.d.html</link>
-            <guid>2772745</guid>
-            <pubDate>Mon, 15 Aug 2022 08:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两艘船赴乌运粮 将装载7000吨葵花籽油及玉米】乌克兰UNIAH通讯社报道，当地时间15日，又有两艘船进入敖德萨港准备运载乌克兰粮食，这两艘船分别为悬挂瓦努阿图国旗的油轮“Elf ”号和悬挂帕劳国旗的干散货船“Sara”号。据悉，这两艘船将装载7000吨葵花籽油以及玉米供出口运输。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6300956.d.html</link>
-            <guid>2772744</guid>
-            <pubDate>Mon, 15 Aug 2022 08:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒力石化发布半年报，上半年实现净利润80.26亿元，同比下降7.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6300328.d.html</link>
-            <guid>2772743</guid>
-            <pubDate>Mon, 15 Aug 2022 08:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京新增4例本土感染者，在昌平朝阳丰台】8月15日，在北京市新型冠状病毒肺炎疫情防控工作第386场新闻发布会上，市疾控中心副主任刘晓峰介绍，8月15日0时至15时，本市在进返京人员中新发现4例本土新冠肺炎病毒感染者，昌平区2例、朝阳区和丰台区各1例；轻型2例、无症状感染者2例；隔离观察人员3例，社会面筛查人员1例（在昌平区）。已转至定点医院隔离治疗，相关风险点位及人员已管控落位。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6300218.d.html</link>
-            <guid>2772742</guid>
-            <pubDate>Mon, 15 Aug 2022 08:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江苏北人发布半年报，上半年净亏损788.69万元，上年同期净利润688.81万元。]]></title>
-            <guid>2772741</guid>
-            <pubDate>Mon, 15 Aug 2022 08:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：莱茵河关键航段水位下降到30厘米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8241541.d.html</link>
-            <guid>2772740</guid>
-            <pubDate>Mon, 15 Aug 2022 08:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国台办正告民进党当局：在谋“独”挑衅的路上不知收敛 必将遭到更严厉的打击】美联邦参议员马基日前窜访中国台湾地区。对此有何评论？国台办发言人马晓光应询时表示，美国某些政客和议员窜访中国台湾地区是违背美方在台湾问题上作出的严肃承诺、蓄意破坏台海地区和平稳定的又一例证。这种错误行为严重违反一个中国原则和中美三个联合公报规定，我们对此坚决反对。美国某些人不汲取佩洛西窜台严重后果的教训，民进党当局一再拉拢外部反华势力谋“独”挑衅，充分暴露美“以台制华”和民进党当局“倚美谋独”险恶用心。我们捍卫国家主权和领土完整的斗争得到国际社会广泛支持。正告民进党当局，如果在挟洋自重、谋“独”挑衅的路上不知收敛，必将遭到更严厉的打击。（央视新闻）]]></title>
-            <guid>2772739</guid>
-            <pubDate>Mon, 15 Aug 2022 08:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华建集团：拟4.8亿元投资上海园区高质量发展私募基金合伙企业】华建集团公告，拟使用自有资金认缴出资4.8亿元，以有限合伙人身份参与投资上海园区高质量发展私募基金合伙企业（有限合伙）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8241440.d.html</link>
-            <guid>2772738</guid>
-            <pubDate>Mon, 15 Aug 2022 08:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首都要始终绷紧疫情防控这根弦】8月15日，在北京市新型冠状病毒肺炎疫情防控工作第386场新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，当前境外疫情持续蔓延，国内疫情多地散发，北京连续报告境外输入确诊病例，零星报告京外关联输入确诊病例，虽然很快得到控制，但持续给我们警示，首都疫情防控要始终绷紧防控这根弦。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8241356.d.html</link>
-            <guid>2772737</guid>
-            <pubDate>Mon, 15 Aug 2022 08:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西藏全区累计确诊病例160例 无症状感染者1326例】2022年8月15日下午，西藏自治区举行新冠疫情防控工作第七场新闻发布会。西藏自治区卫生健康委一级巡视员王寿碧介绍：8月14日0时至24时，西藏全区本土新增确诊病例69例（其中拉萨市20例、日喀则市11例、昌都市2例、林芝市23例、那曲市5例、阿里地区8例）。新增无症状感染者523例（其中拉萨市139例、日喀则市316例、山南市19例、林芝市13例、那曲市10例、阿里地区26例）。8月15日0时至14时，西藏全区新增本土新冠肺炎确诊病例8例（日喀则市7例、林芝市1例）。新增本土无症状感染者232例（拉萨市44例、日喀则市131例、山南市10例、那曲市13例、阿里地区34例）。截至8月15日14时，西藏全区累计确诊病例160例，无症状感染者1326例。全区共有高风险区121个，中风险区222个。（央视新闻）]]></title>
-            <guid>2772736</guid>
-            <pubDate>Mon, 15 Aug 2022 08:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国电南自：有一定用电限制 但可以保障生产】国电南自工作人员表示，正值夏季用电高峰，公司在用电方面受到一定的额度限制，但只是暂时性的安排，并且目前可以保证正常生产所需。该工作人员还称，作为电力自动化领域企业，社会用电负荷增加暂时对公司订单刺激并不明显。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6299694.d.html</link>
-            <guid>2772735</guid>
-            <pubDate>Mon, 15 Aug 2022 08:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦敦金属交易所（LME）镍价格下跌3.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6299616.d.html</link>
-            <guid>2772734</guid>
-            <pubDate>Mon, 15 Aug 2022 08:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港财汇局：对中国恒大截至2020年12月31日止年度（中国恒大2020年年度账目）和截至2021年6月30日止六个月的财务报表进行查讯；以及对罗兵咸永道就中国恒大2020年年度账目的审计进行调查。]]></title>
-            <guid>2772733</guid>
-            <pubDate>Mon, 15 Aug 2022 08:14:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华建集团：拟4.8亿元参投园高基金】华建集团公告，公司拟使用自有资金认缴出资4.8亿元，以有限合伙人身份参与投资上海园区高质量发展私募基金合伙企业（有限合伙）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8241032.d.html</link>
-            <guid>2772732</guid>
-            <pubDate>Mon, 15 Aug 2022 08:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日盈电子公告，嘉兴鼎峰拟减持不超过2.088%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6299520.d.html</link>
-            <guid>2772731</guid>
-            <pubDate>Mon, 15 Aug 2022 08:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京新增4例京外关联本土感染者】8月15日，在北京市新型冠状病毒肺炎疫情防控工作第386场新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，今日，北京新增报告4例与京外关联的本土新冠肺炎病毒感染者。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6299432.d.html</link>
-            <guid>2772730</guid>
-            <pubDate>Mon, 15 Aug 2022 08:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川光伏产业链公司停产时间不一 对硅料价格影响有限】记者从业内人士获悉，四川部分硅料、电池片企业出现停产，但是停产时间不一，量不大，目前库存有效保障供应，所以对行业整体影响不大。近期国内有多个硅料新增产能爬坡，而零售市场需求放缓，因此供应总体仍然充足。分析人士称，只要长单采购的企业不参与零售市场抢货，市场供需关系不会恶化，就不会引发价格上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6299325.d.html</link>
-            <guid>2772729</guid>
-            <pubDate>Mon, 15 Aug 2022 08:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国第二日交付的天然气批发价格上涨5.3%，至379便士/撒姆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8240776.d.html</link>
-            <guid>2772728</guid>
-            <pubDate>Mon, 15 Aug 2022 08:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁夏吴忠市：公积金贷款“一人贷、全家还” 买新房补贴50%契税】据宁夏回族自治区吴忠市住房和城乡建设局消息，该局发布《吴忠市关于促进房地产业平稳健康发展的若干措施》补充措施，购买新房购置税补贴50%。自政策发布之日起，凡购买吴忠市区新建商品住房和存量商品住房的(不含二手房、别墅、商铺、车位、储藏间、工业厂房等)，并于2023年5月26日前缴清房款且签订网签合同的，在办理不动产登记时，由吴忠市财政局按其所缴契税税额的50%对购房人予以补贴。加强公积金贷款支持力度，实行先提后贷，“一人贷、全家还”。放开异地贷款宁夏区域限制，允许全国范围内的缴存住房公积金职工在吴忠市购房申请住房公积金贷款。扩大住房公积金购房、还贷提取人范围，本市缴存职工在市区内购买自住住房，子女及双方父母均可作为购房、还贷共同人，可办理公积金提取业务。推行发放住房公积金与商业银行组合贷款业务。支持申请住房公积金职工贷款先提后贷。实施灵活就业人员参加住房公积金制度，扩大住房公积金覆盖面。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8240715.d.html</link>
-            <guid>2772727</guid>
-            <pubDate>Mon, 15 Aug 2022 08:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港财汇局就若干交易对中国恒大和恒大物业的账目及审计展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6299117.d.html</link>
-            <guid>2772726</guid>
-            <pubDate>Mon, 15 Aug 2022 08:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股收盘，香港恒生指数收跌0.67%，恒生科技指数跌0.96%。餐饮、教育板块全天强势，海底捞收涨约8%，新东方收涨约3%。]]></title>
-            <guid>2772725</guid>
-            <pubDate>Mon, 15 Aug 2022 08:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉诚国际：半年报披露时间延至8月31日】嘉诚国际公告，公司原计划于2022年8月23日在中国证监会指定的信息披露媒体上披露《公司2022年半年度报告》及其摘要。由于公司编制定期报告的同时正在推进公开发行可转换公司债券事项，为确保公司信息披露的完整性和准确性，经公司研究决定，并向上海证券交易所申请批准，公司《2022年半年度报告》及其摘要披露日期由2022年8月23日变更为2022年8月31日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8240144.d.html</link>
-            <guid>2772724</guid>
-            <pubDate>Mon, 15 Aug 2022 08:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  布伦特原油期货跌超2%，WTI原油期货跌超1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8239885.d.html</link>
-            <guid>2772723</guid>
-            <pubDate>Mon, 15 Aug 2022 08:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家外汇管理局：2022年6月，银行结汇15666亿元人民币，售汇15270亿元人民币，结售汇顺差397亿元人民币。2022年1-6月，银行累计结汇86116亿元人民币，累计售汇80663亿元人民币，累计结售汇顺差5454亿元人民币。]]></title>
-            <guid>2772722</guid>
-            <pubDate>Mon, 15 Aug 2022 08:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼高级官员：将把8月16日至31日的粗棕榈油参考价格定在900.52美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8239742.d.html</link>
-            <guid>2772721</guid>
-            <pubDate>Mon, 15 Aug 2022 08:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST天润：公司与头牌商贸达成和解协议】ST天润公告，近日，公司与头牌商贸协商后，决定撤诉并达成和解协议，暂缓披露原因已消除，现将本次和解协议情况进行公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8239518.d.html</link>
-            <guid>2772720</guid>
-            <pubDate>Mon, 15 Aug 2022 08:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斗鱼2022年第二季度营收为18.33亿人民币，去年同期为23.37亿人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8239454.d.html</link>
-            <guid>2772719</guid>
-            <pubDate>Mon, 15 Aug 2022 08:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国7月末央行外汇占款21.3万亿元人民币，环比减少7.51亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizmscv6297913.d.html</link>
-            <guid>2772718</guid>
-            <pubDate>Mon, 15 Aug 2022 08:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车(XPEV.N)美股盘前跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-15/detail-imizirav8239206.d.html</link>
-            <guid>2772717</guid>
-            <pubDate>Mon, 15 Aug 2022 08:02:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

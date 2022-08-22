@@ -4,11 +4,27 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 22 Aug 2022 19:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 20:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国房地产信息公司Zillow周一报告称，美国房地产价格出现了2012年以来的首次下降。]]></title>
+            <guid>2780240</guid>
+            <pubDate>Mon, 22 Aug 2022 19:39:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛银行分析师将以色列央行年底政策利率预期上调至2.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7307632.d.html</link>
+            <guid>2780239</guid>
+            <pubDate>Mon, 22 Aug 2022 19:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲能源价格创出纪录新高之际，比利时首相亚历山大·德克罗警告称，未来“五到十个冬季将是艰难的”。德克罗表示，整个欧洲经济形势的发展非常困难，能源价格高企，一些行业面临严重困难。]]></title>
+            <guid>2780238</guid>
+            <pubDate>Mon, 22 Aug 2022 19:24:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴西累计确诊猴痘病例3788例 其中77例为儿童和青少年】当地时间8月22日，巴西卫生部门发布的最新数据显示，巴西已确诊猴痘病例3788例，其中77例为0至17岁的儿童和青少年，在这些低龄感染者中，20例为0至4岁儿童。根据卫生部的最新公告，另有4175例病例被视为疑似病例，正在等待检查结果以确认或排除是否感染该疾病。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9270229.d.html</link>
@@ -558,24 +574,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-22/detail-imizirav9253704.d.html</link>
             <guid>2780134</guid>
             <pubDate>Mon, 22 Aug 2022 14:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国周末交付的批发天然气价格上涨36.5%，至490便士/撒姆。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-22/detail-imizirav9253475.d.html</link>
-            <guid>2780133</guid>
-            <pubDate>Mon, 22 Aug 2022 14:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华东医药在研新药获新进展 卵巢癌治疗有望迎来ADC新药】华东医药宣布，公司与美国ImmunoGen, Inc.合作开发的Mirvetuximab Soravtansine，在中国复旦大学附属肿瘤医院完成Ⅲ期单臂临床试验首例受试者入组及给药。此次研究由中国复旦大学附属肿瘤医院吴小华教授牵头，旨在评估Mirvetuximab在叶酸受体α高表达的铂类耐药性晚期高级别上皮性卵巢癌、原发性腹膜癌或输卵管癌中国成人患者中的有效性和安全性。Mirvetuximab Soravtansine为中美华东与ImmunoGen在抗体偶联药物（ADC）领域合作开发的全球首个针对叶酸受体α（FRα）阳性卵巢癌的ADC在研药物，用于治疗FRα高表达的铂耐药卵巢癌，属于全球首创产品（First-in-class），中美华东拥有该产品在大中华区的独家临床开发及商业化权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-22/detail-imizmscv7290042.d.html</link>
-            <guid>2780132</guid>
-            <pubDate>Mon, 22 Aug 2022 14:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽紧急拨付3000万支持11个市抗旱救灾】据央视新闻消息，安徽省财政厅、省应急管理厅近日紧急下达3000万元中央自然灾害救灾资金，支持合肥、淮南、滁州、六安、马鞍山、芜湖、宣城、铜陵、池州、安庆、黄山等11个市做好抗旱救灾工作。今年7月份以来，安徽省已拨付中央自然灾害救灾资金6000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-22/detail-imizirav9253045.d.html</link>
-            <guid>2780131</guid>
-            <pubDate>Mon, 22 Aug 2022 14:11:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,73 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 26 Aug 2022 19:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 20:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【股市收盘】道琼斯指数8月26日（周五）收盘下跌1008.38点，跌幅3.03%，报32283.40点；标普500指数8月26日（周五）收盘下跌139.58点，跌幅3.32%，报4059.54点；纳斯达克综合指数8月26日（周五）收盘下跌497.55点，跌幅3.94%，报12141.71点。]]></title>
+            <guid>2784460</guid>
+            <pubDate>Fri, 26 Aug 2022 20:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标准普尔500指数本周累跌4%，道指跌4.2%，纳指跌4.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9891779.d.html</link>
+            <guid>2784459</guid>
+            <pubDate>Fri, 26 Aug 2022 20:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数和纳斯达克100指数录得两个月以来最大单周跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizmscv7916579.d.html</link>
+            <guid>2784446</guid>
+            <pubDate>Fri, 26 Aug 2022 20:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克金龙中国指数初步收跌0.6%，成分股好未来涨超10%领跑，逸仙电商涨9%，大全新能源涨约8%，B站则跌约7.7%，比特数字跌9.3%。]]></title>
+            <guid>2784445</guid>
+            <pubDate>Fri, 26 Aug 2022 20:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大指数大幅收跌，道指跌3.03%，标普500指数跌3.37%，纳指跌3.94%，科技股普跌，英伟达跌超9%，AMD跌超6%，谷歌跌超5%，苹果、微软跌超3%。热门中概股多数下跌。]]></title>
+            <guid>2784442</guid>
+            <pubDate>Fri, 26 Aug 2022 20:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国谷歌公司爆发新冠肺炎疫情，让那些复工复产的员工倍感挫折，部分雇员主张调整公司的疫情防控政策。]]></title>
+            <guid>2784429</guid>
+            <pubDate>Fri, 26 Aug 2022 19:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普跌3%，道指狂泄约900点，鲍威尔鹰声惊醒市场】标普500指数跌3%，科技板块跌3.7%，可选消费和电信板块跌3.5%。道指成分股3M跌约9%，法官拒绝该公司借申请破产来逃避23万宗诉讼。纳指跌3.5%。费城半导体指数跌超5%。特斯拉跌超2%，苹果跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizmscv7915602.d.html</link>
+            <guid>2784421</guid>
+            <pubDate>Fri, 26 Aug 2022 19:27:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股延续跌势，标普500指数跌幅达3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizmscv7915465.d.html</link>
+            <guid>2784417</guid>
+            <pubDate>Fri, 26 Aug 2022 19:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：失业率可能会从目前的水平上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9890051.d.html</link>
+            <guid>2784408</guid>
+            <pubDate>Fri, 26 Aug 2022 19:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：经济增长将在一段时间低于趋势水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizirav9890048.d.html</link>
+            <guid>2784407</guid>
+            <pubDate>Fri, 26 Aug 2022 19:16:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：通胀如此之高，令人不安。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizmscv7915313.d.html</link>
+            <guid>2784406</guid>
+            <pubDate>Fri, 26 Aug 2022 19:16:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  3M(MMM.N)跌幅扩大至5.71%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-27/detail-imizmscv7914867.d.html</link>
@@ -524,71 +586,6 @@
             <title><![CDATA[【联合国世界粮食计划署：全球面临严重粮食短缺人数三年涨1.5倍】联合国世界粮食计划署24日称，由于新冠疫情、气候变化以及俄乌冲突等因素，全球面临严重粮食短缺的人数从2019年之前的1.35亿增加到现在的大约3.45亿。世界粮食计划署指出，在包括也门在内的一些中东和北非国家，粮食短缺问题尤为严重。俄乌冲突的爆发，导致两国粮食出口减少，以及全球粮食价格上涨等，一些国家的粮食安全问题雪上加霜。（央视）]]></title>
             <guid>2784302</guid>
             <pubDate>Fri, 26 Aug 2022 15:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【黑龙江大庆新增8例无症状感染者 均在萨尔图区】8月25日17时到8月26日21时，黑龙江大庆市新增无症状感染者8例，均在萨尔图区。其中5例是密接在集中隔离期间发现的，2例是在中风险区发现的，1例是在社区筛查发现的，流调工作正在快速进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizirav9876392.d.html</link>
-            <guid>2784301</guid>
-            <pubDate>Fri, 26 Aug 2022 15:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克中国金龙指数转跌，热门中概股多数回落，哔哩哔哩(BILI.O)、小鹏汽车(XPEV.N)跌超4%，拼多多(PDD.O)跌3%，理想汽车(LI.O)跌超2%，阿里巴巴(BABA.N)、京东(JD.O)转跌。]]></title>
-            <guid>2784300</guid>
-            <pubDate>Fri, 26 Aug 2022 15:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【鲍威尔的讲话几乎是一种保证】整个星期，市场都在对鲍威尔讲话的预期中紧张不安，人们希望近期的积极数据可能会改变过去几个月大幅加息的基调。鲍威尔对数据的改善表示赞同，但全面粉碎了对更鸽派立场的希望。鲍威尔的讲话几乎向市场保证，美联储将在9月的下次会议上加息至少50个基点，再加息75个基点的可能性很大。鲍威尔表示，“在下一次会议上，再次不同寻常的大幅加息可能是合适的”，但他指出，未来任何加息的确切规模取决于即将公布的数据，“随着货币政策立场进一步收紧，放缓加息步伐可能会变得合适。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizmscv7901717.d.html</link>
-            <guid>2784299</guid>
-            <pubDate>Fri, 26 Aug 2022 15:04:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币跌破21000美元/枚，日内跌2.98%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizirav9876052.d.html</link>
-            <guid>2784298</guid>
-            <pubDate>Fri, 26 Aug 2022 15:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内期货主力合约涨多跌少】截至23:00收盘，国内期货主力合约涨多跌少。20号胶（NR）涨2%，橡胶涨近2%，白糖涨超1%；跌幅方面，动力煤跌超6%，燃油、低硫燃料油（LU）跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizmscv7901464.d.html</link>
-            <guid>2784297</guid>
-            <pubDate>Fri, 26 Aug 2022 15:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国上诉法院驳回了对美国联邦通信委员会批准SpaceX卫星部署计划的质疑。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizmscv7901265.d.html</link>
-            <guid>2784296</guid>
-            <pubDate>Fri, 26 Aug 2022 14:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD日内涨幅达0.50%，现报1.2988。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizirav9875671.d.html</link>
-            <guid>2784295</guid>
-            <pubDate>Fri, 26 Aug 2022 14:56:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金跌破1740美元/盎司，日内跌1.06%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizirav9875666.d.html</link>
-            <guid>2784294</guid>
-            <pubDate>Fri, 26 Aug 2022 14:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场评鲍威尔讲话：美联储可能会在未来几个月实施更多的大幅加息】市场评鲍威尔讲话：鲍威尔周五传达了一个明显的信息，即美联储可能会在未来几个月实施更多的大幅加息，并坚决专注于控制40年来最高的通胀。鲍威尔承认，美联储继续收紧政策将给许多家庭和企业带来痛苦，因为加息将进一步放缓经济，并可能导致失业。“这是降低通胀的不幸代价，但如果不能恢复价格稳定，将意味着更大的痛苦。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizmscv7900991.d.html</link>
-            <guid>2784293</guid>
-            <pubDate>Fri, 26 Aug 2022 14:55:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  巴西经济部长Guedes称预测通货膨胀将下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizmscv7900855.d.html</link>
-            <guid>2784292</guid>
-            <pubDate>Fri, 26 Aug 2022 14:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[康希诺生物：上半年营收6.3亿元，同比减少69.45%；净利润1223.8万元，上年同期9.37亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-26/detail-imizirav9875080.d.html</link>
-            <guid>2784291</guid>
-            <pubDate>Fri, 26 Aug 2022 14:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

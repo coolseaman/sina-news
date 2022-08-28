@@ -4,11 +4,31 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 28 Aug 2022 21:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 22:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美元指数DXY短线走高逾10点，站上109；美元兑日元USD/JPY短线走高24点，现报137.81。]]></title>
+            <guid>2785559</guid>
+            <pubDate>Sun, 28 Aug 2022 22:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（8月29日）亚太盘初，标普500股指期货跌0.70%，纳斯达克100股指期货跌0.90%，道指期货跌0.60%。]]></title>
+            <guid>2785558</guid>
+            <pubDate>Sun, 28 Aug 2022 22:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股股指期货集体开跌，纳指期货下跌1.1％，道指期货跌超0.6%，标普500指数期货跌超0.7%。]]></title>
+            <guid>2785557</guid>
+            <pubDate>Sun, 28 Aug 2022 22:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国将大力实施可再生能源替代行动】 在近日举行的第二届清华大学“碳中和经济”论坛上，国家能源局新能源与可再生能源司司长李创军表示，“十四五”期间，我国可再生能源发展将坚持以高质量跃升发展为主题，大力实施可再生能源替代行动。李创军表示，未来可再生能源的发展将坚持六个并举：集中式与分布式并举、陆上与海上并举、就地消纳与外送消纳并举、单品种开发与多品种互补并举、单一场景与综合场景并举、发电利用与非电利用并举，促进可再生能源大规模、高比例、高质量、市场化发展，有效支撑清洁低碳、安全高效、现代能源体系建设。（中新网）]]></title>
+            <guid>2785556</guid>
+            <pubDate>Sun, 28 Aug 2022 21:17:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【大基地建设加速 清洁能源愈加“风光”】 调研了解到，作为“十四五”清洁能源发展的重中之重，目前包括大型风电、光伏基地在内的多个大基地规划建设正在加快推进，后续还将有更多的项目开工。在加快供给能力建设的同时，利用成本、电力消纳等难题也在逐步破解。未来，清洁能源将迎来更大发展空间，为我国能源安全提供有力保障，也为经济增长和“双碳”目标实现注入新动力。（经济参考报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-29/detail-imizmscv8122085.d.html</link>
@@ -567,29 +587,6 @@
             <title><![CDATA[28日0时至14时，西藏新增本土新冠肺炎确诊病例9例，新增无症状感染者156例。（央视新闻）]]></title>
             <guid>2785109</guid>
             <pubDate>Sun, 28 Aug 2022 08:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年第11号台风“轩岚诺”生成 未来强度将逐渐增强】据中央气象台消息，今年第11号台风（热带风暴级）“轩岚诺”于今天（8月28日）下午生成。14时其中心距离日本东京东南方向约1420公里，预计台风将以每小时20~25公里的速度向西偏北方向移动，强度逐渐增强。]]></title>
-            <guid>2785108</guid>
-            <pubDate>Sun, 28 Aug 2022 07:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【祥源新材：拟发行不超过4.6亿元可转债】祥源新材公告，拟发行不超过4.6亿元可转债，用于新能源车用材料生产基地建设项目等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0049809.d.html</link>
-            <guid>2785106</guid>
-            <pubDate>Sun, 28 Aug 2022 07:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宁德时代计划2023年推出凝聚态电池】宁德时代首席科学家吴凯今日在世界新能源汽车大会上透露，宁德时代计划在2023年推出新一代电池电芯：凝聚态电池。凝聚态电池拥有安全性高、可靠性高、循环寿命好等特点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0049770.d.html</link>
-            <guid>2785105</guid>
-            <pubDate>Sun, 28 Aug 2022 07:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国太保：上半年实现净利润133亿元，同比下降23.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0049625.d.html</link>
-            <guid>2785104</guid>
-            <pubDate>Sun, 28 Aug 2022 07:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

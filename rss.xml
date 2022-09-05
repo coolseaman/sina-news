@@ -4,11 +4,395 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 08:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[祥鑫科技：近日，公司收到逆变器及储能相关客户（根据与客户的保密协议，无法披露客户的具体名称）的项目中标通知，确定公司为商用逆变器及储能相关产品的供应商，预计项目生命周期为3年，预计项目交易金额为人民币7-8亿元。]]></title>
+            <guid>2793330</guid>
+            <pubDate>Mon, 05 Sep 2022 08:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奥翔药业：非公开发行股票申请获审核通过】奥翔药业公告，非公开发行A股股票申请获得证监会发审委审核通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6041130.d.html</link>
+            <guid>2793329</guid>
+            <pubDate>Mon, 05 Sep 2022 08:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃涅尔戈达尔地方官员称扎波罗热核电站5号机组已经关闭】埃涅尔戈达尔地方负责人9月5日接受俄媒采访时表示，扎波罗热核电站5号机组已经关闭，而6号机组继续运转并向乌克兰地区供应电力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6041094.d.html</link>
+            <guid>2793328</guid>
+            <pubDate>Mon, 05 Sep 2022 08:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[湖南发布气象干旱红色预警，50个县市区达特旱等级。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6040788.d.html</link>
+            <guid>2793327</guid>
+            <pubDate>Mon, 05 Sep 2022 08:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首钢股份：拟购买矿业公司下属球团、烧结工序有效经营性资产】首钢股份公告，拟以现金方式购买控股股东首钢集团有限公司之分公司首钢集团有限公司矿业公司下属球团、烧结工序有效经营性资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9201238.d.html</link>
+            <guid>2793326</guid>
+            <pubDate>Mon, 05 Sep 2022 08:13:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广期所冷冰：广期所将继续储备研究其他与绿色发展相关的贵金属和有色金属期货，探索研究贵金属和有色金属品种指数类期货，完善绿色发展品种产业链。（一财）]]></title>
+            <guid>2793325</guid>
+            <pubDate>Mon, 05 Sep 2022 08:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广期所冷冰会上透露，工业硅期货的报批进入了实质性阶段。“各部委意见已经反馈过来，有望在近期报到国务院，有望在这个月份经国务院之后获得批准。”（一财）]]></title>
+            <guid>2793324</guid>
+            <pubDate>Mon, 05 Sep 2022 08:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国5年期国债收益率跳涨10个基点至2.95%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9200955.d.html</link>
+            <guid>2793323</guid>
+            <pubDate>Mon, 05 Sep 2022 08:11:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[四川突发6.8级地震，五粮液、泸州老窖等企业回应：有明显震感，但目前对生产经营没有实质性影响。（大河报）]]></title>
+            <guid>2793322</guid>
+            <pubDate>Mon, 05 Sep 2022 08:10:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广期所冷冰：将尽快推出铂、钯期货品种，工业硅期货将于年内推出。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6039859.d.html</link>
+            <guid>2793321</guid>
+            <pubDate>Mon, 05 Sep 2022 08:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民银行：人民币双向波动是一种常态】人民银行副行长刘国强认为，人民币长期的趋势应该是明确的，未来世界对人民币的认可度会不断增强，这是长期趋势。但是短期内应该是这样的，双向波动是一种常态，有双向波动，不会出现“单边市”，但是汇率的点位是测不准的，大家不要去赌某个点。合理均衡、基本稳定是我们喜闻乐见的，我们也有实力支撑，我觉得不会出事，也不允许出事。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9200528.d.html</link>
+            <guid>2793320</guid>
+            <pubDate>Mon, 05 Sep 2022 08:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民银行：目前来看中国外汇市场运行正常】人民银行副行长刘国强表示，目前来看中国外汇市场运行正常，跨境资金流动有序，受美国货币政策的溢出效应虽然有影响，但是影响可控。这既得益于中国经济长期向好的基本面没有变，经济韧性比较强，而且目前我非常相信经济又进入了一个上行的阶段，另外也得益于中国的汇率机制，我们以市场供求为基础的汇率制度改革不断深化，宏观审慎的管理不断完善，汇率的弹性也明显增强，这样就比较好地发挥调节宏观经济和国际收支自动稳定器的功能。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9200474.d.html</link>
+            <guid>2793319</guid>
+            <pubDate>Mon, 05 Sep 2022 08:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港恒生指数收跌1.16%，恒生科技指数跌1.92%，在线教育、汽车股跌幅居前，煤炭、石油股涨幅居前，兖矿能源涨超12%，中煤能源涨超8%，新东方在线跌超15%，蔚来跌超6%，比亚迪股份跌超5%。]]></title>
+            <guid>2793318</guid>
+            <pubDate>Mon, 05 Sep 2022 08:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今日0-14时，西藏新增本土确诊病例18例和无症状感染者171例。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6039442.d.html</link>
+            <guid>2793317</guid>
+            <pubDate>Mon, 05 Sep 2022 08:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国机精工：拟投资新型高功率MPCVD法大单晶金刚石项目（二期）】国机精工公告，拟投资新型高功率MPCVD法大单晶金刚石项目（二期），建设年产5万片超高导热单晶/多晶金刚石材料生产线和年产60万片高品级大单晶金刚石生产线各一条，该项目总投资估算2.63亿元。项目达产后预计可实现年营业收入（含税）1.78亿元，利润总额5181万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6039400.d.html</link>
+            <guid>2793316</guid>
+            <pubDate>Mon, 05 Sep 2022 08:07:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【发改委杨荫凯：必须抢抓时间窗口 果断出台接续政策】杨荫凯表示，当前我国经济正处于企稳回升的重要窗口，三季度出台政策至关重要。下半年是回补二季度疫情损失的关键期，也是政策发挥作用的黄金期，必须抢抓时间窗口，果断出台接续政策，有力保持经济恢复发展的势头。下一步，国家发展改革委将按照党中央、国务院决策部署，争分夺秒抓好落实，推动相关实施细则早出快出、应出尽出，用改革办法加快释放政策效能，保持经济运行在合理区间，努力争取最好结果。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6039290.d.html</link>
+            <guid>2793315</guid>
+            <pubDate>Mon, 05 Sep 2022 08:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【诚意药业：公司产品完成国产保健食品备案】诚意药业公告，近日，公司“三康®鱼油软胶囊”、“瓦塞帕®鱼油软胶囊”产品完成了国产保健食品备案工作，并获得国家市场监督管理总局发放的国产保健食品备案凭证。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6039200.d.html</link>
+            <guid>2793314</guid>
+            <pubDate>Mon, 05 Sep 2022 08:06:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家发改委：将督促各方面抓住今年三季度施工黄金期 加快项目建设实施】国家发展改革委副秘书长杨荫凯表示，下一步，将督促各方面抓住今年三季度施工黄金期，加快项目建设实施，尽快发挥投资的效益，推动中央预算内投资、地方政府专项债券以及政策性开发性金融工具协调配合，共同发力。同时，积极吸引社会资本参与重大项目建设，促进投资稳定增长，不断巩固经济回升向好的势头。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9199872.d.html</link>
+            <guid>2793313</guid>
+            <pubDate>Mon, 05 Sep 2022 08:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪威尔公告，持股3.18%的股东杨建民拟减持不超过3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6038905.d.html</link>
+            <guid>2793312</guid>
+            <pubDate>Mon, 05 Sep 2022 08:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：莫斯科交易所于上午10:50（北京时间15:50）停止贵金属交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6038851.d.html</link>
+            <guid>2793311</guid>
+            <pubDate>Mon, 05 Sep 2022 08:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球市场情报首席商业经济学家Chris Williamson：欧元区商业状况持续恶化的第二个月增加了第三季度GDP萎缩的可能性。8月份产出下降速度加快，由于近期通胀飙升，且经济前景越来越不确定，企业和家庭纷纷缩减支出。这种恶化还变得更加广泛，服务业现在也加入了制造业的行列，报告产出下降。]]></title>
+            <guid>2793310</guid>
+            <pubDate>Mon, 05 Sep 2022 08:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金地集团： 8月签约额212.3亿元 同比增11.56%】金地集团公告，8月公司实现签约面积102.4万平方米，同比上升14.45%；实现签约金额212.3亿元，同比上升11.56%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9199538.d.html</link>
+            <guid>2793309</guid>
+            <pubDate>Mon, 05 Sep 2022 08:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上汽集团：8月份新能源汽车销量104,852辆，同比增长48.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6038513.d.html</link>
+            <guid>2793308</guid>
+            <pubDate>Mon, 05 Sep 2022 08:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区8月服务业PMI下修至49.8，创去年3月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6038373.d.html</link>
+            <guid>2793307</guid>
+            <pubDate>Mon, 05 Sep 2022 08:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行温信祥：依法督促平台企业支付业务整改】中国人民银行支付结算司司长温信祥日前在《中国金融》上撰文指出，下一步，人民银行将不断提升服务管效能、优化服务供给，推动我国支付体系高质量发展，为建设现代化中央银行和服务经济民生提供更好支撑。在监管方面，温信祥表示，强化支付监管，推动产业高质量发展。面对金融科技的快速发展，要加强现代科技在支付监管领域的应用，全面提升支付体系安全保障能力。建立统筹监管机制，发挥监管部门合力，突出全链条管理和穿透式监管，依法督促平台企业支付业务整改，系统治理跨境赌博、电信网络诈骗和非法支付活动“资金链”，维护好、发展好、保障好人民群众利益。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6038283.d.html</link>
+            <guid>2793306</guid>
+            <pubDate>Mon, 05 Sep 2022 08:01:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦金属交易所(LME)：铝库存增加1000吨，铜库存减少2100吨，镍库存减少66吨，铅库存减少25吨，锡库存持平，锌库存减少25吨。]]></title>
+            <guid>2793305</guid>
+            <pubDate>Mon, 05 Sep 2022 08:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区8月服务业PMI终值 49.8，预期50.2，前值50.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9198897.d.html</link>
+            <guid>2793304</guid>
+            <pubDate>Mon, 05 Sep 2022 08:00:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家发改委：推动新增额度能够尽快落实落地】国家发展改革委副秘书长杨荫凯：目前首批3000亿元政策性开发性金融工具额度已全部完成投放，正加快形成实物工作量。下一步，我们将继续发挥协调机制的作用，推动新增额度能够尽快落实落地。我们将督促各方面抓住今年三季度施工黄金期，加快项目建设实施，尽快发挥投资的效益，推动中央预算内投资、地方政府专项债券以及政策性开发性金融工具协调配合，共同发力。同时，积极吸引社会资本参与重大项目建设，促进投资稳定增长，不断巩固经济回升向好的势头。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9198833.d.html</link>
+            <guid>2793303</guid>
+            <pubDate>Mon, 05 Sep 2022 07:59:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鹏鼎控股：8月合并营收35.15亿元 同比增11.16%】鹏鼎控股公告，公司2022年8月合并营业收入为35.15亿元，较去年同期的合并营业收入增加11.16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9198760.d.html</link>
+            <guid>2793302</guid>
+            <pubDate>Mon, 05 Sep 2022 07:59:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川省地震局专家：泸定6.8级地震震中位于鲜水河断裂带磨西断裂附近】从四川省地震局获悉，地震专家综合分析认为，此次地震震中位于鲜水河断裂带南东段磨西断裂附近，为主震-余震型地震，根据区域构造、历史地震活动、地震序列类型等资料，近期原震区发生更大地震的可能性不大，余震活动仍将持续一段时间。截至2022年9月5日15时00分共记录到M3.0级及以上余震3次，其中6.0-6.9级地震0次，5.0-5.9级地震0次，4.0-4.9级地震1次，3.0-3.9级地震2次。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9198743.d.html</link>
+            <guid>2793301</guid>
+            <pubDate>Mon, 05 Sep 2022 07:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球市场情报经济副总监Phil Smith：法国服务公司努力填补员工空缺，这意味着8月份就业人数再次上升，但由于需求减弱抑制了企业的招聘欲望，就业增长速度放缓至一年半以来的最低水平。尽管商业信心在8月份有所回升，但由于目前经济的高度不确定性，尤其是能源形势的不确定性，商业信心总体上仍然处于低迷状态。]]></title>
+            <guid>2793300</guid>
+            <pubDate>Mon, 05 Sep 2022 07:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华海药业公告，制剂产品普瑞巴林胶囊获得美国FDA批准文号。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6037711.d.html</link>
+            <guid>2793299</guid>
+            <pubDate>Mon, 05 Sep 2022 07:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球市场情报经济副总监Phil Smith：在今年上半年为经济提供了重要支持之后，德国服务业的商业活动在第三季度开始下滑，原因是国内需求受到高通胀和信心动摇的压力。8月份数据显示，服务业活动的下滑步伐加快，再加上制造业的持续疲弱，增加了第三季度经济整体萎缩的可能性。]]></title>
+            <guid>2793298</guid>
+            <pubDate>Mon, 05 Sep 2022 07:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉控股：联合体中标汕头海湾隧道试运营期运维服务采购项目】武汉控股：近日收到中信国际招标有限公司发出的《中标通知书》，确定长江隧道公司与中铁隧道集团机电工程有限公司（简称“中铁隧道机电公司”）组成的联合体中标“汕头海湾隧道试运营期运维服务采购项目”， 中 标 金 额6669万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6037568.d.html</link>
+            <guid>2793297</guid>
+            <pubDate>Mon, 05 Sep 2022 07:56:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国8月服务业PMI终值录得47.7，创去年2月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9198410.d.html</link>
+            <guid>2793296</guid>
+            <pubDate>Mon, 05 Sep 2022 07:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国8月服务业PMI终值 47.7，预期48.2，前值48.2。德国8月综合PMI终值 46.9，预期47.6，前值47.6。]]></title>
+            <guid>2793295</guid>
+            <pubDate>Mon, 05 Sep 2022 07:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球市场情报经济主任Andrew Harker评法国8月服务业PMI数据：法国服务业活动似乎正逐渐走向停滞，未来展望指标表明，更糟的情况还在后面。新订单自2021年初以来首次下降，由于对需求前景的担忧加剧，商业预期跌至2020年底以来的最低水平。]]></title>
+            <guid>2793294</guid>
+            <pubDate>Mon, 05 Sep 2022 07:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：莫斯科交易所于上午10:50（北京时间15:50）停止外汇交易。对此，莫斯科交易所没有给出暂停外汇交易的理由。]]></title>
+            <guid>2793293</guid>
+            <pubDate>Mon, 05 Sep 2022 07:53:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【G7将对俄罗斯石油限价，外交部：望有关国家为缓和局势作出建设性努力】9月5日，外交部发言人毛宁主持例行记者会。有记者提问，当地时间8月2日，七国集团（G7）财长达成协议，要对俄罗斯石油实施价格上限，中国是否会加入他们？毛宁表示，石油是全球大宗商品之一，确保全球能源供应安全至关重要。我们希望有关国家通过对话协商，为推动局势缓和作出建设性努力，而不是相反。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9197826.d.html</link>
+            <guid>2793292</guid>
+            <pubDate>Mon, 05 Sep 2022 07:52:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甘孜州泸定县6.8级地震已致7人遇难】甘孜州人民政府新闻办召开新闻发布会，通报甘孜州泸定县6.8级地震相关情况。目前地震已导致7人遇难。道路、通讯、房屋等受损情况正在核查中。州级相关部门已派出武警、消防、医疗救治、通讯电力、交通保畅等救援力量635人开展抢险工作。 (川观新闻 )]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6036769.d.html</link>
+            <guid>2793291</guid>
+            <pubDate>Mon, 05 Sep 2022 07:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国8月服务业PMI终值 51.2，预期51，前值51。法国8月综合PMI终值 50.4，预期49.8，前值49.8。]]></title>
+            <guid>2793290</guid>
+            <pubDate>Mon, 05 Sep 2022 07:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国富时100指数日内跌幅达1.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6036456.d.html</link>
+            <guid>2793289</guid>
+            <pubDate>Mon, 05 Sep 2022 07:49:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国未来一年的基本负荷电价上涨24%，达到620欧元/兆瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9196961.d.html</link>
+            <guid>2793288</guid>
+            <pubDate>Mon, 05 Sep 2022 07:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿尔特：与某智能驾驶科技公司签署技术开发合同】阿尔特公告，公司与某智能驾驶科技公司签署了关于造型开发与工程开发的《技术开发合同》，该客户委托阿尔特进行某项目的造型及工程的设计开发，合同总额为1.38亿元。客户委托的项目是面向未来出行的量产车，整车针对乘客需求和无人驾驶出行场景进行了深度设计。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9196919.d.html</link>
+            <guid>2793287</guid>
+            <pubDate>Mon, 05 Sep 2022 07:47:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财政部：研究扩大专项债券资金投向领域和扩大专项债用作项目资本金的范围】9月5日，国新办举行国务院政策例行吹风会。财政部部长助理欧文汉表示，财政部拟指导地方依法用好5000多亿元的专项债务结存限额，通过发行新增专项债券，重点支持交通基础设施、能源、农林水利、生态环保、社会事业、城乡冷链等物流基础设施，政府产业园区基础设施，国家重大战略项目，保障性安居工程以及新能源项目和新型基础设施项目建设。同时，财政部将积极研究适当扩大专项债券资金投向领域和扩大专项债券用作项目资本金的范围，更好发挥专项债券拉动有效投资的作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9196780.d.html</link>
+            <guid>2793286</guid>
+            <pubDate>Mon, 05 Sep 2022 07:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利8月服务业PMI 50.5，预期48.3，前值48.4。意大利8月综合PMI 49.6，预期48，前值47.7。]]></title>
+            <guid>2793285</guid>
+            <pubDate>Mon, 05 Sep 2022 07:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际原子能机构代表团已离开扎波罗热核电站】当地时间9月5日，国际原子能机构代表团已离开扎波罗热核电站。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6035556.d.html</link>
+            <guid>2793284</guid>
+            <pubDate>Mon, 05 Sep 2022 07:44:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲁北化工：目前硫酸亚铁处于产销平衡 平均销售价格大约为380元左右】鲁北化工在互动平台表示，公司目前硫酸亚铁处于产销平衡，硫酸亚铁库存合理，平均销售价格大约为380元左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9196295.d.html</link>
+            <guid>2793283</guid>
+            <pubDate>Mon, 05 Sep 2022 07:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财政部部长助理欧文汉：通过发行新增专项债券支持物流基础设施】财政部部长助理欧文汉表示，财政部拟指导地方依法用好5000多亿元的专项债务结存限额，通过发行新增专项债券，重点支持交通基础设施、能源、农林水利、生态环保、社会事业、城乡冷链等物流基础设施。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6035333.d.html</link>
+            <guid>2793282</guid>
+            <pubDate>Mon, 05 Sep 2022 07:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来亚银行：越南的政策可能会提升股市景气度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9196050.d.html</link>
+            <guid>2793281</guid>
+            <pubDate>Mon, 05 Sep 2022 07:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外交部：美国人为对中美经贸往来和科技交流设置障碍，将反噬美国自身】9月5日，外交部发言人毛宁主持例行记者会。有外媒记者对拜登政府限制美国对华科技公司投资相关问题进行提问。“我也看到了有关报道，对其中提到的美国动用政府权力打压中国企业的做法感到关切。”毛宁表示，科技应该造福全人类，不应该成为限制或者是遏制别国发展的手段。毛宁指出，美国泛化国家安全概念，人为对中美经贸往来和科技交流设置障碍的做法，与市场经济原则和国际经贸规则背道而驰，有损国际社会对美国营商环境的信心，也将会反噬美国自身。中国政府将继续坚定维护本国企业的正当合法权益。（澎湃新闻）]]></title>
+            <guid>2793280</guid>
+            <pubDate>Mon, 05 Sep 2022 07:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部：推动一批重点外资项目落地】商务部部长助理李飞表示，加大力度稳外资。抓紧推出促进制造业引资、设立外资研发中心等新一批稳外资政策，加强全流程服务和全方位保障，推动一批重点外资项目落地，鼓励国家级经开区等平台更好发挥引资带动作用。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6034744.d.html</link>
+            <guid>2793279</guid>
+            <pubDate>Mon, 05 Sep 2022 07:40:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【惠丰钻石：与郑州航空工业管理学院签订产学研合作协议】惠丰钻石公告，公司与郑州航空工业管理学院签署了《产学研合作协议》，双方合作开展科学研究、学习新知识新技术、探索新知识新技术的创造性应用、进行新产品的测试或在项目中进行新技术的开发和应用等。重点在表面刻蚀金刚石多刃磨粒的制造，及其在半导体材料加工中的研磨、抛光的应用方面展开研究。]]></title>
+            <guid>2793278</guid>
+            <pubDate>Mon, 05 Sep 2022 07:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部：进一步促进汽车、家电、家居等重点领域消费】商务部部长助理李飞表示，积极有效促消费。进一步促进汽车、家电、家居等重点领域消费，加大针对性纾困帮扶力度，支持餐饮、住宿等行业恢复发展，在严格做好疫情防控的前提下，持续办好消费促进活动，积极打造消费新场景，完善城乡商贸流通体系，大力推动农村消费。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6034574.d.html</link>
+            <guid>2793277</guid>
+            <pubDate>Mon, 05 Sep 2022 07:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财政部：支持中小微企业纾困解难】财政部部长助理欧文汉表示，支持中小微企业纾困解难。在抓好各项税收优惠政策落实的同时，扩大融资担保业务规模，降低融资担保费率。1-8月，国家融资担保基金新增再担保合作业务规模8278亿元，同比增长54.9%；平均担保费率0.68%，比上年同期下降0.14个百分点。加大政府采购支持中小企业力度，帮助中小企业添订单、增动力、稳预期。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9195536.d.html</link>
+            <guid>2793276</guid>
+            <pubDate>Mon, 05 Sep 2022 07:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部：积极支持新能源汽车等重点产品出口】商务部部长助理李飞表示，多措并举稳外贸。加快推进跨境电商、市场采购贸易方式等新业态新模式发展，积极支持新能源汽车等重点产品出口，畅通外贸企业抓订单渠道，为企业参展、洽谈提供更多便利，帮助企业提升汇率等风险应对能力。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6034488.d.html</link>
+            <guid>2793275</guid>
+            <pubDate>Mon, 05 Sep 2022 07:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财政部：截至8月底已累计发行专项债券3.52万亿元】财政部部长助理欧文汉表示，加快地方政府专项债券发行使用。截至8月底，已累计发行专项债券3.52万亿元，用于项目建设的额度已基本发行完毕，比以往年度大大提前。同时，将新型基础设施、新能源项目纳入专项债券重点支持范围，更好发挥专项债券带动扩大有效投资的作用。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9195408.d.html</link>
+            <guid>2793273</guid>
+            <pubDate>Mon, 05 Sep 2022 07:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行副行长刘国强：实施好稳健的货币政策 不搞大水漫灌、不透支未来】人民银行副行长刘国强5日在国务院政策例行吹风会上表示，下阶段，人民银行将实施好稳健的货币政策，加力巩固经济恢复发展基础，不搞大水漫灌、不透支未来。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6034298.d.html</link>
+            <guid>2793272</guid>
+            <pubDate>Mon, 05 Sep 2022 07:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外交部回应西工大遭网络攻击事件：要求美方立即停止不法行为】9月5日，外交部发言人毛宁主持例行记者会。有记者提问，日前国家计算机病毒应急处理中心和360公司分别发布了关于西北工业大学遭受美国国家安全局网络攻击的调查报告，显示美国国家安全局下属的特定入侵行动办公室针对中国的网络目标实施了上万次的恶意网络攻击。请问中方对此有何评论？毛宁指出，报告显示，美方先后使用41种专用网络攻击武器装备，对西北工业大学发起攻击窃密行动上千次，窃取了一批核心技术数据。美方还长期对中国的手机用户进行无差别语言监听，非法窃取手机用户的短信内容，并对其进行无线定位。美方的行径严重危害中国国家安全和公民个人信息安全。中方对此强烈谴责，我们要求美方作出解释，并立即停止不法行为。毛宁强调，网络空间安全是世界各国面临的共同问题，作为拥有最强大网络技术实力的国家，美国应该立即停止利用自身优势对他国进行窃密和攻击，以负责任的态度参与全球网络空间治理，为维护网络安全发挥建设性作用。（北京日报）]]></title>
+            <guid>2793271</guid>
+            <pubDate>Mon, 05 Sep 2022 07:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX期银向上触及18美元/盎司，日内涨0.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6033985.d.html</link>
+            <guid>2793269</guid>
+            <pubDate>Mon, 05 Sep 2022 07:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家发改委：已筛选形成了今年新的一批准备项目清单】国家发改委副秘书长杨荫凯表示，近期发改委已经组织地方报送并筛选形成了今年新的一批准备项目清单，这个清单已经反馈给地方，同时抄送了财政部、人民银行和审计署。加上今年前期准备项目清单中，有一些尚未安排的项目，总体上能够满足5000多亿元专项债限额存量的发行需求。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9194962.d.html</link>
+            <guid>2793268</guid>
+            <pubDate>Mon, 05 Sep 2022 07:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行副行长刘国强：保障房地产合理融资需求】人民银行副行长刘国强表示，突出重点领域、薄弱环节和受疫情影响行业的支持。用好支农支小再贷款，落实好支持煤炭清洁高效利用、科技创新、普惠养老、交通物流专项再贷款和普惠小微贷款支持工具、碳减排支持工具。继续对小微企业和个体工商户、货车司机贷款及受疫情影响的个人住房与消费贷款等实施延期还本付息。保障房地产合理融资需求，合理支持刚性和改善性住房需求。依法合规加大对平台经济重点领域的金融支持，促进平台经济健康持续发展。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6033825.d.html</link>
+            <guid>2793267</guid>
+            <pubDate>Mon, 05 Sep 2022 07:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飞猪回应四川地震：因震情导致行程变化的酒店订单可申请免费退改】飞猪内部人士回应，针对四川泸定地震所造成的出行订单影响，飞猪已联合当地酒店商家启动退改服务保障，用户可申请免费退改。航空、地面交通方面，因灾害造成航班、火车、汽车停运等情况，平台将严格按照有关单位的最新政策，第一时间为有需要的旅客办理相关退改业务。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9194669.d.html</link>
+            <guid>2793266</guid>
+            <pubDate>Mon, 05 Sep 2022 07:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[鸿海：8月销售额4489.1亿新台币，同比增长12.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9194577.d.html</link>
+            <guid>2793265</guid>
+            <pubDate>Mon, 05 Sep 2022 07:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 9月5日（周一）收盘上涨1.15%报387.0元/克；上海黄金交易所白银T+D 9月5日（周一）收盘上涨1.16%报4179.0元/千克。]]></title>
+            <guid>2793264</guid>
+            <pubDate>Mon, 05 Sep 2022 07:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家发改委：全年粮食产量有望保持稳定】国家发展改革委副秘书长杨荫凯表示，今年5月底以来，各地区各部门按照党中央、国务院决策部署，抓紧推动稳经济一揽子政策落实落地，相关配套政策和实施细则应出尽出，努力做到市场主体和人民群众应知尽知、应享尽享，政策效应加快释放，经济延续了恢复发展的态势。从供给看，秋粮作物长势正常，全年粮食产量有望保持稳定，工业服务业总体平稳。从需求看，固定资产投资稳定增长，基础设施投资增速连续3个月加快，居民消费持续恢复，外贸的韧性不断显现。从民生保障看，物价保持基本稳定，就业形势逐步向好。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9194173.d.html</link>
+            <guid>2793263</guid>
+            <pubDate>Mon, 05 Sep 2022 07:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国外交部新任发言人毛宁亮相】中国外交部新任发言人毛宁今日（9月5日）正式主持外交部例行记者会，成为外交部第33任新闻发言人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9194129.d.html</link>
+            <guid>2793262</guid>
+            <pubDate>Mon, 05 Sep 2022 07:29:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【万泰生物：九价HPV疫苗III期临床试验和产业化放大进展顺利】万泰生物在互动平台表示，公司的九价HPV疫苗III期临床试验和产业化放大进展顺利，与佳达修9的头对头临床试验已完成临床试验现场及标本检测工作，正在进行数据统计分析，小年龄桥接临床试验完成入组工作，已完成商业化生产车间建设，正在进行产业化放大生产研究。]]></title>
             <guid>2793261</guid>
@@ -197,390 +581,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9189497.d.html</link>
             <guid>2793220</guid>
             <pubDate>Mon, 05 Sep 2022 06:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川水利厅启动水利抗震救灾二级响应】四川省水利厅网站消息，9月5日12时52分，甘孜州泸定县发生6.8级地震。按照《四川省水利厅抗震救灾应急预案（试行）》有关规定，经水利厅研究决定，9月5日13时45分启动水利抗震救灾二级响应，请相关市（州）水利部门，厅有关处室、直属有关单位按照职责分工，做好水利抗震救灾各项工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6028228.d.html</link>
-            <guid>2793219</guid>
-            <pubDate>Mon, 05 Sep 2022 06:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华安证券：电解液溶质赛道长坡厚雪 看好行业产能扩张等带来的投资机会】华安证券指出，电解液溶质赛道长坡厚雪，看好行业产能扩张及技术快速迭代带来的投资机会。从需求端来看，未来十年新能源汽车有望保持年均30%以上的增速，电池端需求增速则远高于30%，同时电化学储能等行业的兴起将成为带动锂电材料需求增长的又一极，预计2025年电解液溶质总需求将达到26万吨。从供给端来看，虽然目前产能规划已经接近50万吨，但以龙头公司扩产为主，未来行业龙头公司市占率有望进一步提升，龙头公司将凭借规模优势、成本优势和客户优势获取更多市场份额。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6028197.d.html</link>
-            <guid>2793218</guid>
-            <pubDate>Mon, 05 Sep 2022 06:55:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：截至2022年9月4日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗343345.0万剂次。]]></title>
-            <guid>2793217</guid>
-            <pubDate>Mon, 05 Sep 2022 06:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家OTA平台针对四川泸定地震启动退改政策】9月5日，针对四川泸定地震所造成的出行订单影响，多家OTA平台启动退改政策。携程方面表示，携程多业务已启动重大灾害用户保障系统，协助用户退改并提供转运方案。携程已联合当地酒店一起，第一时间启动泸定、康定两地城市保障，用户可在携程平台自主申请免费退订。在航空、地面交通方面，因灾害造成航班、火车、汽车停运等情况，携程将严格按照航司、铁路局、交通部门等有关单位的最新政策，第一时间为广大用户办理退改服务及转运方案支持。（北京商报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6027826.d.html</link>
-            <guid>2793216</guid>
-            <pubDate>Mon, 05 Sep 2022 06:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩民众示威抗议以色列在争议海域开发能源】黎巴嫩民众9月4日在该国海岸举行示威活动，抗议以色列在两国有争议的海域勘探开发能源。黎巴嫩示威者4日集结数十艘渔船和快艇，驶往以色列方向，以表达对以方不满。一些船挂着黎巴嫩国旗和用阿拉伯语、法语和希伯来语写的横幅。据美联社报道，黎巴嫩和以色列的军舰出现在事发海域附近，不过没有发生摩擦。黎巴嫩和以色列未建立外交关系。两国均坚持一片大约860平方公里的地中海海域属于本国专属经济区。近年勘探发现该争议海域蕴藏丰富天然气资源。（央视新闻）]]></title>
-            <guid>2793215</guid>
-            <pubDate>Mon, 05 Sep 2022 06:52:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股煤炭股午后涨幅扩大，截止发稿，兖煤澳大利亚涨12.57%、兖矿能源涨11.39%，伊泰煤炭涨8.35%，中煤能源涨7.32%。]]></title>
-            <guid>2793214</guid>
-            <pubDate>Mon, 05 Sep 2022 06:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川泸定发生6.8级地震 雅化集团回应：生产经营没有受到影响】中国地震台网正式测定，9月5日12时52分在四川甘孜州泸定县（北纬29.59度，东经102.08度）发生6.8级地震，震源深度16千米。随后，中国地震台网测定，12时56分在四川雅安市石棉县（北纬29.40度，东经102.17度）发生4.2级地震，震源深度15千米。对于地震影响，注册地址为四川省雅安市经开区永兴大道南段99号的雅化集团回应称：“公司生产经营没有受到影响。”（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6027271.d.html</link>
-            <guid>2793213</guid>
-            <pubDate>Mon, 05 Sep 2022 06:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股通调整引发相关个股异动 被调出的久泰邦达能源跌33%】港股通最新调整，相关个股走势分歧。截止发稿，被调入港股通的快狗打车跌超6%、海昌海洋公园跌超6%、香港航天科技涨超80%。被调出的久泰邦达能源跌33%，药明巨诺跌28%，建业地产跌7%。消息面上，海螺水泥、快狗打车、海昌海洋公园及361度等20只股票被深交所调入港股通。绿地香港、药明巨诺等16只港股被调出港股通。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9188424.d.html</link>
-            <guid>2793212</guid>
-            <pubDate>Mon, 05 Sep 2022 06:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台：我国西南地区未来一周雨水丰沛】除了台风“轩岚诺”给我国部分地区带来大风降雨以外，我国西南地区未来一周雨水丰沛。预计今明两天，西藏、青海南部、四川西部、云南西部等地有小到中雨，其中，西藏北部和青海南部等地的部分地区有雨夹雪，西藏东南部、云南西部和南部的局部地区有大雨或暴雨。另外，9月7日至9日，西藏中东部、青海南部和东部、四川、云南及华南等地将有小到中雨，局部地区有大雨。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9188184.d.html</link>
-            <guid>2793210</guid>
-            <pubDate>Mon, 05 Sep 2022 06:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：比亚迪7月全球电动汽车电池销量排名升至第二 超过韩国LG能源】据SNE Research数据显示，随着中国对新能源汽车需求激增，比亚迪股份(01211.HK)今年7月在全球电动汽车电池市场销量排名跃升至第二位，超过韩国LG能源解决方案。据统计，7月份比亚迪电池销量达到6.4GWh，仅次于宁德时代的13.3GWh，LG能源和日本松下分别位列全球第三和第四，电池销量在4.4GWh和2.9GWh。中航锂电7月份销量排名第六，超过韩国的三星SDI。全球电池销量7月份升至39.7GWh，同比增长80%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9188117.d.html</link>
-            <guid>2793209</guid>
-            <pubDate>Mon, 05 Sep 2022 06:46:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新开源：2万吨NVP项目正在基建，预计今年四季度进行设备安装】新开源披露投资者关系活动记录表显示，公司焦作中站区2万吨NVP项目正在基建，预计今年四季度进行设备安装，明年一季度试车，二季度形成生产能力，到时公司PVP产能将达到3万吨；上海松江项目，受前段疫情影响耽搁了一段时间，现正全力争取按既定时间节点完工，建设完成后将进行医疗产品转化和生产销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9187963.d.html</link>
-            <guid>2793208</guid>
-            <pubDate>Mon, 05 Sep 2022 06:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泸天化：没有郎酒借壳 公司将依法依规进行信息披露】有投资者在互动平台向泸天化提问：对于股吧传言已久的郎酒借壳，公司是否切实向控股股东进行过求证？泸天化表示：没有郎酒借壳。如发生可能对本公司股价产生重大影响的重组或股权交易类事项，本公司将依法依规进行信息披露。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9187737.d.html</link>
-            <guid>2793207</guid>
-            <pubDate>Mon, 05 Sep 2022 06:44:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【发改委：扎实推进长江经济带发展各项重点任务落实】9月2日，推动长江经济带发展领导小组办公室召开领导小组办公室专题会暨生态环境突出问题整改工作推进视频会。会议强调，在推动问题整改的同时，要扎实推进长江经济带发展各项重点任务落实。一是深入开展系统保护修复。大力实施污染治理“4+1”工程，加强入河排污口整治，强化“三磷”整治和“锰三角”污染治理，巩固长江禁捕成果，加强长江重要支流和重要湖泊保护修复。二是大力推动绿色高质量发展。完善综合交通运输体系，坚决遏制“两高”低水平项目盲目发展，加强城乡区域协调联动发展，推动高水平对外开放。三是不断健全完善体制机制。全面落实长江保护法，严格执行负面清单管理制度，建立长江流域水生态考核机制，营造全社会推动长江经济带发展的良好氛围。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6026455.d.html</link>
-            <guid>2793206</guid>
-            <pubDate>Mon, 05 Sep 2022 06:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣耀X系列手机全球用户突破1亿大关】荣耀终端有限公司中国区CMO姜海荣通过其个人微博宣布，荣耀X系列手机全球用户突破1亿大关。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9187581.d.html</link>
-            <guid>2793205</guid>
-            <pubDate>Mon, 05 Sep 2022 06:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五矿证券：光器件产业正迎来从通信基石到智能之眼的战略发展机遇】五矿证券指出，光器件产业正迎来从通信基石到智能之眼的战略发展机遇，电信与数通市场共同驱动新一轮增长周期，激光雷达市场打开第二增长曲线，同时光摩尔定律驱动产业创新，对厂商的前瞻技术布局、平台化产品研制能力提出更高要求。建议重点关注稀缺平台型光器件厂商天孚通信，激光雷达启动布局的炬光科技、光库科技、中际旭创，中国半导体激光器芯片龙头长光华芯，PLC分路器芯片龙头仕佳光子，全球光模块领先厂商新易盛、光迅科技。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6026239.d.html</link>
-            <guid>2793204</guid>
-            <pubDate>Mon, 05 Sep 2022 06:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本经济团体联合会（Keidanren）会长：目前日元贬值主要是由投机行为引起的。]]></title>
-            <guid>2793203</guid>
-            <pubDate>Mon, 05 Sep 2022 06:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奇士达继续大跌，上周五尾盘闪崩收跌逾72%，今日再跌超50%，两日累计跌幅近90%，创上市两年多来新低。]]></title>
-            <guid>2793202</guid>
-            <pubDate>Mon, 05 Sep 2022 06:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：全国农产品批发市场猪肉平均价格比上周五上升1.0%】据农业农村部监测，9月5日"农产品批发价格200指数"为131.10，比上周五上升1.31个点，“菜篮子”产品批发价格指数为133.55，比上周五上升1.54个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为30.34元/公斤，比上周五上升1.0%；牛肉76.89元/公斤，比上周五下降0.3%；羊肉67.34元/公斤，比上周五下降0.4%；鸡蛋11.97元/公斤，比上周五上升3.3%；白条鸡18.77元/公斤，比上周五下降0.4%。重点监测的28种蔬菜平均价格为5.56元/公斤，比上周五上升1.8%；重点监测的6种水果平均价格为6.74元/公斤，比上周五上升0.6%。鲫鱼20.61元/公斤，比上周五下降1.9%；鲤鱼14.79元/公斤，比上周五下降3.1%；白鲢鱼9.68元/公斤，比上周五下降3.8%；大带鱼38.51元/公斤，比上周五上升4.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6025669.d.html</link>
-            <guid>2793201</guid>
-            <pubDate>Mon, 05 Sep 2022 06:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易商称，韩国外汇当局可能于在岸交易接近尾声时抛售美元以支撑韩元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6025657.d.html</link>
-            <guid>2793200</guid>
-            <pubDate>Mon, 05 Sep 2022 06:38:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【望变电气：取向硅钢产品目前出口占比30%-40%】望变电气近日在接受调研时表示，公司取向硅钢产品销售采取直销模式与贸易商模式相结合的销售方式，目前出口占比30%-40%，海外客户主要包括韩国浦项国际，韩国晓星天禧，日本美达王，日本丰田通商，日立能源，通用电气，西门子能源，施耐德电气，意大利LTC集团，美国霍华德工业等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9186849.d.html</link>
-            <guid>2793199</guid>
-            <pubDate>Mon, 05 Sep 2022 06:37:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日锂电材料报价多数上涨】据上海有色网发布的数据显示，今日锂电材料报价多数上涨，碳酸钴涨1500元/吨，钴粉涨2500元/吨，镍豆涨6800元/吨；电解钴跌3500-7000元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9186671.d.html</link>
-            <guid>2793198</guid>
-            <pubDate>Mon, 05 Sep 2022 06:35:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市人力资源和社会保障局原党组成员、副局长贺锐被开除党籍和公职】据北京市纪委监委消息：日前，经北京市委批准，北京市纪委市监委对北京市人力资源和社会保障局原党组成员、副局长贺锐严重违纪违法问题进行了立案审查调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6025277.d.html</link>
-            <guid>2793197</guid>
-            <pubDate>Mon, 05 Sep 2022 06:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10年期国债收益率下跌3个基点，至1.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9186362.d.html</link>
-            <guid>2793196</guid>
-            <pubDate>Mon, 05 Sep 2022 06:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车CFO：（有关保时捷IPO）事情正按计划进行，尚未作出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9186280.d.html</link>
-            <guid>2793195</guid>
-            <pubDate>Mon, 05 Sep 2022 06:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国KOSPI指数9月5日（周一）收盘下跌5.73点，跌幅0.24%，报2403.68点。]]></title>
-            <guid>2793194</guid>
-            <pubDate>Mon, 05 Sep 2022 06:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股香港航天科技涨超80%，深港通下的港股通标的证券名单调整，调入香港航天科技，于今日起生效。]]></title>
-            <guid>2793193</guid>
-            <pubDate>Mon, 05 Sep 2022 06:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷克央行行长：必须减少国家债务，防止工资通胀螺旋上升，必须将利率保持和稳定在高于过去10年的水平。]]></title>
-            <guid>2793192</guid>
-            <pubDate>Mon, 05 Sep 2022 06:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[捷克央行行长：利率已经到达能够抑制内需压力的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6024729.d.html</link>
-            <guid>2793191</guid>
-            <pubDate>Mon, 05 Sep 2022 06:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银河证券：水泥市场正处于淡旺季转换阶段 旺季需求将逐步释放】银河证券指出，水泥价格继续上涨，旺季需求将逐步释放。当前水泥市场正处于淡旺季转换阶段，旺季需求将逐步释放，基建端发力带动水泥市场需求，建议关注水泥区域龙头企业。推荐水泥区域龙头企业华新水泥、上峰水泥。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9185998.d.html</link>
-            <guid>2793190</guid>
-            <pubDate>Mon, 05 Sep 2022 06:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川泸定6.8级地震 融捷股份回应：公司在当地的生产经营活动一切正常】四川甘孜州泸定县发生6.8级地震。融捷股份表示，地震对公司位于康定市的甲基卡矿山及采选厂、鸳鸯坝的250万吨/年锂矿精选项目均没有任何影响，不存在实质性破坏，公司在当地的生产经营活动一切正常。据了解，融捷股份位于康定市甲基卡和鸳鸯坝的项目基地分别距离此次泸定地震震中100公里、50公里左右。（中证金牛座）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6024602.d.html</link>
-            <guid>2793189</guid>
-            <pubDate>Mon, 05 Sep 2022 06:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自然资源部启动地质灾害防御Ⅲ级响应】据中国地震台网测定，2022年9月5日12时52分，四川省甘孜州泸定县发生6.8级地震。根据相关规定，自然资源部紧急启动地质灾害防御Ⅲ级响应，并派出专家工作组前往震区，协助指导地方做好震后次生灾害排查、应急处置等技术支撑工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6024420.d.html</link>
-            <guid>2793188</guid>
-            <pubDate>Mon, 05 Sep 2022 06:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【徐工机械投资成立私募公司，注册资本2亿元】企查查APP显示，近日，宣城市高新产业投资发展合伙企业（有限合伙）成立，执行事务合伙人为徐州徐工股权投资有限公司，注册资本2亿元，经营范围包含：以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该公司由徐工机械关联公司徐州徐工股权投资有限公司、徐州徐工产业投资合伙企业（有限合伙）等共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9185719.d.html</link>
-            <guid>2793187</guid>
-            <pubDate>Mon, 05 Sep 2022 06:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金：下调小鹏汽车目标价至114港元 评级跑赢行业】中金发表评级报告指，小鹏Q2 Non-GAAP净亏损为24.6亿元，剔除汇兑亏损9.38亿元，公司业绩表现符合市场预期。该行表示，小鹏Q3汽车交付量指引介乎2.9万至3.1万辆，低于市场预测，惟该行重申市场应考虑减少关注交付方面出现的短期波动，并看好公司明年的新产品周期。中金称，小鹏G9计划在成都车展首度亮相，并计划9月推出、10月交付，又指G9车型订单充足，并考虑到公司产能，料今年第四季交付量或逾1万辆。中金将其目标价下调21%至114港元，维持其评级为跑赢行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9185584.d.html</link>
-            <guid>2793185</guid>
-            <pubDate>Mon, 05 Sep 2022 06:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华西证券：银行板块具备一定防御属性，维持板块“推荐”评级】华西证券指出，二季度风险事件影响，银行板块整体跑输市场。目前板块静态 PB已持续下行至0.54 倍的历史底部位置，充分反映了来自宏微观层面的悲观预期。下半年需要观察政策托底成效和经济修复节奏。目前板块具备高业绩确定性+低估值+高股息率特征，具备一定防御属性，我们维持板块“推荐”评级，个股层面建议关注高成长的区域性银行和前期超跌的龙头股份行。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9185364.d.html</link>
-            <guid>2793184</guid>
-            <pubDate>Mon, 05 Sep 2022 06:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰批发天然气10月合约上涨30.1%，至272欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9185220.d.html</link>
-            <guid>2793183</guid>
-            <pubDate>Mon, 05 Sep 2022 06:23:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【煤炭板块继续走强 兖矿能源继续新高】兖矿能源午后封板，总市值近2700亿，再度刷新历史新高，中煤能源、兰花科创、陕西煤业、晋控煤业、中国神华等涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9184904.d.html</link>
-            <guid>2793182</guid>
-            <pubDate>Mon, 05 Sep 2022 06:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚S&P/ASX200指数9月5日（周一）收盘上涨23.50点，涨幅0.34%，报6852.20点。]]></title>
-            <guid>2793181</guid>
-            <pubDate>Mon, 05 Sep 2022 06:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球首款太阳能电动车预订量已超2万台 每周可靠阳光行驶约112公里】德国初创公司Sono Motors此前推出全球首款太阳能电动车Sono Sion。该公司日前宣布，这款车型将于2023年下半年开始投产，由芬兰Valmet Automotive公司负责生产制造。截至今年9月1日，该车预订量已超2万台。Sono Motors官网显示，Sion太阳能电动汽车售价为29900欧元。该车共拥有456块太阳能电池，每周可提供约112公里续航里程；若天气较好，这一数字可能会翻倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6023273.d.html</link>
-            <guid>2793180</guid>
-            <pubDate>Mon, 05 Sep 2022 06:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本东邦燃气公司与萨哈林2号新运营商就延长液化天然气合同进行最终谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9184497.d.html</link>
-            <guid>2793179</guid>
-            <pubDate>Mon, 05 Sep 2022 06:19:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股旅游、餐饮板块震荡走低，全聚德跌超6%，岭南控股跌超5%，君亭酒店、天目湖、长白山、三特索道、西域旅游等跌幅居前。]]></title>
-            <guid>2793178</guid>
-            <pubDate>Mon, 05 Sep 2022 06:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：强劲的美国就业数据料对欧元/美元不利】丹麦银行高级分析师Lars Merklin称，上周五的美国就业数据似乎表明美国经济相当强劲，新增就业人数稳健，这些初步数据继续对欧元兑美元EUR/USD构成不利。他表示∶“我们预计这些数据将支持美联储的紧缩立场，预期周期性指标将进一步企稳，未来几个季度美元将在在此基础上走强。”他说，丹麦银行分析师将欧欧美的12个月目标位设在0.95。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6022834.d.html</link>
-            <guid>2793177</guid>
-            <pubDate>Mon, 05 Sep 2022 06:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郑州即日起全域转入常态化疫情防控管理】据郑州发布微信公众号消息，截至9月5日12时，郑州市社会面已连续11天、隔离点连续7天无本地新发病例，郑州涉疫防外溢临时管控区均已解除，即日起郑州市全域转入常态化疫情防控管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6022616.d.html</link>
-            <guid>2793176</guid>
-            <pubDate>Mon, 05 Sep 2022 06:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度财长：扩大印度的税基仍然是一个问题，我们还有很多工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9183837.d.html</link>
-            <guid>2793175</guid>
-            <pubDate>Mon, 05 Sep 2022 06:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内首个哮喘三联吸入制剂上市】据远大医药官微消息，远大医药旗下恩卓润®和恩明润®两款哮喘产品正式上市，其中茚达格莫吸入粉雾剂（恩卓润®）是我国目前唯一获批的哮喘三联吸入制剂，填补了哮喘患者长期无固定组方三联药物的市场空白。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9183812.d.html</link>
-            <guid>2793174</guid>
-            <pubDate>Mon, 05 Sep 2022 06:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国中车：目前没有研发每小时一千公里的真空超导列车】中国中车在互动平台表示，时速600公里高速磁浮列车由中车青岛四方机车车辆股份有限公司牵头研发，目前已完成系统联调联试和低速试验，亟须建设一条工程试验示范线，以完成达速试验，然后推广应用。公司目前没有研发每小时一千公里的真空超导列车。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9183685.d.html</link>
-            <guid>2793173</guid>
-            <pubDate>Mon, 05 Sep 2022 06:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同方全球人寿保险50%股权拟挂牌转让】据北京产权交易所消息，同方全球人寿保险有限公司50%股权转让项目拟通过产权交易所公开挂牌方式转让。目前该项目正通过北京产权交易所公开征集投资者。据了解，同方全球人寿由荷兰全球人寿保险集团与同方股份有限公司各出资50%组建而成，公司于2003年正式获得营业执照，在中国开展寿险业务。 (中证金牛座)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6021991.d.html</link>
-            <guid>2793172</guid>
-            <pubDate>Mon, 05 Sep 2022 06:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：马来西亚林吉特未来可能会进一步贬值】高盛指出，尽管核心通胀率目前处于全球金融危机以来的最高水平，但林吉特已经被马来西亚与美国之间的利差所重创。马来西亚是一个大宗商品出口国这一点对林吉特起到了支撑作用，但在目前的环境下并不足以拯救林吉特。今年以来，林吉特兑美元下跌了7.4%，并且未来可能会进一步贬值，特别是如果下降的能源价格开始侵蚀该国出口收入且该国利率保持在低位的话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6021861.d.html</link>
-            <guid>2793171</guid>
-            <pubDate>Mon, 05 Sep 2022 06:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中银绒业：8万吨磷酸铁锂项目尚不具备开工建设条件】中银绒业在互动平台表示，8万吨磷酸铁锂项目前期审批环节相关工作还没有结束，尚不具备开工建设条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9183032.d.html</link>
-            <guid>2793170</guid>
-            <pubDate>Mon, 05 Sep 2022 06:07:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股物业管理板块持续走低，鑫苑服务跌近24%，世茂服务跌超10%，正荣服务跌近7%，合景悠活跌近7%，金科服务跌超4%。]]></title>
-            <guid>2793169</guid>
-            <pubDate>Mon, 05 Sep 2022 06:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务省：下一财年年度预算申请达到110万亿日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6021505.d.html</link>
-            <guid>2793168</guid>
-            <pubDate>Mon, 05 Sep 2022 06:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家地震应急三级响应启动】据中国地震台网测定，2022年9月5日12时52分，四川省甘孜州泸定县发生6.8级地震，震源深度16公里。接报后，国务院抗震救灾指挥部办公室、应急管理部立即启动国家地震应急三级响应，国家减灾委、应急管理部启动国家Ⅳ级救灾应急响应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6021461.d.html</link>
-            <guid>2793167</guid>
-            <pubDate>Mon, 05 Sep 2022 06:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川省委书记王晓晖：争分夺秒做好抗震救灾工作 全力保障灾区群众生命财产安全】今日12时52分，甘孜州泸定县发生6.8级地震，震源深度16千米。地震发生后，省委书记王晓晖第一时间与泸定县委主要负责同志通电话了解灾情，要求县委、县政府迅速组织力量，争分夺秒做好抗震救灾工作，深入震中尽快核查受灾情况，妥善安置受灾群众。并作出批示，要求省政府迅速启动应急响应，加强对灾区抗震救灾工作的指导，尽快了解受灾情况，千方百计抢救伤员，防止次生灾害，全力保障灾区群众生命财产安全。受王晓晖委托，省委副书记、省长黄强率省级有关部门赶赴灾区指导抗震救灾工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9182766.d.html</link>
-            <guid>2793166</guid>
-            <pubDate>Mon, 05 Sep 2022 06:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[壳牌(SHEL.N)将投资马来西亚深水区的Rosmari Marjoram天然气开发项目。]]></title>
-            <guid>2793165</guid>
-            <pubDate>Mon, 05 Sep 2022 06:04:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股香港航天科技涨超70%，深港通下的港股通标的证券名单调整，调入香港航天科技，于今日起生效。]]></title>
-            <guid>2793164</guid>
-            <pubDate>Mon, 05 Sep 2022 06:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日经225指数收跌0.1%，报27619.61点。日本东证指数收跌0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9182490.d.html</link>
-            <guid>2793163</guid>
-            <pubDate>Mon, 05 Sep 2022 06:02:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲天然气期货大涨31%。俄罗斯天然气工业股份公司(俄气)9月2日表示，由于发现多处设备故障，“北溪-1”天然气管道将完全停止输气，直至故障排除。]]></title>
-            <guid>2793162</guid>
-            <pubDate>Mon, 05 Sep 2022 06:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度财长西塔拉曼：政府在商业中的作用需要降到最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9182148.d.html</link>
-            <guid>2793161</guid>
-            <pubDate>Mon, 05 Sep 2022 06:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪镍主力合约日内大涨6.00%，现报170380.00元/吨。铁矿石主力合约日内大涨4.00%，现报692.50元/吨。]]></title>
-            <guid>2793160</guid>
-            <pubDate>Mon, 05 Sep 2022 05:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【48家券商合计降薪超百亿，中金公司人均每月少拿2万】今年证券公司的员工到底收入几何？截至8月底，48家上市券商（按照申万三级分类）公布了半年度业绩，最新的薪酬水平随之浮出水面。根据Wind数据统计，48家券商今年上半年的人力总成本为795.9亿元，与去年同期相比下滑了11.2%，其中，73%的证券公司人力总成本在收缩，降薪潮扑面而来。其中，中金公司上半年人均薪酬下滑了26%，相当于每人每月少拿2.2万元。在人力总成本方面，48家券商今年上半年的人力总成本为795.9亿元，与去年同期的896.6亿元相比下滑了11.2%，相当于上半年48家券商合计降薪超100亿元。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9181709.d.html</link>
-            <guid>2793159</guid>
-            <pubDate>Mon, 05 Sep 2022 05:56:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼财政部官员：2022年通胀率预计在6.6%-6.8%之间。燃油价格变化后，预计印尼2022年的财政赤字比例保持在3.92%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6019903.d.html</link>
-            <guid>2793158</guid>
-            <pubDate>Mon, 05 Sep 2022 05:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家邮政局：8月中国快递发展指数为311 环比提高12.9%】据国家邮政局消息，经测算，2022年8月中国快递发展指数为311，环比提高12.9%。其中：发展规模指数和发展能力指数分别为362.6和200.8，同比分别提高4.7%和6.2%；服务质量指数和发展趋势指数分别为450.8和67.6，环比分别提高33.9%和下降1.8%。行业整体运行平稳，恢复势头良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9181232.d.html</link>
-            <guid>2793157</guid>
-            <pubDate>Mon, 05 Sep 2022 05:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗东部地震造成至少8人死亡】当地时间9月5日凌晨，阿富汗发生5.1级地震，震源深度20千米，震中处于阿富汗东部楠格哈尔省与库纳尔省接壤地带。库纳尔省地方官员表示，地震造成该省至少8人死亡，部分房屋倒塌，死亡人数可能会进一步上升。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9181196.d.html</link>
-            <guid>2793156</guid>
-            <pubDate>Mon, 05 Sep 2022 05:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据国务院物流保通保畅工作领导小组办公室监测汇总数据，9月4日，全国货运物流有序运行，其中国家铁路货运继续保持高位运行，运输货物1087.6万吨，环比增长3.01%。（交通运输部）]]></title>
-            <guid>2793155</guid>
-            <pubDate>Mon, 05 Sep 2022 05:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川开启应急救援专用通道 第一批救援车辆已通过】据交通发布官博，四川泸定6.8级地震发生后，四川省交通执法总队立即按照《四川省高速公路突发事件分级应急处置指引（试行）》启动二级响应，要求立即安排各支队启动“一路三方”联勤应急机制。经排查，全路网暂未发现异常情况，目前全线路段通行未受影响，各收费站通行正常，未收到灾情报告，各收费站应急救援专用通道已开启，第一批救援车辆已顺利从成雅成都收费站通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9180781.d.html</link>
-            <guid>2793154</guid>
-            <pubDate>Mon, 05 Sep 2022 05:49:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯里兰卡外长：希望未来六个月有不间断供应的燃料。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6019215.d.html</link>
-            <guid>2793152</guid>
-            <pubDate>Mon, 05 Sep 2022 05:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：09月05日13时38分在西藏那曲市比如县（北纬31.91度，东经92.87度）发生3.2级地震，震源深度10千米。]]></title>
-            <guid>2793151</guid>
-            <pubDate>Mon, 05 Sep 2022 05:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：09月05日13时28分在四川甘孜州泸定县（北纬29.58度，东经102.06度）发生3.2级地震，震源深度12千米。]]></title>
-            <guid>2793150</guid>
-            <pubDate>Mon, 05 Sep 2022 05:42:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

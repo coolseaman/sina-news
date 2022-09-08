@@ -4,13 +4,110 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 08 Sep 2022 18:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 19:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[英国央行公告：印有女王陛下肖像的现钞仍将是法定货币。（环球网）]]></title>
+            <title><![CDATA[周四（9月8日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌1.29%，报324.50欧元/吨。油菜籽期货跌1.27%，报601.50欧元/吨。]]></title>
+            <guid>2797291</guid>
+            <pubDate>Thu, 08 Sep 2022 19:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国7月消费信贷 238.11亿美元，预期330亿美元，前值401.54亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8369427.d.html</link>
+            <guid>2797276</guid>
+            <pubDate>Thu, 08 Sep 2022 19:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘轻微收跌0.03%，报18845点，低水10点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6583147.d.html</link>
+            <guid>2797275</guid>
+            <pubDate>Thu, 08 Sep 2022 19:01:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登就英国女王去世发表声明】美国总统拜登夫妇就英女王伊丽莎白二世去世发表声明，称伊丽莎白二世不仅是一位君主，还定义了一个时代。拜登称，伊丽莎白二世深化了英国和美国之间的基石联盟，让两国的关系变得特别。拜登在声明中回忆了自己在1982年第一次见到女王时的场景，并表示伊丽莎白二世曾先后会见过14位美国总统。拜登在声明中最后表示，在未来的岁月里，我们期待着继续与国王和王后的亲密友谊。今天，全美国人民的思绪和祈祷与悲痛中的英国和英联邦人民同在，我们向英国王室致以最深切的哀悼。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6583135.d.html</link>
+            <guid>2797274</guid>
+            <pubDate>Thu, 08 Sep 2022 19:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国国王确认称呼为“查尔斯三世国王”】英国克拉伦斯宫确认，英国国王将被称为“查尔斯三世国王”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8368755.d.html</link>
+            <guid>2797271</guid>
+            <pubDate>Thu, 08 Sep 2022 18:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股银行股集体上涨，美国银行(BAC.N)涨3%，富国银行(WFC.N)涨2.9%，瑞银(UBS.N)涨2.56%，花旗集团(C.N)涨2.4%，摩根大通(JPM.N)涨2.2%。]]></title>
+            <guid>2797269</guid>
+            <pubDate>Thu, 08 Sep 2022 18:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 10月汽油期货收报2.3461美元/加仑。NYMEX 10月取暖油期货收报3.5401美元/加仑。]]></title>
+            <guid>2797255</guid>
+            <pubDate>Thu, 08 Sep 2022 18:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 10月原油期货收涨1.60美元，涨幅1.95%，报83.54美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8368274.d.html</link>
+            <guid>2797254</guid>
+            <pubDate>Thu, 08 Sep 2022 18:33:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露华浓(REV.N)盘中下挫，一度跌超12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8368169.d.html</link>
+            <guid>2797248</guid>
+            <pubDate>Thu, 08 Sep 2022 18:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至2:30收盘，沪金主力合约收跌0.26%，报387元/克，沪银主力合约收涨1.16%，报4269元/千克，SC原油主力合约收跌0.71%，报671元/桶。]]></title>
+            <guid>2797247</guid>
+            <pubDate>Thu, 08 Sep 2022 18:32:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 9月9日（周五）晚盘收盘下跌0.42%报387.12元/克；上海黄金交易所白银T+D 9月9日（周五）晚盘收盘上涨1.02%报4264.0元/千克。]]></title>
+            <guid>2797246</guid>
+            <pubDate>Thu, 08 Sep 2022 18:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英女王伊丽莎白二世去世，英国新首相特拉斯在唐宁街外发表讲话】英国女王伊丽莎白二世去世后，英国新首相特拉斯在唐宁街外发表讲话。 “女王陛下的去世对英国和全世界都是一个巨大的打击。”特拉斯称，“伊丽莎白二世是现代英国的基石，” “我们国家在她的统治下发展繁荣”， “她就是大不列颠精神，这种精神将永存。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8368093.d.html</link>
+            <guid>2797245</guid>
+            <pubDate>Thu, 08 Sep 2022 18:30:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【原料上涨、缺芯、物流承压，成本转嫁力成A股汽车电子企业“试金石”】 业内人士表示，目前汽车电子行业企业仍受制于全球供应链的系列问题，虽然国内终端新能源车消费表现尚可，但成本压力短期仍会是行业的心病，行业话语权与成本转嫁能力将成为观察企业生存能力的关键。值得注意的是，近期有供应链消息指出，包括日本罗姆和恩智浦半导体等车规级MCU芯片供应企业，被传将于9月以后上调部分车规芯片产品出厂价格，涨幅在10%至20%不等。这或也将成为汽车电子行业面临的不确定因素之一。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8367993.d.html</link>
+            <guid>2797242</guid>
+            <pubDate>Thu, 08 Sep 2022 18:28:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：花旗银行在5亿美元的露华浓(REV.N)转让案中赢得诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6581638.d.html</link>
+            <guid>2797240</guid>
+            <pubDate>Thu, 08 Sep 2022 18:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国国王查尔斯发表声明：现在是“最悲伤的时刻”】查尔斯国王通过英国王室官方社交媒体发布声明，将这一时刻描述为“自己和家人的最悲伤的时刻”，悼念母亲伊丽莎白二世。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6581592.d.html</link>
+            <guid>2797239</guid>
+            <pubDate>Thu, 08 Sep 2022 18:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拉萨市昨日新增本土新冠病毒感染者158例】拉萨市应对新冠肺炎疫情工作领导小组办公室公告，9月8日0—24时，拉萨市新增本土新冠病毒感染者158例，其中新增确诊病例8例、无症状感染者150例，新增确诊病例和无症状感染者均在城关区、均在闭环隔离管控中发现。（拉萨发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8367848.d.html</link>
+            <guid>2797238</guid>
+            <pubDate>Thu, 08 Sep 2022 18:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：推特(TWTR.N)同意在6月的和解中向举报人支付700万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8367754.d.html</link>
+            <guid>2797237</guid>
+            <pubDate>Thu, 08 Sep 2022 18:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行公告：印有女王陛下肖像的现钞仍将是法定货币。哀悼期结束后，将对英国央行纸币发布进一步声明。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8367669.d.html</link>
             <guid>2797228</guid>
             <pubDate>Thu, 08 Sep 2022 18:20:38 GMT</pubDate>
@@ -475,105 +572,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6568182.d.html</link>
             <guid>2797065</guid>
             <pubDate>Thu, 08 Sep 2022 15:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：供应中断、欧盟能源市场价格波动共同挤压公用事业的流动性，还在短期内增加了该行业多数发行方的政治风险。]]></title>
-            <guid>2797064</guid>
-            <pubDate>Thu, 08 Sep 2022 15:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至9月2日当周EIA战略石油储备库存 -752.7万桶，前值-306.7万桶。]]></title>
-            <guid>2797063</guid>
-            <pubDate>Thu, 08 Sep 2022 15:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至9月2日当周EIA战略石油储备库存为1984年11月23日当周以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6568087.d.html</link>
-            <guid>2797062</guid>
-            <pubDate>Thu, 08 Sep 2022 15:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  广东省惠州市大亚湾区9月8日在集中隔离人员中发现3例新冠病毒阳性个案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8354413.d.html</link>
-            <guid>2797061</guid>
-            <pubDate>Thu, 08 Sep 2022 14:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，数科集团控股有限公司通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6567513.d.html</link>
-            <guid>2797060</guid>
-            <pubDate>Thu, 08 Sep 2022 14:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：能源市场的紧张局势对欧盟公用事业有不同的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8354108.d.html</link>
-            <guid>2797059</guid>
-            <pubDate>Thu, 08 Sep 2022 14:52:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国家飓风中心：飓风“凯”的风眼正在接近下加利福尼亚半岛中部】美国国家飓风中心：飓风“凯”的风眼正在接近下加利福尼亚半岛中部，预计今天晚些时候将给下加利福尼亚半岛西海岸部分地区带来飓风天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6567012.d.html</link>
-            <guid>2797058</guid>
-            <pubDate>Thu, 08 Sep 2022 14:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰经济部预计2022年GDP下降33.2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6566964.d.html</link>
-            <guid>2797057</guid>
-            <pubDate>Thu, 08 Sep 2022 14:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  现货钯金扩大涨幅，现涨近5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6566712.d.html</link>
-            <guid>2797056</guid>
-            <pubDate>Thu, 08 Sep 2022 14:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上市银行发力，“双碳”目标引领，绿色金融业务加速发展】绿色信贷、绿色债券、创新产品……当下，银行纷纷加入“绿色大军”，绿色金融发展正呈现多点开花趋势。统计发现，在日前披露完毕的上市银行半年报中，多家银行绿色信贷余额增长迅速。相较于上年末，多家国有大行、股份行绿色信贷余额实现双位数增幅。同时，绿色金融产品创新迭代加快，“减排贷”、“光伏贷”、“碳易贷”、绿色低碳卡、个人碳账户等层出不穷。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8353050.d.html</link>
-            <guid>2797055</guid>
-            <pubDate>Thu, 08 Sep 2022 14:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【庞大重整未了局：2.53亿股被拍卖 扯出创始人与实控人纠葛】近日，庞大原控股股东庞庆华的股权遭到司法拍卖。庞大重整实施近三年后，庞庆华手握的这笔股权既未完成解押，也未划转让渡给重整方。庞大集团在2019年陷入巨额亏损，因资不抵债，被债权人申请重整。随后，庞大集团实施重整，该公司创始人、原控股股东庞庆华向三家重整方出让股份，黄继宏成为上市公司新实际控制人。在庞庆华所持2.53亿股被司法拍卖背后，是在庞大集团重整实施近三年后，庞庆华手握的这笔股权既未完成解押，也未划转让渡给重整方。而由于重整方当初的相关承诺迟迟未兑现，庞庆华已向法院提起诉讼。 (第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8352930.d.html</link>
-            <guid>2797054</guid>
-            <pubDate>Thu, 08 Sep 2022 14:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高途涨幅达5%】高途涨5%，Q2净亏损从上年同期的9.2亿元大幅收窄至4981万元，录得Non GAAP净利润65万，同比扭亏为盈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6565721.d.html</link>
-            <guid>2797053</guid>
-            <pubDate>Thu, 08 Sep 2022 14:36:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国天然气库存总量为26940亿立方英尺】EIA天然气报告：截至9月2日当周，美国天然气库存总量为26940亿立方英尺，较此前一周增加540亿立方英尺，较去年同期减少2220亿立方英尺，同比降幅7.6%，同时较5年均值低3490亿立方英尺，降幅11.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8352394.d.html</link>
-            <guid>2797052</guid>
-            <pubDate>Thu, 08 Sep 2022 14:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国劳工统计局：2021年所有消费单位平均年支出较去年增长9.1%】当地时间9月8日，美国劳工统计局发布2021年消费者支出报告，显示2021年美国所有消费单位的平均年支出为66928美元，比2020年增长9.1%。同一时期，城市消费者物价指数（CPI-U）上升了4.7%，税前平均收入增长了3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6565598.d.html</link>
-            <guid>2797051</guid>
-            <pubDate>Thu, 08 Sep 2022 14:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光展锐携手美格智能推出超小尺寸5G R16模组】9月8日，紫光展锐携手美格智能推出超小尺寸15G R16模组SRM810，该模组基于紫光展锐业界首款5G R16 Ready芯片平台2 V516打造，双方将携手加速5G行业终端应用创新，共同推动5G R16技术在垂直行业的规模商用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6565548.d.html</link>
-            <guid>2797050</guid>
-            <pubDate>Thu, 08 Sep 2022 14:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰统计局：乌克兰第二季度GDP同比萎缩37.2％，环比下降19.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6565452.d.html</link>
-            <guid>2797049</guid>
-            <pubDate>Thu, 08 Sep 2022 14:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至9月2日当周EIA天然气库存 540亿立方英尺，预期540亿立方英尺，前值610亿立方英尺。]]></title>
-            <guid>2797048</guid>
-            <pubDate>Thu, 08 Sep 2022 14:30:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

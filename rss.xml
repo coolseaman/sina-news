@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Sep 2022 20:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 21:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【土耳其称希腊海岸警卫队在国际水域向一艘货船开火】土耳其海岸警卫队当地时间10日发表声明称，当日希腊海岸警卫队的2名队员向一艘悬挂科摩罗国旗的“安纳托利亚”号货船开火，当时该船只航行于距离土耳其博兹贾阿达海岸11海里处的国际海域。土耳其海岸警卫队获悉此事后，派出两艘船只前往事发地点，随后希腊海岸警卫队的船只离开了相关地区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8636867.d.html</link>
+            <guid>2799203</guid>
+            <pubDate>Sat, 10 Sep 2022 20:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗查获一艘载有75.7万升走私柴油的船只】当地时间10日，伊朗伊斯兰革命卫队海军军官表示，伊朗在其南部海域附近查获了一艘载有75.7万升走私柴油的船只。船上7名船员均为外国籍，目前已按照司法命令移交相关部门。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6855383.d.html</link>
+            <guid>2799183</guid>
+            <pubDate>Sat, 10 Sep 2022 20:31:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【意大利能源危机加剧 制造业面临经营困境】随着欧洲能源危机的不断加剧，今年冬季可能出现的天然气缺口让意大利很多制造业企业陷入经营困境。意大利萨克米集团董事长蒙加尔迪近日向中央广播电视总台记者表示，能源价格的上涨让一些企业停产，降低了欧洲制造业的竞争力。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6854393.d.html</link>
@@ -579,18 +591,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6792780.d.html</link>
             <guid>2798883</guid>
             <pubDate>Sat, 10 Sep 2022 05:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新西兰发生沉船事故 造成5人死亡】当地时间9月10日，新西兰南岛凯库拉附近发生一起沉船事故，一艘小船在与不明物体相撞后沉没。警方证实，共有5人在事故中死亡，另有6人获救。当地出动了救援直升机和潜水员进行搜救，具体事故原因还在调查中。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6792230.d.html</link>
-            <guid>2798882</guid>
-            <pubDate>Sat, 10 Sep 2022 05:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南儋州实现社会面清零目标 将分区域有序解除临时性静态管理】海南省儋州市新型冠状病毒肺炎疫情防控工作指挥部通报，9月7日至9日，儋州市已连续3轮全员核酸检测未检出社会面新增感染者。经专家组综合评估，儋州实现社会面清零目标。为高效统筹疫情防控和经济社会发展，经综合研判，决定分区域有序解除静态管理，稳步恢复生产生活秩序。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqqsmrn8572423.d.html</link>
-            <guid>2798881</guid>
-            <pubDate>Sat, 10 Sep 2022 05:18:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

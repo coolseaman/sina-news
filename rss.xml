@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Sep 2022 18:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 19:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【南苏丹洪灾严重 政府宣布受洪水影响地区为国家灾难地区】当地时间9月9日，南苏丹政府宣布该国受洪水影响的地区为国家灾难地区。南苏丹新闻部长迈克尔·马奎·鲁埃斯表示，洪水已导致该国数千人流离失所，数百人丧生。本周早些时候，南苏丹总统基尔呼吁人道主义合作伙伴提供帮助。据了解，南苏丹在过去三年中经历了极端洪水，仅2021年就有超过80万人受灾。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8632629.d.html</link>
+            <guid>2799101</guid>
+            <pubDate>Sat, 10 Sep 2022 18:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高温干旱“烤”验美国西部牧场】近日，美国的高温和干旱给畜牧业带来了不小的压力。在美国加州，干旱导致天然草料减产，加上化肥、燃料等物资价格上涨，让很多牧场面临着运营困境。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8632377.d.html</link>
+            <guid>2799099</guid>
+            <pubDate>Sat, 10 Sep 2022 18:34:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【苏丹今年雨季已有118人因洪水死亡】当地时间10日，苏丹国家民防委员会证实，2022年雨季已有累计118人因洪水死亡，另有至少118人受伤，42258所房屋倒塌。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6850865.d.html</link>
@@ -578,18 +590,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6789952.d.html</link>
             <guid>2798879</guid>
             <pubDate>Sat, 10 Sep 2022 05:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国总理朔尔茨会见欧洲理事会主席米歇尔 双方讨论能源问题】当地时间9月9日，德国总理朔尔茨在柏林会见了到访的欧洲理事会主席米歇尔，双方就当前的欧洲政策等问题进行了商讨。在会见后举行的联合发布会上，德国总理朔尔茨表示，俄乌冲突对德国造成了打击，俄罗斯现在已停止向德国供应天然气，高昂的能源价格对国家、对企业、对私人消费者都造成了极大的负担，他呼吁欧盟国家团结一致，应对冲突的影响。他同时感谢欧盟致力于制定降低能源价格的统一措施，他表示，德国也将努力推进新能源的转型，降低对天然气等传统能源的依赖。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6788880.d.html</link>
-            <guid>2798877</guid>
-            <pubDate>Sat, 10 Sep 2022 04:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国新增新冠肺炎确诊病例35995例，累计确诊超3242万例】根据德国联邦疾控机构罗伯特·科赫研究所发布的最新数据，截至当地时间9月9日0点，德国累计确诊新冠肺炎病例32422084例，较前一日新增35995例；累计死亡病例148217例，较前一日新增119例。全国7天内每10万人发病率为229.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6788550.d.html</link>
-            <guid>2798876</guid>
-            <pubDate>Sat, 10 Sep 2022 04:50:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

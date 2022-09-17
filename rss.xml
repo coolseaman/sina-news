@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 17 Sep 2022 17:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 18:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【法国新增新冠肺炎确诊病例33162例】法国公共卫生部门9月17日当天公布的数据显示，过去24小时，法国新增新冠肺炎确诊病例33162例；无新增死亡病例，累计死亡154672例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7736666.d.html</link>
+            <guid>2805147</guid>
+            <pubDate>Sat, 17 Sep 2022 18:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东博会助力越来越多中国消费者实现“东盟水果自由”】“中国—东盟博览会(简称东博会)举办19年来，不断刷新着‘吃货’们的味觉，越来越多中国消费者实现了‘东盟水果自由’。”广西壮族自治区商务厅副厅长粟坚17日说。榴莲、菠萝蜜、火龙果等东盟水果，不仅是每年东博会上的“明星展品”，也是中国—东盟农产品贸易中的重要品类。当天，在第19届东博会召开期间，“东盟水果节”活动首次举办，推动中国与东盟在消费领域实现新融合。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7736537.d.html</link>
+            <guid>2805133</guid>
+            <pubDate>Sat, 17 Sep 2022 17:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南官方推出经济恢复提振方案】今年多轮疫情冲击海南经济，海南官方17日晚发布一揽子提振方案，要求释放自贸港政策红利，力保全年经济发展目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9501469.d.html</link>
+            <guid>2805116</guid>
+            <pubDate>Sat, 17 Sep 2022 17:49:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新疆乌鲁木齐昨日新增本土确诊病例1例 本土无症状感染者4例】9月17日0-24时，乌鲁木齐市新增既往报告无症状感染者转确诊病例2例，本土1例在沙依巴克区，另1例为境外输入人员。新增本土无症状感染者4例，其中天山区3例、水磨沟区1例，1例在集中隔离医学观察点筛查发现、2例在中风险区筛查发现、1例在社区筛查发现，即闭环转运至定点医疗机构进行隔离医学观察。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9500337.d.html</link>
@@ -568,23 +586,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-17/detail-imqqsmrn9458521.d.html</link>
             <guid>2804809</guid>
             <pubDate>Sat, 17 Sep 2022 07:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉：到目前为止，得州超级工厂生产了10000辆Model Y。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-17/detail-imqmmtha7692645.d.html</link>
-            <guid>2804808</guid>
-            <pubDate>Sat, 17 Sep 2022 07:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国联通与湖南省签署战略合作框架协议】据中国联通官微消息，9月16日，中国联通与湖南省在长沙签署深化数字经济战略合作框架协议。根据协议，双方将建立高层会商机制、衔接落实机制，在优化升级算力支撑体系、推进产业数字化转型、加快推动数字产业化、提升公共服务数字化水平、建设中国联通中南研究院等方面开展交流合作。]]></title>
-            <guid>2804807</guid>
-            <pubDate>Sat, 17 Sep 2022 07:30:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【百寿路出现猴痘病例并隔离？成都金牛区疾控：系谣言】“金牛疾控”微信公众号发布声明称，9月17日，网上出现“百寿路出现猴痘病例并隔离”相关消息，引发网友关注和担忧。经核实，该区未接到发现猴痘病例相关情况报告，该消息为谣言。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-17/detail-imqmmtha7692019.d.html</link>
-            <guid>2804806</guid>
-            <pubDate>Sat, 17 Sep 2022 07:22:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

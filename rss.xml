@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Sep 2022 19:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 20:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗伊斯兰革命卫队一架苏-22战机坠毁 无人员伤亡】当地时间9月18日，伊朗伊斯兰革命卫队航空部队发布消息，当天该部队一架苏-22战机在执行任务时出现技术故障，坠毁在伊朗南部霍尔木兹甘省无人居住的地区。飞行员使用弹射座椅系统安全着陆，飞机没有造成地面人员伤亡或建筑物损坏。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-19/detail-imqmmtha7834423.d.html</link>
+            <guid>2805644</guid>
+            <pubDate>Sun, 18 Sep 2022 20:08:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【热带风暴“菲奥娜”已升级为一级飓风 向波多黎各移动】当地时间9月18日，在波多黎各周围活动的热带风暴“菲奥娜”（Fiona）已经升级为一级飓风，正向波多黎各移动。根据气象部门的预测，“菲奥娜”带来的历史性降雨可能会在当地引发山体滑坡和严重洪水。据报道，截至18日早上，波多黎各已有超过32万用户停电。因热带风暴“菲奥娜”引发的洪水已经在位于加勒比海的法属瓜德罗普岛上造成1人死亡。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9589926.d.html</link>
@@ -584,12 +590,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9556408.d.html</link>
             <guid>2805342</guid>
             <pubDate>Sun, 18 Sep 2022 08:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【凯普生物：前三季度净利润同比预增109%-124%】凯普生物公告，预计2022年前三季度净利润为13.5亿元-14.5亿元，同比增长108.68%-124.14%。报告期内，因核酸检测需求增加对取样耗材、核酸提取试剂等带来销售拉动，相关业务取得快速发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7792047.d.html</link>
-            <guid>2805341</guid>
-            <pubDate>Sun, 18 Sep 2022 08:23:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

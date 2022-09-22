@@ -4,11 +4,55 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 22 Sep 2022 18:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 19:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.37%，报18105点，低水43点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8389874.d.html</link>
+            <guid>2809614</guid>
+            <pubDate>Thu, 22 Sep 2022 19:06:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国经济衰退担忧加剧，半导体行业面临更多不利影响】美国半导体板块正受到美联储紧缩政策引发的抛售的双重打击。一方面，收益率飙升令科技股承压，而加息也令芯片需求放缓。半导体板块此前已面临美光和英伟达的一系列盈利预警和疲弱业绩报告的打击，其中部分原因是消费者需求减弱。有人担心，订单放缓已经给个人电脑零部件制造商带来了压力，这种情况可能会蔓延到其他行业。自6月1日以来，费城半导体指数12个月远期EPS下跌了近12%，相比之下，纳斯达克100指数下跌了近3%，标普500指数下跌了不到1%。在这种背景下，半导体行业的利润预期可能会进一步下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8389483.d.html</link>
+            <guid>2809613</guid>
+            <pubDate>Thu, 22 Sep 2022 18:54:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 原油期货收涨0.66%，报83.49美元/桶；布伦特原油期货收涨0.7%，报90.46美元/桶。]]></title>
+            <guid>2809612</guid>
+            <pubDate>Thu, 22 Sep 2022 18:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联邦快递（FedEx）第一财季经调整后每股收益3.44美元。公司运营收入12.3亿美元。该公司宣布将优先实施减支行动，第二财季将实现减支7亿美元，2023财年瓷砖年将削减22-27亿美元开支。]]></title>
+            <guid>2809611</guid>
+            <pubDate>Thu, 22 Sep 2022 18:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超850亿元资金出手抢购东久REIT 公募REITs产品有望扩容至24只 】继8月份3只保租房公募REITs单日认购规模超百亿元后，又有2只公募REITs再现火爆抢购。9月22日晚间，国泰君安东久新经济产业园REIT发布认购申请确认比例结果公告显示，该产品最终认购总金额达到855.71亿元；同日，国泰君安临港创新产业园REIT同样发布了认购申请确认比例结果公告，公告显示该产品最终认购总金额达到727亿元，公众投资者认购部分的实际确认比例低至0.3287%，这也就意味着若公众投资者认购临港REIT的金额为1万元，其最终获配的金额只有不到33元。值得注意的是，公募REITs产品仍在快速扩容。截至9月22日，共有17只产品成功上市，若算上待审核和即将上市的产品，全市场公募REITs产品有望扩容至24只。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8388769.d.html</link>
+            <guid>2809610</guid>
+            <pubDate>Thu, 22 Sep 2022 18:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2211合约夜盘收涨0.66%，报653.60元人民币/桶。沪金夜盘收涨0.25%，沪银收涨1.07%。]]></title>
+            <guid>2809609</guid>
+            <pubDate>Thu, 22 Sep 2022 18:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘主力合约收盘】截至2:30收盘，沪金主力合约收涨0.25%，报387元/克，沪银主力合约收涨1.07%，报4516元/千克，SC原油主力合约收涨0.66%，报654元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqmmtha8388607.d.html</link>
+            <guid>2809608</guid>
+            <pubDate>Thu, 22 Sep 2022 18:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷受旱灾影响地区小麦长势仍不佳，尽管旱情已得到降雨缓解。该国22-23年度玉米播种完成度目前为3%，播种面积预计为750万公顷，同比下降2.6%。]]></title>
+            <guid>2809607</guid>
+            <pubDate>Thu, 22 Sep 2022 18:26:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧洲证券及市场管理局：提议在价格飙升期间暂停能源衍生品的交易】欧洲证券及市场管理局(ESMA)提议实行临时“紧急刹车”，停止能源衍生品的交易，因能源价格不断飙升。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-23/detail-imqqsmrp0139634.d.html</link>
@@ -526,54 +570,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8373041.d.html</link>
             <guid>2809514</guid>
             <pubDate>Thu, 22 Sep 2022 14:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区9月消费者信心指数初值降至28.8，因能源危机而创历史新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8373001.d.html</link>
-            <guid>2809513</guid>
-            <pubDate>Thu, 22 Sep 2022 14:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会滞后指标月率 0.7%，前值0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8372931.d.html</link>
-            <guid>2809512</guid>
-            <pubDate>Thu, 22 Sep 2022 14:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国抵押贷款利率跃升至6.29%，为2008年10月以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8372896.d.html</link>
-            <guid>2809511</guid>
-            <pubDate>Thu, 22 Sep 2022 14:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会同步指标月率 0.1%，前值0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0124629.d.html</link>
-            <guid>2809510</guid>
-            <pubDate>Thu, 22 Sep 2022 14:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会领先指标 116.2，前值116.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8372843.d.html</link>
-            <guid>2809509</guid>
-            <pubDate>Thu, 22 Sep 2022 14:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会领先指标月率录得-0.3%，为2022年3月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0124584.d.html</link>
-            <guid>2809508</guid>
-            <pubDate>Thu, 22 Sep 2022 14:01:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线下挫近1美元，现分别报84.72美元/桶和91.68美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqmmtha8372805.d.html</link>
-            <guid>2809507</guid>
-            <pubDate>Thu, 22 Sep 2022 14:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月谘商会领先指标月率 -0.3%，预期-0.10%，前值-0.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-22/detail-imqqsmrp0124512.d.html</link>
-            <guid>2809506</guid>
-            <pubDate>Thu, 22 Sep 2022 14:00:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

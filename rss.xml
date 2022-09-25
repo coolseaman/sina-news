@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Sep 2022 20:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 21:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【约旦、伊拉克、叙利亚、黎巴嫩将加强农业合作】当地时间9月25日，约旦、伊拉克、叙利亚、黎巴嫩四国农业部长举行四方会谈，就加强四国间的农业一体化合作进行磋商。会议指出，新冠疫情和俄乌冲突影响到了供应链、商品和基础材料，加上气候变化对农作物产量的影响，确保可持续的粮食安全十分重要。在此背景下，四国加强粮食安全领域的区域合作，有助于促进农业内部贸易的流动，满足四国民众的基本需求。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-26/detail-imqmmtha8731791.d.html</link>
+            <guid>2811096</guid>
+            <pubDate>Sun, 25 Sep 2022 21:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【悉尼早盘，美元兑多数G10货币高开】周一，随着亚太交易周的开始，美元兑多数主要货币走高。其中，英镑在英国首相特拉斯的经济刺激计划影响下领跌。英镑兑美元下跌0.8%至1.0773，稍早触及1.0766，创37年新低；欧元兑英镑上涨0.4%，至0.8965。澳元兑美元缓和跌势，目前下跌0.2%至0.6515；欧元兑美元下跌0.2%至0.9668，为连续第五天下跌，该货币对上周下跌3.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-26/detail-imqmmtha8731784.d.html</link>
+            <guid>2811095</guid>
+            <pubDate>Sun, 25 Sep 2022 21:15:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国能源巨头与卡塔尔签天然气增产合同】当地时间24日，卡塔尔与法国能源公司道达尔签署了关于增产液化天然气的合同。卡塔尔能源事务国务大臣萨阿德·卡比表示，道达尔能源公司将对卡塔尔北方气田南扩项目投资约15亿美元。卡塔尔是全球最重要的天然气供应国之一。有媒体表示，在欧洲天然气价格大涨的背景下，该合同是欧洲寻求摆脱对俄罗斯天然气依赖、实现油气来源多样化的产物。（央视）]]></title>
             <guid>2811094</guid>
@@ -573,18 +585,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0420851.d.html</link>
             <guid>2810994</guid>
             <pubDate>Sun, 25 Sep 2022 07:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【朗特智能：欧洲储能项目进展较为顺利，预计年内能实现小批量交付】朗特智能近日接受机构调研时表示，关于欧洲储能项目，目前东莞朗特新能源的产线布置和设备已逐步到位，客户已经开始下达订单，部分机型在试产，项目进展较为顺利，预计今年能够实现小批量的订单交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqmmtha8677584.d.html</link>
-            <guid>2810993</guid>
-            <pubDate>Sun, 25 Sep 2022 07:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音货机扎湖里 法国一机场关闭】法国蒙彼利埃机场24日临时关闭，原因是一架波音货机在着陆时冲进附近湖中。西大西洋货运航空公司一架波音737货机当天凌晨降落蒙彼利埃机场时滑出跑道，机头扎进附近湖中，所幸没有人员伤亡。那架货机从巴黎戴高乐机场起飞。机上共3名机组人员，全部安全撤离。机场所在的埃罗省说，安全起见，蒙彼利埃机场将关闭，直至另行通知，专业机构将把出事飞机运走。 （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0420395.d.html</link>
-            <guid>2810992</guid>
-            <pubDate>Sun, 25 Sep 2022 07:00:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,80 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Sep 2022 11:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 12:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  【中铝国际：拟12.81亿元转让弥玉公司52.6%股权】中铝国际公告，公司及下属全资子公司拟分两次向云南基投出售其合计持有的弥玉公司53.8%股权，本次交易为第一次转让，即弥玉公司52.6%股权的转让，本次交易价格为12.81亿元。本次交易的标的公司是G8012弥勒至楚雄高速公路弥勒至玉溪段工程PPP项目的项目公司，该项目尚处于建设投资期。]]></title>
+            <title><![CDATA[  【下周9只新股上市：上交所主板1只，科创板3只，创业板2只，北交所3只】下周（9月26日-9月30日）共有9只新股上市，上交所主板1只，科创板3只，创业板2只，北交所3只。9月26日有创业板森鹰窗业和一博科技，上交所主板紫燕食品，科创板信科移动；9月27日有北交所中纺标和天马新材，科创板骄成超声和天德钰，9月28日有北交所硅烷科技。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0445977.d.html</link>
+            <guid>2811072</guid>
+            <pubDate>Sun, 25 Sep 2022 12:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【万星控股：已向联交所申请9月26日复牌】由于所有复牌条件已达成，公司已向联交所申请股份于9月26日上午9时正起恢复买卖。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0444894.d.html</link>
+            <guid>2811071</guid>
+            <pubDate>Sun, 25 Sep 2022 12:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴“Ian”在古巴西部东南约950公里处，最大持续风速85公里/时。]]></title>
+            <guid>2811070</guid>
+            <pubDate>Sun, 25 Sep 2022 12:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莱茵集团与阿布扎比清洁能源厂商Masdar就联合开发全球主要市场海上风电项目签署了进一步谅解备忘录。]]></title>
+            <guid>2811069</guid>
+            <pubDate>Sun, 25 Sep 2022 12:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【五菱宏光MINI EV敞篷版正式上市，售价9.99万】据界面，9月25日，上汽通用五菱旗下宏光MINI EV敞篷版正式上市，售价为99900元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0442206.d.html</link>
+            <guid>2811068</guid>
+            <pubDate>Sun, 25 Sep 2022 11:46:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  受台风影响，菲律宾股市周一休市。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0441590.d.html</link>
+            <guid>2811067</guid>
+            <pubDate>Sun, 25 Sep 2022 11:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国大型能源公司莱茵集团和阿联酋阿布扎比国家石油公司签署了关于向德国供应多年液化天然气的谅解备忘录。]]></title>
+            <guid>2811066</guid>
+            <pubDate>Sun, 25 Sep 2022 11:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国大型能源公司莱茵集团（RWE）：第一批商用液化天然气货物将于2022年12月底抵达德国。]]></title>
+            <guid>2811065</guid>
+            <pubDate>Sun, 25 Sep 2022 11:36:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：印尼塔劳群岛发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0440730.d.html</link>
+            <guid>2811064</guid>
+            <pubDate>Sun, 25 Sep 2022 11:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：首批天然气运输将在2022年晚些时候进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0440367.d.html</link>
+            <guid>2811063</guid>
+            <pubDate>Sun, 25 Sep 2022 11:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋阿布扎比国家石油公司ADNOC与德国大型能源公司莱茵集团（RWE）签署液化天然气输送合同。]]></title>
+            <guid>2811062</guid>
+            <pubDate>Sun, 25 Sep 2022 11:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宝馨科技：正在合作开展的钙钛矿项目处于研发阶段】宝馨科技9月25日在互动平台表示，钙钛矿是一种特殊结构的材料，可以应用于光伏薄膜电池和硅基电池叠层，有望提高光伏产品光电转化效率、降低度电成本，是未来光伏产业发展的方向之一。目前公司正在合作开展的钙钛矿项目处于研发阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqmmtha8697903.d.html</link>
+            <guid>2811061</guid>
+            <pubDate>Sun, 25 Sep 2022 11:20:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中铝国际：拟12.81亿元转让弥玉公司52.6%股权】中铝国际公告，公司及下属全资子公司拟分两次向云南基投出售其合计持有的弥玉公司53.8%股权，本次交易为第一次转让，即弥玉公司52.6%股权的转让，本次交易价格为12.81亿元。本次交易的标的公司是G8012弥勒至楚雄高速公路弥勒至玉溪段工程PPP项目的项目公司，该项目尚处于建设投资期。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0439538.d.html</link>
             <guid>2811060</guid>
             <pubDate>Sun, 25 Sep 2022 11:10:38 GMT</pubDate>
@@ -518,75 +585,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqmmtha8665328.d.html</link>
             <guid>2810971</guid>
             <pubDate>Sun, 25 Sep 2022 04:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【诺安基金原党支部书记、总经理奥成文接受纪律审查和监察调查】今日，中共深圳市纪律检查委员会公众号“廉洁深圳”发文称，诺安基金原党支部书记、总经理奥成文涉嫌严重违纪违法，目前正接受中国中化控股有限责任公司纪检监察组纪律审查和广东省深圳市龙华区监察委员会监察调查。公开资料显示，奥成文历任中国化工进出口总公司投资部高级经理；中国中化集团下属中国对外经济贸易信托投资有限公司投资银行部职员、经理助理、副总经理（主持工作）、基金业务组副组长；诺安基金督察长兼董事会秘书，党支部书记、总经理。2019年11月，他被免去诺安基金党支部书记、总经理职务。]]></title>
-            <guid>2810970</guid>
-            <pubDate>Sun, 25 Sep 2022 04:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大兴机场投运三周年 完成旅客吞吐5198万人次】今天（9月25日）是大兴机场投运三周年。大兴机场自投运以来，累计完成旅客吞吐量5198万人次，航班起降44.4万架次，货邮吞吐量36.1万吨。三年来，大兴机场累计开通航线266条，通达航点185个，航线网络基本实现了年旅客吞吐量500万级及以上机场全覆盖。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0407032.d.html</link>
-            <guid>2810969</guid>
-            <pubDate>Sun, 25 Sep 2022 04:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蒙古国首都乌兰巴托举办“无车日”活动】当地时间9月25日，蒙古国首都乌兰巴托举办“无车日——2022”活动，以倡导绿色健康出行，减少城市环境污染。当天7时至18时之间，乌兰巴托市中心区域实施临时交通管制措施，禁止机动车辆通行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0406423.d.html</link>
-            <guid>2810968</guid>
-            <pubDate>Sun, 25 Sep 2022 04:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台风“奥鹿”持续增强 菲律宾部分地区发布最高级别预警】菲律宾国家气象局9月25日11时发布消息称，今年第16号台风“奥鹿”在达到超强台风级别后仍在持续增强。菲律宾波利略岛已经升起5号风讯，这是菲律宾台风预警体系中的最高级别。首都马尼拉大区仍然维持3号风讯。目前，波利略岛已经强制要求居民撤离疏散，包括马尼拉市在内的多地宣布停工、停课至26日。菲律宾国家气象局预计，“奥鹿”将于25日晚间在奎松省北部或奥罗拉省南部登陆，也可能于25日下午在波利略岛登陆或擦过该岛。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqmmtha8663214.d.html</link>
-            <guid>2810967</guid>
-            <pubDate>Sun, 25 Sep 2022 04:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中银协报告：截至2021年末我国银行卡累计发卡量达92.5亿张】中国银行业协会近日发布的数据显示，截至2021年末，我国银行卡累计发卡量达92.5亿张，2021年当年新增发卡量2.7亿张，同比增长3.0%。中国银行业协会发布的《中国银行卡产业发展蓝皮书（2022）》认为，2021年我国银行卡产业总体向好，交易规模显著回升，整体风险有所缓和。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0405669.d.html</link>
-            <guid>2810966</guid>
-            <pubDate>Sun, 25 Sep 2022 04:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃白银靖远县延长全域临时静默管理时间】甘肃省白银市靖远县新冠肺炎疫情联防联控领导小组办公室发布通告，根据疫情防控形势需要，经靖远县新冠肺炎疫情联防联控领导小组研究决定，将全县临时静默管理时间延长3天，时间为：2022年9月25日（星期日）12:00至2022年9月28日（星期三）12:00。其间，继续执行《靖远县关于实行全域临时静默管理的通告》（第32号）各项要求，全县非必要全部居家办公，中小学、幼儿园改为线上教学，停止一切社会面活动，所有小区实行封闭管理等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0405118.d.html</link>
-            <guid>2810965</guid>
-            <pubDate>Sun, 25 Sep 2022 03:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招商宏观：央行或于四季度降准】招商证券宏观团队研报认为，八月中旬以来，银行间市场流动性趋紧，两大监测指标-超储率与超额备付金率均滑至历史低位，“市场-政策”利差快速收窄。与此同时，央行流动性调控成效显现，同业杠杆去化明显。展望四季度，流动性面临较大缺口，出于维护流动性合理充裕与引导中长期贷款利率下行等考虑，央行或于四季度降准，最早见于10月。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqmmtha8662018.d.html</link>
-            <guid>2810964</guid>
-            <pubDate>Sun, 25 Sep 2022 03:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台风“奥鹿”将带来强风雨天气 海南发布相关预警】据海南省气象台消息，今年第16号台风“奥鹿”（超强台风级）将于26日早晨进入南海中东部海域，而后继续向偏西方向移动，27日经过西沙群岛，28日在越南东部沿海登陆。受“奥鹿”影响，9月26日至28日，海南省自东向西将有一次强风雨天气过程。据悉，海南省气象局2022年09月25日10时10分发布台风三级预警，根据《海南省海上防台风应急预案（试行）》有关规定，海南省三防总指挥部决定于9月25日11时启动海上防台风Ⅲ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqmmtha8661035.d.html</link>
-            <guid>2810963</guid>
-            <pubDate>Sun, 25 Sep 2022 03:38:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果上架M2款翻新版13英寸MacBook Pro 美版便宜近千元】据报道，苹果现已在美国和加拿大等地的翻新商店中推出搭载M2芯片的13英寸MacBook Pro，预计国行也将在近期上架。在美国，翻新的苹果M2款13英寸MacBook Pro提供了256GB和512GB存储，价格分别为1169美元（约8323.28元人民币）和1349美元（约9604.88元人民币），而通常情况下价格分别为1299美元（约9248.88元人民币）和1499美元（约10672.88元人民币）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqqsmrp0402812.d.html</link>
-            <guid>2810962</guid>
-            <pubDate>Sun, 25 Sep 2022 03:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至9月25日，印度累计新冠肺炎确诊病例为4457万例，累计死亡病例升至528510例。]]></title>
-            <guid>2810961</guid>
-            <pubDate>Sun, 25 Sep 2022 03:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球芯片需求疲软，三星、SK海力士第三季度盈利前景黯淡】周日公布的一份行业数据分析显示，由于近期全球存储芯片需求下降，三星电子和SK海力士这两家全球最大的芯片制造商第三季度盈利前景基本上依然黯淡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-25/detail-imqmmtha8658348.d.html</link>
-            <guid>2810960</guid>
-            <pubDate>Sun, 25 Sep 2022 03:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储加息举措将使美国失业率激增】据美国广播公司当地时间9月24日报道，美联储大幅加息以抑制通胀的举措将导致美国失业人数在明年年底前激增。据美联储预测，到2023年年底，美国失业率将从目前的3.7%上升至4.4%。专家称这一结果将增加约120万失业人口。（央视新闻）]]></title>
-            <guid>2810959</guid>
-            <pubDate>Sun, 25 Sep 2022 03:03:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

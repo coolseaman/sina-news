@@ -4,11 +4,288 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Sep 2022 15:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 16:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【欧元区8月失业率达6.6%】当地时间9月30日，欧盟统计局公布了欧元区及欧盟地区8月份失业率数据。数据显示，欧元区19国8月份失业率达6.6%，与上月持平，相较去年同期略有下降，但仍意味着有近1100万人处于失业状态。而在欧盟27国范围内，失业率则为6.0%，意味着失业人数为近1300万。（央视）]]></title>
+            <guid>2816386</guid>
+            <pubDate>Fri, 30 Sep 2022 16:27:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【USDA下调2021/22年度美国玉米产量预估】农产品专栏作家Karen Braun表示，USDA将2021/22年度的美国玉米产量预估从此前预期的151.15亿蒲下调至150.74亿蒲（市场预期均值为150.91亿蒲），同时将单产预估从177蒲/英亩下调至176.7蒲/英亩。将2021/22年度的美国大豆产量预估从此前预期的44.35亿蒲上调至44.65亿蒲（市场预期均值为44.37亿蒲），同时将单产预估从51.4蒲/英亩上调至51.7蒲/英亩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1151970.d.html</link>
+            <guid>2816385</guid>
+            <pubDate>Fri, 30 Sep 2022 16:26:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：美联储官员已经暗示还会有更多的加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9428317.d.html</link>
+            <guid>2816384</guid>
+            <pubDate>Fri, 30 Sep 2022 16:22:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储巴尔金：通胀进程无法预测，美联储将“坚持”从紧政策，而不是“过早宣布胜利”。]]></title>
+            <guid>2816383</guid>
+            <pubDate>Fri, 30 Sep 2022 16:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：出现通胀压力缓解的“有希望的迹象”，但可能需要时间才能在数据中体现出来。]]></title>
+            <guid>2816382</guid>
+            <pubDate>Fri, 30 Sep 2022 16:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源信息署（EIA）：美国得州7月份原油日产量增长0.9%，至500万桶，为2022年4月以来最高。]]></title>
+            <guid>2816381</guid>
+            <pubDate>Fri, 30 Sep 2022 16:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利今年剩余时间将总计发行64亿欧元债券，净发行14亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1150519.d.html</link>
+            <guid>2816380</guid>
+            <pubDate>Fri, 30 Sep 2022 16:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今年迄今为止，意大利已经发行了2100亿欧元的中长期债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9427013.d.html</link>
+            <guid>2816379</guid>
+            <pubDate>Fri, 30 Sep 2022 16:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF：世界将面临2007-08年全球金融危机以来最严重的粮食安全危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1150200.d.html</link>
+            <guid>2816378</guid>
+            <pubDate>Fri, 30 Sep 2022 16:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部：预计美国所有小麦季度库存17.76亿蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1150169.d.html</link>
+            <guid>2816377</guid>
+            <pubDate>Fri, 30 Sep 2022 16:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部：预计美国大豆季度库存2.74亿蒲式耳，预期2.4322亿蒲式耳，前值9.71亿蒲式耳。]]></title>
+            <guid>2816376</guid>
+            <pubDate>Fri, 30 Sep 2022 16:02:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国农业部：预计美国玉米季度库存13.77亿蒲式耳，预期14.9548亿蒲式耳，前值43.46亿蒲式耳。]]></title>
+            <guid>2816375</guid>
+            <pubDate>Fri, 30 Sep 2022 16:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蒙特利尔银行：将美光科技(MU.O)目标价从80美元下调至70美元 维持跑赢大盘评级】蒙特利尔银行分析师Ambrish Srivastava在一份研究报告中告诉投资者该公司2022财年第四季度的业绩“还不错”，但其下一季度的指引“远低于”预期，其自由现金流将比他的模型“差很多”。然而，Srivastava补充说，在他的研究范围内，美光科技是“风险/回报状况较好的股票之一”。他预计该公司将继续受益于“更为理性的”DRAM行业。]]></title>
+            <guid>2816374</guid>
+            <pubDate>Fri, 30 Sep 2022 15:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SVB Securities：将艾伯维(ABBV.N)目标价从140美元下调至135美元。]]></title>
+            <guid>2816373</guid>
+            <pubDate>Fri, 30 Sep 2022 15:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Benchmark：将西部数据(WDC.O)目标价从34美元下调至28美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1149950.d.html</link>
+            <guid>2816372</guid>
+            <pubDate>Fri, 30 Sep 2022 15:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME三个月期镍价格下跌5.3%，至每吨21150美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426628.d.html</link>
+            <guid>2816371</guid>
+            <pubDate>Fri, 30 Sep 2022 15:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲汽车生产巨头Stellantis宣布法国多家工厂的罢工事件结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426565.d.html</link>
+            <guid>2816370</guid>
+            <pubDate>Fri, 30 Sep 2022 15:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD日内跌幅达1.50%，现报0.5640。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1149785.d.html</link>
+            <guid>2816369</guid>
+            <pubDate>Fri, 30 Sep 2022 15:55:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10月1日起广东除广州外认房不认贷？广州人行：不实信息】9月30日晚间，一份印有“广东市场利率定价自律机制”抬头的《关于调整辖内房地产信贷政策的决议》文件截图在网络流传较广。其中提到，自2022年10月1日起，辖内（除广州）的各地级市可按地方政府诉求，实行首套和二套商品住房“认房不认贷”政策，以及部分地市的首套房首付和利率调整的信息。广州人行相关负责人表示，经向有关业务部门证实，此为不实信息，请各方勿传勿信。（财联社）]]></title>
+            <guid>2816368</guid>
+            <pubDate>Fri, 30 Sep 2022 15:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德意志银行：将威富集团(VFC.N)目标价从56美元下调至43美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1149678.d.html</link>
+            <guid>2816367</guid>
+            <pubDate>Fri, 30 Sep 2022 15:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车CEO：芯片短缺正在改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426416.d.html</link>
+            <guid>2816366</guid>
+            <pubDate>Fri, 30 Sep 2022 15:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车CEO：没有看到通胀缓解。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1149615.d.html</link>
+            <guid>2816365</guid>
+            <pubDate>Fri, 30 Sep 2022 15:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】德国DAX30指数9月30日（周五）收盘上涨136.25点，涨幅1.14%，报12111.80点；英国富时100指数9月30日（周五）收盘上涨10.01点，涨幅0.15%，报6891.60点；法国CAC40指数9月30日（周五）收盘上涨85.47点，涨幅1.51%，报5762.34点；欧洲斯托克50指数9月30日（周五）收盘上涨39.81点，涨幅1.21%，报3318.85点；西班牙IBEX35指数9月30日（周五）收盘上涨66.31点，涨幅0.91%，报7366.41点；意大利富时MIB指数9月30日（周五）收盘上涨287.02点，涨幅1.41%，报20640.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426274.d.html</link>
+            <guid>2816364</guid>
+            <pubDate>Fri, 30 Sep 2022 15:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车高管表示，汽车需求仍然强劲，芯片短缺状况有所改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426262.d.html</link>
+            <guid>2816363</guid>
+            <pubDate>Fri, 30 Sep 2022 15:50:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦镍日内大跌4.00%，现报21450.00美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1149424.d.html</link>
+            <guid>2816362</guid>
+            <pubDate>Fri, 30 Sep 2022 15:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行官员Guardado：这是一个相当“陡峭”的加息周期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1149331.d.html</link>
+            <guid>2816361</guid>
+            <pubDate>Fri, 30 Sep 2022 15:47:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：执行委员会批准新的“粮食激增”窗口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426108.d.html</link>
+            <guid>2816360</guid>
+            <pubDate>Fri, 30 Sep 2022 15:47:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  古根海姆：将威富集团(VFC.N)目标价从60美元下调至50美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9426059.d.html</link>
+            <guid>2816359</guid>
+            <pubDate>Fri, 30 Sep 2022 15:46:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[淡水河谷(VALE.N)涨超5%，此前宣布重组巴西镍和铜业务以实现高效管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9425916.d.html</link>
+            <guid>2816358</guid>
+            <pubDate>Fri, 30 Sep 2022 15:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国天然气期货跌约6.8%，刷新日低至526.700便士。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1149132.d.html</link>
+            <guid>2816357</guid>
+            <pubDate>Fri, 30 Sep 2022 15:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品管理局（FDA）继续就特定的婴儿配方奶粉供应问题进行自由裁量权执法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148892.d.html</link>
+            <guid>2816356</guid>
+            <pubDate>Fri, 30 Sep 2022 15:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股收盘普涨】欧股收盘普涨，德国DAX30指数涨1.14%，英国富时100指数涨0.15%，法国CAC40指数涨1.51%，欧洲斯托克50指数涨1.21%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148818.d.html</link>
+            <guid>2816355</guid>
+            <pubDate>Fri, 30 Sep 2022 15:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰8月经常账户盈余20.18亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148799.d.html</link>
+            <guid>2816354</guid>
+            <pubDate>Fri, 30 Sep 2022 15:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德意志银行：将耐克(NKE.N)目标价从123美元下调至99美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9425543.d.html</link>
+            <guid>2816353</guid>
+            <pubDate>Fri, 30 Sep 2022 15:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事鲍曼：美国监管机构必须就加密货币监管进行协调。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9425511.d.html</link>
+            <guid>2816352</guid>
+            <pubDate>Fri, 30 Sep 2022 15:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间23:30收报7.1211元，较周四夜盘收盘跌1点；成交量297.44亿美元。]]></title>
+            <guid>2816351</guid>
+            <pubDate>Fri, 30 Sep 2022 15:37:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海干散货运价指数录得两年多以来最大单月涨幅】波罗的海干散货运价指数周五上涨，并录得两年多以来最大单月涨幅，受海岬型船和巴拿马型船需求增加带动。波罗的海干散货运价指数上涨3点至1760点，月线录得上涨82.4%，为2020年6月以来最大单月涨幅。海岬型船运价指数上涨1点至1955点，月线录得大涨547%，为2020年6月以来最大单月涨幅。海岬型船日均获利上涨12美元，至16214美元。巴拿马型船运价指数上涨19点或1%，至2082点；月线录得上涨71%，为2013年9月以来最大单月涨幅。巴拿马型船日均获利上涨175美元，至18742美元。超灵便型散货船运价指数下跌11点至1663点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148683.d.html</link>
+            <guid>2816350</guid>
+            <pubDate>Fri, 30 Sep 2022 15:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国官员与石油企业高管讨论炼油和燃料供应问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148595.d.html</link>
+            <guid>2816349</guid>
+            <pubDate>Fri, 30 Sep 2022 15:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟委员会：欧盟批准德国4.50亿欧元关于俄罗斯天然气供应短缺的救助计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148382.d.html</link>
+            <guid>2816348</guid>
+            <pubDate>Fri, 30 Sep 2022 15:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨1.40%，报388.25点，三季度累计下跌约5.15%。 德国DAX 30指数初步收涨1.18%，报12121.91点，三季度累跌约5.00%。 法国股指初步收涨1.51%，意大利股指初步收涨1.61%，英国股指初步收涨0.35%。]]></title>
+            <guid>2816347</guid>
+            <pubDate>Fri, 30 Sep 2022 15:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞银集团：将耐克(NKE.N)目标价从156美元下调至141美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9425127.d.html</link>
+            <guid>2816346</guid>
+            <pubDate>Fri, 30 Sep 2022 15:30:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗：将耐克(NKE.N)目标价从113美元下调至93美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148274.d.html</link>
+            <guid>2816345</guid>
+            <pubDate>Fri, 30 Sep 2022 15:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国7月原油出口量达到创纪录的380万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148175.d.html</link>
+            <guid>2816344</guid>
+            <pubDate>Fri, 30 Sep 2022 15:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  SPDR标普生物科技ETF上涨4%，有望创2020年以来首次季度上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1148118.d.html</link>
+            <guid>2816343</guid>
+            <pubDate>Fri, 30 Sep 2022 15:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  韦德布什：将耐克(NKE.N)目标价从121美元下调至101美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9424848.d.html</link>
+            <guid>2816342</guid>
+            <pubDate>Fri, 30 Sep 2022 15:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：需要进一步提高利率才能将通胀率恢复到2%的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9424702.d.html</link>
+            <guid>2816341</guid>
+            <pubDate>Fri, 30 Sep 2022 15:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委维斯科：盲目跟随美联储可能是严重的误判。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1147854.d.html</link>
+            <guid>2816340</guid>
+            <pubDate>Fri, 30 Sep 2022 15:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  古根海姆：将耐克(NKE.N)目标价从155美元下调至135美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1147812.d.html</link>
+            <guid>2816339</guid>
+            <pubDate>Fri, 30 Sep 2022 15:22:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲央行管委维斯科：一旦经济已经明显放缓，加息可能对通胀产生最大影响。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9424582.d.html</link>
@@ -302,282 +579,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1141024.d.html</link>
             <guid>2816286</guid>
             <pubDate>Fri, 30 Sep 2022 14:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月五至十年期通胀率预期 2.7%，预期2.80%，前值2.80%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9417414.d.html</link>
-            <guid>2816285</guid>
-            <pubDate>Fri, 30 Sep 2022 14:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月一年期通胀率预期 4.7%，预期4.60%，前值4.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9417368.d.html</link>
-            <guid>2816284</guid>
-            <pubDate>Fri, 30 Sep 2022 14:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月密歇根大学消费者信心指数终值 58.6，预期59.5，前值59.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9417348.d.html</link>
-            <guid>2816283</guid>
-            <pubDate>Fri, 30 Sep 2022 14:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线上扬近0.2美元。现报19.15美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1140859.d.html</link>
-            <guid>2816282</guid>
-            <pubDate>Fri, 30 Sep 2022 14:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【9月30日0时至21时 新疆新增本土无症状感染者29例】据央视新闻，9月30日，新疆维吾尔自治区人民政府新闻办公室召开疫情防控新闻发布会。会上通报：9月30日0时至21时，新疆新增本土无症状感染者29例。新增本土无症状感染者解除隔离医学观察2例。截至9月30日21时，新疆现有本土确诊病例1例；现有本土无症状感染者228例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1140792.d.html</link>
-            <guid>2816281</guid>
-            <pubDate>Fri, 30 Sep 2022 13:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杭州钱塘区放宽部分区域限购政策】据“钱塘发布”9月30日消息，已落户杭州或在杭州有社保、个税缴纳记录的非杭州市户籍家庭，可在钱塘区白杨、义蓬、新湾、临江、前进等街道购买新建商品住房和二手住房。符合条件的杭州市户籍家庭在上述街道购买第二套住房不受落户满5年的限制，各类家庭在限购区内限购的住房总套数不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1140755.d.html</link>
-            <guid>2816280</guid>
-            <pubDate>Fri, 30 Sep 2022 13:59:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【石家庄公积金新政：借款人父母可作为共同还款人参与还款】石家庄住房公积金管理中心官方微信公众号消息，石家庄将从10月1日起扩大偿还住房公积金贷款提取范围。公告称，石家庄住房公积金贷款的借款人，其父母可以申请作为共同还款人参与还款；职工配偶为房产共有人（房屋共同产权人）的，配偶父母也可以申请作为共同还款人参与还款。其中，共同还款人最多为2人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1140736.d.html</link>
-            <guid>2816279</guid>
-            <pubDate>Fri, 30 Sep 2022 13:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股走高，纳指、标普500指数均转涨，道指跌幅收窄至0.14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9416896.d.html</link>
-            <guid>2816278</guid>
-            <pubDate>Fri, 30 Sep 2022 13:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行：9月30日买入11.9亿英镑英国国债。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9416857.d.html</link>
-            <guid>2816277</guid>
-            <pubDate>Fri, 30 Sep 2022 13:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海发放两亿元绿色智能家电消费补贴】从上海市商务委获悉，上海将于10月1日起实施“上海市促进绿色智能家电消费补贴政策”，对消费者购买绿色智能家电给予一定补贴，补贴资金总额为2亿元人民币。据介绍，此次补贴的对象为年满18周岁的在沪消费者，购买时定位应在上海，线上消费送货地址须在上海市域范围内。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9416086.d.html</link>
-            <guid>2816276</guid>
-            <pubDate>Fri, 30 Sep 2022 13:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月芝加哥PMI录得45.7，为2020年6月以来新低，跌破荣枯线。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1139588.d.html</link>
-            <guid>2816275</guid>
-            <pubDate>Fri, 30 Sep 2022 13:46:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月芝加哥PMI 45.7，预期51.8，前值52.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1139563.d.html</link>
-            <guid>2816274</guid>
-            <pubDate>Fri, 30 Sep 2022 13:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股运动服装股走低】美股运动服装股走低，耐克跌13%，安德玛跌12%，迪克体育用品跌超11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1139368.d.html</link>
-            <guid>2816273</guid>
-            <pubDate>Fri, 30 Sep 2022 13:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走高6美元，现报1669.00美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1139352.d.html</link>
-            <guid>2816272</guid>
-            <pubDate>Fri, 30 Sep 2022 13:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据调查：受配额限制的欧佩克成员国9月产量低于目标132万桶/日，而8月为140万桶/日。]]></title>
-            <guid>2816271</guid>
-            <pubDate>Fri, 30 Sep 2022 13:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据调查：利比亚、沙特阿拉伯和尼日利亚引领欧佩克石油产量增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9415684.d.html</link>
-            <guid>2816270</guid>
-            <pubDate>Fri, 30 Sep 2022 13:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据调查：欧佩克9月石油产量较8月增加21万桶/日，至2981万桶/日，为2020年4月以来最高水平。]]></title>
-            <guid>2816269</guid>
-            <pubDate>Fri, 30 Sep 2022 13:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内大跌3.00%，现报79.14美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1139263.d.html</link>
-            <guid>2816268</guid>
-            <pubDate>Fri, 30 Sep 2022 13:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今年国庆白酒销售比往年显平淡 经销商重视资金流动避囤货】国庆前，全国多地白酒经销商表示，受疫情防控、宴席限办、聚餐减少等影响，今年国庆白酒销售情况较平淡，销量不如往年。部分店铺采取绑定爆款“飞天茅”搭售方式拉动金钓鱼台、国台等新品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1139223.d.html</link>
-            <guid>2816267</guid>
-            <pubDate>Fri, 30 Sep 2022 13:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股邮轮板块齐跌】嘉年华邮轮季度业绩不及预期，邮轮板块齐跌，挪威邮轮跌超6%，皇家加勒比邮轮、Lindblad Expeditions跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9415229.d.html</link>
-            <guid>2816266</guid>
-            <pubDate>Fri, 30 Sep 2022 13:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线均走低超1美元，现分别报79.59美元/桶和85.43美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1138793.d.html</link>
-            <guid>2816265</guid>
-            <pubDate>Fri, 30 Sep 2022 13:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内下跌2.00%，现报79.95美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1138772.d.html</link>
-            <guid>2816264</guid>
-            <pubDate>Fri, 30 Sep 2022 13:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：预计2024年美国违约率将上升3%-4%，这反映出宏观经济逆风加剧、信贷市场收紧和流动性下降的预期。]]></title>
-            <guid>2816263</guid>
-            <pubDate>Fri, 30 Sep 2022 13:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度将今年10月至明年3月的国内天然气价格定为8.57美元/百万英热，此前为6.1美元/百万英热。]]></title>
-            <guid>2816262</guid>
-            <pubDate>Fri, 30 Sep 2022 13:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：预计到2023年，美国大中型贷款市场的违约率可能高达5%，而银团贷款市场的违约率约为2.5%。]]></title>
-            <guid>2816261</guid>
-            <pubDate>Fri, 30 Sep 2022 13:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：预计到2023年，美国机构杠杆贷款违约率将在2%-3%之间，反映出宏观经济阻力不断加大，包括对美国经济衰退的预期。]]></title>
-            <guid>2816260</guid>
-            <pubDate>Fri, 30 Sep 2022 13:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【C919飞机型号合格证颁证仪式在北京举行】据新华社，9月29日，C919飞机型号合格证颁证仪式在北京首都机场隆重举行，中共中央政治局委员、国务院副总理刘鹤出席有关活动并讲话。国务委员王勇宣读中共中央、国务院对C919大型客机取得型号合格证的贺电。]]></title>
-            <guid>2816259</guid>
-            <pubDate>Fri, 30 Sep 2022 13:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车股走低，小鹏汽车(XPEV.N)、理想汽车(LI.O)、法拉第未来(FFIE.O)跌超4%。]]></title>
-            <guid>2816258</guid>
-            <pubDate>Fri, 30 Sep 2022 13:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行下调个人住房公积金贷款利率 100万元房贷30年减少2.95万元】央行今日宣布，自2022年10月1日起，下调首套个人住房公积金贷款利率0.15个百分点，5年以下（含5年）和5年以上利率分别调整为2.6%和3.1%。如以公积金贷款100万元，贷款30年、按等额本息还款方式计算，累积30年月供减少2.95万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1138136.d.html</link>
-            <guid>2816257</guid>
-            <pubDate>Fri, 30 Sep 2022 13:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德商银行：即使能源价格企稳 欧元区通胀仍将维持高位】德商银行高级经济学家Christoph Weil表示，近期大宗商品价格尤其是石油价格的下跌，以及欧元区各国政府采取的抑制能源价格的措施，可能会使通胀率在未来几个月保持在目前10%的水平附近。但通胀的上行压力不太可能很快显著减弱，因为生产者价格仍然很高，而且许多企业还没有完全将上涨的成本转嫁给消费者。Weil称，在这种背景下，欧洲央行在可持续的基础上推动通胀回到2%的目标似乎还有很长的路要走。预计到2023年春季，欧洲央行的存款利率将升至3%。]]></title>
-            <guid>2816256</guid>
-            <pubDate>Fri, 30 Sep 2022 13:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.4%，标普500跌0.2%，纳指跌0.4%】苹果跌1.0%，苹果韩国总部遭反垄断机构突击检查，被指控App Store佣金高于30%。耐克跌13.2%，北美库存暴增65%。美光科技跌2.0%，第四财季利润超预期。Rent-A-Center跌14.1%，公司下调了本季度业绩预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1137903.d.html</link>
-            <guid>2816255</guid>
-            <pubDate>Fri, 30 Sep 2022 13:30:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：希望在2023年底或接近2024年的时候达到2%的通货膨胀率，但通胀率会在那之前逐步降低。]]></title>
-            <guid>2816254</guid>
-            <pubDate>Fri, 30 Sep 2022 13:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：美联储已下定决心，专注于降低通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1137679.d.html</link>
-            <guid>2816253</guid>
-            <pubDate>Fri, 30 Sep 2022 13:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：目前通货膨胀率太高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9413776.d.html</link>
-            <guid>2816252</guid>
-            <pubDate>Fri, 30 Sep 2022 13:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：感觉目前美国的经济稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1137439.d.html</link>
-            <guid>2816251</guid>
-            <pubDate>Fri, 30 Sep 2022 13:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里巴巴公布2022年度股东大会投票表决结果】阿里巴巴公布2022年度股东大会投票表决结果：选举张勇、杨致远、Wan Ling MARTELLO及吴港平各自担任公司第二组董事，上述人士均将任职三年或任职至其继任人获推选或委任并获得适当资格为止。]]></title>
-            <guid>2816250</guid>
-            <pubDate>Fri, 30 Sep 2022 13:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苏州第四批集中供地：出让20宗地块 起始总价逾198亿元】江苏省苏州市发布今年的第四批集中供地公告，20宗地总出让面积为89.08万平方米，起始总价为198.65亿元，10月31日本批次地块进入限时竞价阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9413686.d.html</link>
-            <guid>2816249</guid>
-            <pubDate>Fri, 30 Sep 2022 13:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  丹麦能源署称，“北溪2”管道情况已经告知相关机构，他们预计“北溪2”管道天然气泄漏将在周六停止。]]></title>
-            <guid>2816248</guid>
-            <pubDate>Fri, 30 Sep 2022 13:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：部分通货膨胀因素有可能变得更加系统性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1136895.d.html</link>
-            <guid>2816247</guid>
-            <pubDate>Fri, 30 Sep 2022 13:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：经济正从疯狂（增长）转向更加可持续的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1136850.d.html</link>
-            <guid>2816246</guid>
-            <pubDate>Fri, 30 Sep 2022 13:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：美国经济并没有陷入衰退，经济目前需要减速。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1136832.d.html</link>
-            <guid>2816245</guid>
-            <pubDate>Fri, 30 Sep 2022 13:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：预计美联储将进一步加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9413025.d.html</link>
-            <guid>2816244</guid>
-            <pubDate>Fri, 30 Sep 2022 13:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：我们没有预设（加息）路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9413009.d.html</link>
-            <guid>2816243</guid>
-            <pubDate>Fri, 30 Sep 2022 13:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，集海资源集团有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9412990.d.html</link>
-            <guid>2816242</guid>
-            <pubDate>Fri, 30 Sep 2022 13:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：进一步加息是正确的做法，但我们会加息多少取决于数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1136483.d.html</link>
-            <guid>2816241</guid>
-            <pubDate>Fri, 30 Sep 2022 13:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：我们已经采取的行动以及计划中的加息将降低通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1136464.d.html</link>
-            <guid>2816240</guid>
-            <pubDate>Fri, 30 Sep 2022 13:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：我们需要看到通货膨胀得到更多的缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9412606.d.html</link>
-            <guid>2816239</guid>
-            <pubDate>Fri, 30 Sep 2022 13:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：随着住房市场降温，我们开始看到加息的好处。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1136388.d.html</link>
-            <guid>2816238</guid>
-            <pubDate>Fri, 30 Sep 2022 13:14:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

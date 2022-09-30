@@ -6,6 +6,77 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2816425,
+            "content_html": "",
+            "title": "美国银行外汇、新兴市场宏观交易主管FERNANDEZ-ALLER：美联储没有其他路径。",
+            "date_modified": "2022-09-30T18:25:10.000Z"
+        },
+        {
+            "id": 2816424,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9433644.d.html",
+            "title": "美国国家飓风中心：飓风“伊恩”在南卡罗来纳州乔治敦附近登陆。",
+            "date_modified": "2022-09-30T18:18:10.000Z"
+        },
+        {
+            "id": 2816423,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1156384.d.html",
+            "title": "美联储巴尔金：过早停止加息是更大的风险。",
+            "date_modified": "2022-09-30T18:05:21.000Z"
+        },
+        {
+            "id": 2816422,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1156327.d.html",
+            "title": "美联储巴尔金：保留对11月加息规模的判断，正等待进一步数据。",
+            "date_modified": "2022-09-30T18:04:33.000Z"
+        },
+        {
+            "id": 2816421,
+            "content_html": "",
+            "title": "  美国联合航空公司暂时停止在纽约肯尼迪机场的服务，因未能确认从该机场起飞的额外航班。",
+            "date_modified": "2022-09-30T17:57:52.000Z"
+        },
+        {
+            "id": 2816420,
+            "content_html": "",
+            "title": "  推特涨幅收窄，现涨2.75%，报43.92美元，此前有报道称推特与马斯克之间的和解谈判尚未进行。",
+            "date_modified": "2022-09-30T17:57:43.000Z"
+        },
+        {
+            "id": 2816419,
+            "content_html": "",
+            "title": "  COMEX 12月黄金期货收涨0.2%，报1672.00美元/盎司，本周累涨约1.0%，9月份则跌超3.0%。",
+            "date_modified": "2022-09-30T17:45:27.000Z"
+        },
+        {
+            "id": 2816418,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1155520.d.html",
+            "title": "  迪士尼：所有4个迪士尼世界主题公园现已开放。",
+            "date_modified": "2022-09-30T17:40:41.000Z"
+        },
+        {
+            "id": 2816417,
+            "content_html": "",
+            "title": "洲际交易所（ICE）：9月27日当周，投机者所持ICE汽油净多头头寸减少3365手合约，至43811手。",
+            "date_modified": "2022-09-30T17:40:26.000Z"
+        },
+        {
+            "id": 2816416,
+            "content_html": "",
+            "title": "洲际交易所（ICE）：9月27日当周，投机者所持ICE布伦特原油净多头头寸减少4461手合约，至157873手。",
+            "date_modified": "2022-09-30T17:40:15.000Z"
+        },
+        {
+            "id": 2816415,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9432298.d.html",
+            "title": "沙特或将2023年的收入预期基于油价在76美元左右。",
+            "date_modified": "2022-09-30T17:40:06.000Z"
+        },
+        {
             "id": 2816414,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9432013.d.html",
@@ -600,80 +671,6 @@
             "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1146511.d.html",
             "title": "  美股走高，纳指涨幅扩大至1%。",
             "date_modified": "2022-09-30T15:05:23.000Z"
-        },
-        {
-            "id": 2816325,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9423136.d.html",
-            "title": "  据国际文传电讯社报道，俄罗斯计划在第四季度出售1500亿卢布的俄罗斯联邦政府债券(OFZ)。（财联社）",
-            "date_modified": "2022-09-30T15:04:03.000Z"
-        },
-        {
-            "id": 2816324,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1146331.d.html",
-            "title": "  美国证交所(SEC)指控两名加拿大软件工程师进行内幕交易。",
-            "date_modified": "2022-09-30T15:02:29.000Z"
-        },
-        {
-            "id": 2816323,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1146324.d.html",
-            "title": "美联储理事鲍曼：银行压力测试的结果可以在数年内平均化，以减少资本要求的波动。",
-            "date_modified": "2022-09-30T15:02:21.000Z"
-        },
-        {
-            "id": 2816322,
-            "content_html": "",
-            "title": "高盛：如果欧洲其他地区实行天然气零售价格上限，市场紧张仍将反映在批发价格和液化天然气进口价格上。",
-            "date_modified": "2022-09-30T15:01:40.000Z"
-        },
-        {
-            "id": 2816321,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9422657.d.html",
-            "title": "【乌克兰召开国家安全委员会紧急会议】据当地媒体9月30日报道，当天乌克兰总统泽连斯基主持召开了乌国家安全委员会紧急会议，讨论了加强和扩大支持乌克兰的国际联盟，增加对乌克兰军事和技术援助，落实在国际舞台上获得安全保障等。（央视新闻）",
-            "date_modified": "2022-09-30T14:59:03.000Z"
-        },
-        {
-            "id": 2816320,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9422531.d.html",
-            "title": "澳元兑美元AUD/USD日内跌幅达1.00%，现报0.6435。",
-            "date_modified": "2022-09-30T14:57:28.000Z"
-        },
-        {
-            "id": 2816319,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1145846.d.html",
-            "title": "【中车中低压功率器件产业化建设项目落地宜兴】中国中车官微消息，9月30日，宜兴市人民政府与株洲中车时代电气半导体公司签署合作协议，中低压功率器件产业化（宜兴）建设项目正式落地。中车时代电气已发布对外投资公告，项目总投资超过百亿元，由株洲中车时代半导体有限公司投资，其中宜兴项目一期总投资约58.26亿元，建成达产后，可新增年产36万片中低压组件基材的生产能力（基建及公共设施具备72万片/年的生产能力），产品主要用于新能源汽车领域。",
-            "date_modified": "2022-09-30T14:57:18.000Z"
-        },
-        {
-            "id": 2816318,
-            "content_html": "",
-            "title": "美国国家飓风中心：飓风“伊恩”在登陆之前应该保持大致相同的风力强度，然后在夜间减弱并迅速转变为后热带气旋。",
-            "date_modified": "2022-09-30T14:56:46.000Z"
-        },
-        {
-            "id": 2816317,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1145688.d.html",
-            "title": "对冲基金BALYASNY表示，英国央行有可能失去对英镑的控制。",
-            "date_modified": "2022-09-30T14:54:57.000Z"
-        },
-        {
-            "id": 2816315,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1145577.d.html",
-            "title": "MSCI宣布推出新的MSCI低碳核心指数。",
-            "date_modified": "2022-09-30T14:53:10.000Z"
-        },
-        {
-            "id": 2816314,
-            "content_html": "",
-            "title": "高盛：鉴于欧洲的实际需求疲软，且缺乏进一步证据来加强对伦敦金属交易所（LME）退市预期，预计金属价格将重新面临压力。",
-            "date_modified": "2022-09-30T14:51:52.000Z"
         }
     ]
 }

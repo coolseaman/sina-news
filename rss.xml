@@ -4,11 +4,71 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 30 Sep 2022 17:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 18:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国银行外汇、新兴市场宏观交易主管FERNANDEZ-ALLER：美联储没有其他路径。]]></title>
+            <guid>2816425</guid>
+            <pubDate>Fri, 30 Sep 2022 18:25:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“伊恩”在南卡罗来纳州乔治敦附近登陆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9433644.d.html</link>
+            <guid>2816424</guid>
+            <pubDate>Fri, 30 Sep 2022 18:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：过早停止加息是更大的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1156384.d.html</link>
+            <guid>2816423</guid>
+            <pubDate>Fri, 30 Sep 2022 18:05:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：保留对11月加息规模的判断，正等待进一步数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1156327.d.html</link>
+            <guid>2816422</guid>
+            <pubDate>Fri, 30 Sep 2022 18:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国联合航空公司暂时停止在纽约肯尼迪机场的服务，因未能确认从该机场起飞的额外航班。]]></title>
+            <guid>2816421</guid>
+            <pubDate>Fri, 30 Sep 2022 17:57:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  推特涨幅收窄，现涨2.75%，报43.92美元，此前有报道称推特与马斯克之间的和解谈判尚未进行。]]></title>
+            <guid>2816420</guid>
+            <pubDate>Fri, 30 Sep 2022 17:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 12月黄金期货收涨0.2%，报1672.00美元/盎司，本周累涨约1.0%，9月份则跌超3.0%。]]></title>
+            <guid>2816419</guid>
+            <pubDate>Fri, 30 Sep 2022 17:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  迪士尼：所有4个迪士尼世界主题公园现已开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1155520.d.html</link>
+            <guid>2816418</guid>
+            <pubDate>Fri, 30 Sep 2022 17:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：9月27日当周，投机者所持ICE汽油净多头头寸减少3365手合约，至43811手。]]></title>
+            <guid>2816417</guid>
+            <pubDate>Fri, 30 Sep 2022 17:40:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：9月27日当周，投机者所持ICE布伦特原油净多头头寸减少4461手合约，至157873手。]]></title>
+            <guid>2816416</guid>
+            <pubDate>Fri, 30 Sep 2022 17:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特或将2023年的收入预期基于油价在76美元左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9432298.d.html</link>
+            <guid>2816415</guid>
+            <pubDate>Fri, 30 Sep 2022 17:40:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沙特预计2023年政府支出为1.1万亿里亚尔。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9432013.d.html</link>
@@ -515,69 +575,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1146511.d.html</link>
             <guid>2816326</guid>
             <pubDate>Fri, 30 Sep 2022 15:05:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据国际文传电讯社报道，俄罗斯计划在第四季度出售1500亿卢布的俄罗斯联邦政府债券(OFZ)。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9423136.d.html</link>
-            <guid>2816325</guid>
-            <pubDate>Fri, 30 Sep 2022 15:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国证交所(SEC)指控两名加拿大软件工程师进行内幕交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1146331.d.html</link>
-            <guid>2816324</guid>
-            <pubDate>Fri, 30 Sep 2022 15:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：银行压力测试的结果可以在数年内平均化，以减少资本要求的波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1146324.d.html</link>
-            <guid>2816323</guid>
-            <pubDate>Fri, 30 Sep 2022 15:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：如果欧洲其他地区实行天然气零售价格上限，市场紧张仍将反映在批发价格和液化天然气进口价格上。]]></title>
-            <guid>2816322</guid>
-            <pubDate>Fri, 30 Sep 2022 15:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰召开国家安全委员会紧急会议】据当地媒体9月30日报道，当天乌克兰总统泽连斯基主持召开了乌国家安全委员会紧急会议，讨论了加强和扩大支持乌克兰的国际联盟，增加对乌克兰军事和技术援助，落实在国际舞台上获得安全保障等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9422657.d.html</link>
-            <guid>2816321</guid>
-            <pubDate>Fri, 30 Sep 2022 14:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD日内跌幅达1.00%，现报0.6435。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqmmtha9422531.d.html</link>
-            <guid>2816320</guid>
-            <pubDate>Fri, 30 Sep 2022 14:57:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中车中低压功率器件产业化建设项目落地宜兴】中国中车官微消息，9月30日，宜兴市人民政府与株洲中车时代电气半导体公司签署合作协议，中低压功率器件产业化（宜兴）建设项目正式落地。中车时代电气已发布对外投资公告，项目总投资超过百亿元，由株洲中车时代半导体有限公司投资，其中宜兴项目一期总投资约58.26亿元，建成达产后，可新增年产36万片中低压组件基材的生产能力（基建及公共设施具备72万片/年的生产能力），产品主要用于新能源汽车领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1145846.d.html</link>
-            <guid>2816319</guid>
-            <pubDate>Fri, 30 Sep 2022 14:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“伊恩”在登陆之前应该保持大致相同的风力强度，然后在夜间减弱并迅速转变为后热带气旋。]]></title>
-            <guid>2816318</guid>
-            <pubDate>Fri, 30 Sep 2022 14:56:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金BALYASNY表示，英国央行有可能失去对英镑的控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1145688.d.html</link>
-            <guid>2816317</guid>
-            <pubDate>Fri, 30 Sep 2022 14:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSCI宣布推出新的MSCI低碳核心指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-30/detail-imqqsmrp1145577.d.html</link>
-            <guid>2816315</guid>
-            <pubDate>Fri, 30 Sep 2022 14:53:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：鉴于欧洲的实际需求疲软，且缺乏进一步证据来加强对伦敦金属交易所（LME）退市预期，预计金属价格将重新面临压力。]]></title>
-            <guid>2816314</guid>
-            <pubDate>Fri, 30 Sep 2022 14:51:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

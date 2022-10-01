@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 01 Oct 2022 16:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 17:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【山西启动省级防汛四级应急响应】据气象部门预测，10月1日夜间，山西省中南部部分地区有中雨，晋中南部、临汾、长治、运城、晋城等地局部地区有大雨；2日夜间至3日白天降雨将再次加强，太原及其以南的大部分地区有大雨，吕梁南部、晋中南部、临汾、长治、运城北部、晋城北部等地局部地区有暴雨。山西省防汛抗旱指挥部于10月1日21时启动省级防汛四级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqmmtha9530557.d.html</link>
+            <guid>2816960</guid>
+            <pubDate>Sat, 01 Oct 2022 17:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本九州岛附近海域发生5.7级地震 震源深度30千米】中国地震台网正式测定：10月1日23时02分在日本九州岛附近海域(北纬31.30度，东经131.55度)发生5.7级地震，震源深度30千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqmmtha9529879.d.html</link>
+            <guid>2816944</guid>
+            <pubDate>Sat, 01 Oct 2022 16:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奥林”升级为一级飓风 将影响墨西哥西海岸】当地时间10月1日，根据墨西哥国家气象局（SMN）的信息，热带风暴“奥林”（Orlene）已经加强为一级飓风。截至1日上午10时，“奥林”的风暴中心位于墨西哥西海岸的科利马州曼萨尼约市西南方向约325公里的海面上，最大持续风速达到每小时120公里，正在以每小时7公里的速度向北移动，将给墨西哥西海岸的哈里斯克州、锡那罗亚州、科利马州等多州带来强降雨天气。]]></title>
+            <guid>2816941</guid>
+            <pubDate>Sat, 01 Oct 2022 16:56:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新加坡金管局首席金融科技官：将严厉打击鼓动加密货币投机活动者】加坡金融管理局首席金融科技官莫汉蒂(Sopnendu Mohanty)9月30日在数字资产托管公司Cobo的办事处开幕仪式上说，新加坡当局将严厉打击在本地鼓动加密货币投机活动的加密货币从业者。莫汉蒂前一日在Token2049大会上批评参展从业者对加密货币领域营运的潜在危险缺乏认识，并说：“我们必须一再让市场知道，这个资产类别不适合散户投资者。”（界面新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqqsmrp1249706.d.html</link>
@@ -570,24 +587,6 @@ AITO：问界系列9月交付量达到10142辆，延续8月份增长势头，交
             <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9478069.d.html</link>
             <guid>2816561</guid>
             <pubDate>Sat, 01 Oct 2022 05:10:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东珠海新增本土新冠病毒无症状感染者2例】据珠海市卫生健康局通报，10月1日0-12时，珠海新增本土新冠病毒无症状感染者2例，均为外地来珠人员。无症状感染者1：女，64岁，住珠海高新区仁恒滨海半岛一期，在非闭环管理的重点人员筛查中发现。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9477951.d.html</link>
-            <guid>2816560</guid>
-            <pubDate>Sat, 01 Oct 2022 05:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼官员：印尼央行预计9月CPI年率为5.88%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9477828.d.html</link>
-            <guid>2816559</guid>
-            <pubDate>Sat, 01 Oct 2022 05:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为问界系列汽车9月交付10142辆，再创新高】华为AITO品牌公布了9月交付数据，问界系列9月交付量达到10142辆，延续8月份增长势头，交付量再创新高，实现连续2个月单月交付量破万。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqmmtha9477701.d.html</link>
-            <guid>2816558</guid>
-            <pubDate>Sat, 01 Oct 2022 05:07:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

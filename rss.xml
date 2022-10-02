@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 Oct 2022 20:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 21:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【乌干达累计报告41例埃博拉病例】当地时间10月2日，乌干达卫生部发布数据显示，截至10月1日，该国已累计报告41例埃博拉确诊病例和9例死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1342903.d.html</link>
+            <guid>2817465</guid>
+            <pubDate>Sun, 02 Oct 2022 20:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西大选首轮投票结束 计票工作开始】当地时间10月2日17时，巴西大选首轮投票结束，计票工作随即展开，投票结果预计将于数小时后公布。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1342615.d.html</link>
+            <guid>2817449</guid>
+            <pubDate>Sun, 02 Oct 2022 20:31:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国地质勘探局：墨西哥拉里维拉以东70公里处发生5.6级地震。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1342203.d.html</link>
@@ -572,17 +584,6 @@
             <title><![CDATA[【中企投建的柬埔寨首条高速公路试运营】由中国路桥工程有限责任公司（中国路桥）投资、建设和运营的柬埔寨金港高速公路10月1日开始通车试运营，这是柬埔寨第一条高速公路。（人民日报）]]></title>
             <guid>2817189</guid>
             <pubDate>Sun, 02 Oct 2022 04:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：俄罗斯未获足够票数，失去联合国航空理事会席位】因俄乌冲突，俄罗斯未能获得足够选票连任联合国航空机构管理委员会成员。据路透社2日报道，当地时间1日，在加拿大蒙特利尔举办的国际民用航空组织大会期间，俄罗斯未能获得留在该组织理事会的足够票数，报道称这是俄乌冲突后西方对俄采取的与航空有关的制裁。（环球网）]]></title>
-            <guid>2817188</guid>
-            <pubDate>Sun, 02 Oct 2022 04:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼总统向东爪哇省球迷冲突事件的遇难者表示哀悼】当地时间10月2日，印尼总统佐科·维多多向东爪哇省玛琅市球迷冲突事件中的遇难者表示哀悼，并下令暂停所有联赛。当地时间10月1日晚，在印尼东爪哇省玛琅坎朱鲁汉体育场举行的足球赛上，两队球迷发生暴力冲突事件，导致129人死亡，另有180人受伤，大量伤者被送往当地医院。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqmmtha9565474.d.html</link>
-            <guid>2817187</guid>
-            <pubDate>Sun, 02 Oct 2022 04:06:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

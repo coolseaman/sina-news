@@ -4,11 +4,67 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 03 Oct 2022 20:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 21:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周一（10月3日）纽约尾盘，CME比特币期货BTC主力合约报19575美元，较上周五纽约尾盘涨0.77%，盘中交投于18785-19690美元区间。CME以太币期货DCR主力合约报1319.50美元，较上周五涨2.25%，盘中交投于1253.50-1325.50美元区间。]]></title>
+            <guid>2818104</guid>
+            <pubDate>Mon, 03 Oct 2022 21:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.1046元，较上周五纽约尾盘涨373点，盘中整体交投于7.1561-7.0901元区间。]]></title>
+            <guid>2818103</guid>
+            <pubDate>Mon, 03 Oct 2022 21:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[桥水基金达里奥：不再认为现金是“垃圾”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1432711.d.html</link>
+            <guid>2818102</guid>
+            <pubDate>Mon, 03 Oct 2022 21:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：美联储在冷却需求和降低通胀方面还有更多工作要做。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1432666.d.html</link>
+            <guid>2818101</guid>
+            <pubDate>Mon, 03 Oct 2022 21:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞典封锁“北溪”管道泄漏点附近海域展开刑事调查】瑞典检察院10月3日宣布封锁“北溪”天然气管道泄漏点附近海域，并展开刑事调查。瑞典检察院当天在一份新闻公报中说，瑞典附近的“北溪”管道泄漏点周围海域已被封锁，以便进行刑事调查。瑞典检察院正与多家机构合作进行相关调查。瑞典海岸警卫队10月3日晚发布新闻公报说，根据瑞典检察院的要求，海岸警卫队已禁止在“北溪”管道泄漏点周围5海里的区域进行一切形式的活动，包括禁止船只驶入、锚泊，禁止在该水域潜水、钓鱼以及开展地球物理测绘等。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9715273.d.html</link>
+            <guid>2818100</guid>
+            <pubDate>Mon, 03 Oct 2022 20:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“特斯拉劲敌”Rivian三季度产量7,363辆，交付6,584两。维持全年产量25,000辆的预期不变，分析师预期26,273辆。Rivian（RIVN）美股盘后上涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9715042.d.html</link>
+            <guid>2818099</guid>
+            <pubDate>Mon, 03 Oct 2022 20:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大标普/TSX综合指数收涨2.37%，报18881.19点。墨西哥综合指数收涨1.92%，报45483.41点。巴西圣保罗证交所指数收涨5.54%，报11.6万点。]]></title>
+            <guid>2818098</guid>
+            <pubDate>Mon, 03 Oct 2022 20:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：加拿大9月机动车销量同比下降4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1431983.d.html</link>
+            <guid>2818097</guid>
+            <pubDate>Mon, 03 Oct 2022 20:30:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收涨6.29%，报1458.37点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9714755.d.html</link>
+            <guid>2818096</guid>
+            <pubDate>Mon, 03 Oct 2022 20:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄副总理Alexander Novak据称将出席在维也纳举行的OPEC+会议。这将是OPEC+自2020年以来首次现场开会。会议可能决定减产以提振油价。]]></title>
+            <guid>2818095</guid>
+            <pubDate>Mon, 03 Oct 2022 20:22:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美股大类资产类ETF周一普遍收涨】 美国布伦特原油基金（BNO）涨3.95%领跑，标普500价值ETF、罗素2000指数ETF、标普500 ETF、道指ETF、黄金ETF、纳指100 ETF至少涨2.35%，日元做多则跌不到0.1%，做多美元指数跌超0.4%，恐慌指数做多跌5.0%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1431562.d.html</link>
@@ -37,7 +93,7 @@
             <pubDate>Mon, 03 Oct 2022 20:02:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【热门中概股多数上涨 汽车之家涨超6%】热门中概股多数上涨，汽车之家涨超6%，新东方涨逾4%，腾讯音乐涨超2%。]]></title>
+            <title><![CDATA[【热门中概股多数上涨 汽车之家涨超6%】热门中概股多数上涨，汽车之家涨超6%，新东方涨逾4%，腾讯音乐涨超2%，理想汽车、百度、哔哩哔哩、携程网涨逾1%；满帮跌超3%，爱奇艺、贝壳跌超2%，京东、蔚来跌逾1%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1431314.d.html</link>
             <guid>2818089</guid>
             <pubDate>Mon, 03 Oct 2022 20:02:12 GMT</pubDate>
@@ -63,12 +119,6 @@
             <title><![CDATA[美国股市周一收涨逾2%，标普能源板块涨超5%，道指成分股雪佛龙涨超5%、英特尔和卡特彼勒涨超4%，再生元制药涨超6.7%领跑纳斯达克100指数的成分股，阿根廷电商Mercadolibre涨6.6%、拉姆研究涨6.4%，但特斯拉跌超8%。]]></title>
             <guid>2818085</guid>
             <pubDate>Mon, 03 Oct 2022 20:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美债价格飙升，大宗交易活跃】美国10年期国债收益率下跌17.01个基点，报3.6585%，欧股收盘前一刻曾跌至日低3.5655%附近。两年期美债收益率跌15.71个基点，报4.1217%，徘徊于日低4.0290%附近。2/10年期美债收益率利差下跌0.899个基点，报-46.530个基点，欧市早盘曾涨至日高-40.957个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1430925.d.html</link>
-            <guid>2818084</guid>
-            <pubDate>Mon, 03 Oct 2022 19:42:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10月3日，广东韶关武江区在外地返韶主动核酸检测人群中发现1例结果异常，经确诊为新冠肺炎确诊病例（轻型）。（央视新闻）]]></title>
@@ -531,57 +581,6 @@
             <title><![CDATA[通用汽车(GM.N)：雪佛兰BOLT电动车和BOLT电动多功能车季度销量创历史新高，合计达14,709辆。]]></title>
             <guid>2818004</guid>
             <pubDate>Mon, 03 Oct 2022 14:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)：第三季度美国销量555,580辆汽车，同比增长24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419703.d.html</link>
-            <guid>2818003</guid>
-            <pubDate>Mon, 03 Oct 2022 14:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丰田汽车美国9月总销量同比增长17.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419417.d.html</link>
-            <guid>2818002</guid>
-            <pubDate>Mon, 03 Oct 2022 14:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内暴涨8.00%，现报20.51美元/盎司。现货黄金突破1690美元/盎司，日内涨1.76%。]]></title>
-            <guid>2818001</guid>
-            <pubDate>Mon, 03 Oct 2022 14:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走低38点，现报111.73。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419100.d.html</link>
-            <guid>2818000</guid>
-            <pubDate>Mon, 03 Oct 2022 14:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线走高10美元，自美国ISM数据公布以来累涨近20美元，现报1686.09美元/盎司。]]></title>
-            <guid>2817999</guid>
-            <pubDate>Mon, 03 Oct 2022 14:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数涨幅扩大至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419035.d.html</link>
-            <guid>2817998</guid>
-            <pubDate>Mon, 03 Oct 2022 14:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：意大利法院撤销对苹果和亚马逊的1.73亿欧元反垄断罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1418874.d.html</link>
-            <guid>2817997</guid>
-            <pubDate>Mon, 03 Oct 2022 14:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：欧佩克+之所以能够进行如此大规模的减产，根源在于（原油市场）缺乏供应弹性、页岩油活动显示出放缓迹象。]]></title>
-            <guid>2817996</guid>
-            <pubDate>Mon, 03 Oct 2022 14:21:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌总理：欧盟将向乌克兰提供50亿欧元宏观金融援助】乌克兰国家通讯社10月3日报道称，乌克兰总理什梅加尔当天在其官方社交账户上宣布，欧盟已签署谅解备忘录，将向乌克兰提供50亿欧元的宏观金融援助。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1418643.d.html</link>
-            <guid>2817995</guid>
-            <pubDate>Mon, 03 Oct 2022 14:21:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

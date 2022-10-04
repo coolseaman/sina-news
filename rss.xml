@@ -4,11 +4,55 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 04 Oct 2022 16:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 17:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【世卫组织：全球累计新冠确诊病例超6.1577亿例】世卫组织网站最新数据显示，截至欧洲中部时间4日16时59分（北京时间22时59分），全球确诊病例较前一日增加171391例，达到615777700例；死亡病例增加662例，达到6527192例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9801905.d.html</link>
+            <guid>2818729</guid>
+            <pubDate>Tue, 04 Oct 2022 17:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Meta Platform关闭社交媒体平台Facebook的Newsletter服务。]]></title>
+            <guid>2818728</guid>
+            <pubDate>Tue, 04 Oct 2022 17:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了105个对手方的2.234万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9801659.d.html</link>
+            <guid>2818727</guid>
+            <pubDate>Tue, 04 Oct 2022 17:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉股价转跌，日内稍早一度上涨6.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9801638.d.html</link>
+            <guid>2818726</guid>
+            <pubDate>Tue, 04 Oct 2022 17:22:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国最近24小时新增89,185例新冠肺炎病例，新增74例死亡病例、累计死亡155,272例。]]></title>
+            <guid>2818725</guid>
+            <pubDate>Tue, 04 Oct 2022 17:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：预计2023年第一季度铜和镍价格将分别降至6200美元/吨和18000美元/吨。]]></title>
+            <guid>2818724</guid>
+            <pubDate>Tue, 04 Oct 2022 16:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收涨210美元，报7718美元/吨。LME期铝收涨128美元，报2348美元/吨。LME期锌收涨86美元，报3047美元/吨。LME期铅收涨75美元，报1936美元/吨。LME期镍收涨797美元，报22055美元/吨。LME期锡收涨148美元，报20207美元/吨。]]></title>
+            <guid>2818723</guid>
+            <pubDate>Tue, 04 Oct 2022 16:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克拟以每股54.2美元的价格继续收购推特】马斯克提议继续以每股54.20美元的价格收购推特，这可能会终结近期历史上最具争议的收购之一。据知情人士透露，马斯克在给推特的一封信中提出了这一建议。消息一出，推特股价一度上涨18%，现盘中二度停牌。马斯克和推特的代表没有立即回应置评请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9799228.d.html</link>
+            <guid>2818722</guid>
+            <pubDate>Tue, 04 Oct 2022 16:31:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[推特恢复交易，盘中涨幅扩大至12.67%，报47.93美元，再度触发停牌，停牌前一度涨至日高49.99美元。]]></title>
             <guid>2818721</guid>
@@ -531,52 +575,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502459.d.html</link>
             <guid>2818621</guid>
             <pubDate>Tue, 04 Oct 2022 13:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：对于是否采用央行数字货币，尚未做出决定。需要评估央行数字货币的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787168.d.html</link>
-            <guid>2818618</guid>
-            <pubDate>Tue, 04 Oct 2022 13:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国首相回应放弃对高收入者减税计划】当地时间10月4日，针对英国政府放弃对高收入者减税计划一事，英国首相特拉斯在接受媒体采访时表示，她对此“完全不感到羞耻”。她还表示，对高收入者减税，并非英国政府的优先政策。10月3日，英国财政大臣夸西·克沃滕发表声明称，放弃此前提出的对高收入者取消45%最高所得税率的计划。该计划是英国政府于9月23日宣布的一系列提振经济措施之一。该计划在过去一周引发市场动荡，并招致广泛反对。夸西·克沃滕和特拉斯均证实，政策“大转向”是两人的共同决定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787144.d.html</link>
-            <guid>2818617</guid>
-            <pubDate>Tue, 04 Oct 2022 13:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：智利安托法加斯塔发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502341.d.html</link>
-            <guid>2818611</guid>
-            <pubDate>Tue, 04 Oct 2022 13:15:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：荷兰内阁制定能源价格上限条款。荷兰将天然气价格上限设定为1.45欧元/立方米，电价上限为0.4欧元/千瓦时。]]></title>
-            <guid>2818610</guid>
-            <pubDate>Tue, 04 Oct 2022 13:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄气公司：若摩尔多瓦在10月20日前未支付天然气费用 将保留暂停供应的权利】俄气公司4日发布消息称，摩尔多瓦天然气公司Moldovagaz在2022年多次违反合同中关于所供天然气的付款期限的条款。俄气表示，公司保留相关权利，以在2022年10月20日之前违反支付天然气的义务时完全停止向Moldovagaz供应天然气。俄气将同时保留权利在Moldovagaz违反历史债务相关条款时随时终止合同。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787076.d.html</link>
-            <guid>2818609</guid>
-            <pubDate>Tue, 04 Oct 2022 13:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达拉斯联储主席洛根：美国央行数字货币（CBDC）需要国会的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9786888.d.html</link>
-            <guid>2818607</guid>
-            <pubDate>Tue, 04 Oct 2022 13:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：英国央行对英国财政计划的反应“非常恰当、迅速”。英国有强大的机构正在采取措施确保财政和货币政策的一致性。]]></title>
-            <guid>2818605</guid>
-            <pubDate>Tue, 04 Oct 2022 13:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦铝日内大涨4.00%，现报2308.50美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9786610.d.html</link>
-            <guid>2818600</guid>
-            <pubDate>Tue, 04 Oct 2022 13:09:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

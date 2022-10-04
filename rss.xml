@@ -4,11 +4,39 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 04 Oct 2022 17:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 18:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：沙特和俄罗斯正计划不顾美国的反对大幅削减石油产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9803767.d.html</link>
+            <guid>2818734</guid>
+            <pubDate>Tue, 04 Oct 2022 18:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国总理会见荷兰首相并强调：必须保护能源安全】 当地时间10月4日，德国总理朔尔茨在柏林会见了到访的荷兰首相吕特。朔尔茨在会谈后的新闻发布会上表示，德国目前的能源价格需要降低，他呼吁采取统一行动打击天然气市场的投机行为。他强调，必须保护能源安全。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1518164.d.html</link>
+            <guid>2818733</guid>
+            <pubDate>Tue, 04 Oct 2022 18:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌公司将支付8500万美元，以了结美国亚利桑那州消费者隐私诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1517528.d.html</link>
+            <guid>2818732</guid>
+            <pubDate>Tue, 04 Oct 2022 17:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国科隆国际摩托车及两轮车展览会4日在科隆市会展中心开幕，雅迪、众星等近20家中国参展企业展示了摩托车、电动自行车及相关零配件和装备产品。（新华网）]]></title>
+            <guid>2818731</guid>
+            <pubDate>Tue, 04 Oct 2022 17:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 12月黄金期货收涨1.7%，报1730.50美元/盎司。COMEX 12月白银期货收涨2.5%，报21.099美元/盎司。]]></title>
+            <guid>2818730</guid>
+            <pubDate>Tue, 04 Oct 2022 17:41:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【世卫组织：全球累计新冠确诊病例超6.1577亿例】世卫组织网站最新数据显示，截至欧洲中部时间4日16时59分（北京时间22时59分），全球确诊病例较前一日增加171391例，达到615777700例；死亡病例增加662例，达到6527192例。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9801905.d.html</link>
@@ -545,36 +573,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1503386.d.html</link>
             <guid>2818634</guid>
             <pubDate>Tue, 04 Oct 2022 13:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)盘前涨幅扩大至4.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787889.d.html</link>
-            <guid>2818633</guid>
-            <pubDate>Tue, 04 Oct 2022 13:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)：9月美国电动车销量4,691辆，同比增长197.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502985.d.html</link>
-            <guid>2818632</guid>
-            <pubDate>Tue, 04 Oct 2022 13:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州茅台：正式开始2023年度茅台酒生产】据贵州茅台消息，10月4日，岁在重阳，茅台举行壬寅年（2022）茅台酒节，遵自然之法则，正式开始2023年度茅台酒生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787785.d.html</link>
-            <guid>2818631</guid>
-            <pubDate>Tue, 04 Oct 2022 13:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油日内均涨3.00%，现分别报85.83美元/桶和91.30美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787369.d.html</link>
-            <guid>2818622</guid>
-            <pubDate>Tue, 04 Oct 2022 13:19:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车美国9月销量为142644辆，同比下降8.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502459.d.html</link>
-            <guid>2818621</guid>
-            <pubDate>Tue, 04 Oct 2022 13:17:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -6,6 +6,20 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2819444,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9893319.d.html",
+            "title": "标普500指数两周以来首次站上3800点，日内涨0.35%。",
+            "date_modified": "2022-10-05T19:18:37.000Z"
+        },
+        {
+            "id": 2819443,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9892422.d.html",
+            "title": "  WTI 11月原油期货收涨1.24美元，涨幅1.43%，报87.76美元/桶。布伦特12月原油期货收涨1.57美元，涨幅1.71%，报93.37美元/桶。",
+            "date_modified": "2022-10-05T18:41:56.000Z"
+        },
+        {
             "id": 2819442,
             "content_html": "",
             "title": "  花旗：下调标普500指数2022年目标价200点，至4000点，以体现出美国陷入更严峻经济衰退的风险。",
@@ -652,20 +666,6 @@
             "url": "https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592790.d.html",
             "title": "纽元兑美元NZD/USD日内跌超1%，现报0.5672。",
             "date_modified": "2022-10-05T14:01:29.000Z"
-        },
-        {
-            "id": 2819343,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592716.d.html",
-            "title": "美元兑加元USD/CAD日内涨幅扩大至1%，现报1.3645。",
-            "date_modified": "2022-10-05T14:00:31.000Z"
-        },
-        {
-            "id": 2819342,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592692.d.html",
-            "title": "美国9月ISM非制造业PMI 56.7，预期56，前值56.9。",
-            "date_modified": "2022-10-05T14:00:21.000Z"
         }
     ]
 }

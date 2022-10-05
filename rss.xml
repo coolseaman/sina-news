@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 05 Oct 2022 18:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 19:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[标普500指数两周以来首次站上3800点，日内涨0.35%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9893319.d.html</link>
+            <guid>2819444</guid>
+            <pubDate>Wed, 05 Oct 2022 19:18:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  WTI 11月原油期货收涨1.24美元，涨幅1.43%，报87.76美元/桶。布伦特12月原油期货收涨1.57美元，涨幅1.71%，报93.37美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9892422.d.html</link>
+            <guid>2819443</guid>
+            <pubDate>Wed, 05 Oct 2022 18:41:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  花旗：下调标普500指数2022年目标价200点，至4000点，以体现出美国陷入更严峻经济衰退的风险。]]></title>
             <guid>2819442</guid>
@@ -558,18 +570,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592790.d.html</link>
             <guid>2819344</guid>
             <pubDate>Wed, 05 Oct 2022 14:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD日内涨幅扩大至1%，现报1.3645。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592716.d.html</link>
-            <guid>2819343</guid>
-            <pubDate>Wed, 05 Oct 2022 14:00:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月ISM非制造业PMI 56.7，预期56，前值56.9。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592692.d.html</link>
-            <guid>2819342</guid>
-            <pubDate>Wed, 05 Oct 2022 14:00:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

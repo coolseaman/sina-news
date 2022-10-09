@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 09 Oct 2022 15:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 16:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【海南海口新增1例确诊病例】据海南省海口市新型冠状病毒肺炎疫情防控工作指挥部通报：2022年10月9日0—22时，海口市新增确诊病例1例，在隔离管控中发现，为5日通报的第1例病例的密接。10月5日以来，海口全市累计报告确诊病例17例。（海口发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqmmthc0295357.d.html</link>
+            <guid>2822228</guid>
+            <pubDate>Sun, 09 Oct 2022 15:52:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：尼泊尔总统班达里新冠病毒检测结果呈阳性。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqmmthc0293274.d.html</link>
@@ -586,12 +592,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqmmthc0257561.d.html</link>
             <guid>2821867</guid>
             <pubDate>Sun, 09 Oct 2022 09:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家外汇局：将持续完善跨境融资便利化试点政策】国家外汇管理局资本项目管理司今日发布《推进跨境融资外汇便利化 助力中小微企业创新发展》文章称，下一步，外汇局将持续完善跨境融资便利化试点政策，进一步提高跨境融资业务办理效率，助力高新技术和专精特新中小微企业在提升产业链供应链稳定性、推动经济社会发展中发挥更加重要的作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqqsmrp1961079.d.html</link>
-            <guid>2821866</guid>
-            <pubDate>Sun, 09 Oct 2022 08:59:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

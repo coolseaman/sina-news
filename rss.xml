@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 Oct 2022 18:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 19:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国家医保局：医保药品目录调整专家评审工作已结束】国家医保局10月16日发布公告，按照《2022年国家基本医疗保险、工伤保险和生育保险药品目录调整工作方案》，国家医保局组织专家对2022年通过国家基本医疗保险、工伤保险和生育保险药品目录调整形式审查的申报药品进行了综合评审，目前，专家评审工作已结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqqsmrp2713778.d.html</link>
+            <guid>2829669</guid>
+            <pubDate>Sat, 15 Oct 2022 19:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哥伦比亚发生严重交通事故 致20人死亡】当地时间15日，哥伦比亚警方证实，当天纳里尼奥省一辆长途客车发生事故坠落山崖，造成20人死亡、15人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1029499.d.html</link>
+            <guid>2829668</guid>
+            <pubDate>Sat, 15 Oct 2022 19:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国圣路易斯联储布拉德：现在判断美联储12月份FOMC货币政策会议前景还显得操之过急。]]></title>
+            <guid>2829667</guid>
+            <pubDate>Sat, 15 Oct 2022 18:57:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[日本央行副行长Wakatabe：央行货币政策立场根本没有发生变化。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1028321.d.html</link>
@@ -570,24 +587,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0983997.d.html</link>
             <guid>2829349</guid>
             <pubDate>Sat, 15 Oct 2022 06:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：国家和市场需要稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669069.d.html</link>
-            <guid>2829348</guid>
-            <pubDate>Sat, 15 Oct 2022 06:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：我们面临着一些非常艰难的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669062.d.html</link>
-            <guid>2829347</guid>
-            <pubDate>Sat, 15 Oct 2022 06:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日媒：纽约外汇市场日元汇率骤跌 创约32年新低】据日本共同社报道，当地时间14日，美国纽约外汇市场上日元汇率骤跌，一度贬值至1美元兑148.86日元。日元汇率触及1990年8月以来的约32年新低，当时因处于泡沫经济尾声阶段，日元呈现贬值局面。报道称，投资者再次意识到积极收紧货币政策的美国和坚持宽松政策的日本央行方向迥异，对于利差扩大的期待升温，纷纷卖出不利于理财的日元而购入美元。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0983661.d.html</link>
-            <guid>2829346</guid>
-            <pubDate>Sat, 15 Oct 2022 06:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

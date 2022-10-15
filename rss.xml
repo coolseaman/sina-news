@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 Oct 2022 19:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 20:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【黎巴嫩累计确诊霍乱病例43例】当地时间10月15日，黎巴嫩卫生部宣布，过去的24小时内，黎巴嫩新增确诊霍乱病例9例，新增死亡病例1例；累计确诊病例43例，累计死亡病例2例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1030742.d.html</link>
+            <guid>2829672</guid>
+            <pubDate>Sat, 15 Oct 2022 20:00:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厉害！直径12毫米细绳能拉动20吨重物】国产高性能纤维F-12芳纶纤维，单根直径只有14微米，是头发丝的六分之一。用它做成直径12毫米的细绳，能拉动20多吨的重物，而同样粗的钢绳只能拉动8吨。如今，国产高性能芳纶纤维在火箭发动机、飞机功能结构件等尖端领域支撑着国之重器跨越发展。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqqsmrp2714647.d.html</link>
+            <guid>2829671</guid>
+            <pubDate>Sat, 15 Oct 2022 19:48:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2022年秋粮最低收购价收购启动】从中储粮集团获悉，目前，江苏、安徽两省已率先启动2022年秋粮最低收购价收购。今年，中晚籼稻和粳稻最低收购价格分别为1.29元/斤和1.31元/斤，同比均上调0.01元/斤。中储粮联合有关单位已准备2200多个收储库点、5700多万吨仓容。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1029881.d.html</link>
+            <guid>2829670</guid>
+            <pubDate>Sat, 15 Oct 2022 19:24:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国家医保局：医保药品目录调整专家评审工作已结束】国家医保局10月16日发布公告，按照《2022年国家基本医疗保险、工伤保险和生育保险药品目录调整工作方案》，国家医保局组织专家对2022年通过国家基本医疗保险、工伤保险和生育保险药品目录调整形式审查的申报药品进行了综合评审，目前，专家评审工作已结束。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqqsmrp2713778.d.html</link>
@@ -284,7 +302,7 @@
             <pubDate>Sat, 15 Oct 2022 13:37:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  英国央行行长贝利证实，英国债券购买于周五结束。]]></title>
+            <title><![CDATA[英国央行行长贝利证实，英国债券购买于周五结束。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc1015290.d.html</link>
             <guid>2829504</guid>
             <pubDate>Sat, 15 Oct 2022 13:37:14 GMT</pubDate>
@@ -569,24 +587,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669127.d.html</link>
             <guid>2829352</guid>
             <pubDate>Sat, 15 Oct 2022 06:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：在要求为最富有的人减税的艰难决定时，我们犯了错误。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669121.d.html</link>
-            <guid>2829351</guid>
-            <pubDate>Sat, 15 Oct 2022 06:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：人们需要稳定的政府。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669103.d.html</link>
-            <guid>2829350</guid>
-            <pubDate>Sat, 15 Oct 2022 06:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：我们必须证明我们有能力负担税收和消费。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0983997.d.html</link>
-            <guid>2829349</guid>
-            <pubDate>Sat, 15 Oct 2022 06:18:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

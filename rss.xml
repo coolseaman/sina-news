@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 Oct 2022 21:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Oct 2022 22:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【英国政府宣布保留公司税上调计划】继10月3日放弃取消最高所得税税率计划之后，英国政府14日在持续压力之下又做出重大政策调整。英国首相伊丽莎白·特拉斯当天宣布，将保留上届政府宣布的公司税上调计划，此举每年将为政府带来180亿英镑（1英镑约合1.118美元）收入。（新华社）]]></title>
+            <guid>2829677</guid>
+            <pubDate>Sat, 15 Oct 2022 22:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内咖啡市场快速崛起 云南优质咖啡豆出口大增】云南省普洱市被誉为“中国咖啡之都”，全国一半以上的咖啡豆都产自这里，年产量达5.5万吨左右。下个月云南的咖啡豆将迎来采摘季。如今，云南咖啡豆正以其独特的产品优势，走向更广阔的市场。今年上半年，云南省咖啡豆出口量和货值分别同比增长230%、380%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1032874.d.html</link>
+            <guid>2829676</guid>
+            <pubDate>Sat, 15 Oct 2022 21:31:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【上海首个！街头站立式非机动车充电桩在黄浦区启用】10月13日，上海市首个街头站立式非机动车充电桩在黄浦区南京东路街道正式启用。站立式非机动车充电桩不仅安全有保障，价格还非常实惠，1块钱就能充4个小时。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqqsmrp2716469.d.html</link>
@@ -575,18 +586,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669727.d.html</link>
             <guid>2829357</guid>
             <pubDate>Sat, 15 Oct 2022 06:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：我们未来几个月宣布的政策将带来巨大的增长潜力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2669725.d.html</link>
-            <guid>2829356</guid>
-            <pubDate>Sat, 15 Oct 2022 06:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：我希望削减的是企业税，但我们的做法没有给人们信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0984627.d.html</link>
-            <guid>2829355</guid>
-            <pubDate>Sat, 15 Oct 2022 06:27:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

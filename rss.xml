@@ -4,11 +4,26 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 16 Oct 2022 18:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 19:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英镑兑美元涨幅扩大至0.5%，最高触及1.1231。]]></title>
+            <guid>2830453</guid>
+            <pubDate>Sun, 16 Oct 2022 18:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（10月17日）悉尼盘初，美元兑G-10货币涨跌各异，英镑兑美元目前涨0.1%，报1.1182，上周五收跌1.4%。美元兑日元跌0.1%，报148.57，此前已经连续八个交易日上涨，并连涨九周。美元兑瑞郎跌0.2%，报1.0034，此前连涨五周。美元兑挪威克朗涨0.3%，报10.7088克朗。]]></title>
+            <guid>2830452</guid>
+            <pubDate>Sun, 16 Oct 2022 18:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际货币基金组织与突尼斯就19亿美元救援计划达成初步协议】国际货币基金组织（IMF）当地时间10月15日表示，突尼斯已经与该组织就19亿美元的救援计划达成了初步协议，该计划可能在12月最终确定。]]></title>
+            <guid>2830450</guid>
+            <pubDate>Sun, 16 Oct 2022 18:37:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【消费新体验：湖南首家跨境电商新零售综合体试运营启动】10月16日，湖南首家跨境电商新零售综合体友阿跨境荟试运营启动。湖南消费者从此可以低于国内市场近30%的价格，购买到海关全程监管下的“保真”全球好物。（中新网）]]></title>
             <guid>2830449</guid>
@@ -566,23 +581,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqmmthc1078125.d.html</link>
             <guid>2829744</guid>
             <pubDate>Sun, 16 Oct 2022 07:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【东华软件：实控人方面拟不低于5000万元增持】东华软件公告，公司实际控制人的一致行动人郭玉梅，计划六个月内增持公司股份，增持金额不低于5000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqqsmrp2762119.d.html</link>
-            <guid>2829743</guid>
-            <pubDate>Sun, 16 Oct 2022 07:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒源煤电：煤炭价格上涨，预计前三季度归母净利润同比增97.69%至16.07亿元】恒源煤电公告，公司预计1-9月实现归母净利润约16.07亿元，比上年同期增加约7.94亿元，同比增长约97.69%。预计1-9月实现扣非归母净利润约16.12亿元，比上年同期增加约7.89亿元，同比增长约96.03%。利润增长的主要原因是受煤炭价格上涨因素影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-16/detail-imqqsmrp2762079.d.html</link>
-            <guid>2829742</guid>
-            <pubDate>Sun, 16 Oct 2022 07:49:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台：受冷空气影响 东北华北局地降温超10℃】中央气象台预计，今明两天，华北北部、东北中南部、黄淮南部等地部分地区降温幅度可达10~12℃；上述地区还有4~6级偏北风，阵风6~7级、局地风力可达8~9级。东北、华北等地将于明天达到本轮降温过程气温最低点，其中，东北大部最高气温将降至10℃，最低气温重回冰点以下。南方的降温主要集中在18日至19日，江南多地最高气温将降至20℃以下，华南地区将不足25℃。]]></title>
-            <guid>2829741</guid>
-            <pubDate>Sun, 16 Oct 2022 07:49:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

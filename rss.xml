@@ -4,11 +4,38 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 18 Oct 2022 17:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 18:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美联储8-9月贴现利率会议纪要：我们决定将贴现利率提高75个基点，但部分联储主管倾向于更小、或更大的贴现利率加息幅度。两家地方联储的主席要求将贴现利率上调50个基点，另有一人希望加息100个基点。]]></title>
+            <guid>2831889</guid>
+            <pubDate>Tue, 18 Oct 2022 18:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 12月黄金期货收跌0.50%，报1655.80美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqmmthc1346597.d.html</link>
+            <guid>2831888</guid>
+            <pubDate>Tue, 18 Oct 2022 18:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：亚马逊将投资超过10亿欧元，用于公司的欧洲运输业务电气化。欧洲零碳车队的规模将至少翻倍。]]></title>
+            <guid>2831886</guid>
+            <pubDate>Tue, 18 Oct 2022 17:55:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国首相特拉斯与法国总统马克龙通电话】唐宁街办公室发言人当天表示，英国首相特拉斯与法国总统马克龙当天早些时候通了电话，就深化双边合作等问题进行了讨论。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqmmthc1346200.d.html</link>
+            <guid>2831885</guid>
+            <pubDate>Tue, 18 Oct 2022 17:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[推特直线拉升2%，知情人士称推特因与马斯克的交易期限临近而冻结了员工的股权奖励账户。]]></title>
+            <guid>2831883</guid>
+            <pubDate>Tue, 18 Oct 2022 17:47:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  周二（10月18日），美联储逆回购工具使用规模为2.227万亿美元，上个交易日报2.172万亿美元。]]></title>
             <guid>2831882</guid>
@@ -540,35 +567,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqqsmrp3006730.d.html</link>
             <guid>2831786</guid>
             <pubDate>Tue, 18 Oct 2022 13:16:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月工业产出月率 0.4%，预期0.10%，前值-0.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqmmthc1329360.d.html</link>
-            <guid>2831785</guid>
-            <pubDate>Tue, 18 Oct 2022 13:15:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天山电子中签号出炉：共约2.46万个】天山电子披露首次公开发行股票网上中签结果，中签号码共有24579个，每个中签号码只能认购500股天山电子股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqqsmrp3006425.d.html</link>
-            <guid>2831784</guid>
-            <pubDate>Tue, 18 Oct 2022 13:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万亿长线投资巨头加仓茅台】资本集团欧洲太平洋成长基金Europacific growth fund，最新规模1198.77亿美元，是全球持有贵州茅台最多的主动管理基金（公募基金）。算上被动基金，在所有的公募基金产品中，这只基金持有的贵州茅台股份数也居于全球前列。并且，它一度还是全球持有贵州茅台最多的公募基金产品。资本集团官网信息显示，截至3季度末，Europacific growth fund 持有贵州茅台的股份数5,316,871股，与顶峰时的815万股已经下降了不少，不过比2季度末增加了2.5%。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqmmthc1329066.d.html</link>
-            <guid>2831783</guid>
-            <pubDate>Tue, 18 Oct 2022 13:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日财经TOP10】➊「 超十城首套房贷利率破4%，楼市逐步“筑底修复”」➋「31省份9月CPI出炉：16地涨幅低于全国，海南等3地涨幅收窄」➌「河南发改委：河南省猪肉价格进入过度上涨一级预警区间」➍「10月日均国际航班量创新高，国际机票价格同比贵三成」➎「中国石化新层系新类型页岩气勘探取得重大突破」➏「 2022巴黎车展开幕，中国品牌提气了！比亚迪唐欧洲售价超奥迪Q7，魏牌摩卡涨10万元开售！」➐「远洋再次出售北京写字楼股权，大股东中国人寿2.33亿接盘」➑「马斯克卖香水、保时捷设计菜刀，“奇葩周边”还是“流量密码”？」➒「 罗永浩将开启淘宝直播，天猫上线微信小程序，今日头条设独立购物频道」➓「58同城被强制执行1520万 此前股权遭冻结」 https://finance.sina.com.cn/china/caijingtop10/2022-10-18/doc-imqqsmrp3005743.shtml]]></title>
-            <guid>2831782</guid>
-            <pubDate>Tue, 18 Oct 2022 13:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银华基金宣布5000万元自购旗下偏股型基金 20家机构自购达16.3亿元】银华基金今日晚间发布公告称，基于对中国资本市场长期健康稳定发展和公募基金行业高质量发展的信心，将于近日运用固有资金5000万元，投资公司旗下偏股型公募基金。至此，10月17日至10月18日晚间，已有17家基金公司及3家券商资管公告自购，自购金额累计达16.3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqqsmrp3005943.d.html</link>
-            <guid>2831781</guid>
-            <pubDate>Tue, 18 Oct 2022 13:07:34 GMT</pubDate>
         </item>
     </channel>
 </rss>

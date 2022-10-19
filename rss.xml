@@ -4,11 +4,55 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 19 Oct 2022 17:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 18:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  英镑兑美元维持0.9%的跌幅，暂报1.1220。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-20/detail-imqqsmrp3140578.d.html</link>
+            <guid>2832813</guid>
+            <pubDate>Wed, 19 Oct 2022 18:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国将从战略石油储备中释放1500万桶原油】 10月19日，美国总统拜登表示，美国将从战略石油储备中释放1500万桶原油入市。拜登称，如果需要，还可以再提供额外的石油出售。他同时敦促石油公司增加生产和投资，向消费者提供适当的价格。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-20/detail-imqqsmrp3140559.d.html</link>
+            <guid>2832812</guid>
+            <pubDate>Wed, 19 Oct 2022 18:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金价格日内下跌1.5%，最低下触1627美元/盎司，创自9月28日以来三周低位。]]></title>
+            <guid>2832811</guid>
+            <pubDate>Wed, 19 Oct 2022 18:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  国际原油期货涨幅持续扩大，布伦特原油涨超3%，报92.76美元/桶；WTI原油期货11月合约涨3.77%，报85.94美元/桶。]]></title>
+            <guid>2832809</guid>
+            <pubDate>Wed, 19 Oct 2022 17:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油向上触及86美元/桶，日内涨2.84%，布伦特原油现报92.68美元/桶。部分美国石油股小幅走高，瓦莱罗能源(VLO.N)涨超5%，雪佛龙(CVX.N)涨近4%，马拉松石油(MRO.N)、赫斯(HES.N)涨超3%，埃克森美孚石油(XOM.N)、康菲石油(COP.N)涨近3%。]]></title>
+            <guid>2832808</guid>
+            <pubDate>Wed, 19 Oct 2022 17:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  布伦特原油日内涨幅达3.0%，报92.74美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-20/detail-imqqsmrp3139467.d.html</link>
+            <guid>2832807</guid>
+            <pubDate>Wed, 19 Oct 2022 17:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油日内涨幅扩大至2.00%，现报92.44美元/桶，WTI原油现涨2.33%。]]></title>
+            <guid>2832806</guid>
+            <pubDate>Wed, 19 Oct 2022 17:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  COMEX 12月黄金期货收跌1.3%，报1634.20美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-20/detail-imqqsmrp3139247.d.html</link>
+            <guid>2832805</guid>
+            <pubDate>Wed, 19 Oct 2022 17:42:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【美财政官员：七国集团对俄石油限价不针对OPEC】 当地时间10月19日，路透社援引一位美国财政部官员消息称，七国集团（G7）采取的将俄罗斯石油销售限制在强制低价的新举措，将不会针对石油输出国组织（OPEC）。该官员表示，美国政府已与OPEC的代表沟通，向他们保证对俄罗斯的计划将受到一定限制，OPEC将不会成为美国及其盟友的目标。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-20/detail-imqmmthc1465427.d.html</link>
@@ -520,53 +564,6 @@
             <title><![CDATA[美国至10月14日当周EIA原油库存 -172.5万桶，预期138万桶，前值987.9万桶。]]></title>
             <guid>2832712</guid>
             <pubDate>Wed, 19 Oct 2022 14:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【西班牙多个品牌干果包装中查出金属残留物】西班牙《国家报》当地时间10月19日报道，西班牙多个品牌的干果类食品包装中发现金属残留物，已经告知西班牙食品安全当局。西班牙食品安全当局发表声明称，受影响的商品有袋装杏仁、花生等，且已经在西班牙全境和其他国家广泛销售。当局已通过欧洲食品警报网络请求撤回已上市产品，同时建议购买受影响产品的居民不要食用，并将其退回购买点。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqqsmrp3130255.d.html</link>
-            <guid>2832711</guid>
-            <pubDate>Wed, 19 Oct 2022 14:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国央行副行长表示，预计财政部在10月31日前将与英国预算责任办公室（OBR）进行沟通。10月31日的声明对央行的利率决定很重要。（财联社）]]></title>
-            <guid>2832710</guid>
-            <pubDate>Wed, 19 Oct 2022 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦镍日内涨幅扩大至2.00%，现报22330.00美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqmmthc1456217.d.html</link>
-            <guid>2832709</guid>
-            <pubDate>Wed, 19 Oct 2022 14:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长江电力：重组事项将于近日上会】长江电力公告，公司于当日收到中国证监会的通知，中国证监会上市公司并购重组委将于近日召开工作会议，审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项，会议具体时间以中国证监会官网公告为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqqsmrp3130152.d.html</link>
-            <guid>2832708</guid>
-            <pubDate>Wed, 19 Oct 2022 14:27:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股阿斯麦盘中涨超5%】美股阿斯麦盘中上涨5.16%，现报419.565美元，当前市值为1666.51亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqqsmrp3129878.d.html</link>
-            <guid>2832707</guid>
-            <pubDate>Wed, 19 Oct 2022 14:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大股指悉数转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqqsmrp3129858.d.html</link>
-            <guid>2832706</guid>
-            <pubDate>Wed, 19 Oct 2022 14:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[长端英国国债价格涨幅扩大，30年期英债收益率跌22个基点，暂报4.09%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqmmthc1455628.d.html</link>
-            <guid>2832705</guid>
-            <pubDate>Wed, 19 Oct 2022 14:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内消费需求向好，部分农产品期价创出阶段性新高】由于国内消费需求向好，商品期市农产品板块不断走强。自8月11日以来截至10月19日，大宗商品市场整体呈现出偏强势头，其中农产品板块表现更加明显，鸡蛋、生猪和苹果等品种的主力合约接连创出阶段性新高。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-19/detail-imqmmthc1455590.d.html</link>
-            <guid>2832704</guid>
-            <pubDate>Wed, 19 Oct 2022 14:19:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

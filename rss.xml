@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Oct 2022 08:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 09:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【祥明智能：公司有机器人关节电机等新门类电机研发计划】祥明智能在互动平台表示，公司有机器人关节电机等新门类电机的研发计划，目前没有市场应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1759946.d.html</link>
+            <guid>2836263</guid>
+            <pubDate>Sat, 22 Oct 2022 08:48:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【模拟芯片企业阳晓电子获毅达资本领投近亿元新一轮融资】模拟芯片企业阳晓电子完成近亿元新一轮融资，本轮融资由毅达资本领投。据了解，本轮融资将助力阳晓电子进一步打造和完善工业领域电源链芯片布局。（财联社）]]></title>
+            <guid>2836262</guid>
+            <pubDate>Sat, 22 Oct 2022 08:32:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乘联会崔东树：9月新能源车与传统燃油车环比走势都受到政策推动明显】据第一财经，乘联会秘书长崔东树表示，根据乘联会新能源车零售数据，在燃油车车购税减半政策实施后，全国新能源车市场不仅没有受到影响，反而新能源车6-9月走势超预期增长。供给改善叠加油价上浮带来市场火爆，油价上涨而电价锁定带动电动车订单表现火爆。各地出台鼓励消费乘用车政策力度大，9月的新能源车与传统燃油车环比走势都受到政策推动明显。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1757327.d.html</link>
@@ -555,17 +566,6 @@
             <title><![CDATA[市场资讯：承诺帮助埃隆-马斯克收购推特(TWTR.N)的银行计划持有支持该交易的全部130亿美元的债务，而不是将其银团化。]]></title>
             <guid>2835027</guid>
             <pubDate>Fri, 21 Oct 2022 18:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYMEX 柴油11月期货结算价报3.8323美元/加仑，NYMEX 汽油11月期货结算价报2.6620美元/加仑，NYMEX WTI原油期货12月合约收报85.05美元/桶。]]></title>
-            <guid>2835024</guid>
-            <pubDate>Fri, 21 Oct 2022 18:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 12月原油期货收涨0.54美元，涨幅0.64%，报85.05美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3374879.d.html</link>
-            <guid>2835023</guid>
-            <pubDate>Fri, 21 Oct 2022 18:33:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Oct 2022 13:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 14:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【港珠澳大桥开通四年出入境人员车辆货物量不断上升】据新华社，记者22日从国家移民管理局珠海边检总站了解到，港珠澳大桥开通四年来，经港珠澳大桥珠海公路口岸出入境的人员车辆货物量不断上升，累计出入境旅客近2400万人次、出入境车辆470万辆次。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3447464.d.html</link>
+            <guid>2836300</guid>
+            <pubDate>Sat, 22 Oct 2022 14:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【梦天实验舱将于本月发射，中国空间站建造进入收官阶段】按照中国空间站建造计划，梦天实验舱将于本月实施发射，目前，工程各系统正展开各项测试准备工作，确保中国空间站建造任务如期完成。酒泉卫星发射中心正同步开展载人飞船发射和回收任务准备，神舟十五号载人飞行任务已经全面进入准备阶段。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3446361.d.html</link>
+            <guid>2836280</guid>
+            <pubDate>Sat, 22 Oct 2022 13:41:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【连跌15个月后集体涨价，这一行业迎来转暖信号！】2021年下半年起，面板价格已连续15个月下跌，而今，行业迎来转暖迹象。多家机构研究数据显示，进入10月，部分面板价格降势渐止，其中电视面板更是集体涨价。机构分析认为，随着国内双十一促销节即将来临，叠加海外黑五促销、品牌商备货态度积极等，四季度面板价格有望企稳回升，行业短期望迎结构性回暖，但面板行业的整体上行周期不会马上到来，因当前涨价基础相对薄弱，后续行情仍需观察行业产能利用率、下游家电消费电子市场需求、以及品牌方备货等。（证券时报·e公司）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3444501.d.html</link>
@@ -558,16 +570,6 @@
             <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月18日当周，投机者将WTI原油净多头持仓削减29389手至165391手。]]></title>
             <guid>2835081</guid>
             <pubDate>Fri, 21 Oct 2022 19:30:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周五（10月21日）纽约尾盘，谷物分类指数涨0.13%，报48.7926点，本周累跌0.26%。]]></title>
-            <guid>2835078</guid>
-            <pubDate>Fri, 21 Oct 2022 19:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞士信贷：将Snap(SNAP.N)目标价从22美元下调至17美元 维持跑赢大市评级】在Snap(SNAP.N)公布第三季度业绩后，瑞士信贷分析师Stephen Ju将Snap目标价下调至17美元，并保持跑赢大市评级。Ju在研报中表示，Snap最大的数据更新是围绕第四季度的增长，管理层披露的年增长率约为9%，但预计由于品牌广告客户增长放缓，增速将放缓至0%。从研发角度看，Snap正在进行平台建设，以提供DR增强功能的基本完成，剩下的是一个迭代改进的过程，以夺回因广告主标识符(IDFA)驱动的投资回报率下降而失去的预算份额。]]></title>
-            <guid>2835074</guid>
-            <pubDate>Fri, 21 Oct 2022 19:27:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

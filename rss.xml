@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Oct 2022 20:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 21:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄罗斯发射首颗“球体”项目卫星】据俄罗斯国家航天集团消息，莫斯科时间10月22日22时57分，搭载第一颗“球体”项目卫星的“联盟-2.1b”运载火箭从俄罗斯东方航天发射场顺利升空。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1794877.d.html</link>
+            <guid>2836528</guid>
+            <pubDate>Sat, 22 Oct 2022 20:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉新房市场成交不活跃 “降价跑量”渐成主流】武汉楼市成交疲软。武汉市住房保障和房屋管理局发布的数据显示，9月，武汉新建商品住房网签销售7802套，网签销售面积89.49万平方米，环比减少17.18%，同比减少47.56%；在“十一”国庆假期，武汉市商品住宅共成交472套，成交面积总计约5.66万平方米，较2021年同期下滑36%。实际上，今年以来，武汉市已陆续出台多项房地产优化调整政策，以进一步提振房地产市场信心，推动市场库存去化。房企也积极推出打折促销等优惠活动，以期通过“以价换量”，加快销售去化和回笼资金。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqqsmrp3461109.d.html</link>
+            <guid>2836527</guid>
+            <pubDate>Sat, 22 Oct 2022 20:23:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美媒：美国取暖成本飙升 民众忧惧冬天到来】由于能源成本飙升及燃料供应紧张，美国各地居民都在忧惧冬天的到来。美国能源部预计，与去年冬天相比，家庭供暖的价格将大幅上涨，许多人因而担忧难以负担高昂的取暖费用。（海外网）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1793433.d.html</link>
@@ -570,16 +582,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1708754.d.html</link>
             <guid>2835122</guid>
             <pubDate>Fri, 21 Oct 2022 20:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【股市收盘】道琼斯指数10月21日（周五）收盘上涨749.43点，涨幅2.47%，报31083.02点；标普500指数10月21日（周五）收盘上涨86.37点，涨幅2.36%，报3752.15点；纳斯达克综合指数10月21日（周五）收盘上涨244.87点，涨幅2.31%，报10859.72点。]]></title>
-            <guid>2835121</guid>
-            <pubDate>Fri, 21 Oct 2022 20:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platforms(META.O)：新闻内容不是吸引用户的重要因素，并非公司收入的重要来源。]]></title>
-            <guid>2835116</guid>
-            <pubDate>Fri, 21 Oct 2022 20:05:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

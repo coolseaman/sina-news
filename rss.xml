@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Oct 2022 11:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 12:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【13只增强策略ETF产品获证监会接收材料】证监会官网显示，10月21日，易方达基金、汇添富基金、博时基金、南方基金等13家基金管理人申报的13只增强策略ETF产品获证监会接收材料。业内人士指出，随着境内市场衍生品应用及量化模型不断成熟，宽基指数增强策略应用场景也不断广阔。在大资管时代来临的背景下，这一类产品将成为投资者进行长期资产配置的重要工具。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3441396.d.html</link>
+            <guid>2836272</guid>
+            <pubDate>Sat, 22 Oct 2022 12:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巫云开高速全线首座千米隧道顺利贯通】22日，记者从重庆高速集团获悉，巫云开高速兴家隧道左洞顺利实现贯通，成为全线首座贯通的千米级隧道，标志着巫云开高速全线隧道施工取得了阶段性成果。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1772672.d.html</link>
+            <guid>2836271</guid>
+            <pubDate>Sat, 22 Oct 2022 12:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【义乌综合保税区进出口货值超160亿元】22日记者从义乌海关获悉，截至目前，浙江义乌综合保税区已发运跨境小包1800万个，汇集近50个国家的进口商品，进出口货值突破160亿元。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1770586.d.html</link>
+            <guid>2836270</guid>
+            <pubDate>Sat, 22 Oct 2022 11:27:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【缓解能源危机 德国接收首批阿联酋氢】德国21日举行仪式，接收首批来自阿拉伯联合酋长国的氢，以期推动能源转型、缓解国内能源危机。德国副总理兼经济和气候保护部长罗伯特·哈贝克与阿联酋工业和先进技术部长苏丹·贾比尔当天出席在德国汉堡市举行的接收仪式。综合媒体报道，这批氢以液态运送，数量不多，为13吨。德国正致力于在国内建立氢生产网络。哈贝克表示，进口同样是增加供应的关键。“现在，我们比以往任何时候都更需要推动转向氢能。”（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3435984.d.html</link>
@@ -550,22 +568,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1707550.d.html</link>
             <guid>2835061</guid>
             <pubDate>Fri, 21 Oct 2022 19:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD跌至10月6日以来最低水平，报1.3640，日内跌0.9%。]]></title>
-            <guid>2835055</guid>
-            <pubDate>Fri, 21 Oct 2022 19:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指尾盘涨2%，明星科技股普遍走高，美光科技(MU.O)涨超4%，亚马逊(AMZN.O)、特斯拉(TSLA.O)、英特尔(INTC.O)涨约3%，苹果(AAPL.O)、微软(MSFT.O)涨约2%。]]></title>
-            <guid>2835054</guid>
-            <pubDate>Fri, 21 Oct 2022 19:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将陶氏化学(DOW.N)目标价从50美元下调至48美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1707227.d.html</link>
-            <guid>2835053</guid>
-            <pubDate>Fri, 21 Oct 2022 19:12:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

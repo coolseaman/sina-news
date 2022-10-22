@@ -4,13 +4,38 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Oct 2022 03:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 05:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  二十大新华社快讯：大会通过了关于十九届中央委员会报告的决议。（新华社）]]></title>
+            <title><![CDATA[【我国将进行载人月球探测】今天，党的二十大“党代表通道”，中国航天科技集团有限公司党组书记、董事长吴燕生表示：我们将进行载人月球探测、月球科考基地的建设、火星采样返回，实施小行星探测等。通过这些重大工程，让中国人探索太空的脚步迈得更稳、更远。（人民日报）]]></title>
+            <guid>2836253</guid>
+            <pubDate>Sat, 22 Oct 2022 05:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  二十大新华社快讯：中国共产党第二十次全国代表大会胜利闭幕。（新华社）]]></title>
+            <guid>2836185</guid>
+            <pubDate>Sat, 22 Oct 2022 04:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[二十大新华社快讯：大会通过了关于《中国共产党章程（修正案）》的决议。（新华社）]]></title>
+            <guid>2836128</guid>
+            <pubDate>Sat, 22 Oct 2022 04:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比亚迪在巴西生产的光伏组件突破200万块】比亚迪官微发布消息称，近日，比亚迪能源巴西分公司光伏组件累计产量突破200万块。此外，比亚迪能源巴西分公司还宣布将于明年12月开始生产光伏组件新产品。该产品属于N型TOPCON光伏组件产品，功率为575W。（财联社）]]></title>
+            <guid>2836112</guid>
+            <pubDate>Sat, 22 Oct 2022 04:06:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  二十大新华社快讯：大会通过了关于十九届中央纪律检查委员会工作报告的决议。（新华社）]]></title>
+            <guid>2836091</guid>
+            <pubDate>Sat, 22 Oct 2022 03:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[二十大新华社快讯：大会通过了关于十九届中央委员会报告的决议。（新华社）]]></title>
             <guid>2836070</guid>
             <pubDate>Sat, 22 Oct 2022 03:54:11 GMT</pubDate>
         </item>
@@ -544,33 +569,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1705306.d.html</link>
             <guid>2835015</guid>
             <pubDate>Fri, 21 Oct 2022 18:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数涨至2%，原材料板块涨超3.2%领跑，能源、金融、可选消费、公用事业、工业、科技板块至多涨约2.6%，房地产板块涨超0.2%表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3374122.d.html</link>
-            <guid>2835014</guid>
-            <pubDate>Fri, 21 Oct 2022 18:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美众议院特别调查委员会向特朗普发出传票】当地时间21日，美国负责调查“1月6日美国国会大厦骚乱事件”的众议院特别委员会向前总统特朗普发出传票。（央视）]]></title>
-            <guid>2835013</guid>
-            <pubDate>Fri, 21 Oct 2022 18:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国债市陷入市场的风口浪尖，债券价格创历史上最大单周涨幅】 周五（10月21日）欧市尾盘，英国30年期国债收益率上涨10.0个基点，报4.060%，盘中交投于3.967%-4.122%区间，本周累计下跌72.4个基点，创最近数十年来最大单周回调幅度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1704854.d.html</link>
-            <guid>2835012</guid>
-            <pubDate>Fri, 21 Oct 2022 17:54:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  奈飞(NFLX.O)涨超7%，奈飞日前公布好于预期的第三季度业绩，获多家机构上调目标价。]]></title>
-            <guid>2835011</guid>
-            <pubDate>Fri, 21 Oct 2022 17:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯伦贝谢(SLB.N)涨幅扩大至10%，报50.29美元，Q3净利润同比增长65%至9.07亿美元。]]></title>
-            <guid>2835010</guid>
-            <pubDate>Fri, 21 Oct 2022 17:50:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Oct 2022 18:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 19:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【匈牙利政府宣布将降低中小企业贷款利率】当地时间10月22日，匈牙利政府宣布，从11月15日开始，扩大现有抵押贷款利率上限政策的适用范围，向中小企业提供的浮动利率贷款也可享受该政策。匈牙利负责经济发展事务的部长纳吉·马尔冬表示，为降低中小企业的成本，这些企业的贷款利率将被限制在7.77%，该措施有效期至2023年7月1日。目前的利率为16.69%。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqqsmrp3458777.d.html</link>
+            <guid>2836525</guid>
+            <pubDate>Sat, 22 Oct 2022 18:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国2022财年南部边境非法移民死亡人数创新高】当地时间10月22日，福克斯新闻网援引美国海关与边境保护局（CBP）的数据报道称，2022财年美国南部边境的非法移民死亡总人数为856人，创下历史新高。CBP公布的数据显示，2022财年，美国共有2378944起非法移民越境事件，其中仅9月就有227547起。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqqsmrp3458183.d.html</link>
+            <guid>2836524</guid>
+            <pubDate>Sat, 22 Oct 2022 18:31:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美疾控中心主任沃伦斯基新冠病毒检测结果呈阳性】美国疾病控制和预防中心（CDC）当地时间10月22日在一份声明中称，该机构主任沃伦斯基21日晚上新冠病毒检测结果呈阳性，并出现轻微症状。沃伦斯基已接种最新的新冠疫苗，目前正在居家隔离并将线上参加会议。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1789593.d.html</link>
@@ -568,16 +580,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3377572.d.html</link>
             <guid>2835113</guid>
             <pubDate>Fri, 21 Oct 2022 20:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指本周累涨4.89%，纳指本周累涨5.22%，标普500指数本周累涨4.75%，均为6月以来最大单周涨幅。]]></title>
-            <guid>2835112</guid>
-            <pubDate>Fri, 21 Oct 2022 20:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热门中概股涨跌不一 每日优鲜涨超57%】热门中概股涨跌不一，每日优鲜涨超50%，拼多多涨超5%，理想汽车、小鹏汽车、蔚来、富途控股涨超2%，唯品会涨超1%，腾讯音乐、阿里巴巴小幅上涨。知乎、网易跌超3%，百度、知乎跌超2%，爱奇艺、Boss直聘跌超1%，京东、哔哩哔哩小幅下跌。]]></title>
-            <guid>2835111</guid>
-            <pubDate>Fri, 21 Oct 2022 20:02:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Oct 2022 14:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 15:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【海南精细化工丙烯腈项目即将完工】10月22日，在海南自贸港东方临港产业园，海南精细化工二期工程丙烯腈系列装置项目进入收尾施工阶段。该项目是海南省重点项目，可年产20万吨丙烯腈、7万吨甲基丙烯酸甲酯，还可年回收21.4万吨废酸。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3450504.d.html</link>
+            <guid>2836348</guid>
+            <pubDate>Sat, 22 Oct 2022 14:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲车企为降低能源成本，考虑将生产线外迁】汽车行业研究机构“标准普尔全球移动”日前发布报告称，欧洲能源危机导致欧洲汽车行业面临巨大的能源成本压力，加之冬季来临前的能源使用限制或致使汽车工厂停产。欧洲企业为了降低能源成本，考虑将生产线外迁。根据外媒报道，大众汽车发出警告称，如果能源价格不能得到控制降下来，并稳定在一个合理的区间，大众汽车极大可能会将生产转移到其他地方。外媒报道称，宝马也将停止在英国生产电动汽车，计划将电动车生产线迁到中国市场。（第一财经）]]></title>
+            <guid>2836321</guid>
+            <pubDate>Sat, 22 Oct 2022 14:27:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【港珠澳大桥开通四年出入境人员车辆货物量不断上升】据新华社，记者22日从国家移民管理局珠海边检总站了解到，港珠澳大桥开通四年来，经港珠澳大桥珠海公路口岸出入境的人员车辆货物量不断上升，累计出入境旅客近2400万人次、出入境车辆470万辆次。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3447464.d.html</link>
@@ -560,16 +571,6 @@
             <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月18日当周，投机者将20633手COMEX黄金期货投机性净多头头寸转换为净空头持仓。]]></title>
             <guid>2835083</guid>
             <pubDate>Fri, 21 Oct 2022 19:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月18日当周，证券基金经理将标普500指数CME净多头持仓增加9057手至44945手，投机者将标普500指数CME净空头持仓增加13941手至85055手。]]></title>
-            <guid>2835082</guid>
-            <pubDate>Fri, 21 Oct 2022 19:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至10月18日当周，投机者将WTI原油净多头持仓削减29389手至165391手。]]></title>
-            <guid>2835081</guid>
-            <pubDate>Fri, 21 Oct 2022 19:30:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

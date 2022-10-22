@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Oct 2022 09:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 10:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【全国秋粮收获已达到10.78亿亩 主产区累计收购中晚稻800万吨左右】截至目前，全国秋粮收获已达到10.78亿亩。据国家粮食和物资储备局最新数据显示，主产区已累计收购中晚稻800万吨左右，南方地区中晚稻正陆续上市，收购进度快于上年。（人民网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1765850.d.html</link>
+            <guid>2836267</guid>
+            <pubDate>Sat, 22 Oct 2022 10:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【指数化投资趋势明显 沪市权益型ETF份额年内增长30%】最新数据显示，截至目前，上证、中证指数境内外产品规模已超1.6万亿元，今年以来沪市权益型ETF份额增长30%，创历史新高，增量资金通过指数产品持续流入市场。科创板指数方面，科创50指数产品份额逆势增长超80%，今年以来资金净流入超270亿元，产品规模突破500亿元；跟踪科创芯片、科创材料指数的ETF相继发行，募集资金约20亿元。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3431912.d.html</link>
+            <guid>2836266</guid>
+            <pubDate>Sat, 22 Oct 2022 09:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞银：美联储或在2023年年中停止量化紧缩】瑞银集团经济学家和策略师表示，鉴于货币市场改革带来的影响和债务上限，预计美联储将被迫在明年年中左右停止缩表。根据周三发布的报告，另一个影响因素包括市场对美联储逆回购协议工具的使用存在“相对粘性”。（财联社）]]></title>
+            <guid>2836265</guid>
+            <pubDate>Sat, 22 Oct 2022 09:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京新增8例本土感染者 均为隔离观察人员】北京市疾病预防控制中心通报，22日0时至15时，北京新增本土新冠肺炎病毒感染者8例，均为隔离观察人员；朝阳区4例，丰台区2例，海淀区、通州区各1例；轻型7例、无症状感染者1例。通报指出，目前陆续有风险区域将解除封控，解封前要做好风险评估，按规定落实核酸检测、健康监测、症状排查等措施，科学、安全、有序做好解封工作。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1762623.d.html</link>
+            <guid>2836264</guid>
+            <pubDate>Sat, 22 Oct 2022 09:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【祥明智能：公司有机器人关节电机等新门类电机研发计划】祥明智能在互动平台表示，公司有机器人关节电机等新门类电机的研发计划，目前没有市场应用。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1759946.d.html</link>
@@ -544,28 +567,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1707187.d.html</link>
             <guid>2835049</guid>
             <pubDate>Fri, 21 Oct 2022 19:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[每日优鲜(MF.O)直线拉升，现涨超23%，报1.98美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1706870.d.html</link>
-            <guid>2835036</guid>
-            <pubDate>Fri, 21 Oct 2022 19:02:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒指期货夜盘收涨1.18%，报16376点，高水165点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1706829.d.html</link>
-            <guid>2835035</guid>
-            <pubDate>Fri, 21 Oct 2022 19:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储埃文斯表示，预计联邦基金利率将在2023年初升至略高于4.5%的水平，并在这一水平上维持一段时间。]]></title>
-            <guid>2835032</guid>
-            <pubDate>Fri, 21 Oct 2022 18:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：承诺帮助埃隆-马斯克收购推特(TWTR.N)的银行计划持有支持该交易的全部130亿美元的债务，而不是将其银团化。]]></title>
-            <guid>2835027</guid>
-            <pubDate>Fri, 21 Oct 2022 18:47:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

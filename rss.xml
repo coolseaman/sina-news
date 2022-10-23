@@ -4,11 +4,21 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 23 Oct 2022 04:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 05:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中共二十届中央政治局常委同中外记者见面 习近平发表重要讲话】在中国共产党第二十届中央委员会第一次全体会议上当选的中共中央总书记习近平和中共中央政治局常委李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希，23日中午在人民大会堂同采访中共二十大的中外记者见面。习近平发表重要讲话。（央视新闻）]]></title>
+            <guid>2836564</guid>
+            <pubDate>Sun, 23 Oct 2022 05:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国共产党第二十届中央政治局常委同中外记者见面】中国共产党第二十届中央政治局常委同中外记者见面。（央视新闻）]]></title>
+            <guid>2836563</guid>
+            <pubDate>Sun, 23 Oct 2022 04:13:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【国寿寿险：截至前三季度末 服务实体经济投资规模超3.3万亿】今年以来，中国人寿保险股份有限公司加大对战略性新兴产业、国家重点区域投资力度。截至2022年9月30日，服务实体经济投资规模超过人民币3.3万亿元。全面助推双碳行动，国寿寿险绿色投资规模超过人民币4000亿元。国寿寿险还多措并举助企纾困，截至2022年9月30日，向国有企业改革、民营及小微企业发展累计投资超过人民币4000亿元。（北京商报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1819712.d.html</link>
@@ -567,18 +577,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3385260.d.html</link>
             <guid>2835296</guid>
             <pubDate>Fri, 21 Oct 2022 23:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【下游备货增加 造纸行业步入季节性旺季】造纸行业进入传统季节性旺季，近期下游备货量增加。从造纸企业披露的产销数据看，部分龙头企业产销量出现一定放量，同时瓦楞纸、箱板纸等产品价格回升。银河证券认为，龙头纸企三季度频繁停机，削减了成品纸供应，推动行业供需格局改善。近期，多家纸企发布涨价函，成品纸价格得到提振，相关企业盈利能力有望改善，看好上市纸企下半年业绩持续修复。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1716196.d.html</link>
-            <guid>2835282</guid>
-            <pubDate>Fri, 21 Oct 2022 23:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东昨日新增本土确诊病例2例 本土无症状感染者17例】21日0时至24时，山东省报告新增本土确诊病例2例，其中枣庄1例，系集中隔离点检出；济宁1例，系集中隔离点检出。新增本土无症状感染者17例，其中枣庄5例，均系集中隔离点检出；济宁5例，4例系集中隔离点检出，1例为省外返鲁人员，系重点人员筛查检出；临沂3例，均系集中隔离点检出；日照2例，均系集中隔离点检出；德州2例，均系集中隔离点检出。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1715675.d.html</link>
-            <guid>2835234</guid>
-            <pubDate>Fri, 21 Oct 2022 23:18:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

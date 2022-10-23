@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 23 Oct 2022 18:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 19:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  英镑兑美元在悉尼盘初报价下跌0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-24/detail-imqmmthc1870247.d.html</link>
+            <guid>2836760</guid>
+            <pubDate>Sun, 23 Oct 2022 18:27:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【依依股份：目前新老客户需求稳定增长】依依股份近日接受机构调研时表示，随着国外圣诞节以及中国春节随之到来，客户会进行相关产品的储备，纵观以往年度来看，四季度属于销售旺季。结合目前在手订单的情况来看，新老客户需求稳定增长。在宠物市场快速增长的背景下，公司会抓住机会，展现自身优势，随着明年初公司产能的进一步释放以及公司加大力度拓展其他地区取得的成效，2023年将继续扩大公司的收入规模，提高市场占有率。（证券时报·e公司）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1863771.d.html</link>
@@ -564,12 +570,6 @@
             <title><![CDATA[【数量继续扩容！9月末公募基金规模达26.59万亿元】日前，中国证券投资基金业协会发布的最新公募基金市场数据显示，9月末公募基金资产净值合计26.59万亿元。公募基金数量继续扩容，9月末达10263只。今年前三季度，基金发行股债跷跷板效应明显，债基成为新发基金的主力军，规模持续攀升。（中国证券报）]]></title>
             <guid>2836542</guid>
             <pubDate>Sun, 23 Oct 2022 00:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【指数优化带动投资容量升级 红利类ETF打开发展空间】上交所和中证指数公司近日发布公告，对32条红利系列指数编制方案进行修订。业内人士分析称，修订后的红利系列指数可投资性和高分红属性进一步增强，有望打开红利类指数基金和ETF新的发展空间。此次涉及修订的指数包括中证红利指数、上证180红利指数等32条红利类指数，修订后的方案将于今年12月12日起实施。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1802797.d.html</link>
-            <guid>2836541</guid>
-            <pubDate>Sun, 23 Oct 2022 00:11:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

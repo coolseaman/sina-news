@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 23 Oct 2022 13:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 14:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中证新能源金属主题指数将于11月14日发布】中证指数有限公司将于11月14日正式发布中证新能源金属主题指数。该指数从沪深市场中选取50只业务涉及锂、钴、镍、稀土、铜和铝等广泛应用于实现新能源转化和利用、发展新能源技术的关键金属材料相关领域上市公司证券作为指数样本，反映新能源金属主题上市公司证券的整体表现。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqqsmrp3525063.d.html</link>
+            <guid>2836640</guid>
+            <pubDate>Sun, 23 Oct 2022 13:59:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【贵州省卫健委谨慎回应“增加产假”建议：会影响育龄职工就业】在贵州省人大常委会官网10月21日公布的一批人大代表建议答复函中，贵州省卫健委就“增加产假”建议回应道，随着经济社会不断发展，养育观念发生变化，家长对儿童的陪伴和关心的诉求有所增加，但新设、延长生育、养育类假期直接涉及增加企业用工成本问题，也会导致部分企业岗位人员空缺影响企业生产经营，增加女职工假后返岗适应工作的难度等，进而影响育龄职工就业。（澎湃）]]></title>
             <guid>2836638</guid>
@@ -565,11 +571,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1801426.d.html</link>
             <guid>2836538</guid>
             <pubDate>Sat, 22 Oct 2022 23:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际油价多空博弈加剧，国内汽柴油零售价下周将再迎上调】新一轮成品油调价窗口将于10月24日24时开启，从多家大宗商品资讯机构获悉，国内汽柴油零售价大概率将再迎上调。近期，国际市场油价震荡运行。按照“十个工作日一调”原则，据金联创测算，截至10月21日第九个工作日，参考原油品种均价为90.38美元/桶，变化率为1.14%，对应的国内汽柴油零售价应上调180元/吨。距离调价窗口仅剩1个工作日，本轮零售价上调几乎是“板上钉钉”。预计上调幅度在170-180元/吨，折合成每升价格为上调0.13-0.15元。周末车主可提前加满油箱。（澎湃新闻）]]></title>
-            <guid>2836537</guid>
-            <pubDate>Sat, 22 Oct 2022 23:45:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

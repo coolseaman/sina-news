@@ -4,11 +4,44 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 23 Oct 2022 19:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 20:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[前英国首相约翰逊声称退出保守党党魁竞选后，英镑兑美元短线拉升超60点，在悉尼盘初涨至1.1380上方，日内目前涨幅0.7%。英镑兑欧元也涨至日高1.1540上方，日内目前涨超0.6%。]]></title>
+            <guid>2836887</guid>
+            <pubDate>Sun, 23 Oct 2022 20:11:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国前首相约翰逊声称退出保守党党魁竞选。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-24/detail-imqmmthc1872157.d.html</link>
+            <guid>2836876</guid>
+            <pubDate>Sun, 23 Oct 2022 20:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【周应波奔私后首份投资报告出炉，看好电动车等五大领域，刚刚加仓维生素D3龙头股】 虽然（创办的上海运舟私募基金管理有限公司）新产品仍在建仓阶段，周应波还是写了一份干货满满的投资三季报。在他看来，当前资本市场的估值吸引力毫无疑问已经进入了历史最佳区间。投资报告对部分重点产业和行业做出了深入分析，他尤其看好电动车、储能、国产软硬件、VR/AR眼镜、精细化工这五大领域。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-24/detail-imqmmthc1871943.d.html</link>
+            <guid>2836847</guid>
+            <pubDate>Sun, 23 Oct 2022 20:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美元兑日元周一悉尼盘报价最低147.45，较上周五纽约尾盘下跌0.13%，延续上周五暴跌下跌1.69%的表现。]]></title>
+            <guid>2836846</guid>
+            <pubDate>Sun, 23 Oct 2022 20:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【渤海证券成为年内第5家申请基金托管资格的券商】近日，证监会信息显示，渤海证券申请基金托管人资格材料已获证监会接收。渤海证券成为继东吴证券、东北证券、东兴证券、湘财证券之后，年内第5家申请基金托管资格的券商。截至目前，排队申请基金托管人资格的券商有8家。在业内人士看来，在未来券商业务竞争中，包含牌照资格在内的业务多元能力，以及公司内部协同能力，可能成为券商在同行竞争中的利器。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-24/detail-imqmmthc1871933.d.html</link>
+            <guid>2836843</guid>
+            <pubDate>Sun, 23 Oct 2022 19:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【明星基金经理调仓路径持续浮出水面，医药板块的机构配置已达洼地区间】 从最新情况来看，芯能科技、TCL中环、双林股份等成长股股东名单中，出现了冯明远、崔宸龙、周克平、傅鹏博等顶流基金经理调仓身影，欧普康视、健民集团等医药股，则浮现了葛兰、赵蓓等人加仓路径。另外，从贵州茅台、璞泰来、华特气体等人气个股三季报来看，公募更是进出频繁，前十大流通股中最高可占去7席。在葛兰等基金经理加仓叠加近期行情回暖之下，“医药板块能否走高”成为了业内关注重点。公募表示，目前医药机构配置已经达到了洼地区间，在现在的季度资金轮动时期，医药关注度已经有所提升，资金或将有序流入板块。四季度乃至明年或可观察合适时机，然后徐徐图之。（券商中国）]]></title>
+            <guid>2836765</guid>
+            <pubDate>Sun, 23 Oct 2022 19:34:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  英镑兑美元在悉尼盘初报价下跌0.6%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-24/detail-imqmmthc1870247.d.html</link>
@@ -537,39 +570,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1807259.d.html</link>
             <guid>2836548</guid>
             <pubDate>Sun, 23 Oct 2022 01:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【6只硬科技ETF下周三同步上市】10月21日，嘉实上证科创板芯片ETF、华安上证科创板芯片ETF、南方上证科创板新材料ETF、博时科创板新材料ETF、华夏中证机床ETF、国泰中证机床ETF相继发布上市交易公告书。公告书显示，6只ETF均将于下周三全份额上市交易。截至10月19日，几只ETF持股仓位依然较轻，预计上市前几日会迎来较为集中的建仓。值得一提的是，除了机构投资者，还有多位个人投资者耗资千万以上积极参与认购，成为硬科技ETF新粉。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1805945.d.html</link>
-            <guid>2836547</guid>
-            <pubDate>Sun, 23 Oct 2022 00:57:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国货运物流有序运行 铁路运输货物环比增长0.56%】最新的数据显示，10月22日，全国货运物流有序运行，铁路运输货物环比增长0.56%。根据国务院物流保通保畅工作领导小组办公室监测汇总数据显示，10月22日，国家铁路货运继续保持高位运行，运输货物1026.3万吨，环比增长0.56%；全国高速公路货车通行702.29万辆，环比下降5.81%；监测港口完成货物吞吐量3224.1万吨，环比下降3.5%，完成集装箱吞吐量70.8万标箱，环比下降5.4%；民航保障货运航班785班（其中国际货运航班568班，国内货运航班217班），环比下降0.9%；邮政快递揽收量约3.07亿件，环比下降4.4%；投递量约3.3亿件，环比下降1.8%。（央视新闻）]]></title>
-            <guid>2836546</guid>
-            <pubDate>Sun, 23 Oct 2022 00:49:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【78岁红牛联合创始人马特希茨去世，享年78岁】10月22日，能量饮料红牛（Red Bull）联合创始人马特希茨（Dietrich Mateschitz）因病去世，享年78岁。1984年，马特希茨与泰国企业家许书标创立红牛公司，总部位于奥地利，1987年正式开售红牛饮料，随后红牛将版图扩张至F1、足球等体育领域。彭博全球富豪榜显示，马特希茨排名全球第99位，身家151亿美元。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqmmthc1804849.d.html</link>
-            <guid>2836545</guid>
-            <pubDate>Sun, 23 Oct 2022 00:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马克龙斥美国搞“双标”，向欧洲出口的气价比美国国内高得多】法国总统马克龙再一次对美国供欧液化天然气的高价表达不满。10月21日，他在欧盟峰会期间的新闻发布会上抨击美国在贸易和能源政策上搞“双重标准”，欧洲为美国液化天然气支付了更加高昂的价格。“北美经济为了吸引力做出选择，我尊重这一点，但他们制造了双重标准。”马克龙说，美国本土的能源价格要低得多，却在以创纪录的价格向欧洲兜售天然气。他还补充道，美国对某些行业的国家补贴高达80%，欧盟则禁止国家援助，指称这也造成了“双标”。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-23/detail-imqqsmrp3470753.d.html</link>
-            <guid>2836544</guid>
-            <pubDate>Sun, 23 Oct 2022 00:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超200家上市公司披露三季报，这些公司计划大手笔分红】Wind数据显示，截至目前，A股共有213家上市公司披露2022年三季报，其中185家实现净利润同比增长。从产业链角度看，不少光伏、新能源汽车上市公司前三季度业绩表现较为亮眼。此外，润泽科技、圣湘生物、江中药业等公司计划大手笔现金分红。（中国证券报）]]></title>
-            <guid>2836543</guid>
-            <pubDate>Sun, 23 Oct 2022 00:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【数量继续扩容！9月末公募基金规模达26.59万亿元】日前，中国证券投资基金业协会发布的最新公募基金市场数据显示，9月末公募基金资产净值合计26.59万亿元。公募基金数量继续扩容，9月末达10263只。今年前三季度，基金发行股债跷跷板效应明显，债基成为新发基金的主力军，规模持续攀升。（中国证券报）]]></title>
-            <guid>2836542</guid>
-            <pubDate>Sun, 23 Oct 2022 00:22:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

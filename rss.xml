@@ -4,11 +4,545 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 27 Oct 2022 11:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 12:39:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[机构评欧洲央行利率决议：欧洲央行周四再次加息75个基点，并暗示其急于开始缩减臃肿的资产负债表，向紧缩政策迈出又一大步，以遏制通胀的历史性飙升。由于担心物价的快速增长已经根深蒂固，欧洲央行正以有记录以来最快的速度提高借贷成本，而且几乎肯定会进一步提高。欧洲央行还削减了对银行的一项关键补贴，但没有暗示开始减持其持有债券的计划。市场预计存款利率将在12月达到2%，然后在2023年的某个时候达到3%左右的峰值，尽管过度波动的前景使这一时间表容易发生变化。]]></title>
+            <guid>2841858</guid>
+            <pubDate>Thu, 27 Oct 2022 12:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[麦当劳CEO：欧洲经济进一步衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3997985.d.html</link>
+            <guid>2841857</guid>
+            <pubDate>Thu, 27 Oct 2022 12:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金发拉比：大股东林浩亮拟大宗交易减持不超4%股份】金发拉比公告，公司持股29.29%的股东林浩亮拟以大宗交易方式，减持公司股份不超1416.1万股，即合计不超过公司总股本的4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3997712.d.html</link>
+            <guid>2841856</guid>
+            <pubDate>Thu, 27 Oct 2022 12:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高德红外：第三季度净利1.5亿元 同比降33.31%】高德红外公告，公司三季度实现营业收入4.89亿元，同比下降18.09%；净利润1.5亿元，同比下降33.31%。前三季度实现净利润5.27亿元，同比下降42.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3997689.d.html</link>
+            <guid>2841855</guid>
+            <pubDate>Thu, 27 Oct 2022 12:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国GDP数据和耐用品订单数据公布后，美国国债收益率进一步下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2346493.d.html</link>
+            <guid>2841854</guid>
+            <pubDate>Thu, 27 Oct 2022 12:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【隆平高科：参股公司收到巴西联邦税务局发出的税务评估及处罚通知】隆平高科公告，收到参股公司隆平发展通知，其全资子公司卢森堡公司、隆平巴西近期收到巴西联邦税务局发出的税务评估及处罚通知，已依法向巴西联邦税务局提交了税务评估及处罚行政复议申请并获得受理。根据税务评估及处罚通知，要求卢森堡公司补缴税款、滞纳金及罚款合计约8.13亿雷亚尔，原陶氏益农的巴西存续主体科迪华巴西公司、隆平巴西承担连带责任。]]></title>
+            <guid>2841853</guid>
+            <pubDate>Thu, 27 Oct 2022 12:34:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行存款机制利率已经升至2009年以来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2346409.d.html</link>
+            <guid>2841852</guid>
+            <pubDate>Thu, 27 Oct 2022 12:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国9月耐用品订单月率 0.4%，预期0.60%，前值-0.20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3997517.d.html</link>
+            <guid>2841851</guid>
+            <pubDate>Thu, 27 Oct 2022 12:34:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国第三季度PCE物价指数年率初值 6.3%，前值6.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3997469.d.html</link>
+            <guid>2841850</guid>
+            <pubDate>Thu, 27 Oct 2022 12:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国第三季度年化实际GDP总量初值 200217亿美元，前值198953亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3997442.d.html</link>
+            <guid>2841849</guid>
+            <pubDate>Thu, 27 Oct 2022 12:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员减少了对欧洲央行加息的押注，认为关键利率将在2023年见顶，低于2.75%。]]></title>
+            <guid>2841848</guid>
+            <pubDate>Thu, 27 Oct 2022 12:33:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国第三季度实际个人消费支出季率初值 1.4%，预期1%，前值2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2346253.d.html</link>
+            <guid>2841847</guid>
+            <pubDate>Thu, 27 Oct 2022 12:32:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国第三季度核心PCE物价指数年化季率初值为4.5%，预期4.50%，前值4.70%。]]></title>
+            <guid>2841846</guid>
+            <pubDate>Thu, 27 Oct 2022 12:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股期货短线拉升，道指期货涨1%，纳指期货接近转涨，标普500指数期货涨约0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3997213.d.html</link>
+            <guid>2841845</guid>
+            <pubDate>Thu, 27 Oct 2022 12:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行加息75个基点后，欧元兑美元EUR/USD短线走低累计超50点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3997207.d.html</link>
+            <guid>2841844</guid>
+            <pubDate>Thu, 27 Oct 2022 12:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国第三季度GDP公布后，美元指数DXY短线波动不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2346067.d.html</link>
+            <guid>2841843</guid>
+            <pubDate>Thu, 27 Oct 2022 12:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国第三季度实际GDP年化季率初值录得2.6%，创2021年第四季度以来新高，此前曾连续两个季度录得负增长。]]></title>
+            <guid>2841842</guid>
+            <pubDate>Thu, 27 Oct 2022 12:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至10月22日当周初请失业金人数 21.7万人，预期22万人，前值21.4万人。]]></title>
+            <guid>2841841</guid>
+            <pubDate>Thu, 27 Oct 2022 12:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国第三季度实际GDP年化季率初值 2.6%，预期2.40%，前值-0.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2345915.d.html</link>
+            <guid>2841840</guid>
+            <pubDate>Thu, 27 Oct 2022 12:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【2022年前三季度光伏发电新增并网容量5260.2万千瓦】国家能源局数据显示，2022年前三季度光伏发电新增并网容量5260.2万千瓦，其中集中式光伏电站1727.1万千瓦，分布式光伏3533.0万千瓦。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3996980.d.html</link>
+            <guid>2841839</guid>
+            <pubDate>Thu, 27 Oct 2022 12:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股盘前消息速递】①美股股指期货周四盘前涨跌互现，欧央行加息75个基点，符合市场预期。美国三季度GDP初步数据将公布。苹果、亚马逊将在收盘后公布财报。②截至发稿，道指期货涨0.6%，标普500期指跌0.1%，纳指期货跌0.6%。③英国富时100指数下跌了0.1%，德国DAX指数下跌1.0%，法国CAC-40指数下跌1.0%。④欧洲央行将三大主要利率均上调75个基点，符合市场预期，为连续第二次大幅加息75个基点。欧洲央行表示，只要有必要，资产购买计划再投资将继续。将到期的PEPP债券收益再投资至“至少”2024年底。⑤典型的衰退预警信号正在美国国债市场闪烁，10年期美国国债收益率低于3个月期美国国债收益率，这一罕见情况表明，投资者预计美联储抗击通胀的行动将带来可怕的经济后果。⑥Meta盘前跌22.8%，Q3利润、Q4营收指引逊预期。⑦瑞士信贷盘前跌9.6%，三季度净亏损40.3亿瑞士法郎。⑧福特盘前跌1.7%，Q3净亏损8.27亿美元。⑨德意志银行盘前涨2.8%，三季度净利润胜预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2345579.d.html</link>
+            <guid>2841838</guid>
+            <pubDate>Thu, 27 Oct 2022 12:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线拉升逾20点，现报110.42。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2345424.d.html</link>
+            <guid>2841837</guid>
+            <pubDate>Thu, 27 Oct 2022 12:24:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：管理委员会决定将最低准备金的报酬设定为欧洲央行的存款便利利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3996307.d.html</link>
+            <guid>2841836</guid>
+            <pubDate>Thu, 27 Oct 2022 12:22:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：通胀率将在较长时期内高于目标水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3996106.d.html</link>
+            <guid>2841835</guid>
+            <pubDate>Thu, 27 Oct 2022 12:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ST金正：拟14.74亿元投建瓮安县马路槽磷矿200万吨/年地采项目】ST金正公告，公司全资子公司贵州金兴矿业有限公司拟投资建设瓮安县马路槽磷矿200万吨/年地采项目，预计投资总额14.74亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344933.d.html</link>
+            <guid>2841834</guid>
+            <pubDate>Thu, 27 Oct 2022 12:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【远东股份：拟定增募资不超38亿元】远东股份公告，拟非公开发行股票募资不超过38亿元，将用于高端海工海缆产业基地项目、储能研发及产业化项目及补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3996027.d.html</link>
+            <guid>2841833</guid>
+            <pubDate>Thu, 27 Oct 2022 12:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【海力风电：拟发行可转债募资不超过28亿元】海力风电公告，拟发行可转债募资不超过28亿元，用于大兆瓦海上风电装备制造基地项目（一期）、海上高端装备制造出口基地项目（一期）、海上高端装备制造基地项目（东营一期）、大兆瓦海上风电装备制造基地项目（一期）、大兆瓦海上风电塔筒制造项目（一期）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344836.d.html</link>
+            <guid>2841832</guid>
+            <pubDate>Thu, 27 Oct 2022 12:19:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：将到期的PEPP债券收益再投资至“至少”2024年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3995960.d.html</link>
+            <guid>2841831</guid>
+            <pubDate>Thu, 27 Oct 2022 12:19:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：另一份技术性新闻稿，详细说明最低准备金的变化，也将于欧洲中部时间15:45（北京时间今夜凌晨00:15）发布。]]></title>
+            <guid>2841830</guid>
+            <pubDate>Thu, 27 Oct 2022 12:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：警惕通胀预期上升的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344789.d.html</link>
+            <guid>2841829</guid>
+            <pubDate>Thu, 27 Oct 2022 12:19:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：将改变定向长期再融资操作（TLTRO）III的条款和条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344760.d.html</link>
+            <guid>2841828</guid>
+            <pubDate>Thu, 27 Oct 2022 12:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：欧洲央行希望进一步提高利率，以确保通胀及时恢复到2%的中期通胀目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344715.d.html</link>
+            <guid>2841827</guid>
+            <pubDate>Thu, 27 Oct 2022 12:18:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧洲央行将定期评估定向长期再融资操作（TLTRO）对政策立场的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3995834.d.html</link>
+            <guid>2841826</guid>
+            <pubDate>Thu, 27 Oct 2022 12:18:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧洲央行为定向长期再融资操作（TLTRO）贷款提供额外的提前还款日期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344675.d.html</link>
+            <guid>2841825</guid>
+            <pubDate>Thu, 27 Oct 2022 12:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：欧洲央行将根据不断变化的通胀和经济前景制定未来的政策利率路径。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344643.d.html</link>
+            <guid>2841824</guid>
+            <pubDate>Thu, 27 Oct 2022 12:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：管理委员会随时准备调整所有工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344627.d.html</link>
+            <guid>2841823</guid>
+            <pubDate>Thu, 27 Oct 2022 12:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：传导保护工具（TPI）可用于应对无序的市场波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3995760.d.html</link>
+            <guid>2841822</guid>
+            <pubDate>Thu, 27 Oct 2022 12:17:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行政策声明公布后，欧洲斯托克指数下跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344602.d.html</link>
+            <guid>2841821</guid>
+            <pubDate>Thu, 27 Oct 2022 12:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：只要有必要，资产购买计划再投资将继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3995730.d.html</link>
+            <guid>2841820</guid>
+            <pubDate>Thu, 27 Oct 2022 12:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：近几个月来，能源和食品价格飙升、供应瓶颈以及疫情后需求复苏导致价格压力扩大，通胀加剧。]]></title>
+            <guid>2841819</guid>
+            <pubDate>Thu, 27 Oct 2022 12:16:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：9月份欧元区通胀率达到9.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3995706.d.html</link>
+            <guid>2841818</guid>
+            <pubDate>Thu, 27 Oct 2022 12:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：通胀率仍然过高，并将在较长时间内保持在目标之上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3995682.d.html</link>
+            <guid>2841817</guid>
+            <pubDate>Thu, 27 Oct 2022 12:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行利率决议公布后，欧元兑美元EUR/USD短线下挫30点，现报1.0008。]]></title>
+            <guid>2841816</guid>
+            <pubDate>Thu, 27 Oct 2022 12:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD日内跌超1.00%，现报0.6431。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3995658.d.html</link>
+            <guid>2841815</guid>
+            <pubDate>Thu, 27 Oct 2022 12:16:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国铁路工会TSSA：11月9日将举行更多罢工行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344475.d.html</link>
+            <guid>2841814</guid>
+            <pubDate>Thu, 27 Oct 2022 12:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区至10月27日欧洲央行主要再融资利率 2%，预期2.00%，前值1.25%。]]></title>
+            <guid>2841813</guid>
+            <pubDate>Thu, 27 Oct 2022 12:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行将三大主要利率均上调75个基点，符合市场预期，为连续第二次大幅加息75个基点。]]></title>
+            <guid>2841812</guid>
+            <pubDate>Thu, 27 Oct 2022 12:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta跌幅扩大至24% 降至每股100美元以下】Facebook的母公司Meta Platforms跌幅扩大至24%，降至每股100美元以下。财报显示Meta每股收益大幅下滑，同时营收指引令市场失望。Meta季度每股收益仅1.64美元，收入为277.1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344254.d.html</link>
+            <guid>2841811</guid>
+            <pubDate>Thu, 27 Oct 2022 12:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国海油回应英国资产出售传闻：只要条件合适，不排除任何选项】据澎湃，中国海洋石油有限公司10月27日披露2022年三季度经营业绩，创历史同期最佳水平。当天举行的业绩发布媒体电话会上，该公司首席财务官谢尉志就英国资产出售回应澎湃新闻称，不刻意退出特定区域，但只要价钱合适，符合股东利益，不排除任何选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344208.d.html</link>
+            <guid>2841810</guid>
+            <pubDate>Thu, 27 Oct 2022 12:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丹麦沃旭能源公司与挪威国家石油公司签订天然气购买协议】当地时间10月27日，丹麦沃旭能源公司（ rsted）与挪威国家石油公司（Equinor）达成协议，为丹麦购买挪威天然气。该协议有效期为2023年1月1日至2024年4月1日。天然气将通过新开通的波罗的海管道输送。该协议涉及购买约8TWh的天然气，这相当于丹麦在协议适用时间段内预计天然气消费量的四分之一左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344168.d.html</link>
+            <guid>2841809</guid>
+            <pubDate>Thu, 27 Oct 2022 12:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行即将公布利率决议，欧元兑美元EUR/USD短线走低25点，现报1.0028。]]></title>
+            <guid>2841808</guid>
+            <pubDate>Thu, 27 Oct 2022 12:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  康龙化成：第三季度净利润3.76亿元，同比下降20.95%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2344036.d.html</link>
+            <guid>2841807</guid>
+            <pubDate>Thu, 27 Oct 2022 12:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日本东京首次发现奥密克戎亚型变异毒株XBB】据日本TBS电视台消息，日本东京首次发现奥密克戎亚型变异毒株XBB。东京都27日召开新冠疫情监控会议，会上公布，东京已发现6例奥密克戎亚型变异毒株XBB。此外，东京一星期内新增新冠病例3397例，基本与上星期持平。夜间街道出行人数比上星期增加16.8%，已连续两星期大幅增加。参会专家认为，人数增加是入境管控措施放宽所致。而奥密克戎亚型变异毒株XBB可能成为日本第八波新冠疫情的主要毒株，专家提醒人们注意防范。 (海外网)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3995234.d.html</link>
+            <guid>2841806</guid>
+            <pubDate>Thu, 27 Oct 2022 12:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【ST金正：子公司拟14.74亿元投建瓮安县马路槽磷矿200万吨/年地采项目】ST金正公告，子公司拟投资建设瓮安县马路槽磷矿200万吨/年地采项目，项目预计投资总额为14.74亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2343714.d.html</link>
+            <guid>2841805</guid>
+            <pubDate>Thu, 27 Oct 2022 12:09:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中债收益率曲线和指数日评】今日债券市场指数小幅上涨，其中不包含利息再投资的中债综合指数（净价）104.3174，上涨0.0374%，而包含利息再投资的中债综合指数（财富）226.018，上涨0.0459%，平均市值法到期收益率为3.2209%，平均市值法久期为4.7923。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2343675.d.html</link>
+            <guid>2841804</guid>
+            <pubDate>Thu, 27 Oct 2022 12:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中辰股份：拟在鹰潭高新技术产业开发区投资5亿元建设特种电缆项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2343644.d.html</link>
+            <guid>2841803</guid>
+            <pubDate>Thu, 27 Oct 2022 12:08:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宝尊电商：自愿转换为于联交所主板双重主要上市】宝尊电商港交所公告，于生效日期（即2022年11月1日），本公司自愿将其第二上市地位转换为于联交所双重主要上市将生效。于生效日期，本公司将于香港联交所及美国纳斯达克双重主要上市，并将股票标记「S」从我们于联交所的股票简称中删除。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2343597.d.html</link>
+            <guid>2841802</guid>
+            <pubDate>Thu, 27 Oct 2022 12:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞科生物：新佐剂重组四价HPV疫苗中国临床试验申请获得受理】瑞科生物公告，本集团已于近日收到国家药品监督管理局签发的受理通知书，同意受理其自主研发的新佐剂重组四价HPV疫苗REC604a临床试验申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3994737.d.html</link>
+            <guid>2841801</guid>
+            <pubDate>Thu, 27 Oct 2022 12:07:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10月27日交易所开盘】上海黄金交易所黄金T+D 10月27日（周四）晚盘盘初上涨0.22%报393.39元/克；上海黄金交易所白银T+D 10月27日（周四）晚盘盘初下跌0.13%报4557.0元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2343497.d.html</link>
+            <guid>2841800</guid>
+            <pubDate>Thu, 27 Oct 2022 12:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波罗的海干散货指数下跌5.51%，报1612点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2342836.d.html</link>
+            <guid>2841799</guid>
+            <pubDate>Thu, 27 Oct 2022 12:01:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中信银行：公司第三季度归母净利润145.79亿元，同比增长14.57%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3994035.d.html</link>
+            <guid>2841798</guid>
+            <pubDate>Thu, 27 Oct 2022 12:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国下周交付的工作日天然气批发价格上涨18.2%，至65便士/撒姆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2342602.d.html</link>
+            <guid>2841797</guid>
+            <pubDate>Thu, 27 Oct 2022 11:59:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：可能在未来几周内签署欧盟-智利贸易协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3993552.d.html</link>
+            <guid>2841796</guid>
+            <pubDate>Thu, 27 Oct 2022 11:56:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX指数日内跌幅达1.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2342283.d.html</link>
+            <guid>2841795</guid>
+            <pubDate>Thu, 27 Oct 2022 11:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【川金诺：拟定增募资不超过15亿元】川金诺公告，拟定增募资不超过15亿元，用于5万吨/年电池级磷酸铁锂正极材料前驱体材料磷酸铁及配套60万吨/年硫磺制酸项目、广西川金诺新能源有限公司10万吨/年电池级磷酸铁锂正极材料项目（一期工程）、补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2342241.d.html</link>
+            <guid>2841794</guid>
+            <pubDate>Thu, 27 Oct 2022 11:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【Marvell裁撤上海和成都的部分研发团队】记者从知情人士处获悉，由于全球范围内的业务及组织机构调整，美国芯片厂商Marvell裁撤上海和成都的部分研发团队。包括迈威迩上海的SPG部门、PHY部门、ASIC部门的设计验证团队、IT部门的工程团队，基础设施团队和GREWS部门也将有部分裁撤。此外，迈威迩成都的SPG部门和GREWS部门也将裁撤。据了解，Marvell曾是3G时代智能手机芯片的主要供应商，不过其优势未能延续到4G和5G时代。自2015年起，Marvell开始收缩移动芯片业务，业绩因而下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2342010.d.html</link>
+            <guid>2841793</guid>
+            <pubDate>Thu, 27 Oct 2022 11:53:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎USD/CHF日内涨超0.50%，现报0.9909。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2341980.d.html</link>
+            <guid>2841792</guid>
+            <pubDate>Thu, 27 Oct 2022 11:52:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海信家电：三季度净利达4.5亿元 同比增长44.55%】海信家电公告，2022年7-9月份，公司营业收入达人民币187.19亿元，同比增长6.09%；归属于上市公司股东的净利润达人民币元4.50亿元，同比增长44.55%；归属于上市公司股东的扣除非经常性损益的净利润达人民币3.47亿元，同比增长54.52%；基本每股收益人民币0.33元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3993212.d.html</link>
+            <guid>2841791</guid>
+            <pubDate>Thu, 27 Oct 2022 11:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际能源署：能源危机或促绿色能源转型加速】国际能源署27日发布的一份报告说，乌克兰危机升级引发的能源危机可能加速全球绿色能源转型进程。德新社援引这份《世界能源展望》年度报告报道，面对能源危机，许多国家除了向消费者提供应对能源价格上涨的短期保护措施，还试图加快能源结构变革。报告估计，如果这些变革措施得以实施，到2030年，全球清洁能源投资将增加50%，达每年2万亿美元以上。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3993150.d.html</link>
+            <guid>2841790</guid>
+            <pubDate>Thu, 27 Oct 2022 11:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【先导智能：第三季度净利8.53亿元 同比增69.67%】先导智能公告，公司三季度实现营业收入45.51亿元，同比增长69.84%；净利润8.53亿元，同比增长69.67%。前三季度实现净利润16.65亿元，同比增长65.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2341839.d.html</link>
+            <guid>2841789</guid>
+            <pubDate>Thu, 27 Oct 2022 11:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中简科技：第三季度净利1.36亿元 同比增165.06%】中简科技公告，公司三季度实现营业收入2.04亿元，同比增长105.55%；净利润1.36亿元，同比增长165.06%。前三季度实现净利润3.2亿元，同比增长120.84%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3992789.d.html</link>
+            <guid>2841788</guid>
+            <pubDate>Thu, 27 Oct 2022 11:49:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中信银行：中国银保监会同意配售股份的方案】中信银行(00998.HK)在港交所发布公告，该行近日收到《中国银保监会关于中信银行配股方案的批复》(银保监复[2022]751号)，中国银保监会同意该行按照每10股配售不超过3股的比例向全体A股和H股股东配售股份的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3992550.d.html</link>
+            <guid>2841787</guid>
+            <pubDate>Thu, 27 Oct 2022 11:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德方纳米：签订年产5000吨补锂剂生产基地项目投资协议】德方纳米公告，拟与成都-阿坝工业集中发展区管理委员会签订《年产5000吨补锂剂生产基地项目投资协议》，公司拟在成都市成阿园区投资建设“年产5000吨补锂剂生产基地项目”，项目总投资不低于10亿元人民币（包含资本性投入和流动资金投入），拟由公司的控股子公司深圳市德方创域新能源科技有限公司出资在成都市成阿园区注册成立的项目公司实施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2341317.d.html</link>
+            <guid>2841786</guid>
+            <pubDate>Thu, 27 Oct 2022 11:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【丰田据悉将2022年产量目标降至950万辆 并有可能进一步下降】据消息人士透露，丰田汽车告知其几家供应商，已将今年的全球生产目标下调至950万辆。丰田上周曾表示，由于芯片稀缺，公司不太可能实现截至2023年3月的财政年度970万辆的创纪录产量目标。当时丰田并未表明届时目标会降低多少。全球950万辆的新目标仍将比前一年产量高10%。但消息人士称，这个数字可能会进一步降低，这取决于电磁钢板的供应情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2341207.d.html</link>
+            <guid>2841785</guid>
+            <pubDate>Thu, 27 Oct 2022 11:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【盐湖股份：前三季净利121亿元 同比增225%】盐湖股份发布三季报，前三季度净利润120.82亿元，同比增长225.2%；第三季度净利润29.25亿元，同比增长82.69%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2341145.d.html</link>
+            <guid>2841784</guid>
+            <pubDate>Thu, 27 Oct 2022 11:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析人士：美日今天走强更大程度上是受资金驱动】美元兑日元USD/JPY今天先是跌至145.10的低点，之后略有企稳。随着美元全面走强，买家重新进场，推动美元兑日元回升至146.47，接近当天的最高水平。除了一些关于日本经济刺激方案的消息外，并没有太多的消息推动美日走高。但这无论如何都不会影响市场。相反，市场在很大程度上是由资金驱动的，在过去几天的干预操作导致美日持续下跌之后，买家表现出了一些兴趣。美国国债收益率今天也走高，提升了市场情绪，美元目前找到了一个立足点。]]></title>
+            <guid>2841783</guid>
+            <pubDate>Thu, 27 Oct 2022 11:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【友邦保险：斥资约1.78亿港元回购292万股】友邦保险(01299.HK)在港交所发布公告，当日斥资约1.78亿港元回购292.28万股，每股回购价格为59.95-62.1港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3992142.d.html</link>
+            <guid>2841782</guid>
+            <pubDate>Thu, 27 Oct 2022 11:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中证协调研券商投行虚假陈述诉讼和应对情况】记者最新获悉，中证协今日起调研券商关于虚假陈述诉讼和应对情况。调研内容包括券商虚假陈述相关监管处罚情况，是否涉及正在进行的虚假陈述相关民事诉讼、以及是否存在已生效的虚假陈述相关民事诉讼判决等。券商还需反馈关于虚假陈述的应对措施和防范机制等内容。据了解，券商需在11月7日前完成反馈。（财联社）]]></title>
+            <guid>2841781</guid>
+            <pubDate>Thu, 27 Oct 2022 11:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧菲光：公司已取得20余家国内汽车厂商的供货商资质】欧菲光10月27日在互动平台回答投资者提问时表示，公司已取得20余家国内汽车厂商的供货商资质，并积极进行国外汽车厂商的供应商资质认证，客户既包含传统车企，也包含造车新势力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2340240.d.html</link>
+            <guid>2841780</guid>
+            <pubDate>Thu, 27 Oct 2022 11:38:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【证监会核发宁波远洋、光华股份IPO批文】证监会核准宁波远洋运输股份有限公司公开发行不超过1.31亿股新股；核准浙江光华科技股份有限公司公开发行不超过3200万股新股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2340172.d.html</link>
+            <guid>2841779</guid>
+            <pubDate>Thu, 27 Oct 2022 11:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度央行：货币政策委员会将于11月3日举行额外会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2340018.d.html</link>
+            <guid>2841778</guid>
+            <pubDate>Thu, 27 Oct 2022 11:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  江特电机：第三季度净利润6.12亿元，同比增长798.08%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3990480.d.html</link>
+            <guid>2841777</guid>
+            <pubDate>Thu, 27 Oct 2022 11:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行利率决议前，欧股跌幅扩大，法国CAC40指数日内跌幅达1%，德国DAX指数跌0.92%，欧洲斯托克50指数跌0.86%，意大利富时MIB指数跌0.66%。]]></title>
+            <guid>2841776</guid>
+            <pubDate>Thu, 27 Oct 2022 11:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  光线传媒：第三季度净亏损9876万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2339054.d.html</link>
+            <guid>2841775</guid>
+            <pubDate>Thu, 27 Oct 2022 11:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国常会：深入落实制造业增量留抵税额即申即退 支持企业纾困和发展】李克强主持召开国务院常务会议，要求深入落实制造业增量留抵税额即申即退，支持企业纾困和发展。会议指出，实施大规模增值税留抵退税，对助企纾困、稳经济发挥了关键作用，消化了大部分积累多年的留抵税额，对国有、民营、外资市场主体一视同仁。制造业新增留抵退税到账平均时间已压缩至2个工作日，要继续落实好这一即申即退举措，同时强化对小微企业、个体工商户的退税服务，确保应退尽退快退，保市场主体、保就业和民生。]]></title>
+            <guid>2841774</guid>
+            <pubDate>Thu, 27 Oct 2022 11:24:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国常会：听取财政金融政策工具支持重大项目建设和设备更新改造情况汇报 部署加快释放扩消费政策效应】李克强主持召开国务院常务会议，听取财政金融政策工具支持重大项目建设和设备更新改造情况汇报，部署加快释放扩消费政策效应。会议指出，要推动扩投资促消费政策加快见效。一是财政金融政策工具支持重大项目建设、设备更新改造，要在四季度形成更多实物工作量。推动项目加快开工建设，确保工程质量。支持民间投资参与重大项目。加快设备更新改造贷款投放，同等支持采购国内外设备，扩大制造业需求并引导预期。二是促进消费恢复成为经济主拉动力。扩大以工代赈以促就业增收入带消费，将消费类设备更新改造纳入再贷款和财政贴息支持范围。因城施策支持刚性和改善性住房需求。]]></title>
+            <guid>2841773</guid>
+            <pubDate>Thu, 27 Oct 2022 11:24:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【潞安环能：子公司筹划闲置产能转让】潞安环能公告，子公司山西潞安焦化有限责任公司拟将其持有的闲置焦化产能48万吨公开挂牌转让。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2338699.d.html</link>
+            <guid>2841772</guid>
+            <pubDate>Thu, 27 Oct 2022 11:22:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国常会：部署持续落实好稳经济一揽子政策和接续措施 推动经济进一步回稳向上】李克强主持召开国务院常务会议，部署持续落实好稳经济一揽子政策和接续措施，推动经济进一步回稳向上。会议指出，要全面学习把握落实党的二十大精神。一分部署、九分落实。各部门要继续勤勉履职抓落实，做好经济社会发展工作。今年4月份以来，贯彻党中央、国务院部署，应对超预期因素冲击，靠前实施中央经济工作会议和政府工作报告确定的政策，及时果断推出稳经济一揽子政策和接续措施。政策措施有力合理，有利于稳住当前，有利于持续发展。要通过抓落实持续释放政策效应，保持经济运行在合理区间。一是继续狠抓稳经济一揽子政策落地。督导和服务工作组要继续督导协调解决问题。二是更大激发市场活力和社会创造力。中国人民勤劳智慧，市场主体已超过1.6亿户，这也是中国经济韧性所在。要坚持改革开放，深化放管服改革，优化营商环境。对相关措施要督促检查落地。三是各地各方面都要履职尽责保民生，兜牢基本民生底线。]]></title>
+            <guid>2841771</guid>
+            <pubDate>Thu, 27 Oct 2022 11:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国全国碳排放权交易市场累计成交额超85亿元】中国生态环境部应对气候变化司司长李高27日在北京对记者表示，2021年7月，全国碳排放权交易市场正式启动上线交易。截至2022年10月21日，碳排放配额累计成交量约1.96亿吨，累计成交额85.8亿元人民币，市场运行总体平稳有序。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2338371.d.html</link>
+            <guid>2841770</guid>
+            <pubDate>Thu, 27 Oct 2022 11:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三联虹普：子公司与天圣化纤签署食品级聚酯(PET)瓶片SSP项目合同】三联虹普公告，控股子公司Polymetrix近期与浙江天圣化纤有限公司签署了食品级聚酯(PET)瓶片SSP项目合同，累计金额约合1.17亿元，占公司2021年度经审计营业收入的13.94%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3989404.d.html</link>
+            <guid>2841769</guid>
+            <pubDate>Thu, 27 Oct 2022 11:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德赛电池：三季度净利同比增34% 拟配股募资不超25亿元】德赛电池公告，公司三季度实现营业收入60.34亿元，同比增长22.21%；净利润2.98亿元，同比增长34.09%。前三季度实现净利润6.06亿元，同比增长23.27%。另外，公司拟按每10股配售不超过3股的比例向全体股东配售股份，募资总额不超过25亿元，用于补充流动资金及偿还借款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2338112.d.html</link>
+            <guid>2841768</guid>
+            <pubDate>Thu, 27 Oct 2022 11:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【人民银行潘功胜副行长赴中债信用增进投资公司开展调研】据交易商协会官网显示，10月27日上午人民银行党委委员、副行长潘功胜赴中债信用增进投资公司开展专题调研，并召开座谈会。人民银行货币政策司、金融市场司有关负责同志参加了调研和座谈。潘功胜副行长听取了中债增进公司工作汇报，对公司在完善风险管理体系、服务普惠金融发展、支持民营企业融资等方面取得的成绩给予充分肯定，对公司的专业精神、敬业精神给予高度认可。潘功胜副行长表示，中债增进公司深刻践行金融工作的政治性、人民性，提升专业性，坚守初心使命，勇于探索、积极创新，持续推动完善金融市场信用风险分散分担机制，认真落实“民营企业债券融资支持工具”部署，促进了金融市场的普惠、健康、稳定发展。特别是近期以来，中债增进公司担当作为，按照市场化、法治化原则，及时开展增信，支持民营房企发债融资工作，对维护民营房企债券融资稳定发挥了重要作用，产生了良好的效果。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2337938.d.html</link>
+            <guid>2841767</guid>
+            <pubDate>Thu, 27 Oct 2022 11:16:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【高盛：核心通胀压力将引导欧洲央行的紧缩路径】高盛资产管理公司宏观策略师Gurpreet Gill表示，近期天然气价格的下跌将在一定程度上缓解总体通胀，但欧洲央行的紧缩路径将继续受到核心通胀压力不断增强的影响，预计欧洲央行周四将加息75个基点，与市场定价一致。此后欧洲央行将会把利率上调至2.5%的限制性水平，以对抗通胀。通胀和通胀预期的进一步意外上行可能导致欧洲央行12月第三次加息75个基点，但随着经济显示出进一步放缓的迹象，我行预计欧央行将在12月加息50个基点。]]></title>
             <guid>2841766</guid>
@@ -54,538 +588,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3987837.d.html</link>
             <guid>2841759</guid>
             <pubDate>Thu, 27 Oct 2022 11:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【豫园股份：第三季度净利1.49亿元，同比下降45.35%】豫园股份公告，第三季度净利1.49亿元，同比下降45.35%；前三季度净利9.03亿元，同比下降46.79%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3987822.d.html</link>
-            <guid>2841758</guid>
-            <pubDate>Thu, 27 Oct 2022 11:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析人士：如果欧洲央行加息75个基点，欧元上行空间将受限】如果欧洲央行如市场普遍预期的那样在今晚加息75个基点，欧元的升值潜力似乎有限。分析师Ricardo Evangelista在一份报告中说，对欧洲经济前景的担忧将限制欧元的任何涨幅。欧元区东部的地缘政治局势不稳、持续的能源危机以及高通胀问题，都给投资者对欧元的情绪投下了“长长的阴影”。Evangelista表示，在可预见的未来，美元可能仍将是占主导地位的货币，尽管人们押注欧洲央行将在年底前和2023年第一季度进一步加息，但欧元仍可能保持疲弱。]]></title>
-            <guid>2841757</guid>
-            <pubDate>Thu, 27 Oct 2022 11:04:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【氯碱化工：第三季度净利2.53亿元，同比下降46.95%】氯碱化工公告，第三季度净利2.53亿元，同比下降46.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2336299.d.html</link>
-            <guid>2841756</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【太古股份公司A：回购93.95万股 耗资约4998万港元】太古股份公司A(00019.HK)在港交所发布公告，当日回购93.95万股，耗资约4998.30万港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3987560.d.html</link>
-            <guid>2841755</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【连云港：拟与上港集团共同出资设立合资公司】连云港公告，拟与上港集团共同出资设立合资公司连云港互联集装箱发展有限公司，双方一致同意，在合资公司成立后30日内缴付各自首期注册资本，合计缴纳出资5000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3987541.d.html</link>
-            <guid>2841754</guid>
-            <pubDate>Thu, 27 Oct 2022 11:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人保：第三季度净利56.45亿元，同比增长45.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2336190.d.html</link>
-            <guid>2841753</guid>
-            <pubDate>Thu, 27 Oct 2022 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人福医药：第三季度净利同比增长58.18%】人福医药公告，第三季度实现营业收入56.53亿元，同比增长8.88%；净利润6.83亿元，同比增长58.18%。前三季度实现净利润22.77亿元，同比增长108.1%，前三季度，公司核心医药产品保持稳定增长；汇率波动导致汇兑收益增加约1.69亿元；出售天风证券等的股权形成处置损益以及收回控股股东资金占用利息，形成非经常性损益约10.36亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3987473.d.html</link>
-            <guid>2841752</guid>
-            <pubDate>Thu, 27 Oct 2022 11:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：强劲的收入表现加上支出的限制，导致澳大利亚2023财年赤字收窄，总负债率低于预期。]]></title>
-            <guid>2841751</guid>
-            <pubDate>Thu, 27 Oct 2022 11:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国能源监管机构：由于气温比2018-2021年的平均气温高出2.5度，上周的天然气消费量再次大幅低于前四年的平均使用量。]]></title>
-            <guid>2841750</guid>
-            <pubDate>Thu, 27 Oct 2022 11:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法兴银行外汇策略师Kit Juckes：欧洲央行行长拉加德可能在周四的会议上明确将重点放在抗击通胀上，但这或不足以提振欧元。上述言论，再加上预期的75个基点加息，将表明不会出现对欧元不利的消息，但欧元若想要走强，则可能需要对欧元区经济增长的悲观情绪减弱。]]></title>
-            <guid>2841749</guid>
-            <pubDate>Thu, 27 Oct 2022 11:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：澳大利亚的预算显示短期内澳大利亚实力强劲，但面临结构性挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2335716.d.html</link>
-            <guid>2841748</guid>
-            <pubDate>Thu, 27 Oct 2022 11:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中远海特：第三季度净利同比增长62%】中远海特披露半年报，第三季度净利润4.34亿元，同比增长62.28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2335683.d.html</link>
-            <guid>2841747</guid>
-            <pubDate>Thu, 27 Oct 2022 11:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【牛津经济研究院：欧元区工资上涨 但不会螺旋式上升】牛津经济研究院高级经济学家卡塔琳娜•科恩兹在一份报告中认为，几乎没有迹象表明欧元区正处于工资-物价螺旋上升的边缘。预计工资水平将会补涨，料今年的协商工资将同比增长3.1%，2023年将增长4.8%，这将是相当大的增幅，但将低于平均通胀率，从而拖累私人消费，而不会加剧工资-物价螺旋上升。她表示，“考虑到能源危机、几乎肯定会出现的衰退、需求减少，以及难以转嫁更高的投入成本，企业将无法或不愿大幅提高工资。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3987060.d.html</link>
-            <guid>2841746</guid>
-            <pubDate>Thu, 27 Oct 2022 10:59:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【临港集团发行全球首单绿色双币种自贸区离岸债券】10月26日，临港集团成功发行全球首单绿色双币种自贸区离岸债券。其中，人民币募集规模10亿元，期限3年，票面利率2.98%，超2倍认购；欧元募集规模5000万元，期限1年，票面利率3%，超3倍认购。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3986963.d.html</link>
-            <guid>2841745</guid>
-            <pubDate>Thu, 27 Oct 2022 10:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海南高速：子公司投资9.2亿元开发琼海嘉浪雅居项目】海南高速公告，全资子公司海南高速瑞海置业有限公司投资9.2亿元开发琼海嘉浪雅居项目，项目将开发住宅、商业、酒店产品及幼儿园。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2335501.d.html</link>
-            <guid>2841744</guid>
-            <pubDate>Thu, 27 Oct 2022 10:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3个月美元Libor上升4.1个基点，至4.41471%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3986884.d.html</link>
-            <guid>2841743</guid>
-            <pubDate>Thu, 27 Oct 2022 10:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【许继电气：第三季度净利1.94亿元 同比增29.42%】许继电气公告，公司三季度实现营业收入29.86亿元，同比增长15.73%；净利润1.94亿元，同比增长29.42%。前三季度实现净利润6.48亿元，同比增长11.93%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3986838.d.html</link>
-            <guid>2841742</guid>
-            <pubDate>Thu, 27 Oct 2022 10:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华秦科技：签订3.97亿元隐身材料销售合同】华秦科技公告，与某客户签订批产项目销售合同，合同总金额为3.97亿元，合同标的为公司已批产隐身材料。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3986787.d.html</link>
-            <guid>2841741</guid>
-            <pubDate>Thu, 27 Oct 2022 10:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德媒：德政府计划批准瑞典Silex收购德国Elmos汽车芯片产线】据德国《商报》27日报道，政府消息人士称，德国政府计划批准瑞典Silex收购德国Elmos的汽车芯片产线。Silex是赛微电子位于瑞典的控股子公司。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3986035.d.html</link>
-            <guid>2841740</guid>
-            <pubDate>Thu, 27 Oct 2022 10:50:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洋河股份：第三季度净利润21.78亿元，同比增长40.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2334393.d.html</link>
-            <guid>2841739</guid>
-            <pubDate>Thu, 27 Oct 2022 10:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[弘业期货：前三季度净利润2883.66万元，同比下降44.63%；第三季度净亏损641.84万元。]]></title>
-            <guid>2841738</guid>
-            <pubDate>Thu, 27 Oct 2022 10:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【产能过剩？小型负极厂已上演“价格战” 头部企业称未受影响】从业内人士处了解到，小型负极厂产能过剩，已上演小范围“价格战”，而多家头部企业则透露，目前处于满产状态，产品供不应求。此外，多家头部负极厂反映石墨化紧缺程度缓解，杉杉股份相关人士表示：“如果明年石墨化大幅降价，相关产品价格将相应调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3985771.d.html</link>
-            <guid>2841737</guid>
-            <pubDate>Thu, 27 Oct 2022 10:47:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷CEO：将继续扩大资产管理规模。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3985645.d.html</link>
-            <guid>2841736</guid>
-            <pubDate>Thu, 27 Oct 2022 10:46:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普全球市场情报显示，瑞士信贷5年期信用违约互换从周三收盘的263个基点收窄至232个基点，为一个月来低点。]]></title>
-            <guid>2841735</guid>
-            <pubDate>Thu, 27 Oct 2022 10:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD日内涨幅扩大至0.50%，现报1.3616。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3985493.d.html</link>
-            <guid>2841734</guid>
-            <pubDate>Thu, 27 Oct 2022 10:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD日内跌超0.50%，现报1.0030。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3985467.d.html</link>
-            <guid>2841733</guid>
-            <pubDate>Thu, 27 Oct 2022 10:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽元兑美元NZD/USD日内跌幅达0.50%，现报0.5801。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3985449.d.html</link>
-            <guid>2841732</guid>
-            <pubDate>Thu, 27 Oct 2022 10:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【星球石墨：拟发行可转债募资不超过6.2亿元】星球石墨公告，拟发行可转债募资不超过6.2亿元，用于高性能石墨列管式换热器及石墨管道产业化项目、锂电池负极材料用石墨匣钵及箱体智能制造项目及补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2333985.d.html</link>
-            <guid>2841731</guid>
-            <pubDate>Thu, 27 Oct 2022 10:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【防范台风“尼格” 福建海事部门启动Ⅳ级应急响应】央视新闻据中央气象台消息，10月27日17时，台风“尼格”位于菲律宾马尼拉东偏南方向约1160公里（北纬11.3度、东经131.1度），最大风力8级，风速 20米/秒（约72公里/小时）将以每小时20公里左右的速度向西偏北方向移动，强度逐渐增强，未来将可能对福建沿海产生影响。福建海事局于27日17时启动海上防台风Ⅳ级应急响应。]]></title>
-            <guid>2841730</guid>
-            <pubDate>Thu, 27 Oct 2022 10:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[凯莱英：第三季度净利润9.8亿元，同比增长269.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3985301.d.html</link>
-            <guid>2841729</guid>
-            <pubDate>Thu, 27 Oct 2022 10:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【民航局机场司组织召开C919飞机机场运行保障专题工作会】民航局机场司组织召开C919飞机机场运行保障专题工作会。会上，中国商飞介绍了C919飞机的机场环境适应性评估情况，验证了机场飞行区技术指标和各类地面保障设备的适配性，同时组建专项攻关团队，围绕提升机场适配能力推动飞机设计优化，以确保飞机交付后在机场安全顺畅运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2333797.d.html</link>
-            <guid>2841728</guid>
-            <pubDate>Thu, 27 Oct 2022 10:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都高新区天使子基金首批集中签约，规模约40亿元】据界面，10月26日，成都高新区天使母基金管理人与创新工场、君联资本、梅花创投、险峰资本、松禾资本、阿米巴资本、中信聚信、道远资本、元生创投9家合作机构集中签约，规模约40亿元，首批子基金将聚焦芯片、工业软件、创新药、AI硬科技等产业领域。去年11月，成都高新区规划未来五年推出总计3000亿元的产业基金，其中将设立100亿元天使母基金，重点扶持成都高新区初创期科技型企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2333758.d.html</link>
-            <guid>2841727</guid>
-            <pubDate>Thu, 27 Oct 2022 10:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【铜陵有色：第三季度净利4.68亿元 同比降58.51%】铜陵有色公告，公司三季度实现营业收入267.58亿元，同比下降17.84%；净利润4.68亿元，同比下降58.51%。前三季度实现净利润18.61亿元，同比下降24.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3984972.d.html</link>
-            <guid>2841726</guid>
-            <pubDate>Thu, 27 Oct 2022 10:40:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今日0时至15时，北京新增本土感染者3例，涉3区，其中社会面筛查人员1例。（北京日报）]]></title>
-            <guid>2841725</guid>
-            <pubDate>Thu, 27 Oct 2022 10:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新疆发行5年期一般债地方债，规模5.9500亿元，发行利率2.6900%，边际倍数15.48倍，倍数预期5.39；新疆发行10年期其他专项地方债，规模51.3000亿元，发行利率2.9200%，边际倍数2.10倍，倍数预期1.94；新疆发行10年期棚改专项地方债，规模7.0000亿元，发行利率2.9200%，边际倍数2.06倍，倍数预期2.10；新疆发行15年期其他专项地方债，规模48.4000亿元，发行利率3.0900%，边际倍数2.00倍，倍数预期2.02；新疆发行15年期收费公路专项地方债，规模3.0000亿元，发行利率3.0900%，边际倍数2.00倍，倍数预期2.19；新疆发行20年期其他专项地方债，规模13.3000亿元，发行利率3.1800%，边际倍数4.16倍，倍数预期2.02；新疆发行5年期普通专项地方债，规模0.4700亿元，发行利率2.6900%，边际倍数4.89倍，倍数预期6.44。]]></title>
-            <guid>2841724</guid>
-            <pubDate>Thu, 27 Oct 2022 10:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[默克预计全财年调整后每股收益为7.32-7.37美元，预期7.25-7.35美元。]]></title>
-            <guid>2841723</guid>
-            <pubDate>Thu, 27 Oct 2022 10:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广电运通：第三季度净利同比增10%】广电运通披露三季报，公司第三季度实现营业收入16.89亿元，同比增长9.56%；净利润2.55亿元，同比增长10.33%。前三季度实现净利润6.67亿元，同比增长10.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2332934.d.html</link>
-            <guid>2841722</guid>
-            <pubDate>Thu, 27 Oct 2022 10:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【歌尔股份：预计2022年净利40.6亿元-47亿元 同比-5%–10%】歌尔股份披露三季报，第三季度净利17.61亿元，同比增长9.98%。同日公告，预计2022年净利润40.6亿元-47亿元，较上年同期同比-5%–10%；受宏观经济和行业因素的影响，公司智能声学整机业务盈利略有下降，同时公司的VR虚拟现实、智能游戏机主机等智能硬件业务保持了健康成长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3984306.d.html</link>
-            <guid>2841721</guid>
-            <pubDate>Thu, 27 Oct 2022 10:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[江西铜业：第三季度净利润12.6亿元，同比下降13.79%，扣非净利润同比增长45.8%。]]></title>
-            <guid>2841720</guid>
-            <pubDate>Thu, 27 Oct 2022 10:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟能源委员西姆森：联合购买的天然气量至少应相当于欧盟天然气储存能力的15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2332570.d.html</link>
-            <guid>2841719</guid>
-            <pubDate>Thu, 27 Oct 2022 10:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科拓生物：签订益生菌授权协议】科拓生物公告，与Centro Sperimentale del Latte S.r.l.签订益生菌授权协议，公司授权Centro Sperimentale del Latte S.r.l.在欧洲和北美地区独家生产、营销和销售公司植物乳杆菌P-8菌株（Lactobacillus plantarum P-8）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2332345.d.html</link>
-            <guid>2841718</guid>
-            <pubDate>Thu, 27 Oct 2022 10:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙商银行：资金营运中心获准开业】浙商银行公告，公司近日收到中国银保监会上海监管局批复，同意公司资金营运中心开业，并核发《金融许可证》。]]></title>
-            <guid>2841717</guid>
-            <pubDate>Thu, 27 Oct 2022 10:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长华集团：拟6000万元-1.2亿元回购股份】长华集团公告，公司拟以6000万元-1.2亿元回购股份，回购价格不超过17元/股。为维护公司价值及股东权益，公司所回购股份将按照有关规定用于后续出售。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3983687.d.html</link>
-            <guid>2841716</guid>
-            <pubDate>Thu, 27 Oct 2022 10:30:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国钢铁工业协会副会长骆铁军会见中国煤炭工业协会纪委书记张宏一行】 10月26日上午，中国钢铁工业协会副会长骆铁军会见中国煤炭工业协会纪委书记、副秘书长张宏一行，围绕加强信息交流、研究建立中长期合同履约自律机制、共同推进煤钢产业长期稳定合作等进行了交流。双方一致认为，钢铁和煤炭作为重要的基础性原料行业，要积极贯彻落实党的二十大精神，促进产业链供应链安全和稳定，要继续在钢铁和焦煤领域实施“年度定量、季度定价”的中长期合同机制。在新形势下，两个协会要进一步探索行业协调机制，搭建更紧密的供需合作和交流平台，研究做好中长期合同履约自律等相关工作，促进上下游企业建立长期稳定的战略合作关系。]]></title>
-            <guid>2841715</guid>
-            <pubDate>Thu, 27 Oct 2022 10:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝壳控股：10月26日回购耗资875万美元】贝壳控股发布的翌日披露报表显示，公司于10月26日回购约80万股ADS（美国存托股份），共耗资约875万美元，回购价格为10.5-11.3美元。据统计，自9月1日贝壳启动回购以来，已进行了32个交易日的回购，共斥资约1.55亿美元，累计回购近1175万股ADS。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2332160.d.html</link>
-            <guid>2841714</guid>
-            <pubDate>Thu, 27 Oct 2022 10:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华域汽车：第三季度净利润23.6亿元 同比增长19.7%】华域汽车发布2022年第三季度报告，实现营业收入445.64亿元，同比增长32.14%；归属于上市公司股东的净利润23.60亿元，同比增长19.70%。小财注：Q2净利8.11亿元，据此计算，Q3净利环比增长191%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2332002.d.html</link>
-            <guid>2841713</guid>
-            <pubDate>Thu, 27 Oct 2022 10:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅同沙特外交大臣费萨尔主持召开中沙高委会政治外交分委会第四次会议】中共中央政治局委员、国务委员兼外长王毅同沙特外交大臣费萨尔主持召开中沙高级别联合委员会政治外交分委会第四次会议。王毅说，中方高度重视中沙关系发展，将沙特置于中国外交全局尤其是中东地区外交的优先位置。沙特感谢中方支持阿拉伯人民正义事业，感谢中方支持在中东地区建立无大规模杀伤性武器区，赞赏中方倡议搭建海湾地区多边对话平台。沙方愿同中方不断推进政治、经济、投资等领域务实合作水平。]]></title>
-            <guid>2841712</guid>
-            <pubDate>Thu, 27 Oct 2022 10:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卓胜微：第三季度净利2.33亿元 同比降54.58%】卓胜微(300782)10月27日晚间披露三季报，公司三季度实现营业收入7.82亿元，同比下降30.48%；净利润2.33亿元，同比下降54.58%。前三季度实现净利润9.85亿元，同比下降35.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2331784.d.html</link>
-            <guid>2841711</guid>
-            <pubDate>Thu, 27 Oct 2022 10:25:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马来西亚柔佛州一石油化工项目发生爆炸】据央视新闻，当地时间10月27日，马来西亚柔佛州一石油化工项目发生爆炸，具体损伤情况不明。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2331725.d.html</link>
-            <guid>2841710</guid>
-            <pubDate>Thu, 27 Oct 2022 10:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天顺风能：第三季度净利同比降44%】天顺风能披露三季报，第三季度净利润1.3亿元，同比下降44.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2331692.d.html</link>
-            <guid>2841709</guid>
-            <pubDate>Thu, 27 Oct 2022 10:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度智能云联合罗兰贝格发布中国保险行业白皮书】罗兰贝格携手百度智能云近日发布《中国保险行业数智化展望及全球案例分析白皮书》，并于10月27日在线举办发布仪式。白皮书显示，根据2021年行业规模测算，保险行业数智化转型升级后，直接成本效益可达2100亿元，占去年保险行业保费收入的4.6%、国民生产总值的2‰。发布会上，百度表示，百度智能云“三智”解决方案将持续打造行业领先的保险新基建，协助保险机构快速、稳步实现数智化转型升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3983086.d.html</link>
-            <guid>2841708</guid>
-            <pubDate>Thu, 27 Oct 2022 10:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙商银行：资金营运中心获准开业】浙商银行(601916)10月27日晚间公告，公司近日收到中国银保监会上海监管局批复，同意公司资金营运中心开业，并核发《金融许可证》。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2331632.d.html</link>
-            <guid>2841707</guid>
-            <pubDate>Thu, 27 Oct 2022 10:24:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韦德布什：将威富集团(VFC.N)目标价从35美元下调至29美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2331591.d.html</link>
-            <guid>2841706</guid>
-            <pubDate>Thu, 27 Oct 2022 10:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将Teladoc Health(TDOC.N)目标价从38美元下调至36美元。]]></title>
-            <guid>2841705</guid>
-            <pubDate>Thu, 27 Oct 2022 10:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华恒生物：三季度净利同比增120% 拟定增募资不超17.27亿元】华恒生物(688639)10月27日晚间披露三季报，公司三季度实现营业收入3.55亿元，同比增长46.93%；净利润8804.53万元，同比增长120.4%。前三季度实现净利润2.17亿元，同比增长112.61%。华恒生物同时公告，拟定增募资不超17.27亿元，扣用于年产5万吨生物基丁二酸及生物基产品原料生产基地建设项目、年产5万吨生物基苹果酸生产建设项目、补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2331227.d.html</link>
-            <guid>2841704</guid>
-            <pubDate>Thu, 27 Oct 2022 10:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杭州新增2例新冠病毒无症状感染者】“杭州发布”微信公众号消息，10月27日0-18时，杭州新增2例新冠病毒无症状感染者，卡口拦截发现。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3982510.d.html</link>
-            <guid>2841703</guid>
-            <pubDate>Thu, 27 Oct 2022 10:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新宙邦：前三季度净利14.42亿元 同比增66.17%】新宙邦(300037)10月27日晚间披露三季报，公司三季度实现营业收入23.38亿元，同比增长22.25%；净利润4.38亿元，同比增长1.71%。前三季度实现净利润14.42亿元，同比增长66.17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3982457.d.html</link>
-            <guid>2841702</guid>
-            <pubDate>Thu, 27 Oct 2022 10:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中色股份：前三季度净利同比增179%】中色股份披露三季报，公司第三季度实现营业收入16.78亿元，同比增长17.55%；净利润1.60亿元，同比增长655.25%。前三季度实现净利润4.18亿元，同比增长178.86%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3982320.d.html</link>
-            <guid>2841701</guid>
-            <pubDate>Thu, 27 Oct 2022 10:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华恒生物：拟定增募资不超过17.27亿元】华恒生物公告，拟定增募资不超过17.27亿元，用于年产5万吨生物基丁二酸及生物基产品原料生产基地建设项目、年产5万吨生物基苹果酸生产建设项目及补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2330603.d.html</link>
-            <guid>2841699</guid>
-            <pubDate>Thu, 27 Oct 2022 10:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中基协：截至9月末私募管理基金规模20.39万亿元 环比下降0.05%】截至2022年9月末，存续私募基金管理人24,129家，较上月减少147家，环比下降0.61%；管理基金数量139,570只，较上月增加1,778只，环比增长1.29%；管理基金规模20.39万亿元，较上月减少104.27亿元，环比下降0.05%。其中，私募证券投资基金管理人9,100家，较上月减少38家，环比下降0.42%；私募股权、创业投资基金管理人14,630家，较上月减少96家，环比下降0.65%；私募资产配置类基金管理人9家，与上月持平；其他私募投资基金管理人390家，较上月减少13家，环比下降3.23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2330585.d.html</link>
-            <guid>2841698</guid>
-            <pubDate>Thu, 27 Oct 2022 10:15:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法兴银行：预计欧洲央行将加息75个基点 终端利率将达3%】预计欧洲央行将在今晚的会议上再次加息75个基点，明年春季前还会进行更多加息，除非出现更深度的衰退，否则预计2023年年中终端利率将达到3%。更快速的加息也将量化紧缩（QT）提上日程，现在预计欧央行在2023年年中逐步开始QT。然而，由于资产负债表对金融稳定和避免金融碎片化发挥着重要作用，将需要对QT选项和市场沟通进行仔细评估。紧缩措施最初聚焦于私营部门资产，允许更大的资本额比重灵活性和/或更快地削减定向长期再融资操作（TLTRO），这些措施将有助于缓解任何市场波动或日益加剧的金融碎片化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2330427.d.html</link>
-            <guid>2841697</guid>
-            <pubDate>Thu, 27 Oct 2022 10:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金岭南：第三季度净利1.97亿元 同比降39.88%】中金岭南(000060)10月27日晚间披露三季报，公司三季度实现营业收入110.8亿元，同比下降7.45%；净利润1.97亿元，同比下降39.88%。前三季度实现净利润10.46亿元，同比增长5.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3981850.d.html</link>
-            <guid>2841695</guid>
-            <pubDate>Thu, 27 Oct 2022 10:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【千寻位置：提供港口数字化转型的时空基础设施】 千寻位置与宁波舟山港北仑第二集装箱码头对外揭晓“全国首个北斗时空智能全场景应用港口”。 千寻位置以北斗为基础，通过时空智能技术，将生产要素数字化，场地、泊位、集卡、桥吊、船舶和集装箱等码头机械设施，正在快速实现数字化远程操控。“宁波舟山港面向智能化、数字化的改造具备重要的战略意义，会为未来其他港口数字化带来深远影响。”千寻位置 CEO 陈金培指出。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2330156.d.html</link>
-            <guid>2841694</guid>
-            <pubDate>Thu, 27 Oct 2022 10:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场成交惨淡，沿海煤炭运输价格持续下跌】据上海航运交易所，中国沿海煤炭运价指数CBCFI报915.35点，跌3.3%。近日，北方港口货盘稀少，市场成交惨淡，情绪比较低迷，各方观望情绪加剧。大船需求略好，中小型船运价跌幅较大，船多货少局面持续，沿海煤炭运输价格持续下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3981572.d.html</link>
-            <guid>2841693</guid>
-            <pubDate>Thu, 27 Oct 2022 10:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中海油服：第三季度净利9.61亿元 同比增47.6%】中海油服(601808)10月27日晚间披露三季报，公司三季度实现营业收入90.33亿元，同比增长26.4%；净利润9.61亿元，同比增长47.6%。前三季度实现净利润20.63亿元，同比增长42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3981524.d.html</link>
-            <guid>2841692</guid>
-            <pubDate>Thu, 27 Oct 2022 10:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷CFO：将在未来几周内就全面出售证券化产品部门（SPG）的事宜做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3981367.d.html</link>
-            <guid>2841691</guid>
-            <pubDate>Thu, 27 Oct 2022 10:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【翰宇药业：醋酸阿托西班原料药上市申请获批】翰宇药业(300199)10月27日晚间公告，全资子公司翰宇武汉的醋酸阿托西班原料药收到国家药监局签发的《化学原料药上市申请批准通知书》，标志着翰宇武汉取得该原料药国内市场销售资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2329855.d.html</link>
-            <guid>2841690</guid>
-            <pubDate>Thu, 27 Oct 2022 10:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【圣诺生物：第三季度净利2036.5万元 同比增7.05%】圣诺生物(688117)10月27日晚间披露三季报，第三季度，公司实现营收9292.2万元，同比增长8.7%，净利润2036.5万元，同比增长7.05%。前三季度营收、净利润分别为为2.6亿元、3900.6万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3981207.d.html</link>
-            <guid>2841689</guid>
-            <pubDate>Thu, 27 Oct 2022 10:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【煌上煌：第三季度净利457.13万元 同比降86.4%】煌上煌(002695)10月27日晚间披露三季报，公司三季度实现营业收入4.36亿元，同比下降17.23%；净利润457.13万元，同比下降86.4%。前三季度实现净利润8448.68万元，同比下降53.97%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3980885.d.html</link>
-            <guid>2841688</guid>
-            <pubDate>Thu, 27 Oct 2022 10:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【均瑶健康：第三季度净利同比增长71.55%】均瑶健康(605388)10月27日晚发布2022年第三季度报告，公司第三季度营收3.04亿元，同比增长35.99%，归母净利润3348.94万元，同比增长71.55%，归母扣非净利润2813.87万元，同比增长82.06%。整体来看，今年前三季度营收高达8.45亿元，同比增长20.62%；归母净利润7891.11万元，降幅明显收窄。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3980770.d.html</link>
-            <guid>2841687</guid>
-            <pubDate>Thu, 27 Oct 2022 10:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家公路交通安全管理局：福特汽车(F.N)申请召回31339辆美国汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3980661.d.html</link>
-            <guid>2841686</guid>
-            <pubDate>Thu, 27 Oct 2022 10:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉在美国召回24064辆Model 3汽车，因安全带组装有误】美国国家公路交通安全管理局披露，10月21日，特斯拉(TSLA.O)申请召回24064辆2017-2022年的Model 3，原因是第二排左侧安全带扣和中央安全带锚可能在车辆维修期间被错误地重新组装，从而在碰撞中损害安全带的性能，增加受伤的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3980518.d.html</link>
-            <guid>2841685</guid>
-            <pubDate>Thu, 27 Oct 2022 10:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中微公司：第三季度净利同比增长124%】中微公司公告，第三季度营业收入10.71亿元，同比增长45.9%；净利润3.25亿元，同比增长123.91%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3980369.d.html</link>
-            <guid>2841684</guid>
-            <pubDate>Thu, 27 Oct 2022 10:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多氟多：前三季度净利17.29亿元 同比增135%】多氟多披露三季报，公司三季度实现营业收入32.68亿元，同比增长36.06%；净利润3.27亿元，同比下降23.95%。前三季度实现净利润17.29亿元，同比增长134.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3980349.d.html</link>
-            <guid>2841683</guid>
-            <pubDate>Thu, 27 Oct 2022 10:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏农银行：前三季净利增20.65%，不良率降至0.94%】 江苏苏州农村商业银行发布的2022年三季报显示，截至2022年9月末，苏农银行的资产总额为1761.55亿元，较上年末增长10.98%。2022年前三季，苏农银行的营业收入为30.54亿元，同比增长6.72%；归属于母公司股东的净利润为12.52亿元，同比增长20.65%。截至2022年9月末，苏农银行的不良贷款率较年初降至0.94%，拨备覆盖率较年初增至437.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2328753.d.html</link>
-            <guid>2841682</guid>
-            <pubDate>Thu, 27 Oct 2022 10:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10月CBI零售销售差值 18，预期-15，前值-20。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2328700.d.html</link>
-            <guid>2841681</guid>
-            <pubDate>Thu, 27 Oct 2022 10:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国光股份：拟引入员工持股平台对子公司国光园林增资】国光股份公告，公司拟对全资子公司国光园林进行股份制改造，并筹划新三板挂牌；同时，为调动经营管理团队积极性，拟引入成都贝克尔企业管理咨询合伙企业（有限合伙）等5个员工持股平台以货币方式对国光园林实施增资，拟合计增资不超过4000万元，获得不超过国光园林注册资本的11.765%的股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3980073.d.html</link>
-            <guid>2841680</guid>
-            <pubDate>Thu, 27 Oct 2022 10:00:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法兴银行前瞻美国三季度GDP：我们预计美国第三季度GDP实际增长3.0%，这是本周的关键经济数据。或许有可能高于3.0%，这对衰退“呼声”有什么影响呢？我们认为将引导对衰退问题的短暂重新考虑。随着薪酬压力的增加，企业正变得更加保守。]]></title>
-            <guid>2841679</guid>
-            <pubDate>Thu, 27 Oct 2022 09:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧派家居：拟1.25亿元-2.5亿元回购股份】欧派家居(603833)10月27日晚间公告，公司拟以1.25亿元-2.5亿元回购股份，用于员工持股计划、股权激励、可转债转股，回购价格不超过155元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3979559.d.html</link>
-            <guid>2841678</guid>
-            <pubDate>Thu, 27 Oct 2022 09:55:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大皇家银行前瞻美国三季度GDP：我们预计美国第三季度GDP增长1.8%，净贸易额的激增和消费支出的温和增长部分抵消了居民投资的疲软和库存的减少，从而推动GDP增长。]]></title>
-            <guid>2841677</guid>
-            <pubDate>Thu, 27 Oct 2022 09:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李子园：拟发行可转债募资不超过6亿元】李子园公告，拟发行可转债募资不超过6亿元，用于年产15万吨含乳饮料生产线扩产及技术改造项目、补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3979310.d.html</link>
-            <guid>2841676</guid>
-            <pubDate>Thu, 27 Oct 2022 09:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国选手李冰洁在女子400米自由泳决赛中以3分51秒30的成绩夺冠，超过该项目短池世界纪录。（新华社）]]></title>
-            <guid>2841675</guid>
-            <pubDate>Thu, 27 Oct 2022 09:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯迪生态：法院裁定批准重整计划】 凯迪生态环境科技股份有限公司公告，2022年10月25日，管理人收到了武汉中院《民事裁定书》，裁定批准凯迪生态等二十一家公司重整计划，并终止重整程序。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3979258.d.html</link>
-            <guid>2841674</guid>
-            <pubDate>Thu, 27 Oct 2022 09:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冀中能源：第三季度净利14.14亿元 同比增99.88%】冀中能源(000937)10月27日晚间披露三季报，公司三季度实现营业收入90.63亿元，同比增长0.57%；净利润14.14亿元，同比增长99.88%。前三季度实现净利润39.85亿元，同比增长191.52%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqmmthc2327688.d.html</link>
-            <guid>2841673</guid>
-            <pubDate>Thu, 27 Oct 2022 09:53:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【未接种疫苗人士由广东入境澳门的核酸检测阴性报告有效期拟缩短为24小时】澳门新型冠状病毒感染应变协调中心表示，经与内地相关部门商议后，计划将推出关于入境澳门方面的新措施，由广东省（包括深圳）入境澳门的相关人士，如没有接种新型冠状病毒疫苗，其入境所需的核酸检测阴性报告有效期将缩短为24小时，而5岁以下人士和持有医生证明不适合接种疫苗者可获豁免，具体措施详情将于稍后公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3979166.d.html</link>
-            <guid>2841672</guid>
-            <pubDate>Thu, 27 Oct 2022 09:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【过渡期不足70天 超9万亿元理财产品整改加速】现金管理类产品正迎来加速整改。近期，招银理财、中邮理财、兴业银行等多家银行及理财公司发布公告，对旗下的现金管理类产品进行整改，涉及投资范围、投资比例、申赎规则、估值方法等。现金管理类产品整改与2021年6月银保监会颁布的《关于规范现金管理类理财产品管理有关事项的通知》有关。中国证券报·中证金牛座记者了解到，为满足新规中关于产品规模控制的相关要求，多家理财公司已增加注册资本，以提高产品规模上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3979149.d.html</link>
-            <guid>2841671</guid>
-            <pubDate>Thu, 27 Oct 2022 09:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织官员：国际货币基金组织将向埃及提供30亿美元的援助资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3979042.d.html</link>
-            <guid>2841670</guid>
-            <pubDate>Thu, 27 Oct 2022 09:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国海油：前三季度净利润1087.68亿元 同比增长106%】中国海油披露三季报，第三季度营业收入1087.9亿元，同比增长70.99%；净利润368.81亿元，同比增长89.06%。营业收入增长主要系国际油价上升和销量增加带来收入增加。前三季度，公司实现净利润1087.68亿元，同比增长105.86%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3978927.d.html</link>
-            <guid>2841669</guid>
-            <pubDate>Thu, 27 Oct 2022 09:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[货币市场预计英国央行11月加息幅度不到75个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3978760.d.html</link>
-            <guid>2841668</guid>
-            <pubDate>Thu, 27 Oct 2022 09:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列国防部长访问土耳其】当地时间10月27日，土耳其国防部长阿卡尔在首都安卡拉与以色列国防部长甘茨举行会面，这是两国防长近10年来的首次会晤。随后土以代表团开始举行会谈。据悉，土耳其总统埃尔多安当日也将接见甘茨。]]></title>
-            <guid>2841667</guid>
-            <pubDate>Thu, 27 Oct 2022 09:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨表示，从2023年起，德国液化天然气终端将能够向欧洲邻国供应天然气。]]></title>
-            <guid>2841666</guid>
-            <pubDate>Thu, 27 Oct 2022 09:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国石油：前三季净利1202.66亿元 同比增长60%】中国石油披露三季报，前三季度营业收入24554.01亿元，同比增长30.6%；归属于母公司股东的净利润1202.66亿元，同比增长60.1%。第三季度净利润378.8亿元，同比增长71.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-27/detail-imqqsmrp3978492.d.html</link>
-            <guid>2841665</guid>
-            <pubDate>Thu, 27 Oct 2022 09:47:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

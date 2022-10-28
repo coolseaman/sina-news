@@ -4,11 +4,507 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 28 Oct 2022 07:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 08:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[离岸人民币兑美元持续走低，日内跌近300点，一度跌至7.28。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2445208.d.html</link>
+            <guid>2842814</guid>
+            <pubDate>Fri, 28 Oct 2022 08:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖北宜化：第三季度净利4.85亿元 同比降36.28%】湖北宜化公告，公司三季度实现营业收入50.56亿元，同比下降17.46%；净利润4.85亿元，同比下降36.28%。前三季度实现净利润21.51亿元，同比增长44.62%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2445177.d.html</link>
+            <guid>2842813</guid>
+            <pubDate>Fri, 28 Oct 2022 08:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油短线走高近0.4美元，报88.56美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2445145.d.html</link>
+            <guid>2842812</guid>
+            <pubDate>Fri, 28 Oct 2022 08:26:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所：本周铜库存减少26126吨，铝库存减少6142吨，锌库存减少13319吨，铅库存减少2089吨，镍库存减少377吨，锡库存减少375吨，天然橡胶库存增加267吨。]]></title>
+            <guid>2842811</guid>
+            <pubDate>Fri, 28 Oct 2022 08:25:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【好未来2023财年第二季度净营收2.9亿美元 同比下滑79.6%】好未来今日公布了截至2022年8月31日的2023财年第二季度财报。财报显示，好未来第二财季净营收为2.941亿美元，与上年同期的14.439亿美元相比下滑79.6%。归属于好未来的净亏损为80万美元，而上年同期净亏损8.265亿美元。不按美国通用会计准则（Non-GAAP），归属于好未来的净利润为2660万美元，而上年同期净亏损为7.601亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4093774.d.html</link>
+            <guid>2842810</guid>
+            <pubDate>Fri, 28 Oct 2022 08:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金跌破1650美元/盎司，日内跌0.80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4093119.d.html</link>
+            <guid>2842809</guid>
+            <pubDate>Fri, 28 Oct 2022 08:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华润微：设立控股子公司负责建设深圳12吋线项目】华润微：控股子公司华微深圳与深圳市地方国资相关法人等在深圳市共同出资设立控股子公司润鹏半导体（深圳）有限公司，注册资本为1亿元，其中华微深圳持有项目公司75%股权。项目公司主要负责建设华润微电子深圳300mm集成电路生产线项目，总投资规模约220亿元。公司与深圳市政府将共同推动其他第三方投资者进行出资。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2444370.d.html</link>
+            <guid>2842808</guid>
+            <pubDate>Fri, 28 Oct 2022 08:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【宏润建设：中标3.5亿元工程项目】宏润建设公告，公司近日收到宁波市公共资源交易平台中标通知书，东部新城明湖南区工程（二期）隧建段（施工）II标段项目由公司中标承建，工程中标价3.5亿元，占公司2021年度营业收入的3.39%。]]></title>
+            <guid>2842807</guid>
+            <pubDate>Fri, 28 Oct 2022 08:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今世缘：第三季度净利4.63亿元，同比增长27.32%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2444098.d.html</link>
+            <guid>2842806</guid>
+            <pubDate>Fri, 28 Oct 2022 08:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德业股份：拟定增募资不超35.5亿元】德业股份公告，拟定增募资不超35.5亿元，用于年产 25.5GW 组串式、储能式逆变器生产线建设项目、年产 3GW 微型逆变器生产线建设项目、逆变器研发中心建设项目以及补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4092693.d.html</link>
+            <guid>2842805</guid>
+            <pubDate>Fri, 28 Oct 2022 08:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华菱钢铁：第三季度净利13.1亿元 同比降40.17%】华菱钢铁披露三季报，公司三季度实现营业收入400.69亿元，同比下降20.46%；净利润13.1亿元，同比下降40.17%。前三季度实现净利润51.31亿元，同比下降33.91%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2443877.d.html</link>
+            <guid>2842804</guid>
+            <pubDate>Fri, 28 Oct 2022 08:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国央行行长：金融风险整体收敛、总体可控】中国人民银行行长易纲28日向全国人大常委会作国务院关于金融工作情况的报告时表示，中国金融改革发展稳定，各项工作有力推进，防范化解重大金融风险取得重要成果，金融风险整体收敛、总体可控，金融体系经受住了复杂环境的冲击考验。针对未来工作，报告称，将全面加强和完善金融监管，进一步提升金融监管有效性，弥补监管短板，强化金融风险源头管控。坚守监管主责主业，把好金融机构准入关，加强对股东资质和股东行为监管，坚决纠正违规关联交易，防止大股东操纵和内部人控制。依法将各类金融活动全部纳入监管，加强对非法金融活动的认定，严厉打击“无照驾驶”行为。（中国新闻网）]]></title>
+            <guid>2842803</guid>
+            <pubDate>Fri, 28 Oct 2022 08:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至港股收盘，港股通（沪）每日额度420.00亿元剩余387.65亿元，占比92.30%；截至港股收盘，港股通（深）每日额度420.00亿元剩余397.50亿元，占比94.64%。]]></title>
+            <guid>2842802</guid>
+            <pubDate>Fri, 28 Oct 2022 08:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构论市：两市再创新低 沪指面临2900点保卫战】容维证券：技术上看，沪深两市经过跳空下行后震荡回落并在午后加速创出新低，沪指最低达到2900附近，K线呈空头排列，5日均线对指数压制作用明显，沪指在中线指标MACD显示死叉，两市的板块大多数下行，中期趋势较差，成交量仍然是最大的影响因素。目前，伴随着板块轮动加快，指数剧烈震动，依据容维软件给出的提示，严格把握选股的原则和持股仓位就成为重中之重，股票的估值和基本面情况应引起投资者关注，注意回避绩差高价个股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4092198.d.html</link>
+            <guid>2842801</guid>
+            <pubDate>Fri, 28 Oct 2022 08:13:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【联合国环境署：目前各国减排承诺“几乎没有希望”避免气候灾难】联合国环境规划署27日表示，目前各国减少温室气体排放的承诺几乎没有希望避免气候灾难。环境署紧急呼吁能源部门彻底转型，以免为时已晚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4091878.d.html</link>
+            <guid>2842800</guid>
+            <pubDate>Fri, 28 Oct 2022 08:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港恒生指数收跌3.66% 电力、汽车股跌幅居前】香港恒生指数收跌3.66%，恒生科技指数跌5.56%，电力、汽车股跌幅居前，科技股普跌，小鹏汽车跌超14%，理想汽车、哔哩哔哩跌超10%，比亚迪股份、蔚来、华润电力跌超9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4091615.d.html</link>
+            <guid>2842799</guid>
+            <pubDate>Fri, 28 Oct 2022 08:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行调查：2023年通胀预期为5.8%，而欧洲央行9月宏观经济预测为5.5%；2024年预期为2.4%，而欧洲央行预测为2.3%。]]></title>
+            <guid>2842798</guid>
+            <pubDate>Fri, 28 Oct 2022 08:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股美股盘前普跌，小鹏汽车盘前跌超9%，理想汽车盘前跌超8%，哔哩哔哩盘前跌超7%，京东盘前跌6%，蔚来汽车、拼多多盘前跌5%。]]></title>
+            <guid>2842797</guid>
+            <pubDate>Fri, 28 Oct 2022 08:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[涪陵榨菜：第三季度净利润1.8亿元，同比增长41.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4091409.d.html</link>
+            <guid>2842796</guid>
+            <pubDate>Fri, 28 Oct 2022 08:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英特尔美股盘前涨逾5%，第三季度净利润超预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2442347.d.html</link>
+            <guid>2842794</guid>
+            <pubDate>Fri, 28 Oct 2022 08:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY突破111，日内涨0.42%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4091000.d.html</link>
+            <guid>2842793</guid>
+            <pubDate>Fri, 28 Oct 2022 08:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内下跌2.00%，现报19.19美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4090875.d.html</link>
+            <guid>2842792</guid>
+            <pubDate>Fri, 28 Oct 2022 08:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威主权财富基金第三季度损失430亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2442125.d.html</link>
+            <guid>2842791</guid>
+            <pubDate>Fri, 28 Oct 2022 08:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【桂冠电力：拟合计33.96亿投资开发多个光伏、风电项目】桂冠电力公告，计划投资建设广西港北庆丰光伏项目、平南县东华镇55MWp农光互补光伏发电项目、马山县林圩大塘农光互补光伏发电项目、马山县林圩新华农光互补光伏发电项目、桂冠山西稷山100MW光储一体化项目共5个光伏项目，广西大化都阳风电项目、广西天峨县更新风电项目共2个风电项目，合计项目总投资额约33.96亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2442019.d.html</link>
+            <guid>2842790</guid>
+            <pubDate>Fri, 28 Oct 2022 08:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行：房地产贷款增速回落，房地产开发贷款增速提升】人民银行统计，2022年三季度末，人民币房地产贷款余额53.29万亿元，同比增长3.2%，比上年末增速低4.7个百分点；前三季度增加8488亿元，占同期各项贷款增量的4.7%。2022年三季度末，房地产开发贷款余额12.67万亿元，同比增长2.2%，增速比上半年高2.4个百分点，比上年末高1.3个百分点。个人住房贷款余额38.91万亿元，同比增长4.1%，增速比上年末低7.2个百分点。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4090651.d.html</link>
+            <guid>2842789</guid>
+            <pubDate>Fri, 28 Oct 2022 08:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊美股盘前跌超13%，Q3营收1271亿美元，不及市场预期；净利润同比下降9%至29亿美元。]]></title>
+            <guid>2842788</guid>
+            <pubDate>Fri, 28 Oct 2022 08:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国第三季度经济经调整同比增长1.2%，预估为0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4090413.d.html</link>
+            <guid>2842787</guid>
+            <pubDate>Fri, 28 Oct 2022 08:01:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【银保监会：香港地区银行在内地的营业性机构网点已达454家】银保监会相关部门负责人表示，截至目前，共有15家香港地区银行在内地设立9家法人银行、14家母行直属分行和3家代表处，香港地区银行在内地的营业性机构网点达454家。香港地区保险机构在内地共设立了2家保险公司和8家代表处。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4090301.d.html</link>
+            <guid>2842786</guid>
+            <pubDate>Fri, 28 Oct 2022 08:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国总理朔尔茨将访华？外交部：会适时发布消息】外交部发言人汪文斌今日主持例行记者会。有记者提问，中方能否确认德国总理朔尔茨将访华的消息？“关于你提到的这个问题，中方会适时发布消息。”汪文斌回应道。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4090277.d.html</link>
+            <guid>2842785</guid>
+            <pubDate>Fri, 28 Oct 2022 08:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京称俄支持沙特加入金砖国家，外交部表态】有记者提问，昨天俄罗斯总统普京表示，俄罗斯支持沙特阿拉伯加入金砖国家，中方有何评论？外交部发言人汪文斌表示，作为今年的金砖主席国，中方积极支持金砖国家扩员进程。在今年6月23日举行的金砖国家领导人第十四次会晤上，金砖国家领导人就金砖扩员达成重要共识，支持讨论扩员标准和程序。会后，有许多国家提出了参加金砖国家合作的申请。“中方将同其他金砖国家一道合作推进扩员进程，让更多志同道合的伙伴加入金砖大家庭。”汪文斌称。（澎湃）]]></title>
+            <guid>2842784</guid>
+            <pubDate>Fri, 28 Oct 2022 07:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百联股份：前三季度营收251.06亿元 建设供应链激发市场活力】百联股份披露2022年第三季度报告。报告显示，公司前三季度实现营业收入251.06亿元，归母净利润-1.90亿元。在多措并举促进消费复苏的同时，百联股份不断加强供应链管理建设，提升企业内在核心竞争力。报告期内，百联股份一方面与JBP品牌战略合作，进一步提高经营业绩，拓展美妆品类，巩固传统优势。另一方面，公司结合自身购物中心和品牌优势，加强场景体验感打造，激发客户消费需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2441379.d.html</link>
+            <guid>2842783</guid>
+            <pubDate>Fri, 28 Oct 2022 07:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【桂林三金：前三季净利同比增长10.75% 拟10派4元】桂林三金披露三季报，前三季度营业收入14.39亿元，同比增长14.6%；净利润3.24亿元，同比增长10.75%。其中第三季度净利润2146.79万元，同比下降53.03%。公司拟每10股派发股利4元（含税），预计共分配股利2.35亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4090050.d.html</link>
+            <guid>2842782</guid>
+            <pubDate>Fri, 28 Oct 2022 07:58:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：前9个月银行业金融机构为中小微企业等办理延期还本付息金额5.11万亿】 银保监会相关部门负责人表示，银保监会督促银行落实好延期还本付息政策。要求银行积极帮扶因疫情暂时遇困行业企业，避免出现行业性限贷、抽贷、断贷。督促银行按市场化原则与中小微企业和个体工商户、货车司机等自主协商，对其贷款实施延期还本付息，努力做到应延尽延。2022年前9个月，银行业金融机构为214.62万户中小微企业、个体工商户、货车司机贷款办理了延期还本付息，延期金额为5.11万亿元。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4089984.d.html</link>
+            <guid>2842781</guid>
+            <pubDate>Fri, 28 Oct 2022 07:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美发布《2022年核态势审议报告》，外交部：中方严正关切并坚决反对。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2441088.d.html</link>
+            <guid>2842780</guid>
+            <pubDate>Fri, 28 Oct 2022 07:56:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克收购推特公司，外交部：不予置评】 外交部发言人汪文斌主持例行记者会。有记者提问，特斯拉CEO埃隆·马斯克现在控制了推特，并于今天解雇了一些推特公司的高层管理人员。考虑到外交部有不少外交官都使用推特，中方对马斯克这个举动有何评论？“我想大家都清楚，世界上有很多人在使用推特，不只是中国的外交官，我们对有关的商务活动不予置评。”（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4089720.d.html</link>
+            <guid>2842779</guid>
+            <pubDate>Fri, 28 Oct 2022 07:55:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【银保监会：三季度末银行业总资产373.9万亿元 同比增长10.2%】银保监会相关部门负责人表示，三季度末，银行业总资产373.9万亿元，同比增长10.2%。其中，各项贷款同比增长10.7%。保险业总资产26.7万亿元，同比增长9.8%。保险资金运用余额24.5万亿元，同比增长9.3%。保险公司原保险保费收入3.8万亿元，同比增长4.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4089670.d.html</link>
+            <guid>2842778</guid>
+            <pubDate>Fri, 28 Oct 2022 07:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京密云区发现2例感染者】10月28日，密云区发现2例新冠肺炎病毒感染者，曾到访过外省市风险点位，现居住地址分别为密云区鼓楼街道行宫南区、密云区果园街道通用博园小区。目前，2人已转运至定点医院进行隔离治疗。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4089429.d.html</link>
+            <guid>2842777</guid>
+            <pubDate>Fri, 28 Oct 2022 07:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【殷勇任北京市副市长、代市长】10月28日，北京市十五届人大常委会第四十四次会议决定，接受陈吉宁辞去北京市市长职务的请求，殷勇任北京市副市长、代理市长。 (北京日报)]]></title>
+            <guid>2842776</guid>
+            <pubDate>Fri, 28 Oct 2022 07:51:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【银保监会：三季度末银行不良贷款率1.74% 较年初下降0.06个百分点】银保监会相关部门负责人表示，三季度末，银行业金融机构不良贷款余额3.8万亿元，较年初增加2030亿元，不良贷款率1.74%，较年初下降0.06个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2440125.d.html</link>
+            <guid>2842775</guid>
+            <pubDate>Fri, 28 Oct 2022 07:49:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：银行业保险业扩大开放，支持香港金融业稳定发展】银保监会有关部门负责人近日指出，银保监会在认真履行入世承诺并不断自主开放的基础上，通过《内地与香港关于建立更紧密经贸关系的安排》（CEPA）框架对香港实施更高水平的开放。下一步，银保监会将继续坚定不移地推进高水平对外开放，坚定不移地支持香港发展经济，充分发挥香港在构建国内国际双循环格局中的独特优势，深化香港同各国各地区更加开放、更加密切的交往合作，加快推进粤港澳大湾区建设，支持香港更好地融入国家发展大局，持续巩固提升香港国际金融中心地位。（证券时报）]]></title>
+            <guid>2842774</guid>
+            <pubDate>Fri, 28 Oct 2022 07:48:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[内蒙古发行10年期收费公路专项地方债，规模25.0000亿元，发行利率2.9600%，边际倍数2.44倍，倍数预期2.47；内蒙古发行15年期轨交专项地方债，规模15.0000亿元，发行利率3.1300%，边际倍数2.00倍，倍数预期2.35；内蒙古发行15年期乡村专项地方债，规模15.0000亿元，发行利率3.1300%，边际倍数2.03倍，倍数预期2.49。]]></title>
+            <guid>2842773</guid>
+            <pubDate>Fri, 28 Oct 2022 07:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：2018年以来宣布34条开放新措施，目前法规修订工作已全面完成】银保监会相关部门负责人表示，银保监会坚决贯彻落实党中央、国务院对外开放方针政策，不断提高对外开放水平。2018年以来，银保监会在入世承诺基础上宣布了34条开放新措施，分步骤分阶段取消银行保险外资股比限制，减少外资准入数量型门槛，基本实现中外资业务范围一致。截至目前，34条开放新措施的法规修订工作已经全面完成，一批具有专业特色的优质外资金融机构进入中国市场。（21财经）]]></title>
+            <guid>2842772</guid>
+            <pubDate>Fri, 28 Oct 2022 07:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：银行业保险业保持平稳运行良好态势】据21财经，银保监会相关部门负责人表示，今年以来，银保监会不折不扣贯彻落实党中央国务院重大决策部署，坚持稳字当头、稳中求进，引导银行业保险业全力支持实体经济发展，稳住宏观经济大盘，防范化解重大金融风险，着力实现“稳增长”与“防风险”的平衡，银行业保险业保持平稳运行的良好态势。]]></title>
+            <guid>2842771</guid>
+            <pubDate>Fri, 28 Oct 2022 07:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【兴业消费金融公司注册资本增加至53.2亿】企查查APP显示，近日，兴业消费金融股份公司发生工商变更，公司注册资本由19亿元人民币增至53.2亿元人民币，增幅达180%。企查查信息显示，该公司成立于2014年，法定代表人为郑海清，经营范围包含：发放个人消费贷款；接受股东境内子公司及境内股东的存款等，由兴业银行、特步（中国）有限公司等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4088452.d.html</link>
+            <guid>2842770</guid>
+            <pubDate>Fri, 28 Oct 2022 07:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京东：家电预售订单金额同比增长近50%】京东方面10月28日披露，10月20日京东11.11预售期开始以来，京东家电整体预售订单金额同比增长近50%。海尔、美的、小天鹅、TCL、格力等家电大牌预售订单金额同比增长超70%。数码电子方面，预售期间，折叠屏手机品类销量同比增长超300%，VR眼镜同比增长超3倍，游戏投影、微单相机、游戏机等品类同比增长均超过100%。此外，24日晚8点开启1小时，京东新百货美妆品类预售订单额同比增长超10倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4088386.d.html</link>
+            <guid>2842769</guid>
+            <pubDate>Fri, 28 Oct 2022 07:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公募整体调仓出炉！显著增配两大"安全"线】近日，随着三季报披露结束，公募基金的整体调仓路径也随之浮出水面。整体来看，三季度以来，公募基金主要对能源安全、国防安全两大“安全”线进行了明显增配，煤炭和国防军工的持仓配比明显上升，其中军工的配置比例创下历史新高。在“新半军”中，除了军工获得明显加仓，基金对新能源产业链和半导体产业链的配置均出现了明显的结构性分化，新能源汽车产业链遭全线减仓，光伏、风电、储能等则获得增配；半导体多数环节继续遭减仓，半导体设备、材料获结构性加仓。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4087943.d.html</link>
+            <guid>2842767</guid>
+            <pubDate>Fri, 28 Oct 2022 07:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：国有大行已超额完成全年1.6万亿普惠型小微企业贷款增量目标】据21财经，银保监会相关部门负责人表示，2022年9月末，全国小微企业贷款余额58.04万亿元，其中普惠型小微企业贷款余额22.93万亿元，同比增速24.10%，较各项贷款增速高13.18个百分点，有贷款余额户数3811.04万户，同比增加626.39万户。国有大型银行普惠型小微企业贷款余额8.36万亿元，较年初增长1.89万亿元，已超额完成全年1.6万亿元增量目标。2022年前9个月，国有大型银行新发放普惠型小微企业贷款利率4.04%，较2021年下降0.2个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4087925.d.html</link>
+            <guid>2842766</guid>
+            <pubDate>Fri, 28 Oct 2022 07:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国移动与贵州省政府签署战略合作协议】10月27日，中国移动通信集团有限公司与贵州省政府签署战略合作协议。中国移动将继续加大在贵州省的建设投资力度，重点支持贵州建设全国一体化大数据中心国家枢纽节点、国家新型互联网交换中心，助力贵州打造世界一流的数据中心产业集群，促进贵州信息消费升级。贵州省政府将支持中国移动参与全省新型工业化发展、新型城镇化、农业现代化、旅游产业化进程，从市政规划、配套建设等方面对中国移动在贵州的发展给予重点支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2439124.d.html</link>
+            <guid>2842765</guid>
+            <pubDate>Fri, 28 Oct 2022 07:40:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【9月CTSI货运指数基本恢复至去年同期水平】据央视新闻，今天，交通运输部科学研究院发布的中国运输生产指数（CTSI）显示，9月CTSI货运指数基本恢复至去年同期水平。2022年9月，中国运输生产指数为146.8点，同比下降8.0%。分结构看，CTSI货运指数为193.5点，同比下降0.1%；CTSI客运指数为60.3点，同比下降37.2%。]]></title>
+            <guid>2842764</guid>
+            <pubDate>Fri, 28 Oct 2022 07:40:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：三季度末银行业金融机构拨备覆盖率203.4%】据21财经，银保监会相关部门负责人表示，三季度末，银行业金融机构拨备余额7.8万亿元，拨备覆盖率203.4%，同比上升11.6个百分点。商业银行资本充足率15.09%，同比上升0.29个百分点。保险公司平均综合偿付能力充足率220.8%，平均核心偿付能力充足率148.1%，继续保持较好水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2438928.d.html</link>
+            <guid>2842763</guid>
+            <pubDate>Fri, 28 Oct 2022 07:39:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行：计划在11月发行9.9万亿韩元的货币稳定债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4087333.d.html</link>
+            <guid>2842762</guid>
+            <pubDate>Fri, 28 Oct 2022 07:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  迎驾贡酒：第三季度净利润4.34亿元，同比增长13.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4087318.d.html</link>
+            <guid>2842761</guid>
+            <pubDate>Fri, 28 Oct 2022 07:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  老白干酒：第三季度净利润1.7亿元，同比增长36.56%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4087186.d.html</link>
+            <guid>2842760</guid>
+            <pubDate>Fri, 28 Oct 2022 07:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上汽集团：第三季度净利润57.4亿元，同比下降18.43%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2438508.d.html</link>
+            <guid>2842759</guid>
+            <pubDate>Fri, 28 Oct 2022 07:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【地产债多数收跌，世茂、龙湖、碧桂园跌幅居前】截至收盘，“19世茂04”跌超51%，“20龙湖02”跌超36%，“21龙湖05”跌超31%，“21碧地02”、“16腾越02”跌超19%，“20碧地02”、“19碧地02”跌超16%，“20碧地03”跌超14%，“21新控01”跌近7%，“20时代07”、“21金地03”跌超4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4087150.d.html</link>
+            <guid>2842758</guid>
+            <pubDate>Fri, 28 Oct 2022 07:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国央行：住户经营性贷款增速回升，住户消费贷款增速持续回落】中国央行：2022年三季度末，本外币住户贷款余额74.52万亿元，同比增长7.2%，增速比上半年低1个百分点，比上年末低5.3个百分点；前三季度增加3.42万亿元，同比少增2.93万亿元。2022年三季度末，本外币住户经营性贷款余额18.53万亿元，同比增长16.1%，比上半年高1个百分点，比上年末低3个百分点；前三季度增加2.31万亿元，同比少增303亿元。住户消费性贷款（不含个人住房贷款）余额17.08万亿元，同比增长5.4%，增速比上半年低0.4个百分点，比上年末低4.1个百分点；前三季度增加5141亿元，同比少增5587亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4087099.d.html</link>
+            <guid>2842757</guid>
+            <pubDate>Fri, 28 Oct 2022 07:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数期货下跌1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2438373.d.html</link>
+            <guid>2842756</guid>
+            <pubDate>Fri, 28 Oct 2022 07:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国央行：工业中长期贷款增速持续提升】2022年三季度末，本外币工业中长期贷款余额16.08万亿元，同比增长23.3%，增速比各项贷款高12.6个百分点，比上半年高2.1个百分点，比上年末高0.7个百分点；前三季度增加2.63万亿元，同比多增5860亿元。其中，重工业中长期贷款余额13.74万亿元，同比增长22.4%，增速比上年末高0.9个百分点；轻工业中长期贷款余额2.34万亿元，同比增长28.4%，增速比上年末低0.7个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2438185.d.html</link>
+            <guid>2842755</guid>
+            <pubDate>Fri, 28 Oct 2022 07:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国央行：房地产贷款增速回落，房地产开发贷款增速提升】2022年三季度末，人民币房地产贷款余额53.29万亿元，同比增长3.2%，比上年末增速低4.7个百分点；前三季度增加8488亿元，占同期各项贷款增量的4.7%。2022年三季度末，房地产开发贷款余额12.67万亿元，同比增长2.2%，增速比上半年高2.4个百分点，比上年末高1.3个百分点。个人住房贷款余额38.91万亿元，同比增长4.1%，增速比上年末低7.2个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2438170.d.html</link>
+            <guid>2842754</guid>
+            <pubDate>Fri, 28 Oct 2022 07:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日全国碳市场收盘价58.00元/吨，较前一日下跌0.85%】今日全国碳市场碳排放配额（CEA）挂牌协议交易成交量5000吨，成交额290000.00元，开盘价58.00元/吨，最高价58.00元/吨，最低价58.00元/吨，收盘价58.00元/吨，收盘价较前一日下跌0.85%。今日无大宗协议交易。（全国碳交易）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4086764.d.html</link>
+            <guid>2842753</guid>
+            <pubDate>Fri, 28 Oct 2022 07:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国央行：2022年三季度末，金融机构人民币各项贷款余额210.76万亿元，同比增长11.2%；前三季度人民币贷款增加18.08万亿元，同比多增1.36万亿元。]]></title>
+            <guid>2842752</guid>
+            <pubDate>Fri, 28 Oct 2022 07:32:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交易所收盘】上海黄金交易所黄金T+D 10月28日（周五）收盘下跌0.04%报392.35元/克；上海黄金交易所白银T+D 10月28日（周五）收盘下跌0.46%报4542.0元/千克。]]></title>
+            <guid>2842751</guid>
+            <pubDate>Fri, 28 Oct 2022 07:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：不会对汇率水平发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2438042.d.html</link>
+            <guid>2842750</guid>
+            <pubDate>Fri, 28 Oct 2022 07:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：日本有遭受强势日元影响的历史。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2438023.d.html</link>
+            <guid>2842749</guid>
+            <pubDate>Fri, 28 Oct 2022 07:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：货币政策不针对汇率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2437616.d.html</link>
+            <guid>2842748</guid>
+            <pubDate>Fri, 28 Oct 2022 07:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：目前的收益率曲线是恰当的，收益率曲线现在达到了它的目的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2437594.d.html</link>
+            <guid>2842747</guid>
+            <pubDate>Fri, 28 Oct 2022 07:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【下周多家房企将付息！碧桂园、世茂、保利】 下周，世茂、碧桂园、保利等多家房企公司债将迎来付息兑付日。据统计，至少7只、累计规模超100亿元的房企债券将集中付息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2437488.d.html</link>
+            <guid>2842746</guid>
+            <pubDate>Fri, 28 Oct 2022 07:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：最近日元突然走弱，对经济不利。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4086110.d.html</link>
+            <guid>2842745</guid>
+            <pubDate>Fri, 28 Oct 2022 07:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：疲弱日元的影响因经济实体而异。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2437404.d.html</link>
+            <guid>2842744</guid>
+            <pubDate>Fri, 28 Oct 2022 07:27:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【南向资金净流入达50亿元】截至发稿，南向资金净流入达50亿元，其中，港股通（沪）净流入30.9亿元，港股通（深）净流入19.2亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2437381.d.html</link>
+            <guid>2842743</guid>
+            <pubDate>Fri, 28 Oct 2022 07:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：根本没有考虑过停止刺激物价的政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4086055.d.html</link>
+            <guid>2842742</guid>
+            <pubDate>Fri, 28 Oct 2022 07:26:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：距离2%的目标确实越来越近了。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4085908.d.html</link>
+            <guid>2842741</guid>
+            <pubDate>Fri, 28 Oct 2022 07:24:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国工程院院士陈学东：制造领域全国重点实验室建设名单即将公布】据科创板日报，中国科学技术协会副主席、中国工程院院士陈学东今日在苏州举行的“2022中国实体经济论坛”上表示，制造领域全国重点实验室的布局是围绕产业链部署创新链，根据制造业基础、共性技术、工业母机技术和重大装备技术布局，按照国家战略，能够满足问题与需求，已完成遴选，很快将公布结果。此前，科技部已遴选出首批20个标杆全国重点实验室批准建设。]]></title>
+            <guid>2842740</guid>
+            <pubDate>Fri, 28 Oct 2022 07:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：从历史上看，利差与汇率无关。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4085791.d.html</link>
+            <guid>2842738</guid>
+            <pubDate>Fri, 28 Oct 2022 07:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：市场认为，利率差异是日元走弱的原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4085769.d.html</link>
+            <guid>2842737</guid>
+            <pubDate>Fri, 28 Oct 2022 07:23:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：尽管现在前景仍不明朗，海外货币紧缩导致的过度、严重衰退不太可能发生，我们必须考虑风险。]]></title>
+            <guid>2842736</guid>
+            <pubDate>Fri, 28 Oct 2022 07:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【淘宝与快手恢复外链合作，从天猫双11起持续向前】自2022年10月28日0时起，淘宝与快手的亲密合作关系重新“激活”。天猫双11期间，商家通过淘宝联盟，在快手直播间购物车、短视频购物车、商详页等模块发布商品及服务链接功能已陆续恢复，到10月31日将全部恢复完成。此次淘宝与快手恢复外链合作，意味着用户在消费路径上有了更多元的选择，在快手平台内部，就可以便捷体验到由淘宝提供优质商品和服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2436923.d.html</link>
+            <guid>2842735</guid>
+            <pubDate>Fri, 28 Oct 2022 07:22:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数期货跌1%，纳指期货跌1.3%，道指期货跌0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4085542.d.html</link>
+            <guid>2842733</guid>
+            <pubDate>Fri, 28 Oct 2022 07:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银鑫任职快手董事长】企查查APP显示，近日，北京快手科技有限公司工商信息发生变更，快手联合创始人银鑫任职北京快手科技有限公司董事长、经理职务，杨远熙职务由监事变更为董事。同时，新增董事史椰森、监事贾弘毅、财务负责人王履冰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4085509.d.html</link>
+            <guid>2842732</guid>
+            <pubDate>Fri, 28 Oct 2022 07:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东东莞试行灵活就业人员缴存公积金：在校生和外籍人员纳入】10月28日，广东省东莞市住房公积金管理中心发布《关于试行灵活就业人员参加住房公积金制度的通知》，该文件自发布之日起试行两年。《通知》显示，年满16周岁未达法定退休年龄，以个体经营、非全日制、新业态等方式灵活就业的完全民事行为能力人可按照本通知参加住房公积金制度。未参缴的个体工商户及其雇员、台港澳人员和外籍人员、在校生可参照灵活就业人员参加住房公积金制度。已参缴的个体工商户及其雇员、台港澳人员和外籍人员可自行选择以单位在岗职工或灵活就业人员身份参加住房公积金制度。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2436758.d.html</link>
+            <guid>2842731</guid>
+            <pubDate>Fri, 28 Oct 2022 07:21:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY日内涨幅扩大至0.50%，现报146.98。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2436351.d.html</link>
+            <guid>2842730</guid>
+            <pubDate>Fri, 28 Oct 2022 07:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：进口价格上涨带来的价格传导是必要的，也是有利的，但除非加上工资增长，否则无法保证持续、稳定的通胀。]]></title>
+            <guid>2842729</guid>
+            <pubDate>Fri, 28 Oct 2022 07:18:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线下挫逾20点，报0.9952，英镑兑美元GBP/USD短线下挫25点，现报1.1518。]]></title>
+            <guid>2842728</guid>
+            <pubDate>Fri, 28 Oct 2022 07:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行行长黑田东彦：不清楚工会联合会Rengo 5%的工资目标会产生什么影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2436252.d.html</link>
+            <guid>2842727</guid>
+            <pubDate>Fri, 28 Oct 2022 07:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【两部门：有力遏制资本过度炒作 维护光伏产业公平竞争秩序】国家发展改革委办公厅、国家能源局综合司发布《关于促进光伏产业链健康发展有关事项的通知》。其中提到，严格贯彻落实价格法、反垄断法，加强市场监测，发现扰乱市场秩序的问题线索，及时约谈相关市场主体，推动依法合规经营；从严查处散布虚假涨价信息、囤积居奇等哄抬价格行为，以及达成垄断协议、滥用市场支配地位等垄断行为，有力遏制资本过度炒作，维护行业公平竞争秩序。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2436227.d.html</link>
+            <guid>2842726</guid>
+            <pubDate>Fri, 28 Oct 2022 07:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10月28日沪深两市涨停分析】沪深两市震荡回调，消费板块表现不佳。直真科技、久其软件、新天药业均收获3连板，一图看懂>>]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2436207.d.html</link>
+            <guid>2842725</guid>
+            <pubDate>Fri, 28 Oct 2022 07:17:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美元指数DXY短线上扬近20点，现报110.83。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4084643.d.html</link>
@@ -92,507 +588,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2435204.d.html</link>
             <guid>2842711</guid>
             <pubDate>Fri, 28 Oct 2022 07:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北向资金全天净卖出20亿元】北向资金全天净卖出20.32亿元，此前连续3日净买入；本周累计减仓127亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4083876.d.html</link>
-            <guid>2842710</guid>
-            <pubDate>Fri, 28 Oct 2022 07:09:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两部门：创造条件支持多晶硅先进产能按期达产 鼓励多晶硅企业合理控制产品价格水平】国家发展改革委办公厅、国家能源局综合司发布关于促进光伏产业链健康发展有关事项的通知。其中提到，创造条件支持多晶硅先进产能按期达产支持多晶硅企业加强技术创新研发，提升生产线自动化、数字化、信息化、智能化水平，降低能耗水平，提高生产效率与产品优良率。推动建设项目按期投产达产。鼓励上下游一体化、战略合作、互相参股、签订长单，支持建设光伏产业园区。鼓励国有、民营等各类资本参与产业链各环节，有效限制低端产能无序扩张。鼓励多晶硅企业合理控制产品价格水平，在遵循公平竞争原则前提下，结合市场供需形势、生产成本及合理利润水平等因素，引导多晶硅等产品价格维持在合理区间，相关企业可享受政府支持政策，纳入政府及行业重点企业支持政策清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2435062.d.html</link>
-            <guid>2842709</guid>
-            <pubDate>Fri, 28 Oct 2022 07:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：不认为美国和欧洲只把通胀归咎于宽松政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4083759.d.html</link>
-            <guid>2842708</guid>
-            <pubDate>Fri, 28 Oct 2022 07:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今日沪深两市主力资金净流出579.83亿元，占比6.37%；大单资金净流出316.98亿元，占比3.48%；小单资金净流入534.21亿元，占比5.87%。]]></title>
-            <guid>2842707</guid>
-            <pubDate>Fri, 28 Oct 2022 07:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本与美国和欧洲的物价状况不同。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2434977.d.html</link>
-            <guid>2842706</guid>
-            <pubDate>Fri, 28 Oct 2022 07:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国办：明年底前初步形成全国一体化政务大数据体系】国务院办公厅印发全国一体化政务大数据体系建设指南。其中建设目标提到，2023年底前，全国一体化政务大数据体系初步形成，基本具备数据目录管理、数据归集、数据治理、大数据分析、安全防护等能力，数据共享和开放能力显著增强，政务数据管理服务水平明显提升。全面摸清政务数据资源底数，建立政务数据目录动态更新机制，政务数据质量不断改善。建设完善人口、法人、自然资源、经济、电子证照等基础库和医疗健康、社会保障、生态环保、应急管理、信用体系等主题库，并统一纳入全国一体化政务大数据体系。政务大数据管理机制、标准规范、安全保障体系初步建立，基础设施保障能力持续提升。政务数据资源基本纳入目录管理，有效满足数据共享需求，数据服务稳定性不断增强。]]></title>
-            <guid>2842705</guid>
-            <pubDate>Fri, 28 Oct 2022 07:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内走低1.00%，现报19.39美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2434615.d.html</link>
-            <guid>2842704</guid>
-            <pubDate>Fri, 28 Oct 2022 07:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【物价上涨，韩国拟释放蔬菜和食盐储备】韩国政府28日说，鉴于泡菜制作季临近而国内通货膨胀持续，政府将释放蔬菜和食盐储备。按照韩国企划财政部和农业部计划，韩国政府下周起将释放5000吨大蒜、1.4吨辣椒、3.6吨洋葱和500吨食盐储备。韩国经济副总理兼企划财政部长官秋庆镐当日在首尔举行的一场会议上说：“受国内外风险因素影响，在相当长一段时间内，预计物价持续高于过去水平。”（央视新闻）]]></title>
-            <guid>2842703</guid>
-            <pubDate>Fri, 28 Oct 2022 07:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿维塔与华为达成合作 阿维塔11将于年内进驻华为北京、深圳旗舰店】记者从知情人士处了解到，长安、华为、宁德时代三方合作公司阿维塔科技已与华为达成一致，旗下首款车型阿维塔11将于今年年内正式入驻华为位于北京、深圳的旗舰店。截至目前，阿维塔全国直营门店数量已突破60家，覆盖北上广深等一线城市，以及成都、重庆等20余个新一线城市，同步完成超70家汽车经销商、150余家合作门店授权，全年渠道触点突破200家。（财联社）]]></title>
-            <guid>2842702</guid>
-            <pubDate>Fri, 28 Oct 2022 07:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本的利率远低于中性利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2434550.d.html</link>
-            <guid>2842701</guid>
-            <pubDate>Fri, 28 Oct 2022 07:04:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本的中性利率取决于潜在增长率，目前还无法确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4083231.d.html</link>
-            <guid>2842700</guid>
-            <pubDate>Fri, 28 Oct 2022 07:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【收评：沪深两市震荡回调 消费板块表现不佳】10月28日消息，大盘全天震荡下跌，创业板指领跌，沪指跌逾2%，刷新阶段新低。板块方面，仅酒店餐饮板块较活跃，其余板块均处于下跌状态，汽车产业链板块普跌，种植、养殖等农业股低迷，化工相关概念板块下挫，消费板块表现不佳。总体来看，两市个股呈普跌态势，超4400股飘绿。盘面上，仅酒店及餐饮板块上涨，转基因、钠离子电池、养殖业板块跌幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4083103.d.html</link>
-            <guid>2842699</guid>
-            <pubDate>Fri, 28 Oct 2022 07:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内商品期货多数收跌】国内商品期货多数收跌，铁矿石、沪锡主力合约跌超4%，PTA、豆油、棕榈油、沥青、20号胶、热卷跌超3%，橡胶、沪锌、沪铝、螺纹钢跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2434307.d.html</link>
-            <guid>2842698</guid>
-            <pubDate>Fri, 28 Oct 2022 07:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[截至今日收盘，上证指数大市成交额为3852.61亿元（上一交易日成交额为3813.3亿元），成交量为2.93亿手（上一交易日为2.66亿手）；深证成指大市成交额为5243.97亿元（上一交易日成交额为5425.79亿元），成交量为4.4亿手（上一交易日为4.27亿手）。]]></title>
-            <guid>2842697</guid>
-            <pubDate>Fri, 28 Oct 2022 07:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内跌超1.00%，现报87.69美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2434216.d.html</link>
-            <guid>2842696</guid>
-            <pubDate>Fri, 28 Oct 2022 07:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士10月KOF经济领先指标录得90.9，为2020年6月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082939.d.html</link>
-            <guid>2842695</guid>
-            <pubDate>Fri, 28 Oct 2022 07:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧股开盘，英国富时100指数跌0.95%，欧洲斯托克50指数跌0.96%，德国DAX指数跌0.97%。]]></title>
-            <guid>2842694</guid>
-            <pubDate>Fri, 28 Oct 2022 07:01:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙10月CPI年率初值 7.3%，预期8.00%，前值8.90%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2434157.d.html</link>
-            <guid>2842693</guid>
-            <pubDate>Fri, 28 Oct 2022 07:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙第三季度GDP年率初值 3.8%，预期3.90%，前值6.80%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082843.d.html</link>
-            <guid>2842692</guid>
-            <pubDate>Fri, 28 Oct 2022 07:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙第三季度GDP季率初值 0.2%，预期0.30%，前值1.50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082806.d.html</link>
-            <guid>2842691</guid>
-            <pubDate>Fri, 28 Oct 2022 07:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙10月CPI月率 0.4%，预期0.95%，前值-0.70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2434002.d.html</link>
-            <guid>2842690</guid>
-            <pubDate>Fri, 28 Oct 2022 07:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士10月KOF经济领先指标 90.9，预期93.2，前值93.8。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082730.d.html</link>
-            <guid>2842689</guid>
-            <pubDate>Fri, 28 Oct 2022 07:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家卫健委：截至2022年10月27日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗343940.8万剂次。]]></title>
-            <guid>2842688</guid>
-            <pubDate>Fri, 28 Oct 2022 06:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：尽管海外经济放缓，但预计日本经济将继续增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433827.d.html</link>
-            <guid>2842687</guid>
-            <pubDate>Fri, 28 Oct 2022 06:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：海外经济放缓将拖累日本出口和工业产出。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082584.d.html</link>
-            <guid>2842686</guid>
-            <pubDate>Fri, 28 Oct 2022 06:59:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【币安确认在马斯克收购推特交易中进行了股权投资】币安证实其在埃隆·马斯克以440亿美元收购推特的交易中是股权投资者。币安在5月份表示已承诺为这宗交易出资5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433788.d.html</link>
-            <guid>2842685</guid>
-            <pubDate>Fri, 28 Oct 2022 06:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沪深两市成交额突破9000亿元】截至目前，沪深两市成交额突破9000亿元，其中沪市成交额3815亿元，深市成交额5187亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433723.d.html</link>
-            <guid>2842684</guid>
-            <pubDate>Fri, 28 Oct 2022 06:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：将继续关注债券市场功能下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082449.d.html</link>
-            <guid>2842683</guid>
-            <pubDate>Fri, 28 Oct 2022 06:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“21龙湖05”跌超31%，盘中临时停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082435.d.html</link>
-            <guid>2842682</guid>
-            <pubDate>Fri, 28 Oct 2022 06:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：在量化紧缩方面，我们必须谨慎开始，并逐步加速。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082417.d.html</link>
-            <guid>2842681</guid>
-            <pubDate>Fri, 28 Oct 2022 06:57:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本即将实现稳定、可持续的通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082397.d.html</link>
-            <guid>2842680</guid>
-            <pubDate>Fri, 28 Oct 2022 06:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：不认为收益率曲线控制是导致日元走弱的原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082385.d.html</link>
-            <guid>2842679</guid>
-            <pubDate>Fri, 28 Oct 2022 06:57:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾南部洪灾已造成31人死亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433597.d.html</link>
-            <guid>2842678</guid>
-            <pubDate>Fri, 28 Oct 2022 06:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：我们不认为日元疲软是实现通胀目标的机会，因为目前的通胀不稳定，无法与工资增长同步持续。]]></title>
-            <guid>2842677</guid>
-            <pubDate>Fri, 28 Oct 2022 06:57:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰批发天然气11月合约上涨5.2%，至112欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4082276.d.html</link>
-            <guid>2842676</guid>
-            <pubDate>Fri, 28 Oct 2022 06:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【菲律宾一港口城市本周4人疑因感染霍乱病亡】菲律宾塔克洛班市卫生部门官员27日通报，这座中东部港口城市本周已有4人疑似因感染霍乱病亡，另有192人因急性腹泻住院。据报道，一名12岁男孩、一名3个月男婴、一名71岁男性和一名68岁女性本周死于急性腹泻，疑似感染霍乱，出现染疫症状，包括频排水样便、发热、呕吐和重度脱水，但未接受检测。截至26日，塔克洛班市卫生部门已对80名急性腹泻患者样本做检测，其中10人确诊感染霍乱弧菌。卫生部门官员达尼洛·埃卡马说，只要确诊一例，就可以宣布暴发霍乱疫情。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433453.d.html</link>
-            <guid>2842675</guid>
-            <pubDate>Fri, 28 Oct 2022 06:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：经济最需要的是良性循环。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433371.d.html</link>
-            <guid>2842674</guid>
-            <pubDate>Fri, 28 Oct 2022 06:55:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司：继续通过乌克兰向欧洲输送天然气，周五的输送量为4240万立方米。]]></title>
-            <guid>2842673</guid>
-            <pubDate>Fri, 28 Oct 2022 06:55:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：不会评论刺激措施对汇率的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433340.d.html</link>
-            <guid>2842672</guid>
-            <pubDate>Fri, 28 Oct 2022 06:54:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国国家统计与经济研究所：过去一个月，法国CPI环比上涨1.0%，随着石油产品价格的上涨，能源价格反弹。服务价格保持稳定，运输价格的反弹被“其他服务”价格的下降部分抵消。食品价格加快上涨，制成品价格略微放缓。]]></title>
-            <guid>2842671</guid>
-            <pubDate>Fri, 28 Oct 2022 06:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信特钢：当前是行业并购的机遇期 将加快并购步伐】中信特钢近期在调研活动中表示，当前时期，是行业的低谷期，是行业并购的一个机遇期，公司将积极参与上下游资源的整合，公司将在当前这个行业相对低谷的时候，抓住机遇，加快并购的步伐，抓住一切机会把自己做大做优做强。根据中信特钢十四五规划，中信特钢坚持以内生增长和外延发展相结合，力争在2025年实现2000万吨整体规模。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433264.d.html</link>
-            <guid>2842670</guid>
-            <pubDate>Fri, 28 Oct 2022 06:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国CPI数据公布后，欧元区债券整体下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081986.d.html</link>
-            <guid>2842669</guid>
-            <pubDate>Fri, 28 Oct 2022 06:53:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国国家统计与经济研究所：通货膨胀的增加是由于能源价格、食品价格和制成品价格的加速上涨。服务和烟草价格的上涨速度与前一个月相同。]]></title>
-            <guid>2842668</guid>
-            <pubDate>Fri, 28 Oct 2022 06:53:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：刺激措施也可能会支持经济增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2433167.d.html</link>
-            <guid>2842667</guid>
-            <pubDate>Fri, 28 Oct 2022 06:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：政府的刺激措施可能通过补贴来降低通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081902.d.html</link>
-            <guid>2842666</guid>
-            <pubDate>Fri, 28 Oct 2022 06:53:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【财政部：1-9月国有企业利润总额34021.8亿元 同比下降1.1%】1-9月，国有企业营业总收入596682.4亿元，同比增长9.3%。其中中央企业333859.8亿元，同比增长10.1%；地方国有企业262822.6亿元，同比增长8.3%。1-9月，国有企业利润总额34021.8亿元，同比下降1.1%。其中中央企业24474.7亿元，同比增长5.2%；地方国有企业9547.1亿元，同比下降14.1%。]]></title>
-            <guid>2842665</guid>
-            <pubDate>Fri, 28 Oct 2022 06:51:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：我们需要维持宽松货币政策，以实现2%的稳定通胀和工资增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081567.d.html</link>
-            <guid>2842664</guid>
-            <pubDate>Fri, 28 Oct 2022 06:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山西忻州市繁峙县新增18例初筛阳性人员】据山西省忻州市繁峙县新型冠状病毒感染的肺炎疫情防控工作领导小组办公室，10月28日，山西省忻州市繁峙县在对全员核酸样本检测时检出初筛阳性18例。初筛阳性人员为17名繁峙县砂河二中学生及1名学生家长。 （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432809.d.html</link>
-            <guid>2842663</guid>
-            <pubDate>Fri, 28 Oct 2022 06:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：达到通胀目标是必要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432776.d.html</link>
-            <guid>2842662</guid>
-            <pubDate>Fri, 28 Oct 2022 06:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：这可能需要时间，但我们可以实现2%的通胀目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081423.d.html</link>
-            <guid>2842661</guid>
-            <pubDate>Fri, 28 Oct 2022 06:48:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[山西发行15年期一般债地方债，规模50.6633亿元，发行利率3.0300%，边际倍数1.58倍，倍数预期1.76；山西发行10年期其他专项地方债，规模9.0400亿元，发行利率2.8700%，边际倍数2.77倍，倍数预期1.62；山西发行15年期其他专项地方债，规模43.4250亿元，发行利率3.0300%，边际倍数1.93倍，倍数预期1.80；山西发行20年期其他专项地方债，规模21.9350亿元，发行利率3.1200%，边际倍数2.19倍，倍数预期1.76；山西发行10年期棚改专项地方债，规模12.3000亿元，发行利率2.8700%，边际倍数2.17倍，倍数预期1.57；山西发行15年期收费公路专项地方债，规模1.8000亿元，发行利率3.0300%，边际倍数1.50倍，倍数预期1.81；山西发行20年期收费公路专项地方债，规模4.5000亿元，发行利率3.1200%，边际倍数1.60倍，倍数预期1.83；山西发行10年期一般债地方债，规模61.5500亿元，发行利率2.8700%，边际倍数1.84倍，倍数预期1.79。]]></title>
-            <guid>2842660</guid>
-            <pubDate>Fri, 28 Oct 2022 06:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“21碧地02”跌超35%，盘中二次临时停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432630.d.html</link>
-            <guid>2842659</guid>
-            <pubDate>Fri, 28 Oct 2022 06:47:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国港口集装箱吞吐量前三季度完成21933万标箱 同比增长4.0%】交通运输部发布9月交通运输行业主要统计指标。1-9月我国公路水路交通固定资产投资达21696亿元，同比增长9.8%。其中公路投资完成20573亿元，同比增长10.0%。全国港口货物吞吐量前三季度完成1155454万吨，同比增长0.1%，集装箱吞吐量完成21933万标箱，同比增长4.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432612.d.html</link>
-            <guid>2842658</guid>
-            <pubDate>Fri, 28 Oct 2022 06:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：我们承认外汇市场参与者正在关注利率差异。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081307.d.html</link>
-            <guid>2842657</guid>
-            <pubDate>Fri, 28 Oct 2022 06:47:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：暂时继续放松货币政策以支持经济是适当的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432556.d.html</link>
-            <guid>2842656</guid>
-            <pubDate>Fri, 28 Oct 2022 06:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本经济仍在从疫情中复苏的道路上。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432529.d.html</link>
-            <guid>2842655</guid>
-            <pubDate>Fri, 28 Oct 2022 06:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【沙特与希腊、法国讨论能源领域合作】据沙特阿拉伯通讯社27日报道，沙特能源大臣阿卜杜勒-阿齐兹·本·萨勒曼分别同希腊、法国能源部长举行视频会议，讨论可再生能源合作等议题。阿卜杜勒-阿齐兹与希腊能源部长科斯塔斯·斯克雷卡斯讨论了两国在可再生能源领域开展合作，以及通过促进两国电力互联将清洁能源出口至希腊等欧洲国家。报道说，双方强调氢能的重要性，讨论沙特通过希腊向欧洲运输氢能的“最佳方式”。阿卜杜勒-阿齐兹在与法国能源转型部长阿涅丝·帕尼耶-吕纳谢的视频会议中同样讨论了两国在可再生能源领域的合作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432508.d.html</link>
-            <guid>2842654</guid>
-            <pubDate>Fri, 28 Oct 2022 06:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：不可能在明年实现2%的物价增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081193.d.html</link>
-            <guid>2842653</guid>
-            <pubDate>Fri, 28 Oct 2022 06:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国10月CPI月率录得1%，为2022年3月以来最大增幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432444.d.html</link>
-            <guid>2842652</guid>
-            <pubDate>Fri, 28 Oct 2022 06:45:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国10月CPI年率 6.2%，预期5.7%，前值5.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081141.d.html</link>
-            <guid>2842651</guid>
-            <pubDate>Fri, 28 Oct 2022 06:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国10月CPI月率 1%，预期0.5%，前值-0.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081123.d.html</link>
-            <guid>2842650</guid>
-            <pubDate>Fri, 28 Oct 2022 06:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：目前没有看到稳定通胀的成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2432352.d.html</link>
-            <guid>2842649</guid>
-            <pubDate>Fri, 28 Oct 2022 06:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  联发科第三季度净利润309.6亿元台币，同比增长9.4%，预估295亿元台币。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4081061.d.html</link>
-            <guid>2842648</guid>
-            <pubDate>Fri, 28 Oct 2022 06:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：物价和工资前景的不确定性很高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080988.d.html</link>
-            <guid>2842647</guid>
-            <pubDate>Fri, 28 Oct 2022 06:43:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：预计工资将上涨，我们也会关注工资上涨背后的原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080965.d.html</link>
-            <guid>2842646</guid>
-            <pubDate>Fri, 28 Oct 2022 06:43:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：利率必须尽快正常化，但我们必须小心量化紧缩。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080947.d.html</link>
-            <guid>2842645</guid>
-            <pubDate>Fri, 28 Oct 2022 06:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：下一次加息将是灵活的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080915.d.html</link>
-            <guid>2842644</guid>
-            <pubDate>Fri, 28 Oct 2022 06:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：成本推动型通胀将在新年后减弱。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080903.d.html</link>
-            <guid>2842643</guid>
-            <pubDate>Fri, 28 Oct 2022 06:43:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股汽车股持续下跌，小鹏汽车跌超15%，理想汽车、蔚来汽车、广汽集团跌超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080886.d.html</link>
-            <guid>2842642</guid>
-            <pubDate>Fri, 28 Oct 2022 06:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中央气象台10月28日18时继续发布气象干旱橙色预警。]]></title>
-            <guid>2842641</guid>
-            <pubDate>Fri, 28 Oct 2022 06:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：从下一财年开始，CPI将低于2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080804.d.html</link>
-            <guid>2842640</guid>
-            <pubDate>Fri, 28 Oct 2022 06:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：我们承认政府已采取适当措施应对汇率过度波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080782.d.html</link>
-            <guid>2842639</guid>
-            <pubDate>Fri, 28 Oct 2022 06:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：将努力实现稳定、可持续的通胀，包括工资增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080756.d.html</link>
-            <guid>2842638</guid>
-            <pubDate>Fri, 28 Oct 2022 06:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：在工资增长的同时实现2%的通胀目标是必要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2431940.d.html</link>
-            <guid>2842637</guid>
-            <pubDate>Fri, 28 Oct 2022 06:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：中性利率在2%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080684.d.html</link>
-            <guid>2842636</guid>
-            <pubDate>Fri, 28 Oct 2022 06:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：欧洲央行将通过逐次会议来做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2431901.d.html</link>
-            <guid>2842635</guid>
-            <pubDate>Fri, 28 Oct 2022 06:41:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【发改委介绍新版《鼓励外商投资产业目录》有关优惠政策】国家发展改革委有关负责人介绍，外资鼓励类项目享受的支持政策主要包括：一是对于鼓励类外商投资项目，在投资总额内进口自用设备，除《进口不予免税的重大技术装备和产品目录》《外商投资项目不予免税的进口商品目录》外，实行免征关税政策；二是对于符合条件的西部地区和海南省鼓励类产业的外商投资企业，减按15%征收企业所得税；三是对于集约用地的鼓励类外商投资工业项目优先供应土地，在确定土地出让底价时可按不低于所在地土地等别相对应全国工业用地出让最低价标准的70%执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080505.d.html</link>
-            <guid>2842634</guid>
-            <pubDate>Fri, 28 Oct 2022 06:40:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里巴巴投资虚拟系统研发商随幻科技】企查查APP显示，近日，上海随幻智能科技有限公司发生工商变更，新增股东阿里巴巴（中国）网络技术有限公司及自然人王熙，同时公司注册资本由约138万元人民币增至约153万元人民币。企查查信息显示，该公司成立于2020年，法定代表人为洪煦，经营范围包含：组织文化艺术交流活动；体育赛事策划；信息系统集成服务；智能机器人的研发等。随幻科技是一个一站式线上虚拟活动服务平台，其自主研发了3D深度实时虚拟系统、实时光影融合算法、超写实虚拟人与多模态交互技术，并推出了自助式在线虚拟空间模式等。]]></title>
-            <guid>2842633</guid>
-            <pubDate>Fri, 28 Oct 2022 06:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：没有义务在12月第三次加息75个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080338.d.html</link>
-            <guid>2842632</guid>
-            <pubDate>Fri, 28 Oct 2022 06:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：最近的外汇走势对经济不利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2431537.d.html</link>
-            <guid>2842631</guid>
-            <pubDate>Fri, 28 Oct 2022 06:39:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日元贬值是单方面的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2431533.d.html</link>
-            <guid>2842630</guid>
-            <pubDate>Fri, 28 Oct 2022 06:39:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：近期快速的外汇走势是负面的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080306.d.html</link>
-            <guid>2842629</guid>
-            <pubDate>Fri, 28 Oct 2022 06:39:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：汇率反映基本面的稳定波动非常重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqqsmrp4080264.d.html</link>
-            <guid>2842628</guid>
-            <pubDate>Fri, 28 Oct 2022 06:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：不会对外汇干预置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2431442.d.html</link>
-            <guid>2842627</guid>
-            <pubDate>Fri, 28 Oct 2022 06:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：我们将在未来两到三年内将通货膨胀率降至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2431421.d.html</link>
-            <guid>2842626</guid>
-            <pubDate>Fri, 28 Oct 2022 06:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：如有必要，将毫不犹豫地加大宽松政策的力度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-28/detail-imqmmthc2431399.d.html</link>
-            <guid>2842625</guid>
-            <pubDate>Fri, 28 Oct 2022 06:38:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

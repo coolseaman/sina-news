@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 Oct 2022 11:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 12:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【银保监会副主席梁涛：勇于担负起责任使命 积极推动中国式保险业现代化】据21财经，10月29日，主题为“共同富裕与现代化国家建设”的北大赛瑟（CCISSR）论坛•2022（第十九届）在京举行。论坛上，中国银保监会副主席梁涛发表演讲。梁涛表示，保险具有经济补偿的“补血”功能、资金融通的“造血”功能、社会管理的“活血”功能，在助力共同富裕过程中不可或缺。保险业应勇于担负起责任使命，积极推动中国式保险业现代化，为实现共同富裕保驾护航。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2570454.d.html</link>
+            <guid>2845377</guid>
+            <pubDate>Sat, 29 Oct 2022 12:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伟星新材：目前公司防水、净水业务拓展情况良好】伟星新材在投资者关系活动记录表中称，目前公司防水、净水业务拓展情况良好，基本保持了健康快速发展态势。第三季度公司零售、市政工程业务均实现了正增长，建筑工程业务同比略有下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4215168.d.html</link>
+            <guid>2845316</guid>
+            <pubDate>Sat, 29 Oct 2022 12:09:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  玻利维亚发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4214104.d.html</link>
+            <guid>2845205</guid>
+            <pubDate>Sat, 29 Oct 2022 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国密西西比河部分河段水位仅60厘米 货运量骤减45%】受降水量减少影响，美国密西西比河部分流域水位大幅下降。流经路易斯安那州新奥尔良市的河段水位仅有60厘米，这也是自2012年以来的最低水位。密西西比河是美国农产品运输要道，美国联邦政府援引行业数据估计，密西西比河承担了美国一半以上的粮食运输，但由于水位偏低，驳船运输受到影响，直接导致近期密西西比河货运量减少了45%左右。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2568362.d.html</link>
+            <guid>2845197</guid>
+            <pubDate>Sat, 29 Oct 2022 11:50:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  意大利政府将在11月4日前提出新的预算目标，计划延长能源救济、扩大单一税收机制；明年的赤字目标是占GDP的4.5%，经济增长0.6%。]]></title>
+            <guid>2845119</guid>
+            <pubDate>Sat, 29 Oct 2022 11:38:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【理财业务违法违规，四家机构合计被罚超千万元】银保监会官网10月28日公布的行政处罚决定书显示，建设银行、农业银行、兴业银行、农银理财四家机构因理财业务存在违法违规行为被罚，合计罚款1040万元。罚单显示，建设银行被罚款200万元，涉及案由为建设银行理财业务存在老产品规模在部分时点出现反弹的违法违规行为。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2566442.d.html</link>
+            <guid>2845073</guid>
+            <pubDate>Sat, 29 Oct 2022 11:20:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【俄媒：俄国防部称英国皇家海军官员参与了“北溪事件”】据俄罗斯卫星通讯社29日消息，俄罗斯国防部称，英国皇家海军官员也参与了“北溪”管道遭破坏事件。 (环球网)]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4210693.d.html</link>
@@ -562,41 +597,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4161030.d.html</link>
             <guid>2843646</guid>
             <pubDate>Sat, 29 Oct 2022 00:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山西昨日新增本土确诊病例54例 本土无症状感染者50例】28日0—24时，山西省新增本土新冠肺炎确诊病例54例（太原市阳曲县2例、大同市平城区45例、大同市云冈区1例、阳泉市平定县1例、吕梁市离石区2例、吕梁市交城县3例）。新增无症状感染者50例（太原市小店区2例、太原市阳曲县7例、大同市平城区28例、大同市云冈区2例、大同市左云县1例、朔州市应县1例、朔州市怀仁市3例、晋中市榆次区1例、临汾市尧都区3例、吕梁市交城县2例）。 （央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqmmthc2513692.d.html</link>
-            <guid>2843629</guid>
-            <pubDate>Sat, 29 Oct 2022 00:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海迪士尼：为遵循疫情防控要求 将暂时在减少人员配置情况下运营】据微信公号“上海迪士尼度假区发布”消息，遵循疫情防控举措的相关要求，将暂时在减少人员配置的情况下运营。10月29日起，上海迪士尼乐园的运营将减少部分游客体验。在此期间，部分景点、现场娱乐演出、餐厅和商店将暂停开放或以降低承载量的方式开放或呈现。乐园将向游客开放，上海迪士尼乐园酒店、迪士尼小镇和星愿公园将继续运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4160668.d.html</link>
-            <guid>2843603</guid>
-            <pubDate>Sat, 29 Oct 2022 00:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【融资热 业绩好 农药公司乘势向“绿”而生】一向不显山露水的农药板块，正展现出浓烈亮色。截至10月28日，已有25家农药A股公司披露2022年三季报，它们的营收同比增幅中位数为29.56%，归母净利润同比增幅中位数为61.33%。先达股份、江山股份等公司归母净利润同比增幅甚至超过200%。热度不仅在二级市场。记者采访发现，在一级市场，频有农药公司宣布完成融资，还有一些公司启动上市计划，乘势实现证券化。在业内人士看来，表征背后则是行业发展逻辑的转向，在粮食安全重要性与日俱增的大环境下，农药尤其是绿色农药的发展正迎来新的景气周期。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4160273.d.html</link>
-            <guid>2843581</guid>
-            <pubDate>Sat, 29 Oct 2022 00:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  ARK方舟基金周五增持Block、Roku、经纪商Robinhood，减持Draftkings、Shopify和Roblox.]]></title>
-            <guid>2843558</guid>
-            <pubDate>Sat, 29 Oct 2022 00:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【河北昨日新增38例本土无症状感染者】28日0—24时，河北省无新增新型冠状病毒肺炎确诊病例；新增无症状感染者38例，其中廊坊市13例（大城县8例、文安县3例、霸州市2例）、沧州市12例（高新区9例、运河区2例、新华区1例）、唐山市5例（遵化市）、承德市3例（双桥区2例、丰宁县1例）、邢台市3例（南宫市）、石家庄市2例（长安区1例、鹿泉区1例）。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4159839.d.html</link>
-            <guid>2843557</guid>
-            <pubDate>Sat, 29 Oct 2022 00:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽宁昨日新增5例本土无症状感染者】10月28日0-24时，辽宁省无新增新冠肺炎确诊病例；新增5例本土无症状感染者，其中锦州市报告3例、阜新市报告2例；新增1例境外输入无症状感染者，为大连市报告。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-29/detail-imqqsmrp4159755.d.html</link>
-            <guid>2843547</guid>
-            <pubDate>Sat, 29 Oct 2022 00:10:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

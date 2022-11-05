@@ -4,13 +4,64 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 05 Nov 2022 14:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 15:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[11月5日0—21时，乌鲁木齐新增本土确诊病例20例，本土无症状感染者405例。（央视新闻）]]></title>
+            <title><![CDATA[美国农业部证实密西西比州的鸡群中发现禽流感。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqmmthc3442445.d.html</link>
+            <guid>2855477</guid>
+            <pubDate>Sat, 05 Nov 2022 15:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗里亚尔跌至历史新低】周六，在伊朗不受监管的公开市场上，伊朗里亚尔跌至有记录以来的最低水平。根据伊朗首都德黑兰的两家外汇兑换店和监测外汇价格的当地网站数据，伊朗里亚尔兑美元的平均汇率跌至36.35万。自2021年8月以来，伊朗里亚尔兑美元已经下跌了40%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp5063965.d.html</link>
+            <guid>2855469</guid>
+            <pubDate>Sat, 05 Nov 2022 15:02:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：所罗门群岛发生5.0级地震。]]></title>
+            <guid>2855465</guid>
+            <pubDate>Sat, 05 Nov 2022 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构前瞻美联储12月利率决议：鲍威尔在11月2日的FOMC会议上向市场发出了一个明确的信息，即不要指望美联储继续每次加息75个基点，但他们也没有做出鸽派转向。预计美联储将在12月会议上将加息速度放缓至50个基点，并发布新的点阵图，显示终端利率在5%左右。]]></title>
+            <guid>2855463</guid>
+            <pubDate>Sat, 05 Nov 2022 14:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[安永帕台农（EY Parthenon）高级经济学家Lydia Boussour：我们仍然看到美国劳动力市场趋紧，工资压力仍然很大。预计美国终端利率将在4.5%至4.75%之间。美联储必须坚持收紧政策。]]></title>
+            <guid>2855461</guid>
+            <pubDate>Sat, 05 Nov 2022 14:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱银行驻纽约高级经济学家Jonathan Millar：我们对最终失业率的看法更像是一种虚无缥缈的估计，而非高度科学。估计美联储的终端利率将达到5%到5.25%，同时应指出不确定性很高。缺乏清晰度反映了这样一个事实，即他们对任何标准方法都没有足够的信心，这导致他们采用了一种更特别、本质上是判断的方法。]]></title>
+            <guid>2855451</guid>
+            <pubDate>Sat, 05 Nov 2022 14:46:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甘肃多家医院调整就医流程 门诊患者核酸结果互认】据央视新闻，今日，甘肃省多家医院发布就诊须知，最显著的变化就是针对门诊患者及陪员，入院所持的24小时内核酸阴性证明结果可以互认。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp5062456.d.html</link>
+            <guid>2855446</guid>
+            <pubDate>Sat, 05 Nov 2022 14:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：印度允许糖厂在2022-23年出口600万吨糖。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp5061763.d.html</link>
+            <guid>2855441</guid>
+            <pubDate>Sat, 05 Nov 2022 14:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗里亚尔兑美元跌至历史新低的363500。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp5060774.d.html</link>
+            <guid>2855439</guid>
+            <pubDate>Sat, 05 Nov 2022 14:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌鲁木齐新增本土确诊病例20例，本土无症状感染者405例】11月5日0—21时，乌鲁木齐市新增本土确诊病例20例。其中：天山区4例、沙依巴克区4例、高新区（新市区）3例、水磨沟区5例、经济技术开发区（头屯河区）2例、米东区2例；新增本土无症状感染者405例，其中天山区81例、沙依巴克区75例、高新区（新市区）66例、水磨沟区68例、经济技术开发区（头屯河区）55例、米东区60例，在隔离医学观察人员、中高风险区、闭环管理单位和社区核酸筛查中发现，随即被转运至定点医疗机构或方舱医院进行治疗或隔离医学观察。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp5060272.d.html</link>
             <guid>2855438</guid>
             <pubDate>Sat, 05 Nov 2022 14:12:11 GMT</pubDate>
         </item>
@@ -525,57 +576,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqmmthc3370508.d.html</link>
             <guid>2854812</guid>
             <pubDate>Sat, 05 Nov 2022 01:35:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Twitter在旧金山办公室裁员784人，在加州圣何塞市办公室裁员106人，在洛杉矶办公室裁员93人。]]></title>
-            <guid>2854811</guid>
-            <pubDate>Sat, 05 Nov 2022 01:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第五届进博会上海交易团首单来了：青浦采购商签下3亿美元订单】 11月5日上午，第五届中国国际进口博览会开幕首日，青浦区便捷报频传——越海全球供应链“跨山越海”，与参展商飞利浦（中国）投资有限公司“强强联手”，达成3亿美元采购意向订单，摘得上海交易团“首单”。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp4992058.d.html</link>
-            <guid>2854810</guid>
-            <pubDate>Sat, 05 Nov 2022 01:21:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新能源产品在海外热销】349.11亿美元，同比增长83.3%——今年前9个月，我国锂离子蓄电池出口额已超过2021年全年水平，成为继新能源汽车、热泵机、光伏等之后的又一个外贸出口的“明星单品”。专家认为，我国完备的产业链、高性价比和稳定的交付能力，不仅有助于应对外部环境变化带来的挑战，还能够通过整合资源，优化布局，提供更大的产业发展空间。同时，跨境电商等外贸新业态新模式茁壮成长，不断为外贸发展注入新动能。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp4991013.d.html</link>
-            <guid>2854809</guid>
-            <pubDate>Sat, 05 Nov 2022 01:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冬储价格预期不高 螺纹钢期货弱势料难改】10月11日以来螺纹钢、铁矿石期货主力合约分别累计下跌约8%、11%。分析人士认为，在美联储加息等因素影响下，当前大宗商品市场面临一定压力。同时，伴随淡季来临、需求走弱等因素，钢材价格不断回落。当前市场对冬储价格普遍预期不高，钢价整体承压，建议企业合理进行套保。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqmmthc3367966.d.html</link>
-            <guid>2854808</guid>
-            <pubDate>Sat, 05 Nov 2022 01:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今年前三季度全国社会物流总额247万亿元 同比增长3.5%】中国物流与采购联合会今天（5日）公布今年前三季度物流运行数据。随着稳经济一揽子政策和接续政策措施的落地显效，物流需求增速稳中有升，工业品、民生消费领域物流需求均有不同程度改善。今年前三季度，全国社会物流总额247万亿元，同比增长3.5%，增速比上半年提高0.4个百分点，高于同期GDP增速0.5个百分点。三季度全国社会物流总额增速，比二季度提高3.3个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp4990516.d.html</link>
-            <guid>2854807</guid>
-            <pubDate>Sat, 05 Nov 2022 01:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：昨日新增本土确诊病例596例，新增本土无症状感染者3063例】11月4日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例657例。其中境外输入病例61例（福建18例，广东9例，四川8例，上海6例，北京4例，天津3例，内蒙古3例，云南3例，江苏2例，湖南2例，山东1例，重庆1例，陕西1例），含7例由无症状感染者转为确诊病例（四川4例，天津1例，福建1例，湖南1例）；本土病例596例（广东219例，内蒙古75例，山西61例，福建44例，重庆39例，北京37例，湖南34例，新疆20例，陕西17例，四川13例，河南9例，云南9例，黑龙江6例，江苏4例，辽宁3例，山东3例，浙江1例，贵州1例，宁夏1例），含133例由无症状感染者转为确诊病例（广东59例，福建40例，四川9例，陕西7例，山西5例，黑龙江4例，北京3例，重庆2例，内蒙古1例，辽宁1例，江苏1例，贵州1例）。31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者3180例，其中境外输入117例，本土3063例（广东669例，内蒙古484例，新疆451例，湖南338例，黑龙江214例，山西159例，河南131例，青海118例，山东77例，甘肃65例，湖北61例，云南58例，福建56例，重庆41例，河北28例，四川27例，辽宁21例，陕西15例，江苏11例，天津9例，吉林6例，北京5例，上海5例，浙江5例，西藏5例，贵州2例，宁夏2例）。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp4990177.d.html</link>
-            <guid>2854806</guid>
-            <pubDate>Sat, 05 Nov 2022 01:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北昨日新增本土无症状感染者61例】11月4日0—24时，湖北省新增本土确诊病例0例，新增本土无症状感染者61例（武汉市45例，其中31例为隔离点检出，13例为管控区检出；黄冈市6例，其中2例为隔离点检出，3例为管控区检出；黄石市4例，其中3例为隔离点检出，1例为管控区检出；宜昌市2例，十堰市1例，鄂州市1例，均为隔离点检出；孝感市1例，为管控区检出；恩施州1例），新增境外输入确诊病例0例，新增境外输入无症状感染者3例（巴基斯坦输入1例，韩国输入1例，菲律宾输入1例），新增疑似病例0例，新增死亡病例0例，当日出院病例0例，当日解除无症状感染者医学观察35例（武汉市23例，襄阳市5例，荆门市4例，宜昌市1例；境外输入2例）。 （央视）]]></title>
-            <guid>2854805</guid>
-            <pubDate>Sat, 05 Nov 2022 01:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及第二大城市亚历山大面临“沉没”风险】据法新社日前报道，受全球气候变化影响，埃及第二大城市亚历山大正在因为海平面上升和陆地下沉，面临被海水“吞噬”的危险。联合国气候专家小组政府间气候变化专门委员会的报告预测，地中海海平面将在未来30年内上升1米。报告称，这将淹没“尼罗河三角洲三分之一的高产农业用地”以及一些重要的、历史悠久的城市，比如亚历山大。而且，雪上加霜的是，亚历山大还同时面临着地面下沉的问题。（央视）]]></title>
-            <guid>2854802</guid>
-            <pubDate>Sat, 05 Nov 2022 00:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青海西宁发现50名阳性感染者】2022年11月4日，青海省西宁市发现50名阳性感染者，已转至定点医疗机构。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-05/detail-imqqsmrp4988345.d.html</link>
-            <guid>2854801</guid>
-            <pubDate>Sat, 05 Nov 2022 00:48:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

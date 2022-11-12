@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 12 Nov 2022 18:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 19:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【安徽宿州新增3例无症状感染者】2022年11月12日，安徽宿州市埇桥区在对重点人员、集中隔离管控的密切接触者核酸检测中发现3例阳性感染者，经专家诊断均为无症状感染者，目前已转运至定点医院接受隔离医学观察。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-13/detail-imqmmthc4350547.d.html</link>
+            <guid>2864927</guid>
+            <pubDate>Sat, 12 Nov 2022 19:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其外长与爱沙尼亚和拉脱维亚外长通电话】当地时间11月12日，土耳其外交部长恰武什奥卢分别与爱沙尼亚外长雷恩萨卢和拉脱维亚外长林克维奇斯通电话。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-13/detail-imqqsmrp5948518.d.html</link>
+            <guid>2864926</guid>
+            <pubDate>Sat, 12 Nov 2022 18:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌方称可能于2023年下半年恢复与俄罗斯的和谈】当地时间12日，乌克兰人民公仆党议会党团主席阿拉哈米亚表示，乌方可能于2023年下半年恢复与俄罗斯的和谈。（央视）]]></title>
+            <guid>2864925</guid>
+            <pubDate>Sat, 12 Nov 2022 18:33:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国航展无人装备展区受关注 无人船艇正进入普及应用快车道】第十四届中国国际航空航天博览会正在广东珠海举行。伴随通信技术、传感器技术、目标识别与图像处理技术等科技领域的技术突破，无人船艇正进入加速普及应用的快车道。（中新网）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-13/detail-imqmmthc4349139.d.html</link>
@@ -563,23 +580,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4291079.d.html</link>
             <guid>2864600</guid>
             <pubDate>Sat, 12 Nov 2022 05:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌外长：乌将加强与东盟国家合作 提升双方关系水平】当地时间11月12日上午，乌克兰外交部长德米特里·库列巴在柬埔寨金边出席第40届和第41届东盟峰会及系列会议期间举行记者会。库列巴在记者会上表示，这是乌克兰首次被邀请参加东盟峰会，乌克兰将加强与东盟国家的合作，将双方关系提升到新的水平。11月10日，库列巴代表乌克兰与东盟签署加入《东南亚友好合作条约》协议书，以加强乌克兰与东南亚国家之间的联系。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5889653.d.html</link>
-            <guid>2864598</guid>
-            <pubDate>Sat, 12 Nov 2022 05:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【FDA再批一款药物治疗新冠高危患者】11月11日，瑞典Orphan Biovitrum AB公司旗下的Sobi North America公司宣布，美国食品和药物管理局（FDA）已授权紧急使用，允许其类风湿关节炎药物Kineret (anakinra)用于治疗高风险的住院COVID-19患者。这类患者患有肺炎、需要补充氧气且有可能进展至严重呼吸衰竭。（财联社）]]></title>
-            <guid>2864597</guid>
-            <pubDate>Sat, 12 Nov 2022 05:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄官员：俄乌和谈一定会举行 举行时间将取决于美欧等西方国家】据塔斯社报道称，俄罗斯联邦委员会国际事务委员会成员采科夫表示，俄罗斯与乌克兰间的和谈一定会举行，但何时举行取决于美国和欧盟等乌方的西方伙伴。采科夫指出，俄乌和谈将异常艰难，且谈判开始的前提条件是美欧停止进一步挑起冲突。他同时表示，目前，由于乌克兰采取的立场，双方谈判取得成果的可能性并不大。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4288625.d.html</link>
-            <guid>2864596</guid>
-            <pubDate>Sat, 12 Nov 2022 05:23:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

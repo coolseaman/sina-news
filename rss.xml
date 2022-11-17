@@ -4,11 +4,282 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 17 Nov 2022 14:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 15:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[币安：公司恢复USDT（SOL）代币存款服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6602005.d.html</link>
+            <guid>2870621</guid>
+            <pubDate>Thu, 17 Nov 2022 15:16:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Piper Sandler：重申英伟达(NVDA.O)增持评级 目标价200美元】Piper Sandler分析师Harsh Kumar对英伟达(NVDA.O)业绩“相当满意”，称该公司第三财季（10月季度）的营收轻松超过预期，并提供了符合预期的指引。Kumar在研报中表示，数据中心业务的增长率似乎已经在10月季度触底，环比增速为0.7%。分析师预计，第四财季将有类似的增长动态，但随着H100和Grace等新产品的上市，他对于增长将加速到2024财年有信心。他认为英伟达增长将实质性地加速到明年4月季度及以后，分析师重申对该股的增持评级，目标价为200美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6601774.d.html</link>
+            <guid>2870620</guid>
+            <pubDate>Thu, 17 Nov 2022 15:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  科文：将思科(CSCO.O)目标价从60美元上调至61美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6601759.d.html</link>
+            <guid>2870619</guid>
+            <pubDate>Thu, 17 Nov 2022 15:13:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：德国所有移动电话网络都出现了问题，成千上万的用户在打电话时遇到问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5019197.d.html</link>
+            <guid>2870618</guid>
+            <pubDate>Thu, 17 Nov 2022 15:12:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿里巴巴(BABA.N)持续走高，现涨5%，第二财季Non-GAAP净利润同比增长19%至338.2亿元，公司宣布将回购计划增加150亿美元。]]></title>
+            <guid>2870617</guid>
+            <pubDate>Thu, 17 Nov 2022 15:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国两辆货运列车发生碰撞，部分铁路交通关闭】当地时间17日凌晨3时左右，德国两辆货运列车在吉弗霍恩地区莱菲尔德发生碰撞事故，北部地区部分铁路交通被迫关闭。警方表示，两辆列车均装载着丙烷气。目前尚不清楚事故导致多少丙烷气外泄。事故的清理和调查工作至少需要一天时间，联邦铁路事故调查局的专家已赶赴现场。该事故对德国部分地区的长途铁路交通产生较大影响，柏林至汉诺威地区的铁路线路双向关闭，多个货运和客运列车班次被取消或改换线路，部分班次也出现绕行和延误。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5018853.d.html</link>
+            <guid>2870616</guid>
+            <pubDate>Thu, 17 Nov 2022 15:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【思路迪通过港交所IPO上市聆讯】据港交所文件，生物医药公司3D Medicines Inc.-B（思路迪）通过港交所上市聆讯。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6601296.d.html</link>
+            <guid>2870615</guid>
+            <pubDate>Thu, 17 Nov 2022 15:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家劳动关系委员会收到对SpaceX投诉，指其不公平地解雇了9名员工，投诉还称马斯克在SpaceX培养了敌对的工作环境。]]></title>
+            <guid>2870614</guid>
+            <pubDate>Thu, 17 Nov 2022 15:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股SaaS概念股走低，Splunk(SPLK.O)跌超5%，The Trade Desk(TTD.O)跌5.08%，Block(SQ.N)跌超4%，Salesforce(CRM.N)跌近4%。]]></title>
+            <guid>2870613</guid>
+            <pubDate>Thu, 17 Nov 2022 15:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【期货收盘：国内期货夜盘收盘涨跌互现 化工板块下跌】国内期货夜盘收盘涨跌互现，化工板块下跌。乙二醇跌2%，甲醇、PVC、低硫燃油、玻璃、白糖跌1%；铁矿涨2%，苯乙烯、豆一涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5018322.d.html</link>
+            <guid>2870612</guid>
+            <pubDate>Thu, 17 Nov 2022 15:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truist Securities：将塔吉特(TGT.N)目标价从165美元下调至151美元。]]></title>
+            <guid>2870611</guid>
+            <pubDate>Thu, 17 Nov 2022 15:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎USD/CHF日内涨超1.00%，现报0.9532。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5018179.d.html</link>
+            <guid>2870610</guid>
+            <pubDate>Thu, 17 Nov 2022 14:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：非常清楚的是，我们需要运转良好的金融市场，因此我们需要紧急处理一些脆弱领域。]]></title>
+            <guid>2870609</guid>
+            <pubDate>Thu, 17 Nov 2022 14:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：金融市场的不透明性和结构性脆弱性并非新鲜事，但由于当前的经济环境，目前风险更高。]]></title>
+            <guid>2870608</guid>
+            <pubDate>Thu, 17 Nov 2022 14:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：流动性低反映了不确定的经济前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5018154.d.html</link>
+            <guid>2870607</guid>
+            <pubDate>Thu, 17 Nov 2022 14:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：美联储继续监控金融稳定风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6600626.d.html</link>
+            <guid>2870606</guid>
+            <pubDate>Thu, 17 Nov 2022 14:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：国债市场是已知的结构性弱点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6600601.d.html</link>
+            <guid>2870605</guid>
+            <pubDate>Thu, 17 Nov 2022 14:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：短期融资市场仍然存在脆弱性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6600586.d.html</link>
+            <guid>2870604</guid>
+            <pubDate>Thu, 17 Nov 2022 14:57:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：我们需要优先提高非银行部门的透明度和披露程度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6600584.d.html</link>
+            <guid>2870603</guid>
+            <pubDate>Thu, 17 Nov 2022 14:57:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国抗疫概念股走弱，诺瓦瓦克斯医药(NVAX.O)跌5%，BioNTech SE(BNTX.O)、Moderna(MRNA.O)跌约3%，Ocugen(OCGN.O)跌超2%。]]></title>
+            <guid>2870602</guid>
+            <pubDate>Thu, 17 Nov 2022 14:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：非银行部门的货币杠杆和风险仍然是一个挑战。]]></title>
+            <guid>2870601</guid>
+            <pubDate>Thu, 17 Nov 2022 14:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：非银行部门的货币杠杆和风险仍然是一个挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5017750.d.html</link>
+            <guid>2870600</guid>
+            <pubDate>Thu, 17 Nov 2022 14:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：现在是评估金融稳定风险的挑战时刻。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6600157.d.html</link>
+            <guid>2870599</guid>
+            <pubDate>Thu, 17 Nov 2022 14:50:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：不要自满非常重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5017572.d.html</link>
+            <guid>2870598</guid>
+            <pubDate>Thu, 17 Nov 2022 14:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：英国国债事件是一个警示故事，利率上升时可能会出现以前看不见的波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6600086.d.html</link>
+            <guid>2870597</guid>
+            <pubDate>Thu, 17 Nov 2022 14:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：为了避免上世纪70年代的错误，美联储宁可在更长时间内保持较高的利率。]]></title>
+            <guid>2870596</guid>
+            <pubDate>Thu, 17 Nov 2022 14:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马航MH17坠机案宣判】综合外媒17日报道，荷兰法院对2014年马来西亚航空公司MH17客机作出判决，两名俄罗斯人和一名乌克兰人被判有谋杀罪。第四名俄罗斯被告被判无罪。2014年7月17日，从荷兰阿姆斯特丹飞往吉隆坡的马航MH17客机在靠近俄罗斯边境的乌克兰顿涅茨克州上空坠毁，机上298人全部罹难。三分之二的遇难者为荷兰籍。（中新社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5017464.d.html</link>
+            <guid>2870595</guid>
+            <pubDate>Thu, 17 Nov 2022 14:48:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【币安CEO赵长鹏：币安有兴趣购买一些破产变卖的资产】币安首席执行官赵长鹏11月17日接受美国消费者新闻与商业频道（CNBC）采访时表示，币安有兴趣看看以及购买一些破产变卖的资产，特别是一些较好的资产。赵长鹏还批评了竞争对手FTX的前首席执行官Sam Bankman-Fried，认为他对投资者和用户撒谎。赵长鹏称，FTX的用户资金很明显被挪用了，并补充了一些11月9日币安决定退出收购FTX时的更详细信息。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6599974.d.html</link>
+            <guid>2870594</guid>
+            <pubDate>Thu, 17 Nov 2022 14:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：美国的通胀率异常高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5017403.d.html</link>
+            <guid>2870593</guid>
+            <pubDate>Thu, 17 Nov 2022 14:48:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：我们当然看到了高利率对房地产的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6599927.d.html</link>
+            <guid>2870592</guid>
+            <pubDate>Thu, 17 Nov 2022 14:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：劳动力市场继续表现出很大的弹性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5017379.d.html</link>
+            <guid>2870591</guid>
+            <pubDate>Thu, 17 Nov 2022 14:48:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美联储已连续两年在通胀问题上“焦头烂额”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5017369.d.html</link>
+            <guid>2870590</guid>
+            <pubDate>Thu, 17 Nov 2022 14:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：劳动力市场没有出现太多降温。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6599898.d.html</link>
+            <guid>2870589</guid>
+            <pubDate>Thu, 17 Nov 2022 14:47:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克中国金龙指数转涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6599890.d.html</link>
+            <guid>2870588</guid>
+            <pubDate>Thu, 17 Nov 2022 14:47:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：到目前为止，任何通货紧缩的迹象都是“暂时的”，但希望2023年将是它发生的一年。]]></title>
+            <guid>2870587</guid>
+            <pubDate>Thu, 17 Nov 2022 14:47:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿里巴巴拉升，现转涨超1%。]]></title>
+            <guid>2870586</guid>
+            <pubDate>Thu, 17 Nov 2022 14:47:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：10月份的通胀数据“令人鼓舞”，但下次“可能很容易走相反的路”，通胀情况依然糟糕。]]></title>
+            <guid>2870585</guid>
+            <pubDate>Thu, 17 Nov 2022 14:47:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：最近的零售数据表明，家庭支出仍有缓冲空间，即将到来的圣诞购物季放缓“将没问题”。]]></title>
+            <guid>2870584</guid>
+            <pubDate>Thu, 17 Nov 2022 14:46:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：一旦反通胀进程开始，它可能会迅速进行，因为企业会竞相保持市场份额。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6599507.d.html</link>
+            <guid>2870583</guid>
+            <pubDate>Thu, 17 Nov 2022 14:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美联储的限制性政策利率的最低水平是5%到5.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5016937.d.html</link>
+            <guid>2870582</guid>
+            <pubDate>Thu, 17 Nov 2022 14:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：让鲍威尔主席来决定在任何一次会议上加息的幅度，幅度的大小在宏观层面上并不重要。]]></title>
+            <guid>2870581</guid>
+            <pubDate>Thu, 17 Nov 2022 14:41:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：让鲍威尔主席来决定在任何一次会议上加息的幅度，幅度的大小在宏观层面上并不重要。]]></title>
+            <guid>2870580</guid>
+            <pubDate>Thu, 17 Nov 2022 14:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股明星科技股齐挫】美股明星科技股齐挫，奈飞、Paypal跌近4%，美光科技跌超3%，Alphabet跌近2%，英特尔、微软跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5016616.d.html</link>
+            <guid>2870579</guid>
+            <pubDate>Thu, 17 Nov 2022 14:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF周四开盘全线下跌。网络股指数ETF跌幅居首下跌2.65%，全球航空业ETF下跌1.81%，全球科技股ETF下跌1.63%，能源业ETF下跌1.57%，区域银行ETF下跌1.54%。科技行业ETF下跌1.40%，可选消费ETF下跌1.39%。银行业ETF下跌1.38%；跌幅最浅的医疗业ETF与日常消费品ETF分别下跌0.43%和0.38%。]]></title>
+            <guid>2870578</guid>
+            <pubDate>Thu, 17 Nov 2022 14:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国联通：携手中国广核集团 助推清洁能源与能源数字化发展】中国联通消息，11月17日，中国联通与中国广核集团举行清洁能源与数字化业务战略合作框架协议签约仪式。此次签约，双方进一步发挥各自优势，在算网融合、通信服务、能源安全、智慧核电等领域不断开辟合作方向、加大合作力度，助力中广核清洁能源与能源数字化发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5016327.d.html</link>
+            <guid>2870577</guid>
+            <pubDate>Thu, 17 Nov 2022 14:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指开盘跌0.8%，标普500跌1.3%，纳指跌1.6%】梅西百货涨7.3%，Q3业绩超预期。思科涨3.7%，Q1营收胜预期。挪威邮轮跌6.8%，遭多位高管减持。阿里巴巴跌2.2%，Q2营收利润皆逊预期。]]></title>
+            <guid>2870576</guid>
+            <pubDate>Thu, 17 Nov 2022 14:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巨人网络：《太空行动》获版号，为国内首个获版号的太空杀手游】据巨人网络官微，11月17日，国家新闻出版署官网今日公布最新国产网络游戏审批结果，巨人网络旗下自主研发手游《太空行动》通过审批，为国内首个获得版号的太空杀手游。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6597794.d.html</link>
+            <guid>2870575</guid>
+            <pubDate>Thu, 17 Nov 2022 14:23:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯：墨西哥政府希望保持下行通胀趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6597602.d.html</link>
+            <guid>2870574</guid>
+            <pubDate>Thu, 17 Nov 2022 14:20:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国2-10年期国债收益率上涨10个基点】美国10年期国债收益率上涨超11.0个基点，刷新日高至3.8%上方。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6596882.d.html</link>
@@ -303,285 +574,6 @@
             <title><![CDATA[美国至11月12日当周初请失业金人数 22.2万人，预期22.5万人，前值22.5万人。]]></title>
             <guid>2870521</guid>
             <pubDate>Thu, 17 Nov 2022 13:30:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10月营建许可总数 152.6万户，预期151.2万户，前值156.4万户。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5009952.d.html</link>
-            <guid>2870520</guid>
-            <pubDate>Thu, 17 Nov 2022 13:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10月新屋开工总数年化 142.5万户，预期141万户，前值143.9万户。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5009910.d.html</link>
-            <guid>2870519</guid>
-            <pubDate>Thu, 17 Nov 2022 13:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金徽酒：当前市场开拓及渠道布局符合预期，渠道库存合理、产品价格坚挺】金徽酒近期接受投资者调研时称，今年以来，西北地区疫情反复频发，传播较广，部分消费场景受限，尤其对中低档产品销售影响较大。公司持续优化产品结构，结合用户工程提升高端品牌力建设，百元以上产品保持稳健增长，2022年前三季度百元以上产品销售收入10.31亿元，较上年同期增长17.98%，占收入比重提升至66.97%、较上年同期占比提升1.81个百分点，有效降低疫情对公司经营的不利影响。面对疫情，公司积极采取措施，当前市场开拓及渠道布局符合预期，渠道库存合理、产品价格坚挺，市场发展良性，加之品牌推广及用户工程开展、省外市场拓展、品牌影响力提升，消费者互动较好，为四季度销售奠定了良好的基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6592505.d.html</link>
-            <guid>2870518</guid>
-            <pubDate>Thu, 17 Nov 2022 13:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【8天6板威奥股份：富氧健康舱系列产品目前销售占比不是太高】8天6板威奥股份发布异动公告，公司关注到微高压氧舱相关报道。由于公司富氧健康舱系列产品是2022年才正式推向市场，因此目前销售占比不是太高。截至2022年三季度，该产品实现营业收入760余万元，约占当期营业收入总额的2%。截至目前，该产品的销售不会对公司业绩产生重大影响。公司的富氧健康舱为民用微高压氧舱，面向消费市场，不属于医疗设备。富氧健康舱产品中的制氧模块系外部采购，公司目前不从事制氧设备的制造。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5009339.d.html</link>
-            <guid>2870517</guid>
-            <pubDate>Thu, 17 Nov 2022 13:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都：建筑面积在200平方米及以上的房源无需摇号】据成都市住房和城乡建设局消息，成都市住房和城乡建设局和成都市司法局17日发布了《关于优化完善商品住房公证摇号排序选房有关规定的通知》，自11月18日起施行。《通知》提出，不再区分居民家庭购房资格的顺位，登记购房人的资格复核不再按照户籍所在地、稳定就业地及社保年限进行顺位排序；将原来的无房居民家庭、棚改货币化安置住户、普通购房家庭三类优化为无房居民家庭（含棚改货币化安置住户）、普通购房家庭两类。 《通知》提出，首次开盘的“双限地”项目及其后续批次房源、建筑面积在200平方米及以上的房源、登记购房人数在房源数（不含200平方米及以上）2倍以内的房源，由开发企业自行组织销售，不再实施公证摇号。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6592179.d.html</link>
-            <guid>2870516</guid>
-            <pubDate>Thu, 17 Nov 2022 13:23:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海黄浦福佑地块签订出让合同，豫园股份、蚂蚁集团各出资64.65亿元】11月17日，上海豫园旅游商城（集团）股份有限公司发布关于获取房地产项目的进展公告，上海黄浦区福佑地块已签订土地使用权出让合同，并公布出资比例，其中豫园股份旗下上海复祐实业发展有限公司与蚂蚁集团旗下上海云玓企业管理咨询有限公司各按50%比例分别出资64.65亿元。]]></title>
-            <guid>2870515</guid>
-            <pubDate>Thu, 17 Nov 2022 13:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6592033.d.html</link>
-            <guid>2870514</guid>
-            <pubDate>Thu, 17 Nov 2022 13:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行首席经济学家皮尔：不能让一次性通胀效应根深蒂固。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5009173.d.html</link>
-            <guid>2870513</guid>
-            <pubDate>Thu, 17 Nov 2022 13:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑五年期互换利差降至78.10个基点，为9月26日以来最窄。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6591990.d.html</link>
-            <guid>2870512</guid>
-            <pubDate>Thu, 17 Nov 2022 13:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[梅西百货美股盘前一度涨超10%，公司三季度经调整后每股收益高于市场预估。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6591150.d.html</link>
-            <guid>2870511</guid>
-            <pubDate>Thu, 17 Nov 2022 13:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银日内跌幅达3.00%，现报20.88美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6591124.d.html</link>
-            <guid>2870510</guid>
-            <pubDate>Thu, 17 Nov 2022 13:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国建材行业碳达峰推进大会在北京召开】中国建筑材料联合会受工信部原材料工业司委托，发布水泥、玻璃等行业碳减排技术指南。会议指出，下一步，将重点开展强化产能总量科学控制、绿色低碳技术改造、数字化智能化转型发展、绿色建材生产和应用、标准认证体系建设等五方面工作。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5008176.d.html</link>
-            <guid>2870509</guid>
-            <pubDate>Thu, 17 Nov 2022 13:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股三大股指期货均跌超1%，其中，纳指期货跌1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5008145.d.html</link>
-            <guid>2870508</guid>
-            <pubDate>Thu, 17 Nov 2022 13:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦镍日内大跌6.00%，现报25870.00美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5007680.d.html</link>
-            <guid>2870507</guid>
-            <pubDate>Thu, 17 Nov 2022 13:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海市进一步加强来沪返沪人员健康管理：来沪返沪人员应在抵沪时严格落实落地检，实施“全量扫码”“即采即走”。未按要求在抵沪后24小时内进行一次核酸检测者，其随申码赋黄码。（看看新闻）]]></title>
-            <guid>2870506</guid>
-            <pubDate>Thu, 17 Nov 2022 13:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD日内跌幅达1.00%，现报1.1788。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6590542.d.html</link>
-            <guid>2870505</guid>
-            <pubDate>Thu, 17 Nov 2022 13:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳元兑美元AUD/USD日内跌超1.50%，现报0.6639。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5007619.d.html</link>
-            <guid>2870504</guid>
-            <pubDate>Thu, 17 Nov 2022 13:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债收益率上涨12个基点，至3.258%的日内高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5007590.d.html</link>
-            <guid>2870503</guid>
-            <pubDate>Thu, 17 Nov 2022 13:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国2年期国债收益率大幅上涨至日内高点3.138%，日内上涨14个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5007587.d.html</link>
-            <guid>2870502</guid>
-            <pubDate>Thu, 17 Nov 2022 13:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海港湾：签订重大合同】上海港湾：新加坡分公司近日与STEC-LTSamboJointVenture完成关于新加坡LTACR102地基改善工程合同的签订，本项目合同金额为31,907,982新加坡元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5007291.d.html</link>
-            <guid>2870501</guid>
-            <pubDate>Thu, 17 Nov 2022 13:05:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金跌破1760美元/盎司，日内跌0.77%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6590089.d.html</link>
-            <guid>2870500</guid>
-            <pubDate>Thu, 17 Nov 2022 13:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：如果通胀下降，限制性政策估计的范围可能会更低，市场预计2023年会出现“反通胀”。]]></title>
-            <guid>2870499</guid>
-            <pubDate>Thu, 17 Nov 2022 13:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：货币规则将把限制性政策的下限设定在5%左右，而当前美联储的目标利率区间为3.75%-4%。]]></title>
-            <guid>2870498</guid>
-            <pubDate>Thu, 17 Nov 2022 13:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日财经TOP10】➊「商务部：前10月全国实际使用外资同比增14.4%，德国对华投资同比接近翻番」➋「年底前动用货币政策“大招”可能性有多大？央行最新报告释放这些重要信号」➌「外交部：中国高度重视预防和管控人工智能的风险挑战」➍「“二十条”是否会加大疫情传播风险？专家权威解答」➎「弃京东舍美团，腾讯“大象转身”」➏「四问特斯拉车祸：刹车灯亮了？第三方检测及EDR能否揭示真相？」➐「三年亏损超84亿元，如今员工仅剩55人，每日优鲜发生了什么？」➑「周鸿祎的网贷生意：一年挣44亿，曾经表示不屑做金融」➒「丁磊生气了！暴雪网易分手无碍游戏板块大涨，券商认为估值修复有望延续」➓「6个细节看为什么G20峰会大家都想见中国？」https://finance.sina.com.cn/china/caijingtop10/2022-11-17/doc-imqqsmrp6588640.shtml]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6589976.d.html</link>
-            <guid>2870497</guid>
-            <pubDate>Thu, 17 Nov 2022 13:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST曙光：实际控制人取保候审】ST曙光公告，今日公司收到控股股东《告知函》以及其提供的《天津市滨海新区公安局取保候审决定书》。天津市滨海新区公安局正在侦查非法转让、倒卖土地使用权一案，因犯罪嫌疑人张秀根符合取保候审条件，决定对其取保候审，期限从2022年11月9日起算。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5007035.d.html</link>
-            <guid>2870496</guid>
-            <pubDate>Thu, 17 Nov 2022 13:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[晶瑞电材：拟以1500万元-3000万元回购公司股份，回购价格不超过24.05元/股（含）。]]></title>
-            <guid>2870495</guid>
-            <pubDate>Thu, 17 Nov 2022 13:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国CAC40指数日内跌幅达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6589926.d.html</link>
-            <guid>2870494</guid>
-            <pubDate>Thu, 17 Nov 2022 13:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD日内涨幅达0.50%，现报1.3394。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6589922.d.html</link>
-            <guid>2870493</guid>
-            <pubDate>Thu, 17 Nov 2022 13:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：据估计，政策尚未处于“足够限制性”的范围内，不足以降低通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5006976.d.html</link>
-            <guid>2870492</guid>
-            <pubDate>Thu, 17 Nov 2022 13:01:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波罗的海干散货指数跌4.66%，报1228点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6589900.d.html</link>
-            <guid>2870491</guid>
-            <pubDate>Thu, 17 Nov 2022 13:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：“谨慎”是有必要的，因为市场和美联储一年多来一直预期通胀率会下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5006931.d.html</link>
-            <guid>2870490</guid>
-            <pubDate>Thu, 17 Nov 2022 13:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：迄今为止，美联储加息“对观察到的通胀影响有限”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5006912.d.html</link>
-            <guid>2870489</guid>
-            <pubDate>Thu, 17 Nov 2022 13:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国内期货夜盘开盘涨跌不一，沪银跌0.73%，铁矿涨1.44%，焦煤涨1.12%，原油跌1.5%，燃油跌1.39%。]]></title>
-            <guid>2870488</guid>
-            <pubDate>Thu, 17 Nov 2022 13:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【纳指期货跌幅扩大至1%】美股期货持续走低，纳指期货跌幅扩大至1%，道指期货跌0.8%，标普500指数期货跌0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5006763.d.html</link>
-            <guid>2870487</guid>
-            <pubDate>Thu, 17 Nov 2022 12:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：波多黎各圣安东尼奥西北偏北63公里处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5006482.d.html</link>
-            <guid>2870486</guid>
-            <pubDate>Thu, 17 Nov 2022 12:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[招商证券发布关于“ST曙光”“园城黄金”“*ST未来”“神奇制药”“天鹅股份”“威奥股份”“泽达易盛”近期股票交易的风险提示。]]></title>
-            <guid>2870485</guid>
-            <pubDate>Thu, 17 Nov 2022 12:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【康希诺生物吸入用新冠疫苗在北京全面开启接种】据康希诺生物微信公众号，近日，北京市已全面开展康希诺生物吸入用重组新型冠状病毒疫苗（5型腺病毒载体）克威莎®雾优®的预约和接种工作。有加强免疫需要的市民可在全市16个区的指定接种地点进行预约，免费接种康希诺生物吸入用新冠疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6589371.d.html</link>
-            <guid>2870484</guid>
-            <pubDate>Thu, 17 Nov 2022 12:55:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【加拿大加密交易所Bitvo宣布已终止与FTX的未决收购交易】加拿大加密货币交易所Bitvo宣布已终止与FTX Canada和FTX Trading的未决收购交易，Bitvo对FTX或其任何附属实体没有重大风险敞口，Bitvo未属于FTX及其附属实体进入破产程序中的一方，Bitvo从未拥有、上市或交易FTX代币，之后将继续独立运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5005785.d.html</link>
-            <guid>2870483</guid>
-            <pubDate>Thu, 17 Nov 2022 12:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY向上触及107，日内涨0.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6588540.d.html</link>
-            <guid>2870482</guid>
-            <pubDate>Thu, 17 Nov 2022 12:47:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦锌日内跌超2.00%，现报2992.00美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5005567.d.html</link>
-            <guid>2870481</guid>
-            <pubDate>Thu, 17 Nov 2022 12:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利富时MIB指数日内跌幅达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5005542.d.html</link>
-            <guid>2870480</guid>
-            <pubDate>Thu, 17 Nov 2022 12:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美元兑日元USD/JPY日内涨幅扩大至0.50%，现报140.17。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc5005508.d.html</link>
-            <guid>2870479</guid>
-            <pubDate>Thu, 17 Nov 2022 12:47:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国预算责任办公室（OBR）：预计税收负担将达到GDP的37.5%，这是二战以来的最高水平。]]></title>
-            <guid>2870478</guid>
-            <pubDate>Thu, 17 Nov 2022 12:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【网易丁磊：与暴雪娱乐谈判难度远超预期 不能接受长远运营、玩家权益等条款】在网易公司第三季度业绩会上，网易公司董事局主席兼首席执行官丁磊回应与暴雪娱乐中止合作一事称：“ 我们非常希望能继续代理暴雪游戏，为此付出非常多努力，但谈判难度远超预期。对关键核心条款，包括长远运营、玩家权益等都是暴雪提出的，这些条款也是我们不能接受的。” (贝壳财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6588085.d.html</link>
-            <guid>2870477</guid>
-            <pubDate>Thu, 17 Nov 2022 12:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州通报1例重症、1例危重症患者，方舱床位已交付3.9万张】11月17日，广州召开疫情防控新闻发布会（2022年总第126场）。广州市卫生健康委副主任张屹通报，截至16日，全市在院确诊病例6006例，前期诊断的普通型病例中有1例转为重型、1例转为危重型。“上述两名重型、危重型病例均是伴有多种严重基础疾病的老年人，经广州医科大学附属市八医院积极治疗，目前病情基本稳定。”张屹表示。（羊城晚报·羊城派）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6587844.d.html</link>
-            <guid>2870476</guid>
-            <pubDate>Thu, 17 Nov 2022 12:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东华科技签署大型低温混凝土储罐EPC总承包合同】11月16日下午，东华科技与四川港华合纵能源有限公司签署港华燃气应急调峰储配基地（一期二部分）5万方低温混凝土储罐EPC总承包合同。本次一期二部分将新建一座5万立方LNG混凝土全容罐及配套设施，项目建成后将成为国内城镇燃气最大规模应急调峰储备基地，计划形成提氦、制氢加氢、分布式能源等多个领域产业集群。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6587502.d.html</link>
-            <guid>2870475</guid>
-            <pubDate>Thu, 17 Nov 2022 12:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行：今年10月，国内银行纷纷从财政部手中抢购新发行的卢布债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6587466.d.html</link>
-            <guid>2870474</guid>
-            <pubDate>Thu, 17 Nov 2022 12:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国预算责任办公室（OBR）：英国GDP将于2024年第4季度恢复至大流行前水平。]]></title>
-            <guid>2870473</guid>
-            <pubDate>Thu, 17 Nov 2022 12:38:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

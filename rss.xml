@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Nov 2022 13:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 14:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【11月19日0时至21时新疆和田地区新增6例确诊病例 226例无症状感染者】新疆和田地区疫情防控指挥部通报：11月19日0时至21时，和田地区新增6例确诊病例，其中和田市3例、墨玉县2例、和田县1例；新增226例无症状感染者，其中和田市114例、墨玉县75例、和田县37例，在集中隔离人员、密接人员、高风险区和社区核酸筛查中发现，已闭环转运至定点医疗机构救治和隔离医学观察。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqqsmrp6826986.d.html</link>
+            <guid>2873027</guid>
+            <pubDate>Sat, 19 Nov 2022 13:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌媒：英国首相苏纳克访问基辅，与泽连斯基会晤】据乌克兰独立新闻社19日最新报道，英国首相苏纳克访问基辅，与乌克兰总统泽连斯基举行了会晤。报道还称，泽连斯基19日在社交平台Telegram上发布了一段他与苏纳克会晤的视频。法新社称，这是苏纳克自上任以来首次访问基辅。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqmmthc5249030.d.html</link>
+            <guid>2873026</guid>
+            <pubDate>Sat, 19 Nov 2022 13:41:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国电动“飞的”收费标准公布】当地时间17日，美国加州一家创业公司宣布，推出一款全尺寸的电动飞行器，并计划逐步量产，并最早在2025年将空中“飞的”商业化。上周，这家公司与美联航合作开通一条从新泽西州纽瓦克国际机场到纽约市市中心的“空中飞的”航线。每位乘客的费用约为每英里（1.6公里）6美元（约合人民币43元）。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqmmthc5247077.d.html</link>
@@ -565,17 +577,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqmmthc5186502.d.html</link>
             <guid>2872106</guid>
             <pubDate>Sat, 19 Nov 2022 01:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【原永赢基金副总经理徐翔加盟兴证资管任总经理】据每经，11月19日，兴证资管发布公告，原永赢基金副总经理徐翔正式任职兴证资管董事、总经理，董事长孙国雄不再兼任总经理。公开资料显示，徐翔曾任国家开发银行总行资金局交易中心交易员、澳新银行（中国）有限公司全球金融市场部交易总监、德意志银行（中国）有限公司环球市场部交易主管、永赢基金公司副总经理。据了解，徐翔具备丰富的证券基金经营机构投资、研究、交易等业务经验，在债券领域耕耘颇深。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-19/detail-imqmmthc5185766.d.html</link>
-            <guid>2872086</guid>
-            <pubDate>Sat, 19 Nov 2022 01:35:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国科学院院士潘建伟：希望10至15年构建通用量子计算机】 11月18日，在第五届世界声博会暨2022科大讯飞1024全球开发者节开幕式上，中国科学院院士潘建伟分享了关于量子计算未来15年的发展潜力与计划，“我们希望在未来5年实现量子纠缠，然后完成数百个乃至数千个量子比特的相干操纵，以解决量子化学、新材料设计和优化算法里的一些问题。同时我们希望能够通过10至15年的努力，实现在密码分析和大数分解等方面的应用。”（澎湃新闻）]]></title>
-            <guid>2872064</guid>
-            <pubDate>Sat, 19 Nov 2022 01:34:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

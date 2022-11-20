@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Nov 2022 18:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 19:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【国内油价调价窗口21日开启 或迎年内“第八跌”】“本轮计价周期以来，国际油价呈现宽幅震荡走势，均价较上一周期环比回落。受原油走势影响，本轮变化率由正转为负向加深运行。”分析师表示，美元指数一度下跌，以及地缘局势升温对油价有所提振，但美联储持续加息、全球经济衰退、高油价以及疫情等因素，均对石油消费造成沉重压力。机构测算，截至11月18日本轮成品油调价周期第九个工作日，参考原油品种均价为每桶90.40美元，变化率为-1.85%，预计国内汽油、柴油下调幅度为每吨130-140元，折合汽油、柴油每升下调0.1-0.12元。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-21/detail-imqqsmrp6928866.d.html</link>
+            <guid>2873305</guid>
+            <pubDate>Sun, 20 Nov 2022 18:50:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【厄瓜多尔队2比0卡塔尔队】2022卡塔尔世界杯揭幕赛，东道主卡塔尔队对战厄瓜多尔队。上半场比赛，厄瓜多尔队球员恩纳·瓦伦西亚上演梅开二度，为球队取得两球领先。最终，厄瓜多尔队2-0卡塔尔队取得胜利。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-21/detail-imqmmthc5353512.d.html</link>
@@ -585,12 +591,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqqsmrp6874502.d.html</link>
             <guid>2873188</guid>
             <pubDate>Sun, 20 Nov 2022 04:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特定养老储蓄试点正式启动】中国工商银行11月20日开始在广州、青岛、合肥、西安、成都等5市发行首批特定养老储蓄产品。此次推出的特定养老储蓄产品，包括整存整取、零存整取、整存零取三种类型，涵盖5年、10年、15年、20年四个期限。可通过营业网点柜台，持试点地区签发的身份证办理。特定养老储蓄产品利率高于普通定期存款，急用钱可以提前支取。据了解，中国农业银行、中国银行、中国建设银行的特定养老储蓄产品也将陆续推出。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqqsmrp6874217.d.html</link>
-            <guid>2873187</guid>
-            <pubDate>Sun, 20 Nov 2022 04:47:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

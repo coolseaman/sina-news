@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 20 Nov 2022 20:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 21:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国柴油价格上涨：卡车运输不得不加收燃油附加费】今夏以来，在美国全国范围内，卡车司机和卡车运输公司一直在应对不断上涨的柴油价格。他们说没有看到这些价格下降的迹象。有卡车司机表示，燃料现在已经涨到顶峰了，所以不得不去找我们的客户谈判并加收燃油附加费；如果没有燃油附加费，都无法维持运营。据美国汽车协会（AAA）称，一年前一加仑柴油的平均价格为3.65美元，现在高达5.33美元。高价格油料加上卡车司机短缺正在损害整个卡车运输行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-21/detail-imqmmthc5357416.d.html</link>
+            <guid>2873308</guid>
+            <pubDate>Sun, 20 Nov 2022 21:01:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊朗外交部：伊朗不会屈服于压力 将继续“和平”核计划】当地时间11月20日，伊朗外交部发言人卡纳尼表示，美国和欧洲三国近期在国际原子能机构理事会会议上提出的反伊朗决议是出于政治目的向伊朗施压的行为。卡纳尼强调，伊朗绝不会屈服于压力，伊朗将继续根据国家需要并遵守国际条约规定的权利和义务，继续本国“和平”核计划。（央视）]]></title>
             <guid>2873307</guid>
@@ -584,12 +590,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqqsmrp6874660.d.html</link>
             <guid>2873190</guid>
             <pubDate>Sun, 20 Nov 2022 04:53:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【尽管下游需求逆转 晶圆厂建设支出难降】随着新冠带动的IT消费热潮褪去，半导体行业步入下行周期，晶圆厂资本支出也出现调整。尽管下游需求逆转，但对于过去两年一直大举支出的芯片制造商而言，削减运营成本和资本支出并不容易，特别是欧美各国扶持芯片产业政策，以致厂商扩产，且不少项目已处于在建阶段，资本支出调整空间有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqmmthc5298751.d.html</link>
-            <guid>2873189</guid>
-            <pubDate>Sun, 20 Nov 2022 04:52:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

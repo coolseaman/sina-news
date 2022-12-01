@@ -6,6 +6,158 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2887572,
+            "content_html": "",
+            "title": "  Raymond James：将Snowflake(SNOW.N)目标价从197美元下调至180美元。",
+            "date_modified": "2022-12-01T16:21:34.000Z"
+        },
+        {
+            "id": 2887571,
+            "content_html": "",
+            "title": "  英国付费电视公司Sky：康卡斯特(CMCSA.O)购买了6,420万英镑的本公司3亿英镑2029年到期4.00%票据。",
+            "date_modified": "2022-12-01T16:21:26.000Z"
+        },
+        {
+            "id": 2887570,
+            "content_html": "",
+            "title": "  12月1日17-22时，杭州新增17例新冠病毒无症状感染者，10例为集中隔离点检出，2例为社区筛查发现，2例为居家隔离发现，3例为卡口拦截发现。（ 杭州发布）",
+            "date_modified": "2022-12-01T16:20:55.000Z"
+        },
+        {
+            "id": 2887569,
+            "content_html": "",
+            "title": "  美银美林全球商品策略主管Blanch：看多布伦特原油价格走势前景，因当前原油库存水平仍然处于低位。",
+            "date_modified": "2022-12-01T16:09:03.000Z"
+        },
+        {
+            "id": 2887568,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-02/detail-imqqsmrp8275847.d.html",
+            "title": "  市场消息：瑞士信贷(CS.N)据悉将在债务销售业务裁员三分之一。",
+            "date_modified": "2022-12-01T16:08:40.000Z"
+        },
+        {
+            "id": 2887567,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-02/detail-imqmmthc6729649.d.html",
+            "title": "  丰田汽车(TM.N)北美公司：11月美国销量增长10.2%至169,226辆。",
+            "date_modified": "2022-12-01T16:08:32.000Z"
+        },
+        {
+            "id": 2887566,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-02/detail-imqmmthc6729646.d.html",
+            "title": "  丰田汽车(TM.N)北美公司：11月电气化汽车销量下降9.4%至38,288辆。",
+            "date_modified": "2022-12-01T16:08:25.000Z"
+        },
+        {
+            "id": 2887565,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-02/detail-imqqsmrp8275439.d.html",
+            "title": "  巴克莱：将霍尼韦尔(HON.O)目标价从212美元上调至229美元。",
+            "date_modified": "2022-12-01T16:00:36.000Z"
+        },
+        {
+            "id": 2887564,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-02/detail-imqmmthc6729245.d.html",
+            "title": "  巴克莱：将Salesforce(CRM.N)目标价从193美元下调至180美元。",
+            "date_modified": "2022-12-01T16:00:30.000Z"
+        },
+        {
+            "id": 2887563,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-02/detail-imqqsmrp8275395.d.html",
+            "title": "  美股拉升，纳指转涨，标普跌幅收窄至0.1%。",
+            "date_modified": "2022-12-01T16:00:19.000Z"
+        },
+        {
+            "id": 2887562,
+            "content_html": "",
+            "title": "  据消息人士称，汇丰银行将在全球削减约10-15%的首席运营官职位；汇丰的裁员将导致至少200个工作岗位被裁掉。",
+            "date_modified": "2022-12-01T15:52:43.000Z"
+        },
+        {
+            "id": 2887561,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6728606.d.html",
+            "title": "摩根士丹利：将道富银行(STT.N)目标价从81美元上调至86美元。",
+            "date_modified": "2022-12-01T15:47:57.000Z"
+        },
+        {
+            "id": 2887560,
+            "content_html": "",
+            "title": "  在岸人民币兑美元（CNY）北京时间23:30收报7.0550元，较周三夜盘收盘涨379点。成交量318.16亿美元。",
+            "date_modified": "2022-12-01T15:42:43.000Z"
+        },
+        {
+            "id": 2887559,
+            "content_html": "",
+            "title": "  摩根士丹利：将Salesforce(CRM.N)目标价从273美元下调至250美元。",
+            "date_modified": "2022-12-01T15:42:27.000Z"
+        },
+        {
+            "id": 2887558,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6728331.d.html",
+            "title": "【乌外长称乌克兰另有两驻外使馆收到恐吓信】乌克兰国家通讯社12月1日报道称，乌克兰外长库列巴当天表示，目前正在与西班牙当局调查针对乌克兰驻西班牙大使馆的信件炸弹袭击事件。此外，他表示，除了乌克兰驻西班牙大使馆外，乌克兰另有两个驻外大使馆收到了“非常具体”的恐吓信件。（央视新闻）",
+            "date_modified": "2022-12-01T15:42:06.000Z"
+        },
+        {
+            "id": 2887557,
+            "content_html": "",
+            "title": "美国财政部副部长表示，欧盟就60美元的价格上限达成的协议是在已经讨论了一段时间的价格范围内。",
+            "date_modified": "2022-12-01T15:35:55.000Z"
+        },
+        {
+            "id": 2887556,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8273987.d.html",
+            "title": "  据消息人士，Facebook与欧盟监管机构进行了初步谈判，但尚未取得任何进展。",
+            "date_modified": "2022-12-01T15:32:49.000Z"
+        },
+        {
+            "id": 2887555,
+            "content_html": "",
+            "title": "美国能源信息署（EIA）：最近一周，美国EIA天然气库存下降810亿立方英尺，周环比降幅2.27%，至3.48万亿立方英尺。",
+            "date_modified": "2022-12-01T15:31:25.000Z"
+        },
+        {
+            "id": 2887554,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6727598.d.html",
+            "title": "  【土耳其股指历史上首次收于5000点关口上方】土耳其伊斯坦布尔证交所全国100指数收涨1.38%，报5046.19点，继续创收盘历史新高，延续11月份累计涨超25.00%的表现。伊斯坦布尔证交所银行指数收涨1.17%，报4513.70点，11月份也累涨超19.00%。",
+            "date_modified": "2022-12-01T15:29:32.000Z"
+        },
+        {
+            "id": 2887553,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6727523.d.html",
+            "title": "【美国总统拜登在白宫会见法国总统马克龙】当地时间12月1日，美国总统拜登携夫人吉尔·拜登在白宫迎接了进行国事访问的法国总统马克龙和夫人布丽吉特。拜登和马克龙当天在白宫发表了讲话。拜登在讲话中提及美法需要加强合作的必要性。（央视新闻）",
+            "date_modified": "2022-12-01T15:28:11.000Z"
+        },
+        {
+            "id": 2887552,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8273644.d.html",
+            "title": "美国银行：预计美国2023年天然气均价为4.50美元/百万英热单位。",
+            "date_modified": "2022-12-01T15:27:12.000Z"
+        },
+        {
+            "id": 2887551,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8273228.d.html",
+            "title": "  市场消息：瑞士信贷在其香港财富中心削减了约5%的私人银行员工。",
+            "date_modified": "2022-12-01T15:20:26.000Z"
+        },
+        {
+            "id": 2887550,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8272996.d.html",
+            "title": "布伦特原油日内大涨3.00%，现报89.33美元/桶。",
+            "date_modified": "2022-12-01T15:16:24.000Z"
+        },
+        {
             "id": 2887549,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6726839.d.html",
@@ -521,159 +673,6 @@
             "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6718712.d.html",
             "title": "穆迪：预计2023年全球经济增长将放缓。",
             "date_modified": "2022-12-01T13:34:41.000Z"
-        },
-        {
-            "id": 2887471,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8265125.d.html",
-            "title": "穆迪：至少在未来12至18个月内，全球银行的存款可能仍将远高于疫情前的水平。",
-            "date_modified": "2022-12-01T13:34:33.000Z"
-        },
-        {
-            "id": 2887470,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6718675.d.html",
-            "title": "穆迪：2023年，全球银行的资金和流动性将保持强劲。",
-            "date_modified": "2022-12-01T13:34:21.000Z"
-        },
-        {
-            "id": 2887469,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6718658.d.html",
-            "title": "穆迪：各地区的资本比率将保持大致稳定。",
-            "date_modified": "2022-12-01T13:34:09.000Z"
-        },
-        {
-            "id": 2887468,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8265082.d.html",
-            "title": "穆迪：2023年，全球银行的贷款表现将从强劲水平适度恶化。",
-            "date_modified": "2022-12-01T13:33:57.000Z"
-        },
-        {
-            "id": 2887467,
-            "content_html": "",
-            "title": "PCE数据公布后，美国国债收益率下跌，10年期国债收益率日内下跌12.50个基点，报3.576%。",
-            "date_modified": "2022-12-01T13:32:52.000Z"
-        },
-        {
-            "id": 2887466,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6718535.d.html",
-            "title": "美国10月核心PCE物价指数月率公布后，美股三大股指期货短线拉升均转涨。",
-            "date_modified": "2022-12-01T13:32:31.000Z"
-        },
-        {
-            "id": 2887465,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8264959.d.html",
-            "title": "美国PCE数据公布后，美元指数DXY继续走低，现报105.09。",
-            "date_modified": "2022-12-01T13:32:21.000Z"
-        },
-        {
-            "id": 2887464,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8264955.d.html",
-            "title": "美国10月核心PCE物价指数月率录得0.2%，为2022年7月以来最小增幅。",
-            "date_modified": "2022-12-01T13:32:12.000Z"
-        },
-        {
-            "id": 2887463,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6718493.d.html",
-            "title": "美国10月个人收入月率 0.7%，预期0.40%，前值0.40%。",
-            "date_modified": "2022-12-01T13:31:58.000Z"
-        },
-        {
-            "id": 2887462,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8264927.d.html",
-            "title": "加拿大第三季度劳动生产率季率 0.6%，预期0.30%，前值0.20%。",
-            "date_modified": "2022-12-01T13:31:47.000Z"
-        },
-        {
-            "id": 2887461,
-            "content_html": "",
-            "title": "美国至11月26日当周初请失业金人数四周均值 22.875万人，前值22.675万人。",
-            "date_modified": "2022-12-01T13:31:34.000Z"
-        },
-        {
-            "id": 2887460,
-            "content_html": "",
-            "title": "美国至11月19日当周续请失业金人数 160.8万人，预期157.3万人，前值155.1万人。",
-            "date_modified": "2022-12-01T13:31:26.000Z"
-        },
-        {
-            "id": 2887459,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8264889.d.html",
-            "title": "美国10月个人支出月率 0.8%，预期0.80%，前值0.60%。",
-            "date_modified": "2022-12-01T13:31:15.000Z"
-        },
-        {
-            "id": 2887458,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6718435.d.html",
-            "title": "美国10月核心PCE物价指数年率 5%，预期5.00%，前值5.10%。",
-            "date_modified": "2022-12-01T13:31:07.000Z"
-        },
-        {
-            "id": 2887457,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8264864.d.html",
-            "title": "美国10月核心PCE物价指数月率 0.2%，预期0.30%，前值0.50%。",
-            "date_modified": "2022-12-01T13:30:57.000Z"
-        },
-        {
-            "id": 2887456,
-            "content_html": "",
-            "title": "美国至11月26日当周初请失业金人数 22.5万人，预期23.5万人，前值24万人。",
-            "date_modified": "2022-12-01T13:30:44.000Z"
-        },
-        {
-            "id": 2887455,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqqsmrp8264811.d.html",
-            "title": "美元指数DXY短线走低超20点，现报105.17。",
-            "date_modified": "2022-12-01T13:30:35.000Z"
-        },
-        {
-            "id": 2887454,
-            "content_html": "",
-            "title": "穆迪：2023年，不断上涨的利率和稳定的准备金将保护全球银行免受违约率上升的影响。",
-            "date_modified": "2022-12-01T13:30:23.000Z"
-        },
-        {
-            "id": 2887453,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6718317.d.html",
-            "title": "穆迪：全球银行业面临着一个疲弱且更不稳定的宏观经济环境。",
-            "date_modified": "2022-12-01T13:30:04.000Z"
-        },
-        {
-            "id": 2887452,
-            "content_html": "",
-            "title": "穆迪：因为利率上升、强劲的资产负债表对抗全球经济放缓，2023年全球银行业前景稳定。",
-            "date_modified": "2022-12-01T13:29:53.000Z"
-        },
-        {
-            "id": 2887451,
-            "content_html": "",
-            "title": "市场消息：随着卡沙干油田恢复生产，哈萨克斯坦11月平均日产量环比增长16%，至162万桶/日。",
-            "date_modified": "2022-12-01T13:29:36.000Z"
-        },
-        {
-            "id": 2887450,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-12-01/detail-imqmmthc6718249.d.html",
-            "title": "法国总统马克龙：言论自由应伴随着责任和限制。",
-            "date_modified": "2022-12-01T13:29:20.000Z"
-        },
-        {
-            "id": 2887449,
-            "content_html": "",
-            "title": "法国总统马克龙：马斯克结束对Twitter的审核是“大问题\"。",
-            "date_modified": "2022-12-01T13:29:08.000Z"
         }
     ]
 }

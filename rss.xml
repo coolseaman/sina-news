@@ -4,11 +4,394 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 07 Dec 2022 14:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 15:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【广东股交与佛山市市场监管局建立信息共享机制，优化中小微企业营商环境】近日，广东股权交易中心（简称“广东股交”）与佛山市市场监管局实现企业登记信息共享，这一信息共享机制建立将有利于支持广东省中小微企业高质量发展，促进民营经济发展壮大。下一步，广东股交还将与佛山市市场监管局建立信息共享的常态化沟通机制，充分发挥双方服务优势，为广东省中小微企业服务提供科学的数据支撑，进一步提升数据要素的服务效能。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8922327.d.html</link>
+            <guid>2896270</guid>
+            <pubDate>Wed, 07 Dec 2022 15:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线上扬6.6美元，现报1785.33美元/盎司；现货白银短线走高0.2美元，现报22.69美元/盎司。]]></title>
+            <guid>2896269</guid>
+            <pubDate>Wed, 07 Dec 2022 15:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX期银向上触及23美元/盎司，日内涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7384164.d.html</link>
+            <guid>2896268</guid>
+            <pubDate>Wed, 07 Dec 2022 15:12:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构评加拿大央行利率决议：声明中提到，全球通胀仍处于高位并非常广泛。虽然加拿大经济增长正在放缓，但事实证明，经济比10月份的预期“更具韧性”。因此，在外部因素上，加央行显然更专注于全球通胀。虽然加息50个基点，但看起来更像是鸽派的50个基点。如果通胀和经济进展如我们预期的那样，这可能只是本轮周期的最后一次加息。下一步将密切关注明天副行长和下周行长的讲话。利率决定导致收益率曲线比以前更加倒挂。2年期加拿大国债收益率已跃升至3.8%（在该决定发布前为3.73%）。这比10年期国债高出约103个基点。]]></title>
+            <guid>2896267</guid>
+            <pubDate>Wed, 07 Dec 2022 15:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大央行：全球范围内的通胀仍然高企且普遍】加拿大央行称，自10月货币政策报告以来的数据支持央行的展望，即到2023年中经济增长将基本保持停滞；全球范围内的通胀仍然高企且普遍；全球经济增长正在放缓，尽管事实证明它比10月货币政策报告预测的更有韧性；全球供应瓶颈的逐步缓解仍在继续，尽管进一步的进展可能会受到地缘事件的干扰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8922055.d.html</link>
+            <guid>2896266</guid>
+            <pubDate>Wed, 07 Dec 2022 15:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通在欧洲高收益公司债交易业务中遭受0.7亿美元损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7383887.d.html</link>
+            <guid>2896265</guid>
+            <pubDate>Wed, 07 Dec 2022 15:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【普京称没有继续进行动员的必要】俄罗斯总统普京当地时间12月7日表示，在已经完成动员的30万人中，目前有15万人位于特别军事行动区域，但其中只有7.7万人直接参战，其他人员处于作战的二、三线，实际上承担着地方防御的任务。而另外的15万人还在各地接受训练，是实际上的作战预备人员。因此，对俄罗斯而言，没有必要继续进行动员。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7383874.d.html</link>
+            <guid>2896264</guid>
+            <pubDate>Wed, 07 Dec 2022 15:09:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Carvana（CVNA）下跌44%，刷新盘中历史低点至3.75美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8921938.d.html</link>
+            <guid>2896263</guid>
+            <pubDate>Wed, 07 Dec 2022 15:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大两年期国债收益率扭转央行利率决定后的跌势，现涨2.6个基点至3.816%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8921815.d.html</link>
+            <guid>2896262</guid>
+            <pubDate>Wed, 07 Dec 2022 15:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗：将Luminar(LAZR.O)目标价从21美元下调至20美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7383557.d.html</link>
+            <guid>2896261</guid>
+            <pubDate>Wed, 07 Dec 2022 15:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行称，央行正考虑是否需要进一步加息来控制通胀；加拿大通胀太高，但央行看到诸多迹象表明通胀压力可能正在缓和。]]></title>
+            <guid>2896260</guid>
+            <pubDate>Wed, 07 Dec 2022 15:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美元兑加元在加拿大央行如预期加息50基点后短时跳跌，跌破1.36关口触及日低1.3590。]]></title>
+            <guid>2896259</guid>
+            <pubDate>Wed, 07 Dec 2022 15:02:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加央行加息50个基点，美元兑加元USD/CAD短线下挫60点，现报1.3614。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7383411.d.html</link>
+            <guid>2896258</guid>
+            <pubDate>Wed, 07 Dec 2022 15:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大商所、郑商所夜盘收盘，焦煤、棉纱等跌超1%，玻璃、棕榈油等小幅下跌；豆粕、豆二等涨超1%，菜粕、焦炭等小幅上涨。]]></title>
+            <guid>2896257</guid>
+            <pubDate>Wed, 07 Dec 2022 15:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行加息50个基点至4.25%，符合市场预期，利率水平为2007年12月以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7383261.d.html</link>
+            <guid>2896256</guid>
+            <pubDate>Wed, 07 Dec 2022 15:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  广州市委宣传部副部长、市政府新闻办主任朱小燚12月7日向公众宣布：“广州此轮疫情的疫情防控主题新闻发布会将告一段落。从明天开始，广州市新闻发布会将转向社会经济生活常态化发布会。”（广州日报）]]></title>
+            <guid>2896255</guid>
+            <pubDate>Wed, 07 Dec 2022 14:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Evercore ISI：将汽车地带(AZO.N)目标价从2520美元下调至2440美元。]]></title>
+            <guid>2896254</guid>
+            <pubDate>Wed, 07 Dec 2022 14:58:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉跌幅扩大至3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7383098.d.html</link>
+            <guid>2896253</guid>
+            <pubDate>Wed, 07 Dec 2022 14:57:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行利率决议在即，美元兑加元USD/CAD上扬18个基点，现报1.3653。]]></title>
+            <guid>2896252</guid>
+            <pubDate>Wed, 07 Dec 2022 14:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【广发银行：个人养老金账户已开立超28万户】广发银行12月6日举行发布会介绍个人养老金业务开展情况称，11月25日，广发银行试点城市（地区）所在的分行及机构正式对客上线开展个人养老金业务。目前，广发银行正全力推进个人养老金业务拓展，客户开户数不断创新高，截至12月6日12时，该行个人养老金账户已开立28.56万户。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8921145.d.html</link>
+            <guid>2896251</guid>
+            <pubDate>Wed, 07 Dec 2022 14:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股航空股走低，西南航空(LUV.N)跌近4%，美国航空集团(AAL.O)、美国联合航空(UAL.O)、达美航空(DAL.N)跌近3%。]]></title>
+            <guid>2896250</guid>
+            <pubDate>Wed, 07 Dec 2022 14:54:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳斯达克金龙指数跌超4%，小鹏汽车跌超11%，蔚来跌近8%，京东、阿里跌4%。]]></title>
+            <guid>2896249</guid>
+            <pubDate>Wed, 07 Dec 2022 14:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件，康沣生物科技(上海)股份有限公司-B通过港交所上市聆讯，花旗和华泰国际为联席保荐人。]]></title>
+            <guid>2896248</guid>
+            <pubDate>Wed, 07 Dec 2022 14:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国首个海上储气库开始采气调峰】12月7日，在中国石油天然气股份有限公司冀东油田分公司(简称冀东油田)南堡2号人工岛，随着气库井口阀门缓缓打开，南堡1-29储气库开始采气，标志着中国第一座海上储气库正式进入首轮采气期。作为中国第一座海上储气库，南堡1-29储气库先导试验好于预期。截至目前，南堡1-29储气库累计注气1.77亿立方米。（中新网）]]></title>
+            <guid>2896247</guid>
+            <pubDate>Wed, 07 Dec 2022 14:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克决定任命朱晓彤为特斯拉全球CEO】马斯克决定任命朱晓彤为特斯拉全球CEO。公开资料显示，朱晓彤于 2014年4月加入特斯拉汽车公司，担任特斯拉中国超级充电站项目总监。2014年12月，特斯拉全球副总裁兼中国区总裁吴碧瑄离职，超级充电站项目总监朱晓彤接任其职。在担任中国区总裁期间，朱晓彤主导了一系列特斯拉产品中国本土化事项，包括体验中心开业、新车在华传播以及上海特斯拉超级工厂的建设等。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7382519.d.html</link>
+            <guid>2896246</guid>
+            <pubDate>Wed, 07 Dec 2022 14:49:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  开发和商业化新型治疗和伴随诊断产品的生物技术公司Prometheus Biosciences（RXDX）高开194%，领跑纳斯达克生物科技指数的成分股。]]></title>
+            <guid>2896245</guid>
+            <pubDate>Wed, 07 Dec 2022 14:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗：将汽车地带(AZO.N)目标价从2520美元上调至2782美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7382352.d.html</link>
+            <guid>2896244</guid>
+            <pubDate>Wed, 07 Dec 2022 14:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX期金突破1800美元/盎司，日内涨0.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8920536.d.html</link>
+            <guid>2896243</guid>
+            <pubDate>Wed, 07 Dec 2022 14:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mobileye Global涨幅扩大至11%，报33.89美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7382315.d.html</link>
+            <guid>2896242</guid>
+            <pubDate>Wed, 07 Dec 2022 14:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国二手车电商平台Carvana Co.（CVNA）34%，在这家线上经销商那些最大的债权人针对与Carvana谈判签署一份共同行动协议之后，华尔街对该公司的悲观情绪蔓延。]]></title>
+            <guid>2896241</guid>
+            <pubDate>Wed, 07 Dec 2022 14:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股黄金股上扬，赫克拉矿业(HL.N)、金罗斯黄金(KGC.N)涨近4%，哈莫尼黄金(HMY.N)、巴里克黄金(GOLD.N)涨超3%。]]></title>
+            <guid>2896240</guid>
+            <pubDate>Wed, 07 Dec 2022 14:43:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【资管大佬加盟！百亿私募源乐晟又有“大动作”】百亿私募源乐晟又有“大动作”。12月7日，源乐晟资产发布公告称，前中国人寿养老保险股份有限公司投资中心权益部副总经理王雁杰于近日加盟源乐晟。今年6月，原华商基金权益投资健将梁皓也宣布加盟源乐晟。据不完全统计，今年以来，已有超20位基金经理从公募离职后加入了私募基金的队伍。临近年末，基金经理“奔私潮”仍未停止。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7382118.d.html</link>
+            <guid>2896239</guid>
+            <pubDate>Wed, 07 Dec 2022 14:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件：职业教育培训服务供应商粉笔有限公司通过港交所上市聆讯。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8920314.d.html</link>
+            <guid>2896238</guid>
+            <pubDate>Wed, 07 Dec 2022 14:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【惠誉：2023年全球房价将出现下跌或增长放缓】惠誉在《全球住房和抵押贷款展望》中表示，到2023年，大多数国家的名义房价增长将大幅下降或放缓，主要原因是抵押贷款利率高企和生活成本上升导致需求降温。房价将保持在疫情前的水平之上，因为住房供应限制将限制一些市场的价格调整，而其他市场的需求将由家庭组成和强劲的家庭资产负债表来维持。房地产市场的下行风险是巨大的。政府驾驭财政和货币政策以避免经济进一步下滑和消费者信心低迷的能力，是避免房地产市场大幅下滑的关键。通胀在更长时间内保持在较高水平的风险、加息幅度超过市场预期，以及工资进一步落后于通胀的增速，都可能会导致相当大幅的价格回调。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8920188.d.html</link>
+            <guid>2896237</guid>
+            <pubDate>Wed, 07 Dec 2022 14:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股行业ETF周三盘初多数上涨，能源业ETF涨超0.8%领跑，生物科技指数ETF和医疗业ETF涨超0.5%，银行业ETF则跌超0.4%，区域银行ETF跌0.5%，全球航空业ETF跌超1.2%。]]></title>
+            <guid>2896236</guid>
+            <pubDate>Wed, 07 Dec 2022 14:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【赣锋锂业涉嫌内募交易受罚，或影响业务分拆上市】12月7日晚间，赣锋锂业公告称，因内幕交易江特电机股票，公司收到中国证监会江西监管局出具的《行政处罚事先告知书》。江西证监局拟决定，没收赣锋锂业违法所得110.53万元，并处以331.59万元罚款，同时对赣锋锂业董事长、总裁李良彬给予警告，并处以60万元罚款；对时任董事会秘书欧阳明给予警告，并处以20万元罚款。赣锋锂业表示，此事可能会对江西赣锋锂电科技股份有限公司（简称“赣锋锂电”）的分拆上市产生影响，最终结论以中国证监会江西监管局出具的行政处罚决定书为准。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381701.d.html</link>
+            <guid>2896235</guid>
+            <pubDate>Wed, 07 Dec 2022 14:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[方舟基金创始人Cathie Wood表示，债券市场似乎表明，美联储的货币政策正在犯一个“严重错误”。她在社交媒体上称，通缩的风险比通胀大得多，并补充称，大宗商品价格和“大幅零售折扣”强化了她的观点。]]></title>
+            <guid>2896234</guid>
+            <pubDate>Wed, 07 Dec 2022 14:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特斯拉（TSLA）一度跌超2%，最低触及174.88美元，该公司再推“限时优惠”，年内购买现车并交付可补贴6000元。特斯拉在泰国开放电动汽车预订，将于2023年一季度开始在泰国交付电动汽车。]]></title>
+            <guid>2896233</guid>
+            <pubDate>Wed, 07 Dec 2022 14:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苹果（AAPL）一度跌超0.4%，该公司主要供应商日本村田制作所预计iPhone订单量将因需求疲软而下降。媒体报道称，该公司首款无人驾驶汽车拟推迟至2026年发布，售价将低于10万美元。]]></title>
+            <guid>2896232</guid>
+            <pubDate>Wed, 07 Dec 2022 14:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内涨超2.00%，现报22.62美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381570.d.html</link>
+            <guid>2896231</guid>
+            <pubDate>Wed, 07 Dec 2022 14:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线走高5美元，现报1782.73美元/盎司；现货白银短线走高0.1美元，现报22.58美元/盎司。]]></title>
+            <guid>2896230</guid>
+            <pubDate>Wed, 07 Dec 2022 14:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[水滴(WDH.N)今日回调跌超9%，该股周二绩后收涨近14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381471.d.html</link>
+            <guid>2896229</guid>
+            <pubDate>Wed, 07 Dec 2022 14:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股盘初拉升，三大股指悉数翻红。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8919734.d.html</link>
+            <guid>2896228</guid>
+            <pubDate>Wed, 07 Dec 2022 14:36:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MKM Partners：将汽车地带(AZO.N)目标价从2350美元上调至2650美元。]]></title>
+            <guid>2896227</guid>
+            <pubDate>Wed, 07 Dec 2022 14:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克金龙指数美股盘初跌4.5%，成分股达达集团跌11.4%，小牛电动跌10.3%，金融壹账通跌超9.1%，360数科跌9.1%，爱奇艺跌8.4%，腾讯音乐跌8.0%，蔚来汽车跌7.5%，亿航智能则涨3.3%。]]></title>
+            <guid>2896226</guid>
+            <pubDate>Wed, 07 Dec 2022 14:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委Panetta表示，需要全球对数字货币进行监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8919528.d.html</link>
+            <guid>2896225</guid>
+            <pubDate>Wed, 07 Dec 2022 14:34:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股新能源车板块走低，小牛电动(NIU.O)跌超11%，蔚来汽车(NIO.N)跌超7%，理想汽车(LI.O)跌近6%，特斯拉(TSLA.O)跌超2%。]]></title>
+            <guid>2896224</guid>
+            <pubDate>Wed, 07 Dec 2022 14:33:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果遭法国环保组织投诉：不允许用备件修复iPhone】法国环保组织HOP协会今日投诉苹果公司，称其商业行为限制了用备件修复其产品的可能性，这是一种浪费行为。HOP协会在一份声明中称：“我们发现，在许多投诉案件中，用备件修复的苹果产品，即使是用同一型号的原厂配件，也都会出现故障，不被苹果的软件所授权（识别）。”对此，苹果尚未发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381233.d.html</link>
+            <guid>2896223</guid>
+            <pubDate>Wed, 07 Dec 2022 14:32:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  达达集团美股盘初下跌11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381198.d.html</link>
+            <guid>2896222</guid>
+            <pubDate>Wed, 07 Dec 2022 14:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  标普500指数低开7.98点，跌幅0.20%，报3933.28点；道琼斯工业平均指数低开39.94点，跌幅0.12%，报33556.40点；纳斯达克综合指数低开50.94点，跌幅0.46%，报10963.95点。]]></title>
+            <guid>2896221</guid>
+            <pubDate>Wed, 07 Dec 2022 14:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mobileye Global(MBLY.O)涨超7%，第三季度营收同比增长38%至4.5亿美元。]]></title>
+            <guid>2896220</guid>
+            <pubDate>Wed, 07 Dec 2022 14:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“木头姐”Cathie Wood：债市表明美联储在犯“严重错误”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381055.d.html</link>
+            <guid>2896219</guid>
+            <pubDate>Wed, 07 Dec 2022 14:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指开盘跌0.1%，标普500跌0.3%，纳指跌0.5%】二手车经销商Carvana跌33.7%，Wedbush调降其目标价至1美元。爱彼迎跌4.1%，大摩下调其评级至“减持”。MongoDB涨27.2%，Q3业绩超预期。Vapotherm涨4.1%，获公司董事净买入8.92万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7381038.d.html</link>
+            <guid>2896218</guid>
+            <pubDate>Wed, 07 Dec 2022 14:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺瓦瓦克斯的NUVAXOVID新冠疫苗获加拿大使用批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380888.d.html</link>
+            <guid>2896217</guid>
+            <pubDate>Wed, 07 Dec 2022 14:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利央行卖出价值5000万智利比索的外汇远期，平均价格为883.71智利比索。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8919049.d.html</link>
+            <guid>2896216</guid>
+            <pubDate>Wed, 07 Dec 2022 14:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首都国际机场：不再需要北京健康宝扫码登记、测温、查验核酸检测阴性证明】据北京首都国际机场官微，即刻起进入首都机场航站楼不再需要北京健康宝扫码登记、测温、查验核酸检测阴性证明。但进入餐饮（堂食）、计时休息室等密闭场所须使用北京健康宝扫码登记并查验48小时内核酸检测阴性证明。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380851.d.html</link>
+            <guid>2896215</guid>
+            <pubDate>Wed, 07 Dec 2022 14:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金向上触及1780美元/盎司，日内涨0.52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8918953.d.html</link>
+            <guid>2896214</guid>
+            <pubDate>Wed, 07 Dec 2022 14:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.6725。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380771.d.html</link>
+            <guid>2896213</guid>
+            <pubDate>Wed, 07 Dec 2022 14:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽元兑美元NZD/USD日内涨幅扩大至1.00%，现报0.6378。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380758.d.html</link>
+            <guid>2896212</guid>
+            <pubDate>Wed, 07 Dec 2022 14:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件：数字零售SaaS平台多点数智有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380704.d.html</link>
+            <guid>2896211</guid>
+            <pubDate>Wed, 07 Dec 2022 14:24:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宾利CEO：计划明年减产，目前没有IPO计划】宾利汽车首席执行官Adrian Hallmark称，德国大众汽车旗下的这个品牌也计划明年减产。对于2023年，宾利计划小幅降低产量，因该品牌致力于不超额供应、提高每辆车的收入。宾利目前没有IPO计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380681.d.html</link>
+            <guid>2896210</guid>
+            <pubDate>Wed, 07 Dec 2022 14:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海干散货运价指数升至近一个月高点】波罗的海干散货运价指数升至近一个月高点，因海岬型船走强。波罗的海干散货运价指数周三上涨33点或2.5%，至1373点，为11月10日以来的最高水平。海岬型船运价指数上涨95点或6.2%，至1635点，为近两周以来的最大单日涨幅。海岬型船日均获利增加787美元，至13561美元。巴拿马型船运价指数上涨2点，至1659点，已连续第十个交易日上涨。巴拿马型船日均获利增加23美元，至14935美元。超灵便型散货船运价指数维持在1158点不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8918770.d.html</link>
+            <guid>2896209</guid>
+            <pubDate>Wed, 07 Dec 2022 14:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：将Velodyne(VLDR.O)目标价从1.7美元下调至1.3美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380368.d.html</link>
+            <guid>2896208</guid>
+            <pubDate>Wed, 07 Dec 2022 14:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧洲央行管委Kazimir：10%的通胀率并非放慢加息的理由。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380247.d.html</link>
+            <guid>2896207</guid>
+            <pubDate>Wed, 07 Dec 2022 14:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水利部：全力推进年底前再开工一批重大水利项目】水利部部长李国英12月6日主持半月调度推进会，李国英要求，要着力做好以下工作：一要积极创造条件、全力推进年底前再开工一批重大水利项目。二要锚定重大战略性水利工程，逐项抓实抓紧，推动项目前期工作取得实质性进展。三要指导督促各级水利部门用足用好政策性开发性金融工具及商业性金融支持政策，积极做好项目对接。四要总结经验、规范模式，进一步拓宽水利建设长期资金筹措渠道。五要加强水利工程冬季施工质量控制和安全管理，确保工程质量、生产安全。六要聚焦推动新阶段水利高质量发展的目标路径，提前谋划明年水利工程项目及资金筹措方案，持续推进水利基础设施体系建设。（中国水利）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380131.d.html</link>
+            <guid>2896206</guid>
+            <pubDate>Wed, 07 Dec 2022 14:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞杰金融：将汽车地带(AZO.N)目标价从2500美元上调至2600美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7380093.d.html</link>
+            <guid>2896205</guid>
+            <pubDate>Wed, 07 Dec 2022 14:16:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12月8日零时起，上海51个高风险区解除管控。（上海发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8918165.d.html</link>
+            <guid>2896204</guid>
+            <pubDate>Wed, 07 Dec 2022 14:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线下挫约0.9美元，现分别报74.06和79.28美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7379879.d.html</link>
+            <guid>2896203</guid>
+            <pubDate>Wed, 07 Dec 2022 14:13:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【陕西西安：机场和火车站不再强制“落地检”】7日下午，西安咸阳国际机场新冠肺炎疫情联合防控指挥部发布最新消息：即日起，西安咸阳国际机场明确对省外来（返）人员不再实施分类管控，进出港旅客不再查验核酸检测阴性证明和健康码，到达旅客也不再强制“落地检”。从西安火车站地区管理委员会处了解到，目前西安火车站进站不再查验48小时核酸检测阴性证明，原本设置在出站口的落地检区域已经取消。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7379781.d.html</link>
@@ -194,404 +577,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8913626.d.html</link>
             <guid>2896170</guid>
             <pubDate>Wed, 07 Dec 2022 13:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国铁路：即日起取消对进京旅客查验“北京健康宝”绿码和48小时核酸检测阴性证明】据中国铁路消息，按照首都严格进京管理联防联控协调机制防控政策要求，自即日起，对进返京人员不再执行查验核酸检测阴性证明和健康码等防控措施。各铁路客运车站，取消对进京旅客和京津冀通勤人员查验“北京健康宝”绿码和48小时核酸检测阴性证明。取消购票环节进返京限制，各次途经、终到北京列车，恢复办理到京延长补票业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8913549.d.html</link>
-            <guid>2896169</guid>
-            <pubDate>Wed, 07 Dec 2022 13:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京优化疫情防控新十条划重点】12月7日，北京市召开召开新冠疫情防控第430场新闻发布会，会上介绍北京优化疫情防控新十条 ，其中提到： ① 科学精准划分风险区域。按楼栋、单元、楼层、住户划定高风险区的要求，不得随意扩大到小区、社区和街道（乡镇）等区域，不得采取各种形式的临时封控。 ② 落实高风险区快封快解。高风险区人员，隔离第5天进行采样，检测结果为阴性后及时解封。 ③ 优化核酸检测查验措施。餐饮（堂食）等密闭场所，须扫码并查验48小时核酸阴性证明，对进返京人员不再执行查验核酸检测阴性证明和健康码等防控措施，抵京后不再执行落地三天三检。 ④ 优化调整隔离方式。具备居家隔离条件的无症状感染者和轻型病例一般采取居家隔离。 ⑤ 保障群众基本购药需求。不限制群众线上线下购买退热、止咳、抗感染、治感冒等非处方药，对购药人员不做实名登记，不弹窗、不追访。 ⑥ 保障正常医疗秩序。医疗机构门诊、急诊要设置应急诊疗区，抢救急危重症患者，保障患者生命安全。医疗机构中出现阳性人员后，对所涉及诊室即消即开，确保日常诊疗服务。 ⑦ 加快推进老年人疫苗接种。坚持应接尽接原则，聚焦提高60-79岁人群接种率、加快提升80岁及以上人群接种率。 ⑧ 加强重点人群摸底建档。对重点人群建档，分级分类提供服务。 ⑨ 保障社会正常运转。严禁以各种方式封堵消防通道、单位门、小区门。非高风险区不得限制人员流动。 ⑩ 优化学校疫情防控。没有疫情的学校要正常开展线下教学活动。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7374642.d.html</link>
-            <guid>2896168</guid>
-            <pubDate>Wed, 07 Dec 2022 13:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米印度首席商务官辞职：曾帮助公司登顶印度手机市场】据报道，小米印度公司今日宣布，其首席商务官（CBO）拉古・雷迪（Raghu Reddy）将离职。当前，小米在印度市场正面临日益严峻的竞争压力。雷迪曾帮助小米公司登顶印度智能手机和智能电视市场。小米印度公司今日在一封电子邮件中称：“雷迪曾是小米印度领导团队不可或缺的一部分，我们为此感到荣幸。雷迪辞职后将在外部寻求不同的发展机会。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7374555.d.html</link>
-            <guid>2896167</guid>
-            <pubDate>Wed, 07 Dec 2022 13:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华制药：公司全资子公司山东淄博新达制药有限公司于2022年6月取得熊去氧胆酸片上市许可持有人资格】新华制药发布股票交易异常波动公告，公司全资子公司山东淄博新达制药有限公司于2022年6月取得熊去氧胆酸片上市许可持有人资格，临床适应症为治疗胆固醇型胆结石，但尚未商业化生产。]]></title>
-            <guid>2896166</guid>
-            <pubDate>Wed, 07 Dec 2022 13:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平乘专机抵达沙特阿拉伯首都利雅得】当地时间7日下午，国家主席习近平乘专机抵达沙特阿拉伯首都利雅得。应沙特阿拉伯王国国王萨勒曼邀请，国家主席习近平于12月7日至10日赴沙特利雅得出席首届中国－阿拉伯国家峰会、中国－海湾阿拉伯国家合作委员会峰会并对沙特进行国事访问。  （央视）]]></title>
-            <guid>2896165</guid>
-            <pubDate>Wed, 07 Dec 2022 13:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【连花清瘟频现断货，布洛芬库存紧张！药企称产能正常，可满足需求】据澎湃新闻，12月7日，记者联系了上海的华氏大药房、复美大药房、益丰大药房、国大药房等十多家药房门店，绝大部分药店已无连花清瘟产品，个别门店有少量的布洛芬，999感冒灵颗粒、可立克、快克等感冒药无缺货情况。 收起 以岭药业曾在投资者互动平台表示，公司近来连花清瘟供货价格保持稳定。目前公司正在采取各种措施扩大生产，全力保障市场供应。布洛芬同样面临缺货，12月7日，记者以投资者身份联系多家布洛芬产品生产公司，大部分公司称相关产品生产正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8912358.d.html</link>
-            <guid>2896164</guid>
-            <pubDate>Wed, 07 Dec 2022 13:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州市属国企已基本实现全面复工复产】 据上证报，12月7日，广州市国资委副主任、新闻发言人崔彦伦表示，目前，该市市属国企已基本实现全面复工复产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8912089.d.html</link>
-            <guid>2896163</guid>
-            <pubDate>Wed, 07 Dec 2022 13:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京优化进返京政策 去哪儿平台机票瞬时搜索量增长6.3倍】12月7日，北京市宣布，即日起北京实行十条优化防控措施，对进返京人员不再执行查验核酸检测阴性证明和健康码等防控措施，抵京后不再执行落地三天三检。去哪儿平台数据显示，消息发布后15分钟内，从北京出发的机票瞬时搜索量增长6.3倍，热门目的地为上海、三亚、成都、广州、深圳、重庆、哈尔滨、沈阳、海口，飞往北京的机票瞬时搜索量增长达2.8倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8912040.d.html</link>
-            <guid>2896162</guid>
-            <pubDate>Wed, 07 Dec 2022 13:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京94家医疗机构开设发热门诊】共94家！北京市公布开设发热门诊医疗机构名单。（北京日报）]]></title>
-            <guid>2896161</guid>
-            <pubDate>Wed, 07 Dec 2022 13:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西安咸阳国际机场不再查验核酸和健康码，不再强制“落地检”】 12月7日，西安咸阳国际机场新冠肺炎疫情联合防控指挥部发布最新消息：从即日起，西安咸阳国际机场明确对省外来（返）人员不再实施分类管控，进出港旅客不再查验核酸检测阴性证明和健康码，到达旅客也不再强制“落地检”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8911777.d.html</link>
-            <guid>2896160</guid>
-            <pubDate>Wed, 07 Dec 2022 13:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米集团：今日耗资约2468.5万港元回购230万股公司股份】小米集团在港交所公告称，于12月7日回购230万股公司股份，回购价格为10.7-10.76港元，共耗资约2468.50万港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7373245.d.html</link>
-            <guid>2896159</guid>
-            <pubDate>Wed, 07 Dec 2022 13:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：有条件的二级医疗机构都要开设发热门诊】12月7日，在北京市新型冠状病毒肺炎疫情防控工作第430场新闻发布会上，北京新冠肺炎疫情防控工作领导小组办公室、首都严格进京管理联防联控协调机制办公室副主任，北京市卫生健康委员会党委书记钟东波介绍，发热门诊与急诊要应设尽设、应开尽开，在原有发热门诊的基础上，要求所有有条件的二级医疗机构都要开设发热门诊，其他的综合医院和专科医院，也按照医疗机构基本标准开设急诊，所有的门诊和急诊要提供24小时服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8911542.d.html</link>
-            <guid>2896158</guid>
-            <pubDate>Wed, 07 Dec 2022 13:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：进入网吧、KTV、剧本杀等密闭场所须扫码并查验48小时核酸阴性证明】北京市卫生健康委员会党委书记钟东波表示，即日起，北京市实行十条优化疫情防控工作措施。在优化核酸检测查验措施方面，对高风险岗位从业人员和高风险区人员按照有关规定进行核酸检测，其他人员愿检尽检。按照规定，进入网吧、酒吧、棋牌室、KTV、剧本杀、桑拿洗浴等密闭场所，须扫码并查验48小时核酸阴性证明，上述有关场所工作人员须从其规定一并执行。（北京商报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8911524.d.html</link>
-            <guid>2896157</guid>
-            <pubDate>Wed, 07 Dec 2022 13:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[夜盘开盘，国内期货主力合约多数下跌。焦煤跌超2%，铁矿石、低硫燃料油（LU）、沪锡、SC原油跌超1%。涨幅方面，聚丙烯（PP）涨0.36%。]]></title>
-            <guid>2896156</guid>
-            <pubDate>Wed, 07 Dec 2022 13:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线走高20点，现报1.2180。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8911260.d.html</link>
-            <guid>2896155</guid>
-            <pubDate>Wed, 07 Dec 2022 12:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央行营管部：用好“保交楼”专项借款等政策，加大房地产贷款投放力度】据央行营业管理部12月7日官微消息，央行营业管理部近日以现场与视频结合形式召开北京地区中资银行货币信贷和金融服务通报会，其中提到，支持房地产市场平稳健康发展。用好“保交楼”专项借款和民营企业债券融资支持工具等各项政策，加大对房地产企业和建筑企业的贷款投放力度，积极支持个人住房贷款合理需求，持续优化住房租赁信贷服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8911116.d.html</link>
-            <guid>2896154</guid>
-            <pubDate>Wed, 07 Dec 2022 12:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【雅居乐与农行广东省分行签署战略协议 双方将在金融服务方面展开合作】据雅居乐集团官微12月7日晚披露，雅居乐于11月30日与中国农业银行股份有限公司广东省分行在广州举行战略合作签约仪式，签署了《战略合作协议》。根据协议，农业银行广东省分行将为雅居乐集团提供一揽子金融服务，包括在综合授信服务、房地产新增融资服务、房地产存量融资服务和其他金融服务方面展开全面和深度的合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7372737.d.html</link>
-            <guid>2896153</guid>
-            <pubDate>Wed, 07 Dec 2022 12:56:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【南非进入六级限电状态】南非国家电力公司宣布，即日起南非进入六级限电状态。南非国家电力公司称，由于12月7日凌晨南非大量发电站出现突发事故，因此当天中午12时开始南非全国实行六级限电。电站何时修复并恢复正常供电，需等待国家电力公司进一步通知。六级限电意味着南非全国电力供需缺口达到5000MW以上，居民每天停电9小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7372731.d.html</link>
-            <guid>2896152</guid>
-            <pubDate>Wed, 07 Dec 2022 12:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杭州地铁全网不再查验健康码】据杭州地铁官方微博12月7日消息，根据最新防疫要求，即时起，杭州地铁全网不再查验健康码，请乘客乘坐地铁时全程规范佩戴口罩，做好个人防护，感谢您的支持和配合。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7372716.d.html</link>
-            <guid>2896151</guid>
-            <pubDate>Wed, 07 Dec 2022 12:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市疫情防控工作会议全面部署，科学精准实施好进一步优化疫情防控的十条措施】 据上海发布，上海市委书记陈吉宁指出，防控措施优化调整过程中，对老百姓提出的各类问题要早作准备、及时回应。做好政策解读，及时答疑解惑，更好凝聚共识。要保障好就医买药需求，及时出台防护指南、就医指南，提供更多专业性、便利化咨询平台。推动建立社区与专门医疗机构对接机制，全面摸清底数，为特殊人群尽可能提供就医便利。保障好居家隔离，优化好接种服务。加强对基层的支持，推动干部、资源下沉，帮助基层解决实际问题。要做好医疗资源储备，抓好分级分类诊疗，加强医疗队伍建设。各级党委和政府要关心关爱好广大医务人员的生活、工作和健康，帮助解决后顾之忧和实际困难。]]></title>
-            <guid>2896150</guid>
-            <pubDate>Wed, 07 Dec 2022 12:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中装建设：近日合计中标7.5亿元工程项目】中装建设(002822)12月7日晚间公告，近日，公司连续中标多项重大工程项目，中标金额总计7.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7372285.d.html</link>
-            <guid>2896149</guid>
-            <pubDate>Wed, 07 Dec 2022 12:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：不限制群众购买退热、治感冒等非处方药，不弹窗，不追访】今天（12月7日），北京市召开新型冠状病毒肺炎疫情防控工作第430场新闻发布会，发布会上，北京市卫健委党委书记、副主任钟东波表示：要不断保障群众基本购药需求，药店要正常运营，不得随意关停，不限制群众线上线下购买退热、止咳、抗感染、治感冒等非处方药，对购药人员不做使实名登记，不弹窗，不追访。应及时充分满足市场需求，基层医疗机构可为发热等C类症状患者提供开药服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7372226.d.html</link>
-            <guid>2896148</guid>
-            <pubDate>Wed, 07 Dec 2022 12:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：苹果供应链趋于多元化 但中国地位尚无法被取代】据第一财经，“中国目前的供应链类别仍然最齐全，也是最高效的地区。”研究机构Omdia Display分析师郭子骄对记者表示，零部件作为资本和技术密集型的产业，目前中国占苹果零部件的生产比重仍然相当大，全球还没有地方可以在短期内承接大规模的转移。在记者的采访中，分析师几乎一致认为，中国仍然是苹果最重要的制造基地，这一地位不会在未来短期内发生变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8910547.d.html</link>
-            <guid>2896147</guid>
-            <pubDate>Wed, 07 Dec 2022 12:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：严禁以各种方式封堵消防通道】12月7日，在北京市新型冠状病毒肺炎疫情防控工作第430场新闻发布会上，北京新冠肺炎疫情防控工作领导小组办公室、首都严格进京管理联防联控协调机制办公室副主任，北京市卫生健康委员会党委书记钟东波介绍，要保障社会正常运转，严禁以各种方式封堵消防通道、单位门、小区门，非高风险区不得限制人员流动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7371880.d.html</link>
-            <guid>2896146</guid>
-            <pubDate>Wed, 07 Dec 2022 12:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【北京市卫健委：加快推进老年人疫苗接种 坚持应接尽接原则】北京市召开新型冠状病毒肺炎疫情防控工作第430场新闻发布会，发布会上，北京市卫健委副主任钟东波表示：要加快推进老年人疫苗接种，坚持应接尽接原则，提高79岁人群接种率，加快提高80岁以上人群接种率，指导医务人员科学判定接种，发动全社会力量参与动员老年人接种，调动老年人接种疫苗的积极性，各区要准确掌握本辖区老年人口底数，通过多种方式，提供就近就便接种服务，提升接种体验，为老年人创造良好接种环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8910202.d.html</link>
-            <guid>2896145</guid>
-            <pubDate>Wed, 07 Dec 2022 12:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：不断加强重点人群摸排建档 加强生活服务保障、健康用药指导等服务】北京市召开新型冠状病毒肺炎疫情防控工作第430场新闻发布会，发布会上，北京市卫健委副主任钟东波表示：要不断加强重点人群摸排建档，卫生健康部门和社区要对重点人群底数进行双摸排，卫生健康部门通过医疗机构摸排孕产妇、血液透析患者、肿瘤患者底数，社区主动摸排辖区内长期卧床的失能、失智人员，有心脑血管疾病、糖尿病、免疫功能缺陷等基础疾病的老年人底数及其疫苗接种情况对重点人群建档，加强生活服务保障，健康用药指导等服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7371737.d.html</link>
-            <guid>2896144</guid>
-            <pubDate>Wed, 07 Dec 2022 12:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：没有疫情的学校要正常开展线下教学活动】12月7日，在北京市新型冠状病毒肺炎疫情防控工作第430场新闻发布会上，北京新冠肺炎疫情防控工作领导小组办公室、首都严格进京管理联防联控协调机制办公室副主任，北京市卫生健康委员会党委书记钟东波介绍，没有疫情的学校要正常开展线下教学活动，校园内超市、食堂、体育场馆、图书馆等要正常开放。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8909893.d.html</link>
-            <guid>2896143</guid>
-            <pubDate>Wed, 07 Dec 2022 12:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：出现续发病例的只管控住户 不得延长其他人员管控时间】北京市召开新型冠状病毒肺炎疫情防控工作第430场新闻发布会，发布会上，北京市卫健委副主任钟东波表示：落实高风险区快封快检，高风险区划定后社区第一时间告知居民隔离管控时间，高风险区人员隔离第五天进行采样，检测结果为阴性后及时解封。出现续发病例的只管控住户，不得延长其他人员管控时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7371427.d.html</link>
-            <guid>2896142</guid>
-            <pubDate>Wed, 07 Dec 2022 12:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鼎捷软件：拟3亿元投资建设鼎捷智创芯基地项目】鼎捷软件公告，拟3亿元投资建设鼎捷智创芯基地项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8909760.d.html</link>
-            <guid>2896141</guid>
-            <pubDate>Wed, 07 Dec 2022 12:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京卫健委：保障群众基本购药需求 药店要正常运营】据央视新闻，北京市卫健委党委书记、副主任钟东波表示：要不断保障群众基本购药需求，药店要正常运营，不得随意关停，不限制群众线上线下购买退热、止咳、抗感染、治感冒等非处方药，对购药人员不做使实名登记，不弹窗，不追访。应及时充分满足市场需求，基层医疗机构可为发热等C类症状患者提供开药服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8909658.d.html</link>
-            <guid>2896140</guid>
-            <pubDate>Wed, 07 Dec 2022 12:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[记者在深圳北站探访发现，进出站口查验核酸证明的工作点位已经撤除，查验48小时核酸的指示牌也已撤除，旅客无需出示核酸证明和健康码即可进出站。（新京报）]]></title>
-            <guid>2896139</guid>
-            <pubDate>Wed, 07 Dec 2022 12:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京具备条件的无症状和轻症一般采取居家隔离】12月7日，在北京市新型冠状病毒肺炎疫情防控工作第430场新闻发布会上，北京新冠肺炎疫情防控工作领导小组办公室、首都严格进京管理联防联控协调机制办公室副主任，市卫健委党委书记钟东波介绍，本市优化调整隔离方式。阳性感染者要科学分类收治，具备居家隔离条件的无症状感染者和轻型病例一般采取居家隔离，也可自愿选择集中隔离收治。隔离期间加强健康监测，隔离第6、7天连续2次核酸检测Ct值≥35解除隔离，病情加重的及时转定点医院治疗。治愈出院的感染者不再进行居家隔离监测，具备居家隔离条件的密切接触者采取5天居家隔离，也可自愿选择集中隔离，第5天核酸检测阴性后解除隔离。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7371053.d.html</link>
-            <guid>2896138</guid>
-            <pubDate>Wed, 07 Dec 2022 12:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪回应在欧洲建厂传闻：会按业务开展情况考虑】 就比亚迪将在欧洲建电动车厂进行尽职调查的传闻，比亚迪方面回应称比亚迪将视欧洲业务开展的实际情况，综合考虑建厂的可能性。此前，比亚迪执行副总裁李柯透露，比亚迪正在考虑在欧洲建设1-2个电动车厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8909220.d.html</link>
-            <guid>2896137</guid>
-            <pubDate>Wed, 07 Dec 2022 12:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【康芝药业：抗感冒、退热、止咳产品销售明显增长】12月7日晚间，康芝药业在互动平台表示，公司抗感冒产品较多，目前公司的布洛布颗粒、止咳橘红颗粒、麻杏止咳糖浆、感冒清热颗粒、氨金黄敏、尼美舒利等日常抗感冒、退热、止咳产品需求较大，销售出现明显增长。目前公司也不断加强产品的销售渠道推广，如通过各地主流医药商业公司、电商平台等多种渠道，快速将产品向零售终端供货，让消费者方便、及时地买到所需药品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8909051.d.html</link>
-            <guid>2896136</guid>
-            <pubDate>Wed, 07 Dec 2022 12:38:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST榕泰：转让1.07亿元应收账款及两家全资子公司】ST榕泰12月7日晚间公告，公司公开挂牌转让部分应收账款合计10695.32万元，于12月5日征集到受让方广东南兴投资咨询有限公司，双方已签署转让协议，转让价10695.32万元。另外，为进一步聚焦主业，盘活资产，公司拟将两家全资子公司揭阳市合贵新材料有限公司和揭阳市联富新材料有限公司100%股权，分别转让给自然人陈铭和自然人孙浩佳，转让价款分别为1500万元和1000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8908928.d.html</link>
-            <guid>2896135</guid>
-            <pubDate>Wed, 07 Dec 2022 12:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【进返京人员不再查核酸】12月7日，在北京市新型冠状病毒肺炎疫情防控工作第430场新闻发布会上，北京新冠肺炎疫情防控工作领导小组办公室、首都严格进京管理联防联控协调机制办公室副主任，北京市卫生健康委员会党委书记钟东波介绍，对进返京人员不再执行查验核酸检测阴性证明和健康码等防控措施，抵京后不再执行落地三天三检，按照本市有关防控规定执行。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7370546.d.html</link>
-            <guid>2896134</guid>
-            <pubDate>Wed, 07 Dec 2022 12:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京不得采取各种形式临时管控】12月7日，在北京市新型冠状病毒肺炎疫情防控工作第430场新闻发布会上，北京新冠肺炎疫情防控工作领导小组办公室、首都严格进京管理联防联控协调机制办公室副主任，北京市卫生健康委员会党委书记钟东波介绍，要科学精准划分风险区域，按楼栋、单元、楼层、住户划定高风险区的要求，不得随意扩大到小区、社区和街道（乡镇）等区域，不得采取各种形式的临时封控。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7370330.d.html</link>
-            <guid>2896133</guid>
-            <pubDate>Wed, 07 Dec 2022 12:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华润三九：感冒类药物需求量较大、订单充足】华润三九披露投资者关系活动记录表公告，目前观察到防疫政策处于逐步放开的趋势，公司也在持续关注各地具体政策的变化。进入四季度以后，感冒高发季叠加政策预期，感冒类药物需求量较大、订单充足；止咳、咽喉类产品销量也有一定的上升，预计今年四季度CHC业务表现较好。明年政策及市场存在不确定性，公司成立了专门团队跟进政策变化，关注消费者用药购药的习惯，对各种可能演化的情形进行预判，在供应链、生产、市场等方面开始做相应的准备和安排。]]></title>
-            <guid>2896132</guid>
-            <pubDate>Wed, 07 Dec 2022 12:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京继续提供社会面免费核酸】12月7日，在北京市新型冠状病毒肺炎疫情防控工作第430场新闻发布会上，市委宣传部副部长、市政府新闻办主任、市政府新闻发言人徐和建介绍，本市有序开展核酸检测查验工作，继续提供社会面免费检测服务，科学合理布局设置采样点位，提高采样检测质效。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8908336.d.html</link>
-            <guid>2896131</guid>
-            <pubDate>Wed, 07 Dec 2022 12:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：盲目焦虑囤药不科学 也没必要】在7日举行的北京市新冠肺炎疫情防控工作第430场新闻发布会上，北京市政府新闻发言人徐和建表示，回归正常是我们的共同心愿，做好新形势下的疫情防控需要我们科学理性对待。进一步优化防控措施不是一放了之，对待疫情我们还要保持不大意、不焦虑。盲目囤药、焦虑囤药，不科学，也没必要。注意做好自我防护，科学佩戴口罩、积极接种疫苗。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7369897.d.html</link>
-            <guid>2896130</guid>
-            <pubDate>Wed, 07 Dec 2022 12:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京：目前已有2367万人接种疫苗】据央视新闻，在今天（7日）举行的北京市新冠肺炎疫情防控工作第430场新闻发布会上，北京市政府新闻发言人徐和建通报：随着奥密克戎病毒致病性的减弱，6370万剂次2367万人疫苗接种的普及，有力有效抗击多个波次新冠肺炎疫情冲击经验积累，首都疫情防控面临新形势新任务。我们要深入贯彻落实党中央、国务院决策部署，坚持第九版防控方案，落实二十条优化措施，贯彻新十条进一步优化措施。根据当前疫情形势和病毒变异情况，完整、全面、准确地把握和执行各项优化防控要求，抓严抓实抓细各项防控措施，更加科学精准防控，最大程度保护人民生命安全和身体健康，最大限度减少疫情对经济社会发展的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8908187.d.html</link>
-            <guid>2896129</guid>
-            <pubDate>Wed, 07 Dec 2022 12:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【黑石遭遇挤兑 其信贷基金首次达到赎回上限】黑石集团表示，其500亿美元非交易业务发展公司的赎回额首次达到预先设定的上限，但投资者仍被允许撤回投资。这是自黑石去年1月推出该产品以来，赎回请求首次达到5%的预设上限。此前，黑石集团上周四宣布，将限制其690亿美元非上市房地产收益信托基金(REIT)的撤资，因赎回请求激增。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8908103.d.html</link>
-            <guid>2896128</guid>
-            <pubDate>Wed, 07 Dec 2022 12:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新里程：拟向控股股东定增募资6.86亿元】新里程公告，公司拟向公司控股股东新里程集团，非公开发行股票募资6.86亿元，用于补充流动资金及偿还借款。发行完成后，新里程集团将持公司股份10.44亿股，占发行后公司总股本的29.99%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7369713.d.html</link>
-            <guid>2896127</guid>
-            <pubDate>Wed, 07 Dec 2022 12:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[永福股份：中标2.78亿元重大EPC工程总承包项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7369674.d.html</link>
-            <guid>2896126</guid>
-            <pubDate>Wed, 07 Dec 2022 12:27:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湘潭电化：参股公司湖南裕能IPO获证监会同意注册】湘潭电化公告，参股公司湖南裕能新能源电池材料股份有限公司首次公开发行股票申请获得中国证监会同意注册批复。截至目前，公司持有湖南裕能4808.04万股股份，占其发行前总股本的8.47%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8908035.d.html</link>
-            <guid>2896125</guid>
-            <pubDate>Wed, 07 Dec 2022 12:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【证监会同意两家企业创业板IPO注册】证监会同意湖南裕能新能源电池材料股份有限公司、上海真兰仪表科技股份有限公司首次公开发行股票并在创业板上市的注册申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8908014.d.html</link>
-            <guid>2896124</guid>
-            <pubDate>Wed, 07 Dec 2022 12:27:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大商所大宗商品仓单登记中心即将上线】12月7日，大商所发布《大连商品交易所大宗商品仓单登记中心业务管理办法（试行）》，对大商所大宗商品仓单登记中心登记、查询等业务进行明确。此外，从大商所处获悉，大商所仓单登记中心将于近期上线。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7369343.d.html</link>
-            <guid>2896123</guid>
-            <pubDate>Wed, 07 Dec 2022 12:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉实京东仓储物流REIT获受理 或成为我国首单民企仓储物流公募REIT】12月7日，据上交所网站显示，嘉实京东仓储物流封闭式基础设施证券投资基金获受理。据了解，目前我国仓储物流REITs仅有2只。嘉实京东仓储物流REIT有望成为我国首单民企仓储物流公募REIT，这也是市场上首单由民营500强企业作为原始权益人正式申报的仓储物流类公募REIT。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8907658.d.html</link>
-            <guid>2896122</guid>
-            <pubDate>Wed, 07 Dec 2022 12:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指期货跌1%，标普500指数期货跌0.6%，道指期货跌0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7369077.d.html</link>
-            <guid>2896121</guid>
-            <pubDate>Wed, 07 Dec 2022 12:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中关村顺义园稳步推进各企业复产复工】为稳步推进企业复产复工，全面恢复生产生活秩序，中关村顺义园各企业、商务楼宇、严格履行四方责任制，在落实防疫措施的基础上，妥善有序复工复产。截至目前园区内规模以上企业复产复功率达100%。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8907387.d.html</link>
-            <guid>2896120</guid>
-            <pubDate>Wed, 07 Dec 2022 12:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【招银理财首批接入个人养老金理财行业平台】招银理财12月7日表示，近日银行业理财登记托管中心发布验收公告，招商银行与招银理财成为首批正式接入理财中心个人养老金理财产品行业信息平台的商业银行及理财公司。这标志着，招商银行及招银理财已具备发行个人养老金理财产品的底层系统基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7368774.d.html</link>
-            <guid>2896119</guid>
-            <pubDate>Wed, 07 Dec 2022 12:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱司凯：终止收购网银互联99.97%股权事项】爱司凯(300521)12月7日晚间公告，鉴于交易各方最终未能就交易方案中的核心条款达成一致意见，公司终止筹划通过发行股份及支付现金收购杭州网银互联科技股份有限公司99.97%股权并募集配套资金事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7368724.d.html</link>
-            <guid>2896118</guid>
-            <pubDate>Wed, 07 Dec 2022 12:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中梁控股：前11个月累计合同销售620亿元 同比降60%】中梁控股(02772.HK)公告，1-11月累计合同销售620亿元，同比降60.12%；累计销售面积约594万平方米；均价约每平方米10400元。11月合同销售44亿元；销售面积35.6万平方米；均价每平方米12400元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7368700.d.html</link>
-            <guid>2896117</guid>
-            <pubDate>Wed, 07 Dec 2022 12:18:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天邑股份：中选2.14亿元电信天翼网关4.0采购项目】天邑股份(300504)12月7日晚间公告，近日，公司收到中选通知书，确定公司为中国电信天翼网关4.0（无频无语音及无频型）集中采购项目（2022年度）遴选（第一次）项目中选人，预计合计中选金额2.14亿元（不含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8906990.d.html</link>
-            <guid>2896116</guid>
-            <pubDate>Wed, 07 Dec 2022 12:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利将苹果第四季度iPhone出货量预估下调300万部至7550万部。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8906911.d.html</link>
-            <guid>2896115</guid>
-            <pubDate>Wed, 07 Dec 2022 12:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平即将抵达沙特阿拉伯首都利雅得】当地时间12月7日下午，国家主席习近平乘专机即将抵达沙特阿拉伯首都利雅得。应沙特阿拉伯王国国王萨勒曼邀请，国家主席习近平将于12月7日至10日赴沙特利雅得出席首届中国-阿拉伯国家峰会、中国-海湾阿拉伯国家合作委员会峰会并对沙特进行国事访问。（央视新闻）]]></title>
-            <guid>2896114</guid>
-            <pubDate>Wed, 07 Dec 2022 12:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【玉马遮阳：银离子抗菌面料已批量生产 并经过国家纺织制品质量监督检验中心检测】玉马遮阳披露投资者关系活动记录表公告，公司生产的银离子抗菌面料已批量生产，并经过了国家纺织制品质量监督检验中心检测。公司生产的银离子抗菌斑马面料，利用银离子SILVER+技术的三重抗菌效果，能够抑制并杀灭引起疾病的细菌病菌，从而预防疾病的感染。银离子抗菌面料尤其适合在对病菌有严格要求的场所，如：医院、学校、公共场所等。在全球新型冠状病毒流行期间，在家中安装此类银离子抗菌斑马帘会对病毒或细菌在空气传播起到一定抑制杀灭或者隔离作用，并降低因交叉感染引起的多种并发症，是健康环保型产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7368494.d.html</link>
-            <guid>2896113</guid>
-            <pubDate>Wed, 07 Dec 2022 12:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【海南离岛免税跨年活动启动 海口三亚对省外来返人员不再实施分类管理】12月7日，海南离岛免税跨年活动正式启动，拉开了海南跨年促消费大幕。当前，海口、三亚等地先后发布通告，对省外来（返）人员不再实施分类管理。海南离岛免税跨年活动将持续进行至2023年2月5日（农历正月十五），新春不打烊。据了解，海南共有6家免税经营主体、12家离岛免税店，各家门店商品各异、优惠不同，除线下实体店外，还有线上商城，将陆续推出各类闪购、低折扣爆款商品。各门店均在“海易办”App离岛免税专区发放优惠券，还可叠加政府消费券使用。 此外，援琼医护人员可享受专属“多重促销+免税消费券”，在海南超值购享“全球好物”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8906819.d.html</link>
-            <guid>2896112</guid>
-            <pubDate>Wed, 07 Dec 2022 12:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国英力士同意收购中石化天津石化厂50%股权】两家公司周三表示，总部位于英国的化学和能源集团INEOS已同意收购中国石化在中国北部一个石化项目50%的股权。根据公司声明，天津南港乙烯项目目前正在建设一座年产120万吨的乙烷裂解装置，预计将于2023年底投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7368104.d.html</link>
-            <guid>2896111</guid>
-            <pubDate>Wed, 07 Dec 2022 12:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安宁股份：暂停钒钛磁铁矿规模化高效清洁分离提取示范项目】安宁股份(002978)12月7日晚间公告，公司此前公告投建钒钛磁铁矿规模化高效清洁分离提取示范项目。该示范项目原计划需办理的相关手续因国家关于能耗的产业政策发生重大变化，无法在预期时间内取得。截至目前，示范项目仍仅处于建设前的手续阶段。经审慎研究，公司拟暂停示范项目。另外，结合实际进展情况，公司将募投项目“钒钛磁铁矿提质增效技改项目”、“潘家田铁矿技改扩能项目”的预定可使用状态日期由2022年12月31日延期至2023年6月30日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7367689.d.html</link>
-            <guid>2896110</guid>
-            <pubDate>Wed, 07 Dec 2022 12:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州省黔南州委副书记、政法委书记肖发君接受纪律审查和监察调查】贵州省纪委监委7日通报，贵州省黔南州委副书记、政法委书记肖发君涉嫌严重违纪违法，目前正接受贵州省纪委监委纪律审查和监察调查。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8906039.d.html</link>
-            <guid>2896109</guid>
-            <pubDate>Wed, 07 Dec 2022 12:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡倍亿：将抢占汽车线缆行业更大的市场份额】卡倍亿在接受调研是表示，目前，国内汽车线缆行业的市场中国际品牌占据了较大的份额，卡倍亿作为唯一一家国内上市的汽车线缆制造公司，占有10%左右的市场份额。卡倍亿将充分利用现有的规模优势、资金优势、技术优势，实现汽车线缆行业的“国产替代”目标，抢占更大的市场份额。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqmmthc7367591.d.html</link>
-            <guid>2896108</guid>
-            <pubDate>Wed, 07 Dec 2022 12:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯恩股份：控股股东拟3.59亿元向浙江凯融转让14.5%公司股份，公司控股股东和第一大股东将变更】凯恩股份公告，公司控股股东中泰创展拟将所持公司股份6780万股（占公司总股本14.5%）协议转让给浙江凯融，每股5.3元，转让价款共计3.59亿元。此次股份转让为同一实控人控制的不同主体之间进行的转让，将导致公司控股股东和第一大股东变更为浙江凯融，但不会导致公司实控人发生变更。]]></title>
-            <guid>2896107</guid>
-            <pubDate>Wed, 07 Dec 2022 12:08:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州地铁：进站时无需扫车站场所码及查验健康码】据广州地铁微博消息，接市政府部门通知，即时起，广州地铁线网及有轨电车进站时无需扫车站场所码及查验健康码，乘车时请做好个人防护，全程规范戴好口罩。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8905921.d.html</link>
-            <guid>2896106</guid>
-            <pubDate>Wed, 07 Dec 2022 12:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST大集：相关核查工作已完成，公司股票周四开市起复牌】ST大集公告，相关核查工作已完成，公司股票周四开市起复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8905908.d.html</link>
-            <guid>2896105</guid>
-            <pubDate>Wed, 07 Dec 2022 12:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风险投资交易势将出现20多年来最严重的下降】在利率上升、宏观经济不确定性和公开市场低迷的背景下，风险投资今年恐将出现20多年来的最大降幅，超过互联网泡沫破裂和金融危机期间的降幅。研究公司Preqin的数据显示，今年前11个月全球新风投交易的价值较去年下降42%，至2860亿美元。这是研究人员迄今为止记录的最大跌幅，超过了本世纪初的最低点和2008年金融危机后34%的跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8905900.d.html</link>
-            <guid>2896104</guid>
-            <pubDate>Wed, 07 Dec 2022 12:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据联发科技官方微博消息，MediaTek天玑8200新品将于12月8日正式发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-07/detail-imqqsmrp8905334.d.html</link>
-            <guid>2896103</guid>
-            <pubDate>Wed, 07 Dec 2022 12:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【12月7日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.中共中央政治局召开会议 分析研究2023年经济工作 研究部署党风廉政建设和反腐败工作 中共中央总书记习近平主持会议； 2.征求对经济工作的意见和建议 中共中央召开党外人士座谈会 习近平主持并发表重要讲话； 3.习近平将出席中国-阿拉伯国家峰会 中国-海湾阿拉伯国家合作委员会峰会并对沙特进行国事访问； 4.李克强同俄罗斯总理共同主持中俄总理第二十七次定期会晤； 5.李克强将与主要国际经济组织负责人举行第七次“1+6”圆桌对话会； 6.中国农工民主党第十七次全国代表大会开幕 李强代表中共中央致贺词； 7.台盟第十一次全盟代表大会在京开幕 王沪宁代表中共中央致贺词； 8.走进基层宣讲 推动二十大精神落地落实； 9.国务院联防联控机制公布《关于进一步优化落实新冠肺炎疫情防控措施的通知》； 10.今年前11个月我国外贸进出口总值同比增长8.6%； 11.民革十三届六中全会在京召开； 12.浙江等3省省委主要负责同志职务调整； 13.国家卫生健康委通报最新疫情； 14.国内联播快讯： （1）11月末我国外汇储备规模为31175亿美元； （2）快舟十一号遥二运载火箭发射成功； （3）澳门第十四届全国人大代表选举会议主席团举行第二次会议； （4）“新征程的中国与世界”中阿媒体研讨会在沙特利雅得举办； （5）电视剧《县委大院》今晚播出； 15.俄称打击乌军事指挥系统 乌称打击俄防空导弹阵地 国际人士：美国霸权行径导致局势紧张； 16.国际联播快讯： （1）英国工业联合会预测英经济明年继续衰退； （2）美国北卡州变电站枪击事件断电影响持续。]]></title>
-            <guid>2896102</guid>
-            <pubDate>Wed, 07 Dec 2022 12:01:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

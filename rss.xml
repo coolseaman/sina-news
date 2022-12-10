@@ -4,11 +4,41 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Dec 2022 18:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 19:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【LinkedIn同样存在严重的虚假账户问题】与其他美国社交媒体平台（包括推特和脸书）一样，LinkedIn也面临着大量的虚假账户和机器人等问题。根据该公司的社区报告，在今年1月1日至6月30日期间，LinkedIn发现并删除了2100多万个虚假账户。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-11/detail-imxwfrnh8745413.d.html</link>
+            <guid>2899805</guid>
+            <pubDate>Sat, 10 Dec 2022 19:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦开展反恐行动 打死4名恐怖分子】当地时间12月10日，据巴基斯坦警方表示，反恐部门9日在该国西北部开普省诺谢赫拉地区开展反恐行动，有4名恐怖分子在交火中被打死。警方还从恐怖分子手中缴获了武器和弹药。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-11/detail-imxwfrnh8740122.d.html</link>
+            <guid>2899804</guid>
+            <pubDate>Sat, 10 Dec 2022 19:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国密苏里州发生枪击事件 致1人死亡】当地时间12月10日，美国密苏里州堪萨斯城发生一起枪击事件，造成1人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-11/detail-imxwfrnf1951334.d.html</link>
+            <guid>2899803</guid>
+            <pubDate>Sat, 10 Dec 2022 18:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外长：独联体国家领导人非正式会议将于12月末举行】俄罗斯外交部长拉夫罗夫当天在接受哈萨克斯坦媒体采访时表示，独联体国家领导人非正式会议将于今年12月末在圣彼得堡举行，与会各国领导人届时或就明年任务和长期远景规划进行磋商。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-11/detail-imxwfrnf1936875.d.html</link>
+            <guid>2899802</guid>
+            <pubDate>Sat, 10 Dec 2022 18:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦发生枪击事件 造成4人死亡2人受伤】当地时间12月10日，巴基斯坦北部拉瓦尔品第市发生枪击事件，造成4人死亡，2人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-11/detail-imxwfrnh8708204.d.html</link>
+            <guid>2899801</guid>
+            <pubDate>Sat, 10 Dec 2022 18:24:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌媒：德国将向乌克兰提供470台发电机】德国驻乌克兰大使馆当天在社交媒体发布消息称，德国将向乌克兰提供总价值约为1950万欧元的470台不同功率的发电机，其中150台发电机已经交付乌克兰，剩余的发电机将于随后抵达。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-11/detail-imxwfrnh8686148.d.html</link>
@@ -560,36 +590,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxweuhr1785964.d.html</link>
             <guid>2899604</guid>
             <pubDate>Sat, 10 Dec 2022 08:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【人工耳蜗、血透等六类耗材迎24省集采】河南省医保局发布了《关于成立血液透析类等三个医用耗材省际联盟的公告》。根据《公告》，河南、河北、广东等24省（自治区、兵团）将分别组成3类省际联盟，拟分别对血液透析类、神经外科类、神经介入类、外周介入类、通用介入类和人工耳蜗等六类医用耗材开展集中带量采购。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwepyt1907864.d.html</link>
-            <guid>2899603</guid>
-            <pubDate>Sat, 10 Dec 2022 08:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告：预计2022年国内原油产量自2016年以来首次超过2亿吨】10日，第二届中国海洋能源发展论坛暨《中国海洋能源发展报告2022》发布会以线上形式召开。中国海油集团能源经济研究院院长王震表示，国内油气生产保持良好势头，我国原油、天然气对外依存度有望下降。报告预计2022年国内原油产量达到2.05亿吨左右，是2016年以来首次超过2亿吨；预计全年我国天然气产量达2211亿立方米，同比增长6.5%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwepyu8680536.d.html</link>
-            <guid>2899602</guid>
-            <pubDate>Sat, 10 Dec 2022 08:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【尹艳林：扩大绿色信贷、绿色债券等融资规模 引导银行保险机构规范发展绿色消费金融】中央财经委员会办公室副主任尹艳林今日在第四届外滩金融峰会上表示，要完善支持绿色发展的财税、金融、投资、价格政策，加大对绿色低碳产品、技术等支持，积极推行绿色产品政府采购制度，推进绿色税制制度改革，大力发展绿色金融，扩大绿色信贷、绿色债券等融资规模，发展绿色基金，引导银行保险机构规范发展绿色消费金融，依法依规推行环境污染强制责任保险，规范发展政府和社会资本合作模式，引导社会资本参与绿色低碳项目投资建设运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwepyu8679756.d.html</link>
-            <guid>2899601</guid>
-            <pubDate>Sat, 10 Dec 2022 08:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本与钴矿大国刚果（金）签署矿业合作相关联合声明 希望确保长期供应合同】据共同社，日本政府12月9日与非洲中部国家刚果（金）签署了一份联合声明，包括矿业领域合作。刚果（金）是钴等资源的主要生产国，而这些资源对于普及纯电动汽车不可或缺。据日本经济产业省称，设想是确保与刚果（金）南部的矿山权益签订长期供应合同等。据报道，刚果（金）钴产占到全球产量的七成。对手机和电脑等不可或缺的重要矿物也很丰富。但另一方面，该国部分地区围绕矿山权益的纠纷持续，还有滥用童工现象等存在严重问题。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwepyu8664420.d.html</link>
-            <guid>2899600</guid>
-            <pubDate>Sat, 10 Dec 2022 07:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【微软在与FTC就动视暴雪收购案展开斗争之际宣布又一笔收购交易】在与联邦贸易委员会(FTC)就动视暴雪(Activision Blizzard Inc)收购案的斗争加剧之际，微软(Microsoft Corp)并没有停下并购活动。该公司在周五上午的一篇博文中宣布，已经收购了Lumenisity Limited，后者提供空心光纤(HCF)解决方案。微软在博文中说，这次收购将扩大微软进一步优化其全球云基础设施的能力，并为微软云平台和服务(Cloud Platform and Services)客户提供低延迟和安全要求。这项技术可以为包括医疗、金融服务、制造、零售和政府在内的广泛行业带来好处。据悉，在微软宣布这一消息之前，FTC周四宣布，将以反垄断为由寻求阻止微软对动视暴雪的690亿美元收购交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-10/detail-imxwepyu8660170.d.html</link>
-            <guid>2899599</guid>
-            <pubDate>Sat, 10 Dec 2022 07:48:54 GMT</pubDate>
         </item>
     </channel>
 </rss>

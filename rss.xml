@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 11 Dec 2022 18:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 19:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【助企纾困加力 多地落实税费支持政策】今年以来，新的组合式税费支持政策、稳经济一揽子政策和接续措施分批推出，为减轻市场主体负担、稳住宏观经济大盘提供有力支撑。多地采取积极举措，推动一系列税费支持政策落实落细，为企业减负担加活力。近期，中国石化集团北京燕山石油化工有限公司收到了增值税留抵退税款。公司税务主管王河说：“退税申请当天审核，退税款三天到账。”正值供暖季，这些“真金白银”为燕山石化30余个厂区的电力、热力需求提供了坚实的财力支撑。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-12/detail-imxwiyte8813964.d.html</link>
+            <guid>2900600</guid>
+            <pubDate>Sun, 11 Dec 2022 19:03:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【大众斯柯达考虑退出中国市场】大众汽车旗下的捷克汽车制造商斯柯达汽车正在考虑退出中国市场，并将于明年做出最终决定。该公司首席执行官克劳斯·泽尔默表示，“市场竞争非常激烈，所以我们将与合资伙伴一起考虑要如何进行下去”“如果我们想集中精力，就值得考虑所有情况，然后再做决定。”]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-12/detail-imxwiumf2125857.d.html</link>
@@ -576,11 +582,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-11/detail-imxwhxfs8821974.d.html</link>
             <guid>2900499</guid>
             <pubDate>Sun, 11 Dec 2022 08:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间12月11日，阿联酋“拉希德漫游者”号月球车成功发射升空，将开启为期5个月的月球任务。]]></title>
-            <guid>2900498</guid>
-            <pubDate>Sun, 11 Dec 2022 08:40:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

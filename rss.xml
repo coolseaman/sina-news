@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 25 Dec 2022 21:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 22:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【美联储明年2月加息25个基点的概率为67%】CME“美联储观察”：美联储明年2月加息25个基点至4.50%-4.75%区间的概率为63.4%，加息50个基点的概率为36.6%；到明年3月累计加息25个基点的概率为21.3%，累计加息50个基点的概率为54.4%，累计加息75个基点的概率为24.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-26/detail-imxxxyti1232950.d.html</link>
+            <guid>2918871</guid>
+            <pubDate>Sun, 25 Dec 2022 22:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国内陆地区最大规模政府储气项目投产】从中铁十八局集团获悉，我国内陆地区政府投资的最大规模液化天然气储气项目——山东济南南曹范LNG（液化天然气）调峰储配站日前全面建成投产。作为我国环渤海地区天然气产供储销体系建设的重点项目，济南南曹范LNG调峰储配站项目由济南市政府投资建设，总投资约13亿元，总占地面积22.8公顷。全面建成后，最大储气能力将达到4200万立方米，可满足济南市及周边地区7天以上的民生用气需求，是我国内陆地区政府投资的最大规模液化天然气储气项目。（北京日报）]]></title>
+            <guid>2918870</guid>
+            <pubDate>Sun, 25 Dec 2022 22:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数据显示，自上周三以来，美国航空公司已经取消了超过1.4万个航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-26/detail-imxxxytk7976562.d.html</link>
+            <guid>2918869</guid>
+            <pubDate>Sun, 25 Dec 2022 21:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ETF新主题层出不穷 投资布局需适度谨慎】12月22日，随着首只中韩半导体ETF在上交所亮相，年内ETF主题创新又添一例。今年以来，ETF行业已见证多个“首批”，包括首批SEEE碳中和ETF、首批疫苗主题ETF、首批中药主题ETF、首批现金申赎政金债ETF等。业内人士认为，ETF新发呈现“卷”的特征，一方面这有助于投资者第一时间获得投资工具，抓紧投资良机；另一方面，过分竞争也会消耗宣发资源，建议机构在布局时保持适度审慎。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-26/detail-imxxxumm1328728.d.html</link>
+            <guid>2918868</guid>
+            <pubDate>Sun, 25 Dec 2022 21:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【推动高水平开放 更大力度吸引和利用外资】近日召开的中央经济工作会议对“更大力度吸引和利用外资”着墨较多，包括高水平对外开放、放宽市场准入、落实国民待遇、对标国际高标准经贸规则、深化相关管理体制改革、提高外资企业来华洽商便利化水平、积极引入标志性外资项目等方面，对明年的外资工作做出了全面部署，释放出十分积极的信号。商务部国际贸易经济合作研究院研究员周密指出，会议的最新定调对于提振外资的信心非常重要，展望2023年，中国将以更大力度吸引和利用外资，为外资提供更多发展机会，降低外资从市场准入到发展环境在内的全生命周期的成本和不确定性，使其能够并愿意“走进来”“走下去”，获得长期发展利益。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-26/detail-imxxxumm1321875.d.html</link>
+            <guid>2918867</guid>
+            <pubDate>Sun, 25 Dec 2022 21:16:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据阿尔及利亚国家通讯社：阿尔及利亚将2023-2025年原油市场价格定在70美元/桶，参考价格定为60美元/桶；预计2023年通货膨胀率将达到5.1%，经济增长将达到4.1%。]]></title>
             <guid>2918866</guid>
@@ -559,36 +588,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxy8101663.d.html</link>
             <guid>2918308</guid>
             <pubDate>Sun, 25 Dec 2022 08:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【石家庄融入环首都1小时交通圈】从河北省发改委获悉，按照国铁集团统一安排和部署，自12月26日开始实行新的全国铁路列车运行图。届时，河北省会石家庄至首都北京实现1小时通达，至承德运行时间进一步优化压缩，并开行石家庄至廊坊高铁直达列车。这标志着河北省会石家庄正式融入环首都1小时交通圈，石家庄与各设区市高铁通达范围和质量进一步提升，对满足群众便捷高品质出行、促进沿线地区经济社会高质量发展具有重要意义。 （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxy8096761.d.html</link>
-            <guid>2918307</guid>
-            <pubDate>Sun, 25 Dec 2022 08:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金：A股短期盘整不改中期向好格局 目前市场仍处于布局期】中金公司王汉锋、李求索、何璐认为，结合目前的内外部环境，尤其是国内疫情仍处于扩散阶段，对市场影响可能还会持续一段时间，但一方面考虑当前市场处于估值低位，沪深300指数前向市盈率仅为9.4倍，股权风险溢价重新回升至历史向上一倍标准差附近；交易方面，近期日成交降至5800亿元左右，对应按自由流通市值计算的换手率降至1.6%附近，重新回落至历史阶段性底部附近的1.5-2%的换手率区间；另一方面政策方向较为积极，上周末召开的中央经济工作会议多方面回应市场关切，强调“保持经济平稳运行至关重要”，“大力提振市场信心”。我们认为当前的阶段调整不改长局，后市投资者情绪有望伴随对疫情的预期调整及政策发力逐步改善，目前市场仍处于布局期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxx1316119.d.html</link>
-            <guid>2918306</guid>
-            <pubDate>Sun, 25 Dec 2022 08:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科陆电子：预中标1.92亿元南方电网项目】科陆电子公告，公司为南方电网公司2022年计量产品第二批框架招标中标候选人，预中标金额合计约为1.92亿元。本次预中标品类为：单相智能电能表、三相智能电能表、低压集抄系统设备、负荷管理终端、配变监测计量终端、通信模块。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxx1315054.d.html</link>
-            <guid>2918305</guid>
-            <pubDate>Sun, 25 Dec 2022 08:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛升药业：参股公司康乐卫士北交所上市获审核通过】赛升药业公告，公司参股公司康乐卫士于2022年12月23日获得北京证券交易所上市委员会审议通过。北京证券交易所于2022年12月23日出具《北京证券交易所上市委员会2022年第85次审议会议结果公告》：北京康乐卫士生物技术股份有限公司符合发行条件、上市条件和信息披露要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxy8090268.d.html</link>
-            <guid>2918304</guid>
-            <pubDate>Sun, 25 Dec 2022 08:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄财长：俄罗斯不会按西方规定的价格供应石油】俄罗斯财政部部长西卢安诺夫当天对媒体表示，俄罗斯不会按西方设定的价格供应石油，即便成本不断上升，也要寻找新的市场和物流。西卢安诺夫说，俄罗斯承认，消费者决定价格，但是需要通过市场手段。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-25/detail-imxxwsxy8089317.d.html</link>
-            <guid>2918303</guid>
-            <pubDate>Sun, 25 Dec 2022 08:22:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,59 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 31 Dec 2022 15:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 16:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国亚利桑那州发生枪击事件 7人受伤】当地时间12月31日凌晨，美国亚利桑那州凤凰城发生枪击事件，导致7人受伤，其中一人重伤有生命危险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxyratv2443321.d.html</link>
+            <guid>2926579</guid>
+            <pubDate>Sat, 31 Dec 2022 16:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【菲律宾降雨导致的死亡人数升至48人】菲律宾国家减灾委发布消息称，截至当地时间12月31日晚，发生在菲律宾多个地区的降雨已致至少48人死亡，22人失踪。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxyqwmy9345981.d.html</link>
+            <guid>2926569</guid>
+            <pubDate>Sat, 31 Dec 2022 16:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯2022年秋季征兵结束，共12万人被征召入伍】俄罗斯国防部当地时间12月31日表示，俄军2022年秋季征兵结束，共有12万人被征召入伍。俄罗斯国防部强调，被征召服兵役的公民不参与在乌克兰的特别军事行动，而已经服完兵役的应征者已经按时退伍并返回了居住地。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqwmx2551378.d.html</link>
+            <guid>2926563</guid>
+            <pubDate>Sat, 31 Dec 2022 15:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞典将接任欧盟轮值主席国】欧盟新任轮值主席国瑞典将于2023年1月1日开启任期。当地时间12月31日，欧洲理事会主席米歇尔在社交媒体发文表示，期待与瑞典合作。瑞典此次任期至2023年7月1日结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqwmx2547898.d.html</link>
+            <guid>2926558</guid>
+            <pubDate>Sat, 31 Dec 2022 15:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其央行将其他金融公司纳入证券监管】土耳其央行已将非银行金融公司纳入证券维护监管，这是其将在新年推出的“里拉化战略”的一部分。根据周六发布的官方公报，除银行外，其他金融机构，如帮助企业管理现金流的保理公司也被纳入监管范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqwmx2541826.d.html</link>
+            <guid>2926552</guid>
+            <pubDate>Sat, 31 Dec 2022 15:38:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸中部发生4.1级地震】据缅甸气象水文局消息，当地时间12月31日晚21时，缅甸中部发生4.1级地震，震中位于曼德勒地震台以南约66公里处（北纬21.42度，东经96.08度），震源深度为6公里，暂无人员伤亡消息。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqwmx2528445.d.html</link>
+            <guid>2926534</guid>
+            <pubDate>Sat, 31 Dec 2022 15:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沃尔沃汽车公司表示，已经全资收购自动驾驶软件开发公司Zenseact。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqwmx2528086.d.html</link>
+            <guid>2926529</guid>
+            <pubDate>Sat, 31 Dec 2022 15:21:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：摩根大通和德意志银行寻求驳回杰弗里·爱泼斯坦指控者的诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqwmx2526173.d.html</link>
+            <guid>2926524</guid>
+            <pubDate>Sat, 31 Dec 2022 15:18:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[赞比亚监管机构表示，将汽油价格下调5.4%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqwmy9292577.d.html</link>
@@ -530,53 +578,6 @@
             <title><![CDATA[中国地震台网自动测定：12月31日17时34分在云南德宏州芒市附近发生3.1级左右地震，最终结果以正式速报为准。]]></title>
             <guid>2926409</guid>
             <pubDate>Sat, 31 Dec 2022 09:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智利11月铜产量下降5.5% 工业产值下降7.8%】智利统计机构INE周五表示，11月智利的铜产量同比下降5.5%至459,229吨。智利是全球最大的金属生产国。INE还补充说，智利工业产值在本月下降了 7.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwc2479341.d.html</link>
-            <guid>2926408</guid>
-            <pubDate>Sat, 31 Dec 2022 09:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫金矿业董事长陈景河：将寻求恰当市场机会并购全球大型矿业公司】12月31日，紫金矿业微信公众号消息，紫金矿业董事长陈景河发表2023年新年致辞称，寻找恰当市场机会，并购全球大型矿业公司，显著增加公司资源储量和产能，公司将进一步加强自主地质勘查。陈景河表示，锂要成为公司未来几年最重要的增量板块，要努力成为全球锂产业的重要企业之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwc2474072.d.html</link>
-            <guid>2926407</guid>
-            <pubDate>Sat, 31 Dec 2022 09:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生态环境部发布《全国碳排放权交易市场第一个履约周期报告》】12月31日，生态环境部消息，为系统总结全国碳排放权交易市场第一个履约周期建设运行经验，促进社会各界更好了解全国碳市场建设情况，生态环境部组织编制了《全国碳排放权交易市场第一个履约周期报告》。总体来看，经过第一个履约周期建设运行，全国碳市场运行框架基本建立，初步打通了各关键环节间的堵点、难点，价格发现机制作用初步显现，企业减排意识和能力水平得到有效提高，通过专项监督帮扶等措施有效提升碳排放数据质量，实现了预期建设目标。全国碳市场建设运行对促进全社会低成本减排发挥了积极作用。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwc2472262.d.html</link>
-            <guid>2926406</guid>
-            <pubDate>Sat, 31 Dec 2022 09:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本专家：禽流感风险“极高” 日本或将扑杀超1000万只禽类】目前日本47个都道府县，已有近半数受到疫情波及，共扑杀近730万只禽类。日本广播协会29日援引多名专家的观点报道，明年春季以前，日本禽流感疫情风险仍将保持极高水平。如果感染率持续上升，从今年秋冬至明年春季的本次禽流感流行季中，日本可能将扑杀超过1000万只禽类。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwe9248134.d.html</link>
-            <guid>2926405</guid>
-            <pubDate>Sat, 31 Dec 2022 09:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：12月31日17时15分在青海玉树州称多县（有感）发生2.4级地震，震源深度10千米。]]></title>
-            <guid>2926404</guid>
-            <pubDate>Sat, 31 Dec 2022 09:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【元旦假期首日全国铁路预计发送旅客550万人次】今天是元旦假期第一天，全国铁路预计发送旅客550万人次。长三角地区今天迎来客流高峰，今天预计发送旅客100万人次左右。铁路部门根据12306客票预售和候补购票数据，计划对南昌、福州、广州、武汉、郑州、西安等热门方向采取恢复图定列车开行、安排动车组重联、增开临客等措施增加运力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwe9247588.d.html</link>
-            <guid>2926403</guid>
-            <pubDate>Sat, 31 Dec 2022 09:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东今年汽车产量将超410万辆，产值超1.1万亿】记者在第二十届广州国际汽车博览会开幕式上获悉，作为全国重要汽车制造基地的广东，预计2022年汽车产量预计超过410万辆，同比增长超过25%。其中，新能源汽车产量预计接近130万辆，同比增长140%，占全国总产量约18%。在此基础上，广东2022年汽车制造业产值将超过1.1万亿元，成为广东第八个产值超万亿的产业集群。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqfqf2595623.d.html</link>
-            <guid>2926402</guid>
-            <pubDate>Sat, 31 Dec 2022 09:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年美国科技公司IPO熄火】2021年美股市场出现创纪录的科技公司IPO之后，今年在美国唯一值得注意的科技IPO是英特尔分拆的自动驾驶部门Mobileye。这家公司的IPO筹集了不到10亿美元的资金，而其他任何一家美国科技公司的IPO都没有达到1亿美元。相比之下，在2021年，美国至少有10家科技公司IPO融资10亿美元以上。投资者放弃了风险和未来增长的前景，转而青睐那些资产负债表足够强劲、能够经受住经济低迷和维持较高利率的盈利企业。科技股投资者正在寻找触底的迹象，但股票研究公司New construct首席执行官David Trainer表示，投资者首先需要认清现实，重新根据基本面、而不是不切实际的承诺来评估新兴科技公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqfqh9368905.d.html</link>
-            <guid>2926401</guid>
-            <pubDate>Sat, 31 Dec 2022 09:16:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

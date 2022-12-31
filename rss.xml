@@ -4,11 +4,33 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 31 Dec 2022 16:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 17:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【坐飞机回家过年？国内航线燃油附加费即将下调】国内航线燃油附加费要降了！自2023年1月5日起，800公里以下航段和800公里以上航段，成人旅客在燃油附加费上可分别省20元和40元。12月30日至31日，中国国航、首都航空、幸福航空等多家航空公司相继宣布将下调国内航线燃油附加费。]]></title>
+            <guid>2926637</guid>
+            <pubDate>Sat, 31 Dec 2022 16:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【12月31日电影票房破2.5亿 创10月3日以来新高】猫眼专业版数据显示，12月31日，全国实现2.50亿元电影总票房，创2022年10月3日以来新高。《阿凡达：水之道》《想见你》《绝望主夫》分列当日票房榜前三名。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxyratw9242522.d.html</link>
+            <guid>2926614</guid>
+            <pubDate>Sat, 31 Dec 2022 16:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸军方宣布停火一年】当地时间12月31日晚，缅甸国防军司令部发表声明，宣布将自2023年1月1日起至12月31日停火一年。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxyratw9227475.d.html</link>
+            <guid>2926591</guid>
+            <pubDate>Sat, 31 Dec 2022 16:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【元旦假期河南少林寺等景区免票或门票半价吸引游客】元旦假期，国内旅游出行需求旺盛，对此，河南省郑州市及周边多个景区推出免费、半价活动，吸引全国游客。]]></title>
+            <guid>2926588</guid>
+            <pubDate>Sat, 31 Dec 2022 16:20:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国亚利桑那州发生枪击事件 7人受伤】当地时间12月31日凌晨，美国亚利桑那州凤凰城发生枪击事件，导致7人受伤，其中一人重伤有生命危险。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-01/detail-imxyratv2443321.d.html</link>
@@ -556,28 +578,6 @@
             <title><![CDATA[【下周解禁市值超980亿元，宁德时代迎来431.8亿元解禁】证券时报·数据宝统计，1月3日至6日，A股市场将有53家上市公司迎来限售股解禁。以个股最新价计算，53股解禁市值合计981.68亿元。从解禁规模来看，宁德时代和中国移动居前，解禁市值依次为431.8亿元、188.03亿元。前者解禁股类型为定向增发机构配售股份，后者为首发战略配售股份。国芯科技、天下秀、云铝股份、侨银股份等个股解禁市值也较为靠前，依次为54.92亿元、49.93亿元、34.92亿元、32.21亿元。]]></title>
             <guid>2926413</guid>
             <pubDate>Sat, 31 Dec 2022 09:54:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：斐济群岛发生5.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwc2488038.d.html</link>
-            <guid>2926412</guid>
-            <pubDate>Sat, 31 Dec 2022 09:47:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔚来第1300座换电站正式落成】据蔚来官微，今天，随着杭州奥体印象城蔚来换电站的上线，蔚来第1300座换电站正式落成。同时，今天全国共有11座换电站上线，换电站累计布局数量已达1305座，完成年度布局目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-31/detail-imxyqmwe9263014.d.html</link>
-            <guid>2926411</guid>
-            <pubDate>Sat, 31 Dec 2022 09:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：12月31日17时34分在云南德宏州芒市发生3.0级地震，震源深度8千米。]]></title>
-            <guid>2926410</guid>
-            <pubDate>Sat, 31 Dec 2022 09:43:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：12月31日17时34分在云南德宏州芒市附近发生3.1级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2926409</guid>
-            <pubDate>Sat, 31 Dec 2022 09:39:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

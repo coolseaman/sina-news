@@ -4,11 +4,70 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 26 Jan 2023 17:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 18:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国联邦能源监管委员会批准液化天然气出口商自由港（Freeport LNG）重启部分运作。]]></title>
+            <guid>2958902</guid>
+            <pubDate>Thu, 26 Jan 2023 18:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会多位议员称，此前美国联邦航空管理局（FAA）发生的大面积系统瘫痪故障是“不可原谅”的。众议员运输业委员会主席Sam Graves称国会必须采取措施防止类似的故障再度发生。委员会将于2月7日就此再度召开听证会。]]></title>
+            <guid>2958901</guid>
+            <pubDate>Thu, 26 Jan 2023 18:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖350亿美元七年期国债，得标利率3.517%（前次为3.921%），投标倍数2.69（上月投标倍数2.45）。7年期美债收益率在拍卖后回落至3.517%，之前为3.538%。]]></title>
+            <guid>2958900</guid>
+            <pubDate>Thu, 26 Jan 2023 18:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布宜诺斯艾利斯谷物交易所：阿根廷大豆播种完成率为98.8%。大豆播种面积1620万公顷，与上一种植季持平。预计产量4100万吨，与上一年度持平。]]></title>
+            <guid>2958899</guid>
+            <pubDate>Thu, 26 Jan 2023 18:07:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LVMH集团CEO：对美国市场的需求状况并不感到特别的担心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycqcxy3885150.d.html</link>
+            <guid>2958898</guid>
+            <pubDate>Thu, 26 Jan 2023 18:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME期铜收涨15美元，报9330美元/吨。LME期铝收跌20美元，报2639美元/吨。LME期锌收涨36美元，报3486美元/吨。LME期铅收涨44美元，报2204美元/吨。LME期镍收涨245美元，报29427美元/吨。LME期锡收涨1412美元，报32262美元/吨。]]></title>
+            <guid>2958897</guid>
+            <pubDate>Thu, 26 Jan 2023 17:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[索尼游戏业务主管将与欧盟反垄断主管Vestager会面，从而就此前微软收购动视暴雪一事共商对策。]]></title>
+            <guid>2958896</guid>
+            <pubDate>Thu, 26 Jan 2023 17:52:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西财政部计划维持2023年流动性缓冲水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxse0783500.d.html</link>
+            <guid>2958895</guid>
+            <pubDate>Thu, 26 Jan 2023 17:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大国防部长安南：加拿大将在未来几周向乌克兰提供4辆豹型坦克。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxsa4000184.d.html</link>
+            <guid>2958894</guid>
+            <pubDate>Thu, 26 Jan 2023 17:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国食品药品管理局，阿斯利康的EvuSheld新冠病毒疫苗产品未能获得在美国紧急使用的授权。]]></title>
+            <guid>2958893</guid>
+            <pubDate>Thu, 26 Jan 2023 17:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰央行行长马斯洛夫斯卡：2023年底波兰可能会有降息的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxse0765662.d.html</link>
+            <guid>2958892</guid>
+            <pubDate>Thu, 26 Jan 2023 17:20:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[即时社交媒体平台Buzzfeed将使用OpenAI的服务来协助内容创作。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycpxsa3982502.d.html</link>
@@ -521,63 +580,6 @@
             <title><![CDATA[墨菲石油(MUR.N)涨近3%，此前公司将季度股息提高10%至0.275美元/股。]]></title>
             <guid>2958803</guid>
             <pubDate>Thu, 26 Jan 2023 14:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雪佛龙(CVX.N)涨3.4%，此前宣布750亿美元股票回购计划，并将增加股息6.3%至1.51美元/股。]]></title>
-            <guid>2958802</guid>
-            <pubDate>Thu, 26 Jan 2023 14:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瓦莱罗能源(VLO.N)涨2.37%，2022年Q4净利润从上年同期的10.09亿美元大幅增长至31.13亿美元且好于市场预期。]]></title>
-            <guid>2958801</guid>
-            <pubDate>Thu, 26 Jan 2023 14:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mobileye Global(MBLY.O)涨超8%，2022年Q4营收同比增长59%至5.65亿美元，调整后净利润同比大增121%至2.15亿美元。]]></title>
-            <guid>2958800</guid>
-            <pubDate>Thu, 26 Jan 2023 14:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空(LUV.N)跌2.37%，2022年Q4调整后净亏损录得2.26亿美元，市场预期亏损为1730万美元，公司因营收及成本趋势预计2023年第一季度仍将录得净亏损。]]></title>
-            <guid>2958799</guid>
-            <pubDate>Thu, 26 Jan 2023 14:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SAP SE(SAP.N)跌近3%，2022年Q4净利润同比减少62%至5.47亿欧元；公司表示将开始重组，今年将裁减2.5%的职位，裁员总数约为3000人。]]></title>
-            <guid>2958798</guid>
-            <pubDate>Thu, 26 Jan 2023 14:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油价格日内上涨2.5%，至82.14美元/桶。布伦特原油日内上涨2%，至87.96美元/桶。]]></title>
-            <guid>2958797</guid>
-            <pubDate>Thu, 26 Jan 2023 14:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺基亚(NOK.N)涨3.45%，2022年Q4营收同比增长16%至74.49亿欧元，净利润同比增长364%至31.5亿欧元，均超市场预期。]]></title>
-            <guid>2958796</guid>
-            <pubDate>Thu, 26 Jan 2023 14:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM(IBM.N)跌超3%，2022年Q4营收166.9亿美元与上年同期持平，公司宣布全球裁员1.5%，约3900人。]]></title>
-            <guid>2958795</guid>
-            <pubDate>Thu, 26 Jan 2023 14:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克金龙指数涨2.7%，热门中概股普遍高开，哔哩哔哩(BILI.O)涨超7%，蔚来汽车(NIO.N)涨近7%，小鹏汽车(XPEV.N)涨6.7%，理想汽车(LI.O)涨超6%，拼多多(PDD.O)涨3%。]]></title>
-            <guid>2958794</guid>
-            <pubDate>Thu, 26 Jan 2023 14:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉市值重回5000亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptkh0772457.d.html</link>
-            <guid>2958793</guid>
-            <pubDate>Thu, 26 Jan 2023 14:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油日内涨幅扩大至2.00%，现报87.96美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-26/detail-imycptkh0772273.d.html</link>
-            <guid>2958792</guid>
-            <pubDate>Thu, 26 Jan 2023 14:31:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,313 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 27 Jan 2023 14:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 15:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[墨西哥总统AMLO：将继续对墨西哥石油公司（Pemex）予以支持。]]></title>
+            <title><![CDATA[美国疾控中心表示，截至1月28日当周，奥密克戎毒株亚型XBB.1.5占美国新冠病例总数的61.3%。]]></title>
+            <guid>2959950</guid>
+            <pubDate>Fri, 27 Jan 2023 15:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员称，2月1日至10日，俄罗斯乌斯季卢加港的石油装载量将从1月1日至10日的90万吨上升至100万吨。]]></title>
+            <guid>2959949</guid>
+            <pubDate>Fri, 27 Jan 2023 15:10:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登宣布杰弗里·齐恩茨将任白宫办公厅主任】根据白宫当地时间1月27日发布的一项声明，美国总统拜登正式宣布罗恩·克莱因将辞去白宫办公厅主任一职，白宫前新冠疫情应对协调员杰弗里·齐恩茨（Jeffrey Zients）将接替罗恩·克莱因成为下一任白宫办公厅主任。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0431118.d.html</link>
+            <guid>2959948</guid>
+            <pubDate>Fri, 27 Jan 2023 15:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[密歇根大学消费者调查主任Joanne Hsu：消费者信心指数从历史角度来看仍处于低位，但为连续第二个月继续上升，较去年12月上升9%，较去年同期下降约3%。尽管短期经济前景与上月相比基本持平，但该指数的所有其他组成部分在1月份都出现了增长。当前状况指数较去年12月飙升15%，对个人财务状况和耐用品购买状况的评估都有所改善，这受到强劲收入和价格压力缓解的支撑。尽管如此，消费者情绪仍存在相当大的下行风险，三分之二的消费者预计明年经济将出现低迷。值得注意的是，债务上限危机迫在眉睫，可能逆转过去几个月的涨势，此前2011年和2013年的债务上限危机均导致消费者信心大幅下降。]]></title>
+            <guid>2959947</guid>
+            <pubDate>Fri, 27 Jan 2023 15:08:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10年期美债收益率在美国成屋销售数据发布后持于3.53%水平，波动暂有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0430016.d.html</link>
+            <guid>2959946</guid>
+            <pubDate>Fri, 27 Jan 2023 15:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利央行行长暗示在降息之前或需要等待更长时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0429172.d.html</link>
+            <guid>2959945</guid>
+            <pubDate>Fri, 27 Jan 2023 15:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国1月一年期通胀率预期等数据公布后，美元指数DXY、现货黄金短线波动不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0425640.d.html</link>
+            <guid>2959944</guid>
+            <pubDate>Fri, 27 Jan 2023 15:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国1月密歇根大学消费者信心指数终值录得64.9，为2022年4月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3648505.d.html</link>
+            <guid>2959943</guid>
+            <pubDate>Fri, 27 Jan 2023 15:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国1月一年期通胀率预期录得3.9%，为2021年4月以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3648430.d.html</link>
+            <guid>2959942</guid>
+            <pubDate>Fri, 27 Jan 2023 15:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国12月成屋签约销售指数月率录得2.5%，为2021年10月以来最大增幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0425434.d.html</link>
+            <guid>2959941</guid>
+            <pubDate>Fri, 27 Jan 2023 15:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国1月一年期通胀率预期3.9%，预期4.00%，前值4.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0425344.d.html</link>
+            <guid>2959940</guid>
+            <pubDate>Fri, 27 Jan 2023 15:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国1月密歇根大学消费者信心指数终值 64.9，预期64.6，前值64.6。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0425213.d.html</link>
+            <guid>2959939</guid>
+            <pubDate>Fri, 27 Jan 2023 15:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国12月成屋签约销售指数月率 2.5%，预期-0.9%，前值-4.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0425126.d.html</link>
+            <guid>2959938</guid>
+            <pubDate>Fri, 27 Jan 2023 15:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【匈牙利：将否决欧盟对俄核能制裁方案】匈牙利总理欧尔班·维克托1月27日说，匈牙利不允许欧洲联盟对俄罗斯的制裁扩展至核能领域，对任何相关制裁方案都将予以否决。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0425026.d.html</link>
+            <guid>2959937</guid>
+            <pubDate>Fri, 27 Jan 2023 15:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国12月成屋签约销售指数同比 -34.3%，前值 -38.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3647815.d.html</link>
+            <guid>2959936</guid>
+            <pubDate>Fri, 27 Jan 2023 15:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟外交官表示，预计欧盟周五不会就俄罗斯石油产品价格上限做出决定，会谈将于下周恢复。]]></title>
+            <guid>2959935</guid>
+            <pubDate>Fri, 27 Jan 2023 14:59:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯央行认为，卢布储备和外汇流动性充足，银行业利润增加了两倍，达到49亿美元。]]></title>
+            <guid>2959933</guid>
+            <pubDate>Fri, 27 Jan 2023 14:54:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国12月成屋签约销售指数月率、1月密歇根大学消费者信心指数终值、一年期通胀率预期将于十分钟后公布。]]></title>
+            <guid>2959932</guid>
+            <pubDate>Fri, 27 Jan 2023 14:50:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD短线上扬20点，报1.2395。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3641098.d.html</link>
+            <guid>2959931</guid>
+            <pubDate>Fri, 27 Jan 2023 14:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股短线拉升，三大股指悉数转涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0418121.d.html</link>
+            <guid>2959930</guid>
+            <pubDate>Fri, 27 Jan 2023 14:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典商业银行：预计瑞典央行2月加息50个基点，4月加息25个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3641011.d.html</link>
+            <guid>2959929</guid>
+            <pubDate>Fri, 27 Jan 2023 14:49:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股纳斯达克100指数开盘后不久转涨，抹除早盘0.4%的跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3640502.d.html</link>
+            <guid>2959928</guid>
+            <pubDate>Fri, 27 Jan 2023 14:48:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【蓝科高新：兰州基地主打产品管壳式换热器在制工作量饱满】蓝科高新消息，1月27日，农历正月初六，蓝科高新兰州基地生产车间全面复工。兰州基地自2022年制造产品结构调整以来取得良性发展，2023年迎来好的开局，目前主打产品管壳式换热器在制工作量饱满。（e公司）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3639369.d.html</link>
+            <guid>2959927</guid>
+            <pubDate>Fri, 27 Jan 2023 14:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国运通涨幅扩大至10%】美国运通涨幅扩大至10%，报171.5美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0415840.d.html</link>
+            <guid>2959926</guid>
+            <pubDate>Fri, 27 Jan 2023 14:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节假期期间 广西桂林漓江游览人数达到18万人次】2023年春节期间，受疫情防控优化措施调整影响，桂林辖区迎来旅游客流高峰，水上出行尤其是漓江游览客流量从低位运行加快反弹，客流总量出现较大幅度增长，整个假期，水上游览人数达到18万人次。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3636760.d.html</link>
+            <guid>2959925</guid>
+            <pubDate>Fri, 27 Jan 2023 14:43:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF开盘多数下跌】 仅有可选消费ETF涨0.42%，网络股指数涨0.17%；能源业ETF跌0.76%，医疗业ETF跌0.59%，全球科技股ETF跌0.45%。公用事业ETF跌0.44%，科技行业ETF跌0.40%，日用消费品ETF跌0.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3635992.d.html</link>
+            <guid>2959924</guid>
+            <pubDate>Fri, 27 Jan 2023 14:42:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国能源市场融资计划在没有申请后关闭】英国财政部周五表示，能源市场融资计划尚未收到任何申请，已经关闭。该计划是去年财政部与英国央行共同推出的，旨在帮助能源公司应对飙升的能源价格。英国财政部表示，自该计划推出以来，天然气批发市场的价格已显著下降，这减轻了符合条件的能源公司面临的部分压力。他们在一份声明中表示，该部门和英国央行将继续监测能源市场的发展。该项目此前定于在去年10月17日至今年1月27日期间开放申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3635148.d.html</link>
+            <guid>2959923</guid>
+            <pubDate>Fri, 27 Jan 2023 14:41:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货钯金跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0411178.d.html</link>
+            <guid>2959922</guid>
+            <pubDate>Fri, 27 Jan 2023 14:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉(TSLA.O)今日续涨2.5%，该股周四绩后大涨近11%，总市值重回5000亿美元上方。]]></title>
+            <guid>2959921</guid>
+            <pubDate>Fri, 27 Jan 2023 14:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【威海广泰：公司相关业务板块市场需求正在恢复】威海广泰在互动平台回复称，近期我国疫情防控政策不断优化调整，随着民航运输市场复苏，公司相关业务板块市场需求正在恢复，相关配套产品需求将随着航空运营情况好转得到提振。（e公司）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3631716.d.html</link>
+            <guid>2959920</guid>
+            <pubDate>Fri, 27 Jan 2023 14:35:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雪佛龙跌2.54%】雪佛龙跌2.54%，2022年Q4净利润63.53亿美元，调整后每股盈利4.09美元，但均不及市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0408370.d.html</link>
+            <guid>2959919</guid>
+            <pubDate>Fri, 27 Jan 2023 14:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股热门中概股部分走低，好未来(TAL.N)跌超5%，理想汽车(LI.O)跌近3%，腾讯音乐(TME.N)跌超2%，哔哩哔哩(BILI.O)跌近2%。]]></title>
+            <guid>2959918</guid>
+            <pubDate>Fri, 27 Jan 2023 14:34:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国奥委会支持国际奥委会和亚奥理事会涉俄倡议——新华社专访中国奥委会新闻发言人】中国奥委会新闻发言人表示，中国奥委会将积极响应和支持国际奥委会和亚奥理事会的倡议和决定，愿为包括符合条件的俄罗斯和白俄罗斯运动员在内的所有运动员搭建良好参赛平台，共同捍卫奥林匹克价值观，维护国际奥林匹克大家庭团结。关于两国运动员参加杭州亚运会的具体方案等，国际奥委会、亚奥理事会等有关各方还将进一步深入研究，相关方案将符合全体运动员的共同利益。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0405206.d.html</link>
+            <guid>2959917</guid>
+            <pubDate>Fri, 27 Jan 2023 14:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指开盘涨0.01%，标普500跌0.3%，纳指跌0.4%】英特尔跌9.8%，Q4业绩远逊预期，预计Q1亏损。科磊跌5.0%，Q3业绩指引不及预期。孩之宝跌6.2%，将裁员15%，Q4营收下降17%。BuzzFeed涨22.9%，该股昨日暴涨120%，计划用ChatGPT写稿子。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0405139.d.html</link>
+            <guid>2959916</guid>
+            <pubDate>Fri, 27 Jan 2023 14:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政部表示，由于没有收到申请，能源市场融资计划已经暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0535415.d.html</link>
+            <guid>2959915</guid>
+            <pubDate>Fri, 27 Jan 2023 14:29:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因系列抗议活动 美国佐治亚州进入紧急状态】美国佐治亚州州长布赖恩·肯普当地时间1月26日宣布该州进入紧急状态，以回应亚特兰大市近日演变成暴力事件的一系列抗议活动。据报道，肯普召集多达1000名佐治亚州国民警卫队成员，并提供相应资源来应对抗议活动，紧急状态将持续到2月9日结束。肯普表示，发布该紧急状态命令是因为非法集会、暴力和公开的暴力威胁对该州的和平与安宁造成了破坏并且对现有人员或财产构成危险。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0535369.d.html</link>
+            <guid>2959914</guid>
+            <pubDate>Fri, 27 Jan 2023 14:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据土耳其船运公司TRIBECA：土耳其达达内尔海峡因一艘船引擎故障导致交通中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0534489.d.html</link>
+            <guid>2959913</guid>
+            <pubDate>Fri, 27 Jan 2023 14:27:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯：墨西哥可能会将墨西哥国家石油公司的债务转换为主权债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0534420.d.html</link>
+            <guid>2959912</guid>
+            <pubDate>Fri, 27 Jan 2023 14:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯：墨西哥当前的通胀措施足以让CPI降温。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0534318.d.html</link>
+            <guid>2959911</guid>
+            <pubDate>Fri, 27 Jan 2023 14:27:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：欧洲股市迎来自2022年2月以来最大的单周资金流入，达到34亿美元；科技股、医疗股表现不佳，过去四周的资金流出趋势是自2019年1月以来最严重的。]]></title>
+            <guid>2959910</guid>
+            <pubDate>Fri, 27 Jan 2023 14:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白俄罗斯央行：预计2023年平均关键利率水平将在10-11%区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3753174.d.html</link>
+            <guid>2959909</guid>
+            <pubDate>Fri, 27 Jan 2023 14:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：美国货币供应、国债曲线和领先经济指数都表明“2023年将出现经济硬着陆”。]]></title>
+            <guid>2959908</guid>
+            <pubDate>Fri, 27 Jan 2023 14:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行牛熊市指标触及10个月来高点，从3.5升至3.7。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0529719.d.html</link>
+            <guid>2959907</guid>
+            <pubDate>Fri, 27 Jan 2023 14:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【看图：需求前景黯淡 韩国科技行业信心指标创七年新低】根据最新数据，与疫情期间相比，韩国科技行业目前对消费者需求的看法更为悲观，信心前景下滑至七年来的最低水平。韩国央行周五公布的数据显示，2月份电子、显示器和通信设备行业指数降至61。如果实际经营结果与预测相符，这将是自2016年2月商业调查指数达到59以来的最低读数。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3752573.d.html</link>
+            <guid>2959906</guid>
+            <pubDate>Fri, 27 Jan 2023 14:20:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国电池巨头SK On拟在美国乔治亚州设IT中心】据美国乔治亚州州长办公室周五透露，韩国三大电池生产商之一SK On将于本月晚些时候在该州设立一个IT中心，这是其在该地区主要投资的一部分，其中包括建设两家电动汽车电池工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0528477.d.html</link>
+            <guid>2959905</guid>
+            <pubDate>Fri, 27 Jan 2023 14:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品管理局（FDA）提议对献血者进行个人风险状况评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3751038.d.html</link>
+            <guid>2959904</guid>
+            <pubDate>Fri, 27 Jan 2023 14:18:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：股市录得6周以来最大单周资金流入，为139亿美元；有122亿美元资金流入债券，5亿美元资金流入黄金；现金流出23亿美元；投资级高收益信贷的资金流入创自2021年9月以来新高，过去四周平均流入77亿美元；新兴市场债务和股票流入创自21年3月以来新高，过去四周平均为71亿美元。]]></title>
+            <guid>2959903</guid>
+            <pubDate>Fri, 27 Jan 2023 14:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国对冲基金大鳄阿克曼：兴登堡对阿达尼集团的做空报告“高度可信”】潘兴广场资本管理公司创始人比尔-阿克曼（Bill Ackman）周四发推称，他认为兴登堡研究公司对印度阿达尼集团的做空报告是“高度可信且充分研究的”。阿克曼说：“阿达尼对兴登堡研究公司的回应，就像康宝莱对我们最初350页报告的回应一样。”他指的是他针对美国保健品公司康宝莱长达五年多的失败的做空行动。兴登堡研究公司周三发布做空报告，指控阿达尼集团“在过去几十年里肆无忌惮地进行股票操纵和会计欺诈”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3748328.d.html</link>
+            <guid>2959902</guid>
+            <pubDate>Fri, 27 Jan 2023 14:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线拉升20点，报102.15；欧元兑美元EUR/USD短线下挫逾20点，报1.0845。]]></title>
+            <guid>2959901</guid>
+            <pubDate>Fri, 27 Jan 2023 14:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【销售增长疲软 亚马逊将出售湾区办公楼】亚马逊正在出售大约16个月前购买的湾区办公大楼，这是该公司为摆脱疫情时期过度扩张的最新举措。据悉，亚马逊于2021年10月以1.23亿美元的价格收购了加利福尼亚州米尔皮塔斯的29英亩房产，用于建造新的仓库，促进未来的增长。报道称，位于内华达州里诺的商业房地产开发商Dermody Properties LLC将买下这处房产，并将其改造成仓库。这笔交易预计将在4月底完成，Dermody正在寻找仓库租户。知情人士透露，预计亚马逊将在这笔交易中蒙受损失。另一位知情人士表示，最终价格仍在谈判中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0523772.d.html</link>
+            <guid>2959900</guid>
+            <pubDate>Fri, 27 Jan 2023 14:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国团结联盟工会表示，Abellio London的巴士罢工将在下周继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0522560.d.html</link>
+            <guid>2959899</guid>
+            <pubDate>Fri, 27 Jan 2023 14:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳优：委任颜卫彬为行政总裁】澳优(01717)发布公告，于2023年1月27日起，公司执行董事兼行政总裁Bartle van der Meer将会退任行政总裁职务。van der Meer将留任执行董事以及彼于集团的其他角色及职务，并将专注于荷兰的企业合并及收购、乳品供应相关策略及管理以及新资本开支项目。董事会进一步公布，由2023年1月27日起，执行董事兼董事会主席颜卫彬已获董事会委任接替van der Meer先生出任行政总裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3745029.d.html</link>
+            <guid>2959898</guid>
+            <pubDate>Fri, 27 Jan 2023 14:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯：我们将继续支持墨西哥国家石油公司，我们可以通过减税来帮助它。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3742732.d.html</link>
             <guid>2959897</guid>
             <pubDate>Fri, 27 Jan 2023 14:11:15 GMT</pubDate>
@@ -289,309 +589,6 @@
             <title><![CDATA[道明证券：美国12月核心PCE物价指数月率或加速至0.3%，尽管0.4%的可能性也不能忽视。12月核心PCE物价指数年率可能放缓至4.5%，这表明物价压力放缓，但仍保持在高水平。]]></title>
             <guid>2959849</guid>
             <pubDate>Fri, 27 Jan 2023 13:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰国际银行：预计美国12月核心PCE物价指数月率将增长0.2%，这将确认物价压力放缓趋势。]]></title>
-            <guid>2959848</guid>
-            <pubDate>Fri, 27 Jan 2023 13:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023春节档总票房67.24亿】猫眼专业版数据显示，截至1月27日21时，2023年春节档期总票房67.24亿，位列中国影史春节档票房榜第二位。总人次1.28亿，总场次264.6万，平均票价52.4元。共2部电影票房破20亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3680441.d.html</link>
-            <guid>2959847</guid>
-            <pubDate>Fri, 27 Jan 2023 13:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国陶氏化学去年四季度净利下滑超六成，计划裁员2000人】当地时间1月26日，美国化工巨头陶氏化学发布报告称受能源成本上涨、需求疲弱和供应链中断等因素影响，公司2022年第四季度利润不及华尔街预期，公告将在全球范围内裁员约2000人，此外还包括关闭部分工厂、减少原材料购买并削减物流和水电成本。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0456851.d.html</link>
-            <guid>2959846</guid>
-            <pubDate>Fri, 27 Jan 2023 13:07:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【满江红春节档票房冠军】猫眼专业版数据见证，截止1月27日21时，《满江红》累计总票房25.92亿，成春节档票房冠军，共打破20项纪录，获得99项里程碑成就。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3678836.d.html</link>
-            <guid>2959845</guid>
-            <pubDate>Fri, 27 Jan 2023 13:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构前瞻美国12月PCE物价指数】在美国第四季度GDP数据向好的背景下，意外强劲的PCE将助长美联储将在更长时间内坚持其鹰派立场的猜测。这反过来会促使美元出现一些短期的空头回补动作，并将欧元兑美元进一步拖离本周早些时候触及的九个月高点。相反，若PCE数据走弱，将巩固美联储将放缓其政策收紧周期的预期，并提升市场对2月加息25个基点的押注。这可能会对已经疲软的美元施加下行压力。然而，市场的反应可能仍然有限，因为焦点仍然集中在下周的FOMC和欧洲央行政策会议上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3677308.d.html</link>
-            <guid>2959844</guid>
-            <pubDate>Fri, 27 Jan 2023 13:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：预计美国12月PCE指数会更强劲，预料不会像近期CPI那样走低，因为上周PPI中一些更强劲的分项与PCE分项的相关性更强，预计12月PCE物价指数月率增长0.4%。]]></title>
-            <guid>2959843</guid>
-            <pubDate>Fri, 27 Jan 2023 13:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波罗的海干散货指数下跌0.15%，报676点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3674500.d.html</link>
-            <guid>2959842</guid>
-            <pubDate>Fri, 27 Jan 2023 13:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及塞加拉地区发现距今4300年木乃伊】当地时间1月26日，埃及著名考古学家扎西·哈瓦斯公布了在塞加拉地区的最新考古发现，包括多个据信为古埃及古王国时期的墓葬，出土的文物则包含石棺、雕像以及一具金箔木乃伊。哈瓦斯表示，这具木乃伊距今约4300年，其历史可追溯到旧王国的第六王朝时期，是迄今为止发现的最完整的非皇家木乃伊。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0450511.d.html</link>
-            <guid>2959841</guid>
-            <pubDate>Fri, 27 Jan 2023 12:57:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据消息人士称，欧盟和辉瑞生物科技正在讨论延长疫苗交付的最后期限，可能延长到2024年下半年。]]></title>
-            <guid>2959840</guid>
-            <pubDate>Fri, 27 Jan 2023 12:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其银行业指数连续第5天下跌，日内下跌5.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3671757.d.html</link>
-            <guid>2959839</guid>
-            <pubDate>Fri, 27 Jan 2023 12:55:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据消息人士称，欧盟和辉瑞生物科技讨论削减欧盟今年必须购买的剂量以换取更高的价格，根据合同，欧盟今年将购买4亿至5亿剂辉瑞疫苗。]]></title>
-            <guid>2959838</guid>
-            <pubDate>Fri, 27 Jan 2023 12:54:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比利时将向乌克兰提供9200万欧元军事援助】当地时间1月27日，比利时首相德克罗在新闻发布会上表示，已批准对乌克兰提供9200万欧元军事援助。比利时国防大臣德东德尔称，军援将包括防空和反坦克导弹、手榴弹等弹药以及装甲车，但不会向乌克兰提供坦克。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3669583.d.html</link>
-            <guid>2959837</guid>
-            <pubDate>Fri, 27 Jan 2023 12:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【推特联合创始人斯通：马斯克不是掌管推特的合适人选】据报道，推特（Twitter）联合创始人比兹·斯通（Biz Stone）今日表示，埃隆·马斯克已经破坏了推特之前做出的一些积极变化。斯通表示，他2017年重新回归推特后，采取了一系列措施，提升了员工士气，对推特内容进行了有力监督。但马斯克收购推特之后，把这些方面的改进全部丢弃了。但斯通同时表示：“也可能是我弄错了。“]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0444952.d.html</link>
-            <guid>2959836</guid>
-            <pubDate>Fri, 27 Jan 2023 12:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文件显示，福特汽车(F.N)召回38.2万辆汽车，原因是视频输出可能失效，导致后视摄像头图像无法显示。]]></title>
-            <guid>2959835</guid>
-            <pubDate>Fri, 27 Jan 2023 12:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国租金创新高，预计今年或有更多涨幅】据房地产在线网站Rightmove数据显示，全英国(伦敦除外)新租户的平均月租已达到创纪录的1172英镑，伦敦的典型私人出租租金也创下了每月2480英镑的历史新高，而伦敦市中心的平均月租则首次超过了3000英镑。该网站表示，有迹象表明，随着越来越多的房屋可供出租，租户之间的竞争开始缓解，但需求和供应之间的不平衡仍然很大。该网站预测，到2023年，除非可供出租的房屋大幅增加，否则英国各地新房源的平均要价将进一步上涨5%。Douglas&Gordon销售和租赁总监JamesRedington表示，他们看到了几十年来最高的租金涨幅，并预计这种增长短期内不会放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0444011.d.html</link>
-            <guid>2959834</guid>
-            <pubDate>Fri, 27 Jan 2023 12:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国天化工：因供股发行约3.77亿股】中国天化工(00362)发布公告，于2023年1月27日根据供股而配发及发行供股股份3.77亿股，每股发行价0.2港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0441821.d.html</link>
-            <guid>2959833</guid>
-            <pubDate>Fri, 27 Jan 2023 12:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股2022年回购20强名单出炉，这些公司耗资逾10亿】以最新公告时间为依据，2022全年A股市场共有1410家上市公司发布了回购相关公告，其中1102家公司已经完成回购，268家正在实施中。将上述两种情况全部计入，2022年A股上市公司合计回购金额已达到1849.66亿元，是A股回购的“大年”。（证券时报·数据宝）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3662583.d.html</link>
-            <guid>2959832</guid>
-            <pubDate>Fri, 27 Jan 2023 12:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春节期间云南河口边检站验放货物1.1万余吨】记者27日从河口出入境边防检查站获悉，春节期间(1月21日至26日)，该站共计验放出入境人员9000余人次，货运车辆750余辆次，货运列车10列次，货物1.1万余吨。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0438400.d.html</link>
-            <guid>2959831</guid>
-            <pubDate>Fri, 27 Jan 2023 12:41:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：欧洲央行加息周期的持续时间成为市场焦点】Carmignac投资委员会成员Kevin Thozet在一份报告中表示，由于核心通胀没有显示出放缓的迹象，工资仍处于上升趋势，经济增长预期被调高，毫无疑问，欧洲央行将在2月2日的会议上将存款利率从2%上调至2.5%。目前的关键不是“是否加息50个基点”，而是“幅度为50个基点的加息将持续多久”。他称，预计下周会议的焦点也将转向量化紧缩计划的细节。他表示，欧洲央行将从3月份开始缩表，每月缩减150亿欧元，但尚未宣布这将如何影响不同的债券市场部门和不同的发行人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0437823.d.html</link>
-            <guid>2959830</guid>
-            <pubDate>Fri, 27 Jan 2023 12:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海通国际：利好政策不断推出 分散式风电开发潜力超1000GW】海通国际发布研报称，近10年政策端不断释放利好，备案制的推出成为分散式风电发展的转折点。政策端不断完善，特别是风电开发备案制的推出将助力“十四五”分散式风电开发高速增长。分散式风电优势较集中式风电更靠近负荷中心，节约输电设备建设成本，利于消纳。在大基地输电通道紧张的情况下，就近消纳的分散式风电装机增量空间广阔。21年新增装机同比增长7倍，分散式风电场开发潜力超1000GW，有望成为万亿蓝海市场。在政策端不断加码、经济性不断改善的情况下，“十四五”期间分散式风电的装机规模将超过50GW市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0437000.d.html</link>
-            <guid>2959828</guid>
-            <pubDate>Fri, 27 Jan 2023 12:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州南站单日开行列车创纪录】记者27日从中国铁路广州局集团有限公司(以下简称“广铁集团”)获悉，1月27日(正月初六)是春节假期最后一天，广铁集团迎来节后返程客流高峰，广州南站当日开行列车1148列，刷新建站以来历史纪录，与2019年同期相比增长28.7%。广铁集团预计，27日发送旅客173万人次，与2022年春运同期相比增加31.7万人次，增长22.4%，恢复到2019年春运同期的95%，为2023年春运旅客发送量单日最高峰。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3655036.d.html</link>
-            <guid>2959827</guid>
-            <pubDate>Fri, 27 Jan 2023 12:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部发言人：新任美国大使不会改善俄美关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0430841.d.html</link>
-            <guid>2959826</guid>
-            <pubDate>Fri, 27 Jan 2023 12:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰10个州因电力短缺进入紧急停电状态】当地时间1月27日，乌克兰国家电力公司宣布，受此前一天导弹袭击的影响，乌境内10个州因电力短缺进入紧急停电状态，受损能源基础设施的抢修工作正在进行中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3652219.d.html</link>
-            <guid>2959825</guid>
-            <pubDate>Fri, 27 Jan 2023 12:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春节假期北京重点商业企业实现销售额50.9亿元】2023年春节假期收官。1月27日，北京市商务局发布最新统计数据。假日期间，北京市商务局重点监测的百货、超市、专业专卖店、餐饮和电商等企业实现销售额50.9亿元，恢复至去年同期（农历日，下同）的98%，较2019年同期增长13.2%。全市60个重点商圈客流量2531.1万人次，恢复至去年同期的88.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0426960.d.html</link>
-            <guid>2959824</guid>
-            <pubDate>Fri, 27 Jan 2023 12:23:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰官员称乌方将很快获得F-16战斗机】当地时间1月27日，乌克兰国家安全与国防委员会秘书达尼洛夫表示，乌方将很快获得F-16战斗机。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwie3649663.d.html</link>
-            <guid>2959823</guid>
-            <pubDate>Fri, 27 Jan 2023 12:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港房屋局：未来三至四年一手私楼潜在供应量为10.5万套】据香港特区新闻网报道，香港房屋局表示，未来三至四年，一手私楼潜在供应量为10.5万套，按季增加1万套。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0423951.d.html</link>
-            <guid>2959822</guid>
-            <pubDate>Fri, 27 Jan 2023 12:18:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兔年春节假期上海口岸出入境人数逾10万人次】从上海边检总站获悉，今年春节假期(1月21日除夕至1月27日16时)，上海边检机关共查验出入境人员10.4万人次，较去年春节假期增长125.2%。据了解，“乙类乙管”实施以来，上海口岸出入境客流恢复态势明显。今年春节假期，浦东国际机场口岸，上海机场边检站累计查验出入境旅客9.1万人次，较去年春节同比增长180.6%；查验出入境客运航班522架次，同比增长111.3%。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0422503.d.html</link>
-            <guid>2959821</guid>
-            <pubDate>Fri, 27 Jan 2023 12:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雪佛龙(CVX.N)CFO：预计2023年美国二叠纪盆地产量将有近10%的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0421669.d.html</link>
-            <guid>2959820</guid>
-            <pubDate>Fri, 27 Jan 2023 12:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据消息人士称，预计2023年俄罗斯线下一次炼油产能将增长29%，至2655万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0420076.d.html</link>
-            <guid>2959819</guid>
-            <pubDate>Fri, 27 Jan 2023 12:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京主持召开俄联邦安全会议 讨论北冰洋大陆架外部边界等问题】当地时间1月27日，俄罗斯总统普京主持召开俄联邦安全会议，讨论内部议程以及俄罗斯联邦在北冰洋的大陆架外部边界问题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0419852.d.html</link>
-            <guid>2959818</guid>
-            <pubDate>Fri, 27 Jan 2023 12:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春节假期旅行社及相关服务业销售收入同比增长1.3倍】国家税务总局最新发布的增值税发票数据显示，春节假期，旅行社及相关服务业销售收入同比增长1.3倍，已恢复至2019年春节假期的80.7%。旅游饭店、经济型连锁酒店销售收入同比分别增长16.4%、30.6%，分别恢复至2019年春节假期的73.4%、79.9%。民宿服务提供个性化服务受到游客欢迎，销售收入同比增长74.2%，比2019年春节假期年均增长13.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrwih0419229.d.html</link>
-            <guid>2959817</guid>
-            <pubDate>Fri, 27 Jan 2023 12:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阳光纸业：以614.3万港元回购296.2万股公司股份】公司今日以614.3万港元回购296.2万股公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzk0547651.d.html</link>
-            <guid>2959816</guid>
-            <pubDate>Fri, 27 Jan 2023 12:12:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非央行上调基准利率至7.25%】南非储备银行（央行）27日起将基准利率上调25个基点至7.25%。南非央行行长莱塞特亚·卡尼亚戈26日在一场发布会上宣布这一决定。他表示，央行希望通过加息，把通胀预期更有效锚定在3%至6%目标区间的中间水平，并增强外界对长期可持续稳定通胀的信心。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzk0547308.d.html</link>
-            <guid>2959815</guid>
-            <pubDate>Fri, 27 Jan 2023 12:12:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第十三届全球海外华文书店中国图书春节联展举办】近日，以“阅读中国”为主题的第十三届全球海外华文书店中国图书春节联展，在美国、英国、泰国、尼泊尔、新加坡、日本等全球27个国家和地区的85家实体书店同步开展。联展包括中国图书展销、文化展演等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3770169.d.html</link>
-            <guid>2959814</guid>
-            <pubDate>Fri, 27 Jan 2023 12:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家税务总局：春节假期消费平稳增长 出行旅游恢复较快】国家税务总局最新发布的增值税发票数据显示，今年春节假期，全国消费相关行业销售收入与上年春节假期相比增长12.2%，比2019年春节假期年均增长12.4%，总体保持平稳增长态势。其中，商品消费和服务消费同比分别增长10%和13.5%，比2019年春节假期年均分别增长13.1%和8.1%，生活必需品、家居升级类商品、旅游服务等消费增长较快，返乡过节带动务工大省消费增幅较高。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3769979.d.html</link>
-            <guid>2959813</guid>
-            <pubDate>Fri, 27 Jan 2023 12:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所：新的伦敦市场的TTF交易将不受欧盟天然气价格上限的限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzk0546723.d.html</link>
-            <guid>2959812</guid>
-            <pubDate>Fri, 27 Jan 2023 12:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年国内票房突破80亿元】据灯塔专业版数据，截至1月27日，2023年度大盘票房(含预售)破80亿，打破中国电影市场年票房最快破80亿纪录。截至目前，2023年实时票房前三名：冠军《满江红》，亚军《流浪地球2》亿，季军《熊出没·伴我“熊芯”》。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3769196.d.html</link>
-            <guid>2959811</guid>
-            <pubDate>Fri, 27 Jan 2023 12:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所：新的伦敦市场将为市场参与者提供“选择权”，以防欧盟天然气价格上限被触发。]]></title>
-            <guid>2959810</guid>
-            <pubDate>Fri, 27 Jan 2023 12:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所：阿姆斯特丹交易所的TTF交易将继续与新的平行市场一起正常进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3767434.d.html</link>
-            <guid>2959809</guid>
-            <pubDate>Fri, 27 Jan 2023 12:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洲际交易所：我们计划从2月20日起在伦敦推出TTF天然气期货和期权平行市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3766933.d.html</link>
-            <guid>2959808</guid>
-            <pubDate>Fri, 27 Jan 2023 12:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高露洁Q4每股收益及营收超出预期】高露洁周五发布了第四季度的财报，数据显示，公司营收高于分析师的预期，每股收益超出了分析师的预期。在该公司发布的最新财报中，公司每股收益为0.77美元，总营收为46.3亿美元，分析师预期该公司的营收为45.7亿美元，每股收益为0.76美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3765308.d.html</link>
-            <guid>2959807</guid>
-            <pubDate>Fri, 27 Jan 2023 12:07:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3个月期美元Libor上涨2.3个基点，至4.82529%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzk0539770.d.html</link>
-            <guid>2959806</guid>
-            <pubDate>Fri, 27 Jan 2023 12:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国运通预计2023年营收将增长15%至17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3761289.d.html</link>
-            <guid>2959805</guid>
-            <pubDate>Fri, 27 Jan 2023 12:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国管网机构：截至1月27日，德国天然气储存水平为82.91％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3760899.d.html</link>
-            <guid>2959804</guid>
-            <pubDate>Fri, 27 Jan 2023 12:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月27日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.习近平致电祝贺达达埃当选连任巴布亚新几内亚总督； 2.【总书记的惦念】走上乡村振兴幸福路； 3.【新春走基层】节日期间重大工程稳步推进； 4.【传感中国】千里送花 一路余香； 5.多姿多彩乐享假期； 6.新春新愿：努力向前 共创美好未来； 7.春节假期全国国内旅游出游3.08亿人次； 8.兔年春节档电影票房超65亿元； 9.春运迎来返程客流小高峰； 10.国内联播快讯： （1）今年确保大豆油料面积稳定在3.5亿亩以上； （2）未来三天雨雪稀少 总体利于春运返程； 11.第十三届全球海外华文书店中国图书春节联展举办； 12.四海同贺兔年新春 共期美好未来； 13.俄称打击乌军雷达系统 乌称拦截俄导弹和无人机： （1）德议员：德国向乌提供坦克是历史性错误； （2）美国人士：美不断延长战事以攫取最大利益； 14.国际联播快讯： （1）巴以冲突致9人死亡 巴方叫停安全合作； （2）美佐治亚州因持续抗议进入紧急状态； （3）罢工致英皇家邮政公司损失达2亿英镑； 15.春节里的中国。]]></title>
-            <guid>2959803</guid>
-            <pubDate>Fri, 27 Jan 2023 12:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春节假期北京接待游客712.8万人次，旅游总收入74.6亿元，北京文旅市场复苏强劲】2023年春节七天假期，北京文旅市场复苏强劲。来自北京市文化和旅游局的统计显示，全市接待游客总数712.8万人次，同比上一年增长6.2%，恢复至2019年的88%；旅游总收入74.6亿元，同比上一年增长57.6%，恢复至2019年的91%；人均消费1047元/人次，同比上一年增长48.4%，较2019年增长4%。（北京日报）]]></title>
-            <guid>2959802</guid>
-            <pubDate>Fri, 27 Jan 2023 11:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雪佛龙(CVX.N)CFO：股票回购率将“保持在每年50亿-150亿美元”；以目前的速度，750亿美元的股票回购授权可以使用5年；第一季度将把回购额度维持在当前指引的上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzk0536270.d.html</link>
-            <guid>2959801</guid>
-            <pubDate>Fri, 27 Jan 2023 11:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部称，它对乌克兰的能源基础设施进行了大规模的导弹袭击。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3755829.d.html</link>
-            <guid>2959800</guid>
-            <pubDate>Fri, 27 Jan 2023 11:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雪佛龙(CVX.N)：第四季度全球净油当量产量为301万桶/日，下降3%；国际炼油厂原油输入量为65.3万桶/日，增长8%；美国净油当量产量为119万桶/日；美国炼油厂原油输入量小幅增加至88.8万桶/日。雪佛龙预计加州炼油厂的天然气成本将上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3755632.d.html</link>
-            <guid>2959799</guid>
-            <pubDate>Fri, 27 Jan 2023 11:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Raymond James：上调万事达目标价至450美元 维持“跑赢大盘”评级】Raymond James分析师John Davis将万事达目标价由406美元上调至450美元，并维持对该股“跑赢大盘”评级。分析师表示，该公司第四季度业绩“稳健”，季度迄今的趋势加速，2023年的初步展望可能会让华尔街的预期基本保持不变，但这种预期无疑是保守的。分析师认为，在未来8个多月里，该公司将成为值得持有的大型科技股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzh3753580.d.html</link>
-            <guid>2959798</guid>
-            <pubDate>Fri, 27 Jan 2023 11:51:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟将对俄罗斯的经济制裁延长至7月31日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycrrzk0529748.d.html</link>
-            <guid>2959797</guid>
-            <pubDate>Fri, 27 Jan 2023 11:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雪佛龙：2022年Q4营收564.73亿美元，去年同期481.29亿美元，市场预期529.02亿美元；净利润63.53亿美元，去年同期50.55亿美元，市场预期84.53亿美元；调整后每股盈利4.09美元，市场预期4.27美元。]]></title>
-            <guid>2959796</guid>
-            <pubDate>Fri, 27 Jan 2023 11:47:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,87 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 27 Jan 2023 20:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 21:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[标普将匈牙利评级从BBB下调至BBB-，展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-28/detail-imycspey0418813.d.html</link>
+            <guid>2960169</guid>
+            <pubDate>Fri, 27 Jan 2023 21:10:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】道琼斯指数1月27日（周五）收盘上涨28.67点，涨幅0.08%，报33978.08点；标普500指数1月27日（周五）收盘上涨9.22点，涨幅0.23%，报4069.65点；纳斯达克综合指数1月27日（周五）收盘上涨109.30点，涨幅0.95%，报11621.71点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-28/detail-imycspew3639599.d.html</link>
+            <guid>2960168</guid>
+            <pubDate>Fri, 27 Jan 2023 21:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股周五尾盘回落，三大指数仍小幅收高】标普500指数收涨10.05点，涨幅0.25%，报4070.48点。道琼斯工业平均指数收涨28.14点，涨幅0.08%，报33977.55点。纳斯达克综合指数（纳指）收涨109.30点，涨幅0.95%，报11621.71点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-28/detail-imycspew3639487.d.html</link>
+            <guid>2960167</guid>
+            <pubDate>Fri, 27 Jan 2023 21:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[热门中概股涨跌互现，小鹏汽车、蔚来涨超4%；腾讯音乐跌超3%，唯品会跌超2%。]]></title>
+            <guid>2960166</guid>
+            <pubDate>Fri, 27 Jan 2023 21:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大指数集体收涨，纳指涨0.95%，标普500指数涨0.25%，道指涨0.08%。特斯拉涨约11%，特斯拉CEO埃隆·马斯克在社交平台上表示，关于他在华盛顿与美国高级官员就电动汽车进行会晤的报道是“真实的”。]]></title>
+            <guid>2960165</guid>
+            <pubDate>Fri, 27 Jan 2023 21:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪下调突尼斯主权信用评级至Caa2，前景展望为负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-28/detail-imycspew3631055.d.html</link>
+            <guid>2960164</guid>
+            <pubDate>Fri, 27 Jan 2023 20:53:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾莱特岛发生5.6级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-28/detail-imycspew3627068.d.html</link>
+            <guid>2960163</guid>
+            <pubDate>Fri, 27 Jan 2023 20:45:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普将3B家居的评价下调至D，即该公司有可能发生债务违约。此前摩根大通已经向该公司送达违约提示函。该公司表示考虑“卖身”偿债，但至少尚未寻找到有意向的收购方。]]></title>
+            <guid>2960162</guid>
+            <pubDate>Fri, 27 Jan 2023 20:44:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统哈里斯下月将前往德国出席第59届慕尼黑安全会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-28/detail-imycspew3623769.d.html</link>
+            <guid>2960161</guid>
+            <pubDate>Fri, 27 Jan 2023 20:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至2023年1月24日当周，投机者将Comex铜的净多头头寸增加5867手至41116手。]]></title>
+            <guid>2960160</guid>
+            <pubDate>Fri, 27 Jan 2023 20:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至2023年1月24日当周，投机者将Comex白银的净多头头寸减少7119手至20923手。]]></title>
+            <guid>2960159</guid>
+            <pubDate>Fri, 27 Jan 2023 20:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至2023年1月24日当周，投机者将Comex黄金的净多头头寸增加13273手至106631手。]]></title>
+            <guid>2960158</guid>
+            <pubDate>Fri, 27 Jan 2023 20:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：截至2023年1月24日当周，投机者将WTI原油期货净多头头寸增加3664手，至169899手。]]></title>
+            <guid>2960157</guid>
+            <pubDate>Fri, 27 Jan 2023 20:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：特斯拉CEO埃隆·马斯克因自动驾驶广告视频争议面临美国证交会（SEC）调查。]]></title>
+            <guid>2960156</guid>
+            <pubDate>Fri, 27 Jan 2023 20:18:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国白宫发言人Jean-Pierre：在与马斯克会面时，未就其控股推特一事展开讨论。]]></title>
             <guid>2960155</guid>
@@ -502,85 +578,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0446097.d.html</link>
             <guid>2959958</guid>
             <pubDate>Fri, 27 Jan 2023 15:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉涨2% Q4业绩略超预期 料2023年全年交付量达180万辆】特斯拉涨2.79%，报164.74美元，总市值5202亿美元。特斯拉Q4营收243.18亿美元，超预期的241.1亿美元；调整后每股盈余1.19美元，超预期的1.13美元；净利润率维持在了15%。市场料2023年全年交付量达180万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0444745.d.html</link>
-            <guid>2959957</guid>
-            <pubDate>Fri, 27 Jan 2023 15:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将陶氏化学(DOW.N)目标价从46美元下调至45美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3664899.d.html</link>
-            <guid>2959956</guid>
-            <pubDate>Fri, 27 Jan 2023 15:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[接受调查的30位经济学家均认为，巴西央行将在2月1日将利率维持在13.75%不变。]]></title>
-            <guid>2959955</guid>
-            <pubDate>Fri, 27 Jan 2023 15:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利政府签署协议，为德国汉莎航空收购意大利航空股权一事铺平道路。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3660943.d.html</link>
-            <guid>2959954</guid>
-            <pubDate>Fri, 27 Jan 2023 15:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯升控股(00102)拟向LET GROUP(01383)授出本金最多为5亿港元的循环贷款】凯升控股(00102)及LET GROUP(01383)联合公布，于 2023年1月27日(联交所交易时段后)，凯升(作为贷款人)与LET(作为借款人)订立循环贷款协议，据此，凯升有条件同意向LET授出本金额最多为5亿港元的循环贷款，年息六厘(6%)。]]></title>
-            <guid>2959953</guid>
-            <pubDate>Fri, 27 Jan 2023 15:17:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新西兰主要机场暂停所有航班 持续强降雨后航站楼被淹】奥克兰机场表示，将暂停国内和国际航班至周六中午。此前这个新西兰最大的城市遭遇持续降雨，导致航站楼被淹。奥克兰机场表示，由于洪水造成的破坏，该枢纽将关闭至1月28日中午。该机场要求乘客与航空公司联系以获取航班的最新信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsara3658942.d.html</link>
-            <guid>2959952</guid>
-            <pubDate>Fri, 27 Jan 2023 15:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【密歇根大学消费者信心指数的通胀预期向下调整】调整后的密歇根大学消费者信心指数唯一真正值得注意的特点是通胀预期组成部分被小幅向下调整，这显然是美联储和市场希望看到的。不过，五至十年期通胀率预期中位数仍在其既定范围内，因此调整后的信息内容并不多。不过，这可能不会阻止股市做出（积极）反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0434668.d.html</link>
-            <guid>2959951</guid>
-            <pubDate>Fri, 27 Jan 2023 15:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心表示，截至1月28日当周，奥密克戎毒株亚型XBB.1.5占美国新冠病例总数的61.3%。]]></title>
-            <guid>2959950</guid>
-            <pubDate>Fri, 27 Jan 2023 15:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易员称，2月1日至10日，俄罗斯乌斯季卢加港的石油装载量将从1月1日至10日的90万吨上升至100万吨。]]></title>
-            <guid>2959949</guid>
-            <pubDate>Fri, 27 Jan 2023 15:10:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登宣布杰弗里·齐恩茨将任白宫办公厅主任】根据白宫当地时间1月27日发布的一项声明，美国总统拜登正式宣布罗恩·克莱因将辞去白宫办公厅主任一职，白宫前新冠疫情应对协调员杰弗里·齐恩茨（Jeffrey Zients）将接替罗恩·克莱因成为下一任白宫办公厅主任。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0431118.d.html</link>
-            <guid>2959948</guid>
-            <pubDate>Fri, 27 Jan 2023 15:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[密歇根大学消费者调查主任Joanne Hsu：消费者信心指数从历史角度来看仍处于低位，但为连续第二个月继续上升，较去年12月上升9%，较去年同期下降约3%。尽管短期经济前景与上月相比基本持平，但该指数的所有其他组成部分在1月份都出现了增长。当前状况指数较去年12月飙升15%，对个人财务状况和耐用品购买状况的评估都有所改善，这受到强劲收入和价格压力缓解的支撑。尽管如此，消费者情绪仍存在相当大的下行风险，三分之二的消费者预计明年经济将出现低迷。值得注意的是，债务上限危机迫在眉睫，可能逆转过去几个月的涨势，此前2011年和2013年的债务上限危机均导致消费者信心大幅下降。]]></title>
-            <guid>2959947</guid>
-            <pubDate>Fri, 27 Jan 2023 15:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10年期美债收益率在美国成屋销售数据发布后持于3.53%水平，波动暂有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0430016.d.html</link>
-            <guid>2959946</guid>
-            <pubDate>Fri, 27 Jan 2023 15:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利央行行长暗示在降息之前或需要等待更长时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0429172.d.html</link>
-            <guid>2959945</guid>
-            <pubDate>Fri, 27 Jan 2023 15:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国1月一年期通胀率预期等数据公布后，美元指数DXY、现货黄金短线波动不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-27/detail-imycsare0425640.d.html</link>
-            <guid>2959944</guid>
-            <pubDate>Fri, 27 Jan 2023 15:01:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

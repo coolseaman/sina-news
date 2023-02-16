@@ -6,6 +6,238 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 2989261,
+            "content_html": "",
+            "title": "周四（2月16日），美联储逆回购工具使用规模为2.032万亿美元，上个交易日报2.012万亿美元。",
+            "date_modified": "2023-02-16T18:16:34.000Z"
+        },
+        {
+            "id": 2989260,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2179006.d.html",
+            "title": "曼联小幅拉升超2%后回落。",
+            "date_modified": "2023-02-16T18:16:27.000Z"
+        },
+        {
+            "id": 2989259,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8956071.d.html",
+            "title": "市场资讯：沙特阿拉伯有意向收购曼联。",
+            "date_modified": "2023-02-16T18:16:18.000Z"
+        },
+        {
+            "id": 2989258,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2174185.d.html",
+            "title": "惠誉：区分去中心化账本中的数字资产创新和“智能合约”仍然很重要。",
+            "date_modified": "2023-02-16T18:08:38.000Z"
+        },
+        {
+            "id": 2989257,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8951234.d.html",
+            "title": "【特斯拉召回362758辆汽车，因全自动驾驶存在碰撞风险】据美国国家公路交通安全管理局表示，特斯拉正在召回超过362758辆汽车，原因是其完全自动驾驶测试版软件存在碰撞风险。根据周四提交的文件，该系统“可能会让车辆在十字路口附近做出不安全的行为”，包括从转弯车道直行直接穿过十字路口，以及在黄灯常亮的情况下通过路口。该局表示，特斯拉预计将在4月15日之前通过无线软件更新来解决这一问题。",
+            "date_modified": "2023-02-16T18:08:27.000Z"
+        },
+        {
+            "id": 2989256,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8950118.d.html",
+            "title": "惠誉：与在全球加密生态系统中运营的实体相关的风险和评级考虑因素仍在不断发展。",
+            "date_modified": "2023-02-16T18:06:31.000Z"
+        },
+        {
+            "id": 2989255,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8949870.d.html",
+            "title": "惠誉：加密公司的倒闭凸显监管力度有限的问题。",
+            "date_modified": "2023-02-16T18:06:15.000Z"
+        },
+        {
+            "id": 2989254,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2171484.d.html",
+            "title": "意大利财政部发行265亿欧元30年期BTP国债，获得将近200位投资者认购。",
+            "date_modified": "2023-02-16T18:04:52.000Z"
+        },
+        {
+            "id": 2989253,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8946847.d.html",
+            "title": "【特斯拉将在美国召回超过36万辆全自动驾驶车辆，股价转跌】特斯拉将在美国召回超过36万辆全自动驾驶车辆，随后股价转跌。美国国家公路交通安全管理局（NHTSA）表示，特斯拉申请召回362,758辆美国车辆，均为全自动驾驶汽车。被召回的车辆为2016-2023年特定的Model S和Model X车型，2017-2023年款Model 3，以及2020-2023年款Model Y，都安装了全自动驾驶（FSD）Beta软件或等待安装该软件。目前特斯拉回吐稍早涨幅，并转而下跌1%。",
+            "date_modified": "2023-02-16T18:02:43.000Z"
+        },
+        {
+            "id": 2989252,
+            "content_html": "",
+            "title": "美国财政部拍卖90亿美元30年期通胀保值国债（TIPS），得标利率1.550%，投标倍数2.38（前次为2.69）。",
+            "date_modified": "2023-02-16T18:02:18.000Z"
+        },
+        {
+            "id": 2989251,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8945798.d.html",
+            "title": "美国国家公路交通安全管理局表示，特斯拉不同意该机构的分析意见。",
+            "date_modified": "2023-02-16T17:59:19.000Z"
+        },
+        {
+            "id": 2989250,
+            "content_html": "",
+            "title": "市场消息：受召回影响的特斯拉车型包括Model 3, S, X, Y2016-2023。",
+            "date_modified": "2023-02-16T17:57:47.000Z"
+        },
+        {
+            "id": 2989249,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2167424.d.html",
+            "title": "美国国家公路交通安全管理局：特斯拉将发布无线软件更新。",
+            "date_modified": "2023-02-16T17:57:38.000Z"
+        },
+        {
+            "id": 2989248,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8943363.d.html",
+            "title": "特斯拉下跌1%，此前申请召回362,758辆美国产全自动驾驶汽车。",
+            "date_modified": "2023-02-16T17:56:25.000Z"
+        },
+        {
+            "id": 2989247,
+            "content_html": "",
+            "title": "LME期铜收涨166美元，报9023美元/吨。LME期铝收涨10美元，报2394美元/吨。LME期锌收跌15美元，报3004美元/吨。LME期铅收跌23美元，报2030美元/吨。LME期镍收涨346美元，报26489美元/吨。LME期锡收涨346美元，报27004美元/吨。",
+            "date_modified": "2023-02-16T17:55:50.000Z"
+        },
+        {
+            "id": 2989246,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8940880.d.html",
+            "title": "可口可乐(KO.N)：将第四季度股息上调4.6%至每股0.46美元。",
+            "date_modified": "2023-02-16T17:54:53.000Z"
+        },
+        {
+            "id": 2989245,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8940703.d.html",
+            "title": "可口可乐(KO.N)批准连续第61次增加年度股息。",
+            "date_modified": "2023-02-16T17:54:45.000Z"
+        },
+        {
+            "id": 2989244,
+            "content_html": "",
+            "title": "市场消息：“加密货币女王”Ruja Ignatova的男友因涉嫌参与OneCoin欺诈而获刑五年。",
+            "date_modified": "2023-02-16T17:52:35.000Z"
+        },
+        {
+            "id": 2989243,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8935381.d.html",
+            "title": "特斯拉盘中走低，涨幅收窄至0.4%。",
+            "date_modified": "2023-02-16T17:50:54.000Z"
+        },
+        {
+            "id": 2989242,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2157477.d.html",
+            "title": "德国将针对俄罗斯石油公司Rosneft炼油厂退出德国市场放宽法律条件。",
+            "date_modified": "2023-02-16T17:48:42.000Z"
+        },
+        {
+            "id": 2989241,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8934288.d.html",
+            "title": "高盛：近期自由港LNG出口的重启为需求提供了进一步的连续支撑。",
+            "date_modified": "2023-02-16T17:47:52.000Z"
+        },
+        {
+            "id": 2989240,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2157172.d.html",
+            "title": "现货钯金日内涨幅达4.00%，现报1525.50美元/盎司。",
+            "date_modified": "2023-02-16T17:47:45.000Z"
+        },
+        {
+            "id": 2989239,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8929490.d.html",
+            "title": "美国国家公路交通安全管理局（NHTSA）：特斯拉申请召回362758辆美国车辆。",
+            "date_modified": "2023-02-16T17:41:54.000Z"
+        },
+        {
+            "id": 2989238,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2151211.d.html",
+            "title": "【墨西哥央行副行长：预计终端利率将达到11.25%至11.75%之间】墨西哥央行副行长表示，预计终端利率将达到11.25%至11.75%之间，但很多情况都可能发生变化；一旦达到终端利率，将在“很长一段时间”内将利率保持在这一水平，以使货币政策生效。",
+            "date_modified": "2023-02-16T17:38:56.000Z"
+        },
+        {
+            "id": 2989237,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8928197.d.html",
+            "title": "市场消息：梅赛德斯-奔驰集团计划回购高达40亿欧元的股票。",
+            "date_modified": "2023-02-16T17:38:44.000Z"
+        },
+        {
+            "id": 2989236,
+            "content_html": "",
+            "title": "据美国证券交易委员会文件：临床前生物技术公司Ocean Biomedical撤回IPO，此前在2021年6月申请上市筹资1亿美元。",
+            "date_modified": "2023-02-16T17:34:10.000Z"
+        },
+        {
+            "id": 2989235,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8922940.d.html",
+            "title": "市场资讯：阿塞拜疆计划3月BTC石油货物发货量为1592万桶。",
+            "date_modified": "2023-02-16T17:31:59.000Z"
+        },
+        {
+            "id": 2989234,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2142682.d.html",
+            "title": "英国RMT工会：本铁路工会将于3月16日、18日、30日和4月1日举行罢工。",
+            "date_modified": "2023-02-16T17:25:17.000Z"
+        },
+        {
+            "id": 2989233,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2140765.d.html",
+            "title": "【联合国呼吁国际社会捐资10亿美元用于土耳其震后救灾】当地时间2月16日，联合国宣布启动针对土耳其人道主义援助的认捐活动，此次认捐活动目标是10亿美元，用于震后救灾。据了解，这些资金将会为大约520万人提供三个月的保障，涉及卫生、食品安全、教育等方面。联合国秘书长古特雷斯称，土耳其是世界上容纳难民最多的国家，多年来为叙利亚难民提供住所，“现在是时候帮助土耳其人民了”。此前，联合国呼吁国际社会捐资3.97亿美元，以援助叙利亚的受灾民众。（央视新闻）",
+            "date_modified": "2023-02-16T17:23:26.000Z"
+        },
+        {
+            "id": 2989232,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2140440.d.html",
+            "title": "【德债收益率周四大体持平】周四（2月16日）欧市尾盘，德国10年期国债收益率上涨0.3个基点，报2.478%，盘中交投于2.445%-2.520%区间。两年期德债收益率跌0.2个基点，报2.881%，盘中交投于2.903%-2.840%区间；30年期德债收益率涨0.2个基点，报2.436%。2/10年期德债收益率利差涨0.495个基点，报-40.914个基点，盘中交投区间为-42.825至-38.242个基点。",
+            "date_modified": "2023-02-16T17:23:03.000Z"
+        },
+        {
+            "id": 2989231,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2139758.d.html",
+            "title": "【全球最大绿氢项目开工，投产后预计每年可减排二氧化碳143万吨】中国石化2月16日宣布，全球最大绿氢项目开工，项目利用鄂尔多斯地区丰富的太阳能和风能资源发电直接制绿氢。内蒙古鄂尔多斯市风光融合绿氢示范项目利用太阳能和风能资源发电直接制绿氢，年制绿氢3万吨、绿氧24万吨，将就近用于鄂尔多斯煤炭深加工示范项目降碳减碳。项目主要包括风能及光伏发电、输变电、电解水制氢、储氢、输氢五部分，项目总投资约57亿元，项目投产后，预计每年可减少二氧化碳排放143万吨。",
+            "date_modified": "2023-02-16T17:22:27.000Z"
+        },
+        {
+            "id": 2989230,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2138361.d.html",
+            "title": "【Instagram推出播客聊天功能】 扎克伯格：Meta Platforms旗下Instagram将启动频道（“Channel”）功能。",
+            "date_modified": "2023-02-16T17:19:22.000Z"
+        },
+        {
+            "id": 2989229,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2138271.d.html",
+            "title": "Snapchat一个月用户增加至超过7.5亿。",
+            "date_modified": "2023-02-16T17:19:10.000Z"
+        },
+        {
+            "id": 2989228,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfe8913510.d.html",
+            "title": "【受累禽流感 日本鸡蛋价格创新高】由于多地持续暴发禽流感导致大量蛋鸡被扑杀，日本鸡蛋价格数月以来持续上涨。截至2月16日，日本鸡蛋批发价格达到自1993年有相关记录以来最高，相比去年同期几乎翻一番。",
+            "date_modified": "2023-02-16T17:15:27.000Z"
+        },
+        {
             "id": 2989227,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-02-17/detail-imyfxrfc2133267.d.html",
@@ -448,233 +680,6 @@
             "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxf2172031.d.html",
             "title": "【春节期间白酒销量销量暴增178%，业内人士看好行业复苏前景】国产白酒订单月环比增长超2倍；酒类电商平台1919公布的数据显示，年货节期间，白酒销量同比上涨约36.01%；叮咚买菜平台内，年货节期间，白酒销量同比提升约178%。业内人士表示，作为防控优化后的第一个正常春节假期，在情绪释放的激励下，激发了人们的集中消费，释放了长期积累的需求，再加上之前酒类消费基数较低，以致酒类销售在春节会有一些特殊的、非常态化的增长。今年白酒行业复苏向好主线明确，针对商务需求的高端白酒和针对大众的中低价位区域名酒，可能率先回暖。",
             "date_modified": "2023-02-16T15:20:21.000Z"
-        },
-        {
-            "id": 2989161,
-            "content_html": "",
-            "title": "周四（2月16日），沙特证交所全股指数收跌0.23%，报10548.45点，本周累计上涨1.31%。",
-            "date_modified": "2023-02-16T15:19:10.000Z"
-        },
-        {
-            "id": 2989160,
-            "content_html": "",
-            "title": "Piper Sandler：将Shopify(SHOP.N)目标价从36美元上调至45美元。",
-            "date_modified": "2023-02-16T15:16:13.000Z"
-        },
-        {
-            "id": 2989159,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxf2169261.d.html",
-            "title": "巴克莱：将Twilio(TWLO.N)目标价从60美元上调至75美元。",
-            "date_modified": "2023-02-16T15:15:54.000Z"
-        },
-        {
-            "id": 2989158,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8946211.d.html",
-            "title": "奥本海默：将Twilio(TWLO.N)目标价从75美元上调至85美元。",
-            "date_modified": "2023-02-16T15:15:45.000Z"
-        },
-        {
-            "id": 2989157,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8942610.d.html",
-            "title": "欧盟委员会：由于技术问题，本周将不会公布之前推迟的欧盟粮食进出口数据。",
-            "date_modified": "2023-02-16T15:11:48.000Z"
-        },
-        {
-            "id": 2989156,
-            "content_html": "",
-            "title": "Evercore ISI：将Shopify(SHOP.N)目标价从50美元上调至56美元。",
-            "date_modified": "2023-02-16T15:10:32.000Z"
-        },
-        {
-            "id": 2989155,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxf2163591.d.html",
-            "title": "欧洲央行首席经济学家连恩：银行融资成本正在快速上升。",
-            "date_modified": "2023-02-16T15:07:55.000Z"
-        },
-        {
-            "id": 2989154,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8940665.d.html",
-            "title": "欧洲央行首席经济学家连恩：大量过剩储蓄可能会抑制政策利率上升对经济和通胀的传导。",
-            "date_modified": "2023-02-16T15:07:49.000Z"
-        },
-        {
-            "id": 2989153,
-            "content_html": "",
-            "title": "欧洲央行首席经济学家连恩：由于紧缩政策，预计2023年通胀率将下降1.2%，2024年通胀率将下降1.8%。",
-            "date_modified": "2023-02-16T15:07:44.000Z"
-        },
-        {
-            "id": 2989152,
-            "content_html": "",
-            "title": "欧洲央行首席经济学家连恩：大部分模型信号表明，欧洲央行的政策收紧将有力而有序地传导到相关的金融和实际变量。",
-            "date_modified": "2023-02-16T15:07:31.000Z"
-        },
-        {
-            "id": 2989151,
-            "content_html": "",
-            "title": "欧洲央行首席经济学家连恩表示，货币政策将确保通胀回到2%的目标，货币政策对通胀的影响还没有完全体现出来。",
-            "date_modified": "2023-02-16T15:06:02.000Z"
-        },
-        {
-            "id": 2989150,
-            "content_html": "",
-            "title": "【能源价格飙升 英国最大煤气供应商利润创纪录】当地时间2月16日，英国最大的煤气供应商森特理克（Centrica）公布2022年度营业利润，达到33亿英镑（约合273亿元人民币），高于2021年的9.48亿英镑（约合78亿元人民币），创下历史新高。2022年度森特理克有750万用户，比上一年增长了4%。",
-            "date_modified": "2023-02-16T15:04:23.000Z"
-        },
-        {
-            "id": 2989147,
-            "content_html": "",
-            "title": "美国地质勘探局：海地Bombardopolis西南偏西42公里处发生5.4级地震。",
-            "date_modified": "2023-02-16T14:56:00.000Z"
-        },
-        {
-            "id": 2989146,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8930899.d.html",
-            "title": "【沙特财富基金首次进军中国游戏市场，投资腾讯支持的VSPO】沙特阿拉伯主权财富基金PIF首次进军中国游戏市场，押注于腾讯控股支持的电竞赛事组织公司。PIF的子公司Savvy Games Group向VSPO投资了2.65亿美元。VSPO承办或举办了英雄联盟和PUBG等竞技游戏的赛事。",
-            "date_modified": "2023-02-16T14:55:23.000Z"
-        },
-        {
-            "id": 2989145,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8930557.d.html",
-            "title": "美元兑日元上涨0.2%，报134.45，创1月6日以来新高。",
-            "date_modified": "2023-02-16T14:55:05.000Z"
-        },
-        {
-            "id": 2989144,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxf2151945.d.html",
-            "title": "【粤泰股份：目前公司仍未收到与恒大的诉讼回款】粤泰股份2月16日在互动平台表示，关于公司与恒大的诉讼，截至目前，安徽省淮南市中级人民法院出具《执行裁定》，指定淮南市田家庵区人民法院执行。但目前公司仍未收到上述诉讼的回款。",
-            "date_modified": "2023-02-16T14:53:44.000Z"
-        },
-        {
-            "id": 2989143,
-            "content_html": "",
-            "title": "越秀地产：本公司已向上交所申请本公司在中国面向专业机构投资者公开发行本金总额最高为人民币50亿元的公司债券并在上交所上市。上交所已确认受理该申请。",
-            "date_modified": "2023-02-16T14:49:54.000Z"
-        },
-        {
-            "id": 2989142,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8925480.d.html",
-            "title": "【澳门旅游会展业全力迎接市场复苏】春节假期取得佳绩后，澳门旅游会展业相关部门及业界对2023年旅游会展市场寄予厚望，全力迎接市场复苏。澳门特区政府贸易投资促进局代主席余雨生表示，对外招揽会展活动落户澳门，是今年重点部署之一，预计今年将办700至1000项会展活动，比去年同比增加至少四成。贸促局表示，2月份共协助多个具规模的企业会议在澳门举行，为经济多元发展增添新动能。未来将继续深化与横琴粤澳深合区的合作，更好连接两地的场地资源和政策优势，争取具影响力以及专业化的会展项目以“一会展两地”的方式落户举办，借助品牌会展活动促进贸易和招商引资功能，延伸会展产业链，推动重点产业发展。（新华社）",
-            "date_modified": "2023-02-16T14:47:40.000Z"
-        },
-        {
-            "id": 2989141,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8923981.d.html",
-            "title": "【美股行业ETF盘初溃不成军】其中，区域银行ETF跌1.45%目前表现最差，网络股指数ETF、全球科技股指数ETF、可选消费ETF、全球航空业ETF、公用事业ETF、银行业ETF、科技行业ETF也至多下跌将近1.4%，医疗业ETF跌超0.8%跌幅最小，能源业ETF涨幅不足0.1%，是目前唯一上涨的行业ETF。",
-            "date_modified": "2023-02-16T14:45:59.000Z"
-        },
-        {
-            "id": 2989140,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8923011.d.html",
-            "title": "【波罗的海干散货运价指数创近三年新低】波罗的海干散货运价指数周四下跌至近三年低位，因海岬型和巴拿马型船舶需求减弱。波罗的海干散货运价指数跌11点或2%，报530点，为2020年6月1日以来的最低水平。海岬型船运价指数连续三日走低，下跌42点或13.3%，至275点，为2020年6月初以来最低。海岬型船日均获利减少350美元，至2280美元。巴拿马型船运价指数下跌12点或1.5%，至818点。巴拿马型船日均获利减少115美元，至7358美元。超灵便型散货船运价指数上涨20点或3.1%至660点。",
-            "date_modified": "2023-02-16T14:44:57.000Z"
-        },
-        {
-            "id": 2989139,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8920806.d.html",
-            "title": "【裁员有效？印尼最大科技公司GoTo预计第四季度盈利】据报道，印尼最大科技公司GoTo今日宣布，该公司将于今年第四季度实现盈利，较之前的预期提前一年。GoTo现预计，公司调整后的EBITDA（息税折旧及摊销前利润）将于2023年第四季度转为正值，边际收益（Contribution Margin）将于2023年第一季度转为正值，较之前的预期提前四个季度。GoTo CEO安德烈·索利斯托（Andre Soelistyo）今日还称，公司不会进一步大规模裁员，但在审查公司成本结构时，不排除正常的自然减员。去年11月，GoTo曾宣布裁员1300人，约占员工总数的12%。",
-            "date_modified": "2023-02-16T14:42:28.000Z"
-        },
-        {
-            "id": 2989138,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxkxh8919001.d.html",
-            "title": "【受累禽流感，日本鸡蛋价格创新高】由于多地持续暴发禽流感导致大量蛋鸡被扑杀，日本鸡蛋价格数月以来持续上涨。行业数据显示，截至16日，日本鸡蛋批发价格达到自1993年有相关记录以来最高，相比去年同期几乎翻一番。在东京墨田区的“泉”超市，一盒10枚装中号鸡蛋15日售价338日元（100日元约合5.1元人民币）。日本鸡蛋为何持续涨价？除了用作鸡饲料的玉米涨价外，肆虐日本多地的禽流感是主要因素。日本农林水产省汇总的数据显示，去年10月以来，日本已累计扑杀1478万只家禽，创下单个禽流感流行季内扑杀禽类数量的最高纪录。（新华社）",
-            "date_modified": "2023-02-16T14:39:18.000Z"
-        },
-        {
-            "id": 2989137,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxeri2272107.d.html",
-            "title": "纽元兑美元NZD/USD日内走低0.50%，现报0.6249。",
-            "date_modified": "2023-02-16T14:37:57.000Z"
-        },
-        {
-            "id": 2989136,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxeri2271997.d.html",
-            "title": "美股走低，三大股指均跌超1%。",
-            "date_modified": "2023-02-16T14:37:42.000Z"
-        },
-        {
-            "id": 2989135,
-            "content_html": "",
-            "title": "美联储梅斯特：如果通胀风险成为现实，美联储届时便可能需要继续提高利率，甚至如果条件允许，美联储可以加快加息步伐。",
-            "date_modified": "2023-02-16T14:35:18.000Z"
-        },
-        {
-            "id": 2989134,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxeri2268551.d.html",
-            "title": "福特汽车盘初下挫，现跌2.4%。",
-            "date_modified": "2023-02-16T14:34:00.000Z"
-        },
-        {
-            "id": 2989133,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxeri2267812.d.html",
-            "title": "美联储梅斯特：通胀出现更多的意外上升可能会让美联储的政策更加激进。",
-            "date_modified": "2023-02-16T14:33:19.000Z"
-        },
-        {
-            "id": 2989132,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxerk9044702.d.html",
-            "title": "美联储梅斯特：美联储将推进资产负债表缩减工作。",
-            "date_modified": "2023-02-16T14:33:08.000Z"
-        },
-        {
-            "id": 2989131,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxerk9044620.d.html",
-            "title": "美联储梅斯特：必须提高债务上限。",
-            "date_modified": "2023-02-16T14:33:02.000Z"
-        },
-        {
-            "id": 2989130,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxeri2267440.d.html",
-            "title": "美联储梅斯特：美国不能出现债务违约。",
-            "date_modified": "2023-02-16T14:32:58.000Z"
-        },
-        {
-            "id": 2989129,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxeri2266703.d.html",
-            "title": "热门中概股部分开涨，京东、网易、哔哩哔哩涨超2%，新东方、拼多多涨1%。",
-            "date_modified": "2023-02-16T14:31:57.000Z"
-        },
-        {
-            "id": 2989128,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxeri2265781.d.html",
-            "title": "【道指开盘跌0.9%，标普500跌1.2%，纳指跌1.6%】Shopify跌超14%，公司第四季度净亏损同比扩大68%至6.2亿美元。思科涨超3%，公司第二财季收入同比增长11%至13%。Roku涨超8%，第四季度业绩超预期。京东涨超2%，获淡马锡大幅增持。",
-            "date_modified": "2023-02-16T14:30:19.000Z"
-        },
-        {
-            "id": 2989127,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2023-02-16/detail-imyfxerk9041843.d.html",
-            "title": "美联储梅斯特：可能需要一年的时间才能看到加息的全面影响。",
-            "date_modified": "2023-02-16T14:28:03.000Z"
-        },
-        {
-            "id": 2989126,
-            "content_html": "",
-            "title": "意大利交通部长：从2035年开始改用电动汽车对欧洲和意大利来说是一种“自杀式决定”，因为更换电池需要更多时间，那些需要换车的人也需要有经济支持。",
-            "date_modified": "2023-02-16T14:26:25.000Z"
         }
     ]
 }

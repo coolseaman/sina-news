@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 18 Feb 2023 17:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 18:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【2022年中国移动游戏市场收入占比近五年来首降 客户端市场收入逆市增长】2022年，中国游戏市场实际销售收入为2658.84亿元，同比减少306.29亿元，下降10.33%。主要是因为：受到国内外复杂严峻形势影响，宏观经济仍处于恢复阶段，用户付费意愿和付费能力减弱；行业对市场发展预期不够乐观，信心不足，头部企业立项谨慎、中小企业难获投资，游戏新品上线数量少；受疫情影响，游戏企业面临诸多挑战，发展受限，如经营成本大幅提高、项目储备不足、现金流出现缺口、团队工作效率大幅降低等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhecmm5647001.d.html</link>
+            <guid>2991310</guid>
+            <pubDate>Sat, 18 Feb 2023 18:02:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国佐治亚州一加油站发生枪击事件 9名未成年人受伤】当地时间17日晚在美国佐治亚州哥伦布市一加油站发生了一起枪击事件，导致9名年龄在5至17岁的未成年人受伤。据报道，9名伤者已在医院接受治疗。警方尚未逮捕任何嫌疑人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhecmi8866736.d.html</link>
+            <guid>2991309</guid>
+            <pubDate>Sat, 18 Feb 2023 17:55:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智利中南部多地森林火灾已造成约43.6万公顷森林被毁】智利防灾救灾署公布的最新报告显示，截至当地时间17日，在智利中南部多地发生的森林火灾已造成约43.6万公顷的森林被毁，其中有超过19.7万公顷的森林位于比奥比奥大区。报告还显示，火灾造成1369座房屋被毁，受灾人数超过7000人，其中死亡人数经过警方确认后为25人。另有36人因涉嫌引起火灾被逮捕。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhecmi8853133.d.html</link>
+            <guid>2991308</guid>
+            <pubDate>Sat, 18 Feb 2023 17:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其卫生部长：自强震发生以来地震灾区共有6447名婴儿出生】当地时间2月18日，土耳其卫生部长科贾发表声明，介绍该国南部地震灾区的卫生服务情况。科贾表示，自本月6日发生强震以来，地震灾区共有6447名婴儿出生，卫生人员不间断地为婴儿和母亲提供必要的健康和医疗服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhecmm5623469.d.html</link>
+            <guid>2991307</guid>
+            <pubDate>Sat, 18 Feb 2023 17:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【存续规模27.65万亿元 较年初下降4.66% 去年银行理财各月度平均收益率2.09%】银行业理财登记托管中心发布《中国银行业理财市场年度报告(2022年)》显示，截至2022年底，银行理财市场存续规模27.65万亿元，较年初下降4.66%；全年累计新发理财产品2.94万只，募集资金89.62万亿元；去年理财产品累计为投资者创造收益8800亿元，2022年各月度，理财产品平均收益率为2.09%。]]></title>
+            <guid>2991306</guid>
+            <pubDate>Sat, 18 Feb 2023 17:19:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其被控参与建造劣质建筑物的嫌疑人已达400人】当地时间2月18日，土耳其司法机关表示，截至目前，已起诉400人，其中120人已被捕，他们被指控为地震中倒塌的劣质建筑负有责任。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-19/detail-imyhecmi8827862.d.html</link>
@@ -563,37 +592,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyhcnpr8894499.d.html</link>
             <guid>2991086</guid>
             <pubDate>Sat, 18 Feb 2023 10:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厄中商会会长：厄中自贸协定将使厄受益良多】厄瓜多尔厄中商会会长古斯塔沃·卡塞雷斯17日接受记者专访时表示，厄中自贸协定将使厄瓜多尔受益良多。中国-厄瓜多尔自贸协定第三次首席谈判代表会议16日以视频方式举行，双方确认结束自贸协定谈判。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyhchft9014337.d.html</link>
-            <guid>2991085</guid>
-            <pubDate>Sat, 18 Feb 2023 09:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李彦宏、雷军、程维等出席中国互联网协会新春茶话会】2023中国互联网发展座谈会暨中国互联网协会新春茶话会17日在京召开。工信部副部长张云明出席会议并讲话。与会嘉宾重点围绕数实融合、科技创新、网络安全、平台发展等方面进行交流，畅所欲言，真诚对话。中国工程院院士邬贺铨，工信部相关司局负责同志，中国电信邵广禄，百度李彦宏、滴滴程维、奇安信齐向东、搜狐张朝阳、腾讯马化腾、网易丁磊、新华网申江婴、小米雷军、亚信田溯宁、用友王文京等企业负责人参加会议。]]></title>
-            <guid>2991082</guid>
-            <pubDate>Sat, 18 Feb 2023 09:46:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰赫梅利尼茨基发生多次爆炸】乌克兰国家通讯社报道称，当天乌克兰西部赫梅利尼茨基发生多次爆炸。当地军政部门呼吁民众躲入庇护所。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyhchfv5784984.d.html</link>
-            <guid>2991081</guid>
-            <pubDate>Sat, 18 Feb 2023 09:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰多地因导弹威胁宣布紧急停电】乌克兰国家通讯社2月18日报道称，乌克兰大型能源企业DTEK公司当天宣布，由于俄罗斯导弹袭击的威胁，乌克兰首都基辅、基辅州、敖德萨州和第聂伯罗彼得罗夫斯克州实施了紧急停电举措。此前，乌克兰全境多地发布了防空警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyhchfv5784797.d.html</link>
-            <guid>2991080</guid>
-            <pubDate>Sat, 18 Feb 2023 09:41:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院安委会办公室约谈辽宁省盘锦市人民政府主要负责人】针对辽宁盘锦1月15日发生的浩业化工重大爆炸着火事故，国务院安委会办公室约谈了盘锦市人民政府主要负责人。约谈指出，盘锦浩业化工公司“1·15”重大爆炸着火事故发生在春节前夕和全国安全生产重大隐患专项整治期间，影响恶劣、教训深刻，暴露出事故企业处理效益和安全严重失衡、风险管控存在严重漏洞、日常安全管理严重缺失，地方政府部门重大风险防控存在盲区、“三个必须”落实不到位、安全监管压力传导不足等突出问题，映射出辽宁省盘锦市在统筹发展和安全方面存在安全基础薄弱、从业人员专业能力不足、安全保障不匹配等突出矛盾。
-
-约谈强调，辽宁省盘锦市要深刻反思事故教训，举一反三、狠抓落实，切实扭转被动局面。约谈要求，辽宁省要依法依规严肃事故查处与责任追究。盘锦市要树牢安全发展理念，严格落实安全生产十五条硬措施，压紧压实责任，推动提升危化品监管合力和系统治理水平；要坚持底线思维，采取断然措施，组织对化工和危化品企业全面开展安全大诊断，逐一落实管控措施，坚决防控重大风险、遏制重特大事故；要聚焦重大风险、重大隐患严格监管执法，加强专业监管能力建设，有效运用社会共治力量，构建安全生产良性局面；要固化、深化、拓展危化品安全专项整治三年行动和风险集中治理成效，抓好年度重点工作落实，加强节后复工复产和全国两会安全防范，为经济社会发展营造良好安全环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-18/detail-imyhchft9005016.d.html</link>
-            <guid>2991079</guid>
-            <pubDate>Sat, 18 Feb 2023 09:36:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

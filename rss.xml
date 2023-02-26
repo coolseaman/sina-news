@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 26 Feb 2023 16:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 17:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【俄财政部：欧盟对俄国家福利基金的限制不影响政府使用资金】俄罗斯财政部发布消息称，欧盟针对俄罗斯国家福利基金所实施的新限制性措施不会对俄政府使用基金中的资金产生影响，所有基金中资金的投资计划都会正常实施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-27/detail-imyiaefp5011310.d.html</link>
+            <guid>3001496</guid>
+            <pubDate>Sun, 26 Feb 2023 17:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米13与小米13 Pro海外发布，售价999欧元起】 当地时间2月26日16时，小米在西班牙巴塞罗那举行发布会，标志着小米与徕卡联合研发的影像旗舰首次走向全球舞台。徕卡全球业务发展总监埃施威勒亲临现场，盛赞小米的科技实力和徕卡的光学造诣将共同塑造智能手机摄影的未来。最令人关注的售价也公布了：小米13建议零售价999欧元起（约合人民币7330元），小米13 Pro建议零售价1299欧元起（约合人民币9531元），均比国内高3000元以上。该系列手机将于3月8日起在欧洲、东南亚及中东等地区销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-27/detail-imyiaefm8222473.d.html</link>
+            <guid>3001491</guid>
+            <pubDate>Sun, 26 Feb 2023 16:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：慧与公司与诺基亚签署谅解备忘录扩大合作伙伴关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-27/detail-imyiaefm8205983.d.html</link>
+            <guid>3001466</guid>
+            <pubDate>Sun, 26 Feb 2023 16:30:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌克兰总统泽连斯基会见沙特外交大臣费萨尔】乌克兰总统泽连斯基通过社交媒体表示，他在基辅会见了到访的沙特外交大臣费萨尔。这是两国建交以来沙特外交大臣首次到访乌克兰。据媒体报道，费萨尔表示，沙特将向乌克兰提供4.1亿美元作为人道主义援助资金。双方还签署了有关沙特向乌克兰供应石油制品的谅解备忘录。]]></title>
             <link>https://finance.sina.cn/7x24/2023-02-27/detail-imyiaefp4968073.d.html</link>
@@ -582,24 +600,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-26/detail-imyhzhzv8322899.d.html</link>
             <guid>3001138</guid>
             <pubDate>Sun, 26 Feb 2023 07:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【山外山：2022年净利同比增200.29%】山外山发布业绩快报，2022年实现营业总收入3.82亿元，同比增长34.85%，净利润5847.57万元，同比增长200.29%；基本每股收益0.54元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-26/detail-imyhzhzx5094099.d.html</link>
-            <guid>3001137</guid>
-            <pubDate>Sun, 26 Feb 2023 07:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏银行：宣布接入百度文心一言】江苏银行宣布成为百度文心一言首批生态合作伙伴。后续，江苏银行将通过百度智能云全面体验并接入文心一言。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-26/detail-imyhzhzx5088596.d.html</link>
-            <guid>3001136</guid>
-            <pubDate>Sun, 26 Feb 2023 07:32:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【力合科创：力合云记的抗菌液对EV71肠道病毒（诺如病毒）具有显著杀灭效果】力合科创在互动平台表示，经权威机构检测，力合云记的抗菌液对EV71肠道病毒（诺如病毒）具有显著的杀灭效果，抗菌液仅可外用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-26/detail-imyhzhzx5086018.d.html</link>
-            <guid>3001135</guid>
-            <pubDate>Sun, 26 Feb 2023 07:28:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

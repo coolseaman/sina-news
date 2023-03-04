@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 04 Mar 2023 16:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 17:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：哥伦比亚2月CPI环比上涨1.66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyitsvn4470382.d.html</link>
+            <guid>3011256</guid>
+            <pubDate>Sat, 04 Mar 2023 17:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球石油需求正在飙升至历史最高水平，一些业内最聪明的人预测，油价在几个月内就会达到每桶100美元，但美国生产商正在玩短线游戏，希望把尽可能多的现金交给投资者。]]></title>
+            <guid>3011254</guid>
+            <pubDate>Sat, 04 Mar 2023 16:35:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【土耳其及周边地区近一个月内已记录到约1.3万次地震】据土耳其灾害与应急管理局当地时间3月4日发布的报告称，从该国南部当地时间2月6日发生7.7级强震至今，土耳其及其周边地区发生的有记录地震次数约为1.3万次，其中也包括6日强震发生后的余震。当地时间2月6日，土耳其南部发生强震，截至目前，土耳其有超过4.5万人不幸遇难，超20万栋建筑物受损，数百万人流离失所。此前总统埃尔多安称，余震次数已超上万次。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyitsvn4433917.d.html</link>
@@ -578,25 +589,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyisvry1354461.d.html</link>
             <guid>3011049</guid>
             <pubDate>Sat, 04 Mar 2023 07:18:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司：周六将通过乌克兰向欧洲输送3980万立方米天然气。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyisvrw4574864.d.html</link>
-            <guid>3011048</guid>
-            <pubDate>Sat, 04 Mar 2023 07:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【十三届全国人大常委会举行第一百三十六次委员长会议】 十三届全国人大常委会4日上午在北京人民大会堂举行第一百三十六次委员长会议。栗战书委员长主持会议。会议听取了十三届全国人大常委会秘书长杨振武作的关于十四届全国人大一次会议主席团和秘书长名单草案、议程草案审议情况的汇报，决定将两个草案分别提请十四届全国人大一次会议预备会议选举和表决。
-
-依照宪法和全国人民代表大会组织法的规定，委员长会议负责处理全国人大常委会的重要日常工作。
-
-2018年3月以来，在以习近平同志为核心的党中央坚强领导下，十三届全国人大常委会委员长会议全面贯彻习近平新时代中国特色社会主义思想特别是习近平总书记关于坚持和完善人民代表大会制度的重要思想，践行全过程人民民主重大理念，紧紧围绕新时代新征程党和国家中心任务履职尽责，为新时代人大工作高质量发展作出了重要贡献。
-
-全国人大常委会副委员长王晨、曹建明、张春贤、沈跃跃、吉炳轩、艾力更·依明巴海、万鄂湘、陈竺、王东明、白玛赤林、丁仲礼、郝明金、蔡达峰、武维华出席会议。
-
-3日下午，出席十四届全国人大一次会议的各代表团召开会议，审议了十四届全国人大一次会议主席团和秘书长名单草案、议程草案。（央视新闻）]]></title>
-            <guid>3011047</guid>
-            <pubDate>Sat, 04 Mar 2023 07:12:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

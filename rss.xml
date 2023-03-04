@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 04 Mar 2023 18:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 19:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗原子能组织同国际原子能机构发布联合声明】当地时间3月4日，伊朗原子能组织同国际原子能机构发布联合声明，就以下事项达成协议：1.国际原子能机构与伊朗将继续以合作的精神进行互动，并遵守该机构的权限以及伊朗在《全面保障监督协定》框架下的权利和义务。2.关于伊朗“三个未申报地点”的剩余保障问题，伊朗宣布愿意继续同该机构进行合作并提供更多信息和访问权限，以处理剩余问题。3.伊朗自愿允许该机构在必要时开展进一步的核查和监测活动。双方即将在德黑兰举行技术层面的会议，届时将讨论更多细节。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyitxcn1177938.d.html</link>
+            <guid>3011265</guid>
+            <pubDate>Sat, 04 Mar 2023 18:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：劳动力供应没有像过去那样出现复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyitxcn1173746.d.html</link>
+            <guid>3011264</guid>
+            <pubDate>Sat, 04 Mar 2023 18:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷支持联合国重申和平解决马岛主权问题的表态】当地时间3月4日，阿根廷外交部马尔维纳斯、南极和南大西洋事务国务秘书卡尔莫纳在社交媒体表示，阿方支持日前联合国重申阿根廷与英国通过双方友好方式和平解决马尔维纳斯群岛（简称马岛）主权归属问题的有关表态。卡尔莫纳强调，包括阿根廷在内的世界绝大多数国家，都支持联合国就马岛问题做出的相关决议和呼吁，同时也一致认为英国需要重新回到谈判桌前与阿方共同谈判解决马岛问题。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyitxck4388249.d.html</link>
+            <guid>3011263</guid>
+            <pubDate>Sat, 04 Mar 2023 18:25:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美联储戴利：美联储降低通胀的工作“远未完成”。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyitxck4382494.d.html</link>
@@ -573,22 +591,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyisvrw4597420.d.html</link>
             <guid>3011058</guid>
             <pubDate>Sat, 04 Mar 2023 07:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信资本董事长：中国已具备将商业不动产纳入REITs的条件】 全国政协委员、中信资本董事长张懿宸近日表示，中国已经具备将商业不动产纳入REITs的条件。张懿宸分析说，经过几十年高强度城市化建设，中国积累了相当庞大的城市商业资产，如商场、酒店、办公楼等。这些资产为城市商业活动提供了空间，创造了大量就业岗位，也显著提高了民众生活水平。城市商业不动产已经具备城市基础设施属性，是城市运行和发展不可或缺的重点要素，具备纳入公募REITs的基础条件。（中新社）]]></title>
-            <guid>3011057</guid>
-            <pubDate>Sat, 04 Mar 2023 07:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：国际原子能机构总干事格罗西周六在伊朗举行会谈，旨在推动伊朗配合对在未申报地点发现的铀痕迹的调查。]]></title>
-            <guid>3011056</guid>
-            <pubDate>Sat, 04 Mar 2023 07:42:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德勤中国主席蒋颖：建议完善职业教育 促进数字化人才培养】全国政协委员、德勤中国主席蒋颖近日表示，在经济进入高质量发展的新阶段，新兴产业以及原有产业转型升级对数字化人才提出了新要求，建议完善职业教育，促进数字化人才培养。具体建议包括：一是通过建设数字化教学资源库，组建复合型教学团队，加快职业院校数字化转型。二是加强数字化相关岗位就业引导，针对校企合作制定监督与评价机制。 (上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyisvry1364316.d.html</link>
-            <guid>3011055</guid>
-            <pubDate>Sat, 04 Mar 2023 07:32:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 05 Mar 2023 17:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 18:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【外籍记者看两会丨这组数据为世界带来了中国的正能量】今年中国两会意义非凡。在取得疫情防控重大决定性胜利后，作为世界第二大经济体的中国能否实现强劲回升，从而为本世纪中叶全面建成社会主义现代化强国开好局，世人瞩目。开幕会上，中国今年发展主要预期目标对此作出了回答——国内生产总值增长5%左右，城镇新增就业1200万人左右，居民消费价格涨幅3%左右等。这组数据令会场内外的中国人感受到信心，也给阴云密布的世界带来了中国的正能量。中国龙抖擞精神，世界充满期待。（新华社）]]></title>
+            <guid>3011809</guid>
+            <pubDate>Sun, 05 Mar 2023 17:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十大券商策略：“两会行情”可期！A股积极因素正逐步累积 关注国企改革、数字经济】中金公司：A股积极因素正逐步累积，两会期间关注政策方向；海通证券：从两会报告看产业亮点，数字经济代表的成长空间或更大；财通证券：“两会行情”可期，国企改革有望助推上证50；中信证券：增量资金入场，把握中大盘成长的黄金配置窗口。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaak4004757.d.html</link>
+            <guid>3011797</guid>
+            <pubDate>Sun, 05 Mar 2023 17:30:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：苏伊士运河交通不受搁浅船舶影响。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-06/detail-imyiwaan0769610.d.html</link>
@@ -572,18 +583,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmeu0907374.d.html</link>
             <guid>3011604</guid>
             <pubDate>Sun, 05 Mar 2023 11:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国人大代表、中科院院士龚新高：基础研究为社会持续培养创新人才】全国两会期间，全国人大代表、中国科学院院士、广东以色列理工学院校长龚新高表示，推行由国家主导的、有组织的基础研究模式是必要的。基础研究需要人才，人才也是基础研究的重要成果之一，通过开展基础研究能够为经济社会发展持续培养创新型人才，2021年从复旦大学来到广东以色列理工学院的他，希望为这所年轻的高校带来全新的人才培养模式。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmes4128124.d.html</link>
-            <guid>3011603</guid>
-            <pubDate>Sun, 05 Mar 2023 11:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国政协委员、均瑶集团董事长王均金：农村存在巨大新能源汽车市场发展潜力】“虽然去年工业和信息化部办公厅、农业农村部办公厅、商务部办公厅、国家能源局综合司联合发布了《关于开展2022新能源汽车下乡活动的通知》，促进了新能源汽车在农村市场的消费，但整体而言，当前新能源汽车发展呈现地区不平衡，高渗透率城市发展已相对成熟，增长势头有所放缓，三线及以下城市新能源渗透率与高线城市相比，有很大发展潜力。”王均金在《关于促进农村新能源汽车消费的提案》中表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-05/detail-imyivmes4127454.d.html</link>
-            <guid>3011602</guid>
-            <pubDate>Sun, 05 Mar 2023 11:04:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

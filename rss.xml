@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 18 Mar 2023 20:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 21:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：美国中型银行要求联邦存款保险公司为所有存款投保2年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymixck3880217.d.html</link>
+            <guid>3031757</guid>
+            <pubDate>Sat, 18 Mar 2023 21:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 市场资讯：瑞银寻求瑞士政府为瑞信交易提供60亿美元担保。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymixck3876489.d.html</link>
+            <guid>3031755</guid>
+            <pubDate>Sat, 18 Mar 2023 20:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2月广东外贸进出口企稳回升】据海关总署广东分署统计，受欧美需求走弱、高基数等影响，今年1月，广东外贸进出口5877.4亿元，同比下降22.7%。2月，广东外贸企稳回升，进出口4995.4亿元，同比增长4%；其中，出口2998.7亿元，增长1.5%，进口1996.7亿元，增长7.9%，进口、出口、进出口均实现正增长。从目前情况看，广东经济恢复快、政策力度大、企业活力足、外贸韧性强，3月广东外贸有望延续2月增长势头。随着国内经济持续回暖，海外消费复苏，重大项目建设落地，前期各项稳外贸政策持续发力，广东外贸进出口将逐步企稳向好。（广州日报）]]></title>
+            <guid>3031754</guid>
+            <pubDate>Sat, 18 Mar 2023 20:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞士金融监管部门推动瑞银集团收购瑞士信贷】瑞士金融监管部门正推动瑞士另一家大银行瑞银集团全面或部分收购瑞士信贷，以挽回市场对瑞士信贷的信心。据介绍，尽管瑞士央行16日同意向瑞士信贷提供500亿瑞士法郎的贷款以增强其流动性，但市场对瑞士信贷的信心仍然不足。17日，瑞士证券交易所的瑞信股票较前一交易日下跌8.01%，法国兴业银行、德意志银行等多家大型银行限制开展与瑞信相关的新交易。知情人士称，最近几天，瑞信每天的存款流失高达100亿瑞士法郎。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymixcn0644257.d.html</link>
+            <guid>3031745</guid>
+            <pubDate>Sat, 18 Mar 2023 20:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷首都地区超2万居民用电仍未恢复 政府起诉供电公司】由于近期高温天气，阿根廷首都地区用电量大增，突然上涨的用电需求造成该地区部分供电设备发生故障，大量居民遭遇停电。截至当地时间18日上午，阿根廷首都布宜诺斯艾利斯市及周边地区超过2万居民的用电仍未恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymisvn3994958.d.html</link>
+            <guid>3031736</guid>
+            <pubDate>Sat, 18 Mar 2023 20:25:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【厄瓜多尔地震已致3人死亡】根据厄瓜多尔国立理工学院地球物理研究所的报告，当地时间18日12时12分，厄瓜多尔发生6.5级地震。地震震中距厄瓜多尔南部瓜亚斯州巴劳市29.12公里，震源深度44公里。包括主要城市瓜亚基尔在内的多地震感强烈。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-19/detail-imymisvq0765998.d.html</link>
@@ -562,36 +591,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymhvrw4181860.d.html</link>
             <guid>3031618</guid>
             <pubDate>Sat, 18 Mar 2023 11:19:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国官员：法国将采取措施避免燃料短缺】法国工业部长Roland Lescure日前表示，法国不会允许因改革退休制度而引发的炼油厂和油库罢工导致汽油短缺。Lescure表示，法国大多数加油站都有充足的燃料，但工会敦促司机在不必要的情况下加满油，这造成了恐慌的风险。此外，道达尔能源公司发言人表示，截至周六上午，该公司法国炼油厂和油库约37%的运营人员参加了罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymhvry0957547.d.html</link>
-            <guid>3031617</guid>
-            <pubDate>Sat, 18 Mar 2023 11:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第三届中国跨境电商交易会今天在福建福州开幕】央视新闻消息，从今天起到3月20日，第三届中国跨境电商交易会在福建省福州市举办。本次中国跨交会主论坛聚焦“物流和金融双管齐下，为跨境电商赋能降本”的主题，共话发展新机遇，探索发展新前景。展会规模7万平方米，供应链展位规模不低于80%，共设置3个论坛区和1个直播区。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymhvry0957060.d.html</link>
-            <guid>3031616</guid>
-            <pubDate>Sat, 18 Mar 2023 11:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一些瑞士地区性银行据悉正在争夺瑞信客户存款】据瑞士报纸《Schweiz am Wochenende》报道，一些瑞士地区性银行正在争夺瑞士信贷集团的客户存款。该报报道称，这些银行致电了那些在地区银行和瑞士信贷都有账户的客户，要求他们将所有资金转移到地区银行。该报表示，尽管有瑞士央行的支持，瑞信资金外流仍未停止。该报没有透露消息来源。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymhvrw4178835.d.html</link>
-            <guid>3031615</guid>
-            <pubDate>Sat, 18 Mar 2023 11:13:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【进出口银行副行长谈硅谷银行闪电破产：更多灰犀牛和黑天鹅事件或随时发生】3月18日，中国进出口银行副行长张文才在全球财富管理论坛2023年会“经济金融发展全球趋势与亚太机遇”会场上表示，近期，硅谷银行等机构因流动性紧张“闪电”破产，造成银行业信任危机和挤兑风险，揭露了激进加息下银行资产负债的严重错配问题，引发“雷曼时刻”重演和系统性风险爆发的广泛担忧。在多重风险因素相互交织下，更多“灰犀牛”和“黑天鹅”事件可能随时发生。张文才强调，破解全球和区域发展遇到的多种难题，实现更加包容、更加普惠、更有韧性的全球发展，需要汇聚各方力量，携手应对挑战。他建议，坚持开放发展，推动建设开放型世界经济；优化资源配置，打造稳定畅通的产业链供应链；聚焦共同关切，促进包容和可持续发展；坚持底线思维，有效防范化解金融风险；加强交流合作，注重国际发展融资协作与知识分享。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymhvrw4175023.d.html</link>
-            <guid>3031614</guid>
-            <pubDate>Sat, 18 Mar 2023 11:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【橡树资本联席创始人马克斯：中国股市和债市都非常有吸引力】“我们相信中国，也致力于继续在中国投资，股市和债市我觉得都是非常有吸引力的。”3月18日，橡树资本联席董事长及联席创始人霍华德·马克斯（Howard Marks）表示，20多年来他一直在帮助中国客户投资中国股市，目前客户数量、资管规模都在增长，并将继续此类投资。马克斯是在“全球财富管理论坛2023年会：以高水平开放应对全球变局”上，与全球财富管理论坛执委会主席、清华大学经管学院院长白重恩对话时做出上述表述的，两人还就全球通胀、货币政策、硅谷银行暴雷和金融风险等问题进行了探讨。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-18/detail-imymhvrw4168940.d.html</link>
-            <guid>3031613</guid>
-            <pubDate>Sat, 18 Mar 2023 10:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

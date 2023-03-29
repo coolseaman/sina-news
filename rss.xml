@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 29 Mar 2023 14:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 14:48:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国华融：2022年净亏损约275.81亿元 同比盈转亏】中国华融公布2022年业绩，收入总额约人民币372.64亿元，同比减少45.3%；净亏损约275.81亿元，2021年净利润3.785亿元；基本每股亏损0.34元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-29/detail-imynqeny4971248.d.html</link>
+            <guid>3047538</guid>
+            <pubDate>Wed, 29 Mar 2023 14:47:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美联储巴尔：此次事件中，银行管理层、监管者和监管系统都是失败的。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-29/detail-imynqenw8193072.d.html</link>
@@ -570,11 +576,6 @@
             <title><![CDATA[美股盘初，主要行业ETF普涨，半导体ETF涨近2%，科技行业ETF涨1.4%，可选消费ETF涨1.3%。]]></title>
             <guid>3047439</guid>
             <pubDate>Wed, 29 Mar 2023 13:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芝加哥小麦价格上涨，此前有消息称嘉能可旗下荷兰最大食品加工商Viterra计划退出俄罗斯粮食贸易。]]></title>
-            <guid>3047438</guid>
-            <pubDate>Wed, 29 Mar 2023 13:34:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

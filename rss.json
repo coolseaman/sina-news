@@ -6,6 +6,13 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 3047538,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2023-03-29/detail-imynqeny4971248.d.html",
+            "title": "【中国华融：2022年净亏损约275.81亿元 同比盈转亏】中国华融公布2022年业绩，收入总额约人民币372.64亿元，同比减少45.3%；净亏损约275.81亿元，2021年净利润3.785亿元；基本每股亏损0.34元。",
+            "date_modified": "2023-03-29T14:47:49.000Z"
+        },
+        {
             "id": 3047537,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2023-03-29/detail-imynqenw8193072.d.html",
@@ -665,12 +672,6 @@
             "content_html": "",
             "title": "美股盘初，主要行业ETF普涨，半导体ETF涨近2%，科技行业ETF涨1.4%，可选消费ETF涨1.3%。",
             "date_modified": "2023-03-29T13:35:11.000Z"
-        },
-        {
-            "id": 3047438,
-            "content_html": "",
-            "title": "芝加哥小麦价格上涨，此前有消息称嘉能可旗下荷兰最大食品加工商Viterra计划退出俄罗斯粮食贸易。",
-            "date_modified": "2023-03-29T13:34:58.000Z"
         }
     ]
 }

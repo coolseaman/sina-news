@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 09 Apr 2023 17:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 18:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【传统春季购房潮开启 美国楼市“东升西降”】刚刚过去的3月，是美国传统春季购房潮的开始，美国房地产市场经历了过去三年的狂飙，今年市场究竟还热不热？最新的一系列数据显示，在美国30年房贷利率从7%降到了6.28%的情况下，今年3月房贷申请量仍比去年同期低35%左右，其主要原因在供给端：目前美国房地产市场新挂牌量同比下降20%，总存量仅为疫情前2019年3月的一半。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-10/detail-imypviae4884265.d.html</link>
+            <guid>3063621</guid>
+            <pubDate>Sun, 09 Apr 2023 18:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【风波不止的B站真的出问题了吗？】作为热搜榜常客的B站，在3月发布财报时因“给UP主分了91亿”登上热搜后，刚进入4月又因UP主“停更潮”冲上热搜第一，此后余波不断。据了解，UP主“停更潮”的说法并不准确，近期仅有三位头部UP主因经济原因或暂时休息而停更。但热度之后，后续不断有停更的UP主发声阐述自己的商业困境，表示赚钱难是真的。这背后值得讨论的是，B站真的出问题了吗？在持续亏损、面临市场压力的情况下，降本增效是B站这两年来最重要的任务之一，在2022年财报电话会议上，陈睿再次强调，会更关注提升毛利率、降低亏损。随着B站逐渐减少激励补贴，提高商业合作的权重，未来更加考验UP主本身的商业价值，如果投入支出不成正比，停更的UP主只会越来越多。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-10/detail-imypviaa8094625.d.html</link>
+            <guid>3063595</guid>
+            <pubDate>Sun, 09 Apr 2023 17:33:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【植田和男履新央行 日本告别宽松时代？】因受到时任首相安倍晋三赏识，黑田东彦于2013年3月出任日本央行行长，距今已有10年，成为日本央行140多年历史上任职时间最长的行长。4月9日，日本经济学家植田和男接替任期届满的黑田东彦出任日本央行行长。黑田执掌央行期间，为了走出通缩而长期坚持的超宽松货币政策造成市场扭曲，日本金融政策已到了不得不修正的地步。植田就任后面临的主要任务，将是为安倍经济学寻找“出口”。但在日本经济持续低迷、全球前景面临下行压力的背景下，日本央行寻求货币政策正常化依然道阻且长。（北京商报）]]></title>
             <guid>3063591</guid>
@@ -578,17 +590,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypusek8184025.d.html</link>
             <guid>3063360</guid>
             <pubDate>Sun, 09 Apr 2023 09:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最新数据：一季度住宿餐饮业指数创两年来最大升幅】在一季度中国中小企业发展指数分行业指数中，住宿餐饮业指数创两年来最大升幅。数据显示，今年以来，广东省酒店预订量同比增长107%。1-2月，深圳市酒店总体出租率和平均房价基本上达到了三年前的同期水平，酒店收益恢复到了三年前近8成水平。多数中小城市甚至是乡村旅游景点，今年以来的餐饮、住宿消费也迅速升温、回暖。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-09/detail-imypusek8183472.d.html</link>
-            <guid>3063359</guid>
-            <pubDate>Sun, 09 Apr 2023 09:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智立方：2022年归母净利1.17亿元，拟10转5派10元，着重配置战略资源于电子烟及半导体等行业】 2022年，公司实现营业收入5.08亿元，同比下降7.35%；归母净利润1.17亿元，同比增长1.48%；扣非归母净利润1.08亿元，同比下降3.42%；基本每股收益3.34元，拟每10股派发现金红利10元(含税)，以资本公积金向全体股东每10股转增5股。 未来，公司将继续移动终端、可穿戴设备作为发展主线，着重将战略资源配置于电子烟及半导体等行业。]]></title>
-            <guid>3063358</guid>
-            <pubDate>Sun, 09 Apr 2023 09:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

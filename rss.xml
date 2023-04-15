@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 Apr 2023 18:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 19:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【河北雄安新区白洋淀景区16日起开始运营】河北雄安新区安新县文化和旅游局发布公告：白洋淀景区定于4月16日开始运营。现将有关事宜公告如下：一、开放时间：2023年4月16日至10月15日，每日7:00—16:30(同时请关注各码头班船运行时间)。二、游览办法：景区实行预约购票制，即无预约不接待。游客可在线上通过微信搜索“一票通游”小程序或扫描预约购票二维码(购票二维码附后)进行预约购票，再行进入景区游览。“一票通游”费用包含码头到各景点间水上巴士交通和各景点入园门票(不含景点内餐饮、住宿、购物及自选娱乐项目等)。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-16/detail-imyqnzxx2273518.d.html</link>
+            <guid>3071419</guid>
+            <pubDate>Sat, 15 Apr 2023 18:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【这个五一，可能是5年来最旺的一次】今年五一假期或将迎来国内旅游市场五年来最旺的一季。数据显示，截至4月10日，五一期间国内的住宿、交通、景点门票等预订量，较2019年同期增长约200%，住宿预订潮更是提早了两周。此外，山东或成五一新“顶流”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-16/detail-imyqnzxx2261711.d.html</link>
+            <guid>3071418</guid>
+            <pubDate>Sat, 15 Apr 2023 18:25:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北京市注册企业数量突破200万户】北京市注册企业总数突破200万户大关，注册企业数量占全市市场主体总量的83%。1-3月，新设企业6.8万户，同比增长21%，主体活力不断增强。]]></title>
             <guid>3071417</guid>
@@ -578,18 +590,6 @@
             <title><![CDATA[美国国务卿布林肯表示，美国希望正式升级同越南的伙伴关系，越南加入印太经济框架将会有助于供应链的韧性。]]></title>
             <guid>3071110</guid>
             <pubDate>Sat, 15 Apr 2023 10:25:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：预计法国通胀率将在年底达到约4%。加息对抗通胀是有效的。加息对通胀会有延迟影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqneui2485359.d.html</link>
-            <guid>3071109</guid>
-            <pubDate>Sat, 15 Apr 2023 10:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小i机器人副总裁肖修鹏：AI技术企业未来可探索针对具体行业训练大模型】据上证报，小i机器人副总裁肖修鹏在4月15日举行的第六届上海人工智能大会（SHAI2023）上接受记者采访时表示，AI行业未来可探索针对金融、政务、交通、能源等具体行业训练大模型，提供有针对性的类GPT应用服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-15/detail-imyqneui2481672.d.html</link>
-            <guid>3071108</guid>
-            <pubDate>Sat, 15 Apr 2023 10:18:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

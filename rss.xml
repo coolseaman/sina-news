@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 Apr 2023 18:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 19:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：公民金融集团也在考虑收购第一共和银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-30/detail-imysavsc2080266.d.html</link>
+            <guid>3091232</guid>
+            <pubDate>Sat, 29 Apr 2023 18:38:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中部6省一季报：河南领衔4省GDP超万亿 湖北增速领跑】在全国经济增长好于预期之下，中部六省份一季报如何？梳理发现，总量上，河南、安徽、湖南、湖北4省GDP过万亿元，河南最高；增速方面，湖北、河南、山西、安徽4省跑赢全国，湖北为4省最快。]]></title>
             <link>https://finance.sina.cn/7x24/2023-04-30/detail-imysarkf2200664.d.html</link>
@@ -592,12 +598,6 @@
             <link>https://finance.sina.cn/7x24/2023-04-29/detail-imyrzuer2406176.d.html</link>
             <guid>3091027</guid>
             <pubDate>Sat, 29 Apr 2023 08:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广西宏桂资本运营集团有限公司原副总经理朱云严重违纪违法被开除党籍和公职】据广西壮族自治区纪委监委消息：日前，经自治区党委批准，自治区纪委监委对广西宏桂资本运营集团有限公司原副总经理朱云涉嫌严重违纪违法问题进行立案审查调查，并对其采取留置措施。经查，朱云背弃初心使命，对党不忠诚不老实，对抗组织审查；无视中央八项规定精神，向从事公务的人员亲属赠送明显超出正常礼尚往来的礼金；既想当官又想发财，违规拥有非上市公司股份；权力观扭曲，利用职务上的便利，为他人谋取利益，非法收受他人财物，数额特别巨大。经自治区纪委常委会会议研究并报自治区党委批准，决定给予朱云开除党籍处分；由自治区监委给予其开除公职处分；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物随案移送。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-29/detail-imyrzuev9670758.d.html</link>
-            <guid>3091026</guid>
-            <pubDate>Sat, 29 Apr 2023 08:36:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

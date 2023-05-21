@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 May 2023 17:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 18:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【加拿大山火失控 产油区岌岌可危】加拿大西部艾伯塔省的野火已经肆虐了近一个月，影响依然在继续。因为加拿大是世界第四大原油生产国，其中约八成石油产自艾伯塔省。目前这一重要产油区多家企业被迫暂停生产，石油和天然气的供应也不得不中断。另一方面，野火的烟雾还导致加拿大西部的空气质量变差，数万居民被疏散。（北京商报）]]></title>
+            <guid>3116641</guid>
+            <pubDate>Sun, 21 May 2023 17:39:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[白宫确认拜登和麦卡锡周一会面，谈判代表将于当地时间周日下午六点举行会议。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqmww5541365.d.html</link>
@@ -622,11 +627,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuze5858163.d.html</link>
             <guid>3116323</guid>
             <pubDate>Sun, 21 May 2023 10:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：美国违约将对全球造成灾难性影响，相信美国各方在债务谈判中所有的“常识”。]]></title>
-            <guid>3116322</guid>
-            <pubDate>Sun, 21 May 2023 10:32:15 GMT</pubDate>
         </item>
     </channel>
 </rss>

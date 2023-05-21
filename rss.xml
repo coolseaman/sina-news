@@ -4,11 +4,50 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 May 2023 20:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 21:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以太坊失守1800美元/枚，日内跌幅0.72%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqwnm2285815.d.html</link>
+            <guid>3116760</guid>
+            <pubDate>Sun, 21 May 2023 21:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第76届世界卫生大会21日在瑞士日内瓦开幕，本届大会的主题是“世卫组织成立75年：拯救生命，推动人人健康”。]]></title>
+            <guid>3116759</guid>
+            <pubDate>Sun, 21 May 2023 20:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯外交部：七国集团是加剧全球问题的主要因素】俄罗斯外交部5月21日发布声明说，七国集团如今已不可逆转地退化为破坏全球稳定的非建设性倡议的“孵化器”。近些年发生的国际事件表明，七国集团在政治和外交领域也无法提供任何有建设性的内容。声明说，七国集团是加剧全球问题的主要因素，无法反映亚太、南亚、中东、非洲和拉美地区国家的利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqwnq8536357.d.html</link>
+            <guid>3116750</guid>
+            <pubDate>Sun, 21 May 2023 20:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中东股市周日多数收涨，埃及股指涨约0.7%】周日（5月21日），沙特证交所全股指数收跌0.02%，报11341.82点。埃及证交所EGX 30指数收涨0.69%，科威特证交所超级市场价格回报指数收涨0.45%，卡塔尔证交所指数收涨0.07%。以色列特拉维夫交易所35指数收跌0.60%，（南亚国家）孟加拉DSE广义指数收跌0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqwnp3351949.d.html</link>
+            <guid>3116736</guid>
+            <pubDate>Sun, 21 May 2023 20:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克石油部：伊拉克能源部长委员会批准在南部修建海上原油出口输送管道，项目旨在将南部港口的出口能力提高大约50万桶/日。]]></title>
+            <guid>3116728</guid>
+            <pubDate>Sun, 21 May 2023 20:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登和麦卡锡将于周一会面，双方代表恢复债务上限谈判】在美国债务违约的时间临近之际，美国总统拜登和美国众议院议长麦卡锡将于周一（5月22日）会面，在此之前，债务上限谈判代表将在华盛顿恢复讨论。根据白宫的一份声明，双方谈判代表计划于当地时间周日下午6点（北京时间今晨6点）恢复谈判。麦卡锡强调，双方尚未达成协议，但在与拜登讨论了弥合分歧的解决方案后，他对达成协议更有希望。此外，据两位知情人士透露，共和党人已将削减支出的要求从10年降至6年，但白宫希望的期限2年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqwnp3351634.d.html</link>
+            <guid>3116727</guid>
+            <pubDate>Sun, 21 May 2023 20:39:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛经济学家：美国财政部恐怕会在6月8-9日跌穿300亿美元所谓“满足联邦义务（政府部门运作、债务利息支付等）”的现金门槛。]]></title>
+            <guid>3116706</guid>
+            <pubDate>Sun, 21 May 2023 20:20:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网自动测定：05月22日03时56分在四川宜宾市长宁县附近（北纬28.42度，东经104.86度）发生4.6级左右地震，最终结果以正式速报为准。]]></title>
             <guid>3116688</guid>
@@ -584,48 +623,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuze5863902.d.html</link>
             <guid>3116334</guid>
             <pubDate>Sun, 21 May 2023 11:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峰环境：前4月上网电量20.24亿度 同比增12.51%】三峰环境(601827)5月21日晚间披露，2023年1-4月，公司（全资、控股及参股公司合计）垃圾入厂量607.02万吨，同比增长15.36%；发电量23.04亿度，同比增长11.97%；上网电量20.24亿度，同比增长12.51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuza9085779.d.html</link>
-            <guid>3116333</guid>
-            <pubDate>Sun, 21 May 2023 11:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华尔街投行预测“X日”：或在6月前两周】据美国ABC新闻网20日报道，穆迪分析公司日前表示，若发生债务违约，美国经济可能遭到严重损害，即使美国只出现一周时间的短期债务违约，也将可能导致150万个工作岗位流失 ，失业率或将从3.4%上升至5%。在美国金融和经济界，美国财政部触及债务上限这条“红线”，出现联邦政府无法维持基本公共开支以及偿还债务本金和利息债务的情况，这一天被称为“X日”，即X-date。眼下，无论是美国联邦政府官员还是华尔街投行，都预计“X日”，已近在咫尺。美国财政部长耶伦和国会预算办公室近期相继发出警告，称触及债务上限最早可能于6月1日发生。华尔街多数投行预计，“X日”最有可能在6月的前两周内到来，如果未能及时提高债务上限，就不排除美国技术性主权债务违约的可能。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuze5862779.d.html</link>
-            <guid>3116332</guid>
-            <pubDate>Sun, 21 May 2023 11:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST紫鑫：存在可能因股价低于面值被终止上市风险】 *ST紫鑫公告，5月19日，公司股票收盘价为0.96元/股，首次低于1元/股。根据相关规定，若公司股票收盘价连续20个交易日低于1元/股，公司股票将被深交所终止上市交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuza9085164.d.html</link>
-            <guid>3116331</guid>
-            <pubDate>Sun, 21 May 2023 10:59:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【涨停股科瑞技术：公司近期经营情况正常】科瑞技术5月21日公告，公司的股票交易价格连续两个交易日内（2023年5月18日、2023年5月19日）收盘价格涨幅偏离值累计超过20%。根据《深圳证券交易所交易规则》的相关规定，属于股票交易异常波动情况。公司近期经营情况正常，内外部经营环境未发生重大变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuze5861647.d.html</link>
-            <guid>3116330</guid>
-            <pubDate>Sun, 21 May 2023 10:55:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年股票ETF流动性反超货币ETF，居各类ETF产品首位】据中证报，日前，在富国基金举办的第十一届富国论坛上发布的《ETF投资交易白皮书（2022年）》显示，2022年，ETF流动性总体高于指数成份股流动性，在各类型的ETF基金中，股票ETF流动性反超货币ETF，居于各类ETF基金产品的首位。2022年股票ETF年成交额达9.67万亿元，在ETF总成交额中占42%，较2020年增长超7万亿，再次反超货币ETF。同期，QDII ETF与债券ETF交投活跃度也明显提升，年成交额分别达3万亿元、1.65万亿元，但货币ETF与另类ETF年成交额有所下滑，分别达8.21万亿元、0.39万亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuyz3761615.d.html</link>
-            <guid>3116329</guid>
-            <pubDate>Sun, 21 May 2023 10:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023中国量子计算产业联盟大会今日在合肥开幕】2023中国量子计算产业联盟大会今日在安徽合肥开幕。大会举行签约仪式，新增34家单位，分别来自生物化工、智能制造、大数据、低温制冷等行业。其中上下游生产制造联盟新增3家单位，生态应用联盟18家单位，包括2家金融单位，2家生物化工单位和14家AI大数据单位，科普教育联盟13家单位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuza9082478.d.html</link>
-            <guid>3116328</guid>
-            <pubDate>Sun, 21 May 2023 10:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家房企濒临退市，当前被“戴帽”的A股房地产企业有13家】 5月9日房企*ST蓝光公告称，截至当日公司已连续20个交易日的每日股票收盘价均低于人民币1元，触及终止上市条件，上交所已为此发出《关于拟终止蓝光发展股票上市的事先告知书》。5月19日晚，因触及“面值退市”规定，*ST中天收到深交所的通知，计划终止该公司股票上市交易。目前该公司也被债权人向法院申请重整。由于经营业绩不佳、债务重组进程缓慢等原因，A股“披星戴帽”的上市房企越来越多，据Wind统计，当前被“戴帽”的A股房地产企业有13家。其共同特点在于2022年归母净利润均为亏损状态，其中有超过半数的企业是股价未超过1元。比如ST阳光城、*ST宋都、*ST新联、ST粤泰都已经连续11天跌停。其中，*ST宋都2022年财务报告被出示无法表示意见且内控审计报告被出具否定意见。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuza9082312.d.html</link>
-            <guid>3116327</guid>
-            <pubDate>Sun, 21 May 2023 10:43:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

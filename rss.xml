@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 21 May 2023 16:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 17:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫确认拜登和麦卡锡周一会面，谈判代表将于当地时间周日下午六点举行会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqmww5541365.d.html</link>
+            <guid>3116640</guid>
+            <pubDate>Sun, 21 May 2023 17:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党谈判代表称，昨天债务谈判出现重大挫折，任何债务协议都需要有多年支出上限。]]></title>
+            <guid>3116639</guid>
+            <pubDate>Sun, 21 May 2023 17:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院议长麦卡锡表示，他将在周一下午会见拜登。债务上限谈判代表周日将会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqmwt3526211.d.html</link>
+            <guid>3116638</guid>
+            <pubDate>Sun, 21 May 2023 16:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理朔尔茨与韩国总统尹锡悦会晤 两国将扩大半导体、新能源等领域合作】据报道，当地时间5月21日晚，德国总理朔尔茨与韩国总统尹锡悦在首尔会晤。朔尔茨是30年来第一位访问首尔的德国总理。尹锡悦在会谈后的新闻发布会上说，双方同意将贸易和投资关系扩大到氢气、半导体、生物技术和清洁能源等高科技产业。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqmwu8757393.d.html</link>
+            <guid>3116637</guid>
+            <pubDate>Sun, 21 May 2023 16:32:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【所罗门群岛附近发生6.3级左右地震】中国地震台网自动测定：05月21日23时45分，在所罗门群岛附近（南纬10.24度，东经161.39度）发生6.3级左右地震。最终结果以正式速报为准。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-22/detail-imyuqmww5528778.d.html</link>
@@ -604,28 +627,6 @@
             <title><![CDATA[欧洲央行行长拉加德：美国违约将对全球造成灾难性影响，相信美国各方在债务谈判中所有的“常识”。]]></title>
             <guid>3116322</guid>
             <pubDate>Sun, 21 May 2023 10:32:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四方股份：中标的新能源分布式调相机项目已并网投运】四方股份(601126)5月21日晚间公告，公司中标的新能源分布式调相机项目已成功并网投运。项目名称为华源电力围场德润风电场2*10MVar分布式调相机项目、华源电力腾源智途风电场2*10MVar分布式调相机项目，合同金额3034万元、2916万元，合计5950万元。上述两个项目为公司交付的国内首套4*10MVar新能源分布式调相机项目，为电网提供快速的无功和电压支撑，项目顺利并网为进一步扩大公司在新能源细分市场的影响力奠定了坚实基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuyz3754843.d.html</link>
-            <guid>3116321</guid>
-            <pubDate>Sun, 21 May 2023 10:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拜登表示，他正在研究宪法第14条修正案取消债务上限，问题是是否可以及时使用它来防止违约。]]></title>
-            <guid>3116320</guid>
-            <pubDate>Sun, 21 May 2023 10:31:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州市纪委监委消息，广州市番禺区人大常委会党组成员、副主任谭小利涉嫌严重违纪违法，目前正接受广州市纪委监委纪律审查和监察调查。]]></title>
-            <guid>3116319</guid>
-            <pubDate>Sun, 21 May 2023 10:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国核电：截至4月30日，累计商运发电量661.95亿千瓦时，同比增5.04%】中国核电5月21日公告，截至2023年4月30日，公司核电控股在运机组25台，装机容量2375.00万千瓦；控股在建项目9台，装机容量1012.9万千瓦；控股核准待建机组2台，装机容量242.40万千瓦。公司新能源控股在运装机容量1344.61万千瓦，包括风电460.54万千瓦、光伏884.07万千瓦,另控股独立储能电站20.10万千瓦；控股在建装机容量762.75万千瓦，包括风电155.5万千瓦，光伏607.25万千瓦。截至2023年4月30日，公司累计商运发电量661.95亿千瓦时，同比增长5.04%；上网电量622.90亿千瓦时，同比增长5.32%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-21/detail-imyupuze5855368.d.html</link>
-            <guid>3116318</guid>
-            <pubDate>Sun, 21 May 2023 10:23:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

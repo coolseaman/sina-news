@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Jun 2023 18:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 19:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧佩克+开始会议，可能同意进一步减产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywaaru4319062.d.html</link>
+            <guid>3132189</guid>
+            <pubDate>Sat, 03 Jun 2023 18:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以埃边境枪击事件致3名以军士兵和1名埃及安全人员死亡】据以色列和埃及军方3日分别发表的声明，以埃边境当天发生枪击事件，导致3名以军士兵和1名埃及安全人员死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywaars6874259.d.html</link>
+            <guid>3132188</guid>
+            <pubDate>Sat, 03 Jun 2023 18:33:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[俄罗斯天然气工业股份公司将于周六通过乌克兰向欧洲输送4030万立方米天然气。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywaars6870139.d.html</link>
@@ -580,18 +592,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzfna7312844.d.html</link>
             <guid>3132086</guid>
             <pubDate>Sat, 03 Jun 2023 09:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南小麦收获过半】截至6月3日17时，河南已收获小麦4410万亩，约占全省种植面积的51.7%。（大象新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzfne4629229.d.html</link>
-            <guid>3132085</guid>
-            <pubDate>Sat, 03 Jun 2023 09:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果首款头显可用Siri控制，不支持佩戴常规眼镜使用】Mark Gurman再次分享了关于苹果(AAPL.O) Reality Pro头显的一些新细节。其中，古尔曼称用户可以使用眼神、手势和Siri控制头显。这款头显在靠近用户太阳穴位置安装了扬声器，用户如果想要获得更沉浸的音频体验，需要搭配AirPods使用。此外，该头显采用M2芯片，16GB的内存，并且需要一个外部电池组，看起来像MagSafe Battery Pack的更大版本。且苹果首款AR/VR头显并不厚，用户无法在佩戴常规眼镜的情况下使用，苹果为此提供了眼镜夹片。（36氪）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzfmz0533449.d.html</link>
-            <guid>3132084</guid>
-            <pubDate>Sat, 03 Jun 2023 09:37:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

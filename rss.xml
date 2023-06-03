@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 03 Jun 2023 21:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 22:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【神十五乘组踏上回家路】神舟十五号载人飞船轨道舱与返回舱成功分离，神十五航天员费俊龙、邓清明、张陆踏上回家之路。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywahxq6769711.d.html</link>
+            <guid>3132315</guid>
+            <pubDate>Sat, 03 Jun 2023 21:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际能源署将在年底前设定矿产进口基准。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywahxn9991069.d.html</link>
+            <guid>3132314</guid>
+            <pubDate>Sat, 03 Jun 2023 21:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克就可能的减产问题争论不休。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywahxm8204946.d.html</link>
+            <guid>3132313</guid>
+            <pubDate>Sat, 03 Jun 2023 21:14:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【神舟十五号航天员乘组今日返回东风着陆场】据中国载人航天工程办公室消息，神舟十五号航天员乘组已完成全部既定任务，将于今日乘坐神舟十五号载人飞船返回东风着陆场。着陆场及各参试系统已做好迎接航天员回家的各项准备。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywahxs4230165.d.html</link>
@@ -573,24 +591,6 @@
 市委常委、统战部部长陈通参加会见。（上观新闻）]]></title>
             <guid>3132095</guid>
             <pubDate>Sat, 03 Jun 2023 10:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家外媒关注：印尼防长提俄乌冲突解决方案，包括建“非军事区”】综合路透社、塔斯社等多家外媒报道，印度尼西亚国防部长苏比安托3日在新加坡参加第20届香格里拉对话会时，提出了一项解决俄乌冲突的“和平方案”，内容包括停火、建立“非军事区”、部署联合国维和部队等。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzfna7314604.d.html</link>
-            <guid>3132094</guid>
-            <pubDate>Sat, 03 Jun 2023 09:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美日韩防长同意年内开始即时共享朝鲜导弹情报】美日韩三国防长会谈3日在新加坡举行，就年内开始即时共享朝鲜弹道导弹相关情报达成共识。利用日韩经由美国共享情报的三国间协定，在数月内启动初期运用。会谈还商定反潜和反导的三国联合训练将改为定期举行。 （财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzfmz0537239.d.html</link>
-            <guid>3132093</guid>
-            <pubDate>Sat, 03 Jun 2023 09:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列军方称在以埃边境与武装人员发生交火】当地时间6月3日，以色列国防军证实，当天上午，以军在以色列与埃及边境地区与武装人员发生交火。军方未就此事进行详细说明。当地媒体援引相关消息称，以军与巴勒斯坦武装人员发生交火，有2人受伤，伤者身份暂不明。2日晚间，以军在该地区挫败一起毒品走私活动，缴获价值超过150万以色列新谢克尔（约合人民币283万元）毒品。目前尚不清楚，两起事件是否有关联。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-03/detail-imyvzfna7314489.d.html</link>
-            <guid>3132092</guid>
-            <pubDate>Sat, 03 Jun 2023 09:57:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

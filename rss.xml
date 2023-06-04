@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 Jun 2023 18:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 19:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【零首付、负首付买房重出江湖 多地监管介入】“0首付、准现房拎包入住”、“现房0首付、限时补贴6万”，最近一度哑火的零首付、负首付广告开始在各大社交平台“刷屏”。深圳、佛山、惠州、长春、重庆多个城市开始争先“内卷”负首付。通过走访发现，本轮“低首付”背后的操作模式种类繁多：延期支付、首付贷、高评高贷等等擦边或违规操作层出不穷。值得注意的是，与以往“零首付”不同，此前在一手市场“零首付”更多只是营销噱头，实际操作过程中开发商会通过分期支付、延期支付等方式短期降低购房者首付门槛。有业内人士指出，上述操作看似可以帮助购房者“提前上车”，但实际背后则风险重重：一方面，这种操作模式进一步放大了购房者的金融杠杆，信贷违约风险激增；另一方面，其中涉及多项非法操作，中间嵌套多层风险。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywefqq9027411.d.html</link>
+            <guid>3132640</guid>
+            <pubDate>Sun, 04 Jun 2023 18:55:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋能源部长：俄罗斯的产量数据存在一些差异。我们不希望政治因素影响我们对俄罗斯石油产量的看法。]]></title>
+            <guid>3132638</guid>
+            <pubDate>Sun, 04 Jun 2023 18:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沙特能源部声明：7月份沙特石油产量将减少至900万桶/日。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywefqu3568786.d.html</link>
@@ -600,17 +611,6 @@
             <title><![CDATA[  【中金：成长风格有望重新占优 关注三条主线】中金认为，近期市场情绪略有和缓，主要指数初步呈现出企稳迹象，成交量有所回升，人民币小幅升值，北向资金亦重新恢复净流入。后市来看，我们认为市场短期表现可能仍有反复，但调整最快时期可能已经过去，国内因素尤其经济内生动能修复的进展仍将是决定市场表现的主要矛盾，如若政策应对得当，有望逐渐改善当前投资者的偏悲观预期。行业建议：成长风格有望重新占优。建议投资者关注如下三条主线：1）顺应人工智能新兴产业趋势和国内大力发展数字经济政策方向的科技成长赛道，如半导体、传媒游戏等；2）前期受疫情负面影响较大、当前成本压力持续缓和、后续需求修复空间较为确定的消费类行业，例如白酒、家用电器、医疗服务等；3）受益于一带一路倡议，以及国企改革等主题机会。]]></title>
             <guid>3132538</guid>
             <pubDate>Sun, 04 Jun 2023 09:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[能源情报集团记者阿蒙娜•巴克尔：欧佩克+将于今天作出对各成员国基线石油产量的调整。]]></title>
-            <guid>3132537</guid>
-            <pubDate>Sun, 04 Jun 2023 09:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因谈判仍在继续 欧佩克+会议推迟召开】欧佩克+各成员国的部长们在正式会议召开之前举行了预备会议，今日他们仍在进行相关的讨论，试图消除剩余的分歧。与会代表表示，阿联酋主张改变衡量其减产幅度的方式。但这将以牺牲非洲国家的利益为代价，部分非洲小产油国被要求放弃一些未使用的配额，这对他们来说是政治上难以接受的选择。此外，与会代表们表示，阿联酋和安哥拉正在就基线产量的修订问题举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckme3886787.d.html</link>
-            <guid>3132536</guid>
-            <pubDate>Sun, 04 Jun 2023 09:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

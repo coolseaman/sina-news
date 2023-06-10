@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Jun 2023 20:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 21:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[埃及外交部：对苏丹实施入境签证是监管性的，而不是限制性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywweuv3902885.d.html</link>
+            <guid>3139396</guid>
+            <pubDate>Sat, 10 Jun 2023 20:58:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【美联储或将暂停加息并评估加息效果】美联储的政策制定者们或将从15个月前开始的加息运动中第一次休息，尽管他们面临着美国经济的弹性和持续的通货膨胀。预计美国联邦公开市场委员会(FOMC)周三将维持基准贷款利率在5%-5.25%的区间不变，这是自去年3月以来连续10次加息后的首次上调。尽管官员们的努力有助于减轻美国经济中的价格压力，但通胀仍远高于他们的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynv7251799.d.html</link>
+            <guid>3139395</guid>
+            <pubDate>Sat, 10 Jun 2023 20:24:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：美国银行存款从上周的17.236万亿美元增至17.283万亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-11/detail-imywvynr3678556.d.html</link>
@@ -586,17 +598,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvchz3956267.d.html</link>
             <guid>3139295</guid>
             <pubDate>Sat, 10 Jun 2023 10:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海发布大风黄色预警，目前雷电+大风双黄预警高挂，今夜大部地区将出现8-10级雷雨大风】上海中心气象台2023年06月10日17时55分发布大风黄色预警信号：受强雷暴云团影响，预计今天半夜以前本市大部地区将出现8-10级雷雨大风，请加强防范大风对高空作业、交通出行、设施农业等的不利影响。]]></title>
-            <guid>3139294</guid>
-            <pubDate>Sat, 10 Jun 2023 10:08:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【退役军人事务部思想政治和权益维护司原司长梁竞阁接受审查调查】据中央纪委国家监委驻退役军人事务部纪检监察组、陕西省纪委监委消息：退役军人事务部思想政治和权益维护司原司长梁竞阁涉嫌严重违纪违法，目前正接受中央纪委国家监委驻退役军人事务部纪检监察组纪律审查和陕西省监察委员会监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-10/detail-imywvcif7662436.d.html</link>
-            <guid>3139293</guid>
-            <pubDate>Sat, 10 Jun 2023 10:06:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

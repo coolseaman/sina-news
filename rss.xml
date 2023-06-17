@@ -4,11 +4,27 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 17 Jun 2023 19:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 20:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加拿大第二大航空公司西捷航空公司计划在两年内逐步关闭低成本的太阳之翼航空公司，并将其整合到主营业务中。]]></title>
+            <guid>3146985</guid>
+            <pubDate>Sat, 17 Jun 2023 20:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及军方发言人哈菲兹：埃及海军军舰已经抵达苏丹港，卸下了数百吨食品、医疗用品和其他援助物资。]]></title>
+            <guid>3146984</guid>
+            <pubDate>Sat, 17 Jun 2023 19:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国一法官命令加拿大恩布里奇公司在三年内关闭威斯康星州部分管道】一名美国法官命令加拿大能源公司恩布里奇公司在三年内关闭一条穿越威斯康辛州部落土地的石油管道的一部分，并向该部落支付近520万美元的非法侵入费和部分利润，直到关闭完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxrwix7713493.d.html</link>
+            <guid>3146983</guid>
+            <pubDate>Sat, 17 Jun 2023 19:20:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄罗斯总统普京与非洲和平代表团在圣彼得堡康斯坦丁宫举行会谈】当地时间17日，俄罗斯总统普京与非洲和平代表团在圣彼得堡康斯坦丁宫举行会谈。会谈议题将涉及调解乌克兰局势等问题。]]></title>
             <guid>3146982</guid>
@@ -575,23 +591,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxqzei1169591.d.html</link>
             <guid>3146884</guid>
             <pubDate>Sat, 17 Jun 2023 10:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【水利部和中国气象局联合发布山洪灾害气象黄色预警】水利部和中国气象局6月17日18时联合发布黄色山洪灾害气象预警：预计，6月17日20时至6月18日20时，安徽西部、河南南部、湖北东北部和西南部、湖南西北部、重庆东南部、贵州东北部等地部分地区可能发生山洪灾害（蓝色预警），其中，安徽西部、河南南部、湖北东北部、湖南西北部、重庆东南部、贵州东北部局地发生山洪灾害可能性较大（黄色预警）其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxqzei1169516.d.html</link>
-            <guid>3146883</guid>
-            <pubDate>Sat, 17 Jun 2023 10:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家防办：江南等地将迎降雨集中期且正值端午假期，防汛形势复杂严峻】6月17日，国家防总办公室向江苏、安徽、福建、江西、河南、湖北、湖南、广东、广西、重庆、四川、贵州、云南、西藏、青海省（自治区、直辖市）防办发出工作提示，部署做好近期南方持续强降雨防范应对工作。国家防总办公室指出，长江中下游及江南等地将进入降雨集中期，且正值端午假期，旅游、探亲等流动人员多，防汛形势复杂严峻。]]></title>
-            <guid>3146882</guid>
-            <pubDate>Sat, 17 Jun 2023 10:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【复星医药：中国首款双适应症全新P-CAB盐酸凯普拉生片上市会召开】据复星医药消息，6月16日，由复星医药与柯菲平医药联合开发并由复星医药独家商业化的我国自主研发的首款钾离子竞争性酸阻滞剂（P-CAB）盐酸凯普拉生片（商品名：倍稳®）上市会在北京召开。目前，盐酸凯普拉生已在全国各大医院、零售药店陆续到货，全国各地也陆续开出了首张处方。2月15日，盐酸凯普拉生片获得国家药品监督管理局（NMPA）批准，用于十二指肠溃疡（DU）和反流性食管炎（RE）的治疗，是中国目前唯一获批的DU/RE双适应症的P-CAB。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-17/detail-imyxqzef4389293.d.html</link>
-            <guid>3146881</guid>
-            <pubDate>Sat, 17 Jun 2023 10:01:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

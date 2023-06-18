@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 Jun 2023 16:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 17:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国国会提议缩减五角大楼向基辅提供导弹所需开支】据报道，美国共和党议员在众议院拨款委员会提议，将五角大楼计划向基辅提供的制造导弹所需开支缩减25亿美元。报道指出，美国会希望在国防开支采购导弹方面减少拨款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxtuyx3007297.d.html</link>
+            <guid>3147276</guid>
+            <pubDate>Sun, 18 Jun 2023 16:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国陷入衰退 欧洲经济“火车头”失速】素有欧洲经济“火车头”之称的德国，最近经济增长遇到了“路障”。根据德国官方近期披露的数据，德国GDP连续出现两个季度环比负增长。在外界看来，这已初步呈现经济上的“技术性衰退”迹象。另一方面，德国是欧盟最大的经济体，占欧盟国内生产总值的近30%。巨人的停滞对其他国家来说无疑是个坏消息，因为“一个疲软的德国就意味着一个疲软的欧元区”。（北京商报）]]></title>
+            <guid>3147275</guid>
+            <pubDate>Sun, 18 Jun 2023 16:34:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美股周一因“六月节”假日休市一天】美国股市周一（6月19日）休市一天，以纪念“六月节”。纳斯达克和纽约证券交易所将于美东时间周二（6月20日）上午9点30分（北京时间周二晚21点30分）恢复正常交易。美国债券市场周一也将因假期休市。“六月节”是为了纪念美国奴隶制的终结，是美国10个官方股市假日之一。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-19/detail-imyxtuyu2052400.d.html</link>
@@ -608,18 +619,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtecf3315458.d.html</link>
             <guid>3147175</guid>
             <pubDate>Sun, 18 Jun 2023 09:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港警方回应比亚迪香港4门店遭破坏：6人被拘，并非针对品牌】据香港《星岛日报》6月16日报道，6月12日凌晨，比亚迪在香港的4间店铺接连遭到破坏，被淋泼红色油漆或撞毁铁闸。香港警方经调查后，以“刑事毁坏”罪拘捕5男1女，年龄介乎34至48岁，涉嫌与上述案件有关。警方认为，案件是牵涉纠纷，并非针对比亚迪品牌。（观察者网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxtecf3315392.d.html</link>
-            <guid>3147174</guid>
-            <pubDate>Sun, 18 Jun 2023 09:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家能源集团董事长：全力打造易贡藏布和帕隆藏布两大千万千瓦级多能互补清洁能源基地】 国家能源投资集团董事长刘国跃在第五届中国西藏旅游文化国际博览会主旨论坛上表示将加快推进全球超高海拔最大规模那曲风电项目建设，优化布局区域“源网荷储”和多能互补一体化协同发展，全力打造易贡藏布和帕隆藏布两大千万千瓦级多能互补清洁能源基地，为西藏加快建设国家清洁能源基地“添砖加瓦”。（西藏发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-18/detail-imyxteci0092018.d.html</link>
-            <guid>3147173</guid>
-            <pubDate>Sun, 18 Jun 2023 09:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

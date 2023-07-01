@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 01 Jul 2023 16:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 17:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：马斯克对推特帐户设置限制以解决数据抓取问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzffne7096394.d.html</link>
+            <guid>3161113</guid>
+            <pubDate>Sat, 01 Jul 2023 17:05:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为期62天 2023年暑运正式开启】2023年暑运昨日启动。暑期旅客运输从7月1日起至8月31日止，共计62天。从中国铁路北京局了解到，暑期62天预计发送旅客7115万人次，日均114.8万人次，较往年有明显增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzffmy9630765.d.html</link>
+            <guid>3161112</guid>
+            <pubDate>Sat, 01 Jul 2023 16:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美欧等国已向乌克兰提供超过1.3万亿各种援助】据俄塔社6月30日报道，乌克兰临时被占领土一体化事务部援引德国基尔世界经济研究所的数据称，自2022年2月以来，美欧等国已向乌克兰提供了大约1700亿欧元（约合13454亿元人民币）的各种援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzffnf8085976.d.html</link>
+            <guid>3161111</guid>
+            <pubDate>Sat, 01 Jul 2023 16:31:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据网络状况监测网站DownDetector，用户报告显示推特出现问题。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzffna6397233.d.html</link>
@@ -586,24 +604,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeqqk6703650.d.html</link>
             <guid>3161013</guid>
             <pubDate>Sat, 01 Jul 2023 09:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度6月份的商品及服务税总收入为1.6万亿卢比。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeqqk6703083.d.html</link>
-            <guid>3161012</guid>
-            <pubDate>Sat, 01 Jul 2023 09:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【翰宇药业：利拉鲁肽注射液美国申报顺利推进中】翰宇药业在互动平台表示，公司利拉鲁肽注射液正在进行中美双报，其中利拉鲁肽注射液（中国）受政策法规调整因素影响，已主动撤回药品注册申请，未来将根据市场情况决定产品申报策略；利拉鲁肽注射液（美国）申报顺利推进中。公司正在进行中美双报的降糖减重产品包括：利拉鲁肽、司美格鲁肽、替尔泊肽等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeqqk6702185.d.html</link>
-            <guid>3161011</guid>
-            <pubDate>Sat, 01 Jul 2023 09:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赵鹏同志任中国人民保险集团股份有限公司党委副书记】2023年7月1日下午，受中央组织部领导委派，中央组织部有关干部局负责同志出席中国人民保险集团股份有限公司领导干部会议，宣布中央决定：赵鹏同志任中国人民保险集团股份有限公司党委副书记。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-01/detail-imyzeqqk6700914.d.html</link>
-            <guid>3161010</guid>
-            <pubDate>Sat, 01 Jul 2023 09:04:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

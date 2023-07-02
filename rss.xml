@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 Jul 2023 16:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 17:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特斯拉二季度交付量超预期】
+特斯拉第二季度汽车产量47.97万辆，预估45.66万。
+第二季度交付量46.61万，预估44.84万。
+第二季度MODEL 3/Y 产量46.02万辆，预估44.47万。
+第二季度MODEL 3/Y 交付量44.69万辆，预估43.74万。
+第二季度MODEL S和MODEL X产量1.95万，预估1.59万。
+第二季度MODEL S/X 交付量1.92万辆，预估1.46万。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziqtf5608124.d.html</link>
+            <guid>3161475</guid>
+            <pubDate>Sun, 02 Jul 2023 16:31:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今日重点关注财经数据与事件】
 ① 09:45 中国6月财新制造业PMI
@@ -632,12 +644,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvp5920011.d.html</link>
             <guid>3161373</guid>
             <pubDate>Sun, 02 Jul 2023 10:17:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部和中国气象局联合发布山洪灾害气象黄色预警】水利部和中国气象局7月2日18时联合发布黄色山洪灾害气象预警：预计，7月2日20时至7月3日20时，河南西南部、四川北部、重庆北部、陕西南部、甘肃南部等地部分地区可能发生山洪灾害（蓝色预警），其中，四川东北部、重庆北部、陕西南部、甘肃南部局地发生山洪灾害可能性较大（黄色预警）其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvm7169601.d.html</link>
-            <guid>3161372</guid>
-            <pubDate>Sun, 02 Jul 2023 10:15:40 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 Jul 2023 18:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 19:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【代糖股大涨背后 阿斯巴甜陷入争议】碳酸饮料配料表中最常见的阿斯巴甜，近期卷入了“可能致癌”风波。阿斯巴甜是常见的人工合成甜味剂之一。市面上主打“无糖”的食品饮料，有不少使用了阿斯巴甜，包括无糖汽水、口香糖等。不过需要注意的是，中国作为世界最大的甜味剂生产国，阿斯巴甜的产量在逐年下滑。与此同时，天然甜味剂在代糖产品的应用占比在快速增加。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziuzc5509888.d.html</link>
+            <guid>3161479</guid>
+            <pubDate>Sun, 02 Jul 2023 18:51:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【人人都为AIGC狂，似2000年互联网泡沫重演？】硅谷投资人和纽交所交易员如何看待本轮AI繁荣与2000年科技繁荣的异同？2023年上半年，ChatGPT成为席卷全球的现象级应用，各路资金争相涌入AIGC（人工智能生成内容）：概念股的涨势迅猛，初创项目遍地开花，相关话题持续霸屏……以上种种，无一不让投资者联想起美国史上最大的金融泡沫之一——千禧年的那场互联网泡沫危机。“如果要说时隔20年的两次繁荣有何共同点，那就是无论资金还是人才都在涌入相关领域，场面热火朝天。”六禾创投合伙人陈璧葵在接受采访时表示。（第一财经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziqtf5630855.d.html</link>
@@ -638,12 +644,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvr2701617.d.html</link>
             <guid>3161377</guid>
             <pubDate>Sun, 02 Jul 2023 10:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信建投：机器人行业跨越式发展有望打开稀土永磁材料未来需求空间】 中信建投研报认为，人形机器人产业化加速有望带动永磁材料需求改善。2023年5月，特斯拉Optimus再次进化，叠加近期国内机器人政策升温，机器人行业跨越式发展有望打开稀土永磁材料未来需求空间。从供需基本面看，供应端，整体供应稳定，氧化物及金属市场供应量充足，但因部分企业对于库存出货不多，导致市场现货流通不多，且因贸易商有参与市场，市场散货成交为主，整体出货量不大，供大于求不明显。需求端，近期机器人板块大涨，后续或逐步往上游细分领域传导，作为伺服系统伺服电机核心材料——稀土永磁，或是传导方向之一 。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvp5923776.d.html</link>
-            <guid>3161376</guid>
-            <pubDate>Sun, 02 Jul 2023 10:33:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

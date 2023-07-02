@@ -4,11 +4,56 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 Jul 2023 15:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 16:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【今日重点关注财经数据与事件】
+① 09:45 中国6月财新制造业PMI
+② 14:30 瑞士6月CPI月率
+③ 15:50 法国6月制造业PMI终值
+④ 15:55 德国6月制造业PMI终值
+⑤ 16:00 欧元区6月制造业PMI终值
+⑥ 16:30 英国6月制造业PMI
+⑦ 21:45 美国6月Markit制造业PMI终值
+⑧ 22:00 美国6月ISM制造业PMI
+⑨ 22:00 美国5月营建支出月率]]></title>
+            <guid>3161474</guid>
+            <pubDate>Sun, 02 Jul 2023 16:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国规模最大新能源跨长江输送通道投运 每年可减少二氧化碳排放1000万吨】国内规模最大新能源跨长江输送通道——江苏泰州凤城至无锡梅里500千伏输变电工程建成投运。工程投运后，可以提升江苏境内新能源过江输电能力约30%，最大年送电量超过260亿度，每年减少二氧化碳排放1000万吨。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzikmp3063323.d.html</link>
+            <guid>3161473</guid>
+            <pubDate>Sun, 02 Jul 2023 15:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周日重要消息汇总】
+国内新闻：
+1. 多家大行下调美元存款利率。
+2. 外交部提醒在法中国公民加强安全防范。
+3. 国内单体最大年产12万吨碳酸锂一期项目在新疆投产。
+4. 宁吉喆：推动经济持续好转需要更好地发挥中小企业作用。
+国际新闻：
+1. 据塔斯社：消息人士称，世界粮食计划署认为粮食协议可以续签。
+2. 东欧五国农业部长计划于7月19日在波兰商讨粮食安全问题和乌克兰农产品问题。
+3. 美国“独立日”假期周末逾千次航班发生延误或被取消。
+4. 一架美国空军“核嗅探”特种侦察机已经抵达欧洲一个空军基地。
+5. 法国大规模骚乱已蔓延至瑞士。法国内政部认为骚乱暴力事件强度有所减弱。
+6. 美国马里兰州巴尔的摩市发生大规模枪击事件，造成2人死亡，28人受伤。
+7. 中国地震台网正式测定：07月02日18时27分在汤加群岛发生6.9级地震，震源深度210千米。
+8. 推特暂时限制用户阅读贴文数。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzikmm2499573.d.html</link>
+            <guid>3161472</guid>
+            <pubDate>Sun, 02 Jul 2023 15:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币短线一度下挫逾400美元，最低至30172美元/枚，以太坊一度回落至1900美元/枚下方，日内跌1.42%。]]></title>
+            <guid>3161471</guid>
+            <pubDate>Sun, 02 Jul 2023 15:27:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【市场消息：传奇原油交易员Pierre Andurand在社媒回应称有关其“巨亏”的消息不实】在媒体爆料传奇原油交易员Pierre Andurand今年巨亏10亿美元后，其本人在社交媒体上亲自回应，称消息不实，是彻头彻尾的标题党。Andurand表示，其目前共管理4支基金。其中2支年初至今下跌4%（WTI年初至今下跌8.4%），另外1支年初至今下跌10%。剩下的一支基金今年以来下跌50%。但需要注意的是，该基金在2023年之前的3年里，扣除各项费用前年平均收益超过120%。Pierre Andurand曾任高盛和全球最大独立石油贸易商维多集团的能源交易员，随后创办能源对冲基金Andurand Capital Management，因准确预判2008油价暴涨和2020年史诗级暴跌而名声大噪。]]></title>
             <guid>3161470</guid>
@@ -593,29 +638,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvm7169601.d.html</link>
             <guid>3161372</guid>
             <pubDate>Sun, 02 Jul 2023 10:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[京东物流(02618.HK)：董事会宣布，于2023年7月1日，本公司根据首次公开发售后股份奖励计划向承授人授出了涉及8,428,199股新股份的8,428,199股奖励股份，约占于本公告日期已发行股份总数的0.13%。]]></title>
-            <guid>3161371</guid>
-            <pubDate>Sun, 02 Jul 2023 10:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西发布地质灾害黄色预警】山西省自然资源厅和山西省气象局7月2日下午联合发布地质灾害黄色预警，预计7月2日20时至7月3日20时，长治市屯留区，晋城市阳城县，运城市垣曲县、平陆县，临汾市尧都区、翼城县、襄汾县、古县、安泽县、浮山县，吕梁市柳林县等地，气象因素致地质灾害发生风险较高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvr2695329.d.html</link>
-            <guid>3161370</guid>
-            <pubDate>Sun, 02 Jul 2023 10:10:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民大学通报学生信息泄露事件：正积极配合警方等相关部门开展调查】据中国人民大学官方微博：昨日，学校已关注到我校部分学生信息被非法获取的情况，对此高度重视，第一时间联系警方，目前正积极配合警方等相关部门开展调查。学校强烈谴责侵犯个人隐私、危害信息安全的行为。感谢社会各界对学校的关心。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvr2695151.d.html</link>
-            <guid>3161369</guid>
-            <pubDate>Sun, 02 Jul 2023 10:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台7月2日18时解除高温黄色预警】据中央气象台，由于高温范围缩小，强度减弱，因此解除高温黄色预警。但预计7月3日白天，重庆南部、湖北南部、湖南、江西、浙江、福建北部、广西北部和西部以及河北中东部、北京东南部、天津南部山东北部、新疆吐鲁番等地仍有35~37°C的高温天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvp5917326.d.html</link>
-            <guid>3161368</guid>
-            <pubDate>Sun, 02 Jul 2023 10:05:30 GMT</pubDate>
         </item>
     </channel>
 </rss>

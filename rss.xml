@@ -4,11 +4,337 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 13 Jul 2023 22:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 23:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美媒：五角大楼证实，集束弹药已运抵乌克兰】 据美联社报道，美国五角大楼当地时间13日证实，由美国提供的集束弹药现已运抵乌克兰。(环球网)]]></title>
+            <guid>3175759</guid>
+            <pubDate>Thu, 13 Jul 2023 23:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京：所有对俄承诺得到兑现后才会延长“粮食协议”】当地时间13日，俄罗斯总统普京出席于莫斯科举行的“未来技术”论坛时接受记者采访。普京表示，俄罗斯只有在所有承诺得到兑现后才会延长黑海港口农产品外运协议（以下简称“粮食协议”）。普京说，“可选方案之一，不是先延期协议再由其他国家兑现承诺，而是要先兑现承诺，我们再参与到协议中。” 普京表示，距“粮食协议”到期还有几天时间，俄罗斯将考虑如何行事。同一天，俄新社援引俄罗斯总统新闻秘书佩斯科夫的消息报道称，有关俄罗斯暂停参与“粮食协议”的最终决定尚未做出。此前，俄罗斯方面多次暗示，将在7月17日“粮食协议”到期后退出协议。 （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8567864.d.html</link>
+            <guid>3175758</guid>
+            <pubDate>Thu, 13 Jul 2023 23:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【物价涨幅回落 美加息周期或近尾声】当地时间7月12日，美国劳工部公布的数据显示，美国物价涨幅整体回落，6月消费者价格指数（CPI）同比涨幅降至2021年3月以来最低水平。业内机构和专家表示，随着通胀下滑，美国加息周期或接近尾声，今年可能仅在7月加息一次，而非此前市场普遍预期的两次。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcwc3628649.d.html</link>
+            <guid>3175757</guid>
+            <pubDate>Thu, 13 Jul 2023 23:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚总理阿尔巴内塞和澳大利亚财长查默斯将于当地时间上午9:40举行新闻发布会，或将宣布新任央行行长人选。]]></title>
+            <guid>3175756</guid>
+            <pubDate>Thu, 13 Jul 2023 23:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳大利亚央行饱受批评 行长Philip Lowe无法获连任】一如广泛预期，澳大利亚政府不会再度任命Philip Lowe担任储备银行行长，因央行表现受到越来越强烈批评。据一位知情人士透露，7年任期将在9月17日结束的Lowe不会获得连任。Lowe不予置评。澳大利亚广播公司报道称，国库部长Jim Chalmers料将在周五的内阁会议后宣布继任人选。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcwc3628474.d.html</link>
+            <guid>3175755</guid>
+            <pubDate>Thu, 13 Jul 2023 23:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储理事沃勒：支持今年再加息两次，7月应该会加息】美联储理事克里斯托弗·沃勒表示，他还没有准备好宣布美国通胀结束，他支持美联储今年再进行两次25个基点的加息，并指出，"我认为没有理由认为这两次加息中的第一次不应该在本月晚些时候的会议上进行。"沃勒说，通胀数据走软是件好事，但还不足以改变前景。他说:“一个数据点并不能构成趋势，通胀曾在2021年夏天短暂放缓，然后变得更糟，所以我需要看到这种改善持续下去，然后才能确信通胀已经放缓。”沃勒还表示，“劳动力市场仍然非常强劲”，并表示“工资增长继续高于支撑通胀率回到2%的水平。”（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcwc3628273.d.html</link>
+            <guid>3175754</guid>
+            <pubDate>Thu, 13 Jul 2023 23:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球最大养老基金GPIF增持美国国债】 彭博分析7月份发布的最新数据得出，至2023年3月份的12个月，日本政府退休投资基金（GPIF）所持美国政府债券和国库券在其外国债券持仓中的占比达到43.3%（而之前一年为40.8%），创最近三年新高——至2020年3月份的投资组合占比为47.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8566818.d.html</link>
+            <guid>3175753</guid>
+            <pubDate>Thu, 13 Jul 2023 23:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加码拓展海外市场 自主品牌车企推进全产业链输出】 数据显示，今年上半年我国汽车出口量为214万辆，同比增长75.7%。近日，极氪、岚图等多家车企宣布加速布局海外销售网络，上汽集团、长城汽车等更大力推进海外建厂。业内人士表示，随着自主品牌出海加速，为控制成本、拓展市占率，在当地建厂实现汽车本土化生产、从单一整车输出到全产业链输出将成为行业发展趋势。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvv7512283.d.html</link>
+            <guid>3175752</guid>
+            <pubDate>Thu, 13 Jul 2023 23:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家光伏产业链上市公司半年报业绩预喜】 截至7月12日，已有多家光伏产业链上市公司上半年业绩预喜。上市公司纷纷表示，受益于硅料价格下行，行业成本下降，叠加光伏行业市场需求旺盛，公司出货量明显增加。业内人士表示，随着光伏原材料价格趋稳，下游装机项目需求陆续启动，全球光伏产业高景气状态将延续。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcwc3628047.d.html</link>
+            <guid>3175751</guid>
+            <pubDate>Thu, 13 Jul 2023 23:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【自感应电动人造肌肉面世】 据科技日报，英国伦敦玛丽女王大学科学家开发出一种新型电动人造肌肉，其能在软硬状态之间无缝转换，具有感应力和变形能力，还拥有类似天然肌肉的灵活性和拉伸性，可集成到复杂的柔性机器人系统中，并适应各种形状，有望彻底改变柔性机器人和医疗应用]]></title>
+            <guid>3175750</guid>
+            <pubDate>Thu, 13 Jul 2023 23:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【非蛋白质新标签可追踪细胞过程】 据科技日报，俄罗斯研究人员使用一种新开发的非蛋白质光学标签，可在不改变基因组的情况下标记单个细胞。使用该项技术能在任何实验室中观察标签在细胞群中的行为，并能广泛应用于治疗痴呆、中风、阿尔茨海默病和多种肿瘤。相关研究成果发表在《生物光子学杂志》上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvz5343406.d.html</link>
+            <guid>3175749</guid>
+            <pubDate>Thu, 13 Jul 2023 23:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【火星上新发现多种有机物质，有助搜寻潜在生物特征】 据科技日报，《自然》杂志12日发表了一篇天体物理学论文，报道了“毅力号”火星车在耶泽罗陨击坑探测到多种有机分子的证据。这一发现表明，火星过去可能存在一个比之前认为的更复杂的地球化学循环。]]></title>
+            <guid>3175748</guid>
+            <pubDate>Thu, 13 Jul 2023 23:04:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【期货业人士预测下半年钢价以区间震荡为主】 “钢铁行业最冷的日子可能还没到来。”一位钢企负责人日前在一场钢铁行业分享会上表示。受终端下游需求减弱、外部大环境制约等因素影响，目前钢铁行业整体效益处于近年来较低水平。业内人士认为，单靠产量平控恐难以平衡供需格局，钢铁行业将面临较严峻的去产能压力，下半年钢价恐难乐观。不过，供给端仍有压减空间，因此钢价下方存在支撑。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8566218.d.html</link>
+            <guid>3175747</guid>
+            <pubDate>Thu, 13 Jul 2023 23:04:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安凯客车：公司目前未收到任何关于电池项目暂停的通知】 安凯客车在互动平台表示，公司目前未收到任何关于电池项目暂停的通知，请以公司披露的公告为准。目前项目仍在推进中，公司将根据进展情况履行信息披露。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8566182.d.html</link>
+            <guid>3175746</guid>
+            <pubDate>Thu, 13 Jul 2023 23:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称打击乌军弹药库 乌称拦截俄巡航导弹】俄罗斯国防部当地时间13日发布战报称，俄军使用海基高精度武器对多个乌军弹药库进行了打击，并在库皮扬斯克、红利曼、顿涅茨克、扎波罗热、赫尔松等方向击退了乌军多次进攻，打击了乌军坦克、火炮、反炮兵雷达等目标。俄防空部队还拦截了乌军数枚“海马斯”火箭弹和多架无人机。同一天，乌克兰武装部队总参谋部发布战报称，在过去24小时内，俄军继续将主要兵力集中在库皮扬斯克、红利曼、巴赫穆特、阿夫杰耶夫卡、马林卡等方向。乌军对俄军防空导弹系统、电子战系统等目标进行了打击，拦截了俄军“口径”巡航导弹和多架无人机，并对俄军阵地进行了多次空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8566158.d.html</link>
+            <guid>3175745</guid>
+            <pubDate>Thu, 13 Jul 2023 23:04:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【动物实验显示 首创口服化疗药物能治疗前列腺癌】 据科技日报，美国研究人员开发出一种首创的口服药物来破坏前列腺癌细胞代谢，并将化疗药物顺铂直接输送到前列腺癌细胞中。团队在人类癌细胞和前列腺癌小鼠模型中测试了新方法，表明它在缩小难治性癌症方面是安全有效的。研究成果作为封面文章发表在最新一期美国化学会期刊《ACS中心科学》上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvz5343283.d.html</link>
+            <guid>3175744</guid>
+            <pubDate>Thu, 13 Jul 2023 23:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁央行：不一定结束加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8566093.d.html</link>
+            <guid>3175743</guid>
+            <pubDate>Thu, 13 Jul 2023 23:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【布伦特原油收在11周高位 供应因中断吃紧】作为全球油价基准的布伦特合约结算在11周高点，因供应中断导致实体市场吃紧。利比亚第二大油田Sharara在抗议声中关停，这个日产约25万桶的油田停产前，该国El Feel油田和尼日利亚Forcados石油码头也受阻。“市场最近从从供应过剩转为供不应求，所以这一事件愈加受到关注，” CIBC Private Wealth高级能源交易员Rebecca Babin说，“宏观背景的改善使得每桶原油都变得重要”。9月交割的布伦特合约上涨1.25美元，结算于每桶81.36美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvv7511904.d.html</link>
+            <guid>3175742</guid>
+            <pubDate>Thu, 13 Jul 2023 23:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【普京：向乌克兰提供武器只会加剧冲突】俄罗斯总统普京当地时间13日在接受媒体采访时表示，西方向乌克兰提供军事支持只会加剧冲突。普京表示，西方向乌克兰提供的现代化武器装备给俄方造成了一定损失，但没有对局势造成重大改变。普京强调，向乌克兰提供现代化武器只会加剧乌克兰局势和冲突，并会让一些人从中牟利。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvz5342499.d.html</link>
+            <guid>3175741</guid>
+            <pubDate>Thu, 13 Jul 2023 23:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今日重点关注的财经数据与事件：
+① 10:00 国新办举行上半年金融统计数据发布会
+② 17:00 欧元区5月季调后贸易帐
+③ 20:30 美国6月进口物价指数月率
+④ 22:00 美国7月一年期通胀率预期
+⑤ 22:00 美国7月密歇根大学消费者信心指数初值
+⑥ 次日01:00 美国至7月14日当周石油钻井总数]]></title>
+            <guid>3175740</guid>
+            <pubDate>Thu, 13 Jul 2023 23:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁央行将基准利率维持在7.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8564952.d.html</link>
+            <guid>3175739</guid>
+            <pubDate>Thu, 13 Jul 2023 23:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[全球最大白银ETF--iShares Silver Trust持仓较上日减少68.5吨，当前持仓量为14330.59吨。]]></title>
+            <guid>3175738</guid>
+            <pubDate>Thu, 13 Jul 2023 22:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京：乌克兰加入北约将威胁俄罗斯安全】俄罗斯总统普京当地时间13日在接受媒体采访时表示，乌克兰加入北约将对俄罗斯的安全造成威胁，这是俄罗斯发起特别军事行动的原因之一。普京说，乌克兰加入北约既不会增强乌克兰的安全，还会使世界变得更脆弱，加剧国际形势的紧张程度。普京还表示，俄罗斯不反对讨论对乌克兰的安全保障问题，但是必要前提条件是确保俄罗斯的安全。由于北约成员国在乌克兰加入北约问题上分歧明显，刚刚结束的北约维尔纽斯峰会并未向乌克兰发出入约邀请。乌克兰总统泽连斯基对此表示不满。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvz5341577.d.html</link>
+            <guid>3175737</guid>
+            <pubDate>Thu, 13 Jul 2023 22:56:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海二批次首轮土拍收官央企国企仍是拿地主力】随着宝山区大场镇W12-1301单元35-03地块被中国金茂收入囊中，历时3天的上海今年第二批次首轮土拍收官。在新的竞拍规则下，本次土拍15幅涉宅地块悉数成交，其中5幅地块底价成交，10幅地块封顶摇号，共“揽金”约405.48亿元。央企国企依然是本次土拍的拿地主力。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8564059.d.html</link>
+            <guid>3175736</guid>
+            <pubDate>Thu, 13 Jul 2023 22:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【环卫市场火热 龙头企业频获“亿元标”】 据不完全统计，7月以来，盈峰环境、玉禾田、福龙马、北控城市资源等公司纷纷披露中标信息，且多为上亿元的“大标”。环境司南统计数据显示，上半年，全国共开标各类环卫服务项目/标段10888个，项目成交年化总额430亿元、合同总额1171亿元。其中，年化总额再创新高，在2022年上半年的高位上增长7.5%，全年成交年化总额则有望首次突破千亿元大关。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzarcvx8563997.d.html</link>
+            <guid>3175735</guid>
+            <pubDate>Thu, 13 Jul 2023 22:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚三年期国债收益率下跌8.4个基点，在悉尼盘初报3.880%，媒体报道称，澳大利亚政府即将宣布新的澳洲联储主席人选。]]></title>
+            <guid>3175734</guid>
+            <pubDate>Thu, 13 Jul 2023 22:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上游原材料价格“大降温” 光伏细分产业链景气度持续向好】7月13日，一家光伏设备类企业向记者表示，二季度景气“更足了”，“光伏产业链各环节扩产仍在继续，我们二季度光伏设备发货量环比一季度大增。目前，订单已经排到了年底。”记者梳理发现，除去遭受跌价损失的企业外，不少光伏中下游企业二季度业绩环比一季度有所提升。华创证券认为，当前光伏产业链价格已松动，终端组件价格随之快速回落，刺激需求进一步放量。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8694516.d.html</link>
+            <guid>3175733</guid>
+            <pubDate>Thu, 13 Jul 2023 22:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行可能会将2023财年的通胀预测上调至2%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5471527.d.html</link>
+            <guid>3175732</guid>
+            <pubDate>Thu, 13 Jul 2023 22:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世卫组织：阿斯巴甜可能致癌，一天喝9罐汽水会超安全限制】世界卫生组织把阿斯巴甜列为可能的致癌物，但表示这一认定是基于有限的证据，需要更多的研究。世卫组织还表示，在每1公斤体重每天摄入40毫克阿斯巴甜的限度内是安全的，普通成年人每天必须喝9到14罐含阿斯巴甜的苏打水才会超过这一安全限制，并可能面临健康风险。阿斯巴甜通常用于健怡可乐、百事零糖和其他汽水中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5471427.d.html</link>
+            <guid>3175731</guid>
+            <pubDate>Thu, 13 Jul 2023 22:49:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：尚不清楚通胀改善是否会持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5471308.d.html</link>
+            <guid>3175730</guid>
+            <pubDate>Thu, 13 Jul 2023 22:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：需要保持紧缩政策“一段时间”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqf3757442.d.html</link>
+            <guid>3175729</guid>
+            <pubDate>Thu, 13 Jul 2023 22:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：就业市场和经济的韧性为美联储提供了进一步加息的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8694144.d.html</link>
+            <guid>3175728</guid>
+            <pubDate>Thu, 13 Jul 2023 22:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：过去大部分加息已经对经济产生了影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8694133.d.html</link>
+            <guid>3175727</guid>
+            <pubDate>Thu, 13 Jul 2023 22:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：抗击通胀仍是主要目标，美联储将会成功。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8694124.d.html</link>
+            <guid>3175726</guid>
+            <pubDate>Thu, 13 Jul 2023 22:48:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：货币政策的效果正在更快地传导到经济中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8694104.d.html</link>
+            <guid>3175725</guid>
+            <pubDate>Thu, 13 Jul 2023 22:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：尽管就业市场有所放缓，但仍然非常强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8694037.d.html</link>
+            <guid>3175724</guid>
+            <pubDate>Thu, 13 Jul 2023 22:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：银行业强大且具有韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5471171.d.html</link>
+            <guid>3175723</guid>
+            <pubDate>Thu, 13 Jul 2023 22:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：以前曾出现过虚假的通胀回落的曙光。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5471155.d.html</link>
+            <guid>3175722</guid>
+            <pubDate>Thu, 13 Jul 2023 22:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：美联储今年可能需要再加息两次，每次加息25个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8693901.d.html</link>
+            <guid>3175721</guid>
+            <pubDate>Thu, 13 Jul 2023 22:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：越来越有信心银行压力不会拖累经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5471022.d.html</link>
+            <guid>3175720</guid>
+            <pubDate>Thu, 13 Jul 2023 22:46:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事沃勒：支持在7月FOMC会议上加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5471011.d.html</link>
+            <guid>3175719</guid>
+            <pubDate>Thu, 13 Jul 2023 22:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“一降再降” 信贷价格竞争激烈 银行苦练让利与盈利“平衡术”】近期在成都等多地调研获悉，上半年多家银行信贷投放总量创新高，甚至超额完成投放计划。但信贷增量的同时出现部分银行不惜亏本让利、“以量补价”现象。对于上述问题，多位受访银行业人士认为，通过超低价争揽客户并不可取。以低利率作为单一手段揽客的时代已经过去，银行应结合企业多元化的金融需求，提升综合金融服务能力、提高自身贷款定价议价能力，如此才能找准让利与盈利的平衡点，实现与实体经济的良性互动。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8693779.d.html</link>
+            <guid>3175718</guid>
+            <pubDate>Thu, 13 Jul 2023 22:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以先进制造业为引领 工业经济 将提质跑好“下半场”】今年上半年，我国工业经济平稳运行，总体呈现工业生产边际加快、装备制造业支撑力凸显、工业高端化智能化绿色化发展趋势明显等特点。受访专家认为，下半年随着创新驱动发展战略深入实施、产业升级扎实推进，新动能将较快成长，工业经济将持续健康发展，以先进制造业为引领跑好“下半场”。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8692510.d.html</link>
+            <guid>3175717</guid>
+            <pubDate>Thu, 13 Jul 2023 22:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织表示，没有证据表明适量摄入阿斯巴甜会造成伤害，敦促消费者选择不含糖和甜味剂的产品。]]></title>
+            <guid>3175716</guid>
+            <pubDate>Thu, 13 Jul 2023 22:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家险企理赔件数和金额明显提升】保险公司2023年理赔半年报陆续出炉，据不完全统计，截至目前，已有10余家保险公司披露了2023年理赔半年报。数据显示，2023年上半年，部分保险公司的理赔件数和理赔金额较去年同期有所增长，部分险企的日均理赔金额超过亿元。展望未来，业内人士认为，险企可通过技术创新、与相关方加强合作等方式，进一步提升用户体验。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5468731.d.html</link>
+            <guid>3175715</guid>
+            <pubDate>Thu, 13 Jul 2023 22:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织的癌症研究机构（IARC）表示，阿斯巴甜是可能的致癌物。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8691291.d.html</link>
+            <guid>3175714</guid>
+            <pubDate>Thu, 13 Jul 2023 22:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【提醒：日内请重点关注（以下均为北京时间）】① 06:45 美联储理事沃勒就经济前景讲话；② 美股盘前 摩根大通、富国银行、花旗集团、贝莱德集团、道富银行发布业绩报告；③ 20:30 美国6月进口价格指数；④ 21:10 美国芝加哥联储主席Goolsbee讲话讲话；⑤ 22:00 美国7月密歇根大学消费者信心指数初值；⑥ 次日09:30 国家统计局公布70个大中城市住宅销售价格月度报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5468434.d.html</link>
+            <guid>3175713</guid>
+            <pubDate>Thu, 13 Jul 2023 22:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行股权拍卖频遇冷，惊现1元起拍价】7月13日，在多个法拍平台查询发现，目前部分银行的上万份股权仅以1元起拍价进行拍卖，其中包括江西新建农商行、四川甘孜农商行、四川宣汉农商行、鞍山银行等。今年以来，中小银行股权拍卖情况整体不尽如人意。业内人士分析，中小银行股权遭受冷遇，与投资者对银行的盈利预期有关，随着经济稳步复苏，部分中小银行资产质量改善，预计优质金融资产将进一步得到投资者青睐。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8691084.d.html</link>
+            <guid>3175712</guid>
+            <pubDate>Thu, 13 Jul 2023 22:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【推广力度加大、助力消费回暖，商业银行下起数字人民币“红包雨”】7月以来，多家银行推出数字人民币红包活动，活动形式包括绑定抽奖、推荐拉新等。业内人士认为，数字人民币各类推广活动，在向公众普及数字人民币的同时，也推动了消费增长，为实体经济带来更多支持。招联首席研究员董希淼认为，一方面要加强场景建设，另一方面要加大数字人民币相关活动的宣传力度。展望未来数字人民币的推广和应用，中央财经大学绿色金融国际研究院建议，加速数字人民币在绿色金融领域的探索。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5467565.d.html</link>
+            <guid>3175711</guid>
+            <pubDate>Thu, 13 Jul 2023 22:25:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“债牛”能否延续存疑 多只债基遭赎回】近期，部分基金公司发布的净值精度调整公告和二季报显现，多只债券基金遭遇大额赎回。业内人士普遍认为，政策预期和止盈情绪是此轮赎回潮的主要原因。短期来看，债券市场受到预期因素扰动，呈现窄幅震荡格局；中长期来看，后续稳增长政策的推出情况将成为市场聚焦所在。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8689962.d.html</link>
+            <guid>3175710</guid>
+            <pubDate>Thu, 13 Jul 2023 22:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【头部量化私募持续发力策略创新，业内：投资者应对优劣势和超额收益有理性认识和合理预期】今年以来A股市场持续震荡，个股的极致分化表现进一步推升了市场的赚钱难度。作为头部量化私募重点研发推出、个股筛选更灵活的全市场量化选股策略，也交出了今年上半年的成绩单。整体来看，上半年该策略基本实现“开门红”。不过，业内人士提示，对于该策略的优劣势和超额收益情况，投资者应当有理性认识和合理预期。整体而言，在行业竞争加剧、投资者需求趋于丰富的背景下，未来量化策略的研发创新预计将继续向广度和深度扩展。（中证报）]]></title>
+            <guid>3175709</guid>
+            <pubDate>Thu, 13 Jul 2023 22:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宽基赛道同质化竞争激烈，部分ETF清盘】近期，永赢沪深300ETF成为首只遭遇清盘的沪深300ETF产品。作为主流宽基指数，沪深300目前挂钩的ETF产品多达19只（不含指数增强ETF），产品规模首尾相差在700亿元以上。对于主流宽基ETF同质化竞争加剧的现象，业内人士分析，头部宽基ETF成立时间较早，凭借着多年的丰富管理经验，吸引了更多投资者，规模方面具备较为明显的优势；而成立时间较晚的宽基ETF，由于规模增长乏力，基金公司很难持续投入资源，基于对经营业绩的考虑，将此类ETF产品清盘，属于正常的市场化行为。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpz8689531.d.html</link>
+            <guid>3175708</guid>
+            <pubDate>Thu, 13 Jul 2023 22:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大将重启向土耳其出口无人机部件的谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqc5466355.d.html</link>
+            <guid>3175707</guid>
+            <pubDate>Thu, 13 Jul 2023 22:20:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[昨日今晨重要新闻汇总（7月14日）国内新闻：1. 七部门联合公布《生成式人工智能服务管理暂行办法》：对生成式人工智能服务实行包容审慎和分类分级监管。2. 国家能源局：6月全社会用电量7751亿千瓦时，同比增长3.9%。3. 商务部：中方对美商务部长访华持开放和欢迎态度，正与美方沟通。4. 淘宝天猫启动重大人力体系改革：取消P序列，P8以上改为组织任命。5. 海关总署：上半年我国货物贸易进出口同比增长2.1%，规模创历史同期新高。6. 王毅出席东盟与中日韩（10+3）外长会；王毅会见俄罗斯外长拉夫罗夫。7. 王毅与布林肯在印度尼西亚雅加达举行的东盟外长会议期间会面。这是两人一个月内的第二次会晤。国际新闻：1. 美联储-鹰王布拉德即日卸任圣路易斯联储主席，即不再出席本月的议息会议，将出任商学院院长、戴利：预计再加息1-2次，当通胀率接近2%时，希望开始朝着中性利率迈进。2. 乌官员：已获得美国提供的集束弹药。3. 美国监管机构FTC今宣布正式调查ChatGPT。4. 欧洲理事会主席：欧盟将允许进口日本福岛地区的产品。5. 澳大利亚方面将不会再次任命洛威为澳洲联储行长。6. 加拿大西海岸港口罢工结束，但供应链需要数周时间恢复。7. 因商业房地产业务减记因素，高盛或将发布多年来最差的季报。8. 因当地抗议活动等因素，利比亚总产量合计37万桶/日的两块油田供应受限。9. IEA月报、欧佩克月报双双下调今年全球石油需求增速预期，分别至220万桶/日和244万桶/日。10. 俄罗斯副总理诺瓦克：俄罗斯将专注于在8月份削减石油出口，维持2023年石油产量预测为5.15亿吨。11. 美元指数时隔14个月首次跌破100关口、美债2Y单日下跌11BP、纳指隔夜收涨1.5%，中概股连续5日走强。12. 美国6月PPI数据下滑，同比录得0.1%，为三年来最低。美国预算赤字同比飙升170%，偿债成本达6520亿美元。13. 美国法官裁定瑞波币并非一定属于证券，引发加密货币狂潮，瑞波币大涨超70%，Coinbase涨超25%，创近一年新高；另据英媒：欧洲首只比特币ETF预计将于本月公开上市。]]></title>
+            <guid>3175706</guid>
+            <pubDate>Thu, 13 Jul 2023 22:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【米价“火上浇油” 全球最大的大米出口国印度考虑禁止80%出口】印度6月高涨的通胀数据出炉后，有媒体称该国正在考虑禁止绝大多数大米的出口。印度约占全球大米贸易的40%，向100多个国家供应大米。当前受厄尔尼诺影响，亚洲大米价格处于两年半最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxpx7638884.d.html</link>
+            <guid>3175705</guid>
+            <pubDate>Thu, 13 Jul 2023 22:14:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【资本市场法治建设不断深化，“零容忍”步入新阶段】7月9日，《私募投资基金监督管理条例》正式发布，夯实了私募投资基金法治基础，监管基础性法规制度进一步完善。7月12日，因涉嫌信息披露违法违规，ST华铁、东方园林、*ST日海等近10家上市公司同一天收到立案告知书，释放出执法震慑力进一步强化的高压信号。专家表示，完善资本市场制度规则体系，以“零容忍”态度打击各类违法违规行为，加快构建全方位、立体式追责机制成为今年以来资本市场法治建设的看点，资本市场“零容忍”正步入凝聚合力新阶段。（中证报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqxqf3754626.d.html</link>
@@ -263,320 +589,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8808683.d.html</link>
             <guid>3175659</guid>
             <pubDate>Thu, 13 Jul 2023 20:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国大类资产ETF几乎全线收涨】大豆基金涨3.01%领跑，美国布伦特油价基金涨1.73%，纳指100 ETF涨1.70%，新兴市场ETF涨1.30%，美国国债20+年ETF涨1.05%，美国国债7-20年ETF、罗素2000指数ETF、欧元做多、标普500 ETF、美国投资级公司债ETF、巴克莱美国可转债ETF、农产品基金、美国房地产ETF、标普500价值指数ETF、美国高收益债ETF、恐慌指数做多以及通胀债券指数ETF均涨超0.5%。而唯一下跌的品种是做多美元美指数，跌幅0.68%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5585814.d.html</link>
-            <guid>3175658</guid>
-            <pubDate>Thu, 13 Jul 2023 20:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普500指数的11个板块普遍收涨】周四（7月13日），标普500指数高开高走，收盘前第15分钟一度涨至4517.38点，逼近2022年4月5日收盘位4525.12点和当天顶部4593.45点，随后略微回吐涨幅。电信服务板块涨2.32%，信息技术/科技板块涨1.49%，可选消费板块涨1.08%，原材料板块涨0.79%，保健板块则跌不足0.1%，能源板块跌0.45%表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5585679.d.html</link>
-            <guid>3175657</guid>
-            <pubDate>Thu, 13 Jul 2023 20:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肉鸡、生猪养殖景气度“冰火两重天” 生猪养殖利润连续7个月亏损】肉鸡价格的上行，对肉鸡养殖利润的促进作用已经显现。数据显示，目前发布上半年业绩预告的9家肉鸡养殖上市公司中，仙坛股份预计净利润同比增长幅度最高，同比增长1099.7%至1123.46%。公司就此表示，报告期内随着经济逐步回暖，终端消费需求提升，白羽肉鸡行业景气度同比上升。公司鸡肉产品销售价格同比上涨，利润也随之增加。相对于肉鸡价格，中金公司最新研报显示，今年上半年以来，我国生猪价格走势持续低迷，截至目前，养殖利润已连续7个月亏损。在此背景下，生猪养殖公司的业绩状况，以及未来如何降本增效成了投资者关注的热点。此前，沪深两市的生猪养殖相关上市公司已发布了前6个月的销售数据情况，从这些销售数据中可以看出，生猪价格的持续下跌，让企业承受着较大的压力。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5585560.d.html</link>
-            <guid>3175656</guid>
-            <pubDate>Thu, 13 Jul 2023 20:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股行业ETF多数收涨】网络股指数ETF上涨2.31%，银行业ETF涨1.72%，区域银行ETF涨1.71%，全球科技股ETF涨1.48%，科技行业ETF涨1.30%，可选消费ETF涨0.94%。而全球航空业ETF跌0.95%，能源业ETF跌0.38%。]]></title>
-            <guid>3175655</guid>
-            <pubDate>Thu, 13 Jul 2023 20:21:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪将福特汽车评级由Ba2上调至Ba1，前景展望为稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5585399.d.html</link>
-            <guid>3175654</guid>
-            <pubDate>Thu, 13 Jul 2023 20:18:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通证券股份有限公司分析师Lyndon Fagan：将必和必拓集团评级上调至超配（之前持中性评级），目标价47澳元，即上涨5.1%。]]></title>
-            <guid>3175653</guid>
-            <pubDate>Thu, 13 Jul 2023 20:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[已破产的加密货币交易所FTX周三（7月12日）对其此前收购的一家瑞士企业的原经理团队提起诉讼，希望追回至少3.23亿美元，来偿还债权人和客户。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8808159.d.html</link>
-            <guid>3175652</guid>
-            <pubDate>Thu, 13 Jul 2023 20:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【供应端接连受限，利比亚规模第二大油田周五将完全停产】综合外媒报道，由于抗议活动，利比亚第二大油田正处于关闭过程中。利比亚沙拉拉油田的两名工程师表示，该油田的石油生产于周四逐渐停止，到周五将完全停产。“到目前为止，还没有抗议者进入现场，”工程师们补充说。沙拉拉油田是利比亚最大的油田之一，日产量约为30万桶，由于一些政治原因和当地抗议者的要求，该油田经常成为袭击目标。此外，利比亚产量为7万桶/日的El Feel油田也遭到了抗议者的袭击。同时，非洲最大的石油生产国尼日利亚也出现了石油供应中断，该国的Forcados石油终端已被关闭，以便潜水员检查可能发生的泄漏。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5585241.d.html</link>
-            <guid>3175651</guid>
-            <pubDate>Thu, 13 Jul 2023 20:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【叙利亚政府决定延长巴布哈瓦口岸跨境点6个月】叙利亚常驻联合国代表团当地时间7月13日下午确认，叙利亚政府致信联合国秘书长及安理会，单方面决定将此前安理会决议草案中遭否决的巴布哈瓦（Bab Al-Hawa）边境口岸跨境援助时间自7月13日起延长6个月。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthi3879924.d.html</link>
-            <guid>3175650</guid>
-            <pubDate>Thu, 13 Jul 2023 20:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯指数7月13日（周四）收盘上涨46.86点，涨幅0.14%，报34394.29点；标普500指数7月13日（周四）收盘上涨37.06点，涨幅0.83%，报4509.22点；纳斯达克综合指数7月13日（周四）收盘上涨219.61点，涨幅1.58%，报14138.57点。]]></title>
-            <guid>3175649</guid>
-            <pubDate>Thu, 13 Jul 2023 20:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase(COIN.O)美股盘后上涨2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5584938.d.html</link>
-            <guid>3175648</guid>
-            <pubDate>Thu, 13 Jul 2023 20:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Coinbase(COIN.O)将重新启用在瑞波网络上的瑞波币交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5584883.d.html</link>
-            <guid>3175647</guid>
-            <pubDate>Thu, 13 Jul 2023 20:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase（COIN）收涨24.49%，创该公司美国IPO以来最大单日涨幅。]]></title>
-            <guid>3175646</guid>
-            <pubDate>Thu, 13 Jul 2023 20:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电动汽车生产商Nikola收涨超60%，创2020年6月份以来最大单日涨幅】 电动汽车生产商Nikola收涨60.87%，创2020年6月份以来最大单日涨幅。BayoTech同意，未来五年采购多达50辆Nikola Class 8燃料电池电动汽车，作为回报，Nikola将接收由对方（BayoTach）生产的低碳氢能源车。战略供应协议包括，Nikola Class 8氢能源燃料电池电动卡车、BayoTech HyFill大型氢能源运输拖挂车、以及BayoTech的氢能源产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5584868.d.html</link>
-            <guid>3175645</guid>
-            <pubDate>Thu, 13 Jul 2023 20:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卫星通讯服务商Viasat收跌28%，创该公司美国IPO以来最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8807533.d.html</link>
-            <guid>3175644</guid>
-            <pubDate>Thu, 13 Jul 2023 20:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拼多多初步收涨约7.5%，连续第二个交易日领跑纳斯达克100指数的成分股，该股指初步收涨1.7%，Zscaler涨5.2%，京东也涨超5%，英伟达、谷歌A、迈威尔科技涨超4%，亚马逊涨2.6%，Illumina则跌1.6%，药房股WBA跌1.8%，Fastenal跌3.3%。微软、思科、赛富时、3M涨超1%，带动道指微涨约50点，雪佛龙则跌1.2%。标普电信板块涨超2%，科技和可选消费板块涨超1%，能源板块跌0.3%。]]></title>
-            <guid>3175643</guid>
-            <pubDate>Thu, 13 Jul 2023 20:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热门中概股多数上涨 京东涨超5%】热门中概股多数上涨，京东、哔哩哔哩涨超5%，唯品会涨超3%，阿里巴巴、富途控股、百度、微博、网易涨超2%，腾讯音乐涨超1%，爱奇艺小幅上涨。小鹏汽车跌超7%，蔚来跌超3%，理想汽车跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthi3879529.d.html</link>
-            <guid>3175642</guid>
-            <pubDate>Thu, 13 Jul 2023 20:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大指数集体收涨，日线周期4连涨，纳指涨1.58%，标普500指数涨0.85%，道指涨0.14%。]]></title>
-            <guid>3175641</guid>
-            <pubDate>Thu, 13 Jul 2023 20:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员曼钦：反对Juile Su被任命为美国劳工部部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8807352.d.html</link>
-            <guid>3175640</guid>
-            <pubDate>Thu, 13 Jul 2023 19:59:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热浪来袭 超1亿美国人面临极端高温】美国部分地区连日来遭遇热浪侵袭。西南部亚利桑那州部分地区最高气温连续多天超过43摄氏度。美国国家气象局12日称，全美有超过1.11亿人处于极端高温预警之下。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5584406.d.html</link>
-            <guid>3175639</guid>
-            <pubDate>Thu, 13 Jul 2023 19:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【11家上市车企无一达成全年50%销量目标 多家新势力车企销量完成率不足三成】进入7月份，车市上半年的竞逐落下帷幕。中国汽车工业协会发布的数据显示，2023年上半年汽车产销量分别为1324.8万辆和1323.9万辆，同比分别增长9.3%和9.8%。记者梳理了16家以乘用车业务为主的A股和港股上市车企有关公告，数据显示，2023年上半年，这16家上市车企中有10家销量实现同比增长，占比62.5%。其中，比亚迪上半年销量达到125.56万辆，已达到2022年全年销量（186.85万辆）的近七成，但或受2023年300万辆年度销量目标高企的影响，仍未实现过半的销量目标完成率。销量增幅方面，增幅最大的是理想汽车，同比增长130%，上半年销量冲高至13.91万辆。而上汽集团、东风集团、赛力斯等6家车企销量下滑，跌幅最大者高达39.93%。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthi3878921.d.html</link>
-            <guid>3175638</guid>
-            <pubDate>Thu, 13 Jul 2023 19:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国投资公司协会（ICI）：截至7月12日当周，货币市场资产出现204亿美元资金外流。]]></title>
-            <guid>3175637</guid>
-            <pubDate>Thu, 13 Jul 2023 19:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股尾盘继续走高，标普500指数涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8804751.d.html</link>
-            <guid>3175636</guid>
-            <pubDate>Thu, 13 Jul 2023 19:45:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：叙利亚政府告知联合国，可以继续使用巴布尔哈瓦边境口岸6个月，以便从土耳其向叙利亚运送援助物资。]]></title>
-            <guid>3175635</guid>
-            <pubDate>Thu, 13 Jul 2023 19:39:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【短端美债收益率普遍跌超10个基点，投资者对美联储2024年降息的预期升温】周四（7月13日）纽约尾盘，美国10年期基准国债收益率下跌9.59个基点，报3.7614%，盘中交投于3.8634%-3.7556%区间。两年期美债收益率跌13.27个基点，报4.6135%，盘中交投于4.7356%-4.6051%区间。三年期美债收益率跌14.84个基点，五年期美债收益率跌13.49个基点，七年期美债收益率跌11.44个基点。20年期美债收益率跌6.15个基点，30年期美债收益率跌4.63个基点。三个月期国库券/10年期美债收益率利差跌9.384个基点，报-163.012个基点。02/10年期美债收益率利差涨3.452个基点，报-85.657个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqtfz7762332.d.html</link>
-            <guid>3175634</guid>
-            <pubDate>Thu, 13 Jul 2023 19:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基金分析公司理柏（Lipper）：最近一周美国贷款基金的资金流出1.37亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8803232.d.html</link>
-            <guid>3175633</guid>
-            <pubDate>Thu, 13 Jul 2023 19:35:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大西海岸港口罢工结束，但供应链需要数周时间恢复据】加拿大西海岸港口的罢工结束，工会和港口所有者都接受了联邦调解人提出的协议。但要消除近两周的罢工对供应链造成的损害需要时间。加拿大劳工部长和交通部长发表声明，宣布已经达成协议，但这次供应冲击的规模非常大。此次加拿大西海岸港口的13天罢工造成的拥堵将产生持久影响。恢复生产需要数周时间才能恢复效率。如果把船只进港、卸货和集装箱装船的等待时间加起来，美国货物的总延误时间可能从一个月延长到至少两个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5579698.d.html</link>
-            <guid>3175632</guid>
-            <pubDate>Thu, 13 Jul 2023 19:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芝加哥玉米期货涨超3%重新站上5美元关口，巴西收成逊于预期】周四（7月13日）纽约尾盘，谷物分类指数涨2.58%，报44.9662点。CBOT玉米期货主力合约涨3.46%，报5.00-1/2美元/蒲式耳。CBOT小麦期货涨1.19%，报6.40-1/4美元/蒲式耳。CBOT大豆期货涨1.86%，报15.16-1/4美元/蒲式耳，豆粕期货涨2.46%，豆油期货涨3.15%。ICE原糖期货涨0.50%，ICE白糖期货涨1.02%。ICE阿拉比卡咖啡期货涨1.23%，咖啡“C”期货涨0.96%。ICE棉花期货涨0.16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8802192.d.html</link>
-            <guid>3175631</guid>
-            <pubDate>Thu, 13 Jul 2023 19:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特：将扩大创作者的盈利机会，包括与广告收入分享相关的盈利方式；创作者可以从对其帖子的回复中获得广告收入分成。]]></title>
-            <guid>3175630</guid>
-            <pubDate>Thu, 13 Jul 2023 19:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊的网页服务部门组建了新的人工智能团队。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5578988.d.html</link>
-            <guid>3175629</guid>
-            <pubDate>Thu, 13 Jul 2023 19:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[保时捷美国公司前高管可能加盟新能源汽车制裁商“特斯拉劲敌”Rivian。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5578956.d.html</link>
-            <guid>3175628</guid>
-            <pubDate>Thu, 13 Jul 2023 19:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典商业地产公司北欧Samhalls建设公司集团（SBBB.SS）：公司签署多份约束性协议，关闭三季度原定计划。]]></title>
-            <guid>3175627</guid>
-            <pubDate>Thu, 13 Jul 2023 19:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内涨幅达2.0%，报77.28美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8801760.d.html</link>
-            <guid>3175626</guid>
-            <pubDate>Thu, 13 Jul 2023 19:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国法官裁定瑞波币不一定是证券，再度引发加密货币狂潮】美国当地时间周四，纽约南区的一名法官裁定瑞波币“从表面上看不一定是证券”，该裁决或有助于将加密货币置于证券类型的监管之外。受此影响，瑞波公司的代币瑞波币飙涨超70%，同时带动以太坊大涨超6%，突破2000美元关口，比特币上涨3.5%，其他小型加密货币及山寨币也纷纷走高。加密货币交易所Coinbase(COIN.O)日内大涨超21%，创近一年新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5577913.d.html</link>
-            <guid>3175625</guid>
-            <pubDate>Thu, 13 Jul 2023 19:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水泥板块上半年业绩显疲态 业界预判市场供需关系短期难以扭转】近日，多家水泥板块上市公司陆续披露了中报预告，从整体情况来看，上半年水泥赛道业绩并不乐观。数据显示，水泥板块（按申万行业分类）已披露上半年业绩预告的6家上市公司中，有4家报告期内归母净利润同比下滑。卓创资讯水泥分析师侯林林表示，今年以来，受房地产下行、新开工项目较少等因素影响，水泥产业的整体需求基础比较薄弱，导致水泥产业呈现出“旺季不旺，淡季更淡”的状态，“下半年来看，据历史数据统计，水泥价格在历年9月份至11月份大概率上涨，今年估计也不例外，但是预计反弹空间较小，主要还是看需求释放情况。” (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5577668.d.html</link>
-            <guid>3175624</guid>
-            <pubDate>Thu, 13 Jul 2023 19:19:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国演员工会表示其全国委员会下令罢工，演员罢工给陷入困境的好莱坞制片厂带来新的打击。]]></title>
-            <guid>3175623</guid>
-            <pubDate>Thu, 13 Jul 2023 19:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生指数主连夜盘收涨0.97%，报19584.00点。恒生科技指数主连夜盘收涨1.06%，报4289.00点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqtfz7761018.d.html</link>
-            <guid>3175622</guid>
-            <pubDate>Thu, 13 Jul 2023 19:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Coinbase涨幅扩大至21%】加密货币交易所Coinbase涨幅扩大至21%，升破100美元关口，并创下自2022年8月份以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5576734.d.html</link>
-            <guid>3175621</guid>
-            <pubDate>Thu, 13 Jul 2023 19:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部：美国不认为瓦格纳部队在乌克兰有参与任何重大军事行动的能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqtfz7760921.d.html</link>
-            <guid>3175620</guid>
-            <pubDate>Thu, 13 Jul 2023 19:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国预算赤字同比飙升170%，新的两党争斗或将逼近】美国2023财政年度前9个月，美国政府偿债成本飙升25%，达到6520亿美元，导致预算赤字大幅扩大。美国财政部周四公布的数据显示，截至6月份的9个月里，联邦赤字达到1.39万亿美元，较上年同期增长约170%。不断扩大的赤字可能会令共和党议员加大施压，削减联邦开支。虽然今年夏天早些时候控制众议院的共和党与拜登政府达成了一项协议，暂停了债务上限，但在10月1日开始的2024财年拨款问题上，一场新的争斗正在逼近。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8798927.d.html</link>
-            <guid>3175619</guid>
-            <pubDate>Thu, 13 Jul 2023 19:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷比索兑美元在黑市中贬值至512的新历史低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5575532.d.html</link>
-            <guid>3175618</guid>
-            <pubDate>Thu, 13 Jul 2023 19:06:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元北京时间03:00收报7.1485，较上一交易日夜盘收盘涨165点。成交量496.89亿美元。]]></title>
-            <guid>3175617</guid>
-            <pubDate>Thu, 13 Jul 2023 19:03:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【30家汽车零部件企业上半年业绩预喜 出口需求旺盛是主因】A股上市公司2023年半年度业绩预告正在有序披露，汽车零部件产业“多点开花”，整体成绩亮眼。数据显示，截至7月13日记者发稿，A股共33家汽车零部件企业披露了2023年半年度业绩预告。其中，2家预亏，1家预减，其余30家则预计扭亏、续盈、略增、预增，预喜公司合计占已披露半年度业绩预告公司的90.91%。订单增长、海外需求旺盛是大部分汽车零部件企业业绩增长的主因。展望下半年，多家零部件企业披露“在手订单饱满”。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8797135.d.html</link>
-            <guid>3175616</guid>
-            <pubDate>Thu, 13 Jul 2023 19:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两名油田工程师透露，利比亚最大的油田沙拉拉（Sharara）在周四逐步停产，并将在周五完全停产。]]></title>
-            <guid>3175615</guid>
-            <pubDate>Thu, 13 Jul 2023 18:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊官宣年中大促刷新有史以来最高单日销售纪录】当地时间周四，美国电商巨头亚马逊兴奋地在官网宣布：在本周的Prime会员日大促中，公司创下了有史以来最高单日销售纪录。亚马逊在公告中透露，在7月11日活动开始后的24个小时内，创下了公司自创立以来的销售历史记录。在整个两天的活动中，全球亚马逊用户总共下单购买了3.75亿件商品，并因此节省下了25亿美元。作为对比，去年Prime会员日总共卖出超过3亿件商品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8796534.d.html</link>
-            <guid>3175614</guid>
-            <pubDate>Thu, 13 Jul 2023 18:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普：预计美联储将暂停加息至明年6月 届时将开始降息】评级机构标普称，目前预计美联储将暂停加息，直到明年6月，我们预计届时美联储将开始降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthi3875897.d.html</link>
-            <guid>3175613</guid>
-            <pubDate>Thu, 13 Jul 2023 18:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部官员：美国的集束弹现在已经进入乌克兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqtfz7759847.d.html</link>
-            <guid>3175612</guid>
-            <pubDate>Thu, 13 Jul 2023 18:54:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会(FTC)寻求紧急延期以推迟微软和动视暴雪(ATVI.O)交易案的结案。]]></title>
-            <guid>3175611</guid>
-            <pubDate>Thu, 13 Jul 2023 18:54:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国民众健康水平恶化，带来每年150亿英镑额外财政压力】英国预算责任办公室在一份报告中指出，由于英国民众健康状况恶化，该国每年将因医疗福利支出增加和税收损失，导致150亿英镑的额外财政负担。这一报告也突显了该国政府采取全面行动应对健康危机紧迫性。报告同时指出，在疫情影响期间，政府在医疗福利领域的福利支出变得更加慷慨，对相关费用申请的检查力度也更加宽松，这导致该国工作年龄段人口因此申请了更多医疗相关福利。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5573159.d.html</link>
-            <guid>3175610</guid>
-            <pubDate>Thu, 13 Jul 2023 18:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 8月原油期货收涨1.14美元，涨幅1.50%，报76.89美元/桶。NYMEX 8月天然气期货收跌3.31%，报2.5450美元/百万英热单位。]]></title>
-            <guid>3175609</guid>
-            <pubDate>Thu, 13 Jul 2023 18:49:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上期所原油期货2308合约夜盘收涨1.69%，报588.10元人民币/桶。沪金夜盘收涨0.02%，沪银收涨2.20%。]]></title>
-            <guid>3175608</guid>
-            <pubDate>Thu, 13 Jul 2023 18:48:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油站上77美元/桶，为4月26日以来首次，日内涨1.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8794936.d.html</link>
-            <guid>3175607</guid>
-            <pubDate>Thu, 13 Jul 2023 18:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：俄罗斯不会屈服于西方的技术封锁】俄罗斯总统普京13日在莫斯科举行的首届“计算与通信·量子世界”未来技术论坛上发表讲话说，俄罗斯不会屈服于西方的技术封锁，“只会按照自己的方式一路向前”。普京表示，西方国家试图维持俄罗斯对外国技术的依赖，然后对俄进行技术封锁，但西方所期待的失败在俄罗斯并未发生。普京说，俄罗斯应在关系到国家发展的关键领域拥有自主能力，有必要进一步发展本国技术领域和工业，创建俄数字平台和计算系统。他提议在一年内制定关于2030年前构建“数据经济”的新国家项目，并要求在今年9月1日前批准一个关于发展无人机的国家项目。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8790277.d.html</link>
-            <guid>3175606</guid>
-            <pubDate>Thu, 13 Jul 2023 18:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大元兑美元升至10个月高位，报1.3106。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthf5567374.d.html</link>
-            <guid>3175605</guid>
-            <pubDate>Thu, 13 Jul 2023 18:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼日利亚方面对被停职的央行行长Emefiele提起诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzaqthc8788670.d.html</link>
-            <guid>3175604</guid>
-            <pubDate>Thu, 13 Jul 2023 18:18:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

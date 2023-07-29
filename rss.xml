@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 Jul 2023 20:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 21:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【先锋集团经济学家并不相信软着陆的说法】股市上涨、通胀降温以及好于预期的经济数据正在促使更多投资者押注美联储能够实现“软着陆”，即消费者价格正常化而不会引发衰退。先锋集团的经济学家并不买账。他表示，失业率上升了至少30或40个基点，因此明年将超过4%。从历史上看，这100%与经济衰退有关。 现在，不一定是严重程度，但这肯定是衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzeh0507593.d.html</link>
+            <guid>3192620</guid>
+            <pubDate>Sat, 29 Jul 2023 21:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[普京：可能会在周三与土耳其总统埃尔多安通电话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzee3727653.d.html</link>
+            <guid>3192619</guid>
+            <pubDate>Sat, 29 Jul 2023 20:30:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国资管新规 让华尔街为大规模贷款紧缩头疼】根据对银行家的最新调查，美国和欧洲的信贷紧缩终于来临了。周三美联储宣布新一轮加息后，鲍威尔表示，周一的高级贷款官员民意调查（通常会对80多家贷款机构进行民意调查）将显示贷款标准收紧。下降幅度将受到密切关注。再加上美国新的监管规定，将迫使大型银行将其资本缓冲提高数十亿美元，这可以证明人们期待已久的贷款条件收紧正在上演。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzee3722647.d.html</link>
@@ -606,17 +618,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekcys0923947.d.html</link>
             <guid>3192521</guid>
             <pubDate>Sat, 29 Jul 2023 10:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TCL中环公示单晶硅片价格】7月29日，TCL中环公示单晶硅片价格，较上次上调3.5%-5.2%不等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekcys0923756.d.html</link>
-            <guid>3192520</guid>
-            <pubDate>Sat, 29 Jul 2023 10:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟外交与安全政策高级代表博雷利：欧盟不承认尼日尔政变军人政权】 据法新社最新报道，欧盟外交与安全政策高级代表博雷利29日在一份声明中称，欧盟不承认尼日尔政变军人的政权，并决定无限期暂停与尼日尔在安全领域的合作。法新社28日早些时候报道称，尼日尔国家电视台宣布，该国“新领导人”为将军阿卜杜拉赫曼 奇亚尼。尼日尔国家电视台还播放阿卜杜拉赫曼 奇亚尼当天发表的讲话。法国外交部28日称，法国不承认夺取政权的尼日尔“新领导人”，法方认为，尼日尔总统巴祖姆仍是该国唯一领导人。]]></title>
-            <guid>3192519</guid>
-            <pubDate>Sat, 29 Jul 2023 10:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

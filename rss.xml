@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 29 Jul 2023 19:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 20:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国资管新规 让华尔街为大规模贷款紧缩头疼】根据对银行家的最新调查，美国和欧洲的信贷紧缩终于来临了。周三美联储宣布新一轮加息后，鲍威尔表示，周一的高级贷款官员民意调查（通常会对80多家贷款机构进行民意调查）将显示贷款标准收紧。下降幅度将受到密切关注。再加上美国新的监管规定，将迫使大型银行将其资本缓冲提高数十亿美元，这可以证明人们期待已久的贷款条件收紧正在上演。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzee3722647.d.html</link>
+            <guid>3192618</guid>
+            <pubDate>Sat, 29 Jul 2023 19:57:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市碾压“债券年” 出现自99年以来最大的情绪转变】去年12月份的所有讨论都是2023年将是“债券年”。 在冬天的一两个短暂的时刻，这一呼吁，以及支撑这一呼吁的经济前景看起来是正确的。然而，现在它正被大量的股票需求所冲垮，这种需求在全球范围内引发了猛烈的反弹，这表明涨势可能远未结束，这使得投资者对股票相对于债券的乐观程度比任何时候都高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekzee3716913.d.html</link>
+            <guid>3192617</guid>
+            <pubDate>Sat, 29 Jul 2023 19:21:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【加拿大码头工人再次发出罢工威胁并拒绝签订合同】加拿大西海岸的码头工人在本月第二次拒绝谈判合同后，提出该国最繁忙的港口可能再次出现劳动力中断。据BC海事雇主协会周五晚间发表的一份声明称，国际码头和仓库联盟的成员拒绝了一项将在四年内将工资提高19.2%至每年162000加元（123000 美元）的协议。工会领导层建议其成员投赞成票。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-30/detail-imzekuwh3842598.d.html</link>
@@ -605,17 +617,6 @@
             <title><![CDATA[【欧盟外交与安全政策高级代表博雷利：欧盟不承认尼日尔政变军人政权】 据法新社最新报道，欧盟外交与安全政策高级代表博雷利29日在一份声明中称，欧盟不承认尼日尔政变军人的政权，并决定无限期暂停与尼日尔在安全领域的合作。法新社28日早些时候报道称，尼日尔国家电视台宣布，该国“新领导人”为将军阿卜杜拉赫曼 奇亚尼。尼日尔国家电视台还播放阿卜杜拉赫曼 奇亚尼当天发表的讲话。法国外交部28日称，法国不承认夺取政权的尼日尔“新领导人”，法方认为，尼日尔总统巴祖姆仍是该国唯一领导人。]]></title>
             <guid>3192519</guid>
             <pubDate>Sat, 29 Jul 2023 10:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【时隔11年，中央气象台发布史上第二个暴雨红色预警】今天（29日）傍晚，中央气象台升级发布最高级别的暴雨红色预警，这也是自2010年中央气象台正式启用预警发布机制以来发布的史上第二个暴雨红色预警，上一次还是2011年9月29日。（中国天气）]]></title>
-            <guid>3192518</guid>
-            <pubDate>Sat, 29 Jul 2023 10:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自然资源部与中国气象局18时联合发布地质灾害气象风险预警】自然资源部与中国气象局7月29日18时联合发布地质灾害气象风险预警：预计，7月29日20时至7月30日20时，北京西部和北部，天津北部，河北西部、中部和东北部，山西东部，辽宁东部，吉林南部，浙江东部，福建东部，河南西部和北部，重庆西部，云南西部，陕西中部，甘肃东部等地部分地区发生地质灾害的气象风险较高（黄色预警），其中北京西南部、河北西部和中部、山西东部、辽宁东南部、福建东北部、陕西中部、甘肃东部局地发生地质灾害的气象风险高（橙色预警）。请当地居民注意防范降水引发的地质灾害，尤其是地质灾害隐患点附近区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-29/detail-imzekcyq4142461.d.html</link>
-            <guid>3192517</guid>
-            <pubDate>Sat, 29 Jul 2023 10:34:20 GMT</pubDate>
         </item>
     </channel>
 </rss>

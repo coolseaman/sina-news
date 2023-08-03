@@ -4,11 +4,435 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 03 Aug 2023 10:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 11:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英国2年期国债收益率持续下跌，最新下降7.10个基点，报4.922%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6499082.d.html</link>
+            <guid>3197793</guid>
+            <pubDate>Thu, 03 Aug 2023 11:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：预计2023年第四季度的失业率为4%（5月份预测为3.75%）；2024年第四季度为4.5%（5月份预测为4%）；2025年第四季度为4.75%（5月份预测为4.5%）。]]></title>
+            <guid>3197792</guid>
+            <pubDate>Thu, 03 Aug 2023 11:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑/美元扩大跌幅，跌0.7%至1.2625。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprx6676992.d.html</link>
+            <guid>3197791</guid>
+            <pubDate>Thu, 03 Aug 2023 11:09:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行上海总部：有序推进人民币国际化 进一步提升人民币结算比例】中国人民银行上海总部召开2023年下半年工作会议。会议要求，继续精准有力执行好稳健的货币政策。用好结构性货币政策工具，强化对科技创新、民营小微、绿色发展等重点领域和薄弱环节的金融支持。推动上海科创金融改革试验区相关配套措施落地，打造上海科创金融生态圈。维护房地产市场平稳运行。加大债券、票据业务对重点领域的支持力度。深化外汇高水平开放创新，进一步扩大临港新片区跨境贸易投资高水平开放试点政策受益面，继续落实好各项便利化政策举措。服务金融市场对外开放，做好政策落地后的跟踪问效。优化企业汇率避险服务，持续普及汇率风险中性理念。有序推进人民币国际化，进一步提升人民币结算比例。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprx6676832.d.html</link>
+            <guid>3197790</guid>
+            <pubDate>Thu, 03 Aug 2023 11:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：6月份消费者物价指数下降令人意外，但核心商品和服务的下降幅度要小得多。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9721536.d.html</link>
+            <guid>3197789</guid>
+            <pubDate>Thu, 03 Aug 2023 11:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行决策后，交易员预计9月会议上加息25个基点的概率为68%，维持利率不变的概率为32%。]]></title>
+            <guid>3197788</guid>
+            <pubDate>Thu, 03 Aug 2023 11:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行预测2023年第二季度GDP环比增长0.1%（6月预测为持平）；第三季度增长0.4%。]]></title>
+            <guid>3197787</guid>
+            <pubDate>Thu, 03 Aug 2023 11:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：将密切关注经济韧性，以及持续的通胀压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt7665991.d.html</link>
+            <guid>3197785</guid>
+            <pubDate>Thu, 03 Aug 2023 11:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行决策后，交易员们预计利率将在2024年3月达到5.68%，此前为5.74%。]]></title>
+            <guid>3197784</guid>
+            <pubDate>Thu, 03 Aug 2023 11:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[提示：英国央行上调今年经济增速预期，下调明后两年经济增速预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9720748.d.html</link>
+            <guid>3197783</guid>
+            <pubDate>Thu, 03 Aug 2023 11:05:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行行长贝利：需要确保通胀率“完全回落”至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9720632.d.html</link>
+            <guid>3197782</guid>
+            <pubDate>Thu, 03 Aug 2023 11:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国央行上调2023年经济增长预测 下调2024年和2025年的展望】英国央行预计2023年GDP增速为0.5%，此前预计为0.25%；预计2024年GDP增速为0.5%，此前预计为0.75%。预计2025年GDP增速为0.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9720421.d.html</link>
+            <guid>3197781</guid>
+            <pubDate>Thu, 03 Aug 2023 11:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：工资增长强劲、服务价格通胀高企。]]></title>
+            <guid>3197780</guid>
+            <pubDate>Thu, 03 Aug 2023 11:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中南建设：7月房地产业务合同销售金额25.1亿元】中南建设发布7月份经营情况，房地产业务方面，7月合同销售金额25.1亿元，销售面积23.4万平方米。2023年1-7月累计合同销售金额271.9亿元，销售面积230.5万平方米，同比分别减少28.3%和26.6%。建筑业务方面7月新承接项目15个，预计合同金额合计2.4亿元。2023年1-7月新承接项目预计合同金额23.5亿元，同比减少22.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6497237.d.html</link>
+            <guid>3197779</guid>
+            <pubDate>Thu, 03 Aug 2023 11:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行预测显示，根据市场利率和模型预测，一年后的通胀率为2.82%（5月预测：3.38%）。]]></title>
+            <guid>3197778</guid>
+            <pubDate>Thu, 03 Aug 2023 11:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：英国央行货币政策委员曼恩和哈斯克尔投票支持将利率提高至5.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6496987.d.html</link>
+            <guid>3197776</guid>
+            <pubDate>Thu, 03 Aug 2023 11:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：工资增长强劲、服务价格通胀高企。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt7665469.d.html</link>
+            <guid>3197775</guid>
+            <pubDate>Thu, 03 Aug 2023 11:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：持续的压力可能已经开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9719219.d.html</link>
+            <guid>3197773</guid>
+            <pubDate>Thu, 03 Aug 2023 11:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【航天科技：子公司生产基地遭受暴雨灾害影响】航天科技公告，控股子公司航天科工惯性技术有限公司位于河北省涿州市的工业园一层厂房进水，部分生产设备和电力设备受损，导致暂时无法开展生产。公司其他经营单元未受到本次暴雨灾害影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprx6675569.d.html</link>
+            <guid>3197772</guid>
+            <pubDate>Thu, 03 Aug 2023 11:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：5月份的通胀情况高于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6496189.d.html</link>
+            <guid>3197771</guid>
+            <pubDate>Thu, 03 Aug 2023 11:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行货币政策委员会本次会议有2名委员投票赞成加息50个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6496178.d.html</link>
+            <guid>3197770</guid>
+            <pubDate>Thu, 03 Aug 2023 11:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：政策在“足够长的时间内”具有足够的限制性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9718950.d.html</link>
+            <guid>3197769</guid>
+            <pubDate>Thu, 03 Aug 2023 11:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行：如果有证据表明通胀压力更加持续，则需要进一步收紧货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6495985.d.html</link>
+            <guid>3197768</guid>
+            <pubDate>Thu, 03 Aug 2023 11:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行利率决议公布后，英镑兑美元GBP/USD短线下挫超30点，现报1.2636。]]></title>
+            <guid>3197767</guid>
+            <pubDate>Thu, 03 Aug 2023 11:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国央行如期加息25BP】英国央行如期加息25个基点，为2021年11月以来连续第14次加息，将利率提升至5.25%，为2008年4月以来最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6495855.d.html</link>
+            <guid>3197766</guid>
+            <pubDate>Thu, 03 Aug 2023 11:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国至8月3日央行利率决定 5.25%，预期5.25%，前值5.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9718739.d.html</link>
+            <guid>3197765</guid>
+            <pubDate>Thu, 03 Aug 2023 11:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李云泽会见华为技术有限公司轮值董事长兼CFO孟晚舟】2023年8月3日，国家金融监督管理总局党委书记、局长李云泽会见华为技术有限公司轮值董事长兼CFO孟晚舟一行。双方就金融支持高水平科技自立自强、金融业数字化转型、金融业信息技术应用创新等议题进行深入交流。]]></title>
+            <guid>3197764</guid>
+            <pubDate>Thu, 03 Aug 2023 10:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沃伦•巴菲特：并不担心惠誉下调美国信用评级】伯克希尔哈撒韦公司CEO沃伦·巴菲特对惠誉下调美国评级并不在意，指出这不会改变伯克希尔哈撒韦公司的投资策略。巴菲特表示，“伯克希尔上周一和本周一分别买入了100亿美元的美国国债。而对于下周一，我们的问题是要购买100亿美元3个月期还是6个月期短期国库券。有些事情无须担心。”巴菲特指出，这些担忧是合理的，他并不赞同联邦政府所做的一切，但这并不足以改变他对美国国债和美元的看法。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9717395.d.html</link>
+            <guid>3197763</guid>
+            <pubDate>Thu, 03 Aug 2023 10:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安徽建工：上半年净利润6.55亿元 同比增长5.45%】安徽建工公告，上半年实现营业总收入374.73亿元，同比增长11.23%；净利润6.55亿元，同比增长5.45%；基本每股收益0.38元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9717166.d.html</link>
+            <guid>3197762</guid>
+            <pubDate>Thu, 03 Aug 2023 10:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国首艘核动力火箭最早或于2025年发射】据美国趣味科学网站当地时间7月31日报道，美国国家航空航天局（NASA）和国防部高级研究计划局宣布，美国计划最早在2025年将世界上第一艘核动力航天器送入轨道。这项耗资4.99亿美元的任务被命名为“敏捷型地月空间行动演示火箭”，它是一种新型火箭推进系统的首次测试。这些机构声称，新的推进系统可以在短短45天内将宇航员送上火星。合作研发该火箭的机构在7月26日宣布，它们已经与美国防务承包商洛克希德-马丁公司达成设计、制造和测试原型火箭的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9715378.d.html</link>
+            <guid>3197761</guid>
+            <pubDate>Thu, 03 Aug 2023 10:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞穗银行：若英国央行加息25个基点，国债收益率或将走低】瑞穗银行利率策略师Evelyne Gomez-Liechti和研究主管Helen Rodriguez在一份报告中称，如果英国央行加息25个基点，英国国债可能会温和反弹、收益率下降。英国的金融条件非常紧张，宏观环境也在相应减速，前瞻性指标显示未来CPI将进一步下降。如果英国央行加息25个基点，我们认为国债有一定的小幅反弹空间，2年期国债收益率将跌至4.80%，10年期收益率将跌至4.15%。不过，通胀和工资的不确定性可能会限制收益率的下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6492374.d.html</link>
+            <guid>3197760</guid>
+            <pubDate>Thu, 03 Aug 2023 10:48:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【龙泉股份：目前已经实现预制管道批量供货】龙泉股份在接受机构调研时表示，管道预制化的优点有：缩短工期保证进度；质量控制系统、有序、有效；剩余材料少，节约成本。目前，公司已经实现了预制管道的批量供货。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6491705.d.html</link>
+            <guid>3197759</guid>
+            <pubDate>Thu, 03 Aug 2023 10:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚多瑙河管理局：预计八月份船只数量将创下历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprx6673107.d.html</link>
+            <guid>3197758</guid>
+            <pubDate>Thu, 03 Aug 2023 10:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳：加大对多子女家庭职工租房提取支持力度】深圳市住建局发布关于向社会公开征求《关于调整我市住房公积金租房提取有关事项的通知（征求意见稿）》意见的通告。征求意见稿提出，加大对多子女家庭职工租房提取支持力度。二孩及以上且至少有一个未成年子女的家庭，职工本人及其家庭成员在深圳市无商品住房、政策性住房和保障性住房，职工提取住房公积金用于支付房租的，每月最高可按申请当月应缴存额提取；在市住房主管部门办理房屋租赁合同备案的，提供租房合同、租房发票可按实际月租金提取，不受月应缴存额限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6491599.d.html</link>
+            <guid>3197757</guid>
+            <pubDate>Thu, 03 Aug 2023 10:46:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚多瑙河管理局：五月和六月份经过该港口的乌克兰船只数量创下历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprx6673061.d.html</link>
+            <guid>3197756</guid>
+            <pubDate>Thu, 03 Aug 2023 10:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚多瑙河管理局：将于今天和周五清理30艘等待从乌克兰内陆港口进入黑海的船只。]]></title>
+            <guid>3197755</guid>
+            <pubDate>Thu, 03 Aug 2023 10:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚多瑙河管理局：俄罗斯袭击乌克兰伊兹梅尔港后，船只现聚集在罗马尼亚水域。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt7662543.d.html</link>
+            <guid>3197754</guid>
+            <pubDate>Thu, 03 Aug 2023 10:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳拟上调住房公积金租房提取额度至80%】深圳市住建局发布关于向社会公开征求《关于调整我市住房公积金租房提取有关事项的通知（征求意见稿）》意见的通告。征求意见稿提出，阶段性提高职工住房公积金租房提取额度标准。职工本人及其家庭成员在深圳市无商品住房、政策性住房和保障性住房，自本通知施行之月起12个月内，职工提取该期间内的住房公积金用于支付房租的，每月最高可按申请当月应缴存额的80%提取；新市民（非本市户籍)或者青年人（35周岁及以下）职工每月最高可按申请当月应缴存额提取。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprx6672839.d.html</link>
+            <guid>3197753</guid>
+            <pubDate>Thu, 03 Aug 2023 10:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【总额634亿元民企投资项目在辽宁签约】全国知名民企助力辽宁全面振兴新突破高端峰会开幕式在沈阳举行，吸引超600家民营企业参加，会议期间举行了上述签约活动。总额634亿元的24个民营企业投资项目集中签约，涵盖新能源、新材料、高端装备、农产品深加工等十余个领域。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9713290.d.html</link>
+            <guid>3197752</guid>
+            <pubDate>Thu, 03 Aug 2023 10:41:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moderna美股盘前涨超4%，公司二季度营收高于市场预估。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6489946.d.html</link>
+            <guid>3197751</guid>
+            <pubDate>Thu, 03 Aug 2023 10:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【ST同洲：公司承租的仓库发生火灾事故】ST同洲公告，公司承租的位于东莞的用于存放贸易电芯的仓库于2023年8月2日意外发生火灾事故，经公司财务初步测算，此次火灾事故预计造成的直接经济损失约为600万元，另外，公司可能承担一定的承租建筑物损失赔偿。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9712747.d.html</link>
+            <guid>3197750</guid>
+            <pubDate>Thu, 03 Aug 2023 10:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  MODERNA（莫德纳）预计COVID-19疫苗全年营收为60亿-80亿美元，市场预期为68.8亿。]]></title>
+            <guid>3197749</guid>
+            <pubDate>Thu, 03 Aug 2023 10:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三部门：对存量常规水电项目 暂不核发可交易绿证】国家发展改革委、财政部、国家能源局发布做好可再生能源绿色电力证书全覆盖工作，促进可再生能源电力消费的通知。通知指出，规范绿证核发。对存量常规水电项目，暂不核发可交易绿证，相应的绿证随电量直接无偿划转。对2023年1月1日（含）以后新投产的完全市场化常规水电项目，核发可交易绿证。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9710877.d.html</link>
+            <guid>3197748</guid>
+            <pubDate>Thu, 03 Aug 2023 10:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国银行：英国央行料会加息25bp，英镑面临下行风险】美国银行的经济学家预计，英国央行今日将加息25个基点。将加息速度放缓至25个基点的决定是基于近期经济数据并未明显超出预期。不过，由于英国央行没有在6月更新其预测，因此很难衡量他们对当前数据的准确预期和反应。目前，市场已消化了央行加息50个基点的潜在可能。加之预计的终端利率高于我们的基准情景，这可能在会议期间对英镑施加下行压力。而对冲基金持有的大量英镑头寸可能会进一步加剧这种潜在的下行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9710813.d.html</link>
+            <guid>3197747</guid>
+            <pubDate>Thu, 03 Aug 2023 10:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沃森生物：子公司获一种重组新型冠状病毒疫苗组合物等2项发明专利证书】沃森生物8月3日公告，公司控股子公司上海泽润生物科技有限公司于近日收到两项由国家知识产权局颁发的发明专利证书，发明名称分别为一种重组新型冠状病毒疫苗组合物、重组刺突蛋白及其制备方法和用途。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt7660719.d.html</link>
+            <guid>3197746</guid>
+            <pubDate>Thu, 03 Aug 2023 10:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度贸易官员：内阁秘书今日召开了与生产链激励计划相关的评估会议，重点关注正在支付激励的行业领域。]]></title>
+            <guid>3197745</guid>
+            <pubDate>Thu, 03 Aug 2023 10:32:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度贸易官员：在利益相关方中看到电子商务政策的广泛共识。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt7660403.d.html</link>
+            <guid>3197744</guid>
+            <pubDate>Thu, 03 Aug 2023 10:32:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：英国央行进一步收紧政策将使英镑贬值】外汇经纪商TickMill Group分析师James Harte在一份报告中表示，英国央行进一步加息可能会抑制英国经济增长，并对英镑产生负面影响。Harte表示：“虽然英国央行今天可能不会进行更大规模的加息，但肯定会为进一步紧缩政策敞开大门，这将使英镑因经济衰退担忧而继续承压，尤其是在美元避险需求强劲的情况下。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprx6670723.d.html</link>
+            <guid>3197743</guid>
+            <pubDate>Thu, 03 Aug 2023 10:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中信建投：证监会同意公司向专业投资者公开发行面值余额不超过人民币200亿元短期公司债券的注册申请。]]></title>
+            <guid>3197742</guid>
+            <pubDate>Thu, 03 Aug 2023 10:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京门头沟失联村全部复联】据微信“北京门头沟”消息：从门头沟区抢险救援组传来信息，山区5个镇通过防汛电台汇报，最后失联的5个村已取得联系。至此，因本次洪水导致的门头沟失联村，已经全部复联。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9709036.d.html</link>
+            <guid>3197741</guid>
+            <pubDate>Thu, 03 Aug 2023 10:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三部门：绿证是我国可再生能源电量环境属性的唯一证明 是认定可再生能源电力生产、消费的唯一凭证】国家发展改革委、财政部、国家能源局发布做好可再生能源绿色电力证书全覆盖工作，促进可再生能源电力消费的通知。通知指出，明确绿证的适用范围。（一）绿证是我国可再生能源电量环境属性的唯一证明，是认定可再生能源电力生产、消费的唯一凭证。（二）国家对符合条件的可再生能源电量核发绿证，1个绿证单位对应1000千瓦时可再生能源电量。（三）绿证作为可再生能源电力消费凭证，用于可再生能源电力消费量核算、可再生能源电力消费认证等，其中：可交易绿证除用作可再生能源电力消费凭证外，还可通过参与绿证绿电交易等方式在发电企业和用户间有偿转让。国家发展改革委、国家能源局负责确定核发可交易绿证的范围，并根据可再生能源电力生产消费情况动态调整。]]></title>
+            <guid>3197740</guid>
+            <pubDate>Thu, 03 Aug 2023 10:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【耐普矿机：上半年净利润同比下降58.93%】耐普矿机披露半年报，2023年上半年公司实现营业收入约4亿元，同比下降1.01%；净利润5333.4万元，同比下降58.93%；基本每股收益0.61元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6486047.d.html</link>
+            <guid>3197739</guid>
+            <pubDate>Thu, 03 Aug 2023 10:28:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三部门：推动中央企业、地方国有企业稳步提升绿电消费比例】国家发展改革委、财政部、国家能源局发布做好可再生能源绿色电力证书全覆盖工作，促进可再生能源电力消费的通知。通知指出，深入开展绿证宣传和推广工作，在全社会营造可再生能源电力消费氛围，鼓励社会各用能单位主动承担可再生能源电力消费社会责任。鼓励跨国公司及其产业链企业、外向型企业、行业龙头企业购买绿证、使用绿电，发挥示范带动作用。推动中央企业、地方国有企业、机关和事业单位发挥先行带头作用，稳步提升绿电消费比例。强化高耗能企业绿电消费责任，按要求提升绿电消费水平。支持重点企业、园区、城市等高比例消费绿色电力，打造绿色电力企业、绿色电力园区、绿色电力城市。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt9708844.d.html</link>
+            <guid>3197738</guid>
+            <pubDate>Thu, 03 Aug 2023 10:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会：波兰关于俄罗斯的新法仍然引发严重关切。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprv6485688.d.html</link>
+            <guid>3197737</guid>
+            <pubDate>Thu, 03 Aug 2023 10:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【润建股份：公司在光伏管维的场景中应用大语言模型和AI预测分析算法】润建股份在投资者互动平台表示，公司在光伏管维的场景中应用大语言模型和AI预测分析算法，提高电能产量、降低运营成本和减少生产事故，实现光伏电站的资产保值和增值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprx6669941.d.html</link>
+            <guid>3197736</guid>
+            <pubDate>Thu, 03 Aug 2023 10:27:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴菲特：近期已增持100亿美元美国国债】巴菲特表示，不会因为惠誉下调评级而改变伯克希尔的投资策略，并且已于近期购买了100亿美元的美国国债。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt7659517.d.html</link>
+            <guid>3197735</guid>
+            <pubDate>Thu, 03 Aug 2023 10:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富宝资讯：矿石交易活跃度上升，现货对2401期货合约升水36400元/吨】富宝分析：近日，市场上对锂辉石的询货问价增多，由于部分企业矿石去库的完成，迫于刚需生产，需要进行矿石原料的采购。据了解，非洲矿石因为国内成交价走低，部分矿主现已停止国内交易，持续观望，所以近日国内矿石交易活跃度上升。锂盐方面，下游材料厂处于持续去库阶段，对锂盐的接货意愿不强，市场虽有少量现货流通，但整体交易平淡，工业级碳酸锂现货成交价保持在25万元/吨左右，预计近期碳酸锂价格将维持稳中下探趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexprt7658952.d.html</link>
+            <guid>3197734</guid>
+            <pubDate>Thu, 03 Aug 2023 10:23:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特：美元是世界储备货币。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9837857.d.html</link>
+            <guid>3197733</guid>
+            <pubDate>Thu, 03 Aug 2023 10:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特：我们在上周一和本周一购买了100亿美元的国债。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9837824.d.html</link>
+            <guid>3197732</guid>
+            <pubDate>Thu, 03 Aug 2023 10:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特：不会因为惠誉下调美国评级的决定而改变伯克希尔的策略。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9837776.d.html</link>
+            <guid>3197731</guid>
+            <pubDate>Thu, 03 Aug 2023 10:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据出口商表示，印度5%碎米出口价格创历史新高，达到每公吨450-455美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6614815.d.html</link>
+            <guid>3197730</guid>
+            <pubDate>Thu, 03 Aug 2023 10:22:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三部门：对全国已建档立卡的可再生能源发电项目所生产的全部电量核发绿证】国家发展改革委、财政部、国家能源局发布关于做好可再生能源绿色电力证书全覆盖工作促进可再生能源电力消费的通知。通知指出，对全国风电（含分散式风电和海上风电）、太阳能发电（含分布式光伏发电和光热发电）、常规水电、生物质发电、地热能发电、海洋能发电等已建档立卡的可再生能源发电项目所生产的全部电量核发绿证，实现绿证核发全覆盖。其中：对集中式风电（含海上风电）、集中式太阳能发电（含光热发电）项目的上网电量，核发可交易绿证。对分散式风电、分布式光伏发电项目的上网电量，核发可交易绿证。对生物质发电、地热能发电、海洋能发电等可再生能源发电项目的上网电量，核发可交易绿证。对存量常规水电项目，暂不核发可交易绿证，相应的绿证随电量直接无偿划转。对2023年1月1日（含）以后新投产的完全市场化常规水电项目，核发可交易绿证。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6614652.d.html</link>
+            <guid>3197729</guid>
+            <pubDate>Thu, 03 Aug 2023 10:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门发布橙色山洪灾害气象预警 】中国水利官微消息，水利部和中国气象局8月3日18时联合发布橙色山洪灾害气象预警：预计，8月3日20时至8月4日20时，内蒙古东北部、吉林中北部、黑龙江中西部和南部、西藏中部和东南部等地部分地区发生山洪灾害可能性较大（黄色预警），其中，内蒙古东北部、吉林中北部、黑龙江中部局地发生山洪灾害可能性大（橙色预警），预警区域涉及的县（市、区）见下表。其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv7789481.d.html</link>
+            <guid>3197728</guid>
+            <pubDate>Thu, 03 Aug 2023 10:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比亚迪在欧洲扩张再下一城，Atto 3成瑞典7月最畅销电动汽车】 比亚迪的Atto 3成为瑞典7月最畅销的电动汽车，公司进军欧洲市场收获利好。根据瑞典汽车行业协会的数据，比亚迪销售了721辆跨界SUV，超过了大众汽车的ID.4。今年前七个月，特斯拉的Model Y仍是瑞典整体上最为畅销的车型，超过了沃尔沃的两个车型。过去两年，比亚迪一直在快速扩大车型阵容、地区覆盖和制造能力，挑战特斯拉在插电式汽车领域的主导地位。如果算上电动汽车和插电式混合动力车型，比亚迪已是全球第一。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv7789433.d.html</link>
+            <guid>3197727</guid>
+            <pubDate>Thu, 03 Aug 2023 10:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行利率决议前，英镑兑美元GBP/USD一度下跌至6月30日以来最低点，现报1.2654。]]></title>
+            <guid>3197726</guid>
+            <pubDate>Thu, 03 Aug 2023 10:19:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台8月3日18时继续发布暴雨蓝色预警】中央气象台8月3日18时继续发布暴雨蓝色预警：预计，8月3日20时至4日20时，内蒙古东北部、黑龙江、吉林、辽宁中部、北京、河北中部、山西北部、云南西部和南部、广西南部、广东雷州半岛、海南岛南部和西部及浙江东部沿海、台湾岛等地的部分地区有大到暴雨，其中，内蒙古东北部、黑龙江东南部、吉林北部、广西东南部、广东雷州半岛、台湾岛中南部等地部分地区有大暴雨（100～220毫米）。上述部分地区伴有短时强降水（最大小时降雨量30～70毫米，局地可超过80毫米），局地有雷暴大风、冰雹等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9836417.d.html</link>
+            <guid>3197725</guid>
+            <pubDate>Thu, 03 Aug 2023 10:18:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【禾盛新材：撤回向特定对象发行股票申请文件】禾盛新材(002290)8月3日晚间公告，综合考虑公司实际经营情况、内外部融资环境变化及战略发展规划等，经审慎论证分析，公司决定向深交所申请撤回以简易程序向特定对象发行股票的申请文件，并将根据公司实际情况适时重新申报。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9836235.d.html</link>
+            <guid>3197724</guid>
+            <pubDate>Thu, 03 Aug 2023 10:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【自然资源部对云南、西藏两地启动地质灾害防御Ⅲ级响应】根据气象部门最新预报，8月3日至7日云南西部和南部、西藏东南部等地有大到暴雨。今天，自然资源部对云南、西藏两地启动地质灾害防御Ⅲ级响应，并派工作组赴现场指导。自然资源部要求云南、西藏自然资源主管部门，切实做好巡查排查、监测预警、会商研判、临灾避险、防御力量预置等工作，及时转移地质灾害隐患点、风险区周边和临坡临崖临沟临水群众。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6613187.d.html</link>
+            <guid>3197723</guid>
+            <pubDate>Thu, 03 Aug 2023 10:17:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南西部北中部将迎中到大雨 局部暴雨 】据河南省气象台消息，受西太平洋副热带高压边缘暖湿气流和南下弱冷空气的共同影响，8月5日至6日，河南有一次阵雨、雷阵雨天气过程，需防范可能引发的山洪、地质灾害以及对秋作物生长、交通出行的不利影响。根据预报，此次降雨过程雨量分布不均，西部、北中部部分县市有中到大雨，局部暴雨并伴有短时强降水、雷暴大风等强对流天气。过程累计降水量：西部、北中部30到50毫米，局部60到90毫米；其他县市3到20毫米。最大小时降水量50到70毫米。7日至8日，全省还有一次阵雨、雷阵雨天气，西部部分县市有中到大雨，局部暴雨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9835920.d.html</link>
+            <guid>3197722</guid>
+            <pubDate>Thu, 03 Aug 2023 10:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长四系列运载火箭完成第100次发射任务】今天（8月3日），长征四号丙运载火箭在酒泉卫星发射中心成功发射，本次发射也是长征四号系列运载火箭执行的第100次发射任务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6612883.d.html</link>
+            <guid>3197721</guid>
+            <pubDate>Thu, 03 Aug 2023 10:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【玻利维亚和委内瑞拉称已申请加入金砖国家 】据央视新闻，玻利维亚外交部长罗赫略·迈塔近日在社交媒体发布消息称，玻利维亚总统阿尔塞此前已经正式表达了玻利维亚加入金砖国家合作机制的意愿。迈塔说，玻利维亚已经就加入金砖国家做了多方面的努力。此外，委内瑞拉总统马杜罗近日在电视节目中确认，委内瑞拉已经正式提出申请加入金砖国家。马杜罗表示，金砖国家在建设新多极世界中的作用和领导力在世界地缘政治中至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9835522.d.html</link>
+            <guid>3197720</guid>
+            <pubDate>Thu, 03 Aug 2023 10:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内蒙古通辽市将施行移风易俗条例：倡导不要彩礼、不要嫁妆】内蒙古通辽市人大常委会发布公告称，《通辽市移风易俗条例》已于2023年6月29日通辽市第六届人民代表大会常务委员会第十一次会议通过，经2023年7月31日内蒙古自治区第十四届人民代表大会常务委员会第五次会议批准，现予以公布，自2023年10月1日起施行。《条例》第十条提出：推行婚事新办。倡导不要彩礼、不要嫁妆和自创家业的新型婚恋观；倡导婚前医学检查；倡导集体婚礼、公益婚礼、旅行婚礼等新形式，婚仪从简、婚宴从俭，订婚不操办。反对宣扬低俗婚恋观；反对大操大办、攀比礼金；反对恶俗婚闹。禁止包办、买卖婚姻和其他干涉婚姻自由的行为；禁止借婚姻索取财物。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9835109.d.html</link>
+            <guid>3197719</guid>
+            <pubDate>Thu, 03 Aug 2023 10:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美畅股份：拟设子公司从事钨丝材料研发和生产】美畅股份公告，公司拟以1亿元设立全资子公司陕西美畅钨材料科技有限公司（简称美畅钨材料公司）。公司成立美畅钨材料公司，将有助于整合资源，配备专业技术力量从事钨丝材料研发和生产，从钨丝材料本身到金刚线生产的后续工艺匹配，帮助提升钨丝金刚石线的产品品质并快速配合新产品的开发。美畅钨材料公司投产后，将使公司具有年产钨丝基材1200万公里的产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9834971.d.html</link>
+            <guid>3197718</guid>
+            <pubDate>Thu, 03 Aug 2023 10:14:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【浙江省海洋监测预报中心发布风暴潮红色警报】浙江省海洋监测预报中心8月3日16时发布风暴潮红色警报：受第6号台风“卡努”（强台风级）影响，预计今天夜间到明天白天：嘉兴、舟山、宁波沿岸将出现60~120厘米的风暴增水，台州沿岸将出现80~130厘米的风暴增水，温州沿岸将出现60~110厘米的风暴增水。宁波市风暴潮预警级别为橙色；嘉兴、舟山、台州、温州市风暴潮预警级别为红色。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6611602.d.html</link>
@@ -166,462 +590,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv7784252.d.html</link>
             <guid>3197691</guid>
             <pubDate>Thu, 03 Aug 2023 09:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：现在决定九月份要采取什么行动还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv7783849.d.html</link>
-            <guid>3197690</guid>
-            <pubDate>Thu, 03 Aug 2023 09:47:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：上半年我国服务进出口总额31358.4亿元 同比增长8.5%】商务部数据显示，2023年上半年，我国服务贸易继续保持增长态势。服务进出口总额31358.4亿元，同比增长8.5%。其中出口13232.2亿元，下降5.9%；进口18126.2亿元，增长22.1%；服务贸易逆差4894亿元。旅行服务明显恢复。上半年，旅行服务进出口6509.4亿元，同比增长65.4%，是增长最快的服务贸易领域。其中，出口增长52.4%，进口增长66.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiz6794189.d.html</link>
-            <guid>3197689</guid>
-            <pubDate>Thu, 03 Aug 2023 09:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杰富瑞集团：英国央行要到9月才会宣布加速量化紧缩】一些投资者预计，英国央行将在今晚的决议中决定扩大目前每月800亿英镑的量化紧缩规模，但杰富瑞集团分析师称，这一消息更有可能在9月份才会宣布。杰富瑞首席欧洲金融经济学家Mohit Kumar表示：“我们确实预计货币政策委员会将讨论量化紧缩的步伐，但预计任何决定都将在9月份做出。”与其他多数机构一样，杰富瑞预计英国央行将加息25个基点，尽管货币市场定价显示加息50个基点的可能相当大。“上个月通胀放缓，本月我们应该会看到通胀再次走低，这应该会给英国央行放慢加息步伐提供借口。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6603714.d.html</link>
-            <guid>3197688</guid>
-            <pubDate>Thu, 03 Aug 2023 09:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【艾迪药业：预计上半年净亏损880万元至1320万元】艾迪药业公告，预计上半年营业收入约2.39亿元，归属于母公司所有者的净利润约-1320万元到-880万元，较上年同期相比，将减少亏损约5,499.16万元至5,939.16万元，亏损幅度同比下降约80.64%至87.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiz6794114.d.html</link>
-            <guid>3197687</guid>
-            <pubDate>Thu, 03 Aug 2023 09:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：将在9月决定是否暂停加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6603455.d.html</link>
-            <guid>3197686</guid>
-            <pubDate>Thu, 03 Aug 2023 09:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【隆达股份：股东及其一致行动人拟减持不超过1%】隆达股份公告，股东伊犁苏新及其一致行动人南京道丰拟减持不超过2,468,571股，即不超过公司总股本的1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9824704.d.html</link>
-            <guid>3197685</guid>
-            <pubDate>Thu, 03 Aug 2023 09:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港岭南大学：决定接受ChatGPT 将对教学人员和学生提供培训】香港岭南大学候任校长秦泗钊表示，岭大决定接受ChatGPT，并已为全校购买ChatGPT 3.5版本的许可证，将对教学人员和学生提供培训。教授们必须决定和明确规定何时可以，或不可以在书面作业中使用GPT。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9824660.d.html</link>
-            <guid>3197684</guid>
-            <pubDate>Thu, 03 Aug 2023 09:42:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰粮食集团将2023年小麦收获量预测提高了13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6601289.d.html</link>
-            <guid>3197683</guid>
-            <pubDate>Thu, 03 Aug 2023 09:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【现代因油泵问题在美召回超5万辆汽车】据美国国家公路交通安全管理局3日更新的召回信息，由于电子控制器可能含有损坏的电子元件，或导致机油泵过热增加起火风险，现代汽车美国公司将召回部分2023-2024年款帕利塞德（Palisade）、2023年款途胜（Tucson）、索纳塔（Sonata）、伊兰特（Elantra）和科纳（Kona）汽车，共计52008辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9824154.d.html</link>
-            <guid>3197682</guid>
-            <pubDate>Thu, 03 Aug 2023 09:41:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因车灯故障 保时捷在美召回2934辆汽车】据美国国家公路交通安全管理局3日更新的召回信息，由于危险警示灯和驻车灯故障，保时捷汽车北美公司将召回部分2024年款Cayenne、Cayenne S、Cayenne Coupe、Cayenne Turbo GT和Cayenne S Coupe汽车，共计2934辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6601156.d.html</link>
-            <guid>3197681</guid>
-            <pubDate>Thu, 03 Aug 2023 09:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春雪食品：烟台天自春雪拟减持公司不超2%股份】春雪食品(605567)8月3日晚间公告，股东烟台天自春雪股权投资中心（有限合伙）（简称“天自春雪”）拟通过集中竞价交易方式，减持公司股份不超过400万股，即不超过公司总股本的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9823919.d.html</link>
-            <guid>3197680</guid>
-            <pubDate>Thu, 03 Aug 2023 09:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南财政部：截至7月底，央行增加了307亿美元外汇储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6600313.d.html</link>
-            <guid>3197679</guid>
-            <pubDate>Thu, 03 Aug 2023 09:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法兴银行CEO：上半年市场正在趋于正常化，但尚未完全正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9823173.d.html</link>
-            <guid>3197678</guid>
-            <pubDate>Thu, 03 Aug 2023 09:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东岳硅材：公司获批广期所工业硅指定交割厂库】东岳硅材公告，广州期货交易所8月2日发布了《关于同意工业硅期货交割厂库的公告》，经查询，公司已被确定为工业硅期货交割厂库，自广期所公告发布之日起生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9823008.d.html</link>
-            <guid>3197677</guid>
-            <pubDate>Thu, 03 Aug 2023 09:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【渝农商行前副行长高嵩将赴任重庆银行行长】 渝农商行发布公告称，该行副行长高嵩因工作调动原因，辞去渝农商行副行长职务，辞任后高嵩不再担任渝农商行任何职务。记者从重庆银行、渝农商行内部人士处独家获悉，高嵩将赴重庆银行担任行长一职，相关公告已提交交易所。（中证金牛座）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6599847.d.html</link>
-            <guid>3197676</guid>
-            <pubDate>Thu, 03 Aug 2023 09:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽淮海实业发展集团有限公司原党委书记、董事长刘杰被开除党籍】据中央纪委国家监委网站消息，安徽淮海实业发展集团有限公司原党委书记、董事长刘杰被开除党籍。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6599752.d.html</link>
-            <guid>3197675</guid>
-            <pubDate>Thu, 03 Aug 2023 09:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：高通胀之下，英国央行料会加入美联储的行列继续加息】英国央行今日预计将连续第14次加息，利率将达到15年来的新高。有人担心，由于家庭和企业仍面临沉重压力，英国央行将会重复6月的行动，再次加息50个基点，不过7月数据显示，通胀的降幅超出预期，这缓解了央行激进加息的风险。贝伦贝格银行高级经济学家Kallum Pickering表示，由于通胀率仍是2%目标的四倍，英国央行别无选择，只能再次提高利率，并为即将召开的会议上进一步加息敞开大门。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9822232.d.html</link>
-            <guid>3197674</guid>
-            <pubDate>Thu, 03 Aug 2023 09:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美农生物：周小秋辞去董事职务】美农生物公告，董事会于2023年8月2日收到公司董事周小秋先生提交的书面辞职报告，周小秋先生因个人原因辞去公司董事职务，辞职后不再担任公司及下属公司任何职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9822127.d.html</link>
-            <guid>3197673</guid>
-            <pubDate>Thu, 03 Aug 2023 09:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【密云水库蓄水量增加近1亿立方米 水库流域已经接近饱和状态】记者从密云水库管理处获悉，密云水库流域已经接近饱和状态，今日（8月3日）密云水库较7月29日水位151.00米上涨0.63米，蓄水量增加0.989亿立方米。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv7781451.d.html</link>
-            <guid>3197672</guid>
-            <pubDate>Thu, 03 Aug 2023 09:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大元泵业：2023年上半年净利润同比增长68.31%】大元泵业公告，上半年公司实现营业收入9.04亿元，同比增长33.70%；实现归属于上市公司股东的净利润1.67亿元，同比增长68.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6598901.d.html</link>
-            <guid>3197671</guid>
-            <pubDate>Thu, 03 Aug 2023 09:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宏碁上半年营收1,107.2亿元台币，净利润19.1亿元台币。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9821774.d.html</link>
-            <guid>3197670</guid>
-            <pubDate>Thu, 03 Aug 2023 09:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上清所：上半年清算业务规模315.6万亿元 同比增长24.5%】上海清算所召开2023年年中工作会议。会议指出，上半年，清算业务规模315.6万亿元，债券发行业务规模18.7万亿元，同比增长24.5%和16.1%。截至6月底，债券托管余额32.8万亿元，清算通业务规模累计突破万亿元大关。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6598671.d.html</link>
-            <guid>3197669</guid>
-            <pubDate>Thu, 03 Aug 2023 09:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国专家成立委员会 寻求验证室温超导突破的真伪】 韩国专家组建了一个委员会，以验证有关超导技术潜在突破的真实性。室温超导概念在市场和行业人士中引发了兴奋和争议。韩国超导与低温学会(KSSC)周三在声明中表示，要求量子能源研究中心提交室温超导验证过程中所需的样品。“发现室温超导的说法在国内外引起了巨大争议，但我们担心的情况是，其他研究人员正在提出未经证实的主张，而没有负责核实的实体，”由教授和专家组成的KSSC称。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiz6791667.d.html</link>
-            <guid>3197668</guid>
-            <pubDate>Thu, 03 Aug 2023 09:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unity美股盘前涨6%，Q2营收超出预期，调高今年年度展望。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9821201.d.html</link>
-            <guid>3197667</guid>
-            <pubDate>Thu, 03 Aug 2023 09:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三友联众：拟投资三友联众电控制元器件智能制造总部项目】三友联众公告，拟在东莞市塘厦镇科苑城信息产业园（沙湖一路与沙苑路交汇处的东北面）投资三友联众电控制元器件智能制造总部项目，项目投资总额5.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9821089.d.html</link>
-            <guid>3197666</guid>
-            <pubDate>Thu, 03 Aug 2023 09:32:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南向资金今日净买入34.21亿元。港股通（沪）方面，腾讯控股、中国移动分别获净买入3.34亿港元、2.61亿港元；汇丰控股净卖出额居首，金额为2.99亿港元；港股通（深）方面，快手-W、腾讯控股分别获净买入1.85亿港元、1.53亿港元；南方恒生科技净卖出额居首，金额为1.7亿港元。]]></title>
-            <guid>3197665</guid>
-            <pubDate>Thu, 03 Aug 2023 09:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北向资金今日净买入隆基绿能9.29亿元】北向资金小幅净买入5.43亿元，隆基绿能、宁德时代、东方财富分别获净买入9.29亿元、6.78亿元、2.75亿元。中国平安净卖出额居首，金额为2.74亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9820748.d.html</link>
-            <guid>3197664</guid>
-            <pubDate>Thu, 03 Aug 2023 09:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海石化公告，董事会于2023年8月3日收到副总经理周纪军先生提交的书面辞职报告。因工作调整原因，周纪军先生辞去公司副总经理职务。]]></title>
-            <guid>3197663</guid>
-            <pubDate>Thu, 03 Aug 2023 09:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北邯郸：三孩家庭公积金贷款最高100万元 鼓励房企实施购房优惠】8月3日，河北省邯郸市住房保障和房产管理局发布《邯郸市住房保障和房产管理局等十三部门关于印发〈关于支持房地产业平稳健康发展的若干措施〉的通知》。邯郸市将提高住房公积金贷款额度。二孩家庭的缴存职工，住房公积金最高贷款额由60万元提高到80万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9820706.d.html</link>
-            <guid>3197662</guid>
-            <pubDate>Thu, 03 Aug 2023 09:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空业面临需求放缓和高成本的挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9820624.d.html</link>
-            <guid>3197661</guid>
-            <pubDate>Thu, 03 Aug 2023 09:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯投宏观：仍预计欧元区将陷入衰退】凯投宏观经济学家Franziska Palmas在一份报告中写道，欧元区看起来仍有可能在今年晚些时候陷入衰退。她指出，欧元区7月份采购经理人指数下降，与GDP的小幅下降一致。这些数据证实，劳动力市场吃紧，服务业的价格压力很大，这可能促使欧洲央行下个月进一步加息。“我们仍然预计欧元区经济将在2023年下半年陷入衰退。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6597671.d.html</link>
-            <guid>3197660</guid>
-            <pubDate>Thu, 03 Aug 2023 09:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三友联众：与东莞市塘厦镇人民政府签订5.5亿元投资协议】三友联众公告，公司与东莞市塘厦镇人民政府签订投资协议，公司拟在东莞市塘厦镇科苑城信息产业园（沙湖一路与沙苑路交汇处的东北面）投资三友联众电控制元器件智能制造总部项目，项目投资总额5.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9820149.d.html</link>
-            <guid>3197659</guid>
-            <pubDate>Thu, 03 Aug 2023 09:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春雪食品：股东天自春雪拟减持不超过2%】春雪食品公告，股东烟台天自春雪股权投资中心拟减持不超过4,000,000股,不超过公司总股本的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6596965.d.html</link>
-            <guid>3197658</guid>
-            <pubDate>Thu, 03 Aug 2023 09:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上清所：上半年清算业务规模315.6万亿元，同比增长24.5%】2023年8月3日上午，上海清算所召开2023年年中工作会议。会议指出，上半年，清算业务规模315.6万亿元，债券发行业务规模18.7万亿元，同比增长24.5%和16.1%。截至6月底，债券托管余额32.8万亿元，清算通业务规模累计突破万亿元大关。公司各项工作稳中有进、进中向好，成功转增注册资本金至33亿元，顺利落地“互换通”、外币对中央对手清算、清算通数字人民币清结算、人民币“玉兰债”等创新产品，市场服务、系统建设、研究分析、组织办公、群团工作、行政服务等取得新的成效，公司高质量发展迈上新台阶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9819705.d.html</link>
-            <guid>3197657</guid>
-            <pubDate>Thu, 03 Aug 2023 09:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度阿达尼集团第一季度净利润为67.4亿卢比，同比增长44%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6596746.d.html</link>
-            <guid>3197656</guid>
-            <pubDate>Thu, 03 Aug 2023 09:27:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【佩斯科夫：俄罗斯一直是国际粮食市场的可靠供应商】当地时间8月3日，俄罗斯总统新闻秘书佩斯科夫否认了欧盟外交与安全政策高级代表博雷利所谓俄罗斯正在利用廉价粮食使部分国家“依赖”俄罗斯的说法。佩斯科夫表示，事实并非如博雷利所说，俄罗斯一直是粮食的可靠供应商，如果没有西方的制裁，俄罗斯可以履行更多在国际粮食市场中的义务。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiz6790552.d.html</link>
-            <guid>3197655</guid>
-            <pubDate>Thu, 03 Aug 2023 09:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度阿达尼集团第一季度营收为2544亿卢比。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiz6790516.d.html</link>
-            <guid>3197654</guid>
-            <pubDate>Thu, 03 Aug 2023 09:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总理：乌克兰正在考虑为通过“粮食走廊”运输的船舶和公司提供保险的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9819510.d.html</link>
-            <guid>3197653</guid>
-            <pubDate>Thu, 03 Aug 2023 09:27:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海德股份：拟成立数字科技部】海德股份公告，根据公司战略布局和业务发展需要，拟成立数字科技部。成立数字科技部是基于公司个贷不良业务的发展和管理资产规模的扩大，为持续巩固“大数据+AI技术”核心优势，便利对接中国人民银行征信系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9818793.d.html</link>
-            <guid>3197652</guid>
-            <pubDate>Thu, 03 Aug 2023 09:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆银行：冉海陵辞任执行董事、行长等职务】重庆银行公告，董事会近日收到冉海陵先生提交的辞任函。冉海陵先生因到龄退休，向本行董事会提请辞去执行董事、行长及董事会信息科技指导委员会主任委员、战略与创新委员会委员、风险管理委员会委员职务。冉海陵先生的辞任自2023年8月2日生效，辞任后不再担任本行任何职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9818733.d.html</link>
-            <guid>3197651</guid>
-            <pubDate>Thu, 03 Aug 2023 09:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每日券商观点汇总（2023-08-03）】
-宏观
-1. 银河证券：惠誉对美国的评级降调令市场略感意外，但预计短期影响有限。
-2. 华创证券：惠誉下调美国评级是迟来的债务上限后遗症。
-行业
-1. 申万宏源：工业机器人是典型的顺周期品种，随着制造业需求复苏，工业机器人增速有望触底回升。
-2. 银河证券：银行经营环境向好，基本面面临改善契机，积极关注银行配置价值。
-3. 天风证券：对于家电行业，仍看好“空调”方向，“出口”改善，“可选”修复。
-个股
-1. 广发证券：宁德时代业绩依旧亮眼，作为锂电龙头全球份额无忧，充分享受海外扩张红利。
-2. 光大证券：茅台Q2业绩靓丽亦有望进一步提振信心，仍是确定性最高的配置方向。
-3. 招商证券：宇通客车国内外销量持续高增，销量结构不断优化，公司业绩有望快速提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6594905.d.html</link>
-            <guid>3197650</guid>
-            <pubDate>Thu, 03 Aug 2023 09:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古发布冰雹橙色预警】内蒙古自治区气象台2023年08月03日16时10分发布冰雹橙色预警信号：6小时内鄂尔多斯市东北部、包头市东南部、呼和浩特市中部、乌兰察布市西南部、通辽市北部、兴安盟中部和东南部可能出现冰雹天气，并可能造成雹灾。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv7778903.d.html</link>
-            <guid>3197649</guid>
-            <pubDate>Thu, 03 Aug 2023 09:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：对工资价格螺旋上升的担忧得到缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6593999.d.html</link>
-            <guid>3197647</guid>
-            <pubDate>Thu, 03 Aug 2023 09:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：长期通胀预期已经保持稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9816880.d.html</link>
-            <guid>3197646</guid>
-            <pubDate>Thu, 03 Aug 2023 09:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川德阳：提高公积金贷款额度，单职工最高45万元】据微信公众号“德阳发布”8月3日消息，四川省德阳市对《德阳市住房公积金个人住房贷款管理办法》部分内容进行了修订，此次新政调整内容为提高最高贷款额度。修订条款于2023年8月1日实施。修订前的政策为“符合贷款条件的两人及以上职工最高贷款额度为60万元，单职工最高贷款额度为40万元”，调整后的政策为“符合贷款条件的两人及以上职工最高贷款额度为65万元，单职工最高贷款额度为45万元。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9816383.d.html</link>
-            <guid>3197645</guid>
-            <pubDate>Thu, 03 Aug 2023 09:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：如果通胀情景恶化，将会采取进一步措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9816147.d.html</link>
-            <guid>3197644</guid>
-            <pubDate>Thu, 03 Aug 2023 09:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【西安：重点整治违规分割出租、高收低出、长收短付等住房租赁市场乱象】陕西省西安市住房和城乡建设局以及西安市市场监督管理局、西安市税务局、西安市公安局、中共西安市委网络安全和信息化委员会办公室等5部门印发《联合整治住房租赁市场乱象工作方案》，进一步整顿规范住房租赁市场秩序，加强市场乱象治理。整治对象包括西安全市范围内开展住房租赁业务的住房租赁企业以及经纪机构。重点整治住房租赁企业以及经纪机构违规经营、违规出租住房、违规分割出租、发布虚假租赁信息、采用“高收低出”、“长收短付”经营以及违规提供经纪服务等违法违规经营行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9815804.d.html</link>
-            <guid>3197643</guid>
-            <pubDate>Thu, 03 Aug 2023 09:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：欧元区的需求状况可能保持疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9815496.d.html</link>
-            <guid>3197642</guid>
-            <pubDate>Thu, 03 Aug 2023 09:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每日债券市场要闻速递（2023-08-03）】
-1. 美财长耶伦抨击惠誉下调美国评级：“毫无根据”。
-2. 美国财政部：惠誉下调评级的影响有限，美债仍是最安全资产。
-3. 招商证券：美国评级遭下调，美元信誉未受明显影响。
-4. 惠誉董事：导致降级决定的关键因素是财政和债务方面的恶化，以及治理问题。
-5. 美国财政部提高了所有名义票据和债券的拍卖规模，并表示未来可能需要加大拍卖规模。
-6. 美国7月ADP就业人数录得32.4万人，市场预期为18.5万人，连续第四个月超过预期。
-7. 明确制定实施一揽子方案，全面系统化解地方债务风险提速。
-8. 营业部违规收6张罚单，光大证券回应：已启动对相关人员的调查问责。
-9. “18远洋01”持有人通过了增加本金兑付宽限期条款的议案。]]></title>
-            <guid>3197641</guid>
-            <pubDate>Thu, 03 Aug 2023 09:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：核心通胀率将在夏季保持在当前水平附近。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9815278.d.html</link>
-            <guid>3197640</guid>
-            <pubDate>Thu, 03 Aug 2023 09:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【申菱环境：终止对外投资设立合资公司】申菱环境公告，公司此前与逸瑞投资、众煦环保就对外投资设立合资公司广东申菱环保能源有限公司签署《投资及经营公司协议》。协议约定合资公司注册资本为人民币2,000万元，其中申菱环境认缴出资1,400万元，认缴出资比例为70%。自上述各方签署《投资及经营公司协议》后，公司就该投资事项积极与相关方进行沟通和协商，并进行深入细致的分析论证，但基于市场环境变化，综合考虑各种相关因素，公司经审慎考虑及各方友好协商后决定终止前述对外投资事项并与各合资方签署了终止协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6592304.d.html</link>
-            <guid>3197639</guid>
-            <pubDate>Thu, 03 Aug 2023 09:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【太古地产：二季度末香港整体办公楼租用率为94%】太古地产(01972.HK)发布2023年第二季度营运数据汇报，已落成投资物业方面，2023年6月30日中国香港整体办公楼租用率94%，2022年12月31日租用率为96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6592169.d.html</link>
-            <guid>3197638</guid>
-            <pubDate>Thu, 03 Aug 2023 09:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芯海科技在接受机构调研时表示，可以应用于商业储能和动力电池领域的12-18节BMS芯片，当前研发进展顺利，预计今年内上市。]]></title>
-            <guid>3197637</guid>
-            <pubDate>Thu, 03 Aug 2023 09:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：潜在通胀正在趋缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9814774.d.html</link>
-            <guid>3197636</guid>
-            <pubDate>Thu, 03 Aug 2023 09:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市市场监管执法总队与重点平台签署协作备忘录】今天（3日），北京市市场监管综合执法总队在市场监管总局网监司指导下，与20家国内平台企业签署《北京市平台经济领域协同执法备忘录》。备忘录的签署是落实建立健全与平台企业常态化沟通交流机制的重要举措，有利于及时了解平台企业困难和诉求，加强政企协同联动，激发市场主体活力，优化首都营商环境，推动平台经济规范健康持续发展。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9814585.d.html</link>
-            <guid>3197635</guid>
-            <pubDate>Thu, 03 Aug 2023 09:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报道：华平投资、Centerbridge竞购巴克莱德国子公司】巴克莱收到了私募股权公司有关收购其德国消费金融子公司的不具约束力的要约。两位知情人士称，对该子公司巴克莱德国的报价约为5亿欧元，竞标者在等待通知是否进入第二阶段竞标。Pollen Street Capital以及德国和欧洲其他地区的几家银行均在7月21日的最初截止日期之前表示有意竞购。目前尚不清楚这些银行是否仍在参与竞购。巴克莱、华平投资、Centerbridge和Pollen Street Capital不予置评。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9814205.d.html</link>
-            <guid>3197634</guid>
-            <pubDate>Thu, 03 Aug 2023 09:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【预告：国家发展改革委将于8月4日10:00举行新闻发布会】国家发展改革委将于8月4日10:00举行新闻发布会，国家发展改革委、财政部、中国人民银行、国家税务总局有关负责同志共同出席，介绍“打好宏观政策组合拳，推动经济高质量发展”有关情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv7777521.d.html</link>
-            <guid>3197633</guid>
-            <pubDate>Thu, 03 Aug 2023 09:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国家发改委：研究讨论下一阶段促进我国创业投资行业健康发展的具体政策举措】为贯彻落实6月16日国务院常务会议和《私募投资基金监督管理条例》关于研究制定促进创业投资发展有关政策的要求，近日，国家发展改革委财金司负责同志主持召开部门座谈会，沟通交流各部门工作开展情况，研究讨论下一阶段促进我国创业投资行业健康发展的具体政策举措。有关部门相关司局同志参加会议。下一步，国家发展改革委将进一步加强与其他部门的沟通协调，会同有关部门研究出台促进创业投资健康发展的政策措施，更好服务实体经济高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6590748.d.html</link>
-            <guid>3197632</guid>
-            <pubDate>Thu, 03 Aug 2023 09:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：需要更灵活地根据最新数据调整我们的政策范围。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6590671.d.html</link>
-            <guid>3197631</guid>
-            <pubDate>Thu, 03 Aug 2023 09:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【爱奇艺旗下VR公司“梦想绽放”业务陷入停滞 或超百名员工被欠薪】记者从多名独立信源处了解到，爱奇艺旗下VR公司梦想绽放科技有限公司业务陷入停滞，在职和离职员工，总计或超百人被拖欠工资。一名知情人士告诉记者，从今年3月开始，公司就开始缓发工资，大部分人是发一半，或70%，五月和七月是整月没发工资。另一知情人士则表示，公司在3月份让全体员工签署了工资缓发通知，全员薪资按职级按比例发放，CEO一级汇报的部门负责人，每月领北京最低生活标准2300元，合计已欠薪3个月，部分被裁员工赔偿也未按时发放。多名知情人士表示，公司目前比较困难，基本是全员欠薪，这半年业务也基本停滞，供应商货款拖欠，供应链已经停止运转，淘宝天猫京东的店铺商品也已全线下架。记者联系了爱奇艺，尚未取得回应。  （科创板日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9813345.d.html</link>
-            <guid>3197630</guid>
-            <pubDate>Thu, 03 Aug 2023 09:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：如果要在不损害经济活动的情况下实现通胀目标，我们必须谨慎地调整我们的货币政策立场。]]></title>
-            <guid>3197629</guid>
-            <pubDate>Thu, 03 Aug 2023 09:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧元兑美元短线小幅拉升，现报1.0925。欧股小幅拉升，欧洲斯托克50指数跌幅收窄至1%。]]></title>
-            <guid>3197628</guid>
-            <pubDate>Thu, 03 Aug 2023 09:09:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行执委帕内塔：货币政策可能不仅通过提高利率来发挥作用，还可以通过将政策利率保持在现有水平更长时间来发挥作用。]]></title>
-            <guid>3197627</guid>
-            <pubDate>Thu, 03 Aug 2023 09:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天际股份：拟间接收购新特化工100%的股权】天际股份公告，为扩充新能源材料产品品类，公司拟以4.6亿元的价格，收购常熟市誉翔贸易有限公司（简称“誉翔贸易”）100%的股权，进而间接收购常熟新特化工有限公司（简称“新特化工”）100%的股权。新特化工是一家以磷化工系列产品和精细化工产品开发、生产和销售为主业的化工企业，主要产品包括次磷酸钠、四羟甲基系列产品、双（2,4,4-三甲基戊基）膦酸等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9812375.d.html</link>
-            <guid>3197626</guid>
-            <pubDate>Thu, 03 Aug 2023 09:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[分析师评欧元区6月PPI数据：从分项来看，中间产品（-0.7%）和能源（-0.5%）的价格下降，而耐用消费品和非耐用消费品的价格保持稳定。与此同时，当月资本品价格小幅上涨（+0.1%）。如果剔除能源，6月份生产者价格仍将下降0.3%。]]></title>
-            <guid>3197625</guid>
-            <pubDate>Thu, 03 Aug 2023 09:08:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苑东生物：获得阿立哌唑口服溶液药品注册证书】苑东生物公告，公司于近日收到国家药品监督管理局对阿立哌唑口服溶液核准签发的《药品注册证书》。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9812197.d.html</link>
-            <guid>3197624</guid>
-            <pubDate>Thu, 03 Aug 2023 09:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【傲农生物：控股股东、实控人近期大宗交易减持3.2168%公司股份】傲农生物8月3日公告，2023年7月25日至2023年8月2日，公司控股股东厦门傲农投资有限公司、公司实际控制人、董事长、总经理吴有林通过大宗交易合计减持公司股份2801.99万股，持股变动比例为3.2168%，持股变动比例超过3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6589217.d.html</link>
-            <guid>3197623</guid>
-            <pubDate>Thu, 03 Aug 2023 09:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩国超导低温学会：LK-99不是常温超导体 没有表现出迈斯纳效应】韩国超导低温学会当天应询表示，韩国量子能源研究中心研究团队所合成的“LK-99”并非常温超导体，因为它并没有表现出超导体的特征。昨日（2日），韩国超导低温学会宣布组成专家验证委员会对该物质进行科学研判。报道称，该委员会解释称，超导现象意味着特定物质会消除电阻，并产生挤出内部磁场的“负效应”，但在与LK-99相关的视频和论文中，并没有出现这种迈斯纳效应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9811608.d.html</link>
-            <guid>3197622</guid>
-            <pubDate>Thu, 03 Aug 2023 09:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江发布山洪灾害红色预警】黑龙江省防汛抗旱指挥部办公室、黑龙江省水利厅、黑龙江省气象局8月3日16时40分联合升级发布红色山洪灾害气象风险预警：预计8月3日16时-5日20时，哈尔滨全区、牡丹江全区有很高气象风险引发山洪灾害（红色预警），鸡西、鸡东有高气象风险引发山洪灾害（橙色预警）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiix6588632.d.html</link>
-            <guid>3197621</guid>
-            <pubDate>Thu, 03 Aug 2023 09:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯财政部长：根据预算计划，从市场上购买黄金，转变为出售黄金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv7776091.d.html</link>
-            <guid>3197620</guid>
-            <pubDate>Thu, 03 Aug 2023 09:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【原中国铁路总公司党组书记、总经理盛光祖受贿、利用影响力受贿一案一审开庭】陕西省宝鸡市中级人民法院一审公开开庭审理了原中国铁路总公司党组书记、总经理盛光祖受贿、利用影响力受贿一案。
-
-陕西省宝鸡市人民检察院起诉指控：2004年至2022年，盛光祖利用担任海关总署党组副书记、副署长、党组书记、署长，原铁道部党组书记、部长，原中国铁路总公司党组书记、总经理，第十二届全国人民代表大会常务委员会委员、财政经济委员会副主任委员等职务上的便利，为有关单位和个人在企业经营、项目承揽、职务晋升、工作调整等方面谋取利益，直接或者通过他人非法收受财物共计折合人民币5666万余元。
-
-2021年11月，盛光祖利用原担任中国铁路总公司党组书记、总经理的职权和地位形成的便利条件，通过其他国家工作人员职务上的行为，为相关单位在企业经营方面谋取不正当利益。2015年至2022年，盛光祖通过他人非法收受财物共计折合人民币714万余元。
-
-检察机关提请以受贿罪、利用影响力受贿罪追究盛光祖的刑事责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9809873.d.html</link>
-            <guid>3197619</guid>
-            <pubDate>Thu, 03 Aug 2023 09:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普冉股份：两名股东拟合计减持不超过1.95%】普冉股份公告，股东杭州早月、杭州晓月拟减持不超过1,471,070股（杭州早月减持不超过892,674股，杭州晓月减持不超过578,396股），即不超过当前总股本的1.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9809792.d.html</link>
-            <guid>3197618</guid>
-            <pubDate>Thu, 03 Aug 2023 09:02:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯财政部：根据预算计划，从市场上购买黄金，转变为出售黄金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzexiiv9809501.d.html</link>
-            <guid>3197617</guid>
-            <pubDate>Thu, 03 Aug 2023 09:01:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

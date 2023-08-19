@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Aug 2023 15:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 16:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【越南大力促进碳市场发展】在《联合国气候变化框架公约》第26次缔约方大会上，越南承诺将在现有资源和国际社会的合作与支持下制定和开发强有力的措施来减少温室气体排放，力争实现2050年达到净零排放的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhuhct7637463.d.html</link>
+            <guid>3213871</guid>
+            <pubDate>Sat, 19 Aug 2023 15:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【图解|什么是新冠病毒变异株EG.5？在我国流行情况如何？】从国家疾控局了解到，新冠病毒变异株EG.5目前已在我国绝大多数省份形成优势流行。疫情对各地医疗系统带来的压力较小，短期内不会发生规模性疫情。什么是新冠病毒变异株EG.5?在我国流行情况如何？致病力有无变化？国家疾控局权威解答↓]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtzvx4542579.d.html</link>
+            <guid>3213864</guid>
+            <pubDate>Sat, 19 Aug 2023 15:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗集团购买了价值1.6亿美元的俄罗斯铝】伦敦金属交易所（LME）周五称，美国花旗银行提出了从韩国光阳市仓库中运送约75000吨铝的要求，这些铝最初是由俄铝公司生产的。目前还不清楚花旗银行打算如何处理这些金属，也不清楚花旗银行是自己进行交易还是代表客户进行交易。花旗银行拒绝发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtzvv7764332.d.html</link>
+            <guid>3213856</guid>
+            <pubDate>Sat, 19 Aug 2023 15:15:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周六重要消息汇总
 国内新闻：
@@ -588,24 +606,6 @@
             <title><![CDATA[【北京明日夜间降雨明显，局地有强对流】北京市气象台19日17时发布：今天夜间晴转多云，南转北风一二级，最低气温24℃；明天白天多云间晴，午后至傍晚有分散性雷阵雨，北转南风二三级，最高气温32℃。明天午后至傍晚有分散性雷阵雨，夜间降雨明显，局地有强对流，外出雨具随身，注意防雷避雨和交通安全。]]></title>
             <guid>3213643</guid>
             <pubDate>Sat, 19 Aug 2023 09:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【仪表盘亮度或无法调节，克莱斯勒在美召回18.2 万辆汽车】8月19日，据美国国家公路交通安全管理局披露，克莱斯勒将召回部分2022-2023款Jeep Compass车型，共计181,999辆。召回原因为：由于车身控制模块（BCM）中的软件问题，仪表盘（IPC）的亮度水平可能无法调节。经销商将免费更新车身控制模块（BCM）软件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtrhc4749870.d.html</link>
-            <guid>3213642</guid>
-            <pubDate>Sat, 19 Aug 2023 09:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电影《学爸》票房突破9000万】 据猫眼专业版数据，电影 《学爸》  上映2天 ，总票房突破9000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtrfx6054554.d.html</link>
-            <guid>3213641</guid>
-            <pubDate>Sat, 19 Aug 2023 09:26:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京明日夜间降雨明显，局地有强对流】北京市气象台8月19日17时发布：今天夜间晴转多云，南转北风一二级，最低气温24℃；明天白天多云间晴，午后至傍晚有分散性雷阵雨，北转南风二三级，最高气温32℃。明天午后至傍晚有分散性雷阵雨，夜间降雨明显，局地有强对流，外出雨具随身，注意防雷避雨和交通安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-19/detail-imzhtrfz7972400.d.html</link>
-            <guid>3213640</guid>
-            <pubDate>Sat, 19 Aug 2023 09:25:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

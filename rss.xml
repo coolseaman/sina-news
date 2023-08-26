@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 26 Aug 2023 18:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 19:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中蒙策克口岸进口货运量突破1000万吨】从内蒙古阿拉善盟额济纳海关获悉，中蒙策克口岸今年累计进口货运量达到1000.06万吨，出入境车辆157725辆次，单日过货量创近三年来新高，突破10万吨。据介绍，策克口岸作为我国建设向北开放重要桥头堡的前沿阵地，今年以来，海关与边检部门加强协作，指派专人与企业提前进行舱单申报、运输工具管理、健康申报等信息对接，确保车辆进出境“即到即卸”货物“即报即查”。]]></title>
+            <guid>3221570</guid>
+            <pubDate>Sat, 26 Aug 2023 18:59:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国央行副行长：利率需要在更长一段时间内保持高位】英国央行副行长Ben Broadbent表示，鉴于通胀回落速度不太可能像物价上涨那样快，所以央行必须把利率在高位保持更长时间。“第二轮效应消退的速度不会像当初出现时那样快，” Broadbent在杰克逊霍尔年会上说。 “因此，货币政策很可能必须在一段时间内保持在限制性水平。”]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-27/detail-imziqcyt4022588.d.html</link>
@@ -608,12 +613,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziphvc4454621.d.html</link>
             <guid>3221308</guid>
             <pubDate>Sat, 26 Aug 2023 08:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南航通报空乘跌落：交接旅客遗失物品时，意外跌落】南航深圳分公司微信公众号8月26日发布情况说明：8月24日14:40左右，南航CZ3352航班（常州至深圳）起飞前，一名乘务员在准备与地面工作人员交接前序航班旅客遗失物品时，意外从客梯车跌落。南航对此高度重视，已安排专人陪同受伤乘务员前往医院救治，目前情况稳定。事件发生的具体原因，相关单位正在进行调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imziphvc4451460.d.html</link>
-            <guid>3221307</guid>
-            <pubDate>Sat, 26 Aug 2023 08:05:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

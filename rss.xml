@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 27 Aug 2023 17:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 18:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【高盛：上调中国神华A股和中煤能源A股的评级至买进】高盛：将中国神华A股评级上调至买进（之前为中性评级），目标价33元人民币，意味着将较上周五收盘价上涨18%。中国神华A股在8月25日公布的季度盈利超过预期。将中煤能源A股评级上调至买进（之前为中性评级），目标价10元人民币，意味着将较上周五上涨26%。中煤能源A股在8月24日公布的季度盈利低于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-28/detail-imzispfw3131958.d.html</link>
+            <guid>3221967</guid>
+            <pubDate>Sun, 27 Aug 2023 17:27:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院议长麦卡锡：计划在七国集团（G7）日本会议上推销美国天然气的出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-28/detail-imzispfx9908002.d.html</link>
+            <guid>3221966</guid>
+            <pubDate>Sun, 27 Aug 2023 17:21:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄称打击乌军用机场 乌称无人机袭俄机场】俄罗斯国防部27日说，当日凌晨，俄军利用高精度武器对位于乌克兰基辅州的军用机场进行了打击。俄军防空系统击落了2架乌军苏-25战机，拦截了9枚“海马斯”火箭弹，击落30架无人机。乌克兰国家通讯社27日报道，乌克兰安全局称，26日夜间，乌克兰安全局使用自杀式无人机袭击了俄罗斯库尔斯克机场。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-28/detail-imzispfw3126225.d.html</link>
@@ -611,16 +623,6 @@
             <title><![CDATA[美国国家飓风中心：飓风弗兰克林位于百慕大以南南西约925公里处，最大持续风速为150公里/小时。]]></title>
             <guid>3221797</guid>
             <pubDate>Sun, 27 Aug 2023 08:59:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：预计弗兰克林今天晚些时候将转向西北偏北，随后在下周初向北和东北偏北移动。]]></title>
-            <guid>3221796</guid>
-            <pubDate>Sun, 27 Aug 2023 08:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信金属：黑色金属市场需求不及预期，上半年归母净利润10.67亿元，同比减少32.28%】中信金属2023年8月27日晚间发布半年报称，上半年营业收入612.18亿元，同比减少1.85%；归属于母公司所有者的净利润10.67亿元，同比减少32.28%；基本每股收益0.23元。报告期内黑色金属市场需求不及预期、价格震荡总体下行，导致黑色金属业务利润同比下降；参股的艾芬豪矿业因其股价波动导致可转债嵌入的衍生金融负债产生公允价值变动损失，导致利润同比下降。]]></title>
-            <guid>3221795</guid>
-            <pubDate>Sun, 27 Aug 2023 08:58:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

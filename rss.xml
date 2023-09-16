@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 16 Sep 2023 18:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 19:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欧洲央行管委马迪斯·穆勒：鉴于利率已经达到可能足以控制通胀的水平，欧洲央行应该考虑加快缩减其债券投资组合。]]></title>
+            <guid>3244270</guid>
+            <pubDate>Sat, 16 Sep 2023 18:36:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【杭州亚运会主媒体中心迎媒体及持权转播商】杭州亚运会主媒体中心入驻仪式在浙江杭州举行。杭州亚运会期间，来自中国、马来西亚、新加坡、泰国、日本、韩国、菲律宾等亚洲各国家(地区)的万余名媒体记者将在主媒体中心开展赛事转播报道，共同记录亚洲体育的累累硕果，传播亚洲人民的美好情谊。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmxvqa7738067.d.html</link>
@@ -613,12 +618,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-16/detail-imzmwyka4286008.d.html</link>
             <guid>3244077</guid>
             <pubDate>Sat, 16 Sep 2023 09:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第34届南京金洽会将于9月20日开幕】从南京市商务局、投资促进中心了解到，第34届中国南京金秋经贸洽谈会（简称“金洽会”）将于9月19日至25日在南京举行，主会场设在南京国际博览会议中心，开幕式将于9月20日上午9时举行。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-16/detail-imzmwyka4284358.d.html</link>
-            <guid>3244076</guid>
-            <pubDate>Sat, 16 Sep 2023 09:04:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

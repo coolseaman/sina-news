@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 16 Sep 2023 19:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 20:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【上海旅游节开幕式吸引大量游客 外滩滨水区人流量达20万人次】9月16日晚，上海旅游节开幕式在黄浦江畔举行，精彩绝伦的无人机表演与浦江彩船大巡游、两岸灯光联动吸引了一大批市民游客驻足围观。外滩滨水区今天已迎来客流约20万人次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-17/detail-imzmxzvx0844546.d.html</link>
+            <guid>3244292</guid>
+            <pubDate>Sat, 16 Sep 2023 19:37:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[欧洲央行管委马迪斯·穆勒：鉴于利率已经达到可能足以控制通胀的水平，欧洲央行应该考虑加快缩减其债券投资组合。]]></title>
             <guid>3244270</guid>
@@ -612,12 +618,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-16/detail-imzmwyka4286768.d.html</link>
             <guid>3244079</guid>
             <pubDate>Sat, 16 Sep 2023 09:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉Cybertruck预订量突破200万】最新的众包在线预订跟踪数据显示，特斯拉Cybertruck的净预订量已突破200万辆大关。如果这个数字是准确的，那么Cybertruck仅预订收入就超过了2亿美元。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-16/detail-imzmwyka4286008.d.html</link>
-            <guid>3244077</guid>
-            <pubDate>Sat, 16 Sep 2023 09:12:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

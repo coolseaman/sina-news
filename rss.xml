@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 24 Sep 2023 16:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 17:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中金策略：A股情绪指标低至历史偏底部水平】中金策略指出，本周前几个交易日市场延续9月初以来的震荡磨底趋势，市场日成交额明显萎缩并创下年内新低。交易处于历史偏底部往往意味着资产价格可能已经隐含过度谨慎预期，卖盘压力在前期也得到较为充分的释放，市场继续下行风险较小，中期机会大于风险。在情绪指标抵达历史偏底部位置时，后市指数演绎的关键在于影响市场的主要矛盾能否得到有效缓解。近期经济数据边际改善，在经济略见起色但难谈企稳之前，政策可能仍有继续加码的空间。且回溯历史上长周期调整后的重要底部区域，均有密集的支持实体经济及资本市场的政策出台，而市场预期的扭转通常也相对滞后，形成阶段性的“磨底期”，这种预期的扭转往往要经历量变到质变的过程，需要保持耐心，周五指数明显反弹可能意味着边际积极变化的出现。配置层面，近期高股息风格表现较好，反映在业绩真空期及政策变化阶段，投资者更重视当期回报。当前政策环境较为积极且仍在发力过程中，地产产业链等政策重点支持领域近期虽有所调整但仍有望有相对表现，受益于产业催化的部分科技成长细分领域建议结合景气度预期做自下而上布局。]]></title>
+            <guid>3252286</guid>
+            <pubDate>Sun, 24 Sep 2023 16:41:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【今日重点关注财经数据与事件】
 ① 13:30 日本央行行长植田和男会见商界领袖
@@ -605,12 +610,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvfne9929843.d.html</link>
             <guid>3251931</guid>
             <pubDate>Sun, 24 Sep 2023 09:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两部门部署重点地区秋汛防范和亚运会期间防汛风险防控工作：预警信息决不能一转了之】9月24日，按照国家防总副总指挥、应急管理部部长王祥喜安排部署，国家防总办公室、应急管理部组织防汛专题视频会商调度，与中国气象局、水利部、自然资源部联合会商研判华西秋雨和亚运会期间防汛形势，视频连线浙江、湖北、重庆等省份防办，安排部署重点地区防汛工作。应急管理部副部长、水利部副部长王道席主持会商。据气象部门预测，9月24日至26日，重庆东北部、河北北部、河南南部等地局地有暴雨，湖北中西部、陕西南部、四川东北部等地局地有大雨。会商指出，近期华西地区降雨较常年同期显著偏多，重庆、四川东部、陕西南部、湖北中西部、河南南部等地仍有较强降雨，山洪地质灾害、中小河流洪水、中小水库安全度汛风险突出。目前，杭州第19届亚运会正在举行，中秋、国庆长假即将到来，旅游、探亲等出行集中，防汛安全面临更大压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-24/detail-imznvfmz0037516.d.html</link>
-            <guid>3251930</guid>
-            <pubDate>Sun, 24 Sep 2023 09:41:51 GMT</pubDate>
         </item>
     </channel>
 </rss>

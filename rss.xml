@@ -4,13 +4,102 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 03 Oct 2023 16:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 17:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[本田汽车(HMC.N)9月美国汽车销量同比增长45.5%。]]></title>
+            <title><![CDATA[法国外交部长：法国同意与亚美尼亚签订未来合同，允许向亚美尼亚交付军事装备。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3495114.d.html</link>
+            <guid>3261369</guid>
+            <pubDate>Tue, 03 Oct 2023 17:10:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰央行：看到外汇需求增长；仅允许格里夫纳出现轻微波动。]]></title>
+            <guid>3261368</guid>
+            <pubDate>Tue, 03 Oct 2023 17:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：评估GDP增速是否需要低于趋势水平以抑制通胀取决于对其他趋势的评估，如生产率。]]></title>
+            <guid>3261367</guid>
+            <pubDate>Tue, 03 Oct 2023 17:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：能源价格和地缘政治对通胀构成上行风险；失去儿童保育福利和学生贷款偿还可能削弱需求。]]></title>
+            <guid>3261366</guid>
+            <pubDate>Tue, 03 Oct 2023 17:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：企业表示招聘变得更容易，工资增长可能放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4023090.d.html</link>
+            <guid>3261365</guid>
+            <pubDate>Tue, 03 Oct 2023 17:04:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：劳动力市场上也出现了“平衡迹象”，就业增长放缓主要集中在医疗保健和社会援助行业。]]></title>
+            <guid>3261364</guid>
+            <pubDate>Tue, 03 Oct 2023 17:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：价格上涨较快的商品份额已经下降；企业认同放缓趋势可能会继续。]]></title>
+            <guid>3261363</guid>
+            <pubDate>Tue, 03 Oct 2023 17:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：仍需努力降低通胀，但对基本价格趋势放缓感到有信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4022961.d.html</link>
+            <guid>3261362</guid>
+            <pubDate>Tue, 03 Oct 2023 17:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：预计下一步行动是在明年年底将进行一次25个基点的降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkx7245824.d.html</link>
+            <guid>3261361</guid>
+            <pubDate>Tue, 03 Oct 2023 17:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：较高的长期利率对商业活动的影响不超过正常紧缩周期中的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4022748.d.html</link>
+            <guid>3261360</guid>
+            <pubDate>Tue, 03 Oct 2023 17:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：如果长期高利率开始过度拖慢经济增长，那将是一个问题；但目前还没有出现这种情况。]]></title>
+            <guid>3261359</guid>
+            <pubDate>Tue, 03 Oct 2023 17:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：预计通胀将在2025年底接近2%的目标水平。]]></title>
+            <guid>3261358</guid>
+            <pubDate>Tue, 03 Oct 2023 17:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：亚马逊使用秘密定价算法提高商品价格】据报道，根据美国联邦贸易委员会（FTC）对亚马逊(AMZN.O)提起的垄断诉讼的部分内容，亚马逊使用被称为“尼斯计划”的秘密定价算法提高了价格。据悉，该算法帮助亚马逊提高了各个购物类别商品的利润，而且由于其在电子商务领域的影响力，导致竞争对手提高了价格，向顾客收取了更高的费用。在竞争对手没有将价格提高到亚马逊的价格水平的情况下，该算法会自动将商品退回到正常价格点。知情人士透露，亚马逊因此获得了超过10亿美元的收入。不过亚马逊在2019年已停止使用该算法，目前尚不清楚停止的原因。FTC表示，亚马逊的垄断对整个零售业的消费者价格上涨产生了广泛的影响，“尼斯计划”是其中一个例子。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkw8815656.d.html</link>
+            <guid>3261357</guid>
+            <pubDate>Tue, 03 Oct 2023 16:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三菱汽车北美地区汽车销售量在三季度同比增长32.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4017837.d.html</link>
+            <guid>3261356</guid>
+            <pubDate>Tue, 03 Oct 2023 16:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[必和必拓(BHP.N)要求与智利监管机构进行工资谈判的调解。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkz4016801.d.html</link>
+            <guid>3261355</guid>
+            <pubDate>Tue, 03 Oct 2023 16:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF：墨西哥2023年的GDP增速预测现在为3.2%，7月预测为2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwhkv3490646.d.html</link>
+            <guid>3261354</guid>
+            <pubDate>Tue, 03 Oct 2023 16:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本田汽车9月在美国市场汽车销量同比增长45.5%，三季度在美国市场销量同比增长52.7%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpwaaz7367261.d.html</link>
             <guid>3261353</guid>
             <pubDate>Tue, 03 Oct 2023 16:11:25 GMT</pubDate>
@@ -525,99 +614,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaay8929323.d.html</link>
             <guid>3261270</guid>
             <pubDate>Tue, 03 Oct 2023 14:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线急挫53点，现报106.97。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4127982.d.html</link>
-            <guid>3261269</guid>
-            <pubDate>Tue, 03 Oct 2023 14:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻泰国大使馆：曼谷购物中心枪击案造成中国公民1死1伤】当地时间10月3日，经中央广播电视总台记者与中国驻泰国大使馆方面核实，泰国曼谷暹罗百丽宫购物中心枪击案造成中国公民1死1伤。当天16时左右，泰国曼谷市中心暹罗百丽宫购物中心发生枪击事件，嫌疑人已被警方控制。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7350815.d.html</link>
-            <guid>3261268</guid>
-            <pubDate>Tue, 03 Oct 2023 14:14:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议长麦卡锡：我相信我会保住这个职位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4127808.d.html</link>
-            <guid>3261267</guid>
-            <pubDate>Tue, 03 Oct 2023 14:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY短线大跌近300点，现报148.58。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4127741.d.html</link>
-            <guid>3261266</guid>
-            <pubDate>Tue, 03 Oct 2023 14:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSCI新兴市场外汇指数跌至日内低点，抹去了年内涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4127579.d.html</link>
-            <guid>3261265</guid>
-            <pubDate>Tue, 03 Oct 2023 14:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：美日上破150大关，干预担忧加剧】美元兑日元涨破150的心理支撑位，令交易员对日本可能采取干预措施提振日元更加关注。截至周二，日本财务大臣铃木俊一已连续六天对汇率波动发出警告。他表示不会根据汇率水平来判断外汇干预的可能性，而会通过波动性来判断。今年以来，美元兑日元已涨超12%。去年9月，当美日升至145.90时，日本首次出手干预。去年9月至10月，日本曾三次动用约650亿美元支撑日元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaay8928806.d.html</link>
-            <guid>3261264</guid>
-            <pubDate>Tue, 03 Oct 2023 14:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[桥水基金创始人达利欧：美国10年期国债收益率的均衡水平似乎在5%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwacc4127356.d.html</link>
-            <guid>3261263</guid>
-            <pubDate>Tue, 03 Oct 2023 14:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议长麦卡锡：将于周二提出废除投票的动议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpwaaz7349985.d.html</link>
-            <guid>3261262</guid>
-            <pubDate>Tue, 03 Oct 2023 14:09:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杰富瑞：将星巴克的目标价从107美元下调至100美元，维持“持有”评级，同店销售/收入的长期增长有可能下调。]]></title>
-            <guid>3261261</guid>
-            <pubDate>Tue, 03 Oct 2023 14:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大股指跌幅扩大，纳指跌超1%，标普500指数跌0.82%，道指跌0.62%。]]></title>
-            <guid>3261260</guid>
-            <pubDate>Tue, 03 Oct 2023 14:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率在JOLTS数据发布后上涨，现报4.747%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpvvva9058879.d.html</link>
-            <guid>3261259</guid>
-            <pubDate>Tue, 03 Oct 2023 14:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫8美元，现报1821.67美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpvvvc7480074.d.html</link>
-            <guid>3261258</guid>
-            <pubDate>Tue, 03 Oct 2023 14:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[非美货币普跌，欧元兑美元EUR/USD短线下跌近30点，现报1.0463；英镑兑美元GBP/USD短线下跌超30点，现报1.2067。]]></title>
-            <guid>3261257</guid>
-            <pubDate>Tue, 03 Oct 2023 14:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据公布后，美元指数DXY短线上涨23点，现报107.27。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpvvvc7479837.d.html</link>
-            <guid>3261256</guid>
-            <pubDate>Tue, 03 Oct 2023 14:02:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美元兑日元向上触及150关口】美元兑日元向上触及150关口，为去年10月以来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpvvvf4256695.d.html</link>
-            <guid>3261255</guid>
-            <pubDate>Tue, 03 Oct 2023 14:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国8月JOLTs职位空缺961万人，前值882.7万人】美国8月JOLTs职位空缺961万人，预期880万人，前值882.7万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-03/detail-imzpvvvc7479537.d.html</link>
-            <guid>3261254</guid>
-            <pubDate>Tue, 03 Oct 2023 14:00:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

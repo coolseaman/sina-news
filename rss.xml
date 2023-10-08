@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 08 Oct 2023 20:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 21:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[哈马斯武装分子发布消息称，向以色列本-古里安国际机场方向发射了大量导弹。（俄罗斯卫星通讯社）]]></title>
+            <guid>3265863</guid>
+            <pubDate>Sun, 08 Oct 2023 21:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋外交部：哈马斯对以色列城镇的袭击是严重的，并导致局势升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqmwix5251559.d.html</link>
+            <guid>3265862</guid>
+            <pubDate>Sun, 08 Oct 2023 20:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[香港天文台今日凌晨4点发布黑色暴雨警告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqmwix5250205.d.html</link>
+            <guid>3265861</guid>
+            <pubDate>Sun, 08 Oct 2023 20:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列政府8日表示，目前有超过100人被巴勒斯坦伊斯兰抵抗运动（哈马斯）扣押。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqmwix5249681.d.html</link>
+            <guid>3265860</guid>
+            <pubDate>Sun, 08 Oct 2023 20:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴以冲突后交易员寻求避险 美元攀升】周一早盘，美元兑主要货币走高，外汇交易员首次有机会对巴以冲突做出反应。长期以来被视为麻烦时期避风港的美元兑欧元和英镑在悉尼开盘后上涨，而包括澳元在内的高风险货币则下跌。另一个投资者青睐的避险货币日元则出现上涨。目前，欧元兑美元报1.0562，跌0.23%；英镑兑美元报1.2206，跌0.26%；澳元兑美元报0.6364，跌0.30%；美元兑日元报149.06，跌0.18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqmwix5249668.d.html</link>
+            <guid>3265859</guid>
+            <pubDate>Sun, 08 Oct 2023 20:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴以爆发新一轮大规模冲突 以媒称以政府或将开展“重大军事活动”】以色列总理办公室当地时间8日表示，以色列安全内阁7日晚间批准以色列进入战争状态。以色列媒体称，以色列基本法第四十条规定，此举意味着允许以色列政府开展“重大军事活动”，相关决定声明将于9日提交给以色列议会外交和国防委员会批准，随后，以色列总理将被要求在议会全体会议上宣布决定。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqmwiv8471755.d.html</link>
+            <guid>3265858</guid>
+            <pubDate>Sun, 08 Oct 2023 20:13:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【西藏那曲市尼玛县发生3.6级地震】中国地震台网正式测定：10月9日03时46分在西藏那曲市尼玛县（北纬30.83度，东经86.36度）发生3.6级地震，震源深度25千米。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqmwiv8471366.d.html</link>
@@ -594,42 +629,6 @@
             <title><![CDATA[【我国科研团队率先实现对兆瓦级永磁风力发电机全系列机型整体充退磁】从华中科技大学获悉，华中科技大学国家脉冲强磁场科学中心工程技术团队近日成功实现20兆瓦半直驱永磁风力发电机转子的整体充磁，标志着我国科研团队在国际上率先实现对兆瓦级永磁风力发电机全系列机型整体充退磁。（新华社）]]></title>
             <guid>3265637</guid>
             <pubDate>Sun, 08 Oct 2023 13:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【助力粮油安全 中国耐盐大豆“科豆35”示范亩产突破300公斤】10月8日，山东省东营市黄河入海口一处盐碱地试验田里，中国科学院遗传与发育生物学研究所(遗传发育所)科研团队选育的耐盐高产大豆新品系“科豆35”禾壮荚实、豆粒饱满，丰收在即。当天进行的实收测产结果显示，“科豆35”大面积示范种植亩产稳定达270公斤以上，最高突破300公斤达306.52公斤。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-08/detail-imzqmfnc0128749.d.html</link>
-            <guid>3265635</guid>
-            <pubDate>Sun, 08 Oct 2023 12:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列TA-35指数一度下跌6.4%，为自2020年3月以来最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-08/detail-imzqmfnf5573100.d.html</link>
-            <guid>3265634</guid>
-            <pubDate>Sun, 08 Oct 2023 12:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚奥理事会代理主席辛格宣布，杭州第十九届亚洲运动会闭幕】亚奥理事会代理主席辛格宣布，杭州第十九届亚洲运动会闭幕。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-08/detail-imzqmfnc8795844.d.html</link>
-            <guid>3265633</guid>
-            <pubDate>Sun, 08 Oct 2023 12:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峡船闸前三季度货运量达1.27亿吨再创历史】长江三峡通航管理局最新数据显示，截至9月底，2023年三峡船闸共运行8340闸次，通过船舶3.2万艘次。通过货运量1.27亿吨，同比增长10.02%。这是三峡船闸前三个季度货运量首次突破1.2亿吨，再创历史同期新高。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-08/detail-imzqmfnc8794865.d.html</link>
-            <guid>3265629</guid>
-            <pubDate>Sun, 08 Oct 2023 12:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝钢股份：宝山基地炼钢厂铁水全区域智慧制造再上新台阶】据宝钢股份消息，近日，炼钢厂铁水全区域远程集控并一键贯通投运仪式，在一转炉冶炼集控室举行。炼钢厂铁水远程集控一键贯通是公司重点关注项目，实现了包括操作室搬迁集控、受铁一键贯通、KR一键贯通等自动化、模型化稳定运行的新业态。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-08/detail-imzqmfnc8794550.d.html</link>
-            <guid>3265628</guid>
-            <pubDate>Sun, 08 Oct 2023 12:49:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【虚增营收超20亿 冠农股份处罚落地：公司及相关当事人合计被罚款435万元】10月8日，冠农股份公告称，7日，公司收到中国证监会新疆监管局下发的《行政处罚决定书》。最终，监管部门对冠农股份给予警告，并处以210万元罚款；对时任董事长刘中海给予警告，并处以75万元罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-08/detail-imzqmfnc8794490.d.html</link>
-            <guid>3265627</guid>
-            <pubDate>Sun, 08 Oct 2023 12:48:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

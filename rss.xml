@@ -4,11 +4,415 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 12 Oct 2023 13:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 14:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：以色列北部响起警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7383901.d.html</link>
+            <guid>3315072</guid>
+            <pubDate>Thu, 12 Oct 2023 14:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场预计俄罗斯10月份海运柴油出口量为139万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2706665.d.html</link>
+            <guid>3315071</guid>
+            <pubDate>Thu, 12 Oct 2023 14:10:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超捷股份：间接供货涉及问界M7 M9等车型】超捷股份在机构调研时表示，目前公司通过Tier1客户间接供货螺栓、管夹、快插接头、中冷管等方面产品，涉及问界M7、M9等车型。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2706619.d.html</link>
+            <guid>3315070</guid>
+            <pubDate>Thu, 12 Oct 2023 14:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国债收益率延续涨势，日内上涨7-9个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1733524.d.html</link>
+            <guid>3315069</guid>
+            <pubDate>Thu, 12 Oct 2023 14:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500包装食品指数下跌3%，创近3年新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1733407.d.html</link>
+            <guid>3315068</guid>
+            <pubDate>Thu, 12 Oct 2023 14:08:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国气候变化事务特使应约与欧盟气候委员举行会谈】10月12日，中国气候变化事务特使解振华应约与欧盟委员会新任气候行动委员胡克斯特拉举行视频会谈，双方围绕中欧气候变化对话交流、合作推进全球气候多边进程等议题深入交换意见。双方商定将保持密切沟通，落实中欧环境与气候高层对话成果，积极开展对话交流与务实合作，共同推动《联合国气候变化框架公约》第二十八次缔约方会议取得成功。（生态环境部）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8510454.d.html</link>
+            <guid>3315067</guid>
+            <pubDate>Thu, 12 Oct 2023 14:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯中央银行预计将很快推出相关规则 以促进被冻结资产的交换】俄罗斯中央银行行长埃尔薇拉·纳比乌琳娜10月12日表示，俄罗斯中央银行预计在不久的将来出台相关规定，以促进涉及俄罗斯和外国投资者被冻结资产的相互交换。纳比乌琳娜补充说，俄罗斯中央银行准备研究解决俄罗斯投资者所持冻结资产问题的各种方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1732819.d.html</link>
+            <guid>3315066</guid>
+            <pubDate>Thu, 12 Oct 2023 14:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元/美元日内跌幅达1.0%，报0.6350。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8509865.d.html</link>
+            <guid>3315065</guid>
+            <pubDate>Thu, 12 Oct 2023 14:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY涨至149.63，为一周多以来的高点，日内涨0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8509788.d.html</link>
+            <guid>3315064</guid>
+            <pubDate>Thu, 12 Oct 2023 14:05:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长拒绝透露无人机或卫星图像是否是美国向以色列提供情报援助的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7382957.d.html</link>
+            <guid>3315063</guid>
+            <pubDate>Thu, 12 Oct 2023 14:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长：对美国对以色列的安全援助没有任何条件限制，美国期望以色列在打击行动中做出正确的决策。]]></title>
+            <guid>3315062</guid>
+            <pubDate>Thu, 12 Oct 2023 14:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：通胀率明年料将达到美联储2%的目标】摩根资产管理首席全球策略师DavidKelly表示，通胀率有望在明年达到美联储2%的目标。他表示，明年第四季度，整体CPI的同比增幅有望达到2%或更低。虽然美联储的官方目标注重的是个人消费支出价格指数，但这两个数据都受到央行和投资者的密切关注。Kelly称，能源形势正在逐渐好转，汽油价格下跌预示10月CPI会回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8509239.d.html</link>
+            <guid>3315061</guid>
+            <pubDate>Thu, 12 Oct 2023 14:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯奥林匹克委员会：国际奥委会的决定是适得其反和政治化的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1731888.d.html</link>
+            <guid>3315060</guid>
+            <pubDate>Thu, 12 Oct 2023 14:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：美国汽车行业的评级可能保持弹性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7381989.d.html</link>
+            <guid>3315059</guid>
+            <pubDate>Thu, 12 Oct 2023 14:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《生成式人工智能服务安全基本要求》公开征求意见】据全国信息安全标准化技术委员会网站，该会组织制定的技术文件《生成式人工智能服务安全基本要求》（下称《要求》）已于10月11日形成征求意见稿，现将技术文件面向社会公开征求意见，如有意见或建议，需在10月25日24:00前反馈。《要求》提出，建立语料来源黑名单，不得使用黑名单来源的数据进行训练。应对各来源语料进行安全评估，单一来源语料内容含违法不良信息超5%应将其加入黑名单。应使用包含个人信息的语料时，获得对应个人信息主体的授权同意，或满足其他合法使用该个人信息的条件。应使用包含人脸等生物特征信息的语料时，获得对应个人信息主体的书面授权同意，或满足其他合法使用该生物特征信息的条件。在训练过程中，应将生成内容安全性作为评价生成结果优劣的主要考虑指标之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8508509.d.html</link>
+            <guid>3315058</guid>
+            <pubDate>Thu, 12 Oct 2023 14:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厦门象屿：象屿天津物流中心项目开工建设】据厦门象屿消息，10月12日，象屿天津物流中心开工奠基仪式在天津港北疆港区举行，这标志着象屿在全国物流节点布局上再次迈出重要一步。该项目将结合天津港区位优势与象屿股份供应链服务优势，打造具有区域特色的大宗商品物流集散基地，助推京津冀及三北地区大宗产业发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2704717.d.html</link>
+            <guid>3315057</guid>
+            <pubDate>Thu, 12 Oct 2023 14:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Beyond Meat跌8.15% 瑞穗大幅下调目标价至5美元】Beyond Meat(BYND.US)跌8.15%，报8.12美元。瑞穗将Beyond Meat评级从“中性”下调至“跑输大市”，目标价从12美元下调至5美元，植物性肉类 “仍然受到宏观环境、创新不足和再投资增加的影响”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1731343.d.html</link>
+            <guid>3315056</guid>
+            <pubDate>Thu, 12 Oct 2023 14:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国务卿布林肯将于周五前往卡塔尔与那里的高级官员会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8508383.d.html</link>
+            <guid>3315055</guid>
+            <pubDate>Thu, 12 Oct 2023 13:59:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴勒斯坦总统阿巴斯：我们拒绝任何与杀害平民或虐待他们有关的行为，因为这些行为违反道德、宗教和国际法。]]></title>
+            <guid>3315054</guid>
+            <pubDate>Thu, 12 Oct 2023 13:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫发言人：特朗普对真主党和以色列国防部长的评论“危险而失控”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8508279.d.html</link>
+            <guid>3315053</guid>
+            <pubDate>Thu, 12 Oct 2023 13:59:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：对最新的通货膨胀数据表示欢迎，将继续努力从各个方面建设经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8508205.d.html</link>
+            <guid>3315052</guid>
+            <pubDate>Thu, 12 Oct 2023 13:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“一带一路”倡议提出后，中国对非主权融资承诺金额累计约1060亿美元】10月12日，《中国对非主权融资有效性研究》报告在北京发布，非洲多国使节表示，中国在援助非洲国家方面作出巨大贡献，报告的发布很好地印证评估了中国对非洲国家金融支持的有效性。根据报告，“一带一路”倡议提出后，中国对非主权融资承诺金额累计约1060亿美元，主要流向非洲的低收入和中低收入国家。报告结果显示，中国贷款与非洲的经济增长、就业创造、基础设施改善、出口创汇、外国直接投资以及入学率六个维度之间，具有正面影响。中国贷款的出现已成为非洲发展融资的新生和重要组成力量。（央视）]]></title>
+            <guid>3315051</guid>
+            <pubDate>Thu, 12 Oct 2023 13:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会主席冯德莱恩：摩尔多瓦在加入欧盟道路上取得“进展出色”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1730769.d.html</link>
+            <guid>3315050</guid>
+            <pubDate>Thu, 12 Oct 2023 13:56:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其主要股指日内下跌2.5％，本周累跌4％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7381411.d.html</link>
+            <guid>3315049</guid>
+            <pubDate>Thu, 12 Oct 2023 13:56:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云南省最低工资标准调整】近日，云南省人力资源和社会保障厅发布通知，决定对云南省最低工资标准进行调整。标准自2023年10月1日起施行。（云南发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1730644.d.html</link>
+            <guid>3315048</guid>
+            <pubDate>Thu, 12 Oct 2023 13:56:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京发布大雾黄色预警】据北京市气象局消息，北京市10月12日21时50分发布大雾黄色预警：预计，当前至13日09时，北京市大部分地区能见度小于1000米，部分地区不足500米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1730449.d.html</link>
+            <guid>3315047</guid>
+            <pubDate>Thu, 12 Oct 2023 13:55:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[根据美国众议院领导层发出的通知，众议院共和党人将于今天中午开会，以求就选举议长达成共识。]]></title>
+            <guid>3315046</guid>
+            <pubDate>Thu, 12 Oct 2023 13:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货跌幅扩大至0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8507090.d.html</link>
+            <guid>3315045</guid>
+            <pubDate>Thu, 12 Oct 2023 13:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国对两艘违反俄罗斯油价上限的油轮实施制裁】美国对两艘油轮及其船东实施封锁制裁，称这些油轮运载的俄罗斯石油超过了西方设定的每桶60美元的价格上限，这是拜登政府首次因违反该规则而惩罚市场参与者。美国财政部表示，其目标是一艘船主在阿联酋的船只，以及一艘船主在土耳其的船只。这两艘船在使用美国海运服务的情况下，搭载了每桶60美元以上的俄罗斯石油。新的制裁将禁止所有美国个人和实体与这些船只及其所有者进行交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1729136.d.html</link>
+            <guid>3315044</guid>
+            <pubDate>Thu, 12 Oct 2023 13:49:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国政府声明：德国总理舒尔茨与卡塔尔国家元首的会谈重点讨论了中东地区的局势，还讨论了包括德国公民在内的哈马斯的人质问题。]]></title>
+            <guid>3315043</guid>
+            <pubDate>Thu, 12 Oct 2023 13:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美亚柏科：华为是公司的战略合作伙伴、供应商及客户】美亚柏科在互动平台表示，华为是公司的战略合作伙伴、供应商及客户，公司围绕战略和业务，与产业链上下游的优秀企业保持着良好的合作关系。]]></title>
+            <guid>3315042</guid>
+            <pubDate>Thu, 12 Oct 2023 13:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧佩克数据仍指向本季度石油供应缺口将创纪录高位 】随着原油需求攀升至历史高位以及沙特限制产量，欧佩克的数据继续指向本季度原油供应缺口将创纪录。该组织最新报告中的数据显示，在今年最后三个月，全球石油库存可能会减少约300万桶/日。如果这成为现实，则将创有该记录30年以来的最大缺口。此外，欧佩克大体上维持对今明两年全球石油供需的预估不变。该组织预计其13个成员国本季度的平均产量需要达到3082万桶/日才能保持市场平衡，报告显示这远高于9月2776万桶/日的产量水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8505673.d.html</link>
+            <guid>3315041</guid>
+            <pubDate>Thu, 12 Oct 2023 13:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指日内悉数转跌，纳斯达克中国金龙指数跌幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2702390.d.html</link>
+            <guid>3315040</guid>
+            <pubDate>Thu, 12 Oct 2023 13:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 纽元兑美元日内跌幅达到1.00%，报0.5959]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1728384.d.html</link>
+            <guid>3315039</guid>
+            <pubDate>Thu, 12 Oct 2023 13:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴克莱跌3.64% 交易活动停滞及利率见顶将加剧银行盈利压力】巴克莱银行(BCS.US)跌3.64%，报7.535美元。巴克莱首席执行官C.S.Venkatakrishnan表示，交易活动停滞、波动性缓和以及利率见顶将加剧银行盈利压力。尽管9月初有初步迹象显示交易活动有所恢复，但复苏看起来仍“有点遥远”。他补充道，预期加息结束将限制银行的净息差，而波动性下降可能会抑制交易收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1727924.d.html</link>
+            <guid>3315038</guid>
+            <pubDate>Thu, 12 Oct 2023 13:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部副部长Adeyemo：今天的行动表明我们继续致力于减少俄罗斯的资源，并严格执行价格上限，这有两个目标：减少俄罗斯的石油利润，同时保持全球能源市场的稳定和供应充足。]]></title>
+            <guid>3315037</guid>
+            <pubDate>Thu, 12 Oct 2023 13:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登将会见IBM等多家公司CEO讨论经济问题】一位白宫官员10月12日表示，美国总统拜登将于周四会见几家大公司的首席执行官，了解他们对美国经济的看法。参加白宫会晤的包括塔吉特百货（Target）、IBM、艾索伦电力（Exelon）、比奇特尔公司（Bechtel Group）、通用催化风险投资（General Catalyst）、奥的斯电梯公司（Otis Worldwide）的首席执行官，他们代表了建筑、制造、清洁能源、金融和零售行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1726988.d.html</link>
+            <guid>3315036</guid>
+            <pubDate>Thu, 12 Oct 2023 13:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌警告欧盟，将抵制其分拆广告业务的企图。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8503864.d.html</link>
+            <guid>3315035</guid>
+            <pubDate>Thu, 12 Oct 2023 13:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《虹桥国际中央商务区综合交通规划（2021-2035年）》发布】据上海发布消息，《虹桥国际中央商务区综合交通规划（2021-2035年）》正式发布。《规划》指出至2035年，建成“开放畅达、立体融合、绿色便捷、智慧高效”的商务区现代化综合交通体系，依托虹桥综合交通枢纽，完善对外通道布局，实现“123”交通圈目标，即至长三角南北拓展带城镇1小时通达，至长三角城市群主要城市2小时可达，全国主要城市3小时覆盖。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8503814.d.html</link>
+            <guid>3315034</guid>
+            <pubDate>Thu, 12 Oct 2023 13:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国没有计划派遣军队前往以色列进行人质解救。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7378137.d.html</link>
+            <guid>3315033</guid>
+            <pubDate>Thu, 12 Oct 2023 13:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：台积电计划在第二家日本工厂生产6纳米芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1726472.d.html</link>
+            <guid>3315032</guid>
+            <pubDate>Thu, 12 Oct 2023 13:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日经新闻：台积电计划在第二家日本工厂生产6纳米芯片。]]></title>
+            <guid>3315031</guid>
+            <pubDate>Thu, 12 Oct 2023 13:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河钢资源：预计前三季度净利同比增45.2%–69.4%】河钢资源公告，预计前三季度净利6亿元-7亿元，同比增45.20%–69.40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7377798.d.html</link>
+            <guid>3315030</guid>
+            <pubDate>Thu, 12 Oct 2023 13:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：土耳其Ice Pearl航运公司将Espo原油的价格以每桶80美元以上交易。]]></title>
+            <guid>3315029</guid>
+            <pubDate>Thu, 12 Oct 2023 13:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【用友网络与广联达签署战略合作协议】据用友消息，10月12日，用友网络科技股份有限公司与广联达科技股份有限公司正式签署战略合作协议。双方将在联合方案打造、技术研发投入、联合营销拓客等方面展开深度生态合作，构建符合建筑业行业特点的企业数智化管理及运营平台，共同促进业财融合，助力建筑行业企业数智化转型。]]></title>
+            <guid>3315028</guid>
+            <pubDate>Thu, 12 Oct 2023 13:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：俄罗斯价格限制联盟发布了一份关于海上石油行业的咨询，其中标明了一些与俄罗斯石油打交道的政府和私营部门。]]></title>
+            <guid>3315027</guid>
+            <pubDate>Thu, 12 Oct 2023 13:35:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：注意到有报道称，通过太平洋俄罗斯港口出口的Espo石油和其他原油可能在使用美国人提供的服务的情况下，以高于上限的价格进行交易。]]></title>
+            <guid>3315026</guid>
+            <pubDate>Thu, 12 Oct 2023 13:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：由总部位于阿联酋的Lumber Marine SA运输的石油价格超过每桶75美元。]]></title>
+            <guid>3315025</guid>
+            <pubDate>Thu, 12 Oct 2023 13:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY日内涨幅扩大至0.50%，现报106.20。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1725609.d.html</link>
+            <guid>3315024</guid>
+            <pubDate>Thu, 12 Oct 2023 13:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为汪涛：5.5G时代UBB目标网升级 打造通信领域大模型】在2023全球超宽带高峰论坛上，华为常务董事、ICT基础设施业务管理委员会主任汪涛表示，5.5G时代UBB目标网络升级，主要包括：加速移动宽带、家庭网络、企业网络和企业专线向万兆超宽带接入升级；IP和光城域网全面部署400G，并向800G演进，骨干网进入 400G时代，提升网络运力；引入端到端的OXC（全光交叉），打造接入1ms，城域5ms，国家20ms的体验时延圈，保障时延敏感类业务的体验；数据中心网络走向超融合架构，满足通用计算、存储、HPC和AI算力的需求，采用800GE高速互联；打造通信领域大模型，实现网络自治自优。]]></title>
+            <guid>3315023</guid>
+            <pubDate>Thu, 12 Oct 2023 13:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国日本商会针对在华日企首次发布调查问卷，专家：日企非常重视中国市场】中国日本商会12日首次发布《会员企业景气、事业环境认识问卷结果》，在2023年9月8日至9月22日期间，以中国国内8300家日资企业为对象进行调查，收到约1400件有效回答。结果显示，关于今年的投资额，“预计今年不投资”和“预计减少投资”的回答约为5成，“预计不变”的回答约为4成，总体而言，继续开展中国业务的在华日本企业还是多数。中国日本商会企划委员长、日中经济协会北京事务所所长宫下正表示：在华日本企业肯定非常重视中国市场，正如此次问卷结果显示，有4成日资企业今年的投资额和去年一样，这些都是积极信号。]]></title>
+            <guid>3315022</guid>
+            <pubDate>Thu, 12 Oct 2023 13:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【扬子新材：公司不直接从事注射笔业务】扬子新材发布股票交易异动公告，近日投资者在公司互动易平台上对苏州翰尔西医疗器械开发有限公司（简称“翰尔西”）及其产品注射笔有较多关注，公司也于互动易平台上及时回复了投资者对上述事项的提问；公司不直接从事注射笔业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2700093.d.html</link>
+            <guid>3315021</guid>
+            <pubDate>Thu, 12 Oct 2023 13:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国政府中东问题特使翟隽就以巴局势同以色列外交部副总司长哈帕兹通电话】2023年10月12日，中国政府中东问题特使翟隽就以巴局势同以色列外交部负责亚太事务的副总司长哈帕兹通电话。翟隽表示，中方对以巴紧张局势加剧和暴力升级深表关切，对冲突造成平民伤亡感到痛心，对受害者家属表示慰问。中方谴责伤害无辜平民的行为，呼吁尽快停火止暴，以“两国方案”为基础恢复和谈，增强双方人民实现和平的信心。国际社会应切实发挥作用，防止局势升级造成人道主义灾难。中方在巴勒斯坦问题上没有私利，始终站在和平一边，站在公平正义一边。中方真诚希望以巴双方和平共处，愿同国际社会一道劝和促谈，为实现和平创造条件。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1725325.d.html</link>
+            <guid>3315020</guid>
+            <pubDate>Thu, 12 Oct 2023 13:33:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指开盘涨0.2%，标普500涨0.1%，纳指涨0.1%】黄金股走强，金田涨3.4%，哈莫尼黄金涨1.3%。福特跌2.9%，肯塔基州卡车工厂8700名工人加入罢工。巴克莱跌3.1%，交易活动停滞及利率见顶加剧银行盈利压力。索尼涨1.6%，將推新版PlayStation 5 Slim。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7376572.d.html</link>
+            <guid>3315019</guid>
+            <pubDate>Thu, 12 Oct 2023 13:30:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国日本商会针对在华日企首次发布调查问卷，专家：日企非常重视中国市场】中国日本商会12日首次发布《会员企业景气、事业环境认识问卷结果》，在2023年9月8日至9月22日期间，以中国国内8300家日资企业为对象进行调查，收到约1400件有效回答。结果显示，关于今年的投资额，“预计今年不投资”和“预计减少投资”的回答约为5成，“预计不变”的回答约为4成，总体而言，继续开展中国业务的在华日本企业还是多数。中国日本商会企划委员长、日中经济协会北京事务所所长宫下正表示：在华日本企业肯定非常重视中国市场，正如此次问卷结果显示，有4成日资企业今年的投资额和去年一样，这些都是积极信号。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7376539.d.html</link>
+            <guid>3315018</guid>
+            <pubDate>Thu, 12 Oct 2023 13:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【最高降幅10.03%，硅片、硅料齐降价】本周硅片价格大幅下跌。M10单晶硅片（182 mm /150μm）成交均价降至2.78元/片，周环比降幅10.03%；N型单晶硅片（182 mm /130μm）成交均价降至2.88元/片，周环比降幅9.72%；G12单晶硅片（210 mm/150μm）成交均价降至3.7元/片，周环比跌幅为9.09%。组件端，M10单面单晶PERC组件维持在1.11-1.2元/W。本周国内N型硅料价格区间在9.0-9.6万元/吨，环比跌幅为0.21%，单晶致密料价格区间在7.6-8.3万元/吨，环比跌幅为0.37%。（中国有色金属工业协会硅业分会）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1724516.d.html</link>
+            <guid>3315017</guid>
+            <pubDate>Thu, 12 Oct 2023 13:30:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特股指本周累跌超1.6%】 周四（10月12日），沙特证交所全股指数收涨0.13%，报10586.22点，本周累计下跌将近1.66%，10月9日以10575.34点创3月底、4月初以来收盘新低，延续7月27日以来持续回调的趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2699183.d.html</link>
+            <guid>3315016</guid>
+            <pubDate>Thu, 12 Oct 2023 13:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【用友网络与广联达签署战略合作协议】据用友消息，10月12日，用友网络科技股份有限公司与广联达科技股份有限公司正式签署战略合作协议。双方将在联合方案打造、技术研发投入、联合营销拓客等方面展开深度生态合作，构建符合建筑业行业特点的企业数智化管理及运营平台，共同促进业财融合，助力建筑行业企业数智化转型。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8501408.d.html</link>
+            <guid>3315015</guid>
+            <pubDate>Thu, 12 Oct 2023 13:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴以新一轮冲突已致双方超2700人死亡】巴勒斯坦卫生部宣布，截至当地时间10月12日16时，本次巴以冲突已致巴勒斯坦方面1448人死亡，其中加沙地带1417人死亡，另有6268人受伤；约旦河西岸地区31人死亡，600多人受伤，其中约190人被送到医院救治。另据此前以色列媒体发布的消息，以色列方面已有至少1300人死亡、3297人受伤。巴以新一轮冲突目前已造成双方超2700人死亡，超10100人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2699140.d.html</link>
+            <guid>3315014</guid>
+            <pubDate>Thu, 12 Oct 2023 13:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国外交部：德国外交部长将于周五前往以色列进行访问。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8501175.d.html</link>
+            <guid>3315013</guid>
+            <pubDate>Thu, 12 Oct 2023 13:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴勒斯坦卫生部：自周六以来，以色列在加沙地带的袭击中已造成10名巴勒斯坦医务人员丧生。]]></title>
+            <guid>3315012</guid>
+            <pubDate>Thu, 12 Oct 2023 13:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英镑兑美元GBP/USD日内走低0.50%，现报1.2249。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1723887.d.html</link>
+            <guid>3315011</guid>
+            <pubDate>Thu, 12 Oct 2023 13:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南昌2023年VR产业营收预计突破800亿元 已设立30亿元的江西VR产业母基金】2023世界VR产业大会将在江西南昌召开，记者从世界VR产业大会方面了解到，南昌今年全年营业收入预计突破800亿元。此外，南昌市已正式设立了总规模200亿元的南昌市现代产业引导基金和总规模30亿元的江西VR产业母基金，后续将围绕VR等产业，遴选和设立优质子基金，为VR产业发展提供更加有力的金融支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1723256.d.html</link>
+            <guid>3315010</guid>
+            <pubDate>Thu, 12 Oct 2023 13:24:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：美联储料会继续按兵不动并对通胀走向更加谨慎】DAKOTA WEALTH高级投资组合经理ROBERT PAVLIK表示，在他看来，美联储将继续按兵不动，而且可能会对通胀的走向更加谨慎。目前美国的CPI仍在朝着正确的方向发展，但市场还不太确定其动态。他认为，从长远来看，美联储将在下次会议上暂停加息，而且不会再加息了。此外他表示，通胀更具有粘性，随着能源价格持续上涨，通胀很可能会持续下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7375546.d.html</link>
+            <guid>3315009</guid>
+            <pubDate>Thu, 12 Oct 2023 13:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场预计美联储12月份加息的可能性短暂回升至50%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8500040.d.html</link>
+            <guid>3315008</guid>
+            <pubDate>Thu, 12 Oct 2023 13:24:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京市发布工业遗产管理办法】《北京工业遗产管理办法（试行）》12日正式发布，这是北京市第一次明确工业遗产认定程序、保护管理、利用发展、监督管理等相关工作。根据管理办法，申请北京工业遗产的企业单位需工业特色鲜明、遗产价值突出、保存状况良好、管理水平较高、满足北京工业遗产评价指标要求，且产权明晰，已制定工业遗产保护利用规划、管理制度和工作措施。经认定的北京工业遗产有效期为五年，每满五年复核一次。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1722215.d.html</link>
+            <guid>3315007</guid>
+            <pubDate>Thu, 12 Oct 2023 13:21:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【扬子新材：不直接从事注射笔业务】扬子新材公告，公司于近日关注到有投资者在公司互动易平台上对苏州翰尔西医疗器械开发有限公司（“翰尔西”）及其产品注射笔有较多的关注，公司也于互动易平台上及时地回复了投资者对上述事项的提问；公司不直接从事注射笔业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2697469.d.html</link>
+            <guid>3315006</guid>
+            <pubDate>Thu, 12 Oct 2023 13:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[货币市场定价12月美联储加息概率短暂反弹至约50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1721889.d.html</link>
+            <guid>3315005</guid>
+            <pubDate>Thu, 12 Oct 2023 13:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“认房不认贷”政策显效：9月北京新房、二手房成交量涨超三成】9月份，北京“认房不认贷”政策发酵，促进购房需求释放。其中，新房市场在“金九”促销及供应力度增加背景下成交止降回升；二手房市场情绪升温明显，成交步伐加快，综合北京9月份数据看，新房、二手房成交套数均涨超三成。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7374311.d.html</link>
+            <guid>3315004</guid>
+            <pubDate>Thu, 12 Oct 2023 13:18:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克政府称将同埃及协调，为加沙地带受困民众提供援助】当地时间10月12日，伊拉克政府发言人巴希姆·阿瓦迪表示，伊拉克政府为申明其对巴勒斯坦问题的坚定立场，在伊拉克总理苏达尼指示下将同埃及政府协调为加沙地带受困民众提供援助，包括医疗用品及紧急人道主义服务。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1720959.d.html</link>
+            <guid>3315003</guid>
+            <pubDate>Thu, 12 Oct 2023 13:16:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[北约秘书长斯托尔滕贝格：北约盟国呼吁释放人质。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8497814.d.html</link>
@@ -27,7 +431,7 @@
             <pubDate>Thu, 12 Oct 2023 13:15:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【传小米与华晨、奇瑞等车企就潜在合作进行磋商】10月12日，有报道称，小米已经与华晨汽车、奇瑞汽车等多家汽车制造商就潜在汽车生产合作进行了磋商。对此，记者向奇瑞汽车方面求证，对方表示：“不清楚此事。”同时，记者也致电华晨管理人处求证此事，但截至发稿未能接通电话。（每经）]]></title>
+            <title><![CDATA[【传小米与华晨、奇瑞等车企就潜在合作进行磋商 奇瑞回应：不清楚】有报道称，小米已经与华晨汽车、奇瑞汽车等多家汽车制造商就潜在汽车生产合作进行了磋商。对此，记者向奇瑞汽车方面求证，对方表示：“不清楚此事。”同时，记者也致电华晨管理人处求证此事，但截至发稿未能接通电话。（每经）]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7373613.d.html</link>
             <guid>3314999</guid>
             <pubDate>Thu, 12 Oct 2023 13:15:12 GMT</pubDate>
@@ -177,410 +581,6 @@
             <title><![CDATA[【外交部美大司司长会见“中美经济二轨对话”美方代表团一行】今天（10月12日），外交部美大司司长杨涛应约会见美国前贸易代表、美中关系全国委员会名誉会长希尔斯和美中关系全国委员会会长欧伦斯率领的“中美经济二轨对话”美方代表团一行。（央视新闻）]]></title>
             <guid>3314973</guid>
             <pubDate>Thu, 12 Oct 2023 12:50:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国股指期货回吐涨幅 CPI数据加剧美联储加息忧虑】美国股指期货回吐涨幅，此前公布的通胀数据高于预期，令美联储年内可能需要再度加息的担忧升温。截至发稿，标普500指数期货上涨0.2%，纳斯达克指数期货基本持平，道指期货走高0.3%。10年期美债收益率上涨4个基点至4.60%。美国9月份通胀连续第二个月稳步上行，凸显出美联储在更长时间内维持高利率的必要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2691311.d.html</link>
-            <guid>3314972</guid>
-            <pubDate>Thu, 12 Oct 2023 12:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Wi-Fi联盟：5G不会取代Wi-Fi 四季度到明年初推出Wi-Fi7】2023上海国际消费电子技术展（Tech G）今日开幕，在Wi-Fi物联网应用论坛上，Wi-Fi联盟亚太区商务事务董事总经理Jerry Huang发表演讲。“常常有人问运营商和Wi-Fi的关系，我们电话用的5G会不会取代Wi-Fi？”他表示，这个问题2G时代就存在，自己个人也常常会被问到，运营商的网络会不会取代掉Wi-Fi？他援引第三方市场调查公司VNI的数据显示，从2G时代全世界无线数据的出货量70%透过Wi-Fi数据，30%透过运营商网络；3G时代到了40%对60%；4G时代反转过来，透过无线Wi-Fi传输的大概在六成了，运营商网络传输的四成；而5G时代七成对三成的反转，到底5G会不会取代Wi-Fi？似乎并存的可能性会更大。目前，Wi-Fi6是最新的版本。他透露，Wi-Fi7马上就要推出，预计是这个季度到明年初。对比目前Wi-Fi的改进，容积扩大5倍，延时将有超过100倍的改进。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7368448.d.html</link>
-            <guid>3314971</guid>
-            <pubDate>Thu, 12 Oct 2023 12:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安联首席顾问埃尔埃利安：美国核心通胀率与预期一致，而总体指标高于普遍预期。特别是9月份核心CPI上涨0.3%，使年通胀率达到4.1%，加上每周初请失业金人数20.9万人相对较低，市场的直接反应是美债收益率上升。从分析角度来看，这提醒人们注意抗击通胀的“最后一英里”所面临的挑战，尤其是核心服务业通胀仍居高不下，人们担心能源价格上涨会蔓延至核心CPI的情况下。]]></title>
-            <guid>3314970</guid>
-            <pubDate>Thu, 12 Oct 2023 12:49:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【CPI数据公布后：美联储11月维持利率不变的概率变化不大】据CME“美联储观察”：美联储11月维持利率在5.25%-5.50%区间不变的概率为93.6%，加息25个基点至5.50%-5.75%区间的概率为6.4%。到12月维持利率不变的概率为64.4%，累计加息25个基点概率为33.6%，累计加息50个基点概率为2.0%。]]></title>
-            <guid>3314969</guid>
-            <pubDate>Thu, 12 Oct 2023 12:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【铭普光磁：公司硅光集成项目正处在开发阶段】铭普光磁今日接受机构调研时表示，光通讯行业一个必然的技术演进路线，就是将来会往更高集成度、更低功耗、更低成本的趋势去发展，那么就必然在硅光技术这一块有所布局。同时，随着AI的发展以及上游设备工艺的一些发展，硅光光模块的一些应用场景，包括技术的成熟度得到提升，硅光光模块接下来有望获得更多市场份额。公司800G光模块硅光方案也在研发当中。公司重点研发项目“硅光集成项目”，正处在开发阶段，拟达到业内领先目标，通过探索新技术方向，提高公司技术水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1712804.d.html</link>
-            <guid>3314968</guid>
-            <pubDate>Thu, 12 Oct 2023 12:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国CPI连续第二个月快速上涨】9月美国消费者价格指数连续第二个月快速上涨，这凸显了美联储将在更长时间内保持较高利率的意图。公布的数据显示，剔除食品和能源成本的核心CPI指数上月上涨0.3%。经济学家认为，核心指标比整体CPI更能反映潜在通胀。有分析师认为，最近的通胀数据突显出强劲的就业市场如何支撑消费者需求，这可能使物价压力保持在美联储目标上方。目前还不清楚这是否会使央行倾向于今年再次加息，尤其是考虑到最近债券收益率飙升，一些官员表示这可能会取代更多的紧缩政策。但至少它支持了政策制定者在一段时间内保持借贷成本高企的愿望。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8489866.d.html</link>
-            <guid>3314967</guid>
-            <pubDate>Thu, 12 Oct 2023 12:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海伦哲：顶航慧恒拟增持不低于3,500万股】海伦哲公告，顶航慧恒拟增持不低于3,500万股，本次增持价格不超过8元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8489520.d.html</link>
-            <guid>3314966</guid>
-            <pubDate>Thu, 12 Oct 2023 12:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国9月通胀放缓，但对美联储来说仍然太快】机构评美国CPI数据：美国劳工部周四表示，9月份美国消费者价格涨幅放缓，较8月份环比上涨0.4%，CPI报告增加了美联储再次加息的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8489443.d.html</link>
-            <guid>3314965</guid>
-            <pubDate>Thu, 12 Oct 2023 12:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国气象预报机构：预计厄尔尼诺现象将在北半球春季持续（2024年3月至5月期间有80%的概率）。]]></title>
-            <guid>3314964</guid>
-            <pubDate>Thu, 12 Oct 2023 12:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南华仪器：信披不准确 董事长等收到广东证监局警示函】南华仪器10月12日晚间公告，公司近日收到广东证监局关于对公司杨耀光、梁伟明、周柳珠、伍颂颖采取出具警示函措施的决定。经查，公司2022年业绩预告与2022年年度报告中披露的相关数据相比差异较大，信息披露不准确。根据相关规定，广东证监局决定对公司董事长杨耀光、总经理梁伟明、财务总监周柳珠、董事会秘书伍颂颖采取出具警示函的行政监管措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1712080.d.html</link>
-            <guid>3314963</guid>
-            <pubDate>Thu, 12 Oct 2023 12:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走低0.15美元，现报22.03美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1711604.d.html</link>
-            <guid>3314962</guid>
-            <pubDate>Thu, 12 Oct 2023 12:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫9美元，现报1875美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8488509.d.html</link>
-            <guid>3314961</guid>
-            <pubDate>Thu, 12 Oct 2023 12:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国防部长奥斯汀在与以色列国防部长加兰特通话中强调对以色列的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2689685.d.html</link>
-            <guid>3314960</guid>
-            <pubDate>Thu, 12 Oct 2023 12:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国9月CPI速评】美国9月CPI同比增长3.7%，增幅高于预期值3.6%，前值为3.7%；美国9月核心CPI同比增长4.1%，增幅创2021年以来最低，且符合预期，前值为4.3%。数据显示，虽然美国通胀较高点已回落了许多，但是距离2%的目标水平仍任重而道远，这或促使美联储在更长时间内保持高利率水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8488298.d.html</link>
-            <guid>3314959</guid>
-            <pubDate>Thu, 12 Oct 2023 12:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【永福股份：拟投资建设孟加拉国BANDARBAN 70MW(AC)光伏发电项目】永福股份公告，拟投资建设孟加拉国BANDARBAN 70MW(AC)光伏发电项目，投资总额约9,754.48万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1711151.d.html</link>
-            <guid>3314958</guid>
-            <pubDate>Thu, 12 Oct 2023 12:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股盘前消息速递】①全球股市上涨，美元和国债市场借贷成本持稳。②截至发稿，道指期货涨0.4%，标普500期指涨0.4%，纳指期货涨0.3%。③德国DAX指数涨0.5%，英国富时100指数涨0.7%，法国CAC40指数涨0.4%，欧洲斯托克50指数涨0.6%。④ WTI原油涨1.02%，报84.34美元/桶。布伦特原油涨1.25%，报86.89美元/桶。⑤周三公布的美联储会议纪要显示，官员们上个月同意，政策应在一段时间内保持限制性，同时指出，目前必须在过度紧缩的风险与保持通胀下行的道路上取得平衡。⑥摩根士丹利投资组合经理Andrew Slimmon表示，美国股市在经历过去两个月的疲软之后，第四季度有望迎来反弹，其中大型股可能会领涨。⑦黄金股盘前继续上涨，国际金价向上触及1880美元。金田涨3.8%，哈莫尼黄金涨超3%，AngloGold、Sibanye涨超2%，巴里克黄金、纽曼矿业皆有上涨。⑧福特汽车美股盘前跌近2%，肯塔基州卡车工厂8700名工人加入罢工行动。⑨巴克莱盘前跌超4%，交易活动停滞及利率见顶将加剧银行盈利压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7366633.d.html</link>
-            <guid>3314957</guid>
-            <pubDate>Thu, 12 Oct 2023 12:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克指数期货日内转跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8487908.d.html</link>
-            <guid>3314956</guid>
-            <pubDate>Thu, 12 Oct 2023 12:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州省委第五巡视组巡视茅台党委工作动员会召开】据贵州茅台官微，10月11日，贵州省委第五巡视组巡视中国贵州茅台酒厂（集团）有限责任公司党委工作动员会召开。会前，省委第五巡视组组长史芸与茅台集团党委书记、董事长丁雄军见面沟通，通报了巡视工作有关安排。会上，史芸作动员讲话，省委第五巡视组副组长李桂奇传达省委书记徐麟听取省委第二轮巡视工作情况汇报时的讲话精神，副组长吕耀忠宣读对茅台集团党委巡视的通知。丁雄军主持会议并作表态发言。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7366218.d.html</link>
-            <guid>3314955</guid>
-            <pubDate>Thu, 12 Oct 2023 12:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[分析师评美国9月CPI数据：上个月二手车和服装价格下降，有助于使核心通胀率保持温和。]]></title>
-            <guid>3314954</guid>
-            <pubDate>Thu, 12 Oct 2023 12:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数在美国CPI数据发布后收窄涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8487194.d.html</link>
-            <guid>3314953</guid>
-            <pubDate>Thu, 12 Oct 2023 12:37:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年业绩预告披露不准确且修正公告披露不及时，国联水产及董事长等被广东证监局出具警示函】国联水产10月12日公告，广东证监局决定对公司、董事长兼总经理李忠、财务总监樊春花、董事会秘书梁永振采取出具警示函的行政监管措施。2023年1月30日，公司披露《2022年度业绩预告》，预计2022年度归母净利润为2700万元至4000万元，扣非后净利润为1200万元至2500万元。4月18日，公司披露《2022年度业绩预告修正公告》，对2022年年度业绩预告予以修正，修正后净亏损500万元至1000万元，实现扣非后净亏损为1900万元至2400万元。4月29日，公司发布2022年年度报告，披露2022年度公司经审计净亏损757.68万元，扣非后净亏损为2370.49万元。公司业绩预告与年度报告中披露的相关数据相比差异较大，且涉及盈亏变化，信息披露不准确；同时，公司迟至2023年4月18日才披露业绩预告修正公告，存在修正公告披露不及时的情形。]]></title>
-            <guid>3314952</guid>
-            <pubDate>Thu, 12 Oct 2023 12:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台湾高雄发生4.9级地震】根据台湾气象部门地震测报中心消息，10月12日20时16分台湾高雄发生4.9级地震，震源深度15.1公里。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1709800.d.html</link>
-            <guid>3314951</guid>
-            <pubDate>Thu, 12 Oct 2023 12:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【被举报性骚扰的男生为武大保送生？校方：不方便透露学生身份】10月11日，有网友发文称，今年7月，她在武汉大学文理学部图书馆自习时，遭到该校外国语言文学学院一名男生性骚扰，事发已经3个月，该事件未得到解决。之后，又有网友在网络上发文，称事件中的男生是2022年被保送到武汉大学的保送生。对此，武汉大学学生工作部工作人员回应，不方便透露学生身份，学校正在调查此事。（燕赵都市报纵览新闻）]]></title>
-            <guid>3314950</guid>
-            <pubDate>Thu, 12 Oct 2023 12:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机构评美国9月CPI数据：整体通胀率小幅上升确实考验了目前通胀是单向走势的观点，但关键数据是核心CPI数据，而核心CPI数据目前看起来基本保持稳定。]]></title>
-            <guid>3314949</guid>
-            <pubDate>Thu, 12 Oct 2023 12:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100期货短暂抹去盘前涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1709244.d.html</link>
-            <guid>3314948</guid>
-            <pubDate>Thu, 12 Oct 2023 12:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSCI新兴市场货币指数在美国通胀报告后抹去涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8486073.d.html</link>
-            <guid>3314947</guid>
-            <pubDate>Thu, 12 Oct 2023 12:34:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【9月CPI数据后，美元指数短线拉升、美股指数期货涨幅回落】美元指数短线拉升约25点，报105.90。非美货币短线下挫，英镑兑美元短线下跌近30点，报1.2279；欧元兑美元短线下跌近30点，报1.0586。现货黄金短线下挫4美元，现报1881.97美元/盎司。美国10年期国债收益率下跌2.00个基点至4.577%。美股指数期货涨幅回落，纳斯达克100指数期货涨幅回落至0.1%，此前涨约0.5%。此前，美国9月CPI同比升3.7%，高于市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1708933.d.html</link>
-            <guid>3314946</guid>
-            <pubDate>Thu, 12 Oct 2023 12:34:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国9月CPI同比上涨3.7% 美联储本轮加息进程或接近尾声】美国劳工部12日公布的数据显示，美国9月份消费者价格指数，即CPI同比上涨3.7%。剔除食品和能源价格的9月核心CPI同比上涨4.1%。鉴于美国通胀压力持续缓解，金融市场普遍预计美联储本轮加息进程已接近尾声。本周以来，已有美联储副主席、理事和多位联邦公开市场委员会委员表示，美债收益率攀升，导致进一步加息的必要性减弱。美国联邦基金利率互换市场最新行情显示，美联储11月加息25个基点的概率，已经降至10%以下。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2687938.d.html</link>
-            <guid>3314945</guid>
-            <pubDate>Thu, 12 Oct 2023 12:34:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率上涨3.3个基点，为4.698%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1708731.d.html</link>
-            <guid>3314944</guid>
-            <pubDate>Thu, 12 Oct 2023 12:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区债券收益率在美国通胀数据发布后上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8485797.d.html</link>
-            <guid>3314943</guid>
-            <pubDate>Thu, 12 Oct 2023 12:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣联科技：将与华为合建“华为数字能源CSP五钻实验室”】荣联科技接受调研时表示，华为曾是公司早期IT服务业务主要客户。华为作为国内领先IT设备厂家，是公司目前主要供应商之一。公司与华为在企业级产品方面，包括IT产品、服务、云等领域有长期合作，相较与国外厂商的合作形式无大差别。近期公司还将与华为合作建设“华为数字能源CSP五钻实验室”，通过该实验室环境，有利于公司服务交付团队现场实操演练，提升公司在华为数字能源产品上的实施服务能力。]]></title>
-            <guid>3314942</guid>
-            <pubDate>Thu, 12 Oct 2023 12:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2年期/10年期收益率曲线在CPI数据发布后，倒挂幅度扩大至49.40个基点，为两周来最大的幅度。]]></title>
-            <guid>3314941</guid>
-            <pubDate>Thu, 12 Oct 2023 12:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一架从新加坡飞往澳大利亚的航班因受到炸弹威胁折返】12日下午，一架从新加坡飞往澳大利亚珀斯的航班在起飞一小时后，因受到炸弹威胁，于当天18时25分紧急折返樟宜机场。新加坡空军也出动战机护送该航班。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8485657.d.html</link>
-            <guid>3314940</guid>
-            <pubDate>Thu, 12 Oct 2023 12:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高35点，向上触及106，日内涨0.32%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8485488.d.html</link>
-            <guid>3314939</guid>
-            <pubDate>Thu, 12 Oct 2023 12:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月未季调食品通胀年率 3.7%，前值4.3%。美国9月未季调能源通胀年率 -0.5%，前值-3.6%。美国9月未季调新车通胀年率 2.5%，前值2.9%。美国9月未季调二手车和卡车通胀年率 -8%，前值-6.6%。美国9月未季调住房通胀年率 7.2%，前值7.3%。]]></title>
-            <guid>3314938</guid>
-            <pubDate>Thu, 12 Oct 2023 12:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[非美货币短线集体下挫，英镑兑美元GBP/USD短线下跌近30点，报1.2279；欧元兑美元EUR/USD短线下跌近30点，报1.0586；美元兑日元USD/JPY短线上扬逾30点，报149.35。]]></title>
-            <guid>3314937</guid>
-            <pubDate>Thu, 12 Oct 2023 12:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至10月7日当周初请失业金人数四周均值 20.625万人，前值20.875万人。美国至9月30日当周续请失业金人数 170.2万人，预期168万人，前值166.4万人。]]></title>
-            <guid>3314936</guid>
-            <pubDate>Thu, 12 Oct 2023 12:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国整体CPI保持不变，核心CPI保持回落趋势】美国9月未季调CPI年率录得3.7%，美国9月未季调核心CPI年率录得4.1%，为2021年9月来最小涨幅，已连续六个月下降；美国9月季调后CPI月率录得0.3%，较上月亦有所回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1707981.d.html</link>
-            <guid>3314935</guid>
-            <pubDate>Thu, 12 Oct 2023 12:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2年期国债收益率在通胀数据发布后上升，最终上涨3.6个基点至5.045%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1707894.d.html</link>
-            <guid>3314934</guid>
-            <pubDate>Thu, 12 Oct 2023 12:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线上涨超20点，现报105.89。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8484858.d.html</link>
-            <guid>3314933</guid>
-            <pubDate>Thu, 12 Oct 2023 12:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CPI数据公布后，现货黄金短线下挫4美元，现报1881.97美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1707732.d.html</link>
-            <guid>3314932</guid>
-            <pubDate>Thu, 12 Oct 2023 12:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月未季调核心CPI年率4.1%，预期4.10%，前值4.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1707674.d.html</link>
-            <guid>3314931</guid>
-            <pubDate>Thu, 12 Oct 2023 12:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至9月30日当周续请失业金人数170.2万人，预期168万人，前值166.4万人。]]></title>
-            <guid>3314930</guid>
-            <pubDate>Thu, 12 Oct 2023 12:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至10月7日当周初请失业金人数20.9万人，预期21万人，前值20.7万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7363966.d.html</link>
-            <guid>3314929</guid>
-            <pubDate>Thu, 12 Oct 2023 12:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月季调后CPI月率0.4%，预期0.30%，前值0.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1707635.d.html</link>
-            <guid>3314928</guid>
-            <pubDate>Thu, 12 Oct 2023 12:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至10月7日当周初请失业金人数四周均值 20.625万人，前值20.875万人。]]></title>
-            <guid>3314927</guid>
-            <pubDate>Thu, 12 Oct 2023 12:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月核心CPI月率0.3％，预期0.30％，前值0.30％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8484667.d.html</link>
-            <guid>3314926</guid>
-            <pubDate>Thu, 12 Oct 2023 12:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月未季调CPI年率3.7%，预期3.60%，前值3.70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7363890.d.html</link>
-            <guid>3314925</guid>
-            <pubDate>Thu, 12 Oct 2023 12:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【思林杰：公司产品适用于AR/MR等虚拟产品的功能检测，并已有所应用】思林杰近期接受投资者调研时称，公司主要从事嵌入式智能仪器模块等工业自动化检测产品的设计、研发、生产及销售，目前产品主要应用于消费电子领域产品检测。公司产品适用于AR/MR等虚拟产品的功能检测，并已有所应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8484662.d.html</link>
-            <guid>3314924</guid>
-            <pubDate>Thu, 12 Oct 2023 12:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：料CPI报告显示通胀方面将大致保持不变】分析师Katia Dmitrieva表示，今天发布的美国CPI报告预计在通胀方面将大致保持不变：住房价格预计将有所放缓，但仍将保持在高位，包括汽车保险在内的一些服务成本预计将加速上涨，预计能源成本在经历了上月的飙升后，涨幅将有所放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1707411.d.html</link>
-            <guid>3314923</guid>
-            <pubDate>Thu, 12 Oct 2023 12:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德明利：目前行业整体已经达成涨价共识】德明利接受调研时表示，目前行业整体已经达成了涨价共识，但价格传导需要时间，存储原厂涨价幅度与现货市场价格走势存在一定滞后，导致出现部分厂商低价库存惜售情况。此外，受存储原厂减产影响，部分厂商原材料采购不足，也是惜售的原因之一。公司将根据实际情况，视业务重要性，灵活调整产品销售价格与规模，争取收益最大化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2686514.d.html</link>
-            <guid>3314922</guid>
-            <pubDate>Thu, 12 Oct 2023 12:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【布朗兄弟哈里曼：美联储紧缩预期仍然过低】布朗兄弟哈里曼分析师指出，美联储官员一直对进一步收紧政策持谨慎态度。美联储的紧缩预期仍然过低。我们认为美联储的鸽派最终会食言。市场对美联储的看法再次大错特错，整个周期都是如此。此外，市场对美联储首次降息时间从之前的7月提前到了6月，这也是错误的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8483500.d.html</link>
-            <guid>3314921</guid>
-            <pubDate>Thu, 12 Oct 2023 12:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【CPI数据公布前：美联储11月维持利率不变的概率为92%】据CME“美联储观察”：美联储11月维持利率在5.25%-5.50%区间不变的概率为92.0%，加息25个基点至5.50%-5.75%区间的概率为8.0%。到12月维持利率不变的概率为70.3%，累计加息25个基点概率为27.8%，累计加息50个基点概率为1.9%。]]></title>
-            <guid>3314920</guid>
-            <pubDate>Thu, 12 Oct 2023 12:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英洛华：公司健康器材板块整体表现良好 今年业绩会有所增长】英洛华接受调研时表示，随着人口老龄化程度的日益加深以及居民消费水平的不断提高，康复养老行业未来发展空间广阔，公司看好健康器材这一赛道。公司健康器材产品国内市场主要是to C，以京东、淘宝等线上渠道销售为主，国外市场主要采用ODM、OEM模式。今年以来，公司健康器材板块整体表现良好，今年业绩较去年会有所增长，具体经营数据请关注公司后续的披露信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7362145.d.html</link>
-            <guid>3314919</guid>
-            <pubDate>Thu, 12 Oct 2023 12:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都：现有存量住宅用地总面积2668公顷】10月10日，成都市规划和自然资源局公示了最新的存量住宅用地信息。根据汇总表，成都市现有存量住宅用地项目590个，总面积2668公顷，其中未动工土地面积为770公顷，已动工未竣工土地面积为1898公顷；未销售房屋的土地面积为750公顷。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8481318.d.html</link>
-            <guid>3314917</guid>
-            <pubDate>Thu, 12 Oct 2023 12:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外国人在粤可享144小时过境免签】第134届广交会将于10月15日在广州召开。为做好广交会期间口岸保通保畅工作，优化现有国际旅客通关流程，10月11日，广州市商务局会同广州边检总站召开外国人144小时过境免签政策解读会议。 需要注意的是，根据政策规定，旅客须是欧洲、美洲、大洋洲和亚洲等53个国家和地区的公民，且在行程安排上是从政策规定的广东省32个口岸之一出境。符合条件的旅客在广州白云国际机场落地后，需持有效期不少于3个月的护照或其他国际旅行证件、后续联程客票、酒店预订订单等资料，现场填写临时入境外国人入境卡，向中国边检申请144小时过境临时入境许可。 目前在白云机场T1及T2航站楼国际到达区域，中国边检均设有临时入境许可申请服务柜台。旅客获批144小时过境临时入境许可并经中国边检查验准许后，可在广东省范围内停留144小时，无须提前办理中国签证。（中国广州发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8481037.d.html</link>
-            <guid>3314916</guid>
-            <pubDate>Thu, 12 Oct 2023 12:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟投资4.5亿欧元在法国建设电池超级工厂】欧盟委员会官网发布消息称，欧洲投资银行 （EIB）签署协议，将斥资4.5亿欧元建设杜埃电池超级工厂。欧洲投资银行是欧盟的贷款机构，也是世界上最大的跨国银行之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7360899.d.html</link>
-            <guid>3314915</guid>
-            <pubDate>Thu, 12 Oct 2023 12:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油日内均涨超2%，现分别报83.76美元/桶和86.80美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1703723.d.html</link>
-            <guid>3314914</guid>
-            <pubDate>Thu, 12 Oct 2023 12:19:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣耀Magic Vs2折叠屏发布 售价6999元起】荣耀Magic Vs2折叠屏手机今日发布，售价6999元起。荣耀Magic Vs2搭载骁龙8+芯片以及全焦段三摄像头，包括5000万像素广角摄像头、2000万像素长焦摄像头和1200万像素超广角摄像头，最高支持40X变焦；采用航天级稀土镁合金加以鲁班钛合金铰链，整机重量降低至229g；搭载5000mAh电池。荣耀手表4 Pro也一并发布，支持eSIM独立通信功能，售价1599元起。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2683088.d.html</link>
-            <guid>3314913</guid>
-            <pubDate>Thu, 12 Oct 2023 12:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财长Haddad：IMF总裁格奥尔基耶娃要求巴西提供更多资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1702933.d.html</link>
-            <guid>3314912</guid>
-            <pubDate>Thu, 12 Oct 2023 12:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安靠科技越南封测工厂竣工投运】当地时间10月11日，美国半导体封装和测试服务供应商安靠科技位于越南北宁省的先进封测工厂竣工投运。据安靠科技介绍，其越南园区位于安丰II-C工业园区内，占地57英亩，将成为安靠科技规模最大的工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8479546.d.html</link>
-            <guid>3314911</guid>
-            <pubDate>Thu, 12 Oct 2023 12:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞安航空称波音交付延误情况严重，将影响明年夏季运营】瑞安航空（Ryanair）首席执行官迈克尔·奥利里（Michael O'Leary）10月12日在航空公司会议上表示，由于波音公司正在努力解决供应商Spirit AeroSystems的质量管控问题，737 Max飞机的交付延误情况更加严重，可能会影响明年夏天的运力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8479131.d.html</link>
-            <guid>3314910</guid>
-            <pubDate>Thu, 12 Oct 2023 12:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【康普化学：金属萃取剂等产品订单量增加，预计前三季度归母净利润同比增34.21%-53.38%】康普化学10月12日公告，预计2023年前三季度归母净利润1.05亿元-1.2亿元，同比增长34.21%-53.38%。报告期内，公司聚焦金属萃取剂及其他特种表面活性剂业务，积极开拓全球市场。通过不断加大研发投入和应用技术服务等方式，满足不同客户的需求，公司产品与服务在市场上获得了良好口碑及品牌效应，得到了客户的广泛认可。鉴于此，金属萃取剂及其他特种表面活性剂产品订单量较上年同期增加，使得销售收入和净利润较上年同期大幅增长。]]></title>
-            <guid>3314909</guid>
-            <pubDate>Thu, 12 Oct 2023 12:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总理米舒斯京：强制外汇销售将有助于减少投机行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2681837.d.html</link>
-            <guid>3314908</guid>
-            <pubDate>Thu, 12 Oct 2023 12:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧普泰：预计前三季度归母净利润同比增长56.99%】欧普泰10月12日公告，预计2023年前三季度归母净利润2902.80万元，同比增长56.99%。受益于近年来公司对自动上下工装、层后外观AI检测、终检外观AI检测等设备的研发并形成销售，2023年1-9月营收较上年同期增长58.80%，净利润随营收规模增长；本期收到政府补助较上年同期增加导致净利润的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2681060.d.html</link>
-            <guid>3314907</guid>
-            <pubDate>Thu, 12 Oct 2023 12:11:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海银行：未来3年设立1000亿元专项信贷额度支持长三角地区绿色低碳产业】上海银行携手桑坦德银行在苏州共同举办“聚新而上 绿动未来”金融助力长三角绿色低碳产业高质量发展推进会。会上，上海银行宣布设立未来三年共1000亿元专项信贷额度，用于支持长三角地区新能源和绿色低碳产业发展；通过打造专属额度、方案、服务、团队和配套，助力长三角绿色低碳产业高质量发展。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwh1700471.d.html</link>
-            <guid>3314906</guid>
-            <pubDate>Thu, 12 Oct 2023 12:11:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧普康视：收到医疗器械生产许可证】欧普康视10月12日公告，公司于近日收到安徽省药品监督管理局换发的《医疗器械生产许可证》，本次变更主要涉及生产地址增加“合肥市高新区望江西路4899号5#楼2层、3层”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8477517.d.html</link>
-            <guid>3314905</guid>
-            <pubDate>Thu, 12 Oct 2023 12:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场分析：美元的疲软只是修正，美联储需要进一步收紧政策】布朗兄弟哈里曼的分析师表示，在CPI数据公布之前，美元正保持平稳，在105.720附近几乎没有变化。美元指数已经从8月至10月的涨幅中回撤了约38%，目前美元的疲软本质上是一种修正。分析师表示：“抛开目前避险资金流动和美联储鸽派言论相关的噪音不谈，根本没有任何改变，没有理由相信美元的上行趋势已经结束。”分析师说，美国经济继续以高于趋势水平的速度增长，上周五的就业数据证实，美国经济仍在升温，需要进一步收紧政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwf2680600.d.html</link>
-            <guid>3314904</guid>
-            <pubDate>Thu, 12 Oct 2023 12:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：CPI数据公布前，美元表现平淡】Brown Brothers Harriman的分析师表示，在CPI数据公布之前，美元几乎没有变化。BBH称，美元指数已从8月至10月的涨幅中回撤了约38%，他们认为目前美元的疲软本质上是一种修正。该机构表示，抛开目前避险资金流动和美联储鸽派言论相关的噪音不谈，根本上没有任何改变，他们认为没有理由相信美元的上行趋势已经结束。BBH称，美国经济继续以高于趋势水平的速度增长，上周五的就业数据便证实，美国经济仍在升温，美联储需要进一步收紧政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwi8477229.d.html</link>
-            <guid>3314903</guid>
-            <pubDate>Thu, 12 Oct 2023 12:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【齐鲁银行：股东重庆华宇所持全部2.56亿股公司股份均被司法标记】齐鲁银行10月12日公告，重庆华宇持有公司2.56亿股，占公司总股本比例为5.6%，本次被司法标记的股份数量为2.56亿股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-12/detail-imzqwfwc7357527.d.html</link>
-            <guid>3314902</guid>
-            <pubDate>Thu, 12 Oct 2023 12:08:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

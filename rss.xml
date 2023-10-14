@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 14 Oct 2023 18:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 19:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：哥伦比亚财政部长预计到2024年SWIFT关键利率将削减至8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-15/detail-imzrckxv9192667.d.html</link>
+            <guid>3318271</guid>
+            <pubDate>Sat, 14 Oct 2023 18:58:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IMF驻华首席代表：中国仍是全球经济增长最大引擎】“今明两年，世界经济分别预计增长3%和2.9%，中国仍然是全球经济增长最大引擎，贡献全球增长量的三分之一。”IMF驻华首席代表Steven Barnett在近日举行的2023年国际货币基金组织（IMF）《世界经济展望报告》发布会上表示。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-15/detail-imzrckxv0018433.d.html</link>
+            <guid>3318270</guid>
+            <pubDate>Sat, 14 Oct 2023 18:51:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：10月15日02时22分在西藏那曲市安多县（北纬35.52度，东经89.60度）发生3.3级地震，震源深度9千米。]]></title>
+            <guid>3318269</guid>
+            <pubDate>Sat, 14 Oct 2023 18:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2024国考今起报名：拟招3.96万人 向应届生倾斜】今日起，中央机关及其直属机构2024年度公务员考试报名正式开启。本次国考计划招录规模达3.96万人，同比增加0.25万人，扩招约6.7%。其中，设置2.6万个计划招录应届高校毕业生，近2.7万个计划补充到县(区)级及以下直属机构，录用政策、录用计划继续向基层一线和高校毕业生倾斜。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-15/detail-imzrcerx9320869.d.html</link>
+            <guid>3318268</guid>
+            <pubDate>Sat, 14 Oct 2023 18:37:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美联储料将继续按兵不动 但不会宣布加息周期结束】美联储下个月连续第二次维持利率不变看似已成定局，但决策层还远远没到宣布紧缩周期结束的地步。在美国债券收益率飙升导致金融环境收紧后，包括鹰派和鸽派在内的决策者最近几天都暗示，他们倾向于放弃在10月31日至11月1日的会议上加息。但在劳动力市场和通货膨胀等数据显示，联邦公开市场委员会不太可能将进一步加息排除在外。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-15/detail-imzrcerx0146388.d.html</link>
@@ -182,7 +205,7 @@
             <pubDate>Sat, 14 Oct 2023 15:09:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴以冲突已致双方超3500人死亡】当地时间14日，据巴勒斯坦卫生部门和以色列卫生部门统计数据，巴以新一轮冲突已造成双方超过3500人死亡。联合国表示，以色列发出撤离警告后，加沙地带已有数万人逃离。据《纽约时报》13日报道，冲突已致11名记者不幸殉职（9名巴勒斯坦人、1名黎巴嫩人和1名以色列人），另有多名记者受伤。 （CGTN记者团）]]></title>
+            <title><![CDATA[【巴以冲突已致双方超3500人死亡】当地时间14日，据巴勒斯坦卫生部门和以色列卫生部门统计数据，巴以新一轮冲突已造成双方超过3500人死亡。联合国表示，以色列发出撤离警告后，加沙地带已有数万人逃离。据《纽约时报》13日报道，冲突已致11名记者不幸殉职（9名巴勒斯坦人、1名黎巴嫩人和1名以色列人），另有多名记者受伤。（CGTN记者团）]]></title>
             <guid>3318243</guid>
             <pubDate>Sat, 14 Oct 2023 15:05:43 GMT</pubDate>
         </item>
@@ -608,30 +631,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzrapuf9643852.d.html</link>
             <guid>3318170</guid>
             <pubDate>Sat, 14 Oct 2023 10:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【克里米亚大桥完成全面修复 四条车道均已开放】当地时间10月14日，俄罗斯副总理胡斯努林称克里米亚大桥四条车道均已开放，比原定计划提前18天完成全面修复。胡斯努林表示，修复工作在不到三个月内完成。在此期间，两座受损的桥板被拆除完成了新桥面的铺设。9月14日大桥开放了左侧车道的通行，右侧车道原计划于11月1日开通，但进展顺利，得以在10月14日提前完工。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzrapui6420841.d.html</link>
-            <guid>3318169</guid>
-            <pubDate>Sat, 14 Oct 2023 10:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【极越CEO夏一平：首台极越01上好牌照，为门店试驾用车】10月14日，极越CEO夏一平在微博晒出首台已上好牌照的极越01。他还透露该车为门店试驾用车，但表示极越01车型已经达到OKTB（OK-To-Buy）状态，可实现上市及交付。据了解，极越9月19日宣布其首款车型“极越01”预订开启，预售价格25.99万元起。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzrapuc5159221.d.html</link>
-            <guid>3318168</guid>
-            <pubDate>Sat, 14 Oct 2023 10:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以媒称以军打死哈马斯一名军事指挥官 哈马斯暂无回应】以色列当地多家媒体当地时间10月14日报道称，以色列军方在一次空袭中打死了巴勒斯坦伊斯兰抵抗运动（哈马斯）下属军事突击队纳哈巴部队（Nakhaba force）的一名军事指挥官阿里·卡奇（Ali Kachi）。目前哈马斯方面对此暂无回应。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzrapuf0481932.d.html</link>
-            <guid>3318167</guid>
-            <pubDate>Sat, 14 Oct 2023 10:27:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙商创投副总裁杨志龙：风投行业运营模式呈现三大变化趋势】2023第二十三届中国风险投资论坛10月14日在上海举行。浙商创投股份有限公司管理合伙人、副总裁杨志龙在论坛上表示，近年来，风投行业的经营模式随着经济状况和外围环境的改变而发生了较大的变化。第一，LP诉求更加多元化，推动风投业务管理服务创新。第二，经济及产业发展模式变化，推动风投行业商业模式升级。第三，资本市场退出路径的变化，推动风投行业投资策略的更新。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-14/detail-imzrapui6419745.d.html</link>
-            <guid>3318166</guid>
-            <pubDate>Sat, 14 Oct 2023 10:25:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

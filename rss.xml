@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 22 Oct 2023 16:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 17:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美欧关税谈判陷僵局】当地时间10月20日，欧盟委员会执行副主席兼贸易委员东布罗夫斯基斯表示，美国拒绝明确表明何时取消对欧盟的惩罚性贸易措施，是双方未能就钢铁贸易达成协议的关键原因。这份协议的暂缓，也让美国打算拉欧洲一起对中国钢材、铝材出口征收额外关税的算盘没能如愿。（北京商报）]]></title>
+            <guid>3330386</guid>
+            <pubDate>Sun, 22 Oct 2023 16:40:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【联合国近东救济工程处：加沙地带目前有超过50万流离失所者】据阿拉比亚电视台当地时间22日援引联合国近东巴勒斯坦难民救济和工程处消息称，加沙地带目前有超过50万流离失所者；加沙地带目前没有安全点。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-23/detail-imzrzfnc5161580.d.html</link>
@@ -596,12 +601,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-22/detail-imzryqqn5200743.d.html</link>
             <guid>3330086</guid>
             <pubDate>Sun, 22 Oct 2023 10:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中贝通信：中贝武当智算集群正式上线运行】据中贝通信消息，10月21日下午，“中贝武当智算集群”在丹江口市武当云谷举行上线仪式。武当云谷毗邻南水北调源头丹江口市水利枢纽，由汉江集团与十堰市政府下属国有资本投资运营集团共同出资建设，采用丹江口水库深层冷水作为数据中心机房降温冷却媒介。中贝武当智算集群正式上线运行，标志着中贝通信智算业务正式进入商用阶段，后续中贝青海三江源一期算力集群（64台）与中贝南京长三角一期算力集群（96台）也在加紧调试中，都将在本月底或下月初上线运行。中贝武当智算集群首期上线90台GPU服务器。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-22/detail-imzryqqq1977489.d.html</link>
-            <guid>3330085</guid>
-            <pubDate>Sun, 22 Oct 2023 10:17:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

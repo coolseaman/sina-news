@@ -4,11 +4,551 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 24 Oct 2023 08:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 09:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【太平洋证券：海光信息Q3毛利率提升驱动利润增长，维持“买入”评级】太平洋证券研报指出，海光信息(688041.SH)第三季度毛利率提升驱动利润增长，研发投入保持高水平。Q3实现归母净利润2.24亿元，同比+27.23%。公司Q3单季度毛利率达到56.23%，同比提升9.42pct。主要原因是公司新产品海光三号投放市场，得到客户充分认可，目前已成为CPU出货的主力产品，使毛利率大幅提升，进而驱动净利润大幅增长。公司积极构建海光CPU和DCU国产软硬件生态链，产品生态优势及本土化竞争优势显著，在信创和AI浪潮下发展前景良好。考虑到23年信创招投标节奏放缓，结合公司三季报业绩，下调此前盈利预测。预计2023-2025年公司EPS分别为0.50/0.65/0.85，维持“买入”评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3082943.d.html</link>
+            <guid>3332812</guid>
+            <pubDate>Tue, 24 Oct 2023 09:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【复星医药：控股子公司星盛新辉于近日收到国家药品监督管理局关于同意XS-03片用于治疗RAS突变晚期实体瘤的临床试验批准】复星医药公告，控股子公司星盛新辉于近日收到国家药品监督管理局关于同意XS-03片用于治疗RAS突变晚期实体瘤的临床试验批准。]]></title>
+            <guid>3332811</guid>
+            <pubDate>Tue, 24 Oct 2023 09:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳洲联储主席布洛克：对通胀前景转变没有容忍度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3082828.d.html</link>
+            <guid>3332810</guid>
+            <pubDate>Tue, 24 Oct 2023 09:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳洲联储主席布洛克：政策设置并未“落后于曲线”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1173664.d.html</link>
+            <guid>3332809</guid>
+            <pubDate>Tue, 24 Oct 2023 09:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【龙大美食：烤肠系列产品今年增速较好 有望成为下一个亿元级单品】龙大美食在互动平台表示，公司聚焦核心需求，以消费者需求为导向，打造了肥肠系列、酥肉系列、培根系列、烤肠系列、丸子系列等上亿级、千万级的产品矩阵。截至三季度末，肥肠系列产品已突破2亿元，酥肉、培根系列产品稳步增长。得益于今年西式快餐渠道的快速开拓，烤肠系列的产品今年增速较好，有望成为继酥肉、培根、肥肠后的下一个亿元级的单品。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9859726.d.html</link>
+            <guid>3332808</guid>
+            <pubDate>Tue, 24 Oct 2023 09:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田和五十铃计划在本世纪20年代后期大规模生产燃料电池卡车。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9859579.d.html</link>
+            <guid>3332807</guid>
+            <pubDate>Tue, 24 Oct 2023 09:11:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丽珠集团：第三季度净利润同比下降4.55%】丽珠集团10月24日晚间发布第三季度报告，第三季度实现营业收入29.65亿元，同比下降6.93%；归属于上市公司股东的净利润4.67亿元，同比下降4.55%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3082332.d.html</link>
+            <guid>3332806</guid>
+            <pubDate>Tue, 24 Oct 2023 09:11:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【被告人奚正兵、周仲贺对外国公职人员行贿、奚正兵受贿案一审宣判】2023年10月24日，广东省广州市中级人民法院公开宣判中铁隧道局集团有限公司国际事业部原副总经理奚正兵、国际事业部项目管理部原副部长周仲贺对外国公职人员行贿、奚正兵受贿一案，以对外国公职人员行贿罪，判处被告人奚正兵有期徒刑二年，并处罚金人民币十万元；以受贿罪，判处被告人奚正兵有期徒刑四年，并处罚金人民币二十万元，决定执行有期徒刑五年，并处罚金人民币三十万元。以对外国公职人员行贿罪，判处被告人周仲贺有期徒刑二年，并处罚金人民币十万元。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9859073.d.html</link>
+            <guid>3332805</guid>
+            <pubDate>Tue, 24 Oct 2023 09:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浦东建设：拟出资5亿元投资海望引领基金】浦东建设公告，公司拟作为有限合伙人（LP）以现金货币方式认缴出资5亿元投资上海科创集团、海望资本发起的海望引领基金，认缴出资额约占基金总规模的比例为7.13%。基金的投资方向将围绕浦东新区生物医药、航空航天等重点产业和领域，面向各类新兴技术等未来产业拓展投资赛道。投资区域立足浦东，面向全国开展投资布局。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3081764.d.html</link>
+            <guid>3332804</guid>
+            <pubDate>Tue, 24 Oct 2023 09:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中泰股份：公司在手订单19.14亿元】中泰股份公告，截止公告日，公司在手订单19.14亿元，2023年度新签订单12.28亿元，其中出口订单4.67亿元，出口订单占新签订单比例38.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1172743.d.html</link>
+            <guid>3332803</guid>
+            <pubDate>Tue, 24 Oct 2023 09:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际能源署称，当前的中东危机可能对石油市场产生深远冲击。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1172720.d.html</link>
+            <guid>3332802</guid>
+            <pubDate>Tue, 24 Oct 2023 09:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天润工业：第三季度净利润同比增长222.25%】天润工业公告，第三季度净利润9878.75万元，同比增长222.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9858784.d.html</link>
+            <guid>3332801</guid>
+            <pubDate>Tue, 24 Oct 2023 09:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【渣打集团：斥资约1510万英镑在伦交所等回购近210万股】渣打集团(02888.HK)发布公告，10月23日斥资约1510.46万英镑在伦交所等回购约210.18万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9858740.d.html</link>
+            <guid>3332800</guid>
+            <pubDate>Tue, 24 Oct 2023 09:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中海、龙华建设联合体斥资240亿上海夺地】上海今年三批次第二轮10宗地块10月24日开拍，10宗地起始出让总价467.9亿元；今日率先出让的7宗宅地中，1宗摇号、2宗溢价、4宗以底价成交，收金约408亿元。其中，徐汇区龙华街道地块起始出让总价达240亿元，是2021年集中供地以来起价最高的地块，体量达67万平方米，汇集了住宅、租赁、商业、办公、科研等多种业态。最终，该地块由中海企业发展集团有限公司与上海龙华建设发展有限公司联合体以240.16亿元底价竞得，楼面价35674元/平方米。该地块超过闵行区梅陇社区75.486亿元的出让金，成为年内上海土地市场总价最高的地块。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3272166.d.html</link>
+            <guid>3332799</guid>
+            <pubDate>Tue, 24 Oct 2023 09:09:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富瑞称，阿里巴巴-SW预计将有约10亿名消费者参与“双十一”，目标价181港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3272108.d.html</link>
+            <guid>3332798</guid>
+            <pubDate>Tue, 24 Oct 2023 09:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7家上市券商获上交所信披A级最高评价 评价或影响公司再融资审核】近日，上交所公布了《关于2022-2023年度信息披露工作评价结果的通报》，信息披露工作考核覆盖2160家沪市上市公司，至少7家上市券商获最高等级A类评价，分别是中信证券、国金证券、海通证券、财通证券、兴业证券、银河证券、国泰君安。记者注意到，兴业证券、国金证券、海通证券等3家上市券商连续六年信息披露考核为A级。据了解，上交所将根据考核结果对上市公司实施分类监管，并将上市公司信息拔露工作评价结果纳入对上市公司再融资审核的考虑因素。获得A级评价，表明监管机构和资本市场对公司信息披露质量、规范运作水平、投资者关系管理水平等证券事务工作的持续认可和充分肯定。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3271384.d.html</link>
+            <guid>3332795</guid>
+            <pubDate>Tue, 24 Oct 2023 09:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新华时评：稳住工业“压舱石” 夯实高质量发展根基】新华社发表评论文章指出，工业是国民经济的主体和增长引擎，充分发挥工业“压舱石”作用，把稳工业摆在更加突出的位置，努力巩固恢复向好趋势，将进一步夯实高质量发展根基。稳住工业“压舱石”，首先是牵住重点行业“牛鼻子”。重点行业规模大、产业链长、关联性强，对整个工业牵一发而动全身。前三季度，装备制造业增加值同比增长6%，拉动规模以上工业增长1.9个百分点，原材料、汽车等行业增势明显，重点行业稳健向好成为支撑工业稳增长的重要支柱。稳住工业“压舱石”，关键是以企业为着力点。稳住工业“压舱石”，在供需两端下功夫格外重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3271276.d.html</link>
+            <guid>3332794</guid>
+            <pubDate>Tue, 24 Oct 2023 09:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李强签署国务院令 公布《未成年人网络保护条例》】国务院总理李强日前签署国务院令，公布《未成年人网络保护条例》，自2024年1月1日起施行。（新华社）]]></title>
+            <guid>3332793</guid>
+            <pubDate>Tue, 24 Oct 2023 09:05:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《新时代中国的周边外交政策展望》发布 中方首次以发布文件的形式阐述周边外交政策】纪念亲诚惠容周边外交理念提出10周年国际研讨会今天（24日）在北京举行。闭幕式上，中国外交部副部长孙卫东宣布《新时代中国的周边外交政策展望》文件正式发布。这是中方首次以发布文件的形式全面阐述中国周边外交政策。孙卫东表示，文件基于对亚洲当前形势和未来趋势的评估及看法，全面阐述中国周边外交的实践成果、政策理念和目标，宣示中国将坚持走和平发展道路，以自身发展促进周边发展，同地区国家共同推进现代化进程，携手构建亚洲命运共同体。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3079708.d.html</link>
+            <guid>3332792</guid>
+            <pubDate>Tue, 24 Oct 2023 09:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三菱“退出”中国市场 广汽集团：广汽三菱转为全资子公司、工厂由广汽埃安“接手”】广汽集团公告，拟对广汽三菱、广汽三菱汽车销售公司实施股权调整等重组事项。重组完成后，广汽三菱将成为广汽集团全资子公司，广汽埃安则将利用广汽三菱工厂实现增产扩能，计划2024年6月实现量产。据悉，广汽三菱汽车销售公司将由广汽集团与三菱汽车、三菱商事共同持股，持续为广汽三菱车主提供备件和售后服务，让客户用车无忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9855927.d.html</link>
+            <guid>3332791</guid>
+            <pubDate>Tue, 24 Oct 2023 09:03:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【文一科技：因涉嫌信息披露违法违规 证监会决定对公司立案】文一科技公告称，于2023年10月24日收到中国证券监会下发的《中国证券监督管理委员会立案告知书》，因涉嫌信息披露违法违规，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，中国证监会决定对公司立案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3269883.d.html</link>
+            <guid>3332790</guid>
+            <pubDate>Tue, 24 Oct 2023 09:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家数据局挂牌进入倒计时 数据基础性领域政策或将加速推进】国家数据局将于近日正式挂牌。记者了解到，随着国家数据局的组织架构不断完善，人员配置不断充实，公共数据运营、数据确权登记、数据交易等基础性领域的政策制定过程或将加速推进。据了解，筹备阶段的国家数据局的内部按照综合、数据要素、数字经济、基础设施和公共数据等工作划分为五个组，国家数据局正式挂牌后，未来有可能升格为相关领域的管理部门。（贝壳财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1169940.d.html</link>
+            <guid>3332789</guid>
+            <pubDate>Tue, 24 Oct 2023 09:02:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海：成立市场化的上海合成生物产业引导基金，精准实现“拨投结合”“招投联动”】据上海市政府网站消息，上海市人民政府办公厅印发《上海市加快合成生物创新策源 打造高端生物制造产业集群行动方案（2023-2025年）》。其中提出，统筹本市战略性新兴产业、市级科技重大专项、促进产业高质量发展、科技创新计划、张江自主创新示范区发展等专项资金，研究部署相关重大科技专项，保障专项资金的持续投入。建立健全多元化资金保障机制，成立市场化的上海合成生物产业引导基金，精准实现“拨投结合”“招投联动”。积极发挥政府性融资担保机构引导作用，在知识产权抵押、产品责任保险等方面加大政策创新力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3076977.d.html</link>
+            <guid>3332788</guid>
+            <pubDate>Tue, 24 Oct 2023 08:59:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乘联会崔东树：9月新能源汽车出口欧洲暂时放缓 随后应该还能回升向上】乘联会秘书长崔东树发布2023年9月中国汽车出口市场分析一文指出，中国新能源车主要是出口西欧和东南亚市场，近两年西欧和南欧的比利时、西班牙、斯洛文尼亚和和英国等成为出口亮点，而今年对泰国等东南亚国出口走强。自主品牌的上汽乘用车、比亚迪等新能源车型强势表现。9月新能源汽车出口欧洲暂时放缓，随后应该还能回升向上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3268325.d.html</link>
+            <guid>3332787</guid>
+            <pubDate>Tue, 24 Oct 2023 08:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美ONE回应京东采销喊话李佳琦：纯属躺枪“底价协议”系不实消息】今日新浪科技独家报道称，有京东采销人员在朋友圈公开喊话李佳琦“二选一”，其表示京东收到品牌商海氏的律师函，被品牌投诉由于某款海氏烤箱的京东价格低于李佳琦直播售价，违反了他们与李佳琦签署的“底价协议”，并要求赔偿巨额违约金。 对此，美ONE回应称，纯属躺枪。对于“底价协议”和“二选一”的说法，美ONE方面均表示“不实信息”，李佳琦直播间与品牌方签定的合约中并没有涉及“全网最低价”和“二选一”的约束条款，直播间商品的定价权在于品牌。 （新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3076806.d.html</link>
+            <guid>3332786</guid>
+            <pubDate>Tue, 24 Oct 2023 08:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【颀中科技：第三季度净利润同比增长85.79%】颀中科技发布2023年第三季度报告，第三季度净利润1.23亿元，同比增长85.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9853634.d.html</link>
+            <guid>3332785</guid>
+            <pubDate>Tue, 24 Oct 2023 08:58:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家发改委：国内汽、柴油价格每吨均下调70元】发改委：新一轮成品油调价窗口将于今天（10月24日）24时开启，国内汽、柴油价格每吨均下调70元。按一般家用汽车油箱50L容量估测，加满一箱92号汽油，将少花2.5元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3075800.d.html</link>
+            <guid>3332784</guid>
+            <pubDate>Tue, 24 Oct 2023 08:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“十四五”以来我国医药工业主营业务收入年均增速达9.3%】工业和信息化部消费品工业司司长何亚琼24日表示，“十四五”以来，我国医药工业主营业务收入年均增速为9.3%，利润总额年均增速为11.3%，发展基础更加坚实、产业体系进一步优化，医药工业不断提质增效。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3267133.d.html</link>
+            <guid>3332783</guid>
+            <pubDate>Tue, 24 Oct 2023 08:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【晶方科技今日跌停 北向资金净卖出1.4亿元】晶方科技今日跌停，成交额17.30亿元，换手率12.68%，盘后龙虎榜数据显示，沪股通专用席位买入4611.49万元并卖出1.86亿元，一机构净买入1564.00万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3266954.d.html</link>
+            <guid>3332782</guid>
+            <pubDate>Tue, 24 Oct 2023 08:54:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界银行行长：巴以冲突可能会对全球经济造成严重打击】 当地时间24日，在沙特首都利雅得举行的第七届“未来投资倡议”大会上，世界银行行长阿贾伊·班加表示，以色列和巴勒斯坦伊斯兰抵抗运动（哈马斯）之间的冲突可能会对全球经济发展造成严重打击。他表示，“最近在以色列和加沙发生的冲突对经济发展的影响更加严重。我们处于一个危险关头。”（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9851978.d.html</link>
+            <guid>3332781</guid>
+            <pubDate>Tue, 24 Oct 2023 08:53:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北汽蓝谷今日跌7.65% 北向资金买入6624.97万元】北汽蓝谷今日跌7.65%，成交额23.25亿元，换手率9.19%，盘后龙虎榜数据显示，沪股通专用席位买入6624.97万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3266554.d.html</link>
+            <guid>3332780</guid>
+            <pubDate>Tue, 24 Oct 2023 08:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生物股份：牛结节性皮肤病灭活疫苗通过应急评价】生物股份公告，全资子公司金宇保灵生物药品有限公司、洛阳沃普森生物工程有限公司、内蒙古自治区动物疫病预防控制中心、金河佑本生物制品有限公司联合研制的牛结节性皮肤病灭活疫苗（NMG株，悬浮培养）已通过应急评价。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1166657.d.html</link>
+            <guid>3332779</guid>
+            <pubDate>Tue, 24 Oct 2023 08:52:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【网宿科技：第三季度净利润同比增长89.65%】网宿科技发布2023年三季度报告，第三季度净利润1.68亿元，同比增长89.65%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1165763.d.html</link>
+            <guid>3332778</guid>
+            <pubDate>Tue, 24 Oct 2023 08:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带风暴奥蒂斯正在加强，并预计在抵达墨西哥南部海岸之前将成为一场飓风，墨西哥南部部分地区发布了飓风警报。]]></title>
+            <guid>3332777</guid>
+            <pubDate>Tue, 24 Oct 2023 08:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杭州市市长：第二届全球数字贸易博览会首次汇聚了全球50个大模型集中展示】杭州市市长姚高员在国新办就第二届全球数字贸易博览会相关情况召开的发布会上表示，本届数贸会我们充分融入数字贸易的创新性、联通性等特点，重点展示数字技术、数字服务、数字产品的前沿场景，跟上届相比，本届展会看点更多，许多是国内首次。首次汇聚了全球50个大模型集中展示。内容涵盖大语言模型、视觉大模型、生物大模型和多模态大模型，既有百度文心一言大模型、华为盘古大模型、科大讯飞星火认知大模型等综合型大模型，又有阿斯利康健康图文大模型、华大基因医疗大模型、360智脑安全大模型等专业型的大模型。我们杭州也带来了阿里巴巴通义大模型、网易游戏客服大模型等一系列大模型。（中国网）]]></title>
+            <guid>3332776</guid>
+            <pubDate>Tue, 24 Oct 2023 08:48:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华友钴业：第三季度净利润同比增长23.37%】华友钴业发布2023年第三季度报告，第三季度净利润9.28亿元，同比增长23.37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3072232.d.html</link>
+            <guid>3332775</guid>
+            <pubDate>Tue, 24 Oct 2023 08:46:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：热带低压在尼加拉瓜产生大量降雨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3070872.d.html</link>
+            <guid>3332773</guid>
+            <pubDate>Tue, 24 Oct 2023 08:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国将推动考试招生制度更加成熟定型】国务院关于考试招生制度改革情况的报告日前提请十四届全国人大常委会第六次会议审议。报告提出，将推动考试招生制度更加成熟、更加定型，为构建多元主体参与、符合中国实际、具有世界水平的教育评价体系提供有力支撑。在强化高考改革外部环境治理方面，报告提出集中治理地方和中学炒作、重奖高考“状元”及教师等行为，加强对涉考培训机构综合治理，适时开展国家教育考试招生立法研究，不断健全相关法律规定，全面提升考试招生的治理能力和治理水平。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9847828.d.html</link>
+            <guid>3332772</guid>
+            <pubDate>Tue, 24 Oct 2023 08:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法媒：巴勒斯坦方面称 马克龙将在拉姆安拉与巴总统阿巴斯会面】法新社24日最新消息称，巴勒斯坦领导人办公室表示，法国总统马克龙将于24日在约旦河西岸城市拉姆安拉与巴勒斯坦总统马哈茂德·阿巴斯会面。这一消息出现之际，马克龙正在以色列进行访问。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1162933.d.html</link>
+            <guid>3332771</guid>
+            <pubDate>Tue, 24 Oct 2023 08:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江河集团： 子公司中标约1.37亿元光伏幕墙BIPV工程项目】江河集团公告，全资子公司北京江河幕墙系统工程有限公司中标成都5G互联科创园设计-施工总承包项目二、三标段工程，该项目为含有光伏幕墙的BIPV工程，中标金额约为1.37亿，约占公司2022年度营业收入的0.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1162466.d.html</link>
+            <guid>3332770</guid>
+            <pubDate>Tue, 24 Oct 2023 08:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杭州市市长姚高员：将发出《数字贸易发展与合作杭州倡议》】国新办就第二届全球数字贸易博览会有关情况举行发布会。杭州市市长姚高员在会上表示，下个月，杭州又将迎来第二届全球数字贸易博览会。在本届数贸会上，我们将发出《数字贸易发展与合作杭州倡议》，举办全球数字贸易创新大赛，发起设立全球数字贸易智库，设立全球数字贸易联盟，率先在全国开展数字贸易地方性立法，联合国际（地区）组织、数字贸易龙头企业和商协会，积极参与全球数字贸易治理，推动数字贸易领域务实合作。（中国网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3261990.d.html</link>
+            <guid>3332769</guid>
+            <pubDate>Tue, 24 Oct 2023 08:40:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY短线走高15点，现报149.51。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9846488.d.html</link>
+            <guid>3332768</guid>
+            <pubDate>Tue, 24 Oct 2023 08:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行据说将在决策前最后一刻观察收益率。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1162129.d.html</link>
+            <guid>3332767</guid>
+            <pubDate>Tue, 24 Oct 2023 08:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行据称认为没有必要改变前瞻指引。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9846427.d.html</link>
+            <guid>3332766</guid>
+            <pubDate>Tue, 24 Oct 2023 08:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行据称正在考虑是否调整收益率曲线控制（YCC）以应对美国收益率的担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3261527.d.html</link>
+            <guid>3332765</guid>
+            <pubDate>Tue, 24 Oct 2023 08:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三只松鼠：第三季度净利润1600.9万元，同比增长40.86%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9845813.d.html</link>
+            <guid>3332764</guid>
+            <pubDate>Tue, 24 Oct 2023 08:37:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华盛锂电：拟开展新建年产500吨二氟草酸硼酸锂、1000吨甲烷二磺酸亚甲酯项目】华盛锂电公告，拟在江苏张家港扬子江国际化学工业园新增用地约46亩，开展“新建年产500吨二氟草酸硼酸锂、1000吨甲烷二磺酸亚甲酯项目”，预计总投资不低于3.7亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3068458.d.html</link>
+            <guid>3332763</guid>
+            <pubDate>Tue, 24 Oct 2023 08:36:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国经济部长承诺在未来四年为工业提供500亿欧元的减税措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3067911.d.html</link>
+            <guid>3332762</guid>
+            <pubDate>Tue, 24 Oct 2023 08:35:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委马赫鲁夫：密切关注中东危机，不希望过早得出对经济和货币政策影响程度的结论。]]></title>
+            <guid>3332761</guid>
+            <pubDate>Tue, 24 Oct 2023 08:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川双马：拟5000万元-1亿元回购公司股份】四川双马公告，拟5000万元-1亿元回购公司股份，回购价格不超过人民币22元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9844715.d.html</link>
+            <guid>3332760</guid>
+            <pubDate>Tue, 24 Oct 2023 08:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯将在2023年收获大约1.4亿吨的谷物。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9844681.d.html</link>
+            <guid>3332759</guid>
+            <pubDate>Tue, 24 Oct 2023 08:34:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国海洋石油：前三季度净利润达976.5亿元，同比下降10.2%】中国海洋石油在港交所公告，2023年前三季度，公司实现未经审计的油气销售收入约人民币2384.0亿元，同比下降10.3%，主要原因是产量增加部分抵消了国际油价下降的影响。归属于母公司股东的净利润达人民币976.5亿元，同比下降10.2%。前三季度，公司的平均实现油价为76.84美元/桶，同比下降24.2%，与国际油价走势基本一致；平均实现气价为7.92美元/千立方英尺，同比下降2.7%，主要原因是海外天然气实现价格随市场价格下降。桶油主要成本管控良好，前三季度桶油主要成本为28.37美元，同比下降6.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3067471.d.html</link>
+            <guid>3332758</guid>
+            <pubDate>Tue, 24 Oct 2023 08:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟外长会立陶宛对“欧尔班与普京在华会晤”不满，匈牙利外长回击】欧盟成员国外长会23日在卢森堡举行。据塔斯社23日援引匈牙利M1电视台消息报道，匈牙利外交与对外经济部长西雅尔多接受记者采访时透露，立陶宛代表在此次会议上对匈牙利总理欧尔班与俄罗斯总统普京上周在北京会晤表示不满。对此，西雅尔多回击说，匈牙利是一个拥有独立政府的主权国家，会就此类问题自行作出决定。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3260188.d.html</link>
+            <guid>3332757</guid>
+            <pubDate>Tue, 24 Oct 2023 08:34:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国10年期国债收益率下跌9个基点至2.79%，为10月16日以来最低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3066769.d.html</link>
+            <guid>3332756</guid>
+            <pubDate>Tue, 24 Oct 2023 08:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财政部：1-9月国有土地使用权出让收入30875亿元 同比下降19.8%】财政部数据显示，1-9月累计，全国政府性基金预算收入38683亿元，同比下降15.7%。分中央和地方看，中央政府性基金预算收入3048亿元，同比下降7.9%；地方政府性基金预算本级收入35635亿元，同比下降16.3%，其中，国有土地使用权出让收入30875亿元，同比下降19.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3259453.d.html</link>
+            <guid>3332755</guid>
+            <pubDate>Tue, 24 Oct 2023 08:32:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财政部：1-9月累计，全国一般公共预算收入166713亿元，同比增长8.9%。其中，税收收入139105亿元，同比增长11.9%；非税收入27608亿元，同比下降4.1%。分中央和地方看，中央一般公共预算收入75886亿元，同比增长8.5%；地方一般公共预算本级收入90827亿元，同比增长9.1%。]]></title>
+            <guid>3332754</guid>
+            <pubDate>Tue, 24 Oct 2023 08:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国10月服务业PMI 49.2，预期49.3，前值49.3。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9843189.d.html</link>
+            <guid>3332753</guid>
+            <pubDate>Tue, 24 Oct 2023 08:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国10月制造业PMI 45.2，预期44.7，前值44.3。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3259014.d.html</link>
+            <guid>3332752</guid>
+            <pubDate>Tue, 24 Oct 2023 08:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元10月24日16:30收盘报7.3075，较上一交易日上涨75点。]]></title>
+            <guid>3332751</guid>
+            <pubDate>Tue, 24 Oct 2023 08:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[财政部：1-9月累计，企业所得税收入33722亿元，同比下降7.4%。个人所得税收入11310亿元，同比下降0.4%。印花税收入3031亿元，同比下降11.2%。其中，证券交易印花税收入1555亿元，同比下降30.8%。]]></title>
+            <guid>3332750</guid>
+            <pubDate>Tue, 24 Oct 2023 08:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国10月综合PMI初值 48.6，预期 48.5，前值 48.5。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9842592.d.html</link>
+            <guid>3332749</guid>
+            <pubDate>Tue, 24 Oct 2023 08:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：雪铁龙和雷诺汽车被纳入国家租赁计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3065182.d.html</link>
+            <guid>3332748</guid>
+            <pubDate>Tue, 24 Oct 2023 08:29:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟就2024年波罗的海渔业资源捕捞限额和配额达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaum9842299.d.html</link>
+            <guid>3332747</guid>
+            <pubDate>Tue, 24 Oct 2023 08:29:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微盟集团成立企服、营销、国际三大子集团】10月24日，微盟集团董事会主席兼CEO孙涛勇发布全员信，宣布微盟从集团事业群制转变为业务子集团制，正式成立微盟企服、微盟营销、微盟国际三大子集团。据悉，微盟企服子集团整合微盟集团内的SaaS相关业务，由方桐舒担任微盟企服董事长，继续向集团董事会主席汇报，郭骏弦任微盟企服CEO向方桐舒汇报。未来微盟集团将侧重在研发和技术能力、统筹职能模块、战略投资管理和创新产业孵化等方面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfauk3065037.d.html</link>
+            <guid>3332746</guid>
+            <pubDate>Tue, 24 Oct 2023 08:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分沪深300ETF尾盘成交量放大】510310（易方达沪深300）今日午后一点半之后，成交开始放大了，尾盘成交量继续增大。159919（沪深300ETF）也有明显成交量放大。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaui3258045.d.html</link>
+            <guid>3332745</guid>
+            <pubDate>Tue, 24 Oct 2023 08:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科大讯飞回应学习机出现不当内容：已引入更严格的内容审核机制】10月24日消息，近日，有家长宣称在自家孩子的科大讯飞学习机中发现了一些诋毁伟人、扭曲历史等违背主流价值观的内容。对此，科大讯飞董事长刘庆峰回应称，已在发现后第一时间下架内容，并对负责保障内容安全的合作伙伴作出处罚处理，同时内部已经将用于大模型上的内容审核机制放在了学习机上，力求使学习机的内容审核更加严格。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfaue1158310.d.html</link>
+            <guid>3332743</guid>
+            <pubDate>Tue, 24 Oct 2023 08:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华力创通今日20CM涨停 北向资金净买入2.56亿元】华力创通今日20CM涨停，成交额51.77亿元，换手率34.72%，盘后龙虎榜数据显示，深股通专用席位买入2.86亿元并卖出2976.88万元，一机构净买入6814.66万元，作手新一席位净买入6189.24万元，陈小群席位净买入5847.08万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3195352.d.html</link>
+            <guid>3332742</guid>
+            <pubDate>Tue, 24 Oct 2023 08:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汤臣倍健：第三季度净利润同比下降17.96%】汤臣倍健发布2023年三季度报告，第三季度净利润3.56亿元，同比下降17.96%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3195176.d.html</link>
+            <guid>3332741</guid>
+            <pubDate>Tue, 24 Oct 2023 08:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023钢铁行业新能源+储能大会：要积极培育壮大新能源、储能产业，逐步拓展新能源、储能应用场景和范围 推动产业合理布局和上下游协同发展】2023钢铁行业新能源+储能大会10月19-20日在四川成都召开。工信部节能与综合利用司有关负责同志表示，加快工业绿色低碳转型是推动传统产业转型升级、实现新型工业化的本质要求。发展新能源+储能，是促进钢铁行业能源结构调整和绿色低碳转型的重要途径，有利于钢铁等传统产业突破资源环境约束，锻造产业竞争新优势。下一步，要积极培育壮大新能源、储能产业，逐步拓展新能源、储能应用场景和范围，进一步加强政策规划协同，推动产业合理布局和上下游协同发展。中国工程院院士干勇、英国皇家工程院院士丁玉龙分别作“科技创新支撑新能源技术及产业发展”、“能量存储与碳中和技术”主题报告，与会代表围绕钢铁工业极致能效、超低排放、氢能应用、储能发展、能源转型和综合能源解决方案等方面进行深入交流。]]></title>
+            <guid>3332740</guid>
+            <pubDate>Tue, 24 Oct 2023 08:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【致同国际CEO彼得·博丁：全球供应链加速重构，看好大湾区发展前景】“致同国际一直把中国视为全球最重要的市场之一，长期看好中国的发展。致同国际将协同致同中国整合全球优质资源，为中国企业的国际市场发展提供专业支持。”近日，彼得·博丁（Peter Bodin）在接受记者专访时表示。 在他看来，当前全球经济正面临巨大挑战，包括供应链受冲击、多国通胀压力，给全球贸易带来更多的不确定性和不稳定性。跨国企业需加快数字化转型，全方位重塑供应链，以提升自身韧性和竞争力。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9972155.d.html</link>
+            <guid>3332739</guid>
+            <pubDate>Tue, 24 Oct 2023 08:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【当升科技：第三季度净利润同比增长0.03%】当升科技发布2023年三季度报告，第三季度净利润5.66亿元，同比增长0.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1288583.d.html</link>
+            <guid>3332738</guid>
+            <pubDate>Tue, 24 Oct 2023 08:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧菲光今日跌停 国泰君安上海江苏路营业部净卖出2.02亿元】欧菲光今日跌停，成交额75.72亿元，换手率23.72%，盘后龙虎榜数据显示，深股通专用席位买入1.22亿元并卖出8106.64万元，国泰君安上海江苏路营业部净卖出2.02亿元，东兴证券晋江和平路营业部净卖出1.02亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3194421.d.html</link>
+            <guid>3332737</guid>
+            <pubDate>Tue, 24 Oct 2023 08:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列军方称“准备好”下一阶段战斗 正等待指示】据阿拉比亚电视台24日报道，以色列国防军首席发言人丹尼尔·赫格里表示，军队已为下一阶段战斗“下定了决心并做好了准备”，现在正在等待进一步的指示，预计未来的战斗将会持续数周。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3387791.d.html</link>
+            <guid>3332736</guid>
+            <pubDate>Tue, 24 Oct 2023 08:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【万安科技：拟以增资形式向载合汽车投资人民币3500万元】万安科技公告，拟以增资形式向载合汽车投资人民币3500万元，本次投资完成后，公司持有载合汽车4.1617%的股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9971432.d.html</link>
+            <guid>3332735</guid>
+            <pubDate>Tue, 24 Oct 2023 08:24:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建前三季度GDP同比增长4.1%】 据福建省统计局，福建省2023年前三季度地区生产总值为39120.75亿元，比上年同期增长4.1%，慢于全国水平(5.2%)。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1288140.d.html</link>
+            <guid>3332734</guid>
+            <pubDate>Tue, 24 Oct 2023 08:24:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proshares比特币策略ETF（Proshares Bitcoin Strategy ETF）盘前上涨8.3%，比特币突破一年高点。]]></title>
+            <guid>3332733</guid>
+            <pubDate>Tue, 24 Oct 2023 08:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货短线下挫0.3美元，最低至85.32美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3193884.d.html</link>
+            <guid>3332732</guid>
+            <pubDate>Tue, 24 Oct 2023 08:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科大讯飞今日跌9.97% 二机构净卖出2.56亿元】科大讯飞今日跌9.97%，成交额58.52亿元，换手率5.68%，盘后龙虎榜数据显示，深股通专用席位买入2.63亿元并卖出2.74亿元，一机构净买入5054.84万元，二机构净卖出2.56亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9970860.d.html</link>
+            <guid>3332731</guid>
+            <pubDate>Tue, 24 Oct 2023 08:23:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安的盟友德夫莱特·巴赫切利：保护加沙的使命落在土耳其的肩上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1287556.d.html</link>
+            <guid>3332730</guid>
+            <pubDate>Tue, 24 Oct 2023 08:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乖宝宠物：前三季度归母净利润3.14亿元，同比增44.99%】乖宝宠物10月24日公告，公司前三季度营业收入31.12亿元，同比增长25.11%；归母净利润3.14亿元，同比增长44.99%；基本每股收益0.86元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3193565.d.html</link>
+            <guid>3332729</guid>
+            <pubDate>Tue, 24 Oct 2023 08:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国次日交付的基载电力价格上涨5.1%，达到123.50欧元/兆瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9970409.d.html</link>
+            <guid>3332728</guid>
+            <pubDate>Tue, 24 Oct 2023 08:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中证长三角绿色产业50指数发布】中证指数有限公司将于2023年10月25日正式发布中证长三角绿色产业50指数，为市场提供绿色投资基准和标的。中证长三角绿色产业50指数选取长三角地区业务涉及清洁能源、环境生态保护、节能降碳、清洁生产及绿色服务等领域的50只上市公司证券作为指数样本，以反映长三角绿色产业上市公司证券的整体表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9970366.d.html</link>
+            <guid>3332727</guid>
+            <pubDate>Tue, 24 Oct 2023 08:21:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[传英伟达(NVDA.O)正开发Arm架构PC芯片挑战英特尔，Arm(ARM.O)盘前涨超2.3%，英特尔(INTC.O)跌近1%。]]></title>
+            <guid>3332726</guid>
+            <pubDate>Tue, 24 Oct 2023 08:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新华医疗：第三季度净利润同比增长22.88%】新华医疗发布2023年第三季度报告，第三季度净利润1.2亿元，同比增长22.88%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3386478.d.html</link>
+            <guid>3332725</guid>
+            <pubDate>Tue, 24 Oct 2023 08:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒曝：拜登政府担心以色列在加沙缺乏可行的军事计划】美国《纽约时报》23日援引美国政府高级官员消息称，拜登政府担心以色列在加沙缺乏可行的军事计划。《纽约时报》称，在与以色列国防部长加兰特通话中，美国国防部长奥斯汀表示，有必要仔细考虑以色列军队可能如何对加沙发起地面行动。报道提到，在加沙地带，哈马斯在人口稠密的地区维护着错综复杂的隧道网络。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3386415.d.html</link>
+            <guid>3332724</guid>
+            <pubDate>Tue, 24 Oct 2023 08:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【防暴露以军行动？美媒：谷歌暂时关闭旗下地图应用在以色列实时交通显示服务】据美国有线电视新闻网（CNN）报道，美国科技巨头谷歌公司当地时间23日证实，以色列准备在加沙开展可能的地面行动之际，该公司暂时关闭了旗下谷歌地图和导航应用Waze在以色列的部分功能，以色列的实时交通状况将暂时无法在这两款应用上显示。同样报道该消息的美国彭博社23日称，实时交通信息可以显示以色列军队的动向。（环球网）]]></title>
+            <guid>3332723</guid>
+            <pubDate>Tue, 24 Oct 2023 08:19:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拉夫罗夫：俄罗斯和伊朗全面战略伙伴关系谈判进入后期】 俄罗斯外交部长谢尔盖·拉夫罗夫23日说，俄罗斯与伊朗全面战略伙伴关系谈判中大约85%的事务已“谈妥”，双方正就另外一些具体问题积极磋商。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1286433.d.html</link>
+            <guid>3332722</guid>
+            <pubDate>Tue, 24 Oct 2023 08:19:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建水泥：前三季度净亏损2.28亿元】福建水泥10月24日公告，公司前三季度营业收入14.95亿元，同比减少21.14%；净亏损2.28亿元；基本每股收益-0.5元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3192007.d.html</link>
+            <guid>3332721</guid>
+            <pubDate>Tue, 24 Oct 2023 08:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安的盟友德夫莱特·巴赫切利：土耳其应该用军事威慑来支持外交。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9968917.d.html</link>
+            <guid>3332720</guid>
+            <pubDate>Tue, 24 Oct 2023 08:17:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西壮族自治区交通运输厅原党组成员、副厅长韦勇球被开除党籍和公职】据广西壮族自治区纪委监委消息：日前，经广西壮族自治区党委批准，自治区纪委监委对自治区交通运输厅原党组成员、副厅长韦勇球严重违纪违法问题进行了立案审查调查。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经自治区纪委常委会会议研究并报自治区党委批准，决定给予韦勇球开除党籍处分；由自治区监委给予其开除公职处分；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3385519.d.html</link>
+            <guid>3332719</guid>
+            <pubDate>Tue, 24 Oct 2023 08:17:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【MPOA：马来西亚10月1-20日棕榈油产量预估增加4.14%】据马来西亚棕榈油协会（MPOA）发布的数据，马来西亚10月1-20日棕榈油产量预估增加4.14%，其中马来半岛增加4.83%，马来东部增加2.99%，沙巴增加4.26%，沙捞越减少0.54%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1285784.d.html</link>
+            <guid>3332718</guid>
+            <pubDate>Tue, 24 Oct 2023 08:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【仟源医药：第三季度净利润同比增长509.67%】仟源医药发布2023年三季度报告，第三季度净利润1043.06万元，同比增长509.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9968533.d.html</link>
+            <guid>3332717</guid>
+            <pubDate>Tue, 24 Oct 2023 08:16:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[微策略公司(MSTR.O)盘前涨超8%，该公司持有的46.8亿美元比特币的平均收购价为29582美元。]]></title>
             <guid>3332716</guid>
@@ -64,560 +604,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9967360.d.html</link>
             <guid>3332709</guid>
             <pubDate>Tue, 24 Oct 2023 08:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币日内飙升，美股区块链板块盘前继续冲高，Riot Platform(RIOT.O)涨超13%、Coinbase(COIN.O)和嘉楠科技(CAN.O)涨超7%、英伟达(NVDA.O)涨超1.5%。]]></title>
-            <guid>3332708</guid>
-            <pubDate>Tue, 24 Oct 2023 08:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【激智科技：第三季度净利润同比增长983.22%】激智科技发布2023年三季度报告，第三季度净利润3849.09万元，同比增长983.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9967182.d.html</link>
-            <guid>3332707</guid>
-            <pubDate>Tue, 24 Oct 2023 08:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃能化：第三季度净利润同比下降57.96%】甘肃能化发布2023年三季度报告，第三季度净利润2.8亿元，同比下降57.96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3189931.d.html</link>
-            <guid>3332706</guid>
-            <pubDate>Tue, 24 Oct 2023 08:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团CEO苏世民：2024年“不那么美好”，但之后我们将触底反弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3383317.d.html</link>
-            <guid>3332705</guid>
-            <pubDate>Tue, 24 Oct 2023 08:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥特维：控股子公司签订2.5亿元激光增强金属化设备合同】奥特维公告，控股子公司无锡奥特维旭睿科技有限公司近日与光伏龙头企业签订《采购合同》，旭睿科技向该企业销售激光增强金属化设备等电池端设备约2.5亿元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9966177.d.html</link>
-            <guid>3332704</guid>
-            <pubDate>Tue, 24 Oct 2023 08:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港恒生指数收跌1.05%，恒生科技指数跌1.07%】中兴通讯跌超12%，中国恒大跌超8%，快手、恒大汽车跌超5%，龙湖集团跌近4%；东方甄选涨近10%，长城汽车涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9966106.d.html</link>
-            <guid>3332703</guid>
-            <pubDate>Tue, 24 Oct 2023 08:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四方达：前三季度归母净利润1.1亿元，同比下降15.14%】四方达10月24日公告，2023年前三季度营收4.07亿元，同比增长3.29%；归母净利润1.10亿元，同比下降15.14%；基本每股收益0.2257元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3188615.d.html</link>
-            <guid>3332701</guid>
-            <pubDate>Tue, 24 Oct 2023 08:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华致酒行：第三季度净利润同比增长144.76%】华致酒行发布2023年三季度报告，第三季度净利润8002.99万元，同比增长144.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9965735.d.html</link>
-            <guid>3332700</guid>
-            <pubDate>Tue, 24 Oct 2023 08:08:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟对华全新或翻新卡客车轮胎发起第一次反倾销日落复审调查】欧盟委员会发布公告称，应反对不公平轮胎进口联盟代表欧盟全新或翻新卡客车轮胎行业于2023年7月19日提交的申请，对原产于中国的全新或翻新卡客车轮胎发起第一次反倾销日落复审调查。涉案产品欧盟CN编码为4011 20 90和4012 12 00。本案倾销调查期为2022年7月1日～2023年6月30日，损害分析期为2020年1月1日至倾销调查期结束。（中国贸易救济信息网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1283104.d.html</link>
-            <guid>3332699</guid>
-            <pubDate>Tue, 24 Oct 2023 08:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧元区PMI降至近三年来最低，引发衰退担忧】PMI数据显示，因需求下滑，欧元区企业活动本月意外转坏，暗示欧元区经济可能陷入衰退。欧元区10月综合PMI初值从47.2降至46.5，为2020年11月以来的最低水平。如果不包括新冠疫情的几个月，这是自2013年3月以来的最低水平。制造业PMI从43.4降至43，这是该指数第16个月低于50荣枯线，也是自2020年5月以来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9965518.d.html</link>
-            <guid>3332698</guid>
-            <pubDate>Tue, 24 Oct 2023 08:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国将超过日本成为第三大经济体 日元疲软为主要因素】得益于日元兑美元和欧元汇率下跌，德国经济预计将在2023年取代日本，成为世界第三大经济体。根据国际货币基金组织(IMF)的最新预测，德国今年名义国内生产总值(GDP)据估算在4.43万亿美元，日本为4.23万亿美元。当前日元兑欧元汇率逼近160日元大关，兑美元汇率距33年低点咫尺之遥。上次日元兑欧元汇率触及160是在2008年8月。日元疲软主要系货币政策的根本分歧造成。美联储和欧洲央行为应对通胀，将利率从疫情期间的低点不断上调，而日本央行则保持刺激模式，希望在多年通缩之后促进价格增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3188195.d.html</link>
-            <guid>3332697</guid>
-            <pubDate>Tue, 24 Oct 2023 08:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团CEO苏世民：美联储对通胀产生了“相当不错的影响”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3382296.d.html</link>
-            <guid>3332696</guid>
-            <pubDate>Tue, 24 Oct 2023 08:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拓斯达：第三季度净利润同比增长17.78%】拓斯达发布2023年三季度报告，第三季度净利润4441.79万元，同比增长17.78%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9965134.d.html</link>
-            <guid>3332695</guid>
-            <pubDate>Tue, 24 Oct 2023 08:06:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热门中概股美股盘前涨跌互现，法拉第未来涨逾4%】热门中概股美股盘前涨跌互现，法拉第未来涨逾4%，京东跌近3%，携程跌近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3187527.d.html</link>
-            <guid>3332694</guid>
-            <pubDate>Tue, 24 Oct 2023 08:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科前生物：猫三联疫苗已通过农业农村部组织的应急评价】科前生物公告，公司研制的猫鼻气管炎、杯状病毒病、泛白细胞减少症三联灭活疫苗（WH-2017株+LZ-2016株+CS-2016株）（简称“猫三联疫苗”）已通过农业农村部组织的应急评价。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1282190.d.html</link>
-            <guid>3332693</guid>
-            <pubDate>Tue, 24 Oct 2023 08:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中来股份：第三季度归母净利润2.47亿元，同比增长120.27%】中来股份10月24日公告，2023年前三季度营收97.41亿元，同比增长27.77%；归母净利润4.84亿元，同比增长40.94%；基本每股收益0.44元。其中第三季度营收39.80亿元，同比增长33.27%；归母净利润2.47亿元，同比增长120.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9964325.d.html</link>
-            <guid>3332692</guid>
-            <pubDate>Tue, 24 Oct 2023 08:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专家评欧元区PMI数据：欧元区情况越来越糟，不惊讶第四季度出现衰退】汉堡商业银行首席经济学家Cyrus说：在欧元区情况越来越糟。制造业已连续16个月陷入低迷，服务业已连续3个月陷入低迷。此外，除了少数例外，所有分项指数也都持续下行。总体而言，这预示着又一个低迷的季度。如果今年下半年欧元区出现轻微衰退，连续两个季度出现负增长，我们也不会感到吃惊。综合PMI降至46.5，该指数的下降主要是由服务业活动推动的，服务业活动的下降幅度比上月更大。新业务和未完成业务的持续下滑是一个危险信号，表明该行业未来将面临更多麻烦。而制造业公司不仅在继续裁员，而且还在加快裁员计划。话虽如此，这种减少是温和的，考虑到劳动力的结构性短缺，我们预计失业人数在不久的将来不会激增那么多。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3187046.d.html</link>
-            <guid>3332691</guid>
-            <pubDate>Tue, 24 Oct 2023 08:04:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行调查：欧元区各银行2023年第三季进一步收紧信贷标准，超过预期。企业和家庭贷款需求持续大幅下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1281918.d.html</link>
-            <guid>3332690</guid>
-            <pubDate>Tue, 24 Oct 2023 08:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【利尔化学：第三季度净利润同比下降81.94%】利尔化学发布2023年三季度报告，第三季度净利润8026.91万元，同比下降81.94%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9964005.d.html</link>
-            <guid>3332689</guid>
-            <pubDate>Tue, 24 Oct 2023 08:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江仙通：第三季度净利润同比增长29.3%】浙江仙通发布2023年第三季度报告，第三季度净利润4318.58万元，同比增长29.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3186860.d.html</link>
-            <guid>3332688</guid>
-            <pubDate>Tue, 24 Oct 2023 08:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳洲联储主席布洛克：委员会意识到政策滞后以及消费和通胀的放缓。委员会将在11月会议之前获得更多信息，包括更新的预测。委员会将在11月会议之前获得更多信息，包括更新的预测。澳元在贸易加权基准下相对稳定，对政策不构成担忧。]]></title>
-            <guid>3332687</guid>
-            <pubDate>Tue, 24 Oct 2023 08:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【原黑龙江省委党史研究室主任李振锟接受纪律审查和监察调查】据黑龙江省纪委监委消息：原黑龙江省委党史研究室主任李振锟涉嫌严重违纪违法，目前正接受黑龙江省纪委监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3186687.d.html</link>
-            <guid>3332686</guid>
-            <pubDate>Tue, 24 Oct 2023 08:03:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部：中方邀请联合国管理事务副秘书长波拉德访华 体现对联合国工作坚定支持】外交部发言人毛宁在今日例行记者会上表示，今天恰逢第78个联合国日，我们欢迎波拉德副秘书长来华访问。中国一贯支持真正的多边主义，支持以联合国为核心的国际体系。今年，联合国秘书长古特雷斯来华参加第三届“一带一路”国际合作高峰论坛，多位副秘书长相继访华。中方邀请联合国管理事务副秘书长波拉德访华，体现了对联合国工作的坚定支持。波拉德副秘书长访华期间，外交部副部长马朝旭及相关部委负责人同她会见，就财政、管理、人力资源等领域议题广泛深入交换意见。相信此访将进一步加强中国同联合国的务实合作，支持和推动联合国事业健康稳定向前发展。（央视新闻）]]></title>
-            <guid>3332685</guid>
-            <pubDate>Tue, 24 Oct 2023 08:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳洲联储主席布洛克：专注于在合理的时间框架内将通胀率带回目标水平。现金利率保持目前水平可能是可行的。但通胀回归目标的速度可能比预期更慢存在风险。委员会对通胀回归目标速度低于预期的容忍度很低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9963429.d.html</link>
-            <guid>3332684</guid>
-            <pubDate>Tue, 24 Oct 2023 08:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兆易创新：芯片产品价格下降，前三季度归母净利润4.34亿元，同比降79.27%】兆易创新10月24日公告，2023年前三季度营收43.94亿元，同比下降35.08%，主要系芯片产品市场需求下降，产品价格相较去年下降，导致尽管公司产品销量有所增加，营业收入仍同比下降；此外，公司DRAM产品规划将以自研产品为主，本报告期经销产品销售收入大幅减少。归母净利润4.34亿元，同比下降79.27%，销售收入下降，2023年第三季度汇兑收益减少，存货减值损失增加。基本每股收益0.65元。其中第三季度归母净利润9769.39万元，同比下降82.71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3185635.d.html</link>
-            <guid>3332683</guid>
-            <pubDate>Tue, 24 Oct 2023 08:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区10月综合PMI初值 46.5，预期47.4，前值47.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3380342.d.html</link>
-            <guid>3332682</guid>
-            <pubDate>Tue, 24 Oct 2023 08:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区10月服务业PMI初值 47.8，预期48.7，前值48.7。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3185539.d.html</link>
-            <guid>3332681</guid>
-            <pubDate>Tue, 24 Oct 2023 08:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区10月制造业PMI初值 43，预期43.7，前值43.4。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1280724.d.html</link>
-            <guid>3332680</guid>
-            <pubDate>Tue, 24 Oct 2023 08:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尖峰集团：获得盐酸莫西沙星滴眼液注册证书】尖峰集团公告，控股子公司浙江尖峰药业有限公司收到国家药品监督管理局核准签发的盐酸莫西沙星滴眼液《药品注册证书》。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1280681.d.html</link>
-            <guid>3332679</guid>
-            <pubDate>Tue, 24 Oct 2023 08:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【官方通报“桂林一高速货车追尾槽罐车”：1人受伤，危化品苯少量泄漏已妥善处置】桂林市临桂区人民政府发布情况通报，10月23日13时49分，G65包茂高速阳朔往桂林方向2528公里处附近发生一起货车追尾槽罐车交通事故。事故造成1人受伤，槽罐车罐体尾部发生危化品苯少量泄漏。事故发生后，市委、市政府高度重视，第一时间组织应急、公安、生态环境等部门赶赴现场处置。受伤人员已及时送医院接受治疗，生命体征正常。高速公路交警迅速疏导分流，交通正在逐步恢复秩序。相关部门采取泡沫枪稀释，对罐车周围地面铺沙覆膜处理，调运沙袋对稀释液体进行封堵、回抽转移等措施，对现场进行了妥善处置。目前已转移槽罐车剩余危化品至安全处，并组织附近村民进行疏散安置。生态环境部门将在现场和周边开展持续监测取样。（今日临桂）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3380220.d.html</link>
-            <guid>3332678</guid>
-            <pubDate>Tue, 24 Oct 2023 08:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国官员：货船在北海发生碰撞后沉没。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9962379.d.html</link>
-            <guid>3332677</guid>
-            <pubDate>Tue, 24 Oct 2023 07:59:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾央行行长：周期外加息的可能性仍在】菲律宾央行行长雷莫洛纳表示，在本周四即将召开的货币当局会议上，就有可能进行周期外加息。雷莫洛纳周二对记者说：“如果数据显示通胀将大幅上升，并且有影响通胀预期的风险，那么我们就可能会采取周期外加息。”菲律宾央行早些时候曾表示，为应对通胀，不排除在11月会议上把指标利率提高25个基点的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1280259.d.html</link>
-            <guid>3332676</guid>
-            <pubDate>Tue, 24 Oct 2023 07:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：第二届数贸会将于11月23日至27日在杭州举办】国务院新闻办公室于24日下午举行新闻发布会，介绍第二届全球数字贸易博览会有关情况。商务部国际贸易谈判代表兼副部长王受文在会上表示，第二届全球数字贸易博览会将于11月23日至27日在中国杭州举办。王受文表示，数字贸易是打造贸易强国的重要支柱。数贸会是推动数字贸易发展的重要平台，是促进全球数字经济合作的国际公共产品，也是支持建设开放型世界经济的重要举措。我们希望通过数贸会这个共建、共促、共享平台，为全球数字贸易发展贡献智慧和力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3184793.d.html</link>
-            <guid>3332675</guid>
-            <pubDate>Tue, 24 Oct 2023 07:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【虚增业绩近780万元，运盛医疗及多名高管合计被罚700万元】10月23日，四川证监局公布的一则行政处罚决定书显示，因虚增营收及利润近780万元，运盛医疗被给予警告，并被处以200万元的罚款，董事长等多名高管也分别被处以50万元至100万元不等的罚款。经查明，2021年11月，运盛医疗通过其控股子公司丽水运盛虚构贸易业务，虚增2021年度营业收入及利润总额均为779.71万元，分别占当期披露营业收入的15.03%，利润总额的42.97%。运盛医疗的上述行为导致其披露的2021年年度报告存在虚假记载。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1280169.d.html</link>
-            <guid>3332674</guid>
-            <pubDate>Tue, 24 Oct 2023 07:57:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第二届全球数字贸易博览会将于11月23日至27日在杭州举办】第二届全球数字贸易博览会（简称“数贸会”）将于11月23日至27日在杭州举办。商务部国际贸易谈判代表兼副部长王受文10月24日在国新办新闻发布会上介绍，将有20家全球数字贸易头部企业和18家全国数字贸易领军企业参加本届数贸会，数字贸易链主型企业占到参展企业总数四成以上。海外企业占比较高，参展企业国际化率超过20%，其中七分之一为世界500强企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3184590.d.html</link>
-            <guid>3332673</guid>
-            <pubDate>Tue, 24 Oct 2023 07:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海金山区：非沪籍人才社保满3年可购买1套住房 购房资格由家庭调整为个人】上海金山区10月24日出台人才安居新政。根据区域转型发展和产城融合需要确定金山区重点转型区域人才购房政策实施范围，包括滨海城区、高新社区以及亭枫社区三个重点区域，共计36.2平方公里。要聚焦重点行业，实行人才积分认定管理，对符合一定积分标准的人才分类给予租房补贴；聚焦高层次人才，实行分等定级管理，对符合一定认定标准的人才分类给予购房补贴。经区人才管理部门认定，同时符合单位条件、个人条件以及工作年限条件的非本市户籍人才，按规定在沪缴纳职工社会保险或个人所得税3年及以上、且在本市无住房的，可购买1套住房，同时购房资格由居民家庭调整为个人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3184270.d.html</link>
-            <guid>3332671</guid>
-            <pubDate>Tue, 24 Oct 2023 07:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家公路交通安全管理局 （NHTSA）：宝马北美公司召回9211辆美国汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9961367.d.html</link>
-            <guid>3332670</guid>
-            <pubDate>Tue, 24 Oct 2023 07:56:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百合股份：第三季度净利润同比下降10.69%】百合股份发布2023年第三季度报告，第三季度净利润3124.1万元，同比下降10.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9961337.d.html</link>
-            <guid>3332669</guid>
-            <pubDate>Tue, 24 Oct 2023 07:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西：进一步加大电力保供 前三季度“晋电外送”超1100亿千瓦时】记者24日从山西省统计局获悉，今年前三季度，山西外送电量达1168.1亿千瓦时，同比增长10.9%，创历史同期新高。“作为全国重要的能源基地，山西承担着保障国家能源安全的重大使命，今年迎峰度夏期间，我们全力保障山西电力安全稳定供应。”国网山西省电力公司相关负责人说。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3184153.d.html</link>
-            <guid>3332668</guid>
-            <pubDate>Tue, 24 Oct 2023 07:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海特生物：前三季度净亏损2643.95万元】海特生物10月24日公告，公司前三季度营业收入4.38亿元，同比减少19.8%；净亏损2643.95万元；基本每股收益-0.21元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3184043.d.html</link>
-            <guid>3332667</guid>
-            <pubDate>Tue, 24 Oct 2023 07:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【博创科技：英伟达AI芯片禁售禁令事项对公司经营暂无影响】博创科技10月24日在互动平台表示，英伟达AI芯片禁售禁令事项对公司经营暂无影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9960654.d.html</link>
-            <guid>3332666</guid>
-            <pubDate>Tue, 24 Oct 2023 07:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美银：将美国铝业评级从“买入”下调至“中性”，目标价从35美元下调至25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1279263.d.html</link>
-            <guid>3332665</guid>
-            <pubDate>Tue, 24 Oct 2023 07:53:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兆易创新：第三季度净利润同比下降82.71%】兆易创新发布2023年第三季度报告，第三季度净利润9769.39万元，同比下降82.71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1279085.d.html</link>
-            <guid>3332664</guid>
-            <pubDate>Tue, 24 Oct 2023 07:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蓝晓科技：第三季度净利润同比增长48.15%】蓝晓科技发布2023年三季度报告，第三季度净利润1.72亿元，同比增长48.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9959928.d.html</link>
-            <guid>3332663</guid>
-            <pubDate>Tue, 24 Oct 2023 07:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦外交和侨民事务部：以军连夜袭击致加沙地带超120名平民死亡】巴勒斯坦外交和侨民事务部当地时间10月24日表示，23日夜间至24日清晨，以军对加沙地带多个地区的居民住宅进行了袭击，已造成至少120名平民丧生。当天早些时候，巴勒斯坦《圣城报》报道，以色列对加沙地带多个地区的连夜袭击导致110名巴勒斯坦人死亡，其中包括儿童和妇女。目前以色列尚未就此事发表评论。（央视新闻）]]></title>
-            <guid>3332662</guid>
-            <pubDate>Tue, 24 Oct 2023 07:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世行行长：地缘政治是全球经济面临的最大风险】世界银行行长阿贾伊·班加(Ajay Banga)周二在沙特举行的年度未来投资倡议（FII）大会上表示，地缘政治是目前世界经济面临的最大风险，但这些风险“往往会迅速转移”，因此不应忽视其他风险。他说：“美国10年期国债收益率昨天刚刚短暂突破5%，这是我们还没有看到的领域。所以，是的，它就潜伏在阴影中。还有，离下一次大流行还有多久？”（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3182367.d.html</link>
-            <guid>3332661</guid>
-            <pubDate>Tue, 24 Oct 2023 07:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[裕信银行在欧股市场下跌1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3182356.d.html</link>
-            <guid>3332660</guid>
-            <pubDate>Tue, 24 Oct 2023 07:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛CEO所罗门：对短期前景持不确定态度，但对长期持乐观态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3377930.d.html</link>
-            <guid>3332659</guid>
-            <pubDate>Tue, 24 Oct 2023 07:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每日投行观点梳理（2023-10-24）】
-1. 高盛：预计美国房价增长将在明年放缓。
-2. 巴克莱：警告美国企业盈利增长停滞，仍看好超大市值科技股和日本股市。
-3. 巴克莱：英国PMI数据不太可能改变英国央行利率预期。
-4. 三菱日联：随着美国经济出现疲软，美元和美债收益率将回落。
-5. 摩根大通：iPhone 15系列各机型平均交货时间均低于iPhone 14系列表现。
-6. 摩根士丹利：美债已替美联储“加了三次息”。
-7. 摩根士丹利：财报预期过高，标普500恐再跌8%。
-8. 摩根士丹利：面板行业议价话语权向买方转移，预计Q3-Q4电视面板价格将下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3182230.d.html</link>
-            <guid>3332658</guid>
-            <pubDate>Tue, 24 Oct 2023 07:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东方今年已完成一亿片OLED下线】记者24日从京东方发布会上获悉，截至目前京东方今年已完成一亿片OLED下线。今年初京东方接受投资者调研时表示，2023年全年公司柔性AMOLED出货量目标为超过1.2亿片。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9959131.d.html</link>
-            <guid>3332657</guid>
-            <pubDate>Tue, 24 Oct 2023 07:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉比特：第三季度净利润同比下降43.31%】吉比特发布2023年第三季度报告，第三季度净利润1.83亿元，同比下降43.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3377709.d.html</link>
-            <guid>3332656</guid>
-            <pubDate>Tue, 24 Oct 2023 07:49:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世纪华通：公司旗下的私募基金投资了“摩尔线程”】世纪华通在投资者互动平台表示，公司旗下的私募基金投资了“摩尔线程”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9958815.d.html</link>
-            <guid>3332655</guid>
-            <pubDate>Tue, 24 Oct 2023 07:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青龙管业：前三季度归母净利润1094.39万元，同比减87.35%】青龙管业10月24日公告，公司前三季度营业收入12.25亿元，同比减少19.66%；归母净利润1094.39万元，同比减少87.35%；基本每股收益0.0328元。公司第三季度净亏损282.52万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3181552.d.html</link>
-            <guid>3332654</guid>
-            <pubDate>Tue, 24 Oct 2023 07:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分众传媒：前三季度归母净利润36.02亿元，同比增长69.06%】分众传媒10月24日公告，2023年前三季度营收86.75亿元，同比增长17.71%；归母净利润36.02亿元，同比增长69.06%；基本每股收益0.2494元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1277826.d.html</link>
-            <guid>3332653</guid>
-            <pubDate>Tue, 24 Oct 2023 07:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部：中非合作论坛第十六届高官会在北京举行】10月24日，外交部发言人毛宁主持例行记者会。有记者提问，中非合作论坛第十六届高官会23日在北京举行。能否介绍一下会议取得了什么成果？毛宁介绍，本届中非合作论坛高官会是论坛55个成员方在论坛机制内的又一次聚首，非方成员高官代表，中方后续行动委员会成员单位主管部门负责人以及部分国际和地区组织观察员近300人出席了会议。与会代表重点讨论了中方关于论坛第八届部长级会议成果落实情况的报告，一致认为，在中非双方密切合作下，习近平主席宣布的“九项工程”以及《中非合作论坛第八届部长级会议达喀尔宣言》《达喀尔行动计划（2022-2024）》《中非合作2035年愿景》等正在有效落实，中非高层往来密切，政治互信深化拓展，友好合作提质增效，各领域交流互鉴百花齐放，不断为中非关系发展注入新的强劲动力。（央视新闻）]]></title>
-            <guid>3332652</guid>
-            <pubDate>Tue, 24 Oct 2023 07:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：以浦东新区创新突破为核心 打造“一核两翼”的合成生物产业空间布局】上海市人民政府办公厅印发《上海市加快合成生物创新策源 打造高端生物制造产业集群行动方案（2023-2025年）》。其中提出，根据各区产业发展基础与细分领域特色，以浦东新区创新突破为核心，以金山区和宝山区制造承载为两翼，打造“一核两翼”的合成生物产业空间布局。浦东新区重点布局原始创新、底层技术、创新平台、企业研发中心和总部；金山区依托湾区生物医药港、碳谷绿湾等，重点布局新材料、新能源等领域；宝山区依托南大合成生物产业园等，重点推进功能性平台建设。推动临港生命蓝湾、闵行大零号湾、奉贤东方美谷、上海化工区等特色区域协同发展。建设具有专业特色的高质量孵化器、加速器，畅通发现、转化、孵化、产业化全链条。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3181179.d.html</link>
-            <guid>3332651</guid>
-            <pubDate>Tue, 24 Oct 2023 07:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华商基金李健：当前或是收集高性价比筹码的好时机】华商基金资产配置部研究员李健发表观点称，当前沪深300指数的股息率（TTM）约为3.2%，相较于中国国债利率的性价比还是较高的。当前或许正是投资者从极度悲观的市场情绪中，收集高性价比筹码的好时机。（券中社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1277594.d.html</link>
-            <guid>3332650</guid>
-            <pubDate>Tue, 24 Oct 2023 07:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱美客：前三季度归母净利润14.18亿元，同比增长43.74%】2023年前三季度归母净利润14.18亿元，同比增长43.74%；营业收入21.7亿元，同比增长45.71%；基本每股收益6.56元，同比增长43.86%。其中第三季度净利润4.55亿元，调整后同比增长13.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9957694.d.html</link>
-            <guid>3332649</guid>
-            <pubDate>Tue, 24 Oct 2023 07:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【24日4只个股股价创历史新高 分布在信息技术、交运设备等行业】据统计，包括新股在内今日共有4只个股股价创历史新高，分布在信息技术、交运设备等行业，包括圣龙股份、君逸数码、高新发展等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3180351.d.html</link>
-            <guid>3332648</guid>
-            <pubDate>Tue, 24 Oct 2023 07:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迪拜黄金和商品交易所：推出现货白银合约，于本月27日开始交易】迪拜黄金和商品交易所在一份声明中表示，该交易所推出白银现货合约，为投资者提供交易白银的平台。该合约将于10月27日开始交易，交易所将在12月27日之前免除该合约的交易费用，投资者将能够在没有限制的情况下持有大量白银头寸。根据白银协会的数据，所有主要的白银需求类别在2022年都创下了历史新高，总购买量增长了18%。迪拜多种商品交易中心执行主席兼首席执行官Ahmed表示：随着白银越来越多地用于太阳能等行业，以及投资者继续关注资产多元化，全球对白银的需求将加速增长。这一点，再加上全球伊斯兰金融业的日益成熟，为我们推出该地区首个符合伊斯兰教法的白银现货合约创造了理想的环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9957470.d.html</link>
-            <guid>3332647</guid>
-            <pubDate>Tue, 24 Oct 2023 07:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：加强对合成生物领域初创企业的培育扶持】上海市人民政府办公厅印发《上海市加快合成生物创新策源 打造高端生物制造产业集群行动方案（2023-2025年）》。其中提出，支持引进国内外合成生物领域头部企业、高端研发机构和重大产业项目。鼓励龙头企业开展行业和产业链并购整合，发挥带动效应和辐射作用，促进合成生物产业链融通创新和做大做强。加强对合成生物领域初创企业的培育扶持，鼓励创新型企业在细分领域深耕厚植，培育出一批细分领域高新技术企业、专精特新企业、“独角兽”企业、“瞪羚”企业和单项冠军企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9957362.d.html</link>
-            <guid>3332646</guid>
-            <pubDate>Tue, 24 Oct 2023 07:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团CEO苏世民：预计企业将减少办公空间。办公地产市场将会有一个非常糟糕的结局。]]></title>
-            <guid>3332645</guid>
-            <pubDate>Tue, 24 Oct 2023 07:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分众传媒：第三季度净利润同比增长88.48%】分众传媒发布第三季度报告，第三季度净利润13.71亿元，同比增长88.48%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1276605.d.html</link>
-            <guid>3332643</guid>
-            <pubDate>Tue, 24 Oct 2023 07:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部：针对当前巴以形势，中方同阿拉伯国家立场高度一致】巴以冲突升级以来，中方积极开展外交斡旋，王毅主任同多国外长通电话，中国政府中东问题特使翟隽赴阿拉伯国家开展穿梭外交，积极推动停火止战。毛宁表示，中方真诚希望巴勒斯坦问题在“两国方案”的基础上得到全面公正持久解决。针对当前巴以冲突升级的形势，中方同广大阿拉伯国家立场高度一致。我们都希望推动尽快停火止战，防止局势进一步升级甚至失控，都反对伤害平民的行为和违反国际法的做法，呼吁保护平民开展人道救援，防止出现更严重的人道主义灾难；我们都支持“两国方案”，实现巴勒斯坦人民的建国权、生存权、回归权，认为这是解决巴勒斯坦问题的唯一出路。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1276589.d.html</link>
-            <guid>3332642</guid>
-            <pubDate>Tue, 24 Oct 2023 07:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【倍加洁：第三季度净利润同比下降7.84%】倍加洁发布2023年第三季度报告，第三季度净利润2252.78万元，同比下降7.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9956563.d.html</link>
-            <guid>3332641</guid>
-            <pubDate>Tue, 24 Oct 2023 07:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱国主义教育法明年起施行】十四届全国人大常委会第六次会议10月24日表决通过《中华人民共和国爱国主义教育法》，自2024年1月1日起施行。这部旨在加强爱国主义教育、传承和弘扬爱国主义精神的法律，共5章40条，包括总则、职责任务、实施措施、支持保障、附则。 （中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3179366.d.html</link>
-            <guid>3332640</guid>
-            <pubDate>Tue, 24 Oct 2023 07:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伯特利：与吉利合作台州双利汽车智能底盘系统公司自2023年8月底设备已调试完成，进行小批量生产阶段】伯特利10月24日在互动平台表示，公司与吉利合作的台州双利汽车智能底盘系统公司自2023年8月底设备已经调试完成，进行小批量生产阶段。]]></title>
-            <guid>3332639</guid>
-            <pubDate>Tue, 24 Oct 2023 07:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汇丰行政总裁祈耀年：欧洲面临的挑战是实现中长期增长。仍然非常有信心在中国找到增长机会。欧洲存在“持续”高利率的潜力。]]></title>
-            <guid>3332638</guid>
-            <pubDate>Tue, 24 Oct 2023 07:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大禹节水：截至目前，公司以色列子公司业务没有受到重大不利影响】大禹节水10月24日在互动平台表示，公司积极响应国家“一带一路”倡议，各类产品与服务等国际业务遍及中亚五国并覆盖巴基斯坦、俄罗斯、乌克兰、克罗地亚、马来西亚、泰国、印度尼西亚、南非、坦桑尼亚、赞比亚、肯尼亚、尼日利亚、厄瓜多尔、澳大利亚等50多个国家和地区。截至目前，公司的以色列子公司业务没有受到重大不利影响。]]></title>
-            <guid>3332637</guid>
-            <pubDate>Tue, 24 Oct 2023 07:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利2年期国债收益率下降4.9个基点，现报3.938%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3179052.d.html</link>
-            <guid>3332636</guid>
-            <pubDate>Tue, 24 Oct 2023 07:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【委内瑞拉政府与反对派恢复对话进程，美暂时取消制裁，外交部回应】中国外交部发言人毛宁说，中方欢迎委内瑞拉朝野重启对话，祝贺对话取得重要进展，愿意继续在委内瑞拉问题上发挥积极和建设性的作用。在委内瑞拉问题上，中方的立场是一贯和明确的，我们始终坚定维护联合国宪章和国际关系基本准则，反对有关国家对委内瑞拉施加非法的单边制裁和所谓长臂管辖，希望美方立即全面停止干涉委内政，全面废除对委内瑞拉和其他国家的非法单边制裁，多做有利于世界和平稳定和发展的事情。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3178983.d.html</link>
-            <guid>3332635</guid>
-            <pubDate>Tue, 24 Oct 2023 07:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专家评德国PMI数据：制造业或触底反弹，预计第四季度经济将小幅萎缩】汉堡商业银行首席经济学家Cyrus说：德国在最后一个季度开始时表现不佳，有很多迹象表明，德国的经济衰退正在进行。我们预计本季度德国GDP将下滑0.4%，PMI结果还显示，经济低迷是广泛的。制造业产出继续急剧下降，上月增长的服务业活动再次出现赤字。就业市场也反映了这一趋势——服务业就业人数连续第二个月小幅下降。同时，企业仍在设法将一些通胀的成本转到客户的账单上，因此，没有理由停止对通胀的担忧。至于希望，制造业新订单指数虽然仍处于较低水平，但已连续第二个月上升，我们认为这些发展迹象表明，该行业正在触底反弹。制造业可能会在明年年初恢复增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnh1275671.d.html</link>
-            <guid>3332634</guid>
-            <pubDate>Tue, 24 Oct 2023 07:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浦东金桥：子公司联合竞得上海市地块土地使用权，成交价22.53亿元】浦东金桥10月24日公告，公司实质上的全资子公司上海金桥出口加工区房地产发展有限公司与上海外高桥集团股份有限公司、上海浦东土地控股（集团）有限公司联合竞得上海市浦东新区祝桥老镇社区PDS7-0101单元H-21地块的国有建设用地使用权，权益比例分别为金桥房产42%、外高桥集团33%、土控集团25%。本地块土地成交总价为22.525亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3375209.d.html</link>
-            <guid>3332633</guid>
-            <pubDate>Tue, 24 Oct 2023 07:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国商业活动下滑，表明经济正在衰退】PMI数据显示，德国10月商业活动连续第四个月萎缩，制造业下滑，服务业的商业活动在前月略有增长后，出人意料地再次回到收缩区域，暗示德国经济衰退正在进行中。德国10月制造业PMI初值录得40.7，服务业PMI初值录得48，均低于50荣枯线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3178714.d.html</link>
-            <guid>3332632</guid>
-            <pubDate>Tue, 24 Oct 2023 07:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国2年期债券收益率下降3.6个基点，现报3.149%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3375137.d.html</link>
-            <guid>3332631</guid>
-            <pubDate>Tue, 24 Oct 2023 07:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：到2025年 新增3至5家合成生物领域企业上市】上海市人民政府办公厅印发《上海市加快合成生物创新策源 打造高端生物制造产业集群行动方案（2023-2025年）》。其中提出，到2025年，涌现若干项具有国际影响力的合成生物领域科研成果、一批领先企业和高端人才，构建基础研发领先、创新转化活跃、产业主体蓬勃发展和产业生态健全完备的新发展格局。新增5个以上具有国际影响力的顶尖科学家及其团队，建立库容百万级以上的元件库，建设服务能级覆盖长三角乃至亚太地区研发和产业发展需求的重大科技基础设施，形成一批相关重大原创科研成果，进入全球创新策源技术前列；开发面向基因编辑、合成与组装、线路设计与构建等具有自主知识产权的关键技术，组建5个以上合成生物功能型平台，实现一批具有核心竞争力的转化项目，形成一批有产业应用价值的国际合作项目，培育10个以上在国内外具有一定影响力的创新引领型企业；吸引5家以上企业建设区域或研发总部，新增3至5家合成生物领域企业上市，培育1至2家年销售收入超过10亿元的优势企业，建设3个左右具有特色和国内领先优势的产业基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3178517.d.html</link>
-            <guid>3332630</guid>
-            <pubDate>Tue, 24 Oct 2023 07:37:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【应流股份：实际控制人、董事长提议5000万元-1亿元回购股份】应流股份公告，公司实际控制人、董事长杜应流提议公司5000万元-1亿元回购股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3178450.d.html</link>
-            <guid>3332629</guid>
-            <pubDate>Tue, 24 Oct 2023 07:37:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳大利亚宣布结束对达尔文港项目安全审查 外交部：表示欢迎】澳方日前宣布结束对达尔文港项目安全审查，并称已与中方就解决有关葡萄酒等世贸争端案达成共识；中国外交部发言人毛宁对此回应称，我们注意到澳大利亚方面宣布结束对达尔文港项目的审查，并表示不会取消或变更租约，对此表示欢迎。希望澳方继续为中国企业在澳大利亚投资运营提供良好的营商环境。毛宁说，关于葡萄酒等问题，中国商务部已经发布了消息，你可以查阅。中方愿与澳方一道继续通过对话协商，妥善解决彼此关切的问题，推动中澳关系进一步改善发展。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3374877.d.html</link>
-            <guid>3332627</guid>
-            <pubDate>Tue, 24 Oct 2023 07:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赖清德对富士康在大陆被查税提出批评，外交部回应】10月24日，外交部发言人毛宁主持例行记者会。有记者提问，台湾“副总统”赖清德对富士康旗下企业在大陆被查税一事进行了批评，请问中方对此有何回应？中国外交部发言人毛宁说，台湾没有什么“副总统”，这个问题也不是一个外交问题。无论民进党当局说什么、做什么都改变不了台湾是中国一部分这个事实。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3177954.d.html</link>
-            <guid>3332626</guid>
-            <pubDate>Tue, 24 Oct 2023 07:35:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长春高新：长效生长激素美国临床方案目前已提交，公司与美国相关监管机构持续沟通中】长春高新近期在接受调研时表示，目前金赛药业已有包括亮丙瑞林、长效促卵泡素、金妥昔单抗、金纳单抗等在研产品的多个适应症在III期临床阶段，同时多项产品处于临床前、I期临床、II期临床阶段，后续公司将综合考虑未来发展规划及短期经营业绩情况等，合理投入研发费用。长效生长激素美国临床方案目前已提交，公司与美国相关监管机构持续沟通中，积极推进临床审批等工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9954976.d.html</link>
-            <guid>3332625</guid>
-            <pubDate>Tue, 24 Oct 2023 07:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦外交和侨民事务部：以军连夜袭击致加沙地带超120名平民死亡】巴勒斯坦外交和侨民事务部当地时间24日表示，23日夜间至24日清晨，以军对加沙地带多个地区的居民住宅进行了袭击，已造成至少120名平民丧生。当天早些时候，巴勒斯坦《圣城报》报道，以色列对加沙地带多个地区的连夜袭击导致110名巴勒斯坦人死亡，其中包括儿童和妇女。目前以色列尚未就此事发表评论。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3374437.d.html</link>
-            <guid>3332624</guid>
-            <pubDate>Tue, 24 Oct 2023 07:35:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒称王毅访美将与布林肯沙利文会晤，外交部回应】10月24日，外交部发言人毛宁主持例行记者会。有记者提问称，据美媒报道，王毅外长访美期间将会与美国国务卿布林肯和美国国家安全顾问沙利文会晤，请问中方是否可以确认该行程的细节？
-
-中国外交部发言人毛宁称，王毅外长访美期间将同美方高层就中美关系及共同关心的国际地区问题深入交换意见，同美各界人士友好交流，表明中方在中美关系上的原则立场和正当关切。
-
-毛宁表示，我们希望美方同中方一道将两国元首的重要共识落到实处，加强沟通对话，拓展务实合作，妥善管控分歧，共同推动中美关系重回健康稳定发展轨道。关于王毅外长此次访问的具体活动，我们会适时发布消息。（环球网）]]></title>
-            <guid>3332623</guid>
-            <pubDate>Tue, 24 Oct 2023 07:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元EUR/USD短线走低近20点，现报1.0663。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3176497.d.html</link>
-            <guid>3332622</guid>
-            <pubDate>Tue, 24 Oct 2023 07:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【户外徒步搜索量暴增370% 自驾露营装备销量增超160%】近期，《促进户外运动设施建设与服务提升行动方案（2023—2025年）》正式对外发布。截至2021年底，全国户外运动参与人数超过4亿人次，大众化、全龄化、轻量化的趋势已经显现，不同种类的户外运动项目层出不穷。据统计，今年九月以来，消费点评平台“户外徒步”关键词的搜索量比去年同期增长了370%，线上购物平台钓鱼装备销量增长153%，自驾露营装备销量增长了167%。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3176132.d.html</link>
-            <guid>3332621</guid>
-            <pubDate>Tue, 24 Oct 2023 07:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10月服务业PMI初值 48，预期 50，前值 50.3。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9952962.d.html</link>
-            <guid>3332620</guid>
-            <pubDate>Tue, 24 Oct 2023 07:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10月综合PMI初值 45.8，预期 46.6，前值 46.4。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9952919.d.html</link>
-            <guid>3332619</guid>
-            <pubDate>Tue, 24 Oct 2023 07:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10月制造业PMI初值 40.7，预期 40.1，前值 39.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnn3175767.d.html</link>
-            <guid>3332618</guid>
-            <pubDate>Tue, 24 Oct 2023 07:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北前三季度GDP达31776.6亿元，同比增长5.2%】从河北省统计局方面获悉，根据地区生产总值统一核算结果，前三季度，河北全省生产总值31776.6亿元，同比增长5.2%，比上年同期加快1.5个百分点。分产业看，第一产业增加值2588.5亿元，同比增长1.7%；第二产业增加值12317.1亿元，增长5.9%；第三产业增加值16871.0亿元，增长5.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9952736.d.html</link>
-            <guid>3332617</guid>
-            <pubDate>Tue, 24 Oct 2023 07:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三菱汽车拟向雷诺电动汽车部门投资200亿日元】据知情人士称，日本三菱汽车公司计划投资雷诺的新电动汽车部门Ampere，预计投资额约为200亿日元(约合1.338亿美元)。在三菱汽车作出这一决定之前，其合作伙伴雷诺和日产已于今年7月敲定了重组后的联盟。日产当时承诺向Ampere投资至多6亿欧元(约合6.41亿美元)。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3372681.d.html</link>
-            <guid>3332616</guid>
-            <pubDate>Tue, 24 Oct 2023 07:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民生证券：消费电子供给侧已现回暖 AI创新成后续行情关键】民生证券研报指出，消费电子供给侧已现回暖，AI创新及MR开售成为后续行情关键。据产业链跟踪，消费电子备货旺季已拉开序幕，手机面板、存储、被动件等细分行业数据全面升温，考虑到3Q22以三星牵头的砍单所造成的低基数影响，未来两个季度财报数据表现将加速改善，尽管目前复苏信号仍集中体现在供给侧备货层面，后续多个促销旺季的销售数据，以及明年AI笔电、苹果MR等产品所体现的创新及成长性将成为电子行情延续的关键。建议关注：力芯微、电连技术、传音控股、闻泰科技、顺络电子等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnm3372429.d.html</link>
-            <guid>3332615</guid>
-            <pubDate>Tue, 24 Oct 2023 07:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：现在的首要目标应该是确保哈马斯无差别释放所有人质。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9952302.d.html</link>
-            <guid>3332614</guid>
-            <pubDate>Tue, 24 Oct 2023 07:27:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德CEO芬克：预计2024年经济不会出现硬着陆或软着陆。美联储将不得不进一步提高利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsewnp9951993.d.html</link>
-            <guid>3332613</guid>
-            <pubDate>Tue, 24 Oct 2023 07:26:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

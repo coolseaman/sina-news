@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 28 Oct 2023 19:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 20:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列宣布召回驻土耳其外交代表】据《以色列时报》当地时间10月28日报道，以色列政府当天表示，由于土耳其总统埃尔多安持续抨击以军在加沙地带不断升级的军事行动，以色列决定从土耳其召回该国外交代表。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzstesa2259782.d.html</link>
+            <guid>3339542</guid>
+            <pubDate>Sat, 28 Oct 2023 20:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【约旦副首相兼外交与侨务大臣会见巴林外交大臣】当地时间10月28日，约旦副首相兼外交与侨务大臣萨法迪会见来访的巴林外交大臣扎耶尼，双方就巴以冲突最新进展进行磋商讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzstesa2258282.d.html</link>
+            <guid>3339541</guid>
+            <pubDate>Sat, 28 Oct 2023 19:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称哈马斯成员证实该组织藏身于加沙地带医院地下】当地时间10月28日，以色列国防军在其社交账号上公布了两段审讯巴勒斯坦伊斯兰抵抗运动（哈马斯）成员的视频，以军称，在审讯过程中，两名哈马斯成员证实该组织藏身于加沙地带希法医院地下。哈马斯对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzstesa2257584.d.html</link>
+            <guid>3339540</guid>
+            <pubDate>Sat, 28 Oct 2023 19:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国前首相约翰逊宣布新工作：新闻主持人】综合多家英媒报道，英国前首相鲍里斯·约翰逊将加入英国GB News新闻频道，成为一名新闻主持人。鲍里斯·约翰逊也在其社交媒体上发布视频，证实将以主持人、节目制作人以及评论员的身份加入英国GB News新闻频道。“我很高兴地说，我很快就会加入GB News。”鲍里斯·约翰逊说。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzsteru3282570.d.html</link>
+            <guid>3339539</guid>
+            <pubDate>Sat, 28 Oct 2023 19:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【担忧高利率将更持久 美联储下周大概率仍暂停加息】分析人士认为，9月的通胀下行速度放慢，潜在价格上涨提速，但不足以促使美联储下周加息。最近通胀的改善已经足以让美联储官员下周决定保持利率不变。通胀的趋势可能令美联储保持继续暂停加息的势头。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzstesa2253819.d.html</link>
+            <guid>3339538</guid>
+            <pubDate>Sat, 28 Oct 2023 19:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国前副总统彭斯宣布退出2024年总统竞选】当地时间10月28日，美国前副总统彭斯宣布，他将退出2024年的总统竞选。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzssyiw3411558.d.html</link>
+            <guid>3339537</guid>
+            <pubDate>Sat, 28 Oct 2023 19:12:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【奥预赛今晚对阵泰国女足 中国女足须全力争胜】今天，2024年巴黎奥运会亚洲区预选赛的小组赛第二轮将在厦门继续上演。今天下午3时30分，韩国女足和朝鲜女足率先上演激战。今晚7时30分，中国女足将迎战泰国女足。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-29/detail-imzssyke2380114.d.html</link>
@@ -571,40 +607,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssinn2703233.d.html</link>
             <guid>3339386</guid>
             <pubDate>Sat, 28 Oct 2023 10:54:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内涨幅逾60% 全国碳配额价上升空间巨大】随着生态环境部10月27日宣布全国碳排放权交易市场第二个履约周期全面启动，更多行业纳入全国碳市场，碳交易主体将进一步丰富，交易活跃度有望进一步提升。今年以来全国碳配额价格（简称碳价）年内已上涨逾60%，而且10月全国碳市场（CEA）碳价已经持续11个交易日站在80元/吨关口。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssink5925794.d.html</link>
-            <guid>3339385</guid>
-            <pubDate>Sat, 28 Oct 2023 10:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国发现一批万吨至十万吨级铀矿床】记者从今天举行的首届国际天然铀产业发展论坛上了解到，近年来，我国建立了“天空地深”一体化勘查技术，发现了一批万吨至十万吨级铀矿床，初步形成了天然铀保障供应体系。中国核工业地质局局长陈军利表示，我国建立了“天空地深”一体化铀矿勘查技术，累计探明多个大型、特大型铀矿床。十年来，新增铀矿资源储量占累计查明总量的三分之一。最新一轮铀资源潜力动态评价显示，我国铀资源潜力巨大，我们完全能够保障核能发展对天然铀的需求。（央视新闻）]]></title>
-            <guid>3339384</guid>
-            <pubDate>Sat, 28 Oct 2023 10:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦卫生部：加沙地带电力通信被切断严重阻碍救援行动开展】当地时间10月28日，巴勒斯坦卫生部长马伊·凯拉在约旦河西岸城市拉姆安拉举行的新闻发布会上表示，27日晚，加沙地带经历了迄今为止最严重的轰炸，以色列当局切断了加沙的电力和所有通信线路，这阻碍了医疗救援行动的开展。凯拉还表示，避难所缺乏干净的水，卫生条件极其恶劣，疾病迅速蔓延。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssink5925200.d.html</link>
-            <guid>3339383</guid>
-            <pubDate>Sat, 28 Oct 2023 10:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿尔及利亚东北部发生车辆连环相撞事故 致1死8伤】当地时间10月28日9时28分左右，阿尔及利亚东北部米拉省发生5辆机动车连环相撞事故，据初步统计，事故造成至少1人死亡，另有8人不同程度受伤。目前，所有死伤者已被送往附近医院接受治疗，警方正在介入调查。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssinn2702125.d.html</link>
-            <guid>3339382</guid>
-            <pubDate>Sat, 28 Oct 2023 10:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛：悲观的美国经济展望可能提供股票逢低吸纳的机会】高盛David Kostin等策略师表示，市场对美国经济增长前景越来越悲观，如果这种情况持续下去，可能会提供买入股票的机会。Kostin本月早些时候警告称，市场利率上升可能影响美国企业利润，摩根士丹利和摩根大通等机构的策略师警告过盈利前景似乎正在恶化。]]></title>
-            <guid>3339381</guid>
-            <pubDate>Sat, 28 Oct 2023 10:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳欢乐谷过山车事故伤者发声】据深圳欢乐谷发布的情况通报，10月27日18时27分左右，景区过山车“雪域雄鹰”项目发生车辆碰撞事故，造成8人受伤。28日15时许，记者从香港大学深圳医院获悉， 目前仍有10名伤者在该院外科住院部接受救治，“其中部分伤者是今日从该院ICU（Intensive Care Unit，重症加强护理病房）转至住院部的。” 事故伤者小诚（化名）告诉记者，27日傍晚，他与朋友一同乘坐过山车“雪域雄鹰”项目。过山车沿轨道行驶、回到始发点不到一分钟，意外发生。“在我们后面出发的那辆过山车滑了下来，撞上了我们这辆停靠在始发点的车。” （新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-28/detail-imzssine3742440.d.html</link>
-            <guid>3339380</guid>
-            <pubDate>Sat, 28 Oct 2023 10:40:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,393 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 15 Nov 2023 08:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 09:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[京东(JD.O)美股盘前涨近6%，此前三季度业绩超出市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxht5585819.d.html</link>
+            <guid>3368594</guid>
+            <pubDate>Wed, 15 Nov 2023 09:13:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【MSCI发布最新一期《净零追踪报告》】 明晟公司（MSCI）发布最新一期的《净零追踪报告》。该报告显示，全球上市公司的脱碳速度预计将在2030年之前放缓。这意味着，在实现1.5°C温控目标的期限内取得进一步成果，将变得更加困难。MSCI最新的《净零追踪报告》预计，在2022年至2030年期间，二十国集团（G20）的其中九个成员国的上市公司的预计脱碳速度相比《巴黎协定》签署后五年间的速度更低。按照这一轨迹，上市公司将在2026年4月之前耗尽将气温升幅控制在1.5°C以内的全球排放预算份额，较MSCI此前在2023年7月预测的期限提前三个月。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxht5585761.d.html</link>
+            <guid>3368593</guid>
+            <pubDate>Wed, 15 Nov 2023 09:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富查伊拉港口石油产品库存降至1691.9万桶】据富查伊拉港石油工业区11月15日发布的数据，截至11月13日当周，阿联酋富查伊拉港的石油产品库存下降了5.3%至1691.9万桶。这是连续三周以来的首次下降。自2022年底以来，总库存已经下降了18%。作为发电和航运燃料使用的重质馏分油是唯一一类下降的产品，该类库存在该周下降了18%至945.6万桶，为三周来的最低水平。轻质馏分油，如汽油和石脑油，上涨了20%至539.6万桶，为三周来的最高水平，而喷气燃料和柴油等中质馏分油增加了16%至206.7万桶，也为三周来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxht5585609.d.html</link>
+            <guid>3368592</guid>
+            <pubDate>Wed, 15 Nov 2023 09:13:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首个离岸现货交易大豆保税交易库通过认定】记者从深圳海关获悉，11月14日，全国首个离岸现货交易大豆保税交易库通过深圳海关认定，标志着我国开展进口大豆离岸现货交易业务具备实货进口条件。该业务预计12月上旬正式上线，将进一步活跃全球大豆交易市场，助力人民币国际化。 （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhq7757037.d.html</link>
+            <guid>3368591</guid>
+            <pubDate>Wed, 15 Nov 2023 09:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国东航：10月，本公司客运运力投入（按可用座公里计）同比上升243.58%；旅客周转量（按客运人公里计）同比上升302.30%；客座率为77.08%，同比上升11.26个百分点。]]></title>
+            <guid>3368590</guid>
+            <pubDate>Wed, 15 Nov 2023 09:11:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[春秋航空：10月旅客周转量同比增长124.97%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2433689.d.html</link>
+            <guid>3368589</guid>
+            <pubDate>Wed, 15 Nov 2023 09:11:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东(09618.HK)：2023年第三季度，商品收入较2022年同期减少0.9%，服务收入较2022年同期增加12.7%。]]></title>
+            <guid>3368588</guid>
+            <pubDate>Wed, 15 Nov 2023 09:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南机场：10月旅客吞吐量同比增长271.96%】海南机场公告，10月起降架次13349架次，同比增长153.78%；旅客吞吐量192.76万人次，同比增长271.96%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhr8807102.d.html</link>
+            <guid>3368587</guid>
+            <pubDate>Wed, 15 Nov 2023 09:10:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外汇局：10月份我国跨境资金流动更趋均衡 资本项目外商直接投资资本金延续净流入格局】国家外汇管理局副局长、新闻发言人王春英就2023年10月份外汇收支形势答记者问表示，10月份我国跨境资金流动更趋均衡。10月，银行结售汇以及非银行部门跨境收支逆差环比分别收窄44%和66%。从经常项目看，我国对外贸易表现出较强韧性，货物贸易跨境资金净流入规模保持较高水平，环比增长52%，继续发挥稳定跨境资金流动的重要作用。资本项目交易中，外商直接投资资本金延续净流入格局，对外直接投资更加平稳；外资继9月净增持境内债券后，10月投资规模进一步增加，国内经济持续回升向好进一步提升外资配置人民币资产信心，在复杂严峻的国际形势下人民币资产的避险属性也逐步增强。未来，随着国内各项政策精准发力、落地落实，积极因素不断积累，经济基本面对外汇市场的支撑作用将进一步巩固。同时，近年来我国外汇市场深度、广度持续拓展，参与主体更趋成熟，交易行为更加理性，宏观审慎管理工具更加完善，抵御外部冲击的能力总体增强。此外，市场普遍认为美联储加息周期已接近终点，对国际金融市场的外溢影响将有所缓和。在内外部环境持续改善下，我国外汇市场和跨境资金流动有望继续保持平稳运行态势。]]></title>
+            <guid>3368586</guid>
+            <pubDate>Wed, 15 Nov 2023 09:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国最高法院在预算上否决政府提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2432667.d.html</link>
+            <guid>3368585</guid>
+            <pubDate>Wed, 15 Nov 2023 09:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相岸田文雄：希望可支配收入增长超过物价增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2432595.d.html</link>
+            <guid>3368584</guid>
+            <pubDate>Wed, 15 Nov 2023 09:08:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相岸田文雄：要求商界在明年春季劳动谈判中提高工资水平，以应对当前的物价趋势。]]></title>
+            <guid>3368583</guid>
+            <pubDate>Wed, 15 Nov 2023 09:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四季度以来非货ETF增加223.25亿份 超七成由跨境ETF贡献】Wind数据显示，截至11月14日，今年四季度以来，非货ETF基金份额增加223.25亿份，超七成的份额增量（171.1亿份）由跨境ETF贡献。5只跨境ETF10月以来净申购份额超10亿份，华夏恒生互联网科技业ETF被净申购最多（64.72亿份），最新规模为302.51亿元；华夏恒生科技ETF被净申购51.47亿份，基金份额创新高至456.99亿份，最新规模244.95亿元。广发中证香港创新药ETF四季度以来被净申购24.67亿份，最新份额总额和规模均创新高，分别为76.1亿份、66.76亿元；华泰柏瑞南方东英恒生科技ETF、大成纳斯达克100ETF分别被净申购16.95亿份、13.29亿份，基金份额创新高至271.12亿份、26.23亿份。（蓝鲸财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhr8806288.d.html</link>
+            <guid>3368582</guid>
+            <pubDate>Wed, 15 Nov 2023 09:08:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【渣打集团：注销约116万股】渣打集团(02888.HK)发布公告，11月6日购回并在11月14日注销约116万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxht5583330.d.html</link>
+            <guid>3368581</guid>
+            <pubDate>Wed, 15 Nov 2023 09:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本首相岸田文雄：看到了战胜通缩的罕见机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxht5582825.d.html</link>
+            <guid>3368580</guid>
+            <pubDate>Wed, 15 Nov 2023 09:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外汇局：10月银行结汇11516亿元人民币 售汇12057亿元人民币】国家外汇管理局统计数据显示，2023年10月，银行结汇11516亿元人民币，售汇12057亿元人民币。2023年1-10月，银行累计结汇128576亿元人民币，累计售汇131740亿元人民币。按美元计值，2023年10月，银行结汇1604亿美元，售汇1680亿美元。2023年1-10月，银行累计结汇18307亿美元，累计售汇18750亿美元。2023年10月，银行代客涉外收入33737亿元人民币，对外付款35066亿元人民币。2023年1-10月，银行代客累计涉外收入355916亿元人民币，累计对外付款361900亿元人民币。按美元计值，2023年10月，银行代客涉外收入4700亿美元，对外付款4885亿美元。2023年1-10月，银行代客累计涉外收入50633亿美元，累计对外付款51448亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhr8805272.d.html</link>
+            <guid>3368579</guid>
+            <pubDate>Wed, 15 Nov 2023 09:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京东集团CEO许冉兼任京东零售CEO 原京东零售CEO辛利军另有任用】京东集团CEO许冉女士将兼任京东零售集团CEO，原京东零售集团CEO辛利军另有任用。一位接近京东的人士称，这个任命表明京东“在持续推动成本效率战略”，并希望加强核心零售业务和其他版块的协同。许冉曾负责京东零售财务工作达2年，内部评价她“对零售业务和管理也非常熟悉”。（36氪）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2431520.d.html</link>
+            <guid>3368578</guid>
+            <pubDate>Wed, 15 Nov 2023 09:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦金属交易所（LME）有色金属今日库存及变化如下：铜库存184250吨，增加4925吨；铝库存485825吨，减少1750吨；镍库存43512吨，增加318吨；锌库存68125吨，减少1100吨；铅库存135325吨，增加25吨；锡库存7475吨，增加80吨。]]></title>
+            <guid>3368577</guid>
+            <pubDate>Wed, 15 Nov 2023 09:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海证券交易所对摩根士丹利国际股份有限公司（Morgan Stanley & Co. International Plc）予以互联互通全球存托凭证境外跨境转换机构备案。]]></title>
+            <guid>3368576</guid>
+            <pubDate>Wed, 15 Nov 2023 09:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京东许冉：相信京东处于实现长期可持续增长的有利位置】京东首席执行官许冉表示，我们备受鼓舞地看到一系列主动努力所取得的进展，比如商家数量的进一步扩大，以及用户购买行为的改善等。凭藉我们为用户和业务合作伙伴创造价值的明确策略，以及着眼未来所进一步优化的价值主张，我相信京东处于实现长期可持续增长的有利位置。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxht5581828.d.html</link>
+            <guid>3368575</guid>
+            <pubDate>Wed, 15 Nov 2023 09:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚洲最深井获高产油气流 测试日产原油达200吨】位于新疆塔里木盆地北缘的新疆沙雅县，我国“深地工程”重点油气项目——中国石化“深地一号”跃进3-3井，经过177天的钻探，成功从地下9432米处获得高产油气流，这一深度也刷新了目前亚洲最深井纪录。根据测算，这口井投产后原油日产量达200吨，天然气5万立方米。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5249471.d.html</link>
+            <guid>3368574</guid>
+            <pubDate>Wed, 15 Nov 2023 09:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联创光电：公司董事会秘书增持1.42万股公司股份】联创光电11月15日晚间公告，公司董事会秘书邓惠霞11月15日通过上交所交易系统以集中竞价方式增持公司A股股份，增持金额为50.01万元，增持公司股份1.42万股，占公司目前总股本的0.0031%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8472174.d.html</link>
+            <guid>3368573</guid>
+            <pubDate>Wed, 15 Nov 2023 09:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：旺车市不能只靠降价】经济日报评论文章称，长期来看，稳定并繁荣汽车市场，不能仅仅依靠降价，而是要加强产品创新和迭代，做好精准市场定位，全面提升产品质量、性能、服务等。还要改善营销策略、模式和渠道，更专注于满足消费者的根本需求。车企的战略和行为对汽车市场的繁荣起决定性作用。近年来，国产车的市场份额逐步提升，新能源汽车的销量、市场占有率、出口规模等均得到显著提升，这主要得益于国家层面的战略布局以及企业的审时度势。长期来看，要稳定并兴旺汽车市场，车企要加强产品的持续创新和迭代，调整优化销售渠道，坚持绿色化、智能化、数字化等发展方向，全面提升产品质量、性能、服务等，建立良好的市场口碑，做好车型的精准市场定位。还应适时调整战略布局，优化产品线和市场结构，新能源汽车厂商应继续加大国际市场开拓力度，利用自贸试验区等重要平台提升整车出口效率。企业还要改善营销策略、模式和渠道，降低营销成本，更专注于满足消费者的根本需求。国家相关管理部门也应密切关注汽车市场的价格变化情况，加强市场监管效率，及时惩处不当的价格竞争行为。]]></title>
+            <guid>3368572</guid>
+            <pubDate>Wed, 15 Nov 2023 09:02:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东董事会和薪酬委员会已批准采纳2023年股权激励计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5248849.d.html</link>
+            <guid>3368571</guid>
+            <pubDate>Wed, 15 Nov 2023 09:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东：2023年第三季度收入为人民币2,477亿元，较2022年第三季度增加1.7%。第三季度经营利润为人民币93亿元，去年同期为人民币87亿元。研发开支由2022年第三季度的人民币41亿元减少7.8%至2023年第三季度的人民币38亿元（5亿美元）。2023年第三季度，研发开支占收入百分比为1.5%，去年同期为1.7%；营销开支由2022年第三季度的人民币76亿元增加4.6%至2023年第三季度的人民币80亿元（11亿美元）。]]></title>
+            <guid>3368570</guid>
+            <pubDate>Wed, 15 Nov 2023 09:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家能源局：10月份，全社会用电量7419亿千瓦时，同比增长8.4%。分产业看，第一产业用电量101亿千瓦时，同比增长12.2%；第二产业用电量5194亿千瓦时，同比增长8.6%；第三产业用电量1262亿千瓦时，同比增长14.4%；城乡居民生活用电量862亿千瓦时，同比下降0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8471069.d.html</link>
+            <guid>3368569</guid>
+            <pubDate>Wed, 15 Nov 2023 09:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银CEO：欧洲需要更强大的银行，这只有通过整合才能实现。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8470911.d.html</link>
+            <guid>3368568</guid>
+            <pubDate>Wed, 15 Nov 2023 08:59:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据船运调查机构SGS公布数据显示，预计马来西亚11月1-15日棕榈油出口量为602510吨，较上月同期出口的665876吨减少9.52%。]]></title>
+            <guid>3368567</guid>
+            <pubDate>Wed, 15 Nov 2023 08:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦锌日内涨超2%，现报2653.5美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5247361.d.html</link>
+            <guid>3368566</guid>
+            <pubDate>Wed, 15 Nov 2023 08:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【隆基机械：公司为阿维塔11、12独家直供】有投资者在互动平台向隆基机械提问，请问公司与阿维塔11及12是独家供货还是只负责其中个别部件代理。对此，隆基机械表示，公司为阿维塔11、12独家直供。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5247174.d.html</link>
+            <guid>3368565</guid>
+            <pubDate>Wed, 15 Nov 2023 08:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日全国碳市场收盘价73.31元/吨，较前一日上涨2.25%】今日全国碳市场综合价格行情为：开盘价72.01元/吨，最高价74.66元/吨，最低价71.79元/吨，收盘价73.31元/吨，收盘价较前一日上涨2.25%。今日挂牌协议交易成交量602064吨，成交额43407881.36元；大宗协议交易成交量870000吨，成交额49437200.00元。今日全国碳排放配额总成交量1472064吨，总成交额92845081.36元。截至今日，全国碳市场碳排放配额累计成交量413550803吨，累计成交额22888297708.05元。（全国碳交易）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5247038.d.html</link>
+            <guid>3368564</guid>
+            <pubDate>Wed, 15 Nov 2023 08:56:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄“能源”火箭航天集团总设计师：国际空间站俄罗斯舱段将使用至2028年】俄罗斯“能源”火箭航天集团总设计师弗拉基米尔·索洛维约夫表示，俄罗斯为国际空间站的建设和运行总计支出了140亿美元，占空间站总值10%，俄方拥有空间站资源30%的使用权。他还透露，按照目前状态，国际空间站俄罗斯舱段将使用至2028年，而美国方面计划将国际空间站运行时间延长至2030年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8469600.d.html</link>
+            <guid>3368563</guid>
+            <pubDate>Wed, 15 Nov 2023 08:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【远兴能源：第一、第二条生产线装置运行稳定 近期未进行检修】远兴能源在互动平台表示，三线计划于11月下旬投料。公司暂未开展套保相关业务。第一、第二条生产线装置运行稳定，近期未进行检修。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5246183.d.html</link>
+            <guid>3368562</guid>
+            <pubDate>Wed, 15 Nov 2023 08:54:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯三季度研发投入164.5亿元，腾讯混元大模型助力多业务提效】腾讯三季度研发开支同比增长9%，达到164.5亿元，自2018年以来累计投入超过2532亿元。在全球范围内，腾讯的专利申请公开总数超过6.9万件，专利授权数量超过3.5万件，这一数量在互联网公司中位列中国第一、全球第二。腾讯在三季度推出了全新通用大模型“腾讯混元”。该模型实现了从算法、机器学习框架到人工智能基础设施的全链路自研，目前已接入超过180个腾讯内部业务测试，并积极助力合作伙伴提效，为业务的创新增长提供了强大助力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhq7749956.d.html</link>
+            <guid>3368561</guid>
+            <pubDate>Wed, 15 Nov 2023 08:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特将12月销往亚洲地区的KEC原油价格设定为较阿曼/迪拜均价升水2.85美元/桶。]]></title>
+            <guid>3368560</guid>
+            <pubDate>Wed, 15 Nov 2023 08:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港证监会：取得针对江山控股及中国三迪前主席的法庭命令】香港证监会在原讼法庭取得针对江山控股(00295.HK)及中国三迪(00910.HK)前主席兼执行董事谢安建（男）的取消资格令及赔偿令。谢承认以欺诈手段借着江山的股份配售暗中获利，及以折让价取得中国三迪配售的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2425275.d.html</link>
+            <guid>3368559</guid>
+            <pubDate>Wed, 15 Nov 2023 08:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏省联社主导 辖下多家农商行高管拟调动】江苏地区农商行的高管们，正在经历一场由江苏省联社牵头的、规模不算小的“大腾挪”。除了已经发布公告的常熟银行，根据记者掌握的信息，本次调整估约涉及19名农商行高管。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5243260.d.html</link>
+            <guid>3368558</guid>
+            <pubDate>Wed, 15 Nov 2023 08:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京市统计局：老年人对智能产品消费意愿较高 银发经济潜能十足】为了解老年人消费习惯、特点及诉求建议，北京市统计局日前对北京市1220位60岁及以上的常住老年人开展问卷调研。调研结果显示，老年人对智能产品消费意愿较高，消费显现活力，银发经济潜能十足。（上证报）]]></title>
+            <guid>3368557</guid>
+            <pubDate>Wed, 15 Nov 2023 08:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京东物流第三季度营收417亿元 利润水平再创新高】京东物流15日发布2023年第三季度业绩报告。第三季度，京东物流实现收入和利润的高质量增长，总收入为417亿元，同比增长16.5%。得益于供应链运营效率提升与成本优化，京东物流三季度利润水平再创新高，经调整后净利润达到8.4亿元，同比增长89%，达到上市以来同期最好盈利水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2424561.d.html</link>
+            <guid>3368556</guid>
+            <pubDate>Wed, 15 Nov 2023 08:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯控股：截至2023年9月30日止三个月内，本公司于港交所以总代价约153亿港元购回合共47,519,200股股份。]]></title>
+            <guid>3368555</guid>
+            <pubDate>Wed, 15 Nov 2023 08:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乘联会：11月1-12日乘用车市场零售53.8万辆 同比去年同期增长18%】乘联会数据显示，11月1-12日，乘用车市场零售53.8万辆，同比去年同期增长18%，较上月同期下降15%，今年以来累计零售1,780.5万辆，同比增长4%。11月1-12日,新能源车市场零售22.2万辆，同比去年同期增长20%，较上月同期下降2%，今年以来累计零售617.5万辆，同比增长34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2424184.d.html</link>
+            <guid>3368554</guid>
+            <pubDate>Wed, 15 Nov 2023 08:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯：第三季度微信及WeChat月活13.36亿，同比增长2%。QQ移动终端月活账户数5.58亿，同比下滑3%。]]></title>
+            <guid>3368553</guid>
+            <pubDate>Wed, 15 Nov 2023 08:42:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雷诺CEO：计划近期开始出售日产汽车股份】雷诺集团首席执行官卢卡·德·梅奥表示，他的目标是近期开始出售雷诺最近转让给一家信托公司的28.4%日产汽车股份，以便为一项发展计划提供资金。“我们与日产达成了协议，将以一种相当协调的方式与日产合作，”卢卡·德·梅奥说，“可能在2024年初开始出售股份。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5241611.d.html</link>
+            <guid>3368552</guid>
+            <pubDate>Wed, 15 Nov 2023 08:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委森特诺：没有理由加快资产购买计划的量化紧缩进程。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8464224.d.html</link>
+            <guid>3368551</guid>
+            <pubDate>Wed, 15 Nov 2023 08:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委森特诺：欧洲央行需要减少其资产负债表规模。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2422750.d.html</link>
+            <guid>3368550</guid>
+            <pubDate>Wed, 15 Nov 2023 08:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构论市：指数震荡收涨 汽车链条交投积极】源达认为，技术上看，周三市场在外围向好的带动下高开整理，分时上黄白两线多次剪刀差，说明市场赚钱效应一般，尤其是尾盘回升成交量并未显著放大，说明量价配合效果并不理想。日线级别上，承压55日均线，短期预计还需进一步夯实，60分钟上macd指标呈现顶背离状态，短期还需放量进行化解。整体看多头趋势有增强，但仍有不足，当下震荡上行的节奏或是大概率事件。创业板指高开低走回踩5日线，短期继续得以支撑，接下来能否再起升势还需进一步观察。科创50亦有所承压，上有压力下有支撑下震荡节奏短期难以转变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2422659.d.html</link>
+            <guid>3368549</guid>
+            <pubDate>Wed, 15 Nov 2023 08:38:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯三季报公布后，Naspers涨幅扩大至3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhp2422236.d.html</link>
+            <guid>3368548</guid>
+            <pubDate>Wed, 15 Nov 2023 08:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一彬科技：拟就公司在长兴经济技术开发区进一步实施发展战略签订《投资协议》】一彬科技公告，拟就公司在长兴经济技术开发区进一步实施发展战略签订《投资协议》，在长兴经济技术开发区投资建设智能汽车内饰件研发、制造项目（具体以政府主管部门备案为准，以下简称“该项目”），该项目总投资额为不低于1亿元人民币，公司以自有资金或自筹资金出资。同日，双方完成上述《投资协议》的签署。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhq7745012.d.html</link>
+            <guid>3368547</guid>
+            <pubDate>Wed, 15 Nov 2023 08:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯控股：正在升级自研基础模型腾讯混元 并将其部署到内部产品中】腾讯控股在财报中表示，公司扩展了广告人工智能模型的参数，以提高定向和归因的准确性。还开始向广告主提供生成式人工智能工具，使他们能够通过文本描述自动生成广告素材，并适配各广告库存生成多尺寸的素材。正在升级自研基础模型腾讯混元，并将其部署到内部产品中，同时向外部企业客户开放使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8462636.d.html</link>
+            <guid>3368546</guid>
+            <pubDate>Wed, 15 Nov 2023 08:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委森特诺：没有看到任何二轮效应的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8462526.d.html</link>
+            <guid>3368545</guid>
+            <pubDate>Wed, 15 Nov 2023 08:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委森特诺：仍预计11月份通胀数据良好。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8462460.d.html</link>
+            <guid>3368544</guid>
+            <pubDate>Wed, 15 Nov 2023 08:35:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委森特诺：数据将告诉我们维持利率在当前水平的时间长度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhq7744753.d.html</link>
+            <guid>3368543</guid>
+            <pubDate>Wed, 15 Nov 2023 08:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委森特诺：通胀率回落至2%的进度将会较为缓慢。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8462353.d.html</link>
+            <guid>3368542</guid>
+            <pubDate>Wed, 15 Nov 2023 08:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东莞：优化新建商品住房销售价格申报 变更销售价格期限缩短至30天】东莞市住房和城乡建设局发布关于优化新建商品住房销售价格申报有关事项的通知。通知明确，已办理预（现）售但未售出的新建商品住房需变更销售价格的，自取得预售许可证（或现售备案证书）之日起或自上一次调整申报价格之日起满30天方可变更，其他事项不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8462301.d.html</link>
+            <guid>3368541</guid>
+            <pubDate>Wed, 15 Nov 2023 08:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称没有迹象表明希法医院内有被扣押人质 搜查行动仍在继续】以色列陆军电台当地时间11月15日报道称，以色列国防军方面表示，尚未有迹象表明在希法医院内部有被扣押的人质，以军在医院内的搜查行动仍在进行之中。截至目前，以军还没有伤亡情况发生。对此，巴勒斯坦伊斯兰抵抗运动（哈马斯）方面暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5238433.d.html</link>
+            <guid>3368539</guid>
+            <pubDate>Wed, 15 Nov 2023 08:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯控股：微信方面，视频号总播放量同比增长超过50%，得益于繁荣的创作者社区以及日益提升的用户心智。原创内容播放量增长强劲，目前占视频号总播放量的绝大部分。]]></title>
+            <guid>3368538</guid>
+            <pubDate>Wed, 15 Nov 2023 08:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元11月15日16:30收盘报7.2391，较上一交易日上涨542点。]]></title>
+            <guid>3368537</guid>
+            <pubDate>Wed, 15 Nov 2023 08:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯控股2023年Q3营收1546亿元，去年同期1400.93亿元。
+Q3净利润362亿元，市场预期323.8亿元。
+Q3网络广告收入257.2亿元，市场预期262.4亿元。
+Q3收费增值服务付费会员数2.5亿，市场预期2.4亿。
+音乐付费会员数同比增长21%至1.03亿，同时ARPU同比增长17%。
+视频付费会员数同比下降3%，但环比增长1%，达到1.17亿。
+本土市场游戏收入增长3%至人民币327亿元，得益于近期发布的《命运方舟》、《无畏契约》和《冒险岛：枫之传说》。
+收入成本环比稳定在人民币781亿元，反映金融科技交易成本增加被内容成本减少所抵销。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhk8460702.d.html</link>
+            <guid>3368534</guid>
+            <pubDate>Wed, 15 Nov 2023 08:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赣粤高速：10月份车辆通行服务收入2.6亿元】赣粤高速公告，公司2023年10月份车辆通行服务收入为2.6亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhq7743077.d.html</link>
+            <guid>3368533</guid>
+            <pubDate>Wed, 15 Nov 2023 08:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国商品房库存面积升至6.48亿平方米 年末房企或加大促销力度】根据国家统计局数据，截至10月末，商品房待售面积64835万平方米，同比增长18.1%。其中，住宅待售面积增长19.7%。分析师指出，临近年末，房地产企业或将加快项目推盘节奏、加大促销力度，进而促进部分需求释放，另一方面，核心城市二手房销售保持恢复情况下，有望带动新房市场活跃度提升，叠加当前相对宽松的政策环境及去年低基数效应，房地产市场有望逐步企稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhq7742897.d.html</link>
+            <guid>3368532</guid>
+            <pubDate>Wed, 15 Nov 2023 08:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福斯特：公司内部业务整合】福斯特公告，将功能膜材料业务相关的资产、资质等转让给全资子公司杭州福斯特功能膜材料有限公司，功能膜材料相关业务和人员等也一并转移至功能膜公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzusxhn5236066.d.html</link>
+            <guid>3368531</guid>
+            <pubDate>Wed, 15 Nov 2023 08:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宏利投资管理部门裁员250人 应对高成本和经济放缓的挑战】加拿大最大保险公司宏利金融(Manulife Financial)旗下的全球财富与资产管理部门宏利投资管理公司周二表示，该部门已在全球范围内裁员250人。裁员仅限于宏利投资管理公司在美国、加拿大、英国和亚洲的办事处。据一位知情人士透露，此次裁员约占宏利财富与资产管理部门员工总数的2.5%。加拿大金融公司也面临着高成本和经济放缓的挑战，迫使许多银行裁员数百人。到目前为止，新斯科舍银行已宣布裁员2700人，加拿大皇家银行裁员约1800人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8588340.d.html</link>
+            <guid>3368530</guid>
+            <pubDate>Wed, 15 Nov 2023 08:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米汽车公示：北汽越野代工 采用比亚迪弗迪电池】工信部今日公布了小米汽车的申报车型信息。公示信息显示，小米汽车产品商标为小米牌，为纯电动轿车，生产企业为北京汽车集团越野车有限公司。图片显示，小米汽车尾部标识为“北京小米”。外形尺寸方面，长4997mm，宽1963mm，高1455mm，轴距3000mm。另外，小米汽车采用磷酸铁锂电池，供应商为比亚迪旗下的弗迪电池；发动机来自联合汽车电子有限公司，驱动电机峰值功率220kW。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2548092.d.html</link>
+            <guid>3368529</guid>
+            <pubDate>Wed, 15 Nov 2023 08:21:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高铁电气：中标新建哈尔滨至铁力铁路工程项目】高铁电气公告，公司于近日收到“新建哈尔滨至铁力铁路工程项目中标通知书”，中标金额为5170.97万元（含税），中标项目为接触网关键零部件（包含腕臂底座、腕臂装置、定位装置）JC01包、接触网关键零部件（下锚补偿装置）JC07包。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8587937.d.html</link>
+            <guid>3368528</guid>
+            <pubDate>Wed, 15 Nov 2023 08:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国富时100指数日内涨幅达1.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8586766.d.html</link>
+            <guid>3368527</guid>
+            <pubDate>Wed, 15 Nov 2023 08:17:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【工信部发布《道路机动车辆生产企业及产品公告》（第377批），纯电动轿车小米牌汽车在列】工信部发布《道路机动车辆生产企业及产品公告》（第377批），纯电动轿车小米牌汽车在列。]]></title>
             <guid>3368526</guid>
@@ -214,402 +596,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8572063.d.html</link>
             <guid>3368490</guid>
             <pubDate>Wed, 15 Nov 2023 07:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行副行长：除非通胀稳步放缓，否则央行准备进一步加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8571677.d.html</link>
-            <guid>3368489</guid>
-            <pubDate>Wed, 15 Nov 2023 07:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安必平：Hyper 90预计明年可以正式推向市场】公司非常看重Hyper 90这款设备，目前已经开始试产，并在一些头部医院装机测试。预计明年可以正式推向市场。下一步会实现染色机加封片机加扫描仪和AI的尝试，我们判断这个方向在国际市场都有一定的竞争力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5347013.d.html</link>
-            <guid>3368488</guid>
-            <pubDate>Wed, 15 Nov 2023 07:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东方电热：未来3至5年，新能源板块将是公司重点发展方向】公司目前的净利润大多数是新能源板块业务创造。未来3至5年，新能源板块将是公司重点发展方向，有希望面临重大的发展机遇。募投项目中的连续退火线已完成两次试车，其中 9 月中旬第一次试车，主要工艺参数及重点质量指标均基本达到预期目标，相关工艺、设备经整改完善后于 10 月中旬进行了第二次试车，整体工序运行情况良好，产品质量达到预期要求，新下线的产品已经给相关的客户送样做进一步验证，部分产品也直接销售给了客户。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussys7854678.d.html</link>
-            <guid>3368487</guid>
-            <pubDate>Wed, 15 Nov 2023 07:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【帝科股份：DK61F银包铜浆料已经在行业龙头企业实现稳定批量生产】帝科股份近期投资者关系活动记录表显示，目前DK61A纯银浆料已经助力行业龙头企业连续多次打破HJT异质结组件功率世界纪录，在纯银超细线印刷、激光转印等方面均处于行业领先地位，并实现了长期稳定交付；DK61F银包铜浆料已经在行业龙头企业实现了稳定批量生产，实现了优异的效率、成本、印刷性和可靠性竞争力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5346587.d.html</link>
-            <guid>3368485</guid>
-            <pubDate>Wed, 15 Nov 2023 07:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国10月通胀降至两年低点】英国10月的通胀率降至两年来的最低水平，在食品价格和能源价格下跌的带动下，降幅超出预期，这为英国央行下个月召开年度最后一次会议之前减轻了一点压力。公布的数据显示，10月CPI同比上涨4.6%，较9月6.7%的涨幅有所放缓。不过剔除能源和食品价格波动的核心通胀率仍高于10月份的总体通胀率，同比增长5.7%，但较9月份的6.1%有所下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8568453.d.html</link>
-            <guid>3368484</guid>
-            <pubDate>Wed, 15 Nov 2023 07:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国商飞专家工作组等到航新科技调研考察】据航新科技消息，11月10日，中国商用飞机有限责任公司专家工作组组长、链长专家咨询委员会组长史坚忠、副组长田民等十位专家一行到航新科技调研考察。史坚忠说，希望航新能继续发挥自身技术优势，与中国商飞和其他系统供应商多沟通交流，争取开发出更多具有竞争力的民机产品，同时利用海外优势，提前布局C919、C929的海外飞机大修、航线维护等业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5345576.d.html</link>
-            <guid>3368483</guid>
-            <pubDate>Wed, 15 Nov 2023 07:26:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【望变电气：公司两大主营业务版块四季度订单饱和】望变电气11月15日再互动平台表示，公司两大主营业务版块四季度订单仍旧饱和。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8568284.d.html</link>
-            <guid>3368482</guid>
-            <pubDate>Wed, 15 Nov 2023 07:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中银国际：年底前宏观政策组合拳仍可期待】中银国际指出，10月数据显示了经济仍在复苏趋势之下。稳定经济复苏趋势，不仅要释放消费和制造业转型升级对经济的带动作用，同时也要稳定基建投资对经济的托底作用，减少房地产产业链对经济的拖累，以及防范化解金融风险。此前的一万亿特别国债和特殊再融资地方债落地，对稳定四季度和2024年基建投资有较好的带动，11月到期的MLF超额续作同样是货币政策宽松的重要内容，除此之外，我们认为年底前宏观政策组合拳仍可以期待，关注稳定房地产产业链方面是否会有进一步政策出台，以及货币政策是否会配合稳增长的宏观政策，在量和价方面有进一步的宽松。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2530486.d.html</link>
-            <guid>3368481</guid>
-            <pubDate>Wed, 15 Nov 2023 07:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【11月15日沪深两市涨停分析】沪指放量反弹涨0.55%，新能源赛道、汽车产业链持续活跃。皇庭国际晋级7连板，天威视讯走出10天8板，西陇科学录得6天5板，银宝山新、龙高股份、三柏硕均走出4连板，一图看懂>>]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5344887.d.html</link>
-            <guid>3368480</guid>
-            <pubDate>Wed, 15 Nov 2023 07:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【红宝丽：PO技改项目预计明年6月进入试生产许可申领阶段】前期受地方能量指标政策等影响，PO技改项目进程有所耽搁，公司及时调整项目规模和建设内容，正在加快推进，预计明年上半年建设完工，6月进入试生产许可申领阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5344548.d.html</link>
-            <guid>3368478</guid>
-            <pubDate>Wed, 15 Nov 2023 07:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科德数控：公司大型翻板铣可以用于C919和C929民用航空领域的框梁加工】公司大、小型翻板铣的研制和推出，可以针对航空结构件，如飞机翼板、翼肋、型框等典型零件实现高速高效加工，其中大型翻板铣可以用于C919和C929民用航空领域的框梁加工，小型翻板铣能够覆盖70%的中小规格航空结构加工范围。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8566956.d.html</link>
-            <guid>3368477</guid>
-            <pubDate>Wed, 15 Nov 2023 07:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BMD马来西亚棕榈油主力合约日内涨幅扩大至2.00%，现报3983林吉特/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8566530.d.html</link>
-            <guid>3368476</guid>
-            <pubDate>Wed, 15 Nov 2023 07:21:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗：维持澳博“买入”评级 目标价下调至3.55港元】花旗发布研究报告称，维持澳博控股“买入”评级，将上葡京在2024至25财年EBITDA预测下调11%至21%，反映上葡京起动较预期慢，目标价由3.85港元下调至3.55港元。报告称，公司第三季净收入58.68亿港元，按季升9%，调整后EBITDA按季改善32%至5.66亿港元，大致上符合预期，略胜于该行预测。其中澳门上葡京综合渡假村(GLP)第三季收入按季升13%至10.84亿港元，调整后EBITDA亏损按季收窄57%至2700万港元，逊于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8566499.d.html</link>
-            <guid>3368475</guid>
-            <pubDate>Wed, 15 Nov 2023 07:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“20宝龙04”跌超20%，触发盘中临时停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5343224.d.html</link>
-            <guid>3368474</guid>
-            <pubDate>Wed, 15 Nov 2023 07:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每日房地产行业动态汇总（2023-11-15）】
-1. 广州：住房公积金实行“认房不认贷”，公积金贷款首套房最低首付比例20%。
-2. 国家统计局：1—10月份，全国房地产开发投资95922亿元，同比下降9.3%。
-3. 国家统计局：房地产开发投资、商品房销售额等指标出现了一定的边际改善迹象。
-4. 广东东莞出台楼市新政，预售新房调价申报时间缩短为30天。
-5. 广东茂名：提高公积金贷款额度，最高可贷额度提至55万元。
-6. 四川攀枝花：支持房地产开发企业组织团购活动，每月可申请10套特价房源。
-7. 云南红河：二孩、三孩家庭提取公积金额度分别上浮20%、30%。
-8. 云南保山：鼓励各县对购买商品房的给予阶段性补贴。
-9. 杭州富阳：人才在富阳首购新房最高可得30万元补贴，鼓励单位职工团购。
-10. 江西上饶：购买改善型自住商品房再次申请公积金贷款，首付最低30%。
-11. 央行金融稳定局：从供需两端综合施策，维护房地产市场平稳运行。
-12. 成都：取消限地价后首次土拍揽金57亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2528328.d.html</link>
-            <guid>3368473</guid>
-            <pubDate>Wed, 15 Nov 2023 07:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚太主要股市收盘全线走高，日经225指数收涨2.52%】亚太主要股市收盘全线走高。韩国综合指数收涨2.2%，报2486.67点。个股方面，乐天石化涨逾6%，三星重工涨逾5%，起亚汽车涨逾4%。日经225指数收涨2.52%，报33519.70点，盘中创两个月来高位。个股方面，夏普涨逾7%，软银集团涨逾5%，索尼涨5%。澳洲标普200指数涨1.42%，报7105.90点；新西兰NZX50指数涨1.61%，报11352.84点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8565503.d.html</link>
-            <guid>3368472</guid>
-            <pubDate>Wed, 15 Nov 2023 07:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚太经合组织部长级会议将商讨可持续发展新措施】亚太经合组织部长级会议14日在美国旧金山开幕。会议为期两天，与会者将主要讨论实现可持续发展的新措施。美国国务卿布林肯在致开幕词时说，亚太地区仍面临许多经济挑战，各经济体内部及其之间的不平等阻碍了整个地区发展，期待建设“更有韧性、更可持续和更加互联互通的未来”。美国贸易代表戴琪表示，脆弱的供应链、日益严重的不平等、不断恶化的气候危机、地缘政治紧张等构成了威胁，但也为各方提供机会评估现状，创造性地思考，汇聚力量共同勾勒更具韧性、可持续和包容性的未来。与会者还将讨论有助于改革贸易和投资的政策杠杆，使其更具有可持续性和包容性。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2527775.d.html</link>
-            <guid>3368471</guid>
-            <pubDate>Wed, 15 Nov 2023 07:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦加芯彩：公司防腐涂料目前主要应用于风电叶片与船运集装箱市场】公司防腐涂料目前主要应用于风电叶片与船运集装箱市场，公司与中材科技、中复连众、双瑞风电、明阳智能、时代新材、艾郎科技、重通成飞等风电设备制造商以及中集集团、胜狮货柜、新华昌集团、中远海运、富华机械、广东现代集装箱等船运集装箱制造商等主要客户建立了长期稳定的合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussys7850457.d.html</link>
-            <guid>3368470</guid>
-            <pubDate>Wed, 15 Nov 2023 07:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国债期货收盘】30年期主力合约涨0.12%，10年期主力合约涨0.03%，5年期主力合约涨0.01%，2年期主力合约跌0.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5342096.d.html</link>
-            <guid>3368469</guid>
-            <pubDate>Wed, 15 Nov 2023 07:16:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本10月份入境旅游人数达到252万人，超过了新冠疫情前水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8564860.d.html</link>
-            <guid>3368468</guid>
-            <pubDate>Wed, 15 Nov 2023 07:16:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海四批次二轮供地挂牌4宗地块 总起始价达207亿元】上海15日发布四批次二轮供地公告，共出让4宗国有建设用地，分布于徐汇区、宝山区、嘉定区、闵行区，总起始价207亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussys7850256.d.html</link>
-            <guid>3368467</guid>
-            <pubDate>Wed, 15 Nov 2023 07:15:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股科网概念股午后涨幅扩大】小米集团-W上涨6%，京东集团-SW上涨5%；腾讯控股、美团-W和阿里巴巴-SW上涨4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussys7849641.d.html</link>
-            <guid>3368466</guid>
-            <pubDate>Wed, 15 Nov 2023 07:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰货币政策委员会委员Kochalski ：货币政策委员会应谨慎对待改变利率的问题。预计在2023年不会出现经济衰退。]]></title>
-            <guid>3368465</guid>
-            <pubDate>Wed, 15 Nov 2023 07:13:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东方证券：新能源汽车行业盈利有望复苏】东方证券研报指出，供给端扩张低预期，新能源汽车行业盈利有望复苏。产业链的产能跃进与库存过剩局面主要由供需两端的信息不对称、2020年以来宽松的融资环境及高景气阶段市场的强预期引发。当前行业固定资产投资增速已经边际放缓，基于市场对增速、盈利、格局的担忧，叠加再融资规则的收紧，锂电企业融资难度加大，继续大规模扩张受到制约。投资动力和融资能力受损，新增产能的投放进度与扩产项目的投资规模均已受到影响，实际扩张不及预期。需求保持可观增速，而扩产进度滞后的情况下，行业整体有望迎来盈利复苏，看好业绩回归和估值修复的机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5340786.d.html</link>
-            <guid>3368464</guid>
-            <pubDate>Wed, 15 Nov 2023 07:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东方金诚：10月宏观数据走势较为平稳 经济修复基础还需进一步夯实】东方金诚指出，在稳增长政策持续发力，以及上年同期基数下沉影响下，10月消费、工业生产等多数宏观数据都有所上行，经济运行态势较为平稳。不过，10月制造业PMI再度降至收缩区间，服务业PMI指数下降至50.1%，都显示当月经济环比修复势头略有放缓。背后是居民消费总体依然偏弱，房地产行业持续处于调整阶段。这表明当前经济修复基础仍有待进一步夯实。我们预计，继10月财政政策显著发力后，年底前货币政策还有可能降准，短期内宏观政策将在稳增长方向持续用力，推动四季度经济复苏动能持续走强。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5340704.d.html</link>
-            <guid>3368463</guid>
-            <pubDate>Wed, 15 Nov 2023 07:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【许正宇：中国人民银行数字货币研究所和香港金管局正就数字人民币作跨境支付在香港进行第二阶段的技术测试】香港特区政府财经事务及库务局局长许正宇在议员答复中提到，跨境金融科技合作对促进两地电子支付互联互通十分重要。中国人民银行数字货币研究所和金管局正就数字人民币作跨境支付在香港进行第二阶段的技术测试，引入更多香港银行参与及透过转数快为数字人民币钱包增值。数字人民币为两地居民的跨境零售消费提供多一个安全、便捷及创新的选择，提升跨境支付服务效率和用户体验。]]></title>
-            <guid>3368462</guid>
-            <pubDate>Wed, 15 Nov 2023 07:11:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【CRU：预计2023-2028年印度、越南和泰国精炼铜需求将大幅增长】11月15日，在由CESCO、CNIA共同主办的第十二届亚洲铜业周上，CRU分析师表示，预计2023-2028年除中国大陆以外的亚洲地区中，印度、越南和泰国的精炼铜需求增长幅度最大。在此期间，印度铜需求将增长近30万吨至97.1万吨，复合年均增长率（CAGR）达7.4%；越南铜需求将增长近20万吨至51.7万吨，CAGR达9.5%；泰国铜需求将增长近10万吨至44.9万吨，CAGR达4.7%。（上海金属网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussys7848548.d.html</link>
-            <guid>3368461</guid>
-            <pubDate>Wed, 15 Nov 2023 07:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【CRU：预计2025-2026年亚洲地区精炼铜缺口将略有缩减】11月15日，在由CESCO、CNIA共同主办的第十二届亚洲铜业周上，CRU分析师表示，预计2025-2026年亚洲地区精炼铜缺口将从2023年的约100万吨缩减至约60万吨，之后在2028年恢复到约100万吨。此外，预计2023-2028年，印尼将更依赖精炼铜出口市场，在此期间精炼铜净出口54.6万吨。（上海金属网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5339987.d.html</link>
-            <guid>3368460</guid>
-            <pubDate>Wed, 15 Nov 2023 07:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第7届老挝政府与中资企业对话会在老举行】第7届老挝政府与中资企业对话会14日在老挝首都万象举行。来自老挝政府各部委负责人以及在老中资企业代表共百余人就中企在老投资经营中面临的问题进行问答。中国驻老挝大使馆临时代办王畅与老挝计划投资部长坎坚共同主持召开对话会。王畅在致辞中强调，期待各方能够就贯彻落实最高层共识、推动高质量共建“一带一路”集思广益、畅所欲言，为切实解决中资企业面临的问题建言献策，促进中老经贸合作健康稳定发展，为中老命运共同体建设增加新内涵、注入新动力。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5339802.d.html</link>
-            <guid>3368459</guid>
-            <pubDate>Wed, 15 Nov 2023 07:10:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【众泰汽车：暂未收到与小米合作的相关消息】众泰汽车在互动平台表示，公司暂未收到与小米合作的相关消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2525082.d.html</link>
-            <guid>3368458</guid>
-            <pubDate>Wed, 15 Nov 2023 07:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美利信：目前没有参与S6智界的应用】美利信11月15日在互动平台表示，公司目前没有参与S6智界的应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8561261.d.html</link>
-            <guid>3368457</guid>
-            <pubDate>Wed, 15 Nov 2023 07:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通胀数据公布后，欧元对英镑走高，日内涨0.12%，报87.16。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8560949.d.html</link>
-            <guid>3368456</guid>
-            <pubDate>Wed, 15 Nov 2023 07:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北向资金全天净买入36.26亿元，终结连续6日净卖出态势】北向资金全天净买入36.26亿元，终结连续6日净卖出态势；其中沪股通净买入23.15亿元，深股通净买入13.11亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5337998.d.html</link>
-            <guid>3368455</guid>
-            <pubDate>Wed, 15 Nov 2023 07:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《求是》杂志发表习近平总书记重要文章《推进生态文明建设需要处理好几个重大关系》】11月16日出版的第22期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《推进生态文明建设需要处理好几个重大关系》。文章指出，正确处理“双碳”承诺和自主行动的关系。推进碳达峰碳中和是党中央经过深思熟虑作出的重大战略决策，是我们对国际社会的庄严承诺，也是推动经济结构转型升级、形成绿色低碳产业竞争优势，实现高质量发展的内在要求。我们承诺的“双碳”目标是确定不移的，但达到这一目标的路径和方式、节奏和力度则应该而且必须由我们自己作主，决不受他人左右。要加快规划建设新型能源体系，确保能源安全。优化调整产业结构，使发展建立在高效利用资源、严格保护生态环境、有效控制温室气体排放的基础上。对于传统行业，要推动工艺、技术、装备升级，实现绿色低碳转型。要以更加积极的姿态参与全球气候治理，形成更加主动有利的新局面。  （新华社）]]></title>
-            <guid>3368454</guid>
-            <pubDate>Wed, 15 Nov 2023 07:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安彩高科：榆济线连接线目前已贯通，豫北支线实现双向输气】安彩高科11月15日在互动平台表示，公司榆济线连接线目前已贯通，豫北支线实现双向输气，输气能力提升至18亿m³/年，可完全满足公司玻璃业务需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5337436.d.html</link>
-            <guid>3368453</guid>
-            <pubDate>Wed, 15 Nov 2023 07:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【收评：沪指放量涨0.55% 新能源赛道股集体活跃】大盘全天维持红盘震荡走势，三大指数均小幅上涨。板块方面，光伏等新能源赛道股展开反弹，金刚光伏、福能东方、元道通信20cm涨停，拓日新能、金圆股份、迪生力、金龙羽等集体封板。汽车产业链继续活跃，江铃汽车、威唐工业、隆基机械、迪生力、银宝山新等涨停。鸿蒙概念股持续活跃，延华智能、传智教育、恒为科技涨停。钢铁板块午后走强，杭钢股份、甬金股份涨停；下跌方面，游戏股陷入调整，中文在线大跌近10%。总体来看，个股涨多跌少，两市上涨个股超3300只，成交有所放量，今日全天成交额9900亿元。截止收盘，沪指报3072.83点，涨0.55%，成交额为3895亿元；深成指报10077.96点，涨0.72%，成交额为6005亿元；创指报2015.36点，涨0.53%，成交额为2810亿元。盘面上，盐湖提锂、汽车零部件、钢铁板块涨幅居前，光刻机、短剧概念、房地产板块跌幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2523063.d.html</link>
-            <guid>3368452</guid>
-            <pubDate>Wed, 15 Nov 2023 07:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中证转债指数收涨0.31%，N泰坦转涨超57%，威唐转债涨近11%，大叶转债涨超7%；豪美转债跌超16%，雅创转债跌超8%。]]></title>
-            <guid>3368451</guid>
-            <pubDate>Wed, 15 Nov 2023 07:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：全国农产品批发市场猪肉平均价格与昨天持平】据农业农村部监测，11月15日"农产品批发价格200指数"为116.56，比昨天上升0.44个点，“菜篮子”产品批发价格指数为116.10，比昨天上升0.51个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为20.27元/公斤，与昨天持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5336935.d.html</link>
-            <guid>3368450</guid>
-            <pubDate>Wed, 15 Nov 2023 07:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内期货主力合约大面积收涨】国内期货主力合约大面积收涨，沪银、苯乙烯（EB）、棕榈油涨超3%，鸡蛋、豆油、沥青涨超2%，乙二醇（EG）、螺纹涨近2%。跌幅方方面，集运指数（欧线）跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5336492.d.html</link>
-            <guid>3368449</guid>
-            <pubDate>Wed, 15 Nov 2023 07:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典货币市场参与者预计11月份CPI通胀率为3.4%，较10月份的3.5%有所下降。]]></title>
-            <guid>3368448</guid>
-            <pubDate>Wed, 15 Nov 2023 07:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预告：国家发展改革委将于11月16日10:00召开11月份新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8558982.d.html</link>
-            <guid>3368446</guid>
-            <pubDate>Wed, 15 Nov 2023 07:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科创50指数收报902.18点，跌0.24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5336119.d.html</link>
-            <guid>3368445</guid>
-            <pubDate>Wed, 15 Nov 2023 07:01:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD短线下挫20点，现报1.2477。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5336095.d.html</link>
-            <guid>3368444</guid>
-            <pubDate>Wed, 15 Nov 2023 07:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10月核心CPI同比5.7%，预期5.8%，前值6.1%；英国10月调和CPI同比4.7%，预期4.7%，前值6.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5336023.d.html</link>
-            <guid>3368443</guid>
-            <pubDate>Wed, 15 Nov 2023 07:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10月CPI同比4.6%，预期4.7%，前值6.7%；环比0%，预期0.1%，前值0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5335643.d.html</link>
-            <guid>3368442</guid>
-            <pubDate>Wed, 15 Nov 2023 07:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10月零售物价指数月率-0.3%，预期0.10%，前值0.50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2521594.d.html</link>
-            <guid>3368441</guid>
-            <pubDate>Wed, 15 Nov 2023 07:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国10月批发价格指数环比-0.7%，前值 0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2521563.d.html</link>
-            <guid>3368440</guid>
-            <pubDate>Wed, 15 Nov 2023 07:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天风证券：多方共振，汽车智能化进入高速增长期】天风证券11月15日研报指出，政策+技术+商业三方共振，汽车智能化进入高速增长期：政策端：国外部分国家L3级政策已出台，国内政策有望取得实质性落地；技术端：BEV+Transformer+占用网络实现算法突破，4D毫米波雷达利于硬件将本，有望促进智驾普及；商业端：主机厂NOA场景不断泛化，消费者已将智驾功能作为选购重要决策项。智能驾驶奇点时刻来临，建议持续关注智能化对行业带来的边际变化。短期华为智选产业链＞智能化优势整车/智能驾驶核心零部件（域控制器、线控底盘、4D毫米波雷达），长期关注产业竞争格局与产业分工变化。]]></title>
-            <guid>3368438</guid>
-            <pubDate>Wed, 15 Nov 2023 06:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抖音生活服务换帅 商业化负责人浦燕子兼任】抖音集团商业化负责人浦燕子将兼任生活服务业务负责人，原生活服务业务负责人朱时雨将调任负责一级部门“增长与商业解决方案”。去年10月底，朱时雨由抖音战略负责人调任抖音生活服务业务负责人。在今年4月召开的首届抖音生活服务生态伙伴大会上，朱时雨表示，生活服务是一个十几万亿的广袤市场，抖音要同时帮助服务商、机构、商家等伙伴创造更多的生意新增量。接任朱时雨的浦燕子2013年加入抖音集团，是抖音的早期员工之一，长期从事商业化和销售相关的工作，在处理商家关系方面拥有丰富的经验。内部人士称浦燕子非常务实，善于解决复杂的问题。她长期和商家打交道的经验，可能正是目前面临激烈竞争的抖音生活服务所需要的。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2521175.d.html</link>
-            <guid>3368437</guid>
-            <pubDate>Wed, 15 Nov 2023 06:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰凌微尾盘涨超8%，股价创近2个月新高】11月15日下午，泰凌微尾盘涨幅扩大至超8%，现报35.49元创近2个月新高，自10月底以来累计升幅达25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8557178.d.html</link>
-            <guid>3368436</guid>
-            <pubDate>Wed, 15 Nov 2023 06:56:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海关总署：实施放宽加工贸易深加工结转申报时限等措施】为进一步发挥加工贸易在稳经济、稳外贸、稳就业方面的作用，海关总署研究决定出台推动加工贸易持续高质量发展相关措施。放宽深加工结转集中申报时限，采用集中申报方式办理深加工结转业务的，企业应于每月底前对上月深加工结转核注清单及报关单进行集中申报。实施手册管理的企业集中申报不得超过手册有效期；实施账册管理的企业需跨核销周期（年度申报周期）申报的，可在下一个核销周期（年度申报周期）完成集中申报手续。优化加工贸易成品出口退换管理，对实施加工贸易账册管理的企业，因出口成品品质、规格或其他原因需办理成品退换手续，无法在同一核销周期（年度申报周期）内完成的，经企业书面申请海关同意后，企业可在同一账册项下跨核销周期（年度申报周期）办理相关手续。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8557099.d.html</link>
-            <guid>3368435</guid>
-            <pubDate>Wed, 15 Nov 2023 06:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安彩高科：公司中性硼硅玻管一期项目已生产出良品，项目进入工艺调整优化阶段】安彩高科11月15日在互动平台表示，公司中性硼硅玻管一期项目已成功生产出良品，项目进入工艺调整优化阶段，良率处于持续爬坡阶段，预计年底可达60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8556664.d.html</link>
-            <guid>3368434</guid>
-            <pubDate>Wed, 15 Nov 2023 06:55:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通用汽车旗下Cruise将聘请外部专家进行全面安全审查】当地时间11月14日，通用汽车旗下自动驾驶公司Cruise在其官网更新公告称，通用汽车法律与政策执行副总裁克雷格·格利登（Craig Glidden）将兼任Cruise首席行政官一职。此外，该公司将在未来几周聘请第三方安全专家，全面评估其安全运营和文化。该公司已于10月26日宣布暂停所有无人驾驶业务。接下来数天内，该公司还将暂停在美国的有监督的和人工操作的自动驾驶汽车业务，约有70辆汽车受到影响。Cruise表示，其致力于重建信任，并以最高的安全标准运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5333643.d.html</link>
-            <guid>3368433</guid>
-            <pubDate>Wed, 15 Nov 2023 06:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【方正证券回应同业竞争问题：正与各方一起按监管指引开展工作】11月15日，方正证券召开2023年三季度业绩说明会，针对投资者提及的中国平安成为公司实控人后，解决平安证券和方正证券等同行业竞争问题方案，方正证券董事长施华表示，方正证券正与各方一起，严格依照金融监管部门的规定、指引，开展相关工作。后续有新的进展，会及时披露。（券中社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussys7842845.d.html</link>
-            <guid>3368432</guid>
-            <pubDate>Wed, 15 Nov 2023 06:54:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华夏幸福新增6则被执行人信息 执行标的合计3202万余元】天眼查App显示，近日，华夏幸福新增6则被执行人信息，执行标的合计3202万余元，被执行人还包括华夏幸福产业新城投资有限公司、华夏幸福（涞源）扶贫发展有限公司等，执行法院为涞源县人民法院、廊坊市中级人民法院。华夏幸福基业股份有限公司成立于1993年5月，于2003年12月在A股上市，法定代表人为王文学，注册资本约39.14亿人民币，主营业务为产业新城及相关业务和商业地产及相关业务。风险信息显示，该公司存在多个被执行人信息，累计被执行4875万余元，此外，该公司持有的多家公司股权已被冻结。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5333583.d.html</link>
-            <guid>3368431</guid>
-            <pubDate>Wed, 15 Nov 2023 06:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【统一股份录得5天3板】统一股份再度涨停，5个交易日内录得3个涨停，累计涨幅为27.49%，累计换手率为82.78%。截至14:13，该股今日成交量2646.81万股，成交金额3.26亿元，换手率17.92%。最新A股总市值达25.56亿元，A股流通市值19.66亿元。龙虎榜数据显示，该股近5日内因连续三个交易日内，涨幅偏离值累计达20%、日换手率达20%、日振幅值达15%等2次上榜龙虎榜，买卖居前营业部中，机构净卖出1571.44万元，营业部席位合计净买入4605.03万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2519785.d.html</link>
-            <guid>3368430</guid>
-            <pubDate>Wed, 15 Nov 2023 06:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米汽车实现小批量试生产，或明年2月上市】日前，记者来到位于北京经开区的小米汽车工厂，看到生产厂房已初见规模，办公大楼带有小米LOGO，大货车和黄色工程车不时穿梭其间。 在小米汽车工厂门口等待拜访对接人的零部件供应商张海（化名）向记者透露，小米汽车一期工厂内四大制造工艺车间均已建好，已开始小批量试生产。一位不愿透露姓名的知情人士在接受记者采访时表示，小米汽车在下个月（12月）就要开始批量生产，明年开年（2月）上市开卖。 （每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5332811.d.html</link>
-            <guid>3368429</guid>
-            <pubDate>Wed, 15 Nov 2023 06:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市人大代表建议给适龄女性免费接种HPV疫苗 市卫健委回应】接种HPV疫苗是预防宫颈癌的有效手段，为此，上海市人大代表呼吁，对适龄女性免费接种HPV疫苗。日前，记者从相关部门对市人大代表的答复中获悉，地方法规已从法律源头保障适龄女性接种HPV疫苗，本市将尽快落实条例，出台相关配套措施。 (上海法治报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussys7842053.d.html</link>
-            <guid>3368428</guid>
-            <pubDate>Wed, 15 Nov 2023 06:52:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【14部门：加大健康环境建设力度，进一步增加公共体育设施场所数量和覆盖范围】国家卫生健康委、国家发展改革委等14部门今天发布了《健康中国行动—心脑血管疾病防治行动实施方案（2023—2030年）》，在危险因素控制方面，《实施方案》要求各地将居民心脑血管健康促进融入各有关政策中。加大健康环境建设力度，进一步增加公共体育设施场所数量和覆盖范围，推进公共体育设施向公众低收费或免费开放；鼓励食盐企业生产和销售低钠盐；单位食堂、餐饮机构、养老机构等推广合理膳食；鼓励开展多种形式的全民健身赛事活动；企事业单位完善职工年度健康体检和健康档案；落实65岁以上人群健康管理服务，积极推动健康老龄化；加强中小学生健康教育，保障在校运动时间，把学生体质健康状况纳入学校考核评价体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8555317.d.html</link>
-            <guid>3368427</guid>
-            <pubDate>Wed, 15 Nov 2023 06:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【14部门发布《实施方案》：2030年建立全国心脑血管疾病综合防控和早诊早治体系】国家卫生健康委、国家发展改革委等14部门今天发布了《健康中国行动—心脑血管疾病防治行动实施方案（2023—2030年）》，《实施方案》提出的目标是到2030年建立覆盖全国的心脑血管疾病综合防控和早诊早治体系；各级医疗卫生机构的心脑血管疾病防治能力和质量进一步改善，人民群众心脑血管相关健康素养显著提升，心脑血管疾病防治技术取得较大突破；心脑血管疾病发病率及危险因素水平上升趋势得到有效控制，心脑血管疾病死亡率下降到190.7/10万以下。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5332238.d.html</link>
-            <guid>3368426</guid>
-            <pubDate>Wed, 15 Nov 2023 06:50:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒生指数、恒生科技指数双双涨超4%】汽车及科网股造好，小鹏汽车、蔚来均涨超6%，小米集团、京东、均涨超5%，阿里巴巴、百度均涨超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8553956.d.html</link>
-            <guid>3368425</guid>
-            <pubDate>Wed, 15 Nov 2023 06:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：减少快递、外卖、电商等行业过度包装】在11月15日举行的上海市政府新闻发布会上，上海市政府领导介绍了《上海市持续优化生活垃圾全程分类体系工作方案》有关情况。上海市政府副秘书长王为人表示，近年来上海基本建成了生活垃圾全程分类体系，但是在分类实效、源头减量、资源化利用等方面依然存在一些薄弱环节。为积极打造生活垃圾分类升级版，《工作方案》中进一步明确了目标任务和相关举措。深入推进源头减量，推进绿色餐饮，倡导“光盘行动”，减少快递、外卖、电商等行业过度包装，推动形成简约适度、绿色低碳的社会共识。实现深度资源化利用，开展炉渣利用项目建设，以及湿垃圾沼渣高值低碳利用技术示范，全面提升资源化利用水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5331125.d.html</link>
-            <guid>3368424</guid>
-            <pubDate>Wed, 15 Nov 2023 06:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪腾势汽车在常德成立销售服务公司】天眼查App显示，11月13日，常德势腾汽车销售服务有限公司成立，法定代表人为黄伟，注册资本100万人民币，经营范围含汽车销售、新能源汽车整车销售、充电桩销售、洗车服务、二手车经纪、机动车鉴定评估、互联网销售等。股权全景穿透图显示，该公司由腾势汽车销售服务有限公司全资持股，后者为比亚迪汽车工业有限公司全资子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyr2517742.d.html</link>
-            <guid>3368423</guid>
-            <pubDate>Wed, 15 Nov 2023 06:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港：印花税修订条例将于十一月十七日起生效】香港特区政府发言人表示，下调印花税税率将减低投资者的交易成本、提振市场情绪，并提升香港股票市场的竞争力。政府将联同金融监管机构和香港交易及结算所有限公司，跟进促进股票市场流动性专责小组建议的其他措施，以推动市场的可持续发展。修订条例将于明日（十一月十六日）刊宪，并于十一月十七日起生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyq5330946.d.html</link>
-            <guid>3368422</guid>
-            <pubDate>Wed, 15 Nov 2023 06:47:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南向资金净流出超50亿元】按余额规模口径统计，截至目前南向资金净流出超50亿元，其中港股通（沪）流出超22亿元，港股通（深）流出超28亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-15/detail-imzussyn8553525.d.html</link>
-            <guid>3368421</guid>
-            <pubDate>Wed, 15 Nov 2023 06:46:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

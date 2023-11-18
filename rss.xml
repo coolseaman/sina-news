@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 18 Nov 2023 19:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 20:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以色列总理内塔尼亚胡：目前还未就释放被扣押人员达成任何协议】以色列总理内塔尼亚胡11月18日晚表示，目前还没有就释放被扣押人员一事达成任何协议。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-19/detail-imzvarxc1971289.d.html</link>
+            <guid>3373132</guid>
+            <pubDate>Sat, 18 Nov 2023 20:02:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国抗癌协会：肿瘤诊治需要整合医学思维】2023中国整合肿瘤学大会18日在天津开幕。中国工程院院士、中国抗癌协会理事长樊代明在会上表示，肿瘤是非常复杂的疾病，每个阶段的特征和治疗方式不同，无论是诊断还是治疗，都需要有整合医学思维。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-19/detail-imzvarxf5783997.d.html</link>
+            <guid>3373131</guid>
+            <pubDate>Sat, 18 Nov 2023 19:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【知名私募“组团”披露截至三季度末的美股持仓】近日，美国证券交易委员会（SEC）网站显示，高毅资产、HHLR（高瓴旗下独立二级市场基金管理人）、景林资产和千合资本旗下对冲基金TOP ACE，陆续披露了截至三季度末的美股持仓。据私募排排网统计，科技股和消费股是知名私募在美股市场的重仓对象，部分科技龙头股和可选消费标的获得明显增持。在多位业内人士看来，又一次科技革命正在进行中，人工智能的基础设施建设和应用领域均存在较多成长性机会。与此同时，伴随着经济逐步复苏，消费行业的结构性机会逐步显现。（上证报）]]></title>
+            <guid>3373130</guid>
+            <pubDate>Sat, 18 Nov 2023 19:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰货币政策委员会一位成员表示明年波兰的通胀率可能接近央行的通胀目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-19/detail-imzvarxc1966106.d.html</link>
+            <guid>3373128</guid>
+            <pubDate>Sat, 18 Nov 2023 19:27:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“星舰”第二次发射二级失联 美国载人登月计划受影响】“星舰”火箭第二次发射出现了一级分离后发生爆炸和二级失联的情况，美载人登月计划大概率无法按计划的时间将人送到月球。“星舰”第二次发射原计划11月17日进行，但由于火箭的一个格栅舵出现问题，需要对驱动器进行更换，发射时间推迟到18日。作为目前人类最大的火箭，“星舰”的第二次发射依然吸引了全世界的目光。虽然没有完全达到预期目标，但飞行时间更长，一二级分离成功，相比首飞，有更多的技术进步和成绩。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-19/detail-imzvarwy3995091.d.html</link>
+            <guid>3373127</guid>
+            <pubDate>Sat, 18 Nov 2023 19:12:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中国电商海外新变局：两跨境平台美国用户数逼近亚马逊】中国电商平台海外市场鏖战迎来最新进展。近期有调研显示，拼多多旗下跨境电商平台Temu和SHEIN（希音）等源自中国的电子商务平台的用户在美国极速增加，用户数量正逐步逼近全球最大电商平台亚马逊。跨境电商作为一种“新业态”正逐步走向“新常态”。多位电商人士向记者表示，伴随着更多卖家涌入、更多品类引入，当下的跨境电商平台在海外的竞争，实际上在于产业供应链的竞争，供应链管理成为跨境电商下一角力方向。（证券时报）]]></title>
             <guid>3373126</guid>
@@ -562,36 +591,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-18/detail-imzuzutm5621579.d.html</link>
             <guid>3373026</guid>
             <pubDate>Sat, 18 Nov 2023 10:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国资委：加快构建以新能源为主体的新型电力系统】国务院国资委11月16日召开中央企业今冬明春保暖保供工作专题会。会议要求，要完善长效机制，因地制宜推动调峰电源建设，加大技术创新投入，加快构建以新能源为主体的新型电力系统。要强化风险排查，把安全生产工作摆在突出重要位置，以安全生产良好局面服务保供稳定大局。17家中央能源保供企业有关负责同志参加会议，中国石油、国家电网、中国华电、国家能源集团等4家企业现场汇报了保供工作情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-18/detail-imzuzuth9118761.d.html</link>
-            <guid>3373025</guid>
-            <pubDate>Sat, 18 Nov 2023 10:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南：要加强数字领域国际合作 培育数字经济新业态】海南省省委常委会近日召开会议，研究部署海南省数字经济发展和基层治理等工作。会议指出要加强数字领域国际合作，抢占数字经济"新赛道"，培育数字经济新业态。要用好各方面资源和力量，更有效宣传海南自由贸易港政策，更生动讲好海南高质量发展故事，吸引企业来琼投资兴业。要加快"智慧海南"建设，筑牢网络安全屏障。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-18/detail-imzuzutm5621238.d.html</link>
-            <guid>3373024</guid>
-            <pubDate>Sat, 18 Nov 2023 10:41:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【停发失业保险金？深圳社保局回应：信息系统故障 目前系统已恢复正常】今日上午，有网友反映收到深圳社保局短信，称“因失业保险金停发，已暂停为您参加医疗保险，为避免您的医疗权利受影响，请及时重新参保”。当日，深圳市社会保险基金管理局对此事作出情况说明。深圳社保局表示，因信息系统故障，今日上午误向深圳市部分领取失业保险金人员发送失业保险金停发短信。经紧急修复，目前系统已恢复正常，上述人员正常失业保险待遇不受任何影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-18/detail-imzuzutm5620373.d.html</link>
-            <guid>3373023</guid>
-            <pubDate>Sat, 18 Nov 2023 10:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影《我本是高山》映前6天，点映及预售总票房破1000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-18/detail-imzuzutk4439560.d.html</link>
-            <guid>3373022</guid>
-            <pubDate>Sat, 18 Nov 2023 10:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意工业家联合会：意大利经济增长陷入停滞】当地时间18日，意大利工业家联合会发布月度经济形势报告，指出该国经济增长目前已陷入停滞。报告指出，意大利国内生产总值在第三季度没有增长，而第四季度工业、服务业均略有收缩，商业信心持续下滑。报告还提到，意大利通货膨胀率有所下降，但银行利率高企，不利于企业信贷，而国内需求疲软又使得投资不振。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-18/detail-imzuzutm5618982.d.html</link>
-            <guid>3373021</guid>
-            <pubDate>Sat, 18 Nov 2023 10:28:06 GMT</pubDate>
         </item>
     </channel>
 </rss>

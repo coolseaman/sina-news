@@ -4,13 +4,246 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 21 Nov 2023 18:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 19:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【巴西下调2023年经济增长预期至3%】当地时间11月21日，巴西财政部发布数据，将该国2023年经济增长预期从3.2%下调至3%。（央视新闻）]]></title>
+            <title><![CDATA[【以色列袭击加沙地带一处房屋 已致10人死亡】半岛电视台当地时间11月21日报道称，当晚以色列对加沙地带南部汗尤尼斯以西的一处房屋发动袭击，目前已造成10人死亡，其中包括儿童。以色列方面对此暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9134519.d.html</link>
+            <guid>3376572</guid>
+            <pubDate>Tue, 21 Nov 2023 19:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股、美债、美元、黄金走势维持原状，会议纪要表明美联储在“谨慎推进进一步加息”方面团结一致】美国10年期国债收益率涨幅略微收窄，至不足0.6个基点，在美联储会议纪要发布后退守4.43%下方。两年期美债收益率维持大约1.7个基点的跌幅，交投于4.89%上方。标普500指数目前跌0.18%，道指跌65点或0.19%，纳指跌0.64%。费城银行指数目前跌0.97%。现货黄金徘徊于2000美元整数位心理关口下方，目前仍然涨超1.0%。ICE美元指数目前涨0.2%，报103.64点，徘徊于美联储会议纪要发布前涨至的日高103.661点附近。]]></title>
+            <guid>3376571</guid>
+            <pubDate>Tue, 21 Nov 2023 19:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：多数美联储官员认为经济增长面临下行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5911325.d.html</link>
+            <guid>3376570</guid>
+            <pubDate>Tue, 21 Nov 2023 19:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要公布后，联邦基金利率期货几无波动，对利率路径重新定价的影响较小。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6041745.d.html</link>
+            <guid>3376569</guid>
+            <pubDate>Tue, 21 Nov 2023 19:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：与会者强调需要看到更多表明通胀压力正在减弱的数据，才能对物价重返2%更有信心。]]></title>
+            <guid>3376568</guid>
+            <pubDate>Tue, 21 Nov 2023 19:05:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：与会者认为劳动力市场状况紧张，但自年初以来已有所放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0826759.d.html</link>
+            <guid>3376567</guid>
+            <pubDate>Tue, 21 Nov 2023 19:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：许多与会者认为，长期国债收益率上升的情况是由期限溢价上升所驱动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9264245.d.html</link>
+            <guid>3376566</guid>
+            <pubDate>Tue, 21 Nov 2023 19:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率涨幅略微收窄，至不足0.6个基点，在美联储会议纪要发布后退守4.43%下方。]]></title>
+            <guid>3376565</guid>
+            <pubDate>Tue, 21 Nov 2023 19:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：多数美联储官员认为通胀面临上行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7917286.d.html</link>
+            <guid>3376564</guid>
+            <pubDate>Tue, 21 Nov 2023 19:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.26%，报17702点，低水32点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9264098.d.html</link>
+            <guid>3376563</guid>
+            <pubDate>Tue, 21 Nov 2023 19:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：工作人员的经济预测与九月份的预测相似。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9264073.d.html</link>
+            <guid>3376562</guid>
+            <pubDate>Tue, 21 Nov 2023 19:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：与会者指出，在除房屋通胀之外的核心服务领域，通胀回落的进展有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9264062.d.html</link>
+            <guid>3376561</guid>
+            <pubDate>Tue, 21 Nov 2023 19:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：与会者指出，通货膨胀在过去一年有所缓解，但仍然保持在不可接受的高位，并远高于2%的目标水平。]]></title>
+            <guid>3376560</guid>
+            <pubDate>Tue, 21 Nov 2023 19:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：与会者认为保持紧缩立场将支持进一步实现通胀目标，同时能有充分时间收集更多信息。]]></title>
+            <guid>3376559</guid>
+            <pubDate>Tue, 21 Nov 2023 19:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：所有与会者一致认为利率决策委员会有能力“谨慎”进行决策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6040988.d.html</link>
+            <guid>3376558</guid>
+            <pubDate>Tue, 21 Nov 2023 19:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要公布，现货金银短线波动暂不大，美债收益率走势持稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9263756.d.html</link>
+            <guid>3376557</guid>
+            <pubDate>Tue, 21 Nov 2023 19:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：经济状况的持续变化将影响政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0826352.d.html</link>
+            <guid>3376556</guid>
+            <pubDate>Tue, 21 Nov 2023 19:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：所有FOMC成员都认为，利率仍将在一段时间内保持限制性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9263600.d.html</link>
+            <guid>3376555</guid>
+            <pubDate>Tue, 21 Nov 2023 19:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地出台小贷公司管理办法 进一步健全监管规则】各地正陆续出台小额贷款公司管理细则，以进一步健全监管规则。近日，北京市地方金融监督管理局印发《北京市小额贷款公司监督管理办法》，对小额贷款公司在营业区域、资金融入、业务集中度、放贷专户等方面作出了新的规定。办法提出，在北京市设立小贷公司注册资本不低于人民币1亿元，且为一次性实缴货币资本。相较原试点办法，注册资本门槛提高了5000万元。对此，广东省小贷公司协会秘书长徐北昨日向上海证券报记者表示，1亿元的准入门槛其实并不高，目前很多省市小贷公司设立注册资本都要求超过1亿元。例如，广东省设立小贷公司要求注册资本为2亿元，四川省则要求3亿元。记者梳理公开信息获悉，截至目前，除北京外，已有福建、湖南、湖北、广西、上海等地出台了相关实施细则、指引或者征求意见稿。这些实施细则或者指引均提高了小贷公司注册资本，并引导小贷行业合规有序发展。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7916894.d.html</link>
+            <guid>3376554</guid>
+            <pubDate>Tue, 21 Nov 2023 19:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：所有FOMC成员都同意在利率问题上“谨慎行事”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6040664.d.html</link>
+            <guid>3376553</guid>
+            <pubDate>Tue, 21 Nov 2023 19:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要显示，如果通胀回落的进展不足，美联储将进一步收紧货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9263480.d.html</link>
+            <guid>3376552</guid>
+            <pubDate>Tue, 21 Nov 2023 19:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要发布前，ICE美元指数涨0.13%，报103.62点；欧元兑美元跌0.29%，英镑兑美元涨0.18%，美元兑加元跌0.23%，美元兑日元跌0.04%，离岸人民币兑美元涨0.24%。现货黄金涨1.04%，暂报1998.38美元/盎司；白银涨1.58%，WTI原油期货跌0.14%，报77.72美元/桶，布油跌0.02%。美国10年期国债收益率涨1.1个基点脱离日高4.4393%；两年期美债收率跌幅收窄至2.15个基点，暂报4.8894%。标普500指数跌0.16%，道指跌55点或0.16%，纳指跌0.62%。芯片指数跌2.14%，银行指数跌0.96%。特斯拉涨2.12%，苹果跌0.51%。]]></title>
+            <guid>3376551</guid>
+            <pubDate>Tue, 21 Nov 2023 18:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【次新基金建仓步伐加快，增量资金进场信号明显】近期，增量资金进场信号明显，多位基金经理积极捡拾优质筹码。记者梳理发现，多只主动权益类次新基金净值出现较为明显的波动，这意味着，基金经理或已加仓。与此同时，11月权益类基金发行提速，超50只权益类基金正在发行或是等待发行。展望后市，多位基金经理表示，当前权益资产性价比较高，诸多投资机会涌现。公募基金也在加大逆周期布局力度，当前约有超40只权益类基金正在发行，同时，超15只权益类基金已敲定发行日期，即将发行。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6039961.d.html</link>
+            <guid>3376550</guid>
+            <pubDate>Tue, 21 Nov 2023 18:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及外国新闻办公室称（巴以）人质谈判取得进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9262594.d.html</link>
+            <guid>3376549</guid>
+            <pubDate>Tue, 21 Nov 2023 18:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【锂电产能利用率明年有望回弹 行业集中度提升乃大势所趋】市场的周期波动，延缓了新增项目的落地进度。虽然今年以来2023年动力及储能电池行业依然有超2000亿元规模的新增投资规划出炉，但是据记者在2023高工锂电年会上沟通获悉，不少锂电设备产业企业均感受到前期招标的项目落地放缓，有企业直言，“在今年的一些阶段，我们发现甚至没有投标机会可以争取。”“招投标放缓究竟是好是坏，其实见仁见智。”张小飞在会上分享的2020年至2027年锂电产能利用率图表显示，当下处于锂电产能利用率接近谷底的阶段，“因为季节性因素，产能利用率的下行还将持续一段时间，但是在明年下半年开始预期会有比较好的提升。”无独有偶，上周中信建投证券分析师朱玥也发布研报表示，锂电将在春季复苏。朱玥预计，2024年第一季度锂电行业将进入供给最过剩阶段，行业有望迎来拐点。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7916231.d.html</link>
+            <guid>3376548</guid>
+            <pubDate>Tue, 21 Nov 2023 18:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约联储经济学家：政策不进一步收紧的情况下 美国经济和通胀仍将放缓】纽约联储自由街经济研究所（Liberty Street Economics）今天发布的一篇论文中，经济学家表示，美国经济“在迅速收紧政策的情况下，比预期的要强劲得多”。他们分析了几组数据，得出结论：尽管通胀仍高于目标，但不进一步收紧政策的情况下，通胀仍有可能下降。“尽管2023-2024年的积极需求抵消了货币紧缩的滞后效应，但该模型仍预计2024-2025年经济将放缓。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6039706.d.html</link>
+            <guid>3376547</guid>
+            <pubDate>Tue, 21 Nov 2023 18:55:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列对加沙南部汗尤尼斯居民公寓发动袭击，造成10人死亡，22人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6039427.d.html</link>
+            <guid>3376546</guid>
+            <pubDate>Tue, 21 Nov 2023 18:53:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“近三年”业绩长考首次评卷，49家保险公司平均投资收益率超5%】近期，保险公司在2023年三季度偿付能力报告中接连披露了近三年平均投资收益率。在披露了三季度偿付能力报告的160家保险公司中，有157家披露了近三年平均投资收益率，包括76家人身险公司、81家财险公司。其中，76家人身险公司近三年平均投资收益率为4.73%，近三年平均综合投资收益率为4.37%；81家财险公司近三年平均投资收益率为4.1%，近三年平均综合投资收益率为2.57%。近三年平均投资收益率超过5%的保险公司达到49家，包括32家人身险公司、17家财险公司。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0824728.d.html</link>
+            <guid>3376545</guid>
+            <pubDate>Tue, 21 Nov 2023 18:49:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯：以军袭击加沙地带致死人数超1.4万】巴勒斯坦伊斯兰抵抗运动（哈马斯）媒体办公室21日发表声明说，新一轮巴以冲突爆发以来，以色列军队对加沙地带的袭击已造成超过1.4万人死亡、3.3万余人受伤。声明说，死者中有5840多名儿童和3920多名妇女，另有超过6800人失踪。加沙地带至少60%的居民建筑在以军袭击中受损。巴勒斯坦加沙地带卫生部门21日发表声明说，以军当天袭击加沙地带中部的努赛赖特难民营，造成至少20人死亡、数十人受伤。以色列国防军同日发表声明说，以军过去24小时对加沙地带至少250处目标发动袭击。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6038051.d.html</link>
+            <guid>3376544</guid>
+            <pubDate>Tue, 21 Nov 2023 18:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委森特诺：很可能我们已经到达了峰值利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6035874.d.html</link>
+            <guid>3376543</guid>
+            <pubDate>Tue, 21 Nov 2023 18:36:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行Centeno：通胀回落速度快于我的预料。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6035851.d.html</link>
+            <guid>3376542</guid>
+            <pubDate>Tue, 21 Nov 2023 18:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委森特诺：通胀的下降速度快于其上升速度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7913784.d.html</link>
+            <guid>3376541</guid>
+            <pubDate>Tue, 21 Nov 2023 18:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[币安CEO赵长鹏同意认罪并支付5000万美元罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6035282.d.html</link>
+            <guid>3376540</guid>
+            <pubDate>Tue, 21 Nov 2023 18:34:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘主力合约收盘】截至2:30收盘，沪金主力合约收涨0.65%，报469元/克，沪银主力合约收涨0.98%，报5902元/千克，SC原油主力合约收跌0.34%，报590元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9257499.d.html</link>
+            <guid>3376539</guid>
+            <pubDate>Tue, 21 Nov 2023 18:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 11月21日（周二）晚盘收盘上涨0.58%报468.06元/克；上海黄金交易所白银T+D 11月21日（周二）晚盘收盘上涨0.79%报5879.0元/千克。]]></title>
+            <guid>3376538</guid>
+            <pubDate>Tue, 21 Nov 2023 18:31:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【币安CEO赵长鹏到达法庭 将对洗钱指控认罪】币安首席执行官赵长鹏周二抵达西雅图联邦法院，根据与美国司法部达成的全面协议，赵长鹏将对涉嫌洗钱的指控认罪。知情人士透露，作为与美国财政部、商品期货交易委员会达成的和解协议的一部分，赵长鹏同意辞职。据报道，币安同意对一项刑事指控认罪并支付43亿美元罚款。这笔交易将结束对币安长达数年的调查。美国司法部长Merrick Garland和财政部长耶伦将于美东时间周二下午3:00举行新闻发布会，宣布有关和解协议的更多细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7912947.d.html</link>
+            <guid>3376537</guid>
+            <pubDate>Tue, 21 Nov 2023 18:30:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2401合约夜盘收跌0.34%，报590.30元人民币/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6034201.d.html</link>
+            <guid>3376536</guid>
+            <pubDate>Tue, 21 Nov 2023 18:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方发言人：我们在释放人质方面取得了进展，但我建议等待直到细节最终确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0822266.d.html</link>
+            <guid>3376535</guid>
+            <pubDate>Tue, 21 Nov 2023 18:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方发言人：我们已经在周二完成了对加沙地带贾巴利亚地区的包围。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0822226.d.html</link>
+            <guid>3376534</guid>
+            <pubDate>Tue, 21 Nov 2023 18:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Richard Teng被视为币安的CEO潜在候选人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6031750.d.html</link>
+            <guid>3376533</guid>
+            <pubDate>Tue, 21 Nov 2023 18:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西下调2023年经济增长预期至3%】当地时间11月21日，巴西财政部发布数据，将该国2023年经济增长预期从3.2%下调至3%。财政部经济政策秘书处表示，由于对目前至年末的服务业表现持悲观态度，因而下调经济增长预期。此前一天，巴西央行发布的《焦点报告》反应该国金融市场对2023年经济增长预期为2.85%。巴西财政部还将该国2023年通胀率的预期由4.85%下调至4.66%，接近央行设置的通胀目标上限4.75%。财政部对2024年的通胀预期为3.55%，对2024年该国经济增长的预期则由2.3%下调至2.2%。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9254468.d.html</link>
             <guid>3376532</guid>
             <pubDate>Tue, 21 Nov 2023 18:17:38 GMT</pubDate>
@@ -356,246 +589,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9363616.d.html</link>
             <guid>3376473</guid>
             <pubDate>Tue, 21 Nov 2023 16:49:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美聘请Socar的交易部门，以主导阿美的美国石油交易业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9363557.d.html</link>
-            <guid>3376472</guid>
-            <pubDate>Tue, 21 Nov 2023 16:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：美国杠杆贷款违约率上升至3%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmauh8028377.d.html</link>
-            <guid>3376471</guid>
-            <pubDate>Tue, 21 Nov 2023 16:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX30指数11月21日（周二）收盘上涨5.82点，涨幅0.04%，报15907.15点；英国富时100指数11月21日（周二）收盘下跌16.36点，跌幅0.22%，报7480.00点；法国CAC40指数11月21日（周二）收盘下跌17.48点，跌幅0.24%，报7229.45点；欧洲斯托克50指数11月21日（周二）收盘下跌10.46点，跌幅0.24%，报4331.95点；西班牙IBEX35指数11月21日（周二）收盘下跌9.54点，跌幅0.10%，报9829.46点；意大利富时MIB指数11月21日（周二）收盘下跌374.90点，跌幅1.27%，报29167.00点。]]></title>
-            <guid>3376470</guid>
-            <pubDate>Tue, 21 Nov 2023 16:43:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股收盘多数下跌】欧股收盘多数下跌，德国DAX指数涨0.04%，英国富时100指数跌0.22%，法国CAC40指数跌0.24%，欧洲斯托克50指数跌0.24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaum6138875.d.html</link>
-            <guid>3376469</guid>
-            <pubDate>Tue, 21 Nov 2023 16:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国国民维生工资将从2024年4月起从10.42英镑/小时增至11.44英镑/小时，增幅达10%。]]></title>
-            <guid>3376468</guid>
-            <pubDate>Tue, 21 Nov 2023 16:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖两年期浮息国债（FRNS），贴现利率为0.200%，投标倍数2.84（前次为3.23）。拍卖41天期现金管理票据，得标利率5.285%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaum6136861.d.html</link>
-            <guid>3376467</guid>
-            <pubDate>Tue, 21 Nov 2023 16:33:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌0.14%，报455.61点。欧元区STOXX 50指数初步收跌0.26%，报4331.08点。富时泛欧绩优300指数初步收跌0.05%，报1802.32点。欧元区蓝筹股中，Prosus、宝马、斯泰兰蒂斯Stellantis初步收跌2.0%。]]></title>
-            <guid>3376466</guid>
-            <pubDate>Tue, 21 Nov 2023 16:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌0.14%，报455.61点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9359366.d.html</link>
-            <guid>3376465</guid>
-            <pubDate>Tue, 21 Nov 2023 16:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌0.01%，报15898.75点。法国股指初步收跌0.32%，意大利股指初步收跌1.23%，英国股指初步收跌0.26%。]]></title>
-            <guid>3376464</guid>
-            <pubDate>Tue, 21 Nov 2023 16:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首次中国和乌兹别克斯坦外长战略对话在京举行】11月21日，中共中央政治局委员、外交部长王毅在京同乌兹别克斯坦外长赛义多夫举行首次中乌外长战略对话。双方就落实两国元首重要共识，加强发展战略对接进行了全面深入沟通，达成广泛共识，并共同宣布建立两国外长战略对话机制。双方表示将进一步加强在联合国、上海合作组织等多边框架内的协作，推进中国－中亚机制建设，维护地区和平发展和安全稳定。双方还就巴以冲突等交换了意见。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9359089.d.html</link>
-            <guid>3376463</guid>
-            <pubDate>Tue, 21 Nov 2023 16:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[相关备忘录显示，摩根士丹利联席总裁Andy Saperstein表示被诊断出患有癌症。]]></title>
-            <guid>3376462</guid>
-            <pubDate>Tue, 21 Nov 2023 16:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线上扬10点，现报103.49。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9358415.d.html</link>
-            <guid>3376461</guid>
-            <pubDate>Tue, 21 Nov 2023 16:26:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲基准天然气期货跌5.2%，至每兆瓦时43.42欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9358172.d.html</link>
-            <guid>3376460</guid>
-            <pubDate>Tue, 21 Nov 2023 16:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰天然气期货下跌5.2%，报43.42欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaum6135181.d.html</link>
-            <guid>3376459</guid>
-            <pubDate>Tue, 21 Nov 2023 16:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西桂江航道开工建设，建成后可通航千吨级船舶】11月21日，广西桂江航道工程项目在桂江昭平县马江段江面上正式开工建设。据介绍，湘桂运河的桂江航道段是国家高等级航道“四纵四横两网”中汉湘桂通航的重要组成部分，也是沟通长江、珠江两大水系的跨流域运河连通工程。北上可连通湘桂地区、顺流而下对接粤港澳大湾区。工程建成后，桂江平乐至梧州段航道从7级航道升级到3级航道，可通航1000吨级船舶。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaum6135170.d.html</link>
-            <guid>3376458</guid>
-            <pubDate>Tue, 21 Nov 2023 16:24:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们的评估是，强劲的工资增长主要反映了与过去通胀相关的“追赶”效应，而不是一种自我实现的动力。]]></title>
-            <guid>3376457</guid>
-            <pubDate>Tue, 21 Nov 2023 16:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：欧洲央行不应急于得出过早的结论。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaum6134594.d.html</link>
-            <guid>3376456</guid>
-            <pubDate>Tue, 21 Nov 2023 16:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们将把通胀率恢复到中期目标水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaup0934335.d.html</link>
-            <guid>3376455</guid>
-            <pubDate>Tue, 21 Nov 2023 16:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：预计通胀压力会进一步减弱。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaum6134517.d.html</link>
-            <guid>3376454</guid>
-            <pubDate>Tue, 21 Nov 2023 16:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：未来决策取决于即将公布的数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmauh8024912.d.html</link>
-            <guid>3376453</guid>
-            <pubDate>Tue, 21 Nov 2023 16:21:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：鉴于我们政策调整的规模，我们现在可以允许一些时间让其发挥作用。]]></title>
-            <guid>3376452</guid>
-            <pubDate>Tue, 21 Nov 2023 16:19:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：现在不是宣布抗击通胀取得胜利的时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9356729.d.html</link>
-            <guid>3376451</guid>
-            <pubDate>Tue, 21 Nov 2023 16:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们需要保持警惕，直到我们有坚实证据表明通胀回归我们的目标是可持续的。]]></title>
-            <guid>3376450</guid>
-            <pubDate>Tue, 21 Nov 2023 16:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们的货币政策正处于需要关注影响通胀的不同力量的阶段，但需要始终牢记我们的使命。]]></title>
-            <guid>3376449</guid>
-            <pubDate>Tue, 21 Nov 2023 16:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们预计未来几个月总体通胀率将再次略微上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9356521.d.html</link>
-            <guid>3376448</guid>
-            <pubDate>Tue, 21 Nov 2023 16:17:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：能源和供应链冲击在去年的通胀飙升中发挥了重要作用，现在这些作用正在消退。]]></title>
-            <guid>3376447</guid>
-            <pubDate>Tue, 21 Nov 2023 16:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们已经将未来的决定与即将到来的数据相联系，这意味着如果我们看到错过通胀目标的风险上升，我们可以再次采取行动。]]></title>
-            <guid>3376446</guid>
-            <pubDate>Tue, 21 Nov 2023 16:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：黑石集团和Permira据悉接近达成以每股115挪威克朗的价格收购在线广告公司Adevinta的交易。]]></title>
-            <guid>3376445</guid>
-            <pubDate>Tue, 21 Nov 2023 16:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿尔及利亚与土耳其签署多项合作协议】当地时间11月21日，在阿尔及利亚总统特本与土耳其总统埃尔多安的共同见证下，两国有关代表在阿尔及利亚首都阿尔及尔签署了多项合作协议，涉及能源、科技、文化、教育、媒体等多个领域。当天，两国总统还签署了阿尔及利亚-土耳其高级别合作委员会第二次会议联合声明。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaup0932901.d.html</link>
-            <guid>3376443</guid>
-            <pubDate>Tue, 21 Nov 2023 16:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌国防部长：尚未就是否更换军事指挥官做出决定】乌克兰国际文传电讯社21日报道称，乌克兰国防部长乌梅罗夫当天在与到访的德国国防部长皮斯托留斯举行的联合发布会上针对有消息称乌将更换军事领导层一事表示，目前尚未就乌克兰军事指挥官可能更换的问题做出任何决定，但正在采取一切必要措施以提高效率。此前11月13日，乌克兰《真理报》报道称，乌克兰国防部正在考虑更换三名乌克兰武装部队高级指挥官的可能性，其中包括乌克兰武装部队联合部队司令谢尔盖·纳耶夫等人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9353777.d.html</link>
-            <guid>3376442</guid>
-            <pubDate>Tue, 21 Nov 2023 16:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斐济兰巴萨东北海域发生5.1级地震】据欧洲地中海地震中心测定，当地时间11月22日3时32分，斐济兰巴萨东北92公里处海域（南纬15.68度，东经179.78度）发生5.1级地震，震源深度为8公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmauh8022426.d.html</link>
-            <guid>3376441</guid>
-            <pubDate>Tue, 21 Nov 2023 16:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国司法部查获网络诈骗组织近900万美元泰达币】美国司法部网站宣布扣押价值近900万美元的泰达币（Tether）。这些被扣押的资金被追踪到据称与一个网络诈骗组织有关的加密货币地址，该组织通过爱情骗局和加密货币信心骗局（俗称杀猪盘）盘剥了70多名受害者。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaui9353270.d.html</link>
-            <guid>3376440</guid>
-            <pubDate>Tue, 21 Nov 2023 16:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰议会批准对银行征收暴利税。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaum6130394.d.html</link>
-            <guid>3376439</guid>
-            <pubDate>Tue, 21 Nov 2023 16:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦卫生部：约旦河西岸死亡人数上升至218人】巴勒斯坦卫生部21日发表声明称，自本次巴以冲突发生以来，约旦河西岸已有218人死亡，2850多人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmauh8021986.d.html</link>
-            <guid>3376438</guid>
-            <pubDate>Tue, 21 Nov 2023 16:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国政府希望今年暂停债务限制，并在2024年恢复。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmauh8021353.d.html</link>
-            <guid>3376437</guid>
-            <pubDate>Tue, 21 Nov 2023 16:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部将发行850亿美元四周期国债。将发行800亿美元八周期国债。将发行560亿美元四个月期国债。]]></title>
-            <guid>3376436</guid>
-            <pubDate>Tue, 21 Nov 2023 16:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日重点关注的财经数据与事件：2023年11月22日】
-① 03:00 美联储公布11月货币政策会议纪要
-② 05:30 美国至11月17日当周API原油库存
-③ 19:00 英国11月CBI工业订单差值
-④ 20:30 英国财政大臣亨特发表秋季预算报告
-⑤ 21:30 美国至11月18日当周初请失业金人数
-⑥ 21:30 美国10月耐用品订单月率
-⑦ 23:00 美国11月密歇根大学消费者信心指数终值
-⑧ 23:00 美国11月一年期通胀率预期
-⑨ 23:30 美国至11月17日当周EIA原油库存
-⑩ 23:30 美国至11月17日当周EIA库欣原油库存
-⑪ 23:30 美国至11月17日当周EIA战略石油储备库存
-⑫ 次日01:00 美国至11月17日当周EIA天然气库存
-⑬ 次日02:00 美国至11月24日当周石油钻井总数]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmaup0930066.d.html</link>
-            <guid>3376435</guid>
-            <pubDate>Tue, 21 Nov 2023 16:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【铀价15年来首次突破80美元】由于对核能的需求复苏和供应中断，铀的价格15年来首次突破80美元/磅。纽商所追踪实物市场铀原料黄饼（yellowcake）合约的期货周一触及80.25美元/磅。在全球核电复兴以及诸多生产挑战的背景下，在经历了10多年的盘整之后，今年铀价大幅上涨。BMO Capital Markets Ltd.的数据显示，虽然现货铀交易清淡，但对发电厂更为重要的长期铀价也一直呈上升趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-21/detail-imzvmauh8020373.d.html</link>
-            <guid>3376434</guid>
-            <pubDate>Tue, 21 Nov 2023 15:57:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软首席技术官Kevin Scott表示，欢迎OpenAI员工们加入微软工作，微软将支付与OpenAI相当的薪酬。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-21/detail-imzvmaum6127816.d.html</link>
-            <guid>3376433</guid>
-            <pubDate>Tue, 21 Nov 2023 15:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：预计2024年垃圾债回报率为11%，贷款回报率为9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-21/detail-imzvmaui9350483.d.html</link>
-            <guid>3376431</guid>
-            <pubDate>Tue, 21 Nov 2023 15:56:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

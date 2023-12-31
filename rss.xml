@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Dec 2023 21:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 22:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美联储明年2月降息的概率为16.5%】据CME“美联储观察”：美联储明年2月维持利率在5.25%-5.50%区间不变的概率为84.5%，降息25个基点的概率为15.5%。到明年3月维持利率不变的概率为13.5%，累计降息25个基点的概率为73.5%，累计降息50个基点的概率为13.0%。]]></title>
+            <guid>3432324</guid>
+            <pubDate>Sun, 31 Dec 2023 22:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国海军在红海摧毁由伊朗支持的民兵组织控制的船只】据报道，在伊朗支持的武装分子在红海袭击了一艘集装箱船后，美国海军摧毁了三艘载有武装分子的船只，而与伊朗结盟的民兵袭击了美国在叙利亚的一个基地，加大了加沙冲突可能将美国拖入更广泛紧张局势的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzykhf2751999.d.html</link>
+            <guid>3432323</guid>
+            <pubDate>Sun, 31 Dec 2023 21:42:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伯恩斯坦：美国消费者债务刚刚回到正常水平】纽约联邦储备银行的数据显示，美国信用卡余额在第三季度增长了约4.7%，达到480亿美元，使总余额达到1.08万亿美元，这是自2003年以来的最高数据。白宫经济顾问伯恩斯坦表示，“美国信用卡拖欠率上升等体现美国消费者支出压力的迹象在很大程度上表明，美国人的债务正在恢复到正常水平，即使利率上升，他们的偿还成本也还不算太高。去年可支配收入增长3.7%，是帮助支撑消费者支出的有利因素之一。”]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzycyi2881066.d.html</link>
@@ -584,17 +595,6 @@
             <title><![CDATA[英国海事贸易行动办公室（UKMTO）：一船长报告称他的左舷遭到三艘小船袭击，双方交火。无船员伤亡。]]></title>
             <guid>3432222</guid>
             <pubDate>Sun, 31 Dec 2023 07:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每天近2起！美国2023年至少发生650起大规模枪击事件】据澳大利亚新闻网当地时间12月30日报道，到2023年结束时，美国全年至少发生650起大规模枪击事件，大约每天发生2起，这是“枪支暴力档案网站”2014年开始收集数据以来的第二糟糕的数字。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzwwex3552685.d.html</link>
-            <guid>3432221</guid>
-            <pubDate>Sun, 31 Dec 2023 06:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司：继续通过乌克兰向欧洲运输天然气，周日运输量为4020万立方米。]]></title>
-            <guid>3432220</guid>
-            <pubDate>Sun, 31 Dec 2023 06:53:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

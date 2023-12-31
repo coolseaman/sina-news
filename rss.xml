@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 31 Dec 2023 15:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 16:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[以“创”的名义 追求“美”无止境——茅台集团2024年新年献词（贵州茅台融媒体中心）]]></title>
+            <guid>3432310</guid>
+            <pubDate>Sun, 31 Dec 2023 15:35:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【周日重要消息汇总】
 国内新闻：
@@ -591,11 +596,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-31/detail-imzzwwex3547616.d.html</link>
             <guid>3432206</guid>
             <pubDate>Sun, 31 Dec 2023 06:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：12月31日14时07分在四川自贡市荣县（北纬29.40度，东经104.46度）发生3.2级地震，震源深度8千米。]]></title>
-            <guid>3432205</guid>
-            <pubDate>Sun, 31 Dec 2023 06:14:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

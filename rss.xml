@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 01 Jan 2024 21:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 22:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美联储2月降息的概率为15.5%】据CME“美联储观察”：美联储2月维持利率在5.25%-5.50%区间不变的概率为84.5%，降息25个基点的概率为15.5%。到明年3月维持利率不变的概率为13.5%，累计降息25个基点的概率为73.5%，累计降息50个基点的概率为13.0%。]]></title>
+            <guid>3433608</guid>
+            <pubDate>Mon, 01 Jan 2024 22:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英媒：医疗系统罢工导致英国去年死亡人数大幅增加】去年英国死亡人数创下纪录新高，原因包括英国国家医疗服务系统（NHS）人员罢工和新冠的后续影响。英国每日电讯报分析显示，2023年的死亡人数较正常年份高出近53,000人，是自二战以来非疫情年份的最高纪录。医生去年罢工了38天，专家担心这种罢工导致死亡人数过度增加。本周三，初级医生将开始进行卫生服务史上最长的罢工。有关官员表示，罢工将导致“英国国民保健服务史上最困难的年初”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaapfp8741685.d.html</link>
+            <guid>3433579</guid>
+            <pubDate>Mon, 01 Jan 2024 21:54:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本石川县能登半岛附近海域发生3.0级地震】据日本朝日电视台1月2日消息，当地时间当天6时13分左右，石川县能登半岛附近海域发生3.0级地震，最大震感为震度3，震源深度10公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaapff9412317.d.html</link>
+            <guid>3433473</guid>
+            <pubDate>Mon, 01 Jan 2024 21:29:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以议会批准外长与能源部长岗位互换】以色列议会1日批准以色列外长与能源部长岗位互换，伊斯拉埃尔·卡茨出任外长，埃利·科亨担任能源部长。据以色列媒体报道，根据本届政府宣誓就职时达成的共享权力协议，卡茨和科亨将分别担任这两个职务2年，2026年他们将再次互换岗位。以色列政府去年12月31日批准了这一任命，并同意科亨继续担任安全内阁成员。（新华社）]]></title>
             <guid>3433417</guid>
@@ -577,24 +594,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzu9576012.d.html</link>
             <guid>3433132</guid>
             <pubDate>Mon, 01 Jan 2024 11:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本放送协会：日本将重大海啸警报降级为海啸警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzx9200765.d.html</link>
-            <guid>3433131</guid>
-            <pubDate>Mon, 01 Jan 2024 11:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中核集团：秦山核电基地2023年度平均能力因子创世界纪录】据中核集团消息，1月1日，中核集团旗下中国核电投资控股的秦山核电基地9台核电机组2023年度平均能力因子达到96.8%，根据世界核电运营者协会（WANO）已有公布数据，该业绩在全球6台机组及以上核电基地中位列第一，创造了同类基地安全稳定运行的新纪录。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzr9872427.d.html</link>
-            <guid>3433130</guid>
-            <pubDate>Mon, 01 Jan 2024 11:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒信东方：研发团队已经下载苹果头显开发者套件，正推进相关研究与探索】恒信东方近日在互动平台表示，公司研发团队已经下载苹果头显的开发者套件，正在有序推进相关的研究与探索。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzrzx9200069.d.html</link>
-            <guid>3433129</guid>
-            <pubDate>Mon, 01 Jan 2024 11:30:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

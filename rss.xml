@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 01 Jan 2024 18:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 19:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[日本国土交通省：受地震影响 能登机场跑道出现裂缝。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaahxr8862868.d.html</link>
+            <guid>3433214</guid>
+            <pubDate>Mon, 01 Jan 2024 19:09:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本石川县政府表示，元旦发生的地震造成四人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaahxr8861464.d.html</link>
+            <guid>3433213</guid>
+            <pubDate>Mon, 01 Jan 2024 18:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[相关通知显示：从1月2日起，印度将把原油暴利税从每吨1300卢比上调至2300卢比。]]></title>
+            <guid>3433212</guid>
+            <pubDate>Mon, 01 Jan 2024 18:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【G5京昆高速四川境内突降大雪 部分收费站禁止上站】1月2日凌晨，记者从四川高速公安六分局获悉，因G5京昆高速2109KM至2115KM突降大雪，路面积雪结冰，不具备通行条件，现在四川雅安石棉分流所有往四川凉山西昌方向车辆，同时在四川凉山彝海安检站分流所有往成都方向车辆。四川雅安孟获城收费站禁止所有车辆上站，四川雅安栗子坪、石棉收费站禁止所有往西昌方向车辆上站。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaahxi9532415.d.html</link>
+            <guid>3433211</guid>
+            <pubDate>Mon, 01 Jan 2024 18:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称本轮巴以冲突以来已有506名士兵死亡】以色列国防军1月1日更新的数据显示，自2023年10月7日本轮巴以冲突爆发以来，以军方面已有506人死亡、2234人受伤。自以色列发动地面军事行动以来，已有172名以军士兵在加沙地带死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaahxr8860378.d.html</link>
+            <guid>3433210</guid>
+            <pubDate>Mon, 01 Jan 2024 18:29:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[比特币突破43000美元/枚，日内涨1.40%。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaaarq9369954.d.html</link>
@@ -569,34 +598,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmty6476351.d.html</link>
             <guid>3433109</guid>
             <pubDate>Mon, 01 Jan 2024 10:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本气象厅将1月1日发生在日本石川县能登地区的大地震命名为2024年“能登半岛地震”。]]></title>
-            <guid>3433108</guid>
-            <pubDate>Mon, 01 Jan 2024 10:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《金手指》票房破2亿】据灯塔专业版实时数据，截至1月1日18时28分，影片《金手指》票房突破2亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtz9322083.d.html</link>
-            <guid>3433107</guid>
-            <pubDate>Mon, 01 Jan 2024 10:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【朝鲜发布该国东海岸海啸警报】据央视新闻，当地时间1月1日，朝鲜中央广播电台在日本石川县附近海域发生强烈地震后，发出朝鲜东海岸海啸警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtw9697639.d.html</link>
-            <guid>3433106</guid>
-            <pubDate>Mon, 01 Jan 2024 10:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【石川县能登地区发生强震 日本政府设立特定灾害对策本部】据日本《每日新闻》1月1日报道，日本石川县能登地区当天下午发生强震，日本政府已设立特定灾害对策本部。石川县知事驰浩在社交媒体发布消息，要求日本陆上自卫队向灾区派遣救灾人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtw9697598.d.html</link>
-            <guid>3433105</guid>
-            <pubDate>Mon, 01 Jan 2024 10:29:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本气象厅官员：这次地震在石川县能登半岛地区的震级为7.6，是自1885年有数据记录以来该地区最大的地震。]]></title>
-            <guid>3433104</guid>
-            <pubDate>Mon, 01 Jan 2024 10:20:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

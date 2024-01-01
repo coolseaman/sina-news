@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 01 Jan 2024 17:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 18:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[比特币突破43000美元/枚，日内涨1.40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaaarq9369954.d.html</link>
+            <guid>3433209</guid>
+            <pubDate>Mon, 01 Jan 2024 18:08:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新能源汽车2023年成绩单放榜 2024年渗透率或达40%】在2024年首日，各家新能源车企相继公布2023年12月销售或交付数据，去年全年成绩也随之揭晓。其中，比亚迪实现302.44万辆销量，顺利完成全年目标。理想则在最后一个月突破单月五万交付大关。乘联会秘书长崔东树预计，2024年新能源车的市场增长预计相对乐观，新能源乘用车批发预计达到1100万辆，净增量230万辆，同比增长22%，渗透率达到40%，新能源乘用车保持较强增长势头。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-02/detail-inaaaars6140750.d.html</link>
+            <guid>3433208</guid>
+            <pubDate>Mon, 01 Jan 2024 17:21:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[以色列央行副行长：通胀下降促使我们开始降低利率，但由于冲突和财政政策的不确定性，进一步降息将更加困难，我们在未来可能会相当谨慎。]]></title>
             <guid>3433207</guid>
@@ -585,18 +597,6 @@
             <title><![CDATA[日本气象厅官员：这次地震在石川县能登半岛地区的震级为7.6，是自1885年有数据记录以来该地区最大的地震。]]></title>
             <guid>3433104</guid>
             <pubDate>Mon, 01 Jan 2024 10:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度：终止与欢聚集团的股份购买协议】百度在港交所公告，2024年1月1日，本公司的一家关联公司Moon SPV Limited通过行使合同权利，终止了Moon SPV Limited、百度与欢聚集团及其他相关方于2020年11月16日订立并经日后修订或补充的《股份购买协议》。本公司将寻求与欢聚集团讨论终止股份购买协议后的下一步安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtt9991898.d.html</link>
-            <guid>3433103</guid>
-            <pubDate>Mon, 01 Jan 2024 10:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《一闪一闪亮星星》票房破6亿】据猫眼专业版数据，电影《一闪一闪亮星星》上映3天，总票房破6亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-01/detail-imzzzmtt9991818.d.html</link>
-            <guid>3433101</guid>
-            <pubDate>Mon, 01 Jan 2024 10:17:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

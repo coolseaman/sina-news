@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 07 Jan 2024 17:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 18:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【多地重大项目开工 今年布局有新亮点】新年第一周，河南、安徽、湖南、江苏等多个省份重大项目密集开工。各地抢抓工期，强化要素保障，想方设法扩大有效投资，力争实现全年经济“开门红”。在各地的重点投资项目中，除了传统的基础设施、民生领域补短板项目，战略性新兴产业和未来产业新赛道也是布局的一大亮点。有效需求不足是当前推动经济回升向好面临的主要困难和挑战。国家发改委主任郑栅洁日前表示，要大力拓展有效投资空间，激发民间投资活力，更好发挥政府投资带动作用，加大对未来产业发展、传统产业转型、新型基础设施、关键核心技术攻关等领域投资支持力度。引导财政和金融资金精准投向102项重大工程项目，在用地用海用能环评等方面给予倾斜支持。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatvpq6396077.d.html</link>
+            <guid>3440824</guid>
+            <pubDate>Sun, 07 Jan 2024 17:39:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【包钢集团：2023年预计实现营收1150亿元 利润总额53亿元】据包钢集团消息，包钢集团2023年预计实现营业收入1150亿元，同比基本持平；利润总额53亿元，同比增长10%；上交税费109.77亿元，同比增长15%。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-08/detail-inaatrfq9739281.d.html</link>
@@ -605,12 +611,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyiu0360269.d.html</link>
             <guid>3440723</guid>
             <pubDate>Sun, 07 Jan 2024 10:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【锦好医疗：公司首批助听器自研芯片已全部应用于公司助听器产品中，已开始第二次流片】公司首批助听器自研芯片目前已经全部应用于公司助听器产品中，并且已经开始第二次流片，同时根据芯片的使用情况陆续进行优化，截至目前第一代芯片应用的算法已经完成几个版本的优化升级，尚需收集更多的反馈数据，才会开展第二代芯片迭代。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-07/detail-inaasyiz9688411.d.html</link>
-            <guid>3440722</guid>
-            <pubDate>Sun, 07 Jan 2024 10:09:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

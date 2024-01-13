@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 13 Jan 2024 19:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 20:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【哥斯达黎加南部海域发生4.3级地震】据欧洲-地中海地震中心报告，当地时间1月13日11时50分，哥斯达黎加南部海域发生4.3级地震，震源深度27公里。目前暂无海啸预警。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacmqmp9618667.d.html</link>
+            <guid>3449336</guid>
+            <pubDate>Sat, 13 Jan 2024 19:39:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加沙地带媒体办公室：加沙北部每日需1300辆卡车食物才能摆脱饥饿状态】加沙地带媒体办公室当地时间13日晚间发布消息称，加沙地带北部各地每天共需要1300辆卡车的食物才能摆脱饥饿状态。该部门要求以方立即停止袭击，阻止流血事件继续蔓延。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacmqmp9616679.d.html</link>
+            <guid>3449335</guid>
+            <pubDate>Sat, 13 Jan 2024 19:15:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴西圣保罗州暴雨导致2人死亡 多个航班被取消】本周以来，强降雨天气席卷巴西圣保罗州，导致该州多地发生山体滑坡、街道被淹和社区断电情况。当地时间1月13日凌晨，受多日强降雨影响，巴西东南部圣保罗州的茹基蒂巴市洪水泛滥，一辆卡车在行驶过程中被洪水卷入溪流并翻车，造成1名乘客死亡。12日晚，在该州的圣贝尔纳多杜坎波市，暴雨引起的山体滑坡击垮了一间民房，导致屋内一男子身亡。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacmkcs7525823.d.html</link>
@@ -579,18 +591,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-13/detail-inacknya0188712.d.html</link>
             <guid>3449237</guid>
             <pubDate>Sat, 13 Jan 2024 09:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国外交部发言人：法国新任外长首次出访基辅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-13/detail-inacknya0187562.d.html</link>
-            <guid>3449236</guid>
-            <pubDate>Sat, 13 Jan 2024 09:13:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息  ：乌克兰方面表示，俄罗斯隔夜发射了40枚导弹和无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-13/detail-inacknxx0548401.d.html</link>
-            <guid>3449235</guid>
-            <pubDate>Sat, 13 Jan 2024 09:12:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

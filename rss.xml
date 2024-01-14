@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Jan 2024 17:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 18:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【埃及官员：共计约9000辆运载援助物资的卡车经拉法口岸进入加沙地带】埃及国家新闻局局长拉什万当地时间14日宣布，自10月7日本轮巴以冲突爆发以来，从拉法口岸进入加沙的医疗物资有约7000吨，粮食约5万吨，水约2万吨，燃料和家用天然气约4500吨，以及1.1万吨其他救灾物资。运载各类援助物资卡车总数达到约9000辆。在此期间，埃及还从加沙接收了1210名受伤人员。此外，还有23000名外国公民和双重国籍人员经拉法口岸进入埃及。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-15/detail-inacppas6406507.d.html</link>
+            <guid>3450233</guid>
+            <pubDate>Sun, 14 Jan 2024 17:35:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据也门胡塞武装控制的马西拉电视台14日报道，美国和英国当天对也门红海城市荷台达发动空袭。（新华社）]]></title>
+            <guid>3450232</guid>
+            <pubDate>Sun, 14 Jan 2024 17:12:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【伊拉克伊斯兰最高委员会主席与伊库区主席重申支持国际联盟撤离伊拉克】据伊拉克伊斯兰最高委员会当地时间1月14日声明，该委员会主席哈穆迪当天在巴格达与伊拉克库尔德自治区（库区）主席内奇尔万·巴尔扎尼举行会晤，双方就该国政治、安全局势发展等议题举行磋商。声明指出，双方在会上讨论了以美国为首的国际联盟在伊存在问题，哈穆迪认为，国际联盟在伊拉克存在使外方对伊投资进一步疏远，并强调了在2024年年内敦促国际联盟撤离伊拉克的必要性。巴尔扎尼对此表示肯定，并强调伊库区将支持巴格达中央政府终止国际联盟在伊存在的相关决定。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-15/detail-inacppar8618494.d.html</link>
@@ -584,16 +595,6 @@
             <title><![CDATA[【多家美媒报道美国会领导人已就短期支出协议达成一致】据多家美国媒体13日报道，消息人士称，美国国会领导人已就一项短期支出协议达成一致，以避免美国政府在接下来几周“停摆”。据美国媒体此前报道，1月19日，为20%美国联邦政府机构提供运转资金的临时拨款法案将到期。2月2日，其余美国联邦政府机构的运转也将因资金耗尽而面临“停摆”。根据新达成的短期支出协议，为政府机构提供资金的两个期限将分别延长到3月1日和3月8日。不过，新协议需要在19日前得到国会参众两院通过才能避免政府“停摆”。报道称，参议院多数党领袖、民主党人舒默的发言人称，协议文本预计将于当地时间14日晚公布。（央视新闻）]]></title>
             <guid>3450030</guid>
             <pubDate>Sun, 14 Jan 2024 09:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[预算草案显示，假设激烈的军事冲突在第一季度结束，预计以色列与哈马斯之间的冲突对财政的影响在2023-2024年将达到1500亿谢克尔。]]></title>
-            <guid>3450029</guid>
-            <pubDate>Sun, 14 Jan 2024 09:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[根据修订后的战时预算草案，以色列2024年的预算赤字上限将从占GDP的2.25%提高到6.6%。]]></title>
-            <guid>3450028</guid>
-            <pubDate>Sun, 14 Jan 2024 09:24:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

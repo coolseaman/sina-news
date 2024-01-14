@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 14 Jan 2024 16:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 17:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊拉克伊斯兰最高委员会主席与伊库区主席重申支持国际联盟撤离伊拉克】据伊拉克伊斯兰最高委员会当地时间1月14日声明，该委员会主席哈穆迪当天在巴格达与伊拉克库尔德自治区（库区）主席内奇尔万·巴尔扎尼举行会晤，双方就该国政治、安全局势发展等议题举行磋商。声明指出，双方在会上讨论了以美国为首的国际联盟在伊存在问题，哈穆迪认为，国际联盟在伊拉克存在使外方对伊投资进一步疏远，并强调了在2024年年内敦促国际联盟撤离伊拉克的必要性。巴尔扎尼对此表示肯定，并强调伊库区将支持巴格达中央政府终止国际联盟在伊存在的相关决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-15/detail-inacppar8618494.d.html</link>
+            <guid>3450231</guid>
+            <pubDate>Sun, 14 Jan 2024 16:20:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【秘鲁2023年度贸易顺差达168.91亿美元】秘鲁中央储备银行当地时间1月14日发布报告称，在2023年度（2022年12月至2023年11月），秘鲁的贸易顺差达到168.91亿美元。这份报告分析指出，秘鲁贸易顺差产生的主要原因是铜、金、锌等矿产品，以及化学品、非金属采矿产品和农产品等非传统产品的出口量增加，而且金、铜和非传统农产品的出口价格也出现小幅度上涨。数据还显示，2023年11月秘鲁出口总额为58.86亿美元，比2022年同月增长16.4%。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacppas6395365.d.html</link>
@@ -588,12 +594,6 @@
             <title><![CDATA[根据修订后的战时预算草案，以色列2024年的预算赤字上限将从占GDP的2.25%提高到6.6%。]]></title>
             <guid>3450028</guid>
             <pubDate>Sun, 14 Jan 2024 09:24:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中际旭创：高带宽GPU在算力集群中大量使用有利于提升800G光模块配套需求】中际旭创在互动平台表示，现阶段高带宽的GPU在算力集群中大量使用有利于提升800G光模块的配套需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-14/detail-inacnwey6729951.d.html</link>
-            <guid>3450027</guid>
-            <pubDate>Sun, 14 Jan 2024 09:20:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

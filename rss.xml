@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Jan 2024 19:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 20:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊拉克武装部队总司令发言人：将对阿萨德空军基地遭袭一事展开调查】伊拉克武装部队总司令发言人叶海亚·拉苏尔当地时间1月20日晚发表声明称，伊拉克西部安巴尔省的阿萨德空军基地当天遭遇火箭弹袭击，多枚火箭弹落入该基地所属第7师第29旅指挥部附近，造成一名伊拉克士兵受伤、第29旅指挥部受损。声明强调，阿萨德空军基地设有伊拉克武装部队指挥所和训练营，伊拉克安全部队将会展开调查并将袭击事件的肇事者绳之以法。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefnhr6360303.d.html</link>
+            <guid>3458865</guid>
+            <pubDate>Sat, 20 Jan 2024 19:37:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【也门荷台达机场附近遭到袭击】当地时间20日，据中央广播电视总台报道员综合前方消息，也门荷台达机场附近的贾巴纳营地遭遇两次袭击。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaeffyp9056727.d.html</link>
@@ -589,12 +595,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekuy7276653.d.html</link>
             <guid>3458704</guid>
             <pubDate>Sat, 20 Jan 2024 08:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯下属武装派别卡桑旅称与以军在加沙地带多地持续作战】巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别卡桑旅当地时间20日上午在其社交媒体上表示，正与以色列军队在加沙地带的多个地点展开战斗，其中在杰巴利耶等地的战斗尤为激烈。卡桑旅并未透露战斗造成的具体伤亡情况。以色列军方暂未对这一消息做出具体回应，但在同一天上午发布消息称，以军士兵突袭了加沙地带北部的数个地点，并摧毁了多个哈马斯的火箭弹发射器，打死了数名枪手。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekuy7276352.d.html</link>
-            <guid>3458703</guid>
-            <pubDate>Sat, 20 Jan 2024 08:19:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

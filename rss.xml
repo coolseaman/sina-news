@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Jan 2024 22:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 23:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月21日06时09分在西南印度洋海岭（南纬39.95度，东经46.25度）发生6.3级地震，震源深度10千米。]]></title>
+            <guid>3458919</guid>
+            <pubDate>Sat, 20 Jan 2024 22:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称轰炸黎巴嫩真主党基础设施和火箭弹发射场】当地时间20日晚，以色列国防军发表声明称，以军于当晚出动战机袭击了位于黎巴嫩南部奥代塞和胡拉地区的几处真主党基础设施和火箭弹发射场。此外，声明中称，当天早些时候，以军监测到黎巴嫩真主党向以色列北部多夫山地区发射了一枚火箭弹，该火箭弹落在空旷地区。黎巴嫩真主党对此暂无评论。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefsqk6590473.d.html</link>
+            <guid>3458918</guid>
+            <pubDate>Sat, 20 Jan 2024 22:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台1月21日06时继续发布寒潮黄色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefsqk6588233.d.html</link>
+            <guid>3458917</guid>
+            <pubDate>Sat, 20 Jan 2024 22:13:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国已有83人因冬季风暴死亡】当地时间1月20日，据美国哥伦比亚广播公司新闻（CBS）报道，过去一周的时间内，全美各地已有83人因冬季风暴死亡。据悉，有关部门还在调查部分死亡事件是否与天气有关，这可能会使目前的死亡人数上升。俄勒冈州目前仍然处于紧急状态，天气原因已造成该州超过4.5万名用户停电。宾夕法尼亚州、加利福尼亚州、新墨西哥州和印第安纳州也报告了停电情况。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefsqk6587697.d.html</link>
@@ -576,24 +593,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekuy7283432.d.html</link>
             <guid>3458712</guid>
             <pubDate>Sat, 20 Jan 2024 09:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带2.49万名巴勒斯坦人死亡】加沙地带卫生部门当地时间20日上午发布的统计数据显示，自2023年10月7日新一轮巴以冲突爆发以来，以色列对加沙地带发动的军事行动已造成24927名巴勒斯坦人死亡，另有62388人受伤。过去24小时内，加沙地带有165人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekuy7281743.d.html</link>
-            <guid>3458711</guid>
-            <pubDate>Sat, 20 Jan 2024 08:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾金达沃省山体滑坡事故死亡人数升至11人】据菲律宾金达沃省蒙卡约镇政府消息，当地时间1月20日13时左右，当地山体滑坡中的最后一名遇难者遗体被找到，该地区山体滑坡事故已致11人死亡。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekva0152297.d.html</link>
-            <guid>3458710</guid>
-            <pubDate>Sat, 20 Jan 2024 08:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州白云区市场监管局与阿里巴巴签订合作协议】近日，白云区市场监管局联合阿里巴巴（中国）网络技术有限公司在白云区举办“平台赋能·产业链云”大会，通过平台赋能市场监管与经济发展，点亮白云数字产业地图，推动白云区网络市场监管与发展再上新台阶。会上发布《数字赋能实体高质量发展与高水平监管愿景与行动》报告，举行了白云区市场监管局与阿里巴巴（中国）有限公司签约暨白云产业带数字地图点亮仪式。（“广州市场监管”官方微博）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekva0152055.d.html</link>
-            <guid>3458709</guid>
-            <pubDate>Sat, 20 Jan 2024 08:44:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

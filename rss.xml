@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 20 Jan 2024 21:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 22:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国已有83人因冬季风暴死亡】当地时间1月20日，据美国哥伦比亚广播公司新闻（CBS）报道，过去一周的时间内，全美各地已有83人因冬季风暴死亡。据悉，有关部门还在调查部分死亡事件是否与天气有关，这可能会使目前的死亡人数上升。俄勒冈州目前仍然处于紧急状态，天气原因已造成该州超过4.5万名用户停电。宾夕法尼亚州、加利福尼亚州、新墨西哥州和印第安纳州也报告了停电情况。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefsqk6587697.d.html</link>
+            <guid>3458916</guid>
+            <pubDate>Sat, 20 Jan 2024 22:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 中国地震台网自动测定：01月21日05时31分在巴西西部附近（南纬7.24度，西经71.48度）发生6.5级左右地震（深源），最终结果以正式速报为准。]]></title>
+            <guid>3458910</guid>
+            <pubDate>Sat, 20 Jan 2024 21:48:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【香港马拉松开跑 7.4万人参赛】香港马拉松1月21日在香港尖沙咀拉开帷幕，这是香港一年一度最多人参与的体坛盛事，由中国香港田径总会主办。本届赛事共有7.4万人参与。本届赛事还同场举行了第19届亚洲马拉松锦标赛，近45个亚洲国家及地区的顶尖跑手云集，令赛事气氛更加高涨。香港马拉松自2016年以来一直是世界田径联会认可的金标赛事。本届赛事共设全程马拉松、半程马拉松、10公里赛、10公里轮椅赛及轮椅赛体验组（2.5公里）5个项目。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-21/detail-inaefnhp9592621.d.html</link>
@@ -583,18 +594,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekva0152055.d.html</link>
             <guid>3458709</guid>
             <pubDate>Sat, 20 Jan 2024 08:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市发布大风蓝色预警】北京市发布大风蓝色预警。受冷空气影响，预计20日21时至21日23时，北京市大部分地区有4级偏北风，阵风7级左右，山区阵风可达8级以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekuy7277981.d.html</link>
-            <guid>3458707</guid>
-            <pubDate>Sat, 20 Jan 2024 08:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军空袭叙利亚首都大马士革】叙利亚国家通讯社当地时间20日上午报道称，以色列军方当天对叙首都大马士革西部的梅泽区发动了空袭。有当地观察人士在社交媒体发布消息称，空袭已造成4人死亡，另有多人受伤。以色列方面暂未就此事做出表态。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeekva0148830.d.html</link>
-            <guid>3458706</guid>
-            <pubDate>Sat, 20 Jan 2024 08:26:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

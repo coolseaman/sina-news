@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 27 Jan 2024 17:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 18:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【极兔速递被国家邮政局约谈】近日，国家邮政局市场监管司就连续使用抽检不合格集装袋问题，对极兔速递有限公司进行行政约谈。约谈指出，在国家邮政局组织快递包装检查和产品质量抽检工作中，2021年山西、四川，2022年天津、内蒙古、山东、青海等6省（区、市）极兔速递使用的集装袋分别检测出重金属超标。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaezcvt2612993.d.html</link>
+            <guid>3469661</guid>
+            <pubDate>Sat, 27 Jan 2024 18:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据猫眼专业版数据，电影《天降大任》上映23天，总票房破3000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaezcvr5835792.d.html</link>
+            <guid>3469660</guid>
+            <pubDate>Sat, 27 Jan 2024 18:01:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【以军空袭加沙城和汗尤尼斯以东地区 导致5名巴勒斯坦人死亡】据巴勒斯坦通讯社消息，当地时间1月27日，以色列军机对加沙地带北部加沙城科威特环岛附近的一群巴勒斯坦平民进行轰炸，造成3名巴方平民死亡。此外，以军当天还空袭了加沙地带南部汗尤尼斯以东的巴尼苏海拉镇，导致2名巴方平民死亡。以色列方面对此暂未作出回应。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-28/detail-inaeyxps3088693.d.html</link>
@@ -596,18 +608,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeyhrz6286847.d.html</link>
             <guid>3469463</guid>
             <pubDate>Sat, 27 Jan 2024 09:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【茅台将开放部分经销权？知情人士辟谣】近日，市场有传言茅台将开放了部分经销权。对此，有知情人士辟谣，2024开年后，茅台只是面向有海外资源的部分国内签约经销商开放海外经销权，允许他们提交海外茅台专卖店开设的意向申请，以扩展海外市场，并非针对社会大众开发经销权。据行业人士分析，此举除了可加快茅台海外市场建设，也可调动和发挥国内优势经销商的资源和价值，同时促进海外经销商的效能提升，对国内外的渠道体系进一步优化。（国酒时空）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeyhrz6286411.d.html</link>
-            <guid>3469462</guid>
-            <pubDate>Sat, 27 Jan 2024 09:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦外交部：立即停火是迫使以色列执行国际法院裁决的关键条件】当地时间1月27日，巴勒斯坦外交与侨民事务部发表声明表示，立即停火是迫使以色列执行国际法院所批准措施的关键且实际的条件，这些措施旨在保护平民并确保他们的基本人道主义需求。联合国国际法院当地时间26日在荷兰海牙发布具有约束力的“临时措施”，要求以色列遵守联合国《防止及惩治灭绝种族罪公约》，防止在加沙地带发生针对巴勒斯坦人的种族灭绝行为。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-27/detail-inaeyhrz6286032.d.html</link>
-            <guid>3469461</guid>
-            <pubDate>Sat, 27 Jan 2024 08:58:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

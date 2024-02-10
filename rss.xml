@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 10 Feb 2024 18:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 19:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【卡塔尔队3比1击败约旦队 蝉联亚洲杯冠军】当地时间10日，在2023卡塔尔男足亚洲杯决赛中，卡塔尔队3比1战胜约旦队，继2019年阿联酋亚洲杯之后再度赢得亚洲杯冠军。包括主裁判马宁在内的4名中国裁判执裁本场比赛。这是中国裁判组首次执裁亚洲杯决赛。卡塔尔队在小组赛中三战全胜排名第一顺利出线，在淘汰赛中先后击败巴勒斯坦队、乌兹别克斯坦队和伊朗队晋级决赛。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahqxps8621579.d.html</link>
+            <guid>3487937</guid>
+            <pubDate>Sat, 10 Feb 2024 19:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【希腊警方逮捕一名涉嫌向电视台发送爆炸威胁的男子】当地时间2月10日，希腊警方在该国西北部科孚岛逮捕一名31岁男子，该男子涉嫌向MEGA TV发送爆炸威胁信息。2月9日，希腊私营电视台MEGA TV收到匿名电子邮件，声称要对该电视台实施爆炸袭击。警方派出爆炸物处置人员到场搜寻，未发现可疑物品。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahqxps8620390.d.html</link>
+            <guid>3487936</guid>
+            <pubDate>Sat, 10 Feb 2024 18:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸《国民兵役法》正式生效】当地时间2月10日，缅甸国家管理委员会签署命令，自10日起《国民兵役法》正式生效实施。《国民兵役法》于2010年由缅甸安全与发展委员会起草、颁布。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahqtfu8750030.d.html</link>
+            <guid>3487935</guid>
+            <pubDate>Sat, 10 Feb 2024 18:24:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【72名移民在希腊海域获救】当地时间2月10日，希腊海军一艘船只在距离该国克里特岛南部海岸大约40海里的海域中救出72名移民。他们已被带到克里特岛进行医学检查。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-11/detail-inahqtfw1615601.d.html</link>
@@ -600,23 +618,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahpwai8854176.d.html</link>
             <guid>3487701</guid>
             <pubDate>Sat, 10 Feb 2024 07:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据船运调查机构ITS数据显示，马来西亚2月1-10日棕榈油出口量为358365吨，较上月同期出口的354465吨增加1.1%。]]></title>
-            <guid>3487700</guid>
-            <pubDate>Sat, 10 Feb 2024 07:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰武装部队总司令进入乌最高统帅部及国家安全与国防委员会任职】据乌克兰国家通讯社当地时间10日报道，乌克兰总统泽连斯基对乌国家安全与国防委员会以及最高统帅部进行了人员调整。泽连斯基签署法令，宣布新任乌武装部队总司令瑟尔斯基进入最高统帅部以及乌国家安全与国防委员会任职，并免除了扎卢日内在乌国家安全与国防委员会以及最高统帅部的任职。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahpwaa4644151.d.html</link>
-            <guid>3487699</guid>
-            <pubDate>Sat, 10 Feb 2024 07:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交通运输部：2月9日 全社会跨区域人员流动量完成19524万人次】来自2024年综合运输春运工作专班数据显示，2月9日（春运第15天，农历腊月三十），全社会跨区域人员流动量19524万人次，环比下降27.9%，比2023年同期增长26.7%，比2019年同期增长28.4%。其中铁路客运量825.7万人次，环比下降33.7%，比2023年同期增长98.8%，比2019年同期增长50.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahpwah2075195.d.html</link>
-            <guid>3487698</guid>
-            <pubDate>Sat, 10 Feb 2024 07:07:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

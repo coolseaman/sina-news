@@ -4,11 +4,408 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 12 Mar 2024 00:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 01:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【贵州拟再发逾215亿元特殊再融资债券 累计规模逾2803亿元】贵州省3月11日在中国债券信息网披露的文件显示，其拟于3月18日发行特殊再融资债券215.614亿元。这是贵州自2023年10月以来第6次披露拟发行特殊再融资债券，已发行及拟发行规模合计2803.9974亿元。截至目前，全国披露的特殊再融资债券总额已达14627.1274亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtr4782251.d.html</link>
+            <guid>3525548</guid>
+            <pubDate>Tue, 12 Mar 2024 01:46:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【CRO概念股震荡走高 睿智医药涨超8%】睿智医药涨超8%，泓博医药、药明康德、万邦医药、美迪西、太龙药业等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtr4782224.d.html</link>
+            <guid>3525547</guid>
+            <pubDate>Tue, 12 Mar 2024 01:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小米集团(01810.HK)短线拉升，现涨超5%，消息面上，小米汽车3月28日正式发布。]]></title>
+            <guid>3525546</guid>
+            <pubDate>Tue, 12 Mar 2024 01:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【存储芯片概念震荡走高 兆易创新涨超8%】 兆易创新涨超8%，力源信息涨超5%，通富微电、北京君正、江丰电子、紫光国微、江波龙等跟涨。消息面上，2023年第四季NAND Flash产业营收达114.9亿美元，环比增长24.5%。今年第一季，在供应链库存水位已大幅改善、价格仍处于上涨的态势下, 客户为避免供货短缺及成本垫高的风险, 持续增加采购订单，预估NAND Flash产业营收仍会季增两成。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0805618.d.html</link>
+            <guid>3525545</guid>
+            <pubDate>Tue, 12 Mar 2024 01:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股区块链概念股走强，美图涨超6%】比特币再创历史新高，带动港股市场区块链概念股集体走强。其中，美图涨超6%，连续第三日上涨，股价创1月12日以来新高；新火科技控股涨超4%；欧科云链涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0805463.d.html</link>
+            <guid>3525544</guid>
+            <pubDate>Tue, 12 Mar 2024 01:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汽车零部件概念震荡走高 泉峰汽车涨停】汽车零部件概念震荡走高，泉峰汽车涨停，天成自控、北特科技、登云股份、浙江荣泰、飞龙股份等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8004966.d.html</link>
+            <guid>3525543</guid>
+            <pubDate>Tue, 12 Mar 2024 01:42:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软更改默认浏览器，不再主推Edge】微软为了在欧洲市场遵守《数字市场法案》（DMA），在同意卸载 OneDrive 应用同时，还将调整更改默认浏览器窗口，不再凸显推广 Edge 浏览器，而是和 Chrome 等浏览器一视同仁。 Windows 10 和 Windows 11 系统用户目前尝试更改默认浏览器时候，在弹出的切换窗口中会显示“推荐应用 / 精选应用”，显示 Microsoft Edge 浏览器，并标榜来自微软的浏览器能提供更丰富的在线功能，满足用户的多元化需求。（IT之家）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0805025.d.html</link>
+            <guid>3525542</guid>
+            <pubDate>Tue, 12 Mar 2024 01:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人民网三评“饭圈外溢”之二：“怪圈”失序 谈“饭”色变】商业资本炒作，加上一些自媒体推波助澜、个别平台为流量不顾吃相，导致体育追星“饭圈化”愈演愈烈并走向失范。表现为，部分粉丝过度吹捧体育明星个人、过度追求娱乐性内容，让病态追星行为泛滥成灾。原本单纯的体育迷圈沦为了与资本圈、话语圈犬牙交错的利益圈，“饭圈外溢”让体育竞技不再纯粹。无怪乎有运动员表示，“我觉得很恐怖”，曾多次强调“不要接机，不喜欢，球场见”。（人民网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8004586.d.html</link>
+            <guid>3525541</guid>
+            <pubDate>Tue, 12 Mar 2024 01:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华龙证券：能源设备回调充分，关注超跌反弹机会】华龙证券研报指出，能源设备回调充分，关注超跌反弹机会。国际能源署预测2025年全球核能发电量将创历史新高，到2025年初，可再生能源将超过煤炭，占全球总发电量的三分之一以上。到2026年，包括太阳能、风能等可再生能源以及核能在内的低排放能源预计将占全球发电量的近一半。“双碳”目标引领下各国将加速清洁低碳新能源转型，新能源行业有望保持快速增长，当前新能源设备回调充分，已在估值底部。建议关注超跌反弹机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8004056.d.html</link>
+            <guid>3525540</guid>
+            <pubDate>Tue, 12 Mar 2024 01:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳洲矿商Pilbara与雅化锂业签署锂辉石包销协议】 澳洲矿商Pilbara Minerals于今日上午发布了与四川雅化锂业签署的锂辉石包销协议。根据协议，Pilbara将在2024年向雅化提供20000-80000吨锂辉石精矿，且在后续2025与2026年每年提供10-16万吨锂辉石精矿。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0803590.d.html</link>
+            <guid>3525539</guid>
+            <pubDate>Tue, 12 Mar 2024 01:39:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【低空经济概念探底回升 立航科技6连板】早盘低空经济概念探底回升，立航科技6连板，上工申贝涨停，万丰奥威大涨8%，安达维尔、星源卓镁、宝利国际、卧龙电驱等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3022917.d.html</link>
+            <guid>3525538</guid>
+            <pubDate>Tue, 12 Mar 2024 01:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西对华镀锡镀铬板卷启动反倾销调查】2024年3月1日，巴西发展、工业、贸易和服务部外贸秘书处发布2024年第9号公告称，应巴西国内企业Companhia Siderúrgica Nacional于2023年10月6日提交的申请，对原产于中国的镀锡镀铬板卷（葡萄牙语：folhas metálicas de aço carbono, ligado ou não ligado, de qualquer largura com espessura inferior a 0,5mm）发起反倾销调查。涉案产品为任何宽度的厚度小于0.5毫米的合金或非合金镀锡镀铬板卷，涉及南共市税号为7210.12.00、7210.50.00、7212.10.00和7212.50.90。本案倾销调查期为2022年7月~2023年6月，损害调查期为2018年7月~2023年6月。公告自发布之日起生效。（中国贸易救济信息网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0803507.d.html</link>
+            <guid>3525537</guid>
+            <pubDate>Tue, 12 Mar 2024 01:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[电力设备板块盘初活跃，安彩高科、三晖电气、天际股份三股涨停，信德新材、野马电池涨超6%，海力风电、科达利跟涨。]]></title>
+            <guid>3525536</guid>
+            <pubDate>Tue, 12 Mar 2024 01:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股医药股多数走强 宜明昂科涨超14%】截至发稿，宜明昂科-B(01541.HK)、药明康德(02359.HK)、药明生物(02269.HK) 、药明合联(02268.HK)分别上涨14.50%、5.71%、4.07%、3.71%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8003400.d.html</link>
+            <guid>3525535</guid>
+            <pubDate>Tue, 12 Mar 2024 01:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深康佳Ａ盘中涨停，涨幅10.15%，成交额超2288万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0802666.d.html</link>
+            <guid>3525534</guid>
+            <pubDate>Tue, 12 Mar 2024 01:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大连电瓷等成立新公司 业务含物联网技术研发】 企查查APP显示，近日，杭州真电科技有限公司成立，注册资本1000万元，经营范围包含：电动汽车充电基础设施运营；充电桩销售；储能技术服务；物联网技术研发；物联网应用服务等。企查查股权穿透显示，该公司由大连电瓷等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtr4779191.d.html</link>
+            <guid>3525533</guid>
+            <pubDate>Tue, 12 Mar 2024 01:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加大在新疆多领域投入 央企将在疆投资133个项目、金额近7000亿】 据央视新闻，记者从昨天（11日）在北京召开的中央企业以产业援疆带动就业工作推进会上了解到，中央企业将继续加大在新疆的多领域投入和支持力度。 国务院国资委党委书记、主任 张玉卓：央企去年在新疆固定资产投资是2700亿，还有1700亿合同额的项目承包，就是工程建设。要通过产业援疆，来带动当地群众就业。 国务院国资委负责人介绍，2024—2026年，中央企业拟在疆投资项目133个、涉及金额近7000亿元。在新兴产业领域，突出新科技、新赛道、新市场，打造前瞻性战略性新兴产业“孵化器”，塑造新质生产力。为新疆当地群众创造更多劳动就业机会，2024—2026年预计实现在疆新增招聘员工3.2万人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8002802.d.html</link>
+            <guid>3525532</guid>
+            <pubDate>Tue, 12 Mar 2024 01:36:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金银河等成立数智绿能科技公司 含电池销售业务】 企查查APP显示，近日，福勒尔数智绿能（广东）科技有限公司成立，注册资本3000万元，经营范围包含：机械设备销售；机械设备研发；电池销售；电池零配件销售等。企查查股权穿透显示，该公司由金银河全资子公司佛山市金奥宇智联科技有限公司等共同持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtr4778917.d.html</link>
+            <guid>3525531</guid>
+            <pubDate>Tue, 12 Mar 2024 01:36:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[固态电池概念延续涨势，英联股份一字涨停，天赐材料、道明光学涨超6%，鹏辉能源、翔丰华涨超4%。]]></title>
+            <guid>3525530</guid>
+            <pubDate>Tue, 12 Mar 2024 01:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股光伏板块回调，信义光能跌超4%，协鑫科技跌超2%，新特能源跌近2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3021048.d.html</link>
+            <guid>3525529</guid>
+            <pubDate>Tue, 12 Mar 2024 01:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中药概念异动拉升 长药控股、佐力药业20cm涨停】 中药概念异动拉升，长药控股、佐力药业20cm涨停，佛慈制药、龙津药业双双涨停，粤万年青、方盛制药、大理药业等快速跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3020957.d.html</link>
+            <guid>3525528</guid>
+            <pubDate>Tue, 12 Mar 2024 01:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门：2月份我国自然灾害形势复杂严峻，低温雨雪冰冻灾害影响范围广】据应急管理部网站3月12日消息，近日，国家防灾减灾救灾委员会办公室会同各有关成员单位，对2024年2月全国自然灾害情况进行了会商核定。2月份，我国自然灾害形势复杂严峻，低温雨雪冰冻灾害影响范围广、损失重，干旱、风雹、沙尘暴、地震、地质灾害和森林火灾等也有不同程度发生。各种自然灾害共造成652万人次不同程度受灾，因灾死亡19人，紧急转移安置7.7万人次，需紧急生活救助42万人次；倒塌房屋1700间，损坏房屋1.4万间；农作物受灾面积639千公顷；直接经济损失176.9亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8001871.d.html</link>
+            <guid>3525527</guid>
+            <pubDate>Tue, 12 Mar 2024 01:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【锂电池板块延续涨势 海科新源20CM2连板】锂电池板块延续涨势，海科新源、天际股份、英联股份2连板，领湃科技、信德新材、天赐材料、科达利等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3020666.d.html</link>
+            <guid>3525526</guid>
+            <pubDate>Tue, 12 Mar 2024 01:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小米集团(01810.HK)涨超2%，小米SU 7发布会定档3月28日。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3020527.d.html</link>
+            <guid>3525525</guid>
+            <pubDate>Tue, 12 Mar 2024 01:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股汽车股走高，蔚来汽车涨3.5%，小鹏汽车涨3%，比亚迪股份涨1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0800872.d.html</link>
+            <guid>3525524</guid>
+            <pubDate>Tue, 12 Mar 2024 01:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国债期货开盘全线下跌】 国债期货开盘全线下跌，30年期主力合约跌0.58%，10年期主力合约跌0.22%，5年期主力合约跌0.14%，2年期主力合约跌0.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0800773.d.html</link>
+            <guid>3525523</guid>
+            <pubDate>Tue, 12 Mar 2024 01:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[宁波建工涨停走出2连板，2天累计涨幅达21.08%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8000961.d.html</link>
+            <guid>3525522</guid>
+            <pubDate>Tue, 12 Mar 2024 01:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰交通事故调查委员会：正在协助智利当局调查LATAM航班LA800上的事件。正在收集与调查相关的证据，包括扣押驾驶舱语音记录器和飞行数据记录器。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8000794.d.html</link>
+            <guid>3525521</guid>
+            <pubDate>Tue, 12 Mar 2024 01:29:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【光伏概念持续活跃 安彩高科6连板】 光伏概念持续活跃，安彩高科6连板，明牌珠宝涨停，清源股份、耀皮玻璃、川润股份、远程股份等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3019354.d.html</link>
+            <guid>3525520</guid>
+            <pubDate>Tue, 12 Mar 2024 01:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海探索推进生物制品分段生产试点、国际邮轮药品靠港补给政策】 3月12日，上海市药品监督管理局下发《关于对标改革持续打造药品监管领域一流营商环境的若干措施》，上海将探索推进生物制品分段生产试点，探索国际邮轮药品、医疗器械补给政策等。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp8000452.d.html</link>
+            <guid>3525519</guid>
+            <pubDate>Tue, 12 Mar 2024 01:28:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首尔大学医学院教授或集体辞职韩国保健福祉部称将与医生对话】 当地时间12日，韩国保健福祉部长官曹圭鸿在主持召开“应对医生集体行动中央灾难安全对策本部会议”时称，政府对首尔大学医学院教授可能集体辞职一事表示忧虑。曹圭鸿说，政府将尽全力维持紧急诊疗体系，并与医生进行对话，倾听教授们的意见。曹圭鸿还通报称，截至11日，韩国保健福祉部已向5556名离岗的实习和住院医生发送了吊销医师执照等行政处分事前通知书，并表示“政府追究错误行为相应责任的原则没有改变”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0799772.d.html</link>
+            <guid>3525518</guid>
+            <pubDate>Tue, 12 Mar 2024 01:28:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中药概念盘初活跃，佛慈制药、新天药业涨停，佐力药业涨超15%，粤万年青、太极集团、盘龙药业等跟涨。]]></title>
+            <guid>3525517</guid>
+            <pubDate>Tue, 12 Mar 2024 01:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本10年期国债收益率升至0.775%，为去年12月以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3019072.d.html</link>
+            <guid>3525516</guid>
+            <pubDate>Tue, 12 Mar 2024 01:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一日售罄！ 嘉实中国电建清洁能源REIT提前结募】随着市场行情回暖，REIT板块也迎来了久违的“日光”。今日，嘉实中国电建清洁能源封闭式基础设施证券投资基金（简称“嘉实中国电建清洁能源REIT”）发布提前结束募集相关公告。公告称，3月11日，公众投资者认购踊跃，嘉实中国电建清洁能源REIT被全部认购完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3019003.d.html</link>
+            <guid>3525515</guid>
+            <pubDate>Tue, 12 Mar 2024 01:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金山云连续第二日大涨，获小摩上调评级至“超配”】继昨日收涨近19%后，金山云(3896.HK)今早再度高开14.63%报1.88港元，股价创今年1月初以来新高。隔夜美股市场金山云收涨28.62%报3.46美元，折算成港股市场价格为1.77港元/股。摩根大通证券分析师Allen Li将金山云的评级由中性升至超配，预计该公司息税折旧摊销前利润盈亏平衡将好于预期，给予H股目标价2.20港元。另外，公司即将于3月20日公布业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0799431.d.html</link>
+            <guid>3525514</guid>
+            <pubDate>Tue, 12 Mar 2024 01:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2024英伟达GPU技术大会即将揭幕 光模块等AI算力细分领域蓄势待发】2024年英伟达GPU技术大会（NVIDIAGTC）将于当地时间3月18日至21日在美国圣何塞举办。创始人兼首席执行官黄仁勋将亲自登台，发布加速计算、生成式AI以及机器人领域的最新突破性成果，有望看到公司在架构、硬件和产品端重量级升级突破。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0799154.d.html</link>
+            <guid>3525513</guid>
+            <pubDate>Tue, 12 Mar 2024 01:25:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三大股指开盘涨跌不一，沪指跌0.01％，深成指涨0.23％，创业板涨0.32％。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3018304.d.html</link>
+            <guid>3525512</guid>
+            <pubDate>Tue, 12 Mar 2024 01:25:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行今日进行100亿元7天期逆回购操作】央行今日进行100亿元7天期逆回购操作，中标利率为1.80%，与此前持平。因今日有100亿元7天期逆回购到期，当日实现零投放零回笼。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0798026.d.html</link>
+            <guid>3525511</guid>
+            <pubDate>Tue, 12 Mar 2024 01:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股停牌提示：6股今日停牌】Wind数据显示，3月12日，甘肃能源、ST鸿达、ST贵人等6只个股停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0797472.d.html</link>
+            <guid>3525510</guid>
+            <pubDate>Tue, 12 Mar 2024 01:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股恒指高开涨0.69％，国企指数涨0.78％，科指开涨1.25%。科网股普涨，哔哩哔哩涨约5%，京东涨约4%，蔚来汽车涨约2%，小米集团涨约1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3016775.d.html</link>
+            <guid>3525509</guid>
+            <pubDate>Tue, 12 Mar 2024 01:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【七八百元的集采心脏支架敢用吗？国家医保局回应】 据国家医保局网站，七八百元的集采心脏支架敢用吗？国家医保局回应，药监部门监督检查结果显示，集采中选支架质量安全状况良好。药监部门将所有中选产品列入监管重点，按照“四个最严”要求开展全周期、全覆盖监管，做到企业监督检查、产品抽检、不良事件监测“三个全覆盖”，监督检查结果显示，集采中选支架质量安全状况良好，医生和患者可放心使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp7997145.d.html</link>
+            <guid>3525508</guid>
+            <pubDate>Tue, 12 Mar 2024 01:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人民币兑美元中间价报7.0963，上调6点；上一交易日中间价7.0969，上一交易日官方收盘价7.1840，上日夜盘报收7.1809。]]></title>
+            <guid>3525507</guid>
+            <pubDate>Tue, 12 Mar 2024 01:16:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总统普京重新任命俄国防部副部长库兹缅科夫为俄国民卫队副司令】当地时间3月11日，俄罗斯总统普京签署命令，将国防部副部长阿列克谢·库兹缅科夫重新任命为俄罗斯国民卫队副司令并继续负责后勤问题。库兹缅科夫于2023年4月由俄罗斯国民卫队副司令转任国防部副部长，负责俄军在特别军事行动地区后勤体系的建设工作。（央视新闻）]]></title>
+            <guid>3525506</guid>
+            <pubDate>Tue, 12 Mar 2024 01:15:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【梦网科技：国际业务目前重点投入的是印尼市场 下一步是越南、非洲的肯尼亚和尼日利亚】 就“国际业务下一步去哪延伸？”的问题，梦网科技3月11日在机构调研时表示，目前印尼市场肯定是重点投入的，下一步是越南、非洲的肯尼亚和尼日利亚。因为我们主要是服务中国企业出海，中国企业去哪个国家多，我们就去哪儿。我们也考虑当地的法律法规和当地政策，所以除了东南亚，欧洲和南美也是我们会重点审视的市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3015238.d.html</link>
+            <guid>3525505</guid>
+            <pubDate>Tue, 12 Mar 2024 01:15:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【委内瑞拉执政党宣布推举现总统马杜罗为总统大选候选人】当地时间3月11日，委内瑞拉执政党统一社会主义党在其官网上发布消息称，该党第一副主席迪奥斯达多·卡韦略表示，全党超过420万名基层党员一致同意向全党大会发出请求，推举现任总统尼古拉斯·马杜罗为总统大选候选人。（央视新闻）]]></title>
+            <guid>3525504</guid>
+            <pubDate>Tue, 12 Mar 2024 01:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5只股票型ETF份额增加超1亿份，华泰柏瑞中证光伏产业ETF增加2.28亿份】据Choice数据统计，昨日共5只股票型ETF当日份额增加超1亿份，华泰柏瑞中证光伏产业ETF增加2.28亿份，嘉实沪深300ETF增加1.7亿份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3015086.d.html</link>
+            <guid>3525503</guid>
+            <pubDate>Tue, 12 Mar 2024 01:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信建投：黄金价格创新高，投资和首饰需求延续】 中信建投研报指出，美国降息预期带动黄金价格上涨突破2100美元/盎司，一方面，综合考虑多个类别资产收益和风险情况，消费者对于黄金投资产品需求增加，另一方面，消费者对于黄金珠宝产品需求仍将延续，春节期间黄金珠宝销售情况再度验证。黄金珠宝龙头企业渠道扩张速度仍然维持，公司治理改革有望继续激发经营活力。]]></title>
+            <guid>3525502</guid>
+            <pubDate>Tue, 12 Mar 2024 01:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年以来巴西已有391人死于登革热】 据央视新闻，根据巴西卫生部当地时间11日发布的数据，今年以来截至3月11日，巴西各州已登记了391例登革热死亡病例，另有854例死亡案例正在调查是否由登革热引起。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3014967.d.html</link>
+            <guid>3525501</guid>
+            <pubDate>Tue, 12 Mar 2024 01:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧美车企放弃电动车？曾毓群：他们从未停止相关业务】针对部分欧美车企削减或推迟电动汽车计划的事宜，宁德时代董事长曾毓群表示，欧美车企没有回归燃油车，也没有停止（电动汽车业务），可能是因为不赚钱，所以往后延迟一阵。在回答欧美车企是否会重启电动汽车业务的问题时，曾毓群强调称，他们从来就没停止过相关业务。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3014885.d.html</link>
+            <guid>3525500</guid>
+            <pubDate>Tue, 12 Mar 2024 01:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[集运指数（欧线）主力合约短线走高，日内跌幅收窄至2.98%，现报1804.9点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp7995571.d.html</link>
+            <guid>3525499</guid>
+            <pubDate>Tue, 12 Mar 2024 01:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国银行两大高管据悉涨薪超过10%】 据界面新闻援引彭博消息，美国银行披露对两大高层领导加薪幅度超过10%，而一个月前首席执行官Brian Moynihan的2023年总薪酬被降至2900万美元。据悉，首席财务官Alastair Borthwick的去年总薪酬增长14%，达到1200万美元。全球市场部门主管Jim DeMare去年总薪酬增长11%，至2100万美元。Jim DeMare的薪酬仅次于Brian Moynihan。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp7995384.d.html</link>
+            <guid>3525498</guid>
+            <pubDate>Tue, 12 Mar 2024 01:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【辛拉面日版比韩版“料更足”？“出口内销品质差异”引韩网民热议】 近日，一篇帖子比较了韩国本土辛拉面与出口日本产品的用料和价格，在韩国网络持续引发热议，原因是在日本卖的小型杯装辛拉面明显比内销的产品汤料更足。  辛拉面公司相关人士解释称，根据日本市场条件和食品规定，日版辛拉面的食材构成有所不同，不能单纯从价格上将其与韩国内销产品进行比较。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3013712.d.html</link>
+            <guid>3525497</guid>
+            <pubDate>Tue, 12 Mar 2024 01:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【越南据悉向中国游客免签】 据悉，越南外交部和公安部已联合提议进一步扩大单方面免签国家名单，中国与印度或在名单之列。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0794158.d.html</link>
+            <guid>3525496</guid>
+            <pubDate>Tue, 12 Mar 2024 01:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚洲第一深水导管架“海基二号”建造完工 工程刷新多项亚洲纪录】从中国海油获悉，我国自主设计建造的亚洲第一深水导管架——“海基二号”在珠海建造完工，工程刷新了结构高度、重量、作业水深、建造速度等多项亚洲纪录，标志着我国深水超大型导管架平台自主设计建造能力达到世界先进水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp7995110.d.html</link>
+            <guid>3525495</guid>
+            <pubDate>Tue, 12 Mar 2024 01:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第14次中国欧盟防务部门安全政策对话在京举行】 3月11日，第14次中国—欧盟防务部门安全政策对话在北京举行，中央军委国际军事合作办公室与欧盟对外行动署和平、安全与防务总司领导共同主持对话。双方就中欧关系、中国与欧盟防务合作以及国际和地区形势等共同关心的问题交换意见。（国防部发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp7994845.d.html</link>
+            <guid>3525494</guid>
+            <pubDate>Tue, 12 Mar 2024 01:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本10年期国债收益率上涨1.5个基点，至0.775%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0793121.d.html</link>
+            <guid>3525493</guid>
+            <pubDate>Tue, 12 Mar 2024 01:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日元兑英镑汇率升至一个月高位，报188.01。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0792537.d.html</link>
+            <guid>3525492</guid>
+            <pubDate>Tue, 12 Mar 2024 01:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长江资管换帅 年内已有5家券商资管变更高管】3月已有2家券商资管“换帅”。继万联资管之后，长江资管也发布了董事长变更公告。公告称，前任董事长高占军因工作调整已于3月10日离任，同时原总经理杨忠升任董事长，并代任总经理一职。从履历看，杨忠历任广东移动汕头分公司市场部市场分析岗，长江证券机构客户部销售经理岗，华泰联合证券销售交易部以及长江证券机构客户部、研究所机构客户部、资产托管部等。另外，银河金汇、华泰资管、国泰君安资管同在2月28日出现高管变更。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3011854.d.html</link>
+            <guid>3525491</guid>
+            <pubDate>Tue, 12 Mar 2024 01:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【预付式消费维权难？中消协呼吁加快完善该领域相关立法】中国消费者协会今天（12日）发布《2023年预付式消费领域消费者权益保护报告》指出，2023年我国预付式消费领域消费者权益保护在立法保护、行政保护、司法保护、社会保护等方面取得了新进展。《报告》认为，预付款项具有付款在先、消费在后的特点，消费者权利的实现有赖于经营者的信用及经营情况，具有较高的不确定性或风险性，亟须吸纳各地成功经验，从国家层面加强消费者权益保护。《报告》提出四点建议：一是完善预付式消费相关立法，细化各环节规定，强化经营者举证责任；二是强化预付式消费行政监管，推动联合整治，实施信用约束和惩戒；三是加大预付式消费司法救济力度，减轻消费者举证责任，建立消费纠纷诉调对接工作机制；四是重视发挥消协组织作用，汇聚社会各方力量，促进预付式消费社会共治。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3011815.d.html</link>
+            <guid>3525490</guid>
+            <pubDate>Tue, 12 Mar 2024 01:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[焦煤主力合约直线拉涨，日内涨超2%，现报1726.5元/吨；焦炭主力合约持续走高，日内涨超1%，现报2275.5元/吨。]]></title>
+            <guid>3525489</guid>
+            <pubDate>Tue, 12 Mar 2024 01:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾1月份出口同比增长9.1%，进口同比下降7.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3011187.d.html</link>
+            <guid>3525488</guid>
+            <pubDate>Tue, 12 Mar 2024 01:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雷军官宣：小米汽车3月28日正式发布】 雷军发微博称：“3月28日，小米SU7正式发布，这是我们的三年之约。”小米汽车官方微博称，上市即交付，交付即上量。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3011006.d.html</link>
+            <guid>3525487</guid>
+            <pubDate>Tue, 12 Mar 2024 01:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[碳酸锂主力合约涨超3%，现报118750元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0791635.d.html</link>
+            <guid>3525486</guid>
+            <pubDate>Tue, 12 Mar 2024 01:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[台湾加权指数开盘跌45.68点，跌幅0.23%，报19680.4点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtp7992867.d.html</link>
+            <guid>3525485</guid>
+            <pubDate>Tue, 12 Mar 2024 01:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海黄金交易所黄金T+D 3月12日（周二）早盘盘初下跌0.1%报506.8元/克；上海黄金交易所白银T+D 3月12日（周二）早盘盘初上涨0.15%报6164.0元/千克。]]></title>
+            <guid>3525484</guid>
+            <pubDate>Tue, 12 Mar 2024 01:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时中国A50指数期货在上一交易日夜盘收涨0.34%的基础上低开，现涨0.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtu3010636.d.html</link>
+            <guid>3525483</guid>
+            <pubDate>Tue, 12 Mar 2024 01:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国内商品期市开盘涨跌互现，沪镍涨超2%，菜粕、白糖涨超1%。跌幅方面，铁矿石跌超2%。]]></title>
+            <guid>3525482</guid>
+            <pubDate>Tue, 12 Mar 2024 01:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI首次正式回击：马斯克的起诉“令人费解” 可能借机窃取技术】美东时间周一，OpenAI在提交给旧金山法院的法庭文件中，猛烈抨击了埃隆·马斯克对它的指控，并表示，马斯克的指控建立在令人费解的事实前提之上，往往是语无伦次的。这是马斯克对OpenAI发起诉讼之后，这家初创公司做出的首次司法回应。该公司还提醒法院称，马斯克可能会利用这起诉讼获得OpenAI的“专有记录和技术”，因此需要对信息共享程序“谨慎监管”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtr4768158.d.html</link>
+            <guid>3525481</guid>
+            <pubDate>Tue, 12 Mar 2024 00:57:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【委内瑞拉执政党宣布推举现总统马杜罗为总统大选候选人】当地时间3月11日，委内瑞拉执政党统一社会主义党在其官网上发布消息称，该党第一副主席迪奥斯达多·卡韦略表示，全党超过420万名基层党员一致同意向全党大会发出请求，推举现任总统尼古拉斯·马杜罗为总统大选候选人。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzmtv0790214.d.html</link>
@@ -200,463 +597,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3128919.d.html</link>
             <guid>3525448</guid>
             <pubDate>Tue, 12 Mar 2024 00:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达称其NeMo人工智能平台符合版权法规定】英伟达的一名发言人周一在一份声明中表示：“我们尊重所有内容创作者的权利，并相信我们在创建NeMo时完全遵守了版权法。”此前，三位作家起诉英伟达，称该芯片制造商未经许可使用了他们的一些书籍来训练NeMo模型。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0909397.d.html</link>
-            <guid>3525447</guid>
-            <pubDate>Tue, 12 Mar 2024 00:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家险资赴万科总部进行新一轮磋商，商谈希望不要提前行权】3月8日前后，多家险资派出高管到深圳万科总部进行新一轮磋商。磋商方案包括将万科债务偿付期限延长至少一年、追加增信担保和抵押品，以及发行债券将“非标转标”等。截至3月10日，万科与险资的谈判仍在进行中。和外界传闻有出入的是，万科此轮商谈的重点并非对债务进行“展期”，而是希望几家险资不要提前行权，继续履行合同直至贷款到期。（经济观察网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8110287.d.html</link>
-            <guid>3525446</guid>
-            <pubDate>Tue, 12 Mar 2024 00:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：2024年电子行业复苏基调明确，H2伴随去库结束叠加AI需求释放或迎来加速成长】中信证券研报指出，结合第三方机构及电子产业链厂商展望，我们认为2024年电子行业复苏基调明确，2024H1仍然处于复苏阶段，H2伴随去库结束叠加AI需求释放或迎来加速成长。分不同下游来看，手机&PC&服务器市场有望实现温和复苏，AI渗透将加速；TWS耳机、智能手表等IoT品类出货量有望实现双位数成长，ARVR市场有望在苹果产品带动下重拾成长，中长期看好MR迭代以及后续AI手机和AR的配套；汽车市场仍有阶段去库压力，然中长期电动化、智能化趋势不改。]]></title>
-            <guid>3525445</guid>
-            <pubDate>Tue, 12 Mar 2024 00:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【价值投资大佬达摩达兰：我在180美元抄底特斯拉】全球最知名的估值专家之一、纽约大学金融学教授阿斯沃斯·达摩达兰（Aswath Damodaran）周一在一次视频访谈中透露，他最近以大约180美元的价格购买了特斯拉股票。这一消息引发了投资者热议，Reddit网站上的用户纷纷分享他们对特斯拉当前价格是否值得买入的看法。一位用户回忆了达摩达兰之前的行为，指出他曾在特斯拉破产风险很高的时候买入这只股票，但在牛市开始时，当毛利率达到正值时，他就早早卖出了。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0908825.d.html</link>
-            <guid>3525444</guid>
-            <pubDate>Tue, 12 Mar 2024 00:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：维持对白酒行业保持配置的观点】中信证券研报指出，2024年春糖酒会预计将在展会面积、展商数量及参会人次上同比均有所提升。同时，2024年春糖酒会有望更注重消费者教育与文化属性，为厂商及经销商提供更全面的服务，持续赋能白酒行业发展。我们延续对白酒行业保持配置的观点，建议短期积极关注经济预期变化、批价走势，动态增配具备有效运营终端、释放较好动销动作的酒企。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0908592.d.html</link>
-            <guid>3525443</guid>
-            <pubDate>Tue, 12 Mar 2024 00:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：预计钢铁、电解铝和水泥行业年内将纳入碳交易，电力市场改革也有望加速推进】中信证券研报指出，时隔两年政府工作报告再度设置单位GDP能耗目标，“十四五”规划中单位GDP能源消耗降低13.5%的目标已基本难以实现，或不会形成硬性约束，预计“碳冲锋”不会再度出现，但对高耗能高污染领域会有更严苛的措施。短期看，采矿业+建筑业占比下降、提升清洁能源占比、推动传统产业和高耗能产业提高用能效率或为今年减少能耗的三大抓手。长效机制方面，碳市场行业扩容和新型能源体系建设也有望在年内加速，预计钢铁、电解铝和水泥行业将在年内纳入碳交易，电力市场改革也有望加速推进。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0908381.d.html</link>
-            <guid>3525442</guid>
-            <pubDate>Tue, 12 Mar 2024 00:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Telegram用户达9亿，创始人考虑IPO】加密即时通讯应用Telegram的所有者帕韦尔·杜罗夫（Pavel Durov）表示，这款app拥有9亿用户，已接近盈利，并有可能上市。帕韦尔·杜罗夫表示，Telegram在两年前推出广告和付费订阅服务后，已实现“数亿美元”营收。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0907992.d.html</link>
-            <guid>3525441</guid>
-            <pubDate>Tue, 12 Mar 2024 00:06:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳芯微推出基于创新型振铃抑制专利的车规级CAN SIC: NCA1462-Q1】据纳芯微官微消息，纳芯微宣布推出基于其自研创新型振铃抑制专利的车规级CAN SIC（信号改善功能，Signal Improvement Capability）NCA1462-Q1。相比当前主流的CAN FD车载通信方案，NCA1462-Q1在满足ISO 11898-2:2016标准的前提下，进一步兼容CiA 601-4标准，可实现≥8Mbps的传输速率。凭借纳芯微专利的振铃抑制功能，即使在星型网络多节点连接的情况下，NCA1462-Q1仍具有良好的信号质量；此外，超高的EMC表现，更加灵活、低至1.8V的VIO可有效助力工程师简化系统设计、并打造更高质量的车载通信系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0907730.d.html</link>
-            <guid>3525440</guid>
-            <pubDate>Tue, 12 Mar 2024 00:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金公司：“以价换量”模式会推动算力芯片市场规模再创新高】中金公司研报指出，近期，OpenAI正式发布文生视频大模型Sora。未来Sora及类似大模型的迭代会持续推动计算量的扩张，算力需求“奇点”可能到来。但因当下单位算力成本依然较高，大模型构建者也在考虑一系列算法优化来节约计算量。新时代下算力需求规模增长毋庸置疑，但同时降本也是客户的呼吁。相信“以价换量”模式会推动算力芯片市场规模再创新高，并支撑人类寻找到“世界模型”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3126902.d.html</link>
-            <guid>3525439</guid>
-            <pubDate>Tue, 12 Mar 2024 00:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆维吾尔自治区高级人民法院原党组成员、副院长蒋新华接受审查调查】据新疆维吾尔自治区纪委监委消息：新疆维吾尔自治区高级人民法院原党组成员、副院长蒋新华涉嫌严重违纪违法，目前正接受新疆维吾尔自治区纪委监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3126437.d.html</link>
-            <guid>3525438</guid>
-            <pubDate>Tue, 12 Mar 2024 00:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日韩股市开盘】日经225指数开盘下跌0.9%，报38470.39点；日本东证指数开盘下跌1%。韩国首尔综指开盘上涨0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmt4884217.d.html</link>
-            <guid>3525437</guid>
-            <pubDate>Tue, 12 Mar 2024 00:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【MicroStrategy比特币持仓超20万枚，创始人称要持有100年】MicroStrategy创始人兼董事长迈克尔·塞勒在一次采访中表示：“我们购买它是为了持有100年。（比特币）从66000美元到16000美元的暴跌，震动了那些不信仰的人。当它跌倒16000美元时，我们已准备好跌倒零。”随着比特币价格反弹，MicroStrategy股价过去一年上涨了650%。截至3月10日，该公司持有约20.5万枚比特币。塞勒表示，他希望将MicroStrategy重新定位为“比特币开发公司”，利用软件业务的运营现金流来购买更多的比特币。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3125273.d.html</link>
-            <guid>3525436</guid>
-            <pubDate>Mon, 11 Mar 2024 23:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【预计年产达20亿立方米 四川盆地又一千亿方大气田全面建成投产】四川盆地又一千亿方大气田——川西气田全面建成并投产，气田预计年产天然气高达20亿立方米，为我国西南地区以及川气东送沿线提供更多清洁能源支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3124951.d.html</link>
-            <guid>3525435</guid>
-            <pubDate>Mon, 11 Mar 2024 23:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消纳瓶颈或将打开，国内光伏需求具备较大弹性】中信建投研报指出，从国际经验来看，随着新能源逐步参与电力市场，由于市场因素造成的经济弃电将有所增加，《关于加快推进电力现货市场建设工作的通知》明确，对因报价原因未中标的电量不纳入新能源弃电量考量。2023年国内光伏平均消纳率98%，目前政策将95%作为消纳红线。我们测算国内光伏消纳率如果分别降至97%、95%、92%、90%、85%，对应光伏装机增量空间分别为22.78、58.59、111.63、143.42、247.95GW，具体需求弹性需要看上述空间对应几年增量。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0905444.d.html</link>
-            <guid>3525434</guid>
-            <pubDate>Mon, 11 Mar 2024 23:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华医疗检测中心通过CNAS现场复评审及扩项评审】3月8日—10日，中国合格评定国家认可委员会（CNAS）委派一行6人专家组，对山东新华医疗器械股份有限公司检测中心进行了实验室复评审和扩项评审。本次检测中心新增化学、微生物和电气领域的检测能力，并在电磁兼容检测领域增加了项目参数，涉及医疗器械及制药装备等26个检测对象的180个项目参数，合计39份标准方法。专家组一致同意通过现场复评审和扩项评审，这标志着检测中心的管理水平、硬件设施和检测能力等方面得到了高度认可，所出具结果可获CNAS签署互认协议的100多个国际认可机构的互认。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3124717.d.html</link>
-            <guid>3525433</guid>
-            <pubDate>Mon, 11 Mar 2024 23:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信建投：黄金价格创新高，投资和首饰需求延续】中信建投研报指出，美国降息预期带动黄金价格上涨突破2100美元/盎司，一方面，综合考虑多个类别资产收益和风险情况，消费者对于黄金投资产品需求增加，另一方面，消费者对于黄金珠宝产品需求仍将延续，春节期间黄金珠宝销售情况再度验证。黄金珠宝龙头企业渠道扩张速度仍然维持，公司治理改革有望继续激发经营活力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8106543.d.html</link>
-            <guid>3525432</guid>
-            <pubDate>Mon, 11 Mar 2024 23:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本第一季度BSI大型制造业信心指数 -6.7，前值5.7。日本第一季度BSI大型非制造业信心指数 3.2，前值4.4。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3124281.d.html</link>
-            <guid>3525431</guid>
-            <pubDate>Mon, 11 Mar 2024 23:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本2月国内企业商品物价指数月率 0.2%，预期0.10%，前值0.00%。日本2月国内企业商品物价指数年率 0.6%，预期0.50%，前值0.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0904823.d.html</link>
-            <guid>3525430</guid>
-            <pubDate>Mon, 11 Mar 2024 23:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛澳大利亚总裁Frydenberg：澳洲联储可能已经加息至利率峰值。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3123759.d.html</link>
-            <guid>3525429</guid>
-            <pubDate>Mon, 11 Mar 2024 23:47:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY一周隐含波动率上升至11.64%，为1月5日以来最高水平。]]></title>
-            <guid>3525428</guid>
-            <pubDate>Mon, 11 Mar 2024 23:47:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国泰君安：AI拉动算力需求，先进封装有望加速渗透与成长】国泰君安研报表示，据测算，预计2021-2025年中国先进封装设备市场规模CAGR为24.1%，2025年有望达到285.4亿元。AI有望驱动半导体规模再上新台阶，HPC也将推动先进封装加速渗透，封测设备厂商有望充分受益。封测设备的投资可分为以传统封装为代表的存量板块和先进封装拉动的增量板块。对半导体设备行业维持增持评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3122849.d.html</link>
-            <guid>3525426</guid>
-            <pubDate>Mon, 11 Mar 2024 23:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度再给中国手机厂商提苛刻要求 宣称缓解冲突要做好“三件事”】环球时报援引多家印度媒体11日报道称，vivo、OPPO等中国智能手机品牌需要做“好”三件事，以缓解与印度政府长期存在的“冲突”。报道称，印度政府首先希望看到的是中国智能手机企业聘用印度人出任当地分公司的管理层。据称，小米（印度）已经聘请了印度籍经理，但OPPO、vivo还没有相关的动作。不过，报道援引业内高管的话说，“（尽管小米更换了外籍经理，）发号施令的仍然是中国管理层”。其次，印度经销商要在本地销售环节中占据更重要位置。印度《经济时报》报道称，从4月起，vivo将撤销在新德里、旁遮普邦、哈里亚纳邦的中方代理商，并设立印度经销商。第三则是中国企业要与本地公司共同生产智能手机。报道提到，OPPO、vivo、小米等正在或商讨与迪克森、卡邦等本土电子产品制造商合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3122582.d.html</link>
-            <guid>3525425</guid>
-            <pubDate>Mon, 11 Mar 2024 23:41:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LG Energy Solution发布声明称，公司有意与高通合作，以开发高级电池管理系统。双方将共同探索开发融合了LG电池诊断软件和高通产品的系统，以帮助延长电池寿命。]]></title>
-            <guid>3525424</guid>
-            <pubDate>Mon, 11 Mar 2024 23:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称突袭多个哈马斯据点 巴卫生部门称以军空袭致多人死伤】以色列国防军当地时间3月11日称，过去24小时，以军在巴勒斯坦加沙地带多地继续展开军事行动。在加沙地带中部，以军与巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员近距离交火，并空袭哈马斯目标。在加沙地带南部，以军突袭了多个哈马斯目标，逮捕多名哈马斯武装人员。此外，以色列海军在加沙地带北部行动中打击了一艘巴勒斯坦武装人员的船只。巴勒斯坦卫生部门11日称，以军当天对加沙城一所房屋发动空袭，造成16人死亡，并有多人受伤。此外，以军当天还对南部城市汗尤尼斯发动空袭，造成2名巴勒斯坦人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmt4880517.d.html</link>
-            <guid>3525423</guid>
-            <pubDate>Mon, 11 Mar 2024 23:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超级看涨英伟达的ETF吸金规模与成交量双创纪录 被视为散户情绪指标】人工智能多头越来越青睐一只两倍做多英伟达的ETF，推动该基金的成交量和资金流入双双创下历史纪录。随着英伟达周一延续上周五的跌势，继上周获得2.52亿美元创纪录资金净流入之后，两倍做多英伟达的GraniteShares 2x Long NVDA Daily ETF(代码NVDL)周一成交量达到历史次高水平。该基金为投资者提供的回报两倍于正股单日回报，自2022年底推出以来规模已增至14亿美元。JonesTrading的ETF主管Dave Lutz称，鉴于该ETF的成交量规模，NVDL的活动是散户情绪和活动的关键指标。同时，根据Markit Securities，空头头寸占该基金发行在外规模的比例较低，仅为1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8103195.d.html</link>
-            <guid>3525422</guid>
-            <pubDate>Mon, 11 Mar 2024 23:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日财经日历大事件提醒】
-
-经济数据关注：
-07:50 日本2月生产者价格指数同比
-15:00 德国2月CPI月率终值
-15:00 英国1月三个月ILO失业率
-15:00 英国2月失业率
-15:00 英国2月失业金申请人数
-18:00 美国2月NFIB小型企业信心指数
-20:30 美国2月未季调CPI年率
-20:30 美国2月季调后CPI月率
-20:30 美国2月未季调核心CPI年率
-20:30 美国2月核心CPI月率
-
-全球央行和政府动态关注：
-19:00 英国央行官员Mann讲话
-13日00:15 英国央行行长贝利讲话]]></title>
-            <guid>3525421</guid>
-            <pubDate>Mon, 11 Mar 2024 23:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【隔夜外围市场综述】
-
-一、美国股市：大盘小幅下挫，标普500指数显露过热迹象。投资者等待从CPI数据中寻找降息线索。标普500指数下跌0.1%，报5117.94点；道指上涨0.1%，报38769.66点；纳指下跌0.4%，报16019.27点。
-
-中概股：金龙中国指数两连涨，上涨2.1%，京东和百度对指数涨幅贡献最大。
-
-二、美国债市：国债承压下跌，3年期国债标售表现良好。2月份CPI发布前期货和期权交投不活跃。2年期国债收益率上涨6.25个基点，报4.5360%；5年期国债收益率上涨4.18个基点，报4.0884%；10年期国债收益率上涨2.33个基点，报4.0982%。
-
-三、欧洲股市：欧洲股市下挫。斯托克欧洲600指数下跌0.4%，报501.49点；英国富时100指数上涨0.1%，报7,669.23点；法国CAC 40指数下跌0.1%，报8,019.73点；德国DAX指数下跌0.4%，报17,746.27点。
-
-四、大宗商品
-
-①原油：原油微跌，交易员们观望本周将公布的通胀数据，以及主要石油市场月度报告。WTI原油期货下跌0.1%，报77.93美元/桶；ICE布伦特原油期货上涨0.2%，报82.21美元/桶。
-
-②基本金属：基本金属多数走高。LME期铜上涨0.9%，报8,653.00美元/吨；LME期铝上涨0.8%，报2,259.00美元/吨；LME期锌上涨1.6%，报2,567.00美元/吨；LME期镍上涨2.0%，报18,377.00美元/吨。
-
-③贵金属：黄金微涨，交易员关注美国CPI以寻找有关美联储降息线索。COMEX期金上涨0.1%，报2,188.60美元/盎司；COMEX期银上涨0.7%，报24.7150美元/盎司。]]></title>
-            <guid>3525420</guid>
-            <pubDate>Mon, 11 Mar 2024 23:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃克森美孚法国炼油厂火灾据悉已得到控制】据界面新闻援引路透消息，当地政府表示，埃克森美孚位于法国北部的杰罗姆·格雷文钦港炼油厂周一早些时候发生的火灾已得到控制。滨海塞纳省在一份声明中说，火灾始于当地时间下午3:30左右的一个汽油蒸馏装置，并产生了浓烟。由于该公司自己的消防员已经控制了火势，因此没有必要派遣外部消防队前往现场。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8102500.d.html</link>
-            <guid>3525419</guid>
-            <pubDate>Mon, 11 Mar 2024 23:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普称Facebook是“人民公敌”】特朗普周一在一次采访中说：“没有TikTok，你会让Facebook变得更强大，我认为Facebook是人民公敌。”特朗普说：“TikTok上有很多人喜欢它。TikTok上有很多年轻人，没有它他们会发疯。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8102253.d.html</link>
-            <guid>3525418</guid>
-            <pubDate>Mon, 11 Mar 2024 23:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西中阳一煤矿溃仓5人遇难2人失联】记者从山西省中阳县委宣传部了解到，昨天22时45分，山西省中阳县桃园鑫隆煤业有限公司井下煤仓发生溃仓事故，7人被埋。截至今天7时，共搜救发现5名矿工，经现场医务人员确认，均无生命体征。失联2人，正在紧张搜救当中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3119304.d.html</link>
-            <guid>3525417</guid>
-            <pubDate>Mon, 11 Mar 2024 23:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通CEO：美联储应等到下半年再降息】摩根大通CEO杰米·戴蒙周二表示，美国经济表现良好，但不能完全排除陷入衰退的可能性，并认为目前美国股市存在一些泡沫。戴蒙还敦促美联储等到6月份以后再降息，因为美联储需要增强其抗通胀的信誉。他说：“我认为他们必须依赖于数据。如果我是他们，我会等待。”“你总是可以迅速而戏剧性地削减它。他们的信誉在这里有点岌岌可危。我甚至会等到6月以后，让事情自己解决。”（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0899539.d.html</link>
-            <guid>3525416</guid>
-            <pubDate>Mon, 11 Mar 2024 23:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本央行行长植田和男计划在北京时间今日上午9:56开始在议会露面。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0898506.d.html</link>
-            <guid>3525413</guid>
-            <pubDate>Mon, 11 Mar 2024 23:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY短线下挫逾10点，现报146.78。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3117538.d.html</link>
-            <guid>3525412</guid>
-            <pubDate>Mon, 11 Mar 2024 23:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：如果劳动组织联合会的工资数据强劲，日本央行或将结束负利率政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0898057.d.html</link>
-            <guid>3525411</guid>
-            <pubDate>Mon, 11 Mar 2024 23:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首批中证A50交易型开放式指数基金今天上市】今天，首批聚焦A股核心资产的中证A50交易型开放式指数基金（ETF）正式在沪深交易所上市。首批上市的中证A50交易型开放式指数基金，共计2只，在上海、深圳证券交易所各上市1只。中证A50交易型开放式指数基金（ETF）追踪中证A50指数，这是一个聚焦各行业龙头上市公司的指数。具体来看，中证A50指数，主要选取A股市值最大的50只证券作为指数样本，同时对样本公司的所属行业有所要求，以反映A股核心上市公司证券的整体表现，便利投资者“一键配置”各行业最具代表性的优质龙头企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3116820.d.html</link>
-            <guid>3525410</guid>
-            <pubDate>Mon, 11 Mar 2024 23:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚S&P/ASX200指数3月12日（周二）开盘上涨8.10点，涨幅0.11%，报7712.30点。]]></title>
-            <guid>3525409</guid>
-            <pubDate>Mon, 11 Mar 2024 23:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
-1、第十四届全国人民代表大会第二次会议关于2023年国民经济和社会发展计划执行情况与2024年国民经济和社会发展计划的决议；
-2、广集民智推动高质量发展——2024年国办和国务院部门工作人员旁听全国两会工作回眸；
-3、采访中国全国两会的外国记者——“中国经济拥有光明前景”（两会·读懂中国）；
-4、中国绿色技术助力全球能源转型（国际论坛）；
-5、“从中国式现代化发展成果中汲取宝贵经验”（外国政党政要和友好人士看中国式现代化）；
-6、中企助力所罗门群岛提升基建水平（共创繁荣发展新时代）；
-7、为高质量发展提供强劲推动力（评论员观察）——因地制宜发展新质生产力①；
-8、锻造强大的金融人才队伍（新论）；
-9、多地积极促进制造业高质量发展 创新引领，推进传统产业升级（经济聚焦·完善现代化产业体系）；
-10、江苏扬州培育高端装备等重点产业集群 构建产业生态 助推成果涌现；
-11、2月CPI同比上涨0.7% 环比涨幅扩大；
-12、市场监管部门规范直销企业经营 62家企业作出自律承诺；
-13、西部陆海新通道铁路干线开始集中维修；
-14、欧洲旅游业持续复苏（国际视点）地区国家看好中国出境游市场潜力；
-15、国际能源署报告显示——清洁能源技术广泛应用加速碳减排；
-16、日本上调去年第四季度经济增速；
-17、中国品牌亮相利雅得通信科技与信息技术展 展示技术方案 共促创新合作；
-18、商业航天从初创期转入快速发展时期 为加快发展新质生产力注入新动能（科技视点·走近新质生产力②）；
-19、大力推进颠覆性技术创新（创新谈）；
-20、中国经济回升向好提振全球增长信心（权威论坛）——中外专家共话中国经济机遇与前景。]]></title>
-            <guid>3525408</guid>
-            <pubDate>Mon, 11 Mar 2024 23:11:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今天《人民日报》头版的主要内容有：
-1、十四届全国人大二次会议在京闭幕 批准政府工作报告、全国人大常委会工作报告等 通过新修订的国务院组织法 习近平签署主席令予以公布 习近平李强王沪宁蔡奇丁薛祥李希韩正等在主席台就座 赵乐际主持并讲话；
-2、《习近平著作选读》第一卷、第二卷英文版出版发行；
-3、为推进中国式现代化注入强大动力——习近平总书记同出席2024年全国两会人大代表、政协委员共商国是纪实；
-4、在第十四届全国人民代表大会第二次会议上的讲话（2024年3月11日）；
-5、凝心聚力，推进强国建设、民族复兴伟业（社论）——热烈祝贺十四届全国人大二次会议胜利闭幕。]]></title>
-            <guid>3525407</guid>
-            <pubDate>Mon, 11 Mar 2024 23:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场监管部门规范直销企业经营62家企业作出自律承诺】国家市场监督管理总局价格监督检查和反不正当竞争局日前主办直销企业履行社会责任3·15圆桌座谈。会上，62家直销企业签署承诺书，向全社会作出“规范经营、促进放心消费”自律承诺。座谈中，直销企业代表宣读了《直销企业规范经营自律承诺书》，郑重承诺：遵守法律法规，抵制挂靠经营，杜绝传销欺诈，强化内部管理，加强风险管控，积极维护消费者合法权益，遵守商业道德。直销企业一致表示，坚决杜绝和抵制传销、挂靠等违法行为，加强内部管理和风险管控，妥善处理消费纠纷，在实现自身规范有序发展的同时，继续履行社会责任，在就业创业、促进消费和吸引外资等方面发挥积极作用。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3114208.d.html</link>
-            <guid>3525406</guid>
-            <pubDate>Mon, 11 Mar 2024 23:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刷新多项亚洲纪录 亚洲第一深水导管架“海基二号”将安装】据中国海油消息，今天（12日）上午，我国自主设计建造的亚洲第一深水导管架——“海基二号”将在广东珠海高栏港装船，运往珠江口盆地进行海上安装。“海基二号”的建造，不仅刷新了结构高度、重量、作业水深、建造速度等多项亚洲纪录，还标志着我国深水超大型导管架平台自主设计建造能力已达到世界领先水平，对保障我国能源安全，实现高水平海洋科技自立自强具有重要意义。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8097088.d.html</link>
-            <guid>3525404</guid>
-            <pubDate>Mon, 11 Mar 2024 23:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上市公司密集披露2023年度分红计划，与投资者共享经营发展成果】A股上市公司年报进入密集披露期，多家公司随之公布了2023年分红预案，其中多数公司选择以现金分红的方式回馈投资者。同花顺iFinD数据显示，截至3月11日，有60家上市公司公布了经董事会审核通过的2023年度分红预案或者分红提议。部分上市公司表示，审核通过相关分红预案，是基于对公司长远发展信心、财务状况良好、股东利益回报等因素的综合考虑，推动全体股东共享公司经营发展成果。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0893062.d.html</link>
-            <guid>3525403</guid>
-            <pubDate>Mon, 11 Mar 2024 23:01:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古尔曼：新款iPadPro/Air将在3月底或4月发布】 知名科技记者马克·古尔曼表示，苹果公司计划在“3月底或4月左右”发布全新iPadPro和iPadAir机型。他同时预计，适用于相关iPad的全新妙控键盘和ApplePencil也将同时推出。此外，古尔曼还提到苹果公司将在届时为系列iPad附带iPadOS17.4更新，而系列产品也有一定可能“通过新闻稿形式推出”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmt4872359.d.html</link>
-            <guid>3525402</guid>
-            <pubDate>Mon, 11 Mar 2024 23:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超级看涨英伟达的ETF吸金规模和成交量双创纪录 被视为散户情绪指标】人工智能多头越来越青睐一只两倍做多英伟达的交易所交易基金(ETF)，推动该基金的成交量和资金流入双双创下历史纪录。随着英伟达周一延续上周五的跌势，继上周获得2.52亿美元创纪录资金净流入之后，两倍做多英伟达的GraniteShares 2x Long NVDA Daily ETF(代码NVDL)周一成交量达到历史次高水平。该基金为投资者提供的回报两倍于正股单日回报，自2022年底推出以来规模已增至14亿美元。上周五英伟达股价下跌近6%时，该基金成交量创纪录，成交额超过20亿美元。当天，投资者向该基金净投入1.02亿美元，可能是在押注这只半导体股短线反转。 NVDL年迄今回报率为156%，2024年在美国ETF中涨幅排名第二，仅次于另一只英伟达ETF。两倍做多英伟达的T-Rex 2X Long NVIDIA Daily Target ETF(代码NVDX)规模为2.69亿美元，年迄今上涨约179%，是美国今年表现最佳的ETF。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmt4871967.d.html</link>
-            <guid>3525401</guid>
-            <pubDate>Mon, 11 Mar 2024 22:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“辞职潮”超20天！韩国向4944名拒绝复工医生发吊销执照通知】韩国实习、住院医生“辞职潮”已持续超过20天。据韩联社等媒体11日报道，政府已向近5000名拒绝复工的医生发送吊销执照通知，并决定从当天起向20家医院派遣20名军医官、138名公共卫生医师，以解燃眉之急。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmt4871361.d.html</link>
-            <guid>3525400</guid>
-            <pubDate>Mon, 11 Mar 2024 22:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【聚焦主业、创新技术、重视回报，月内54家公司发“提质增效重回报”行动方案】据记者梳理，截至3月11日晚间发稿，月内A股已有54家上市公司发布“提质增效重回报”行动方案，聚焦主业、创新技术、重视回报成为行动方案的关键词。中关村物联网产业联盟副秘书长、专精特新企业高质量发展促进工程执行主任袁帅对记者表示，发布“提质增效重回报”行动方案，是上市公司积极履行社会责任，回馈投资者的重要表现。同时有助于提振二级市场投资者信心，促进市场健康发展。上述54家上市公司涉及医药、通信、煤炭等多个领域。其发布“提质增效重回报”行动方案，旨在通过提高公司的质量和效益，实现对投资者的丰厚回报，同时提升公司的整体竞争力和市场地位。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0891774.d.html</link>
-            <guid>3525399</guid>
-            <pubDate>Mon, 11 Mar 2024 22:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列国防军称对黎巴嫩两个军事据点进行空袭】以色列国防军当地时间12日凌晨发布声明称，不久前以军出动战机对黎巴嫩真主党武装位于贝卡谷地（Beqaa Valley）的两个军事据点展开空袭。这些据点隶属于真主党武装的“空中力量”，曾策划和发动了针对以色列的各种袭击。以军表示，此次空袭是为报复黎巴嫩真主党武装最近几天对戈兰高地发起的飞行器袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0891479.d.html</link>
-            <guid>3525397</guid>
-            <pubDate>Mon, 11 Mar 2024 22:53:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基金公司春招进行时，金融科技类人才被“急招”】步入春季，各用人单位招聘正酣。从基金公司的招聘公告来看，多家公司正在积极寻找和储备具有专业技能和前瞻性视野的人才，特别是在投研和科技方向上，需要更多具有编程、数据分析、人工智能等技能的科技人才。他们能够帮助公司提升信息系统的稳定性和安全性，同时开发新的金融科技产品，提高公司的服务质量和竞争力。此外，在人才的“抢夺”上，易方达基金等公司已经率先发布了今年暑期实习生的招聘公告。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3110804.d.html</link>
-            <guid>3525396</guid>
-            <pubDate>Mon, 11 Mar 2024 22:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴克莱：美债近期涨势过头，建议卖出10年期美国国债】 巴克莱认为，投资者应考虑卖出10年期美债，全球最大经济体表现韧性，使得美债近期涨势看起来有些过头。Anshul Pradhan和Amrut Nashikkar等策略师在报告中写道，鉴于美国经济数据最近几周被证明强于预期，收益率下降“有些奇怪”。“数据表明美国经济仍具有韧性，劳动力市场带来了稳固的实际收入增长，同时目前正在实现再平衡，”策略师写道。“过去几周的涨势似乎有些过头，我们建议做空10年期美国国债。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3110728.d.html</link>
-            <guid>3525395</guid>
-            <pubDate>Mon, 11 Mar 2024 22:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国安理会发表声明 对海地局势“深表关切”】当地时间3月11日，联合国安理会发表声明，对海地局势“深表关切”。 声明表示，3月6日，联合国秘书长海地事务特别代表兼联合国海地综合办事处主任萨尔瓦多向安理会成员通报了海地局势。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8094395.d.html</link>
-            <guid>3525394</guid>
-            <pubDate>Mon, 11 Mar 2024 22:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【资管机构缩短跨境产品申赎周期，进一步提升投资者资金周转效率】3月11日，资管机构缩短跨境产品申购赎回时间的信息引发市场关注。记者发现，华夏基金（香港）宣布将旗下全球最大离岸沪深300ETF——华夏沪深300指数ETF的申购周期由T+2提升至T+1。有受访人士认为，缩短跨境产品申赎周期，一方面能够快速将投资变现，降低资金占用的成本，另一方面能够提升跨境投资的体验，使投资者可以在有紧急资金需求时更快获得满足。此外，能够提升投资者资金的流动性和使用效率，在境外市场发生波动时，更快捷地调整自己的投资组合，灵活应对市场波动。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0891335.d.html</link>
-            <guid>3525393</guid>
-            <pubDate>Mon, 11 Mar 2024 22:52:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【红利主题基金持续“上新”，机构乐观评价赛道拥挤度】2024年以来，具有高股息、低估值特点的红利主题基金，因较为出色的收益表现吸引了越来越多投资者的目光，公募基金管理人持续发力布局红利策略产品。截至3月11日，年内已有15只（不同份额分开计算，下同）红利主题基金成立，另有近10家机构旗下相关产品正在或等待发行。随着红利主题产品不断“上新”，相关赛道是否过于“拥挤”引发投资者关切。对此，受访业内人士认为，目前红利赛道还谈不上“拥挤”，红利策略产品仍值得关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8094163.d.html</link>
-            <guid>3525392</guid>
-            <pubDate>Mon, 11 Mar 2024 22:51:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同比增23.5% 深圳港今年前两月吞吐量达483万标箱】 港口是国民经济发展的“晴雨表”。今年以来，深圳港迎来海运出货高峰，据深圳市交通运输局统计，今年前两个月，深圳港集装箱吞吐量达483万标箱，同比增长23.5%。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3110425.d.html</link>
-            <guid>3525391</guid>
-            <pubDate>Mon, 11 Mar 2024 22:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄称占据更有利战线 乌称打击俄指挥所】俄罗斯国防部11日通报称，过去一天，俄军在多个方向占据更有利战线和阵地，击退乌军多次反攻，摧毁乌军包括美制“艾布拉姆斯”坦克等武器装备和弹药库、燃料库及无人机控制点，打击乌军人员和军事装备集结地以及外国雇佣兵临时部署点。乌克兰武装部队总参谋部同一天发布战报称，在过去24小时内，前线地区发生54次战斗，乌军对俄多个人员及军事装备集中区、指挥所实施了打击，摧毁1套山毛榉-M1防空导弹系统和1个雷达系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8094129.d.html</link>
-            <guid>3525390</guid>
-            <pubDate>Mon, 11 Mar 2024 22:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【从跟随到引领，中国企业争锋下一代新型显示技术】目前，中国LED显示产业正在迎来跨越式发展，尤其是以Mini-LED（次毫米发光二极管）和Micro-LED（微米发光二极管）技术为代表的新一代显示技术，已成为中国新质生产力的典型代表。不同于过往数十年在LCD（液晶显示）和OLED（有机发光二极管）显示技术方面的“跟随者”角色，中国企业正在Mini/Micro-LED技术上引领行业先河。“中国在Mini/Micro-LED显示技术上开发时间与海外同步，还有着最为完整的产业链和最丰富的应用场景，我们完全有能力在这一领域复制类似新能源汽车和光伏等行业领先全球的成功路径。”一位LED产业链人士说。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0891013.d.html</link>
-            <guid>3525389</guid>
-            <pubDate>Mon, 11 Mar 2024 22:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辨析民营经济促进法：“促进”并非倾斜，保障公平是核心】2024年，民营经济促进法立法进程提速。2月21日，司法部、国家发展改革委、全国人大常委会法工委共同组织召开民营经济促进法立法座谈会，会上司法部表示，该法起草工作已经启动，立法进程将加快推进。今年两会期间，民营经济立法成为焦点议题。3月8日，全国人大常委会工作报告提出，今年将制定民营经济促进法。支持民营经济发展是党中央的一贯方针。二十大以来，民营经济更是成为被高度热议的词汇，一系列保障和促进举措陆续出台，为民营经济的健康发展提供政策保障。当下民营经济的法治建设现状如何？与其他经济类法律相比，民营经济促进法在立法模式、目标和理念上有何不同？如何保障各项法律法规长久高效落地？业内人士普遍认为，此时出台民营经济促进法，有利于稳定预期、提振信心，巩固民营经济发展成果，进一步激发民营企业活力，使民营经济法治建设再上台阶。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3110321.d.html</link>
-            <guid>3525388</guid>
-            <pubDate>Mon, 11 Mar 2024 22:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【券商研报聚焦新质生产力，人形机器人、生物医药等领域受青睐】3月以来，新质生产力贯穿两会时间，也成为券商分析师关注焦点。记者注意到，近期不少券商推出关于新质生产力的系列研究报告，挖掘投资机遇。券商分析师普遍认为，从中长期来看，新质生产力对标国内经济结构转型方向，因此新质生产力相关产业景气度或持续向上。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0890957.d.html</link>
-            <guid>3525387</guid>
-            <pubDate>Mon, 11 Mar 2024 22:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【养老险公司回归主业，个人短期理财基本清空】回归专注养老主业的养老保险公司，持续压降个人短期理财业务，目前已基本完成。据悉，养老险公司2023年继续压降“个人养老保障管理产品业务”（以下简称“个养业务”）规模逾2300亿元。继长江养老在2022年完成压降后，平安养老、泰康养老、大家养老均在2023年完成压降。相较2020年高峰时万亿元以上规模，养老险公司个养业务到2023年年底仅剩约60亿元。证券时报记者从业界获悉，个养业务早已不是养老险公司重点业务，未压降完毕的主要是有个别笔的存款等业务到期才能退出，今年以来该业务规模已进一步压缩。目前，养老险公司已将重心放到长期、养老特征明显的业务中。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3110293.d.html</link>
-            <guid>3525386</guid>
-            <pubDate>Mon, 11 Mar 2024 22:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海地安全局势持续恶化 民众生活物资短缺】连日来，海地武装团伙引发接连不断的暴力事件，使海地安全局势持续恶化。据总台驻海地报道员在太子港的观察，受持续的暴力事件影响，该国公共机构、教育机构、商业活动、机场和港口服务几乎完全瘫痪，医院也无法正常运转，当地居民面临生活基本物资和药品短缺，稀缺物资价格上涨的情况。在首都太子港，饮用水严重短缺，水罐车无法进入被武装团伙封锁的街区为民众送水，人们不得不四处寻找免费供应的饮用水，或在售水点排长队购买，而饮用水已从原来的每5加仑100古德涨到了150古德。太子港的各大加油站也面临燃料短缺，部分加油站仍保持关闭。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3110246.d.html</link>
-            <guid>3525385</guid>
-            <pubDate>Mon, 11 Mar 2024 22:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年我国完成造林5997万亩】 今天（3月12日）是我国第46个植树节，全国绿化委员会办公室公布的《中国国土绿化状况公报》显示，2023年，我国统筹推进山水林田湖草沙一体化保护和系统治理，全力推动国土绿化取得新成果。公报显示，2023年，我国完成造林5997万亩，种草改良6568.5万亩，治理沙化石漠化土地2857.5万亩。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3110011.d.html</link>
-            <guid>3525384</guid>
-            <pubDate>Mon, 11 Mar 2024 22:46:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：TikTok CEO周受资将造访美国国会。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmt4869969.d.html</link>
-            <guid>3525383</guid>
-            <pubDate>Mon, 11 Mar 2024 22:45:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织再为加沙地带北部两医院提供援助】 当地时间11日，世界卫生组织总干事谭德塞在社交媒体发文称，世卫组织的工作人员及其伙伴当天抵达了加沙北部的希法医院，为其提供了24050升燃料，为医院里42000名病患提供了食物和医疗物资，包括麻醉药物、外固定支架等手术材料以及各类药物。该医院目前仍在勉力运行，急需专业的医护工作人员。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3109802.d.html</link>
-            <guid>3525382</guid>
-            <pubDate>Mon, 11 Mar 2024 22:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳洲联储Hunter表示，四季度数据大体上符合预期。最近的通胀数据与预测一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3109658.d.html</link>
-            <guid>3525381</guid>
-            <pubDate>Mon, 11 Mar 2024 22:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【离岸人民币涨穿7.18元 创将近六周新高】离岸人民币（CNH）兑美元北京时间04:59报7.1799元，较上周五纽约尾盘涨201点，盘中整体交投于7.2014-7.1794元区间，逼近1月31日顶部7.1728元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmx0890114.d.html</link>
-            <guid>3525380</guid>
-            <pubDate>Mon, 11 Mar 2024 22:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高位回调，机构警示日本股市风险】近日，日本股市出现调整迹象。据Wind数据，截至当地时间3月11日收盘，日经225指数跌2.19%；在截至3月11日的近5个交易日内，日经225指数有4个交易日收盘下跌。券商人士称，近一年来，日本股市涨势强劲，近期更是创出历史新高。不过，在目前投资情绪高涨背景下，更要注意日本股市存在的风险，预计其未来波动将加剧。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8093089.d.html</link>
-            <guid>3525379</guid>
-            <pubDate>Mon, 11 Mar 2024 22:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【集中度不断提升，车市进入最“卷”一年】3月11日，中汽协发布2月汽车工业产销数据，汽车产销分别完成150.6万辆和158.4万辆，环比分别下降37.5%和35.1%。其中，新能源汽车产销分别完成46.4万辆和47.7万辆，环比分别下降41.1%和34.6%。专家表示，2月受春节假期影响，汽车市场销量整体走低，但是仍处于正常情况。汽车行业集中度大幅提升，竞争愈发激烈，其中新能源乘用车15万元-20万元价格带竞争更加激烈。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3109217.d.html</link>
-            <guid>3525378</guid>
-            <pubDate>Mon, 11 Mar 2024 22:39:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【政策发力市场复苏，邮轮经济加快发展】3月10日，大连国际邮轮码头迎来复航后首艘大型国际邮轮“翠德丹”号。近一段时期，无论是国产首艘大型邮轮“爱达·魔都号”完成首航，还是此次国际邮轮抵达大连，邮轮旅游越发受到关注。业内人士表示，邮轮旅游加快复苏，有力推动了邮轮产业自身发展，也带动了相关产业链协同发展。这标志着一个涵盖广阔且蕴含巨大发展潜力的市场正在重启并加快发展，将在国内优化产业结构、提升国际邮轮市场竞争地位、促进经济社会整体发展中发挥积极作用。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmr8093024.d.html</link>
-            <guid>3525377</guid>
-            <pubDate>Mon, 11 Mar 2024 22:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每吨突破万元关口，丁二烯价格年内大涨30%】每吨突破万元关口。今年以来，国内丁二烯市场行情跳涨，尤其是春节后，丁二烯价格在外盘利好及生产企业价格多次调高影响下，已突破万元大关，年初至今涨幅超30%。分析人士表示，丁二烯这一价格变动可能与近期全球经济活动加快有关。此外，市场对橡胶需求的预期也在上升，这可能是推动价格上涨的重要因素。预计短期内国内丁二烯市场行情以高位整理为主。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3109169.d.html</link>
-            <guid>3525376</guid>
-            <pubDate>Mon, 11 Mar 2024 22:38:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上市公司密集发布回购方案】3月以来，A股共有400多家上市公司发布回购相关公告。业内人士表示，作为一种资本运作方式，回购有助于提升公司的每股收益和市场价值，同时也能优化公司资本结构。通过回购，公司可向市场传递出积极信号，表明管理层认为公司股票被低估，同时也有助于提升股东持股信心和公司市场形象。浙江大学国际联合商学院数字经济与金融创新研究中心联席主任、研究员盘和林表示，上市公司通过回购既可以提振投资人信心，释放上市公司经营向好的积极信号，还可以通过回购支撑股价，未来或将有更多上市公司参与到回购中来。 (中证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-12/detail-inamzfmw3109124.d.html</link>
-            <guid>3525375</guid>
-            <pubDate>Mon, 11 Mar 2024 22:37:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

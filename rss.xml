@@ -4,11 +4,123 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 23 Mar 2024 01:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 02:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【财跃星辰发布国内首个千亿参数多模态金融大模型】国内首个千亿参数多模态金融大模型——“财跃F1金融大模型”今日在2024全球开发者先锋大会上正式发布。这款由上海财跃星辰智能科技有限公司研发的金融大模型，基于万亿级金融语料预训练，具备强大的通用图像处理和图表理解能力，相比GPT-4等通用大模型在金融知识理解方面更为突出。（科创板日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyw7464216.d.html</link>
+            <guid>3543420</guid>
+            <pubDate>Sat, 23 Mar 2024 02:15:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阶跃星辰发布Step-2万亿参数MoE语言大模型预览版】在今日上海开幕的2024 全球开发者先锋大会上，通用大模型创业公司阶跃星辰正式对外亮相。阶跃星辰研发的Step-1V 千亿参数多模态大模型，在中国权威的大型模型评估平台“司南”（OpenCompass）多模态模型评测榜单中位列第一，性能比肩 GPT-4V。阶跃星辰创始人、CEO姜大昕博士在大会上正式对外发布了Step-2万亿参数MoE语言大模型预览版。模型采用 MoE 架构，聚焦深度智能的探索，并提供API接口给部分合作伙伴试用。据了解，参数量从千亿到万亿，对算力、系统、数据、算法四个方面都提出了极高的要求，业内只有极少数公司能做到。训练万亿参数模型体现了阶跃星辰的核心技术能力，也表明阶跃星辰在通用人工智能领域追赶OpenAI的实力和决心。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyy4240192.d.html</link>
+            <guid>3543419</guid>
+            <pubDate>Sat, 23 Mar 2024 02:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部王江平：我国软件产业规模已超12万亿元】在2024全球开发者先锋大会上，工信部副部长王江平表示，近年来，我国软件产业始终保持高速增长，2023年底产业规模超过12万亿元，有力支持了经济社会数字化的转型。他表示，一是要努力繁荣开源生态，持续完善开源的顶层设计，发挥全国性开源基金会的作用；二是打造优质的软件产品；三是深化行业应用，不断地完善配套政策，开放高端场景和数据资源，支持千行百业利用软件加快数字化转型；四是要深入开展国际合作，充分利用国内外开源组织的平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyu5383300.d.html</link>
+            <guid>3543418</guid>
+            <pubDate>Sat, 23 Mar 2024 02:13:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【开放原子开源基金会人工智能社区启动】在2024全球开发者先锋大会上，开放原子开源基金会、上海市人工智能行业协会、华为、腾讯、百度、阿里云魔搭社区、国家工信安全中心、电子标准院、工信部电子五所等单位代表共同启动开放原子开源基金会人工智能开源社区。（科创板日报）]]></title>
+            <guid>3543417</guid>
+            <pubDate>Sat, 23 Mar 2024 02:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海“大模型应用生态共同体”正式成立 】在今天开幕的2024全球开发者先锋大会上，上海“大模型应用生态共同体”官宣成立。共同体由大模型、算力、数据、芯片、工具链等企业和机构组成，成员包括上海临港集团、上海数据集团、上海报业集团、上海仪电集团、上海移动、上海联通、上海电信、上海人工智能实验室、上海市人工智能行业协会等。上海临港集团董事长袁国华、上海市经信委总工程师葛东波、徐汇区副区长俞林伟、上海数据集团党董事长吴建雄、上海报业集团副社长丁波等出席启动仪式。（科创板日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyw7463236.d.html</link>
+            <guid>3543416</guid>
+            <pubDate>Sat, 23 Mar 2024 02:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西部矿业集团公司与中国地质科学院签署战略合作协议】 据西部矿业集团消息，3月22日，集团公司与中国地质科学院签署战略合作协议并举行座谈，双方围绕开展新一轮找矿突破战略行动，共同提高支撑服务国家战略资源保障能力，进一步强化矿产资源巩固提升，推进尾矿库循环利用，推动公司可持续高质量发展等深入交流。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyv3162492.d.html</link>
+            <guid>3543415</guid>
+            <pubDate>Sat, 23 Mar 2024 02:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港警国安处：将全力执法维护国安】因应《维护国家安全条例》于今日（23日）正式刊宪生效，香港特区政府警务处国家安全处表示，将会继续全力执行相关法例，职责包括： 1，收集分析涉及国家安全的情报信息； 2，部署、协调、推进维护国家安全的措施和行动； 3，调查危害国家安全犯罪案件； 4，进行反干预调查和开展国家安全审查； 5，承办香港特别行政区维护国家安全委员会交办的维护国家安全工作； 6，执行香港国安法及《维护国家安全条例》所需的其他职责。 香港警务处国家安全处会继续肩负起维护国家安全，保障香港繁荣稳定的重要使命，贯彻落实执行香港国安法与《维护国家安全条例》，有法必依，执法必严，违法必究，确保国家安全免受威胁，让市民安居乐业。（大湾区之声）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyv3162287.d.html</link>
+            <guid>3543414</guid>
+            <pubDate>Sat, 23 Mar 2024 02:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内最大绿电制氢加氢一体站亮相长沙】近日，位于湖南长沙的三一绿电制氢加氢一体站建成，进入试运行阶段。这一站点采取“光伏发电+绿电制氢”模式，分为制氢区、增压储存区、加氢区。据三一集团介绍，这是国内最大的绿电制氢加氢一体站，每日制氢加氢量达到2吨，可满足100辆以上氢能商用车加注需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyw7462262.d.html</link>
+            <guid>3543413</guid>
+            <pubDate>Sat, 23 Mar 2024 02:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫官员：不认为国务院此前发布的警告指的就是莫斯科郊外音乐厅遭袭】根据美国白宫网站发布的记者会实录，俄罗斯22日恐怖袭击发生后，美国白宫国家安全委员会战略沟通协调员约翰·柯比被问及此事时表示，他不认为美国国务院此前发布的警告指的就是此次具体袭击。 据白宫网站，记者向柯比问道，鉴于美国大使馆事先发出了警告，美国是否事先知道莫斯科发生的这次袭击？柯比回答说，他对此没有更多信息。面对记者追问，他补充说，美国国务院会对这一问题做出回答，但他不认为美国国务院此前发布的警告指的就是此次具体袭击。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyv3160215.d.html</link>
+            <guid>3543412</guid>
+            <pubDate>Sat, 23 Mar 2024 02:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台湾高雄一工厂疑似发生锅炉爆炸 2人无生命迹象】据当地媒体报道，台湾高雄一家铝制工厂3月23日早晨8时23分左右传出火警，消防员入内检查后疑为锅炉爆炸。救出的8名员工中，2人失去生命迹象，6人不同程度轻重伤。据悉，事故疑似为工厂灌模作业期间发生控制系统异常，导致降温水量不足，铝水接触时发生爆炸。详细伤亡人数及爆炸原因仍待进一步厘清。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyu5379275.d.html</link>
+            <guid>3543411</guid>
+            <pubDate>Sat, 23 Mar 2024 02:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加沙居民：布林肯中东之行不会带来和平】美国国务卿布林肯在此次中东之行期间，称将“继续推动加沙地带停火”并与各方讨论“加沙地带战后治理问题”。然而，一些加沙民众表示，布林肯此行不会给加沙局势带来实质性进展，也不会带来和平。一位居民称：“作为一名巴勒斯坦人，我对布林肯这次中东之行不抱任何希望。”（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyu5379001.d.html</link>
+            <guid>3543410</guid>
+            <pubDate>Sat, 23 Mar 2024 01:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行管委称4月降息有可能】欧洲央行管理委员会委员Edward Scicluna表示，不能排除4月份降息的可能性。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyy4236817.d.html</link>
+            <guid>3543409</guid>
+            <pubDate>Sat, 23 Mar 2024 01:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储负责监管的副主席：大银行资本金改革计划料将作出重大调整】据彭博，美联储最高银行监管负责人表示，一项针对大银行的资本金计划可能会进行重大调整。美联储负责监管事务的副主席Michael Barr周五称，与经营风险、市场和信用风险相关的标准可能会有所调整。去年7月发布的资本金改革草案招致一些大型金融机构的激烈游说。Barr说，“我们预计将对该规则进行一系列广泛而重大的修改”，以便在美联储理事会和其他监管机构中达成共识。Barr表示，“我正在与主席鲍威尔和美联储理事会的其他成员密切合作，期望达成广泛共识”。（界面新闻）]]></title>
+            <guid>3543408</guid>
+            <pubDate>Sat, 23 Mar 2024 01:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中材科技（苏州）有限公司储氢气瓶为我国首列氢能源市域列车成功达速试跑增添绿色动能】 3月21日，由中车长客股份公司自主研制的我国首列氢能源市域列车在长春成功试运行，圆满到达每小时160公里满载运行速度。该氢能列车使用中材科技（苏州）有限公司（以下简称“苏州有限”）成都公司生产的储氢气瓶组。全套氢系统为自主设计，具有充放氢速度快、设计结构简单、更安全便捷等优点。首列氢能源市域列车的成功试跑，将引领市域交通绿色低碳发展新方向，带动氢能产业的良性循环和创新发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyu5376579.d.html</link>
+            <guid>3543407</guid>
+            <pubDate>Sat, 23 Mar 2024 01:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：哈马斯谴责莫斯科音乐厅恐袭事件】当地时间3月22日晚，莫斯科近郊一音乐厅发生枪击事件，已造成超过60人死亡、至少145人受伤。综合俄罗斯卫星通讯社、俄新社等媒体23日报道，巴勒斯坦伊斯兰抵抗运动（哈马斯）作出表态，谴责此次恐怖袭击事件。 哈马斯在社交平台上发文称，该组织强烈谴责这起针对平民的恐怖袭击行为。报道说，哈马斯还向俄罗斯领导层、民众和遇难者家属表示慰问，祝愿伤者早日康复。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyv3156726.d.html</link>
+            <guid>3543406</guid>
+            <pubDate>Sat, 23 Mar 2024 01:48:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯萨马拉州一炼油厂起火 目击者称听到爆炸声】据当地社交媒体消息，俄罗斯萨马拉州新古比雪夫斯克一座炼油厂3月23日凌晨起火燃烧，目击者称在现场听到了爆炸声。当地官方对此还没有发表评论。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyw7458356.d.html</link>
+            <guid>3543405</guid>
+            <pubDate>Sat, 23 Mar 2024 01:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安理会将就非常任理事国加沙决议草案投票】根据央视记者获得的消息，安理会或将在当地时间23日上午就非常任理事国提交的另一份关于加沙地带的决议草案进行投票。根据记者获得的“印蓝”版本，这一草案要求各方遵守斋月立即停火，从而实现永久可持续停火，要求立即无条件释放所有被扣押人员，要求扩大人道主义援助并加强对平民的保护，消除大规模提供人道主义援助的所有障碍。中国常驻联合国代表张军表示，这项草案在实现停火问题上“态度鲜明，符合安理会行动的正确方向，具有现实意义”。中方对此表示支持，并希望安理会成员就此达成一致，尽快发出立即停火止战的明确信号。巴勒斯坦常驻联合国观察员曼苏尔表示，阿拉伯国家也将对这一草案进行支持。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyv3155877.d.html</link>
+            <guid>3543404</guid>
+            <pubDate>Sat, 23 Mar 2024 01:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国中央司令部：对胡塞武装控制区域内的三个地下储存设施进行了自卫打击。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyy4234244.d.html</link>
+            <guid>3543403</guid>
+            <pubDate>Sat, 23 Mar 2024 01:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆克孜勒苏州阿合奇县发生4.2级地震 震源深度10千米】中国地震台网正式测定：3月23日9时41分，在新疆克孜勒苏州阿合奇县（北纬41.11度，东经78.39度）发生4.2级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyv3155424.d.html</link>
+            <guid>3543402</guid>
+            <pubDate>Sat, 23 Mar 2024 01:43:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国中央司令部表示，出于自卫摧毁也门胡塞武装控制区域内四架无人机。美国联军或商船未报告任何伤亡或损害。]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyu5373416.d.html</link>
@@ -42,6 +154,12 @@
             <title><![CDATA[【中国中车与广州市签订合作框架协议】 3月22日，中国中车总经理（总裁）马云双在中车总部会见了广州市市长孙志洋，双方就进一步深化合作进行座谈并达成共识。中国中车财务总监（总会计师）李铮，广州市副市长谭萍参加座谈并代表双方签订合作框架协议。]]></title>
             <guid>3543396</guid>
             <pubDate>Sat, 23 Mar 2024 01:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：莫斯科音乐厅厕所发现超10具尸体，死亡人数已增至70】据天下事：俄罗斯电报频道SHOT报道，初步统计，俄罗斯莫斯科近郊音乐厅恐怖袭击造成的死亡人数已增至70人，在厕所、清洁设备间等人们躲避枪击的地方发现了许多尸体。 报道称，许多人只是因吸入烟雾窒息而死，身上没有受伤。 据俄罗斯报纸网报道，音乐厅的一座厕所内发现10多具尸体。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inaphiyy4229404.d.html</link>
+            <guid>3543395</guid>
+            <pubDate>Sat, 23 Mar 2024 01:18:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【俄媒：白宫官员称拜登没有就莫斯科近郊音乐厅恐袭事件与普京通话计划】据俄新社报道，白宫国家安全委员会发言人在回答记者提问时，否认拜登有就莫斯科近郊音乐厅恐袭事件与普京通话的计划。（环球网）]]></title>
@@ -484,121 +602,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxky5602352.d.html</link>
             <guid>3543318</guid>
             <pubDate>Fri, 22 Mar 2024 21:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普500指数的11个板块多数收跌】周五（3月22日），标普房地产板块收跌1.24%，金融板块跌1.21%，可选消费板块跌0.63%，能源板块跌0.2%，信息技术/科技板块则涨0.45%，电信服务板块涨0.85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxme4465040.d.html</link>
-            <guid>3543317</guid>
-            <pubDate>Fri, 22 Mar 2024 21:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证券交易委员会（SEC）敦促美国最高法院无视马斯克的“推特保姆”上诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxky5601930.d.html</link>
-            <guid>3543316</guid>
-            <pubDate>Fri, 22 Mar 2024 21:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰官员称乌方与俄罗斯莫斯科近郊音乐厅枪击事件无关】当地时间3月22日，乌克兰总统办公室顾问波多利亚克和乌克兰国防部主要军事情报局官员切尔尼亚克先后表示，乌克兰与俄罗斯莫斯科近郊音乐厅枪击事件无关。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxky5601921.d.html</link>
-            <guid>3543315</guid>
-            <pubDate>Fri, 22 Mar 2024 21:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富时A50期指连续夜盘收跌0.15%，报12114.000点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxkz3382578.d.html</link>
-            <guid>3543314</guid>
-            <pubDate>Fri, 22 Mar 2024 21:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆克孜勒苏州阿合奇县发生4.1级地震】中国地震台网正式测定：03月23日05时03分在新疆克孜勒苏州阿合奇县（北纬41.16度，东经78.61度）发生4.1级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxky5601619.d.html</link>
-            <guid>3543313</guid>
-            <pubDate>Fri, 22 Mar 2024 21:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄联邦侦查委员会已就莫斯科近郊音乐厅恐袭事件立案调查】当地时间3月22日深夜，俄罗斯联邦侦查委员会侦查总局通过社交媒体账号宣布，已根据《俄罗斯联邦刑法典》中的“恐怖行为”相关条款对当晚发生的莫斯科近郊“克罗库斯城”音乐厅遭恐怖袭击事件进行立案调查。俄联邦侦查委员会中央办公室的调查和行动小组已前往事发现场。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxkz3382303.d.html</link>
-            <guid>3543312</guid>
-            <pubDate>Fri, 22 Mar 2024 21:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股行业ETF周五多数收跌】周五（3月22日），区域银行ETF收跌2.16%，银行业ETF跌超1.9%，金融业ETF跌超1.1%，可选消费ETF跌约0.9%，能源业ETF跌超0.2%，科技行业ETF和网络股指数ETF收涨不到0.1%，全球科技股指数ETF涨超0.2%，半导体ETF涨约0.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxkz3382021.d.html</link>
-            <guid>3543311</guid>
-            <pubDate>Fri, 22 Mar 2024 21:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：03月23日05时03分在新疆阿克苏地区乌什县附近（北纬41.09度，东经78.76度）发生4.3级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>3543310</guid>
-            <pubDate>Fri, 22 Mar 2024 21:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MorningStar DBRS确认法国AA（高）评级，前景展望趋势为稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxky5601045.d.html</link>
-            <guid>3543309</guid>
-            <pubDate>Fri, 22 Mar 2024 21:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：确认英国评级在AA-，调整评级展望至稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxme4463557.d.html</link>
-            <guid>3543308</guid>
-            <pubDate>Fri, 22 Mar 2024 21:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【3月22日美股成交额前20：传特斯拉在华减产】周五美股成交额第4名特斯拉收跌1.15%，成交126.94亿美元。据知情人士透露，特斯拉削减了其中国工厂的电动汽车产量，原因是新能源汽车销售增长乏力，而且汽车市场竞争激烈。知情人士说，这家美国汽车制造商本月早些时候指示其上海工厂的员工减少Model Y SUV和Model 3轿车的产量。该公司要求员工每周工作五天，而不是通常的六天半。生产线每天运行两个11.5小时的班次，保持不变。知情人士说，减产是从本月早些时候开始的，员工们还没有得到关于何时恢复正常生产的明确最新消息。https://cj.sina.cn/article/norm_detail?url=https://finance.sina.com.cn/stock/usstock/c/2024-03-23/doc-inapfxky5600990.shtml]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxky5601013.d.html</link>
-            <guid>3543307</guid>
-            <pubDate>Fri, 22 Mar 2024 21:03:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人工智能概念股周五多数收跌，SoundHound跌约8.1%，Astera本周涨超90%】Reddit收跌8.8%，本周（美国IPO以来头两个交易日）累涨35.29%；“英伟达概念股”SoundHound跌8.08%，本周累跌31.09%；Guardforce AI收跌超7.7%，Bullfrog AI跌约7.6%，BigBear.ai跌约3.4%，阿里巴巴ADR和Adobe跌2.3%，Ce.ai跌约2.0%，特斯拉和甲骨文跌约1.2%，CrowdStrike跌约0.6%；SAP ADR、英特尔、Meta则收涨将近0.3%，亚马逊和百度至少涨0.4%，达芬奇手术机器人ISRG涨超0.5%，Jet.ai涨超0.7%，谷歌A和Snap涨超2.1%，英伟达涨超3.1%，Astera涨9.12%，刷新收盘历史高位至70.00美元，本周（美国IPO以来头三个交易日）累计上涨94.44%。]]></title>
-            <guid>3543306</guid>
-            <pubDate>Fri, 22 Mar 2024 20:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证券交易委员会（SEC）称，和解针对Lordstown Motors原CEO Stephen Burns的诸多指控，后者将支付17.5万美元民事罚款。]]></title>
-            <guid>3543305</guid>
-            <pubDate>Fri, 22 Mar 2024 20:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情人士透露，云计算供应商Coreweave Inc.洽谈按160亿美元估值融资（那将较该公司现有估值超过翻倍）。]]></title>
-            <guid>3543304</guid>
-            <pubDate>Fri, 22 Mar 2024 20:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股“七姐妹”｜英伟达创历史新高本周累涨超7.3%，谷歌A本周涨约6.8%，亚马逊逼近2021年7月份所创历史最高位】英伟达（NVDA）收涨3.12%，报942.89美元，创收盘历史新高，本周累计上涨7.35%，周线上延续1月12日当周以来持续上行的趋势。谷歌母公司alphabet（GOOGL）收涨2.15%，报150.77美元，逼近投资者担忧其AI立场之前在1月29日所创收盘历史最高位153.51美元，本周累涨6.79%，延续上周涨4.26%的表现。]]></title>
-            <guid>3543303</guid>
-            <pubDate>Fri, 22 Mar 2024 20:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门首都萨那遭多次空袭】据中央广播电视总台报道员消息，当地时间3月22日，也门首都萨那遭遇多次空袭。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxma7685994.d.html</link>
-            <guid>3543302</guid>
-            <pubDate>Fri, 22 Mar 2024 20:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄军在别尔哥罗德州击落17个空中目标】根据俄罗斯别尔哥罗德州州长公布的信息，当地时间3月22日晚，俄军在别尔哥罗德州上空击落17个空中目标。事件没有造成人员伤亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxme4462232.d.html</link>
-            <guid>3543301</guid>
-            <pubDate>Fri, 22 Mar 2024 20:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[超微电脑SMCI：（高盛独家承销的）增发股（认购）金额17.3亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxkz3379878.d.html</link>
-            <guid>3543300</guid>
-            <pubDate>Fri, 22 Mar 2024 20:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热门中概股多数下跌 小鹏汽车跌超8%】热门中概股多数下跌，小鹏汽车跌超8%，唯品会跌近6%，腾讯音乐、理想汽车跌超3%，哔哩哔哩、阿里巴巴、京东、蔚来跌超2%，网易跌超1%，爱奇艺小幅下跌。拼多多、百度小幅上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxme4461490.d.html</link>
-            <guid>3543299</guid>
-            <pubDate>Fri, 22 Mar 2024 20:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股三大指数收盘涨跌不一 纳指续创收盘新高】美股三大指数收盘涨跌不一，纳指涨0.16%，续创收盘新高，本周累涨2.85%；道指跌0.77%，本周累涨1.96%；标普500指数跌0.14%，本周累涨2.29%。大型科技股多数上涨，英伟达涨超3%，再创历史收盘新高；谷歌涨超2%，亚马逊、Meta、奈飞、英特尔小幅上涨；特斯拉跌超1%，微软小幅下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-23/detail-inapfxkz3379370.d.html</link>
-            <guid>3543298</guid>
-            <pubDate>Fri, 22 Mar 2024 20:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>

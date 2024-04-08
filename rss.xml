@@ -4,15 +4,108 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 08 Apr 2024 16:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 17:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：阿塞拜疆从杰伊汉港出口的巴库—塔比兹原油5月份设定为1650万桶，而4月份为1655万桶。]]></title>
-            <guid>3567459</guid>
-            <pubDate>Mon, 08 Apr 2024 16:16:59 GMT</pubDate>
+            <title><![CDATA[Atos寻求至少10亿欧元新的融资，以便将债务规模减半。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarecyh6937431.d.html</link>
+            <guid>3567476</guid>
+            <pubDate>Mon, 08 Apr 2024 17:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：风暴已经过去，瑞典的集体谈判罢工结束了。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarecyk3713067.d.html</link>
+            <guid>3567475</guid>
+            <pubDate>Mon, 08 Apr 2024 17:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称以色列北部遭15枚火箭弹袭击】以色列国防军当地时间4月8日晚称，15枚火箭弹从黎巴嫩方向射向以色列北部哈尼塔地区并落在空旷区域。目前尚未接到人员伤亡报告。黎巴嫩方面暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarecyh6936631.d.html</link>
+            <guid>3567474</guid>
+            <pubDate>Mon, 08 Apr 2024 17:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智己汽车致歉：小米SU7 Max版前后电机均采用SIC碳化硅模块 发布会系错误标注】智己汽车发布致歉函，在刚刚结束的[超越一切向往]智己L6超级智能轿车发布会过程中对标近期同级流量热议的小米SU7产品力介绍过程中，由于团队内容审核疏漏，造成一处关键参数的错误标注，澄清如下：小米SU7 Max版前后电机均采用SIC碳化硅模块，与智己L6所采用的技术一致，均为行业顶尖的技术标准小米汽车及旗下产品SU7，是我们尊敬的竞争队友！由于内审出现疏漏，造成对小米汽车的负面影响，我们深表歉意，也向所有粉丝、用户们诚挚致歉！]]></title>
+            <guid>3567473</guid>
+            <pubDate>Mon, 08 Apr 2024 17:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际铜和沪铜涨约1.3%】国际铜夜盘收涨1.29%，沪铜收涨1.31%，沪铝收涨0.30%，沪锌收涨0.90%，沪铅收涨0.12%，沪镍收涨0.96%，沪锡收涨2.12%。氧化铝夜盘收涨0.36%。不锈钢夜盘收涨0.73%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarecye4744286.d.html</link>
+            <guid>3567472</guid>
+            <pubDate>Mon, 08 Apr 2024 17:03:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦锡收涨超3.6%，伦铜、伦锌、伦铅涨约0.9%】LME期铜收涨82美元，涨幅将近0.88%，报9412美元/吨。LME期铝收涨10美元，报2460美元/吨。LME期锌收涨26美元，涨超0.98%，报2664美元/吨。LME期铅收涨20美元，涨超0.94%，报2144美元/吨。LME期镍收涨44美元，报17848美元/吨。LME期锡收涨1053美元，涨约3.66%，报29848美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarecye4743940.d.html</link>
+            <guid>3567471</guid>
+            <pubDate>Mon, 08 Apr 2024 16:58:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软量子计算机运行14000次实验无差错】微软与量子计算机硬件业务公司Quantinuum合作，找到了一种在量子计算机上运行实验时大大减少量子计算机错误的方法。Quantinuum提供了H2计算机（基于离子陷阱量子比特），微软添加了逻辑量子比特软件。他们共同使用30个物理量子比特创建了4个逻辑量子比特。研究团队在H2上进行了14000次实验，结果没有产生任何可检测到的错误。进一步测试表明，该系统的错误率为十万分之一，比没有微软逻辑量子比特的相同量子计算机的成绩要好大约800倍。]]></title>
+            <guid>3567470</guid>
+            <pubDate>Mon, 08 Apr 2024 16:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部： 俄方正在采取一切必要措施 确保扎波罗热核电站的安全】俄罗斯外交部表示，俄方正在遵照本国法律并按照国际法义务采取一切必要措施来确保扎波罗热核电站的安全。俄原子能集团4月7日发布消息称，乌克兰武装部队对扎波罗热核电站进行了前所未有的大规模袭击。乌军使用无人机袭击了该核电站第6号发电机组的圆顶。这对核电站的安全构成了直接威胁，但核电站和邻近地区的辐射水平正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsq2984887.d.html</link>
+            <guid>3567469</guid>
+            <pubDate>Mon, 08 Apr 2024 16:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国巴尔的摩撞桥货轮上集装箱开始被卸除】据《国会山报》当地时间4月8日报道，美国负责清理马里兰州巴尔的摩被撞大桥残骸的工作人员已经开始卸除撞桥货轮上的集装箱。 根据美国主要桥梁统一响应指挥部的声明，工作人员于7日开始卸除集装箱，如果天气允许，清理团队将在接下来的几天里继续。指挥部表示，卸除集装箱是安全移动船只和重新开放航道的“关键一步”。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsh4872868.d.html</link>
+            <guid>3567468</guid>
+            <pubDate>Mon, 08 Apr 2024 16:44:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10年期美债收益率创年内最高 交易员预测今年降息两次可能性更大】全球最大债券市场本周开局不利，随着地缘政治压力消退，交易员将关注焦点转向本周将公布的关键通胀数据。美国国债全线下跌，10年期收益率触及去年11月以来最高水平，距离一些投资者关注的4.5%心理位已经不远。交易员对美联储今年降息三次的预期快速减退，市场认为降息两次的可能性更大。交易员等待关键的CPI数据。摩根大通经济学家在3月强劲的非农就业报告发布后推迟了对美联储降息预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsh4872826.d.html</link>
+            <guid>3567467</guid>
+            <pubDate>Mon, 08 Apr 2024 16:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AUKUS联合声明：澳大利亚、英国和美国致力于与国际伙伴在AUKUS问题上保持持续的开放和透明；我们正在考虑与日本在AUKUS第二支柱先进能力项目上进行合作。]]></title>
+            <guid>3567466</guid>
+            <pubDate>Mon, 08 Apr 2024 16:34:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国安理会开始讨论接纳巴勒斯坦为联合国正式成员】当地时间4月8日，联合国安理会就巴勒斯坦申请成为联合国正式成员达成一致。根据安排，当天安理会新成员接纳委员会将进行首次内部磋商。巴勒斯坦目前为联合国观察员，要接纳巴勒斯坦为联合国正式成员，需要安理会和联大同意。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsq2983162.d.html</link>
+            <guid>3567465</guid>
+            <pubDate>Mon, 08 Apr 2024 16:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智己联席CEO向小米汽车致歉】4月8日晚间，针对发布会上对小米汽车关键参数的错误标注，智己公司联席CEO刘涛发文称：由于产品信息的调研结果有误，发布会上有一处信息错误。小米SU7跟智己L6一样，都是前后电机都使用SIC碳化硅模块，小米SU7确实是我们非常尊敬的竞争队友！在此，我诚挚地向小米汽车和大家致歉。 随后小米公司发言人连续3次发文，小米敦促智己公司道歉。小米方面还表示：我们不接受个人轻描淡写的非正式的道歉。我们再次敦促智己公司，立即公开澄清，并向被其误导的公众正式道歉。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsh4871373.d.html</link>
+            <guid>3567464</guid>
+            <pubDate>Mon, 08 Apr 2024 16:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：首艘无人驾驶的星舰将会在五年内登陆火星；或将在接下来的七年内实现第一批人类登陆火星；将在五年内将人类送上月球。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsk7060232.d.html</link>
+            <guid>3567463</guid>
+            <pubDate>Mon, 08 Apr 2024 16:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁德时代新建全资子公司 加码在深圳布局力度】天眼查信息显示，2024年4月7日，深圳市时代新能源供应链有限公司成立，注册资本2000万元，系宁德时代的全资子公司。深圳作为粤港澳大湾区的重要增长极，是各大能源巨头必须抢占的战略要地。宁德时代董事长曾毓群此前表示：“不断扩大在深投资和业务布局。” 探究宁德时代的加码动作，契合深圳的两大发展方向：“新能源汽车与新型储能”。深圳也有意引入更多新能源企业，此前深圳市市长覃伟中公开表示，“欢迎新能源领域广大企业家来深圳交流合作、投资布局。”（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsk7060070.d.html</link>
+            <guid>3567462</guid>
+            <pubDate>Mon, 08 Apr 2024 16:27:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：在印度提供特斯拉电动汽车是自然而然的事情。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsn3836059.d.html</link>
+            <guid>3567461</guid>
+            <pubDate>Mon, 08 Apr 2024 16:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行副行长Sarah Breeden表示，央行推出的数字英镑获得越来越多的支持；央行需要维持对主权货币的掌控权，以阻止发生信心坍塌的风险。]]></title>
+            <guid>3567460</guid>
+            <pubDate>Mon, 08 Apr 2024 16:22:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[联合国安理会将巴勒斯坦当局申请成为正式会员国的事项提交给准入委员会。]]></title>
@@ -25,6 +118,12 @@
             <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsq2979844.d.html</link>
             <guid>3567455</guid>
             <pubDate>Mon, 08 Apr 2024 16:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港成立爱国主义教育工作小组】香港特区政府8日宣布成立爱国主义教育工作小组，以协调特区政府部门和非政府机构推动爱国主义教育，与《中华人民共和国爱国主义教育法》内容对接，在不同层面加强国家历史文化和国情教育，传承和弘扬爱国主义精神。据特区政府新闻处消息，该小组组长为全国人大常委会委员、特区立法会议员李慧琼，成员包括多名特区政府相关决策局局长、部门首长及来自社会相关界别的人士。小组的职权范围包括：协助制订在香港推广爱国主义教育的整体计划和策略；监察、评估及检讨根据商定策略开展的各项爱国主义教育相关工作的执行情况；促进特区政府部门和非政府机构在推广爱国主义教育工作上的协调与合作等。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-09/detail-inarcxsh4868063.d.html</link>
+            <guid>3567454</guid>
+            <pubDate>Mon, 08 Apr 2024 16:06:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【香港海关侦破有记录以来最大宗走私黄金案件】香港海关8日公布，近日在香港国际机场侦破一宗大型空运走私怀疑黄金案件，检获约146公斤怀疑黄金。以案中检获走私黄金的市值计算，是香港海关有记录以来侦破的最大宗走私黄金案件。（新华社）]]></title>
@@ -492,107 +591,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkk4971670.d.html</link>
             <guid>3567371</guid>
             <pubDate>Mon, 08 Apr 2024 13:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡铁矿石期货主力合约涨超7%，现报105.45美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkn7158401.d.html</link>
-            <guid>3567370</guid>
-            <pubDate>Mon, 08 Apr 2024 13:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华纬科技：拟1000万元-2000万元回购股份】 华纬科技公告，拟1000万元-2000万元回购股份，回购的价格为不超过人民币40元/股（含）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctks3082784.d.html</link>
-            <guid>3567369</guid>
-            <pubDate>Mon, 08 Apr 2024 13:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联电3月净销售额同比增2.7%至181.67亿元新台币】联电3月净销售额同比增长2.7%，至181.67亿元新台币；2024年前三个月，该公司净销售额同比增长0.78%，至546.32亿元新台币。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctks3082614.d.html</link>
-            <guid>3567368</guid>
-            <pubDate>Mon, 08 Apr 2024 13:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海开展自动扶梯和自动人行道安全隐患排查整治专项行动】本次专项行动将排查全市范围内自动扶梯和自动人行道的使用单位，对在用自动扶梯和自动人行道进行逐台排查。重点检查内容包括梯级或踏板是否存在脱落风险、梯级或踏板下陷开关和缺失监测装置等安全保护装置是否有效；电梯维保单位和检验检测机构是否严格按照安全技术规范要求开展维护保养和检验检测。与此同时，各区市场监管部门督促使用和维保单位开展安全隐患自查。通过自查发现电梯存在安全隐患的，要立即停止使用，严禁带病运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkq3933709.d.html</link>
-            <guid>3567367</guid>
-            <pubDate>Mon, 08 Apr 2024 13:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【飞鹿股份：2023年归母净利同比扭亏 拟10派0.5元】 飞鹿股份4月8日晚间发布年度报告，2023年实现营业收入8.25亿元，同比增长24.19%；归属于上市公司股东的净利润为2066.99万元，去年同期亏损约1.02亿元，同比扭亏；基本每股收益为0.11元。拟向全体股东每10股派发现金红利0.5元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctks3082235.d.html</link>
-            <guid>3567366</guid>
-            <pubDate>Mon, 08 Apr 2024 13:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【猪肉价格连涨三周，养殖户看好后期猪价上涨】 农业农村部最新监测数据显示，4月份第一周，全国猪肉价格为每公斤25.22元，环比上涨0.2%，已经是连续3周上涨。数据显示，3月31日，北京新发地市场白条猪批发平均价格为每公斤18.8元，比3月1日上涨10.59%。商户介绍说，近期猪肉价格走高，主要是因为供应端生猪价格走势偏强。养殖户看好后期猪价上涨，主要是因为生猪去产能取得积极进展，全国能繁母猪存栏量已经连续14个月下降。卓创资讯畜牧行业首席分析师张莉莉表示，生猪市场供应宽松的局面正在逐步缓解，二季度市场行情有望好于去年同期。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkq3933290.d.html</link>
-            <guid>3567365</guid>
-            <pubDate>Mon, 08 Apr 2024 13:15:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菜鸟与中再资环达成战略合作 提速再生资源回收网络建设】 近日，菜鸟集团与中再资源环境股份有限公司（简称“中再资环”）签订战略合作协议。根据协议，双方将发挥各自优势，在废旧家电环保处置、再生资源物流供应链、再生资源溯源管理、碳减排路径、大件物流运输服务、绿色物流园区打造、智慧物流建设等多个领域深入合作，共同打造废旧家电绿色供应链循环体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctks3081328.d.html</link>
-            <guid>3567364</guid>
-            <pubDate>Mon, 08 Apr 2024 13:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【主要制造企业3月销售各类挖掘机24980台 同比下降2.34%】 据中国工程机械工业协会对挖掘机主要制造企业统计，2024年3月销售各类挖掘机24980台，同比下降2.34%，其中国内15188台，同比增长9.27%；出口9792台，同比下降16.2%。2024年1—3月，共销售挖掘机49964台，同比下降13.1%；其中国内26446台，同比下降8.26%；出口23518台，同比下降17.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkn7156324.d.html</link>
-            <guid>3567363</guid>
-            <pubDate>Mon, 08 Apr 2024 13:12:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝鼎科技：公司持有河西金矿100%股权，河西金矿采矿证年生产能力30万吨/年】公司持有河西金矿100%股权。河西金矿采矿证年生产能力30万吨/年，安全许可证生产规模9.9万吨，目前正在扩产。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkk4969046.d.html</link>
-            <guid>3567362</guid>
-            <pubDate>Mon, 08 Apr 2024 13:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智己第一代光年固态电池发布 CLTC续航超1000km】智己汽车正式推出业内首个准900V超快充固态电池——第一代光年固态电池，并首搭智己全新轿车智己L6。该固态电池可实现高温不可燃、减少穿刺短路的同时，峰值充电功率达400kW，充电12分钟续航增加400km。据悉，第一代光年固态电池采用纳米尺度固态电解质包裹超高镍正极和新一代高比能硅碳负极，CLTC续航将超过1000km。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkn7155858.d.html</link>
-            <guid>3567361</guid>
-            <pubDate>Mon, 08 Apr 2024 13:09:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市政府二季度工作会议召开 龚正市长要求找准发展新质生产力的突破口】上海市政府今天（8日）召开二季度工作会议。市委副书记、市长龚正指出，要集中精力抓好稳增长工作，提升落实政策的执行力，破除政策落地“最后一公里”等障碍；提升重点区域贡献度，加快提高产出效益和经济密度；提升经营主体获得感，高度重视解决政策与企业感受度之间的“温差”问题。要加快培育和发展新质生产力，牢牢把握高科技、高效能、高质量特征，采取超常规举措统筹推进科技创新和产业创新深度融合，全力抢抓先机，抢占发展制高点。要先立后破，加快新技术赋能，实施制造业技术改造升级工程，优化资源要素配置，把传统产业打造成为发展新质生产力的重要阵地。各区要立足实际，发挥优势，找准发展新质生产力的突破口，在细分赛道上聚力发力，做到优势更优、特色更特、强项更强。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkn7155579.d.html</link>
-            <guid>3567360</guid>
-            <pubDate>Mon, 08 Apr 2024 13:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024年全国医保基金违法违规问题专项整治工作将突出六个重点】记者从国家医保局获悉，4月8日，国家医保局、最高人民法院、最高人民检察院、公安部、财政部、国家卫生健康委联合召开2024年全国医保基金违法违规问题专项整治工作会议。会议提出，做好2024年专项整治工作，要突出六个重点：一是强化高压震慑，重拳打击虚假诊疗、倒卖医保药品、虚假购药等欺诈骗保行为；二是强化飞行检查，做实定点医药机构违法违规问题自查自纠；三是强化数据赋能，构建“事前提醒、事中审核、事后监管”三道大数据监管防线；四是强化治本之策，从技术、能力和管理等方面完善长效监管机制；五是强化分工合作，加强部门协同和上下联动，形成工作合力；六是强化纪律建设，打造过硬队伍，扎实推进医药领域腐败问题集中整治。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkq3931362.d.html</link>
-            <guid>3567359</guid>
-            <pubDate>Mon, 08 Apr 2024 13:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川九洲：公司是C919大飞机一级供应商】四川九洲在互动平台表示，公司是C919大飞机一级供应商，承担了C919客舱广播内话子系统的研制交付任务。同时公司正在积极争取C929相关工作任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctks3078230.d.html</link>
-            <guid>3567358</guid>
-            <pubDate>Mon, 08 Apr 2024 13:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国内期货市场夜盘开盘多数上涨，沪金涨0.09%，沪银涨1.1%，沪镍涨1.25%，铁矿涨2.78%，焦煤涨超2%，玻璃涨1.63%，原油涨0.84%，橡胶涨0.58%。]]></title>
-            <guid>3567357</guid>
-            <pubDate>Mon, 08 Apr 2024 13:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列央行将基准利率维持在4.5%，符合市场预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkn7153592.d.html</link>
-            <guid>3567356</guid>
-            <pubDate>Mon, 08 Apr 2024 13:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福能东方：目前公司暂未与小米手机、小米汽车直接产生业务合作】 福能东方4月8日在互动平台表示，公司主要从事锂电池自动化智能装备的研发、生产、销售、服务；目前公司暂未与小米手机、小米汽车直接产生业务合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctks3077957.d.html</link>
-            <guid>3567355</guid>
-            <pubDate>Mon, 08 Apr 2024 12:59:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【劳力士CEO警告称将奢华腕表视作一种投资是危险的】4月8日消息，劳力士首席执行官Jean-Frédéric Dufour表示，将奢华腕表视作一种投资是危险的。疫情期间，投机者对此类手表的兴趣激增。Jean-Frédéric Dufour证实，劳力士密切关注二手市场价格。他预计，随着需求从峰值回落，2024年对瑞士手表行业而言将是艰难的一年，但“非常知名和成功的品牌”会始终享有消费者的青睐。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-08/detail-inarctkk4965270.d.html</link>
-            <guid>3567354</guid>
-            <pubDate>Mon, 08 Apr 2024 12:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

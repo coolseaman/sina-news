@@ -4,13 +4,87 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 24 May 2024 20:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 21:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[游戏驿站完成了按市价增发（ATM）行动，共计募资约9.334亿美元。游戏驿站（GME）股价盘后上涨11%。]]></title>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.2615元，较周三纽约尾盘跌37点，盘中整体交投于7.2544-7.2632元区间。]]></title>
+            <guid>3631791</guid>
+            <pubDate>Fri, 24 May 2024 21:08:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉确认卢森堡评级为AAA，前景展望为稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawktvh4870508.d.html</link>
+            <guid>3631790</guid>
+            <pubDate>Fri, 24 May 2024 21:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Meta与马斯克创办的人工智能公司xAI就与聊天机器人初创公司Character.ai合作一事展开竞争。]]></title>
+            <guid>3631789</guid>
+            <pubDate>Fri, 24 May 2024 21:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5月24日美股成交额前20：英伟达再创新高，市值突破2.6万亿美元】周五美股成交额第1名英伟达收高2.57%，股价再创历史新高，成交442.74亿美元，市值突破2.6万亿美元。该公司第一财季营收同比增长262%，达260.44亿美元。数据中心营收同比增长427%，增至226亿美元，市场预期为221亿美元，创历史新高。净利润同比增长628%，达148.81亿美元。英伟达同时还宣布了1拆10的拆股计划。该公司预计第二财季营收280亿美元，高于伦敦证交所集团（LSEG）调查得到的平均预期值266.1亿美元。这一迹象表明英伟达公司并不认为业绩强劲增长势头放缓。市场预计该公司第二财季每股收益5.95美元。(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawkppc6338484.d.html</link>
+            <guid>3631788</guid>
+            <pubDate>Fri, 24 May 2024 20:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国大类资产ETF收盘多数上涨】罗素200指数ETF涨1.11%，美国布伦特油价基金涨0.99%，纳指100 ETF涨0.95%，标普500 ETF、巴克莱美国可转债ETF各涨至少0.5%。而恐慌指数做多-iPath跌2.93%，做多美元指数跌0.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawkppe9891777.d.html</link>
+            <guid>3631787</guid>
+            <pubDate>Fri, 24 May 2024 20:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【半导体概念股多数收涨，英伟达两倍做多ETF本周涨约31%，高通本周涨超8.5%，超微电脑本周累跌订不到0.4%】Wolfspeed收涨5.38%，英伟达两倍做多ETF涨5.02%，本周累涨30.8%，此前四周先后涨30.62%、1.78%、1.96%、5.49%，英伟达收涨2.57%。超微电脑涨4.31%，本周累计跌幅收窄至0.45%。高通收涨4.26%，刷新收盘历史高位至210.36美元，本周累计上涨8.51%，延续之前四周先后涨5.09%、8.44%、1.36%、6.47%的趋势。AMD收涨3.7%，美光科技涨2.55%，本周累涨3.35%，之前四周先后涨7.56%、跌0.12%、涨5.7%、涨3.34%。]]></title>
+            <guid>3631786</guid>
+            <pubDate>Fri, 24 May 2024 20:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪将沙特评级上调至Aa1。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawkppk4997037.d.html</link>
+            <guid>3631785</guid>
+            <pubDate>Fri, 24 May 2024 20:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪将塞浦路斯评级前景展望上调至“正面”，确认该国评级为Baa2。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawkppe9891096.d.html</link>
+            <guid>3631784</guid>
+            <pubDate>Fri, 24 May 2024 20:39:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF收盘基本上涨】半导体ETF涨1.85%，可选消费ETF涨1.01%，公用事业ETF涨1.00%，全球科技股ETF涨0.96%，科技行业ETF、银行业ETF、金融业ETF及全球航空业ETF各涨至少0.5%。而医疗业ETF则跌0.34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawkppc6335285.d.html</link>
+            <guid>3631783</guid>
+            <pubDate>Fri, 24 May 2024 20:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团（UBS）在拉美地区财富管理业务部门裁员35人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawkppe9890506.d.html</link>
+            <guid>3631782</guid>
+            <pubDate>Fri, 24 May 2024 20:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股“七姐妹”｜英伟达收涨约2.6%连续创历史新高，市值直逼苹果和微软，特斯拉守住上周涨超5%的表现】 英伟达涨2.57%，报1064.69美元，连续第二个交易日创收盘历史新高，收盘市值2.62万亿美元——相比之下苹果市值2.91万亿美元、微软3.20万亿美元，本周累计上涨15.13%——逼近4月26日当周累计反弹15.14%的表现，连续第五周上涨。]]></title>
+            <guid>3631781</guid>
+            <pubDate>Fri, 24 May 2024 20:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站盘后涨幅进一步扩大至20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawkppc6333909.d.html</link>
+            <guid>3631780</guid>
+            <pubDate>Fri, 24 May 2024 20:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美防长奥斯汀入院接受治疗 职责将移交副防长】美国国防部当地时间5月24日发布声明表示，国防部部长奥斯汀将于当晚在沃尔特·里德国家军事医学中心接受与其膀胱问题有关的微创非手术后续治疗。奥斯汀确定他在此期间暂时无法履行职责，因此将职能和职责移交给国防部副部长凯瑟琳·希克斯。声明表示，奥斯汀的膀胱问题与其癌症诊断无关，且对其癌症预后没有任何影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-25/detail-inawkppe9889728.d.html</link>
+            <guid>3631779</guid>
+            <pubDate>Fri, 24 May 2024 20:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[游戏驿站完成了按市价增发（ATM）行动，共计募资约9.334亿美元。该公司股价盘后涨超11%。]]></title>
             <guid>3631778</guid>
             <pubDate>Fri, 24 May 2024 20:13:37 GMT</pubDate>
         </item>
@@ -510,83 +584,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxm0116946.d.html</link>
             <guid>3631689</guid>
             <pubDate>Fri, 24 May 2024 15:12:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行：英伟达分拆可能会引发其他科技公司效仿。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxm0116302.d.html</link>
-            <guid>3631688</guid>
-            <pubDate>Fri, 24 May 2024 15:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥集团旗下美国Asarco分公司将重新开放美国铜冶炼厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxq5197243.d.html</link>
-            <guid>3631687</guid>
-            <pubDate>Fri, 24 May 2024 15:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联想集团：建构新型供应链伙伴关系 抢抓AI产业机会】5月24日，联想集团全球供应商大会在深圳举办，本次会议聚焦“AIVOLUTION 拥抱AI 共创美好”，共有来自全球上千家联想供应链合作伙伴参加。联想集团在会上宣示将全力拥抱人工智能，与全球合作伙伴携手推动全球供应链变革。联想集团董事长兼CEO杨元庆在会上表示，人工智能技术正为我们的生活和工作带来革命性的变化，所有人都能从这一技术趋势中获益，联想集团的发展也能因此实现飞跃，期待与供应链合作伙伴一道探索并打造出一个ESG+AI的绿色管理体系，从而建立起一个更加智能，更为可持续的供应链生态圈。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxq5197125.d.html</link>
-            <guid>3631686</guid>
-            <pubDate>Fri, 24 May 2024 15:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数录得周线跌幅，因海岬型船需求放缓】据报道，波罗的海干散货运价指数周五录得周线跌幅，因海岬型船运费下滑。波罗的海干散货运价指数上涨1点或0.06%，至1797点。该指数本周下跌2.55%，为连续第二周下降。海岬型船运价指数上涨29点或1.12%，报2613点。该指数周线跌逾2.31%。海岬型船日均获利上涨242美元，至21674美元。巴拿马型船运价指数下跌8点或0.44%，至1824点。该指数本周小幅上涨0.05%。巴拿马型船日均获利下跌76美元，至16416美元。超灵便型散货船运价指数下滑19点，至1326点。本周该指数下跌5.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxm0115633.d.html</link>
-            <guid>3631685</guid>
-            <pubDate>Fri, 24 May 2024 15:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大股指高开高走，纳指涨超1%，标普500指数涨0.73%，道指涨0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxq5196573.d.html</link>
-            <guid>3631684</guid>
-            <pubDate>Fri, 24 May 2024 15:05:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国中央司令部称胡塞武装向红海发射两枚反舰弹道导弹】当地时间5月24日，美国中央司令部在其社交媒体平台发文表示，胡塞武装于萨那时间23日7时26分左右向红海发射了两枚反舰弹道导弹（ASBM）。美国、联军以及商船暂无人员伤亡或设备损坏的报告。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxi6534944.d.html</link>
-            <guid>3631682</guid>
-            <pubDate>Fri, 24 May 2024 15:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币突破68000美元/枚，日内涨0.51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxi6534776.d.html</link>
-            <guid>3631681</guid>
-            <pubDate>Fri, 24 May 2024 15:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月堪萨斯联储服务业综合指数为11，前值为9。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxi6534545.d.html</link>
-            <guid>3631680</guid>
-            <pubDate>Fri, 24 May 2024 15:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LPG夜盘收涨约1.3%，玻璃涨约1.1%，燃油涨约0.7%，低硫燃油则跌约0.7%，PVC跌约1%。]]></title>
-            <guid>3631679</guid>
-            <pubDate>Fri, 24 May 2024 15:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西国家石油公司董事会批准任命Magda Chambriard为新任首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxm0114367.d.html</link>
-            <guid>3631677</guid>
-            <pubDate>Fri, 24 May 2024 15:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST亿利：公司股票可能存在因股价低于1元而终止上市的风险】 ST亿利(600277)5月24日晚间公告，公司股票5月24日收盘价为0.98元/股，首次低于1元。公司股票存在可能因股价低于1元/股而被终止上市的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxq5193628.d.html</link>
-            <guid>3631676</guid>
-            <pubDate>Fri, 24 May 2024 14:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：预计在伊朗总统莱希去世后与伊朗的关系不会发生变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxm0113340.d.html</link>
-            <guid>3631675</guid>
-            <pubDate>Fri, 24 May 2024 14:54:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国官员：将携手香港赛马会共同打击非法赌博】香港赛马会24日透露，联合国毒品和犯罪问题办公室执行主任瓦利率领的代表团日前到访香港赛马会，双方就维护体育诚信、打击非法赌博活动进行了交流。 香港赛马会管理层向瓦利一行介绍了马会的角色，又讲解马会如何通过支持亚洲赛马联盟辖下打击非法赌博及相关金融犯罪理事会，从而在区内促进体育诚信及推广各种打击非法赌博的措施。 瓦利在访问时表示：“操控体育竞赛，不论是非法外围或造假，均会对体育诚信造成沉重打击，更会助长洗黑钱等其他犯罪活动。我很高兴在参观期间，有机会亲自目睹了香港赛马会为了保障体育运动远离腐败而落实的重要措施。联合国毒罪办一直不遗余力打击体育运动中的贪腐及金融罪行，致力与马会携手确保体育运动维持公正与诚信。”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawkaxn6890047.d.html</link>
-            <guid>3631674</guid>
-            <pubDate>Fri, 24 May 2024 14:53:13 GMT</pubDate>
         </item>
     </channel>
 </rss>

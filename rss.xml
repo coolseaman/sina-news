@@ -4,13 +4,186 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 30 May 2024 20:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 21:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Gap上调全年销售额和营业利润预期。]]></title>
+            <title><![CDATA[Trump Media股价下跌12%，因报道称特朗普在封口费审判中被判有罪。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaein4192481.d.html</link>
+            <guid>3638953</guid>
+            <pubDate>Thu, 30 May 2024 21:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔高管：预计存储市场将在今年下半年恢复增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaeiq0967875.d.html</link>
+            <guid>3638952</guid>
+            <pubDate>Thu, 30 May 2024 21:05:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储洛根：保持所有政策选择在桌面上是重要的，政策可能没有我们想象的那么具有限制性，有充分理由相信中性利率现在比疫情前更高。]]></title>
+            <guid>3638951</guid>
+            <pubDate>Thu, 30 May 2024 21:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5月30日美股成交额前20：英伟达地位受到科技巨头们携手挑战】周四美股成交额第1名AI芯片龙头股英伟达收跌3.77%，成交538.47亿美元。有报道称，英伟达在AI芯片行业的统治地位受到科技巨头们携手挑战。在周四发布的一份公告中，微软、谷歌、Meta、英特尔、AMD、思科、博通、慧与科技宣布达成共识，将集体推动一个名为超加速链路（Ultra Accelerator Link，简称 UALink）的数据中心大规模AI系统通信标准。这项规范旨在给不同AI加速器的连接设置规范，当然是为了方便在同一个数据中心内混用不同的AI芯片。公告表示，相关的规格将会在今年三季度提供给参与联盟的公司——但英伟达不在其中。此外周四有市场消息称：美国正在限制英伟达和AMD在中东的人工智能芯片销售。(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxahma9834883.d.html</link>
+            <guid>3638950</guid>
+            <pubDate>Thu, 30 May 2024 21:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储洛根：通胀已取得一些实质性进展，有充分理由认为我们仍在通往2%通胀的道路上，但道路并不平坦，现在考虑降息为时尚早。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaein4189660.d.html</link>
+            <guid>3638949</guid>
+            <pubDate>Thu, 30 May 2024 20:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔首席财务官表示最近几个季度的人工智能发展势头将持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxahma9834352.d.html</link>
+            <guid>3638948</guid>
+            <pubDate>Thu, 30 May 2024 20:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔(DELL.N)高管：预计2025财年收入为935亿至975亿美元，增长8%左右，每股收益为7.65美元+/-25美分，基础设施部门将增长超过20%。]]></title>
+            <guid>3638947</guid>
+            <pubDate>Thu, 30 May 2024 20:54:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔(DELL.N)高管：预计第二季度销售额为235亿至245亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaein4188449.d.html</link>
+            <guid>3638946</guid>
+            <pubDate>Thu, 30 May 2024 20:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普媒体与科技集团(DJT.O)盘后跌1.6%，此前特朗普案件的陪审团作出裁决。]]></title>
+            <guid>3638945</guid>
+            <pubDate>Thu, 30 May 2024 20:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔高管：公司预计毛利率将下降约150个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaein4187938.d.html</link>
+            <guid>3638944</guid>
+            <pubDate>Thu, 30 May 2024 20:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[提醒：戴尔科技没有在一季报中提供业绩指引。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaein4187781.d.html</link>
+            <guid>3638943</guid>
+            <pubDate>Thu, 30 May 2024 20:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吉利德科学Tropics-04研究没能实现主要终点】 吉利德科学公告，Tropics-04研究没能实现主要终点；其盘后股价应声下跌2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaeiq0964364.d.html</link>
+            <guid>3638942</guid>
+            <pubDate>Thu, 30 May 2024 20:47:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年以来洪都拉斯森林火灾过火面积近22万公顷】根据洪都拉斯森林保护研究所当地时间5月30日发布的最新报告，今年以来，洪都拉斯发生了2800起森林火灾，导致219399公顷的森林过火。火灾发生的主要原因包括高温天气、农业烧荒以及人为纵火。在所有受灾省份中，奥兰乔省受灾最为严重，森林火灾过火面积达66765公顷。位于中部地区的弗朗西斯科·莫拉桑省发生了560起火灾，过火面积为41890公顷。洪都拉斯中北部地区的约罗省排名第三，过火面积为19671公顷。为应对当前的环境状况，洪都拉斯森林保护研究所建议洪政府组织火灾巡逻和森林清理工作。洪都拉斯国会也已批准多项法令以保护环境，包括禁止随意改变土地用途，以及增大对环境犯罪行为的处罚力度。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaeiq0963941.d.html</link>
+            <guid>3638941</guid>
+            <pubDate>Thu, 30 May 2024 20:43:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门首都萨那遭空袭】据总台驻也门报道员消息，当地时间5月30日晚，也门首都萨那遭空袭。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxahma9832770.d.html</link>
+            <guid>3638940</guid>
+            <pubDate>Thu, 30 May 2024 20:43:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊所有的视频游戏公司Twitch宣布，将于5月31日解除安全顾问委员会（SAC）所有成员的合同。Twitch于2020年5月份创建了该委员会，其成员由行业专家、流媒体从业人员、调解人组成，就信任与安全问题征求意见。]]></title>
+            <guid>3638939</guid>
+            <pubDate>Thu, 30 May 2024 20:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国法院：陪审团就特朗普的封口费刑事审判达成裁决。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxahma9832195.d.html</link>
+            <guid>3638938</guid>
+            <pubDate>Thu, 30 May 2024 20:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[力拓一个部门签署协议，以确保铝冶炼厂的未来。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxahma9831959.d.html</link>
+            <guid>3638937</guid>
+            <pubDate>Thu, 30 May 2024 20:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gap（GPS）涨幅扩大至20.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaein4185401.d.html</link>
+            <guid>3638936</guid>
+            <pubDate>Thu, 30 May 2024 20:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gap盘后涨幅扩大至20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaein4185353.d.html</link>
+            <guid>3638935</guid>
+            <pubDate>Thu, 30 May 2024 20:34:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国大类资产ETF收盘涨跌互现】 美国房地产ETF涨1.47%，美国国债20+年ETF涨0.97%，罗素2000指数ETF涨0.95%，美国投资级公司债ETF、日元做多、美国国债7-10年ETF各涨至少0.5%。而美国布伦特油价基金跌1.46%，纳指100ETF跌1.07%，道指ETF跌0.81%，标普500 ETF、农产品基金、大豆基金各跌至少0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaeiq0961940.d.html</link>
+            <guid>3638934</guid>
+            <pubDate>Thu, 30 May 2024 20:32:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储5月29日当周贴现窗贷款余额65.7亿美元】美联储5月29日当周贴现窗贷款余额65.7亿美元，之前一周66.6亿美元。5月29日当周银行定期融资贷款余额1082亿美元，之前一周1090亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaeiq0961850.d.html</link>
+            <guid>3638933</guid>
+            <pubDate>Thu, 30 May 2024 20:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月25日当周外国央行持有美国国债 33.49亿美元，前值-39.4亿美元。]]></title>
+            <guid>3638932</guid>
+            <pubDate>Thu, 30 May 2024 20:31:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Gap一季度营收利润超预期 股价盘后涨超17%】 Gap （盖普）一季度EPS为0.41美元，预期为0.14美元。一季度净销售34亿美元，分析师预期32.8亿美元。一季度总体可比销售增长3%，分析师预期增长0.91%。一季度毛利润率41.2%，分析师预期38.5%。Gap盘后涨幅扩大超17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaein4184593.d.html</link>
+            <guid>3638931</guid>
+            <pubDate>Thu, 30 May 2024 20:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迈威尔科技一季度每股亏损0.25美元，上年同期亏损0.20美元。一季度调整后EPS为0.24美元，符合分析师预期。一季度净收入11.6亿美元，符合分析师预期。预计二季度调整后EPS为0.24-0.34美元，分析师预期0.28美元。预计二季度净营收12.5亿美元+/-5%，分析师预期12.3亿美元。迈威尔科技（MRVL）美股盘后跌8%。]]></title>
+            <guid>3638930</guid>
+            <pubDate>Thu, 30 May 2024 20:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF收盘涨跌互现】 区域银行ETF涨1.75%，银行业ETF涨1.54%，公用事业ETF涨1.35%，全球航空业ETF、生物科技指数ETF、可选消费ETF和金融业ETF各涨至少0.5%。而网络股指数ETF跌3.06%，科技行业ETF跌2.28%，全球科技股ETF跌2.01%，半导体ETF跌1.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaeiq0960715.d.html</link>
+            <guid>3638929</guid>
+            <pubDate>Thu, 30 May 2024 20:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泛美卫生组织：今年美洲登革热感染病例超过810万例】当地时间5月30日，泛美卫生组织公布，今年美洲记录的登革热感染病例超过810万例，其中死亡病例超3600例，是2023年同期的3倍，对各国卫生系统提出严重挑战。数据显示，截至5月24日，墨西哥和中美洲国家登革热确诊病例已经比2023年1月至5月高出2.5至6倍，而在加勒比地区，病例是去年同期的5.7倍。泛美卫生组织警告说，由于气候变化导致雨季时间更长、气温更高，大规模登革热疫情可能会成为未来的常态，特别是在巴西、阿根廷和乌拉圭等国。泛美卫生组织敦促中美洲、墨西哥和加勒比国家采取措施阻止疫情。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaeiq0960697.d.html</link>
+            <guid>3638928</guid>
+            <pubDate>Thu, 30 May 2024 20:22:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔(DELL.N)盘后跌幅一度扩大至15%，此前公布第一财季报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzxzq4314631.d.html</link>
+            <guid>3638927</guid>
+            <pubDate>Thu, 30 May 2024 20:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开市客第三季度总营收585.2亿美元，预估579.8亿美元；第三季度每股收益3.78美元，预估3.70美元，开市客美股盘后跌1.1%。]]></title>
+            <guid>3638926</guid>
+            <pubDate>Thu, 30 May 2024 20:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以官员称政府不会结束冲突换取全部被扣押人员获释】 当地时间5月30日晚间，以色列国家安全顾问哈内格比对以方被扣押人员家属表示，以色列现政府不会同意以结束加沙冲突为条件，要求巴勒斯坦伊斯兰抵抗运动（哈马斯）释放以方被扣押人员。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzxzq4313989.d.html</link>
+            <guid>3638925</guid>
+            <pubDate>Thu, 30 May 2024 20:16:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【最严减持新规落地首周 30家A股公司依规发布减持计划】 据《证券日报》记者统计，减持新规运行首周，合计有30家A股上市公司披露减持计划。数据显示，上述30份减持计划中，3份涉及控股股东减持，7份涉及“董监高”减持，10份涉及持股5%以上股东减持，其余则涉及控股股东或者实际控制人拟减持首发前股份的情况。从减持原因来看，上述30份减持计划均因个人资金需求。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzxzs1090797.d.html</link>
+            <guid>3638924</guid>
+            <pubDate>Thu, 30 May 2024 20:16:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gap上调全年销售额和营业利润预期，盘后涨4.78%。]]></title>
             <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaach6738000.d.html</link>
             <guid>3638923</guid>
             <pubDate>Thu, 30 May 2024 20:15:38 GMT</pubDate>
@@ -410,176 +583,6 @@
             <title><![CDATA[美国疾控中心官员：美国尚未发现禽流感病毒的人际传播证据；最新病例不改变疾控中心对普通公众禽流感风险评估水平的看法；正在对病毒的基因组进行测序，以寻找可能预示人类传播风险增加的变化。]]></title>
             <guid>3638851</guid>
             <pubDate>Thu, 30 May 2024 18:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据阿根廷布宜诺斯艾利斯谷物交易所，阿根廷当季大豆产量预期5050万吨，与之前预估持平；大豆采收完成度为86%。]]></title>
-            <guid>3638850</guid>
-            <pubDate>Thu, 30 May 2024 18:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿拉伯将出售15.45亿股沙特阿美股份，价格为每股26.70-29.00沙特里亚尔，认购期将于2024年6月2日开始。其中，向散户投资者发行的股票数量为1.545亿股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzxzs1068362.d.html</link>
-            <guid>3638849</guid>
-            <pubDate>Thu, 30 May 2024 18:09:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称在加沙一地下隧道发现7名被扣押人员遗体】 当地时间5月30日，以色列国防军表示，在加沙地带北部的杰巴利耶地区摧毁了巴勒斯坦伊斯兰抵抗运动（哈马斯）武装的一条地下隧道。以色列国防军还表示，本月早些时候，以军从该隧道内找回了7名被扣押人员的遗体。以军称，这7人都于去年10月7日被哈马斯打死，遗体被带回加沙。在确认该区域没有其他被扣押人员后，以军利用工程车辆、地雷等技术手段摧毁了这一隧道。目前，哈马斯方面对此暂无回应。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inaxaace9945786.d.html</link>
-            <guid>3638848</guid>
-            <pubDate>Thu, 30 May 2024 18:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[信件显示，美国首席大法官罗伯茨拒绝与民主党议员会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzvvk6853246.d.html</link>
-            <guid>3638847</guid>
-            <pubDate>Thu, 30 May 2024 18:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 物流公司Logistic Properties短暂停牌后涨幅扩大至123%，再次触发熔断。]]></title>
-            <guid>3638846</guid>
-            <pubDate>Thu, 30 May 2024 18:02:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 对冲基金大佬比尔·阿克曼据悉将支持特朗普。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawztts4419315.d.html</link>
-            <guid>3638845</guid>
-            <pubDate>Thu, 30 May 2024 18:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[香港天文台：热带气旋一号戒备信号会至少维持至今早6时。在今日日间评估是否需要改发三号强风信号。]]></title>
-            <guid>3638844</guid>
-            <pubDate>Thu, 30 May 2024 18:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Logistic Proerties of the Americas股价上涨97%，因波动停牌。]]></title>
-            <guid>3638843</guid>
-            <pubDate>Thu, 30 May 2024 17:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：与疫情前相比，住房通胀仍然“明显上升”，要达到2%目标将会很困难，但仍然乐观地认为住房通胀将放缓。]]></title>
-            <guid>3638842</guid>
-            <pubDate>Thu, 30 May 2024 17:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯：愿在以色列停止进攻加沙情况下达成“全面协议”】 巴勒斯坦伊斯兰抵抗运动（哈马斯）30日晚发表声明说，哈马斯愿在以色列停止进攻加沙地带的情况下与以方达成“全面协议”。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzttu1193853.d.html</link>
-            <guid>3638841</guid>
-            <pubDate>Thu, 30 May 2024 17:54:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：美联储并没有试图将价格水平恢复到原来的水平；这需要通货紧缩。]]></title>
-            <guid>3638840</guid>
-            <pubDate>Thu, 30 May 2024 17:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：没有谈论我在特朗普潜在总统任期中的角色。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzvvk6851698.d.html</link>
-            <guid>3638839</guid>
-            <pubDate>Thu, 30 May 2024 17:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：商业活力上升是经济增长加快的原因；生产力数据存在许多“噪声”，需要对其密切关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzvvk6851584.d.html</link>
-            <guid>3638838</guid>
-            <pubDate>Thu, 30 May 2024 17:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界银行批准向肯尼亚提供三笔贷款中的第一笔，价值12亿美元的贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzvvk6851553.d.html</link>
-            <guid>3638837</guid>
-            <pubDate>Thu, 30 May 2024 17:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：美国就业市场的弹性令人感到震惊；总体而言，美国在新冠疫情后取得了强劲的复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawztts4414860.d.html</link>
-            <guid>3638836</guid>
-            <pubDate>Thu, 30 May 2024 17:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Skydance向派拉蒙提出合并要约，信息发布后派拉蒙股价上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzttu1191454.d.html</link>
-            <guid>3638835</guid>
-            <pubDate>Thu, 30 May 2024 17:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局(FAA)允许联合航空接收新飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzttu1191115.d.html</link>
-            <guid>3638834</guid>
-            <pubDate>Thu, 30 May 2024 17:46:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：必须坚持通胀目标。美联储达到2%通胀目标“极其重要”，因为市场预期已围绕该数字展开。]]></title>
-            <guid>3638833</guid>
-            <pubDate>Thu, 30 May 2024 17:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：将空客前景展望修正为“积极”；确认IDR评级为“A-”。]]></title>
-            <guid>3638832</guid>
-            <pubDate>Thu, 30 May 2024 17:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北约秘书长再提放宽乌克兰使用北约武器限制】当地时间5月30日，北约秘书长斯托尔滕贝格在捷克参议院发表演讲时称，北约成员国应考虑放宽对乌克兰使用北约武器的限制。斯托尔滕贝格表示，对援助给乌克兰的武器施加限制是由成员国层面作出的决定，鉴于俄乌冲突的发展，“是时候重新审视这些限制措施，让乌克兰真正能够自卫”。尽管乌克兰敦促北约各国政府放宽对武器使用的限制，但西方国家在是否允许乌克兰使用北约援助的武器攻击俄罗斯目标的问题上分歧严重。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzttu1190371.d.html</link>
-            <guid>3638831</guid>
-            <pubDate>Thu, 30 May 2024 17:44:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：预计供应链仍将带来好处，现在的问题是美国是否会面临通胀和失业之间的“传统”权衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawztts4411869.d.html</link>
-            <guid>3638830</guid>
-            <pubDate>Thu, 30 May 2024 17:40:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【秘鲁国会将每年2月1日定为秘中友谊日】秘鲁国会29日表决通过一项法案，决定将每年2月1日定为秘中友谊日。这项法案高度评价华人移民在文化、社会、经济和科学等领域为秘鲁做出的杰出贡献。法案强调，2月前后适逢中国庆祝春节，将每年的2月1日定为秘中友谊日是对华人移民的特殊贡献和价值的认可。秘鲁国会文化和文化遗产委员会主席埃克托尔·阿库尼亚表示，秘中友谊日将成为两国永恒友谊的标志和象征。秘鲁是华人最早到达和聚居数量最多的拉美国家之一。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawztts4411578.d.html</link>
-            <guid>3638829</guid>
-            <pubDate>Thu, 30 May 2024 17:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局（FAA）：在FAA“满意”之前，波音737 Max的产量仍将受到限制。]]></title>
-            <guid>3638828</guid>
-            <pubDate>Thu, 30 May 2024 17:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达和另外五大科技巨头在标普500指数的占比达到30%】 数据显示，在标普500指数成分股中，前六大美国公司（微软、苹果、英伟达、谷歌母公司Alphabet、亚马逊、以及Meta Platforms）的占比为30%，为历史上首次，相比之下，2024年年初占比为26%左右。在标普500指数，成分股的权重按市值来计算。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawztts4410639.d.html</link>
-            <guid>3638827</guid>
-            <pubDate>Thu, 30 May 2024 17:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国主要市场指数计算出现问题 但交易依然平稳】当地时间5月30日，美国主要市场平均指数的数据输入出现问题，导致标普500指数和道琼斯工业平均指数的计算停止。芝加哥商品交易所集团也证实，当天为其客户提供的这两个指数的计算至少受到了影响。道琼斯指数和标普500指数的最后一次计算似乎发生在美国东部时间上午10:41。不过，指数数据输入的问题不一定会影响交易，目前标普500指数和道琼斯指数的期货市场运行正常，个股价格也没有受到影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawztts4410606.d.html</link>
-            <guid>3638826</guid>
-            <pubDate>Thu, 30 May 2024 17:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有效解决碳酸盐堵塞 新型高能效全固态钠空气电池问世】韩国浦项科技大学材料科学与工程系研究团队成功开发出一种高容量、高效率的全固态钠空气电池，无须特殊设备就能可逆地利用钠（Na）和空气。相关论文发表在最新一期《自然·通讯》杂志上。在本研究中，团队使用了一种名为NASICON的固体电解质。NASICON由钠、硅（Si）和锆（Zr）等元素组成，能在固体中进行离子移动，同时表现出很高的电化学性能和化学稳定性，有效解决了碳酸盐堵塞问题。研究人员表示，这种基于固体电解质的电池平台可在环境条件下保持稳定，提供宽电压范围，有望引领全固态金属－空气电池步入“下一代”。 (科技日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzttu1187285.d.html</link>
-            <guid>3638825</guid>
-            <pubDate>Thu, 30 May 2024 17:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦总理祝贺中国成功发射巴多任务通信卫星】巴基斯坦总理夏巴兹30日祝贺中国成功发射巴基斯坦多任务通信卫星。夏巴兹当天通过巴总理办公室发表声明说，此次多任务通信卫星在中国西昌卫星发射中心发射，彰显了巴中两国强有力的合作与伙伴关系，标志着巴基斯坦太空与通信能力的重大进步，展示了巴基斯坦的科技实力，证明了国家的潜力与未来光明前景。正是通过与中国的合作推动了巴国家进步，利用技术造福于民。北京时间5月30日20时12分，中国在西昌卫星发射中心使用长征三号乙运载火箭，成功将巴基斯坦多任务通信卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzvvi0072828.d.html</link>
-            <guid>3638824</guid>
-            <pubDate>Thu, 30 May 2024 17:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深度学习模型成功识别胚胎发育过程】英国普利茅斯大学牵头的研究表明，一种新的深度学习人工智能（AI）模型可通过视频，识别出胚胎发育过程中发生的事件及其发生时间。29日发表在《实验生物学杂志》上的论文，重点介绍了这种名为“Dev-ResNet”的模型，它能识别出动物胚胎中何时发育出了关键功能，包括其心脏功能、孵化、爬行，甚至死亡。研究人员表示，虽然本研究的对象是池塘蜗牛胚胎，但该模型已经可广泛应用于所有物种，他们提供了将“Dev-ResNet”应用于不同生物系统的全面脚本和文档。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawzttu1186338.d.html</link>
-            <guid>3638823</guid>
-            <pubDate>Thu, 30 May 2024 17:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：哈马斯表示，如果以色列停止对加沙的战争，他们准备达成“全面协议”，包括全面的人质/囚犯交换协议。]]></title>
-            <guid>3638822</guid>
-            <pubDate>Thu, 30 May 2024 17:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股“十一罗汉”｜阿斯麦收跌超0.8%，思爱普跌超4.1%，欧莱雅则涨超1.4%】 周四（5月30日），阿斯麦控股荷兰阿姆斯特丹股价（ASML.NA）收跌0.84%，报881.00欧元。诺和诺德哥本哈根股价（NOVOB.DC）收涨0.59%，报916.90（丹麦克朗）。思爱普（SAP.GR）收跌4.12%，葛兰素史克伦敦股价（GSK.LN）收跌0.95%，欧莱雅（OR.FP）收涨1.00%，LVMH集团（MC.FP）收涨1.41%。在“十一罗汉”之外，减肥药概念股Zealand制药公司丹麦哥本哈根股价（ZEAL.DC）收涨0.41%。BE半导体实业公司（BESI.NA）收跌3.04%，荷兰半导体设备制造商ASM International NV（ASM.NA）收跌0.91%，爱思强股份（AIXA.GR）收涨0.33%，意法半导体（STMPA.FP）收涨0.79%，半导体公司Soitec（SOI.FP）收涨1.65%。在法国奢侈品公司中，除了欧莱雅、LVMH之外，开云集团（KER.FP）收跌0.90%，保乐力加（RI.FP）收涨0.85%，爱马仕（RMS.FP）收涨1.07%，人头马君度（RCO.FP）收涨0.41%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-31/detail-inawztts4407915.d.html</link>
-            <guid>3638821</guid>
-            <pubDate>Thu, 30 May 2024 17:29:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

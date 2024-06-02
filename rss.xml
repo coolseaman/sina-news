@@ -4,11 +4,157 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 02 Jun 2024 11:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 12:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[印度将从周一起提高道路通行费。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxkeqt8324664.d.html</link>
+            <guid>3641491</guid>
+            <pubDate>Sun, 02 Jun 2024 12:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达CEO黄仁勋：Blackwell芯片现已开始生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxkeqx5510855.d.html</link>
+            <guid>3641490</guid>
+            <pubDate>Sun, 02 Jun 2024 12:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克代表们表示：OPEC+同意延长石油减产协议，并自愿减产。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxkeqx5510665.d.html</link>
+            <guid>3641489</guid>
+            <pubDate>Sun, 02 Jun 2024 12:14:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【祥源文旅：延期回复上交所年报工作函】 祥源文旅(600576)6月2日晚公告，公司收到《年报工作函》后高度重视，积极组织相关部门人员与年审会计师对年报工作函所涉问题进行逐项落实。截至报告披露日，公司及会计师已基本完成《年报工作函》的回复工作，但目前仍有部分事项的回复需进一步补充说明。为确保回复内容的准确性和完整性，保护全体股东的合法权益，公司拟延期不超过5个交易日回复《年报工作函》并按照规定履行信息披露义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxkeqt8323546.d.html</link>
+            <guid>3641488</guid>
+            <pubDate>Sun, 02 Jun 2024 12:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【民用飞机也有了“练车场”，民机试飞中心今天成立】 从中国航空工业集团了解到，今天（6月2日）民机试飞中心在陕西蒲城成立，它可以满足我国不同种类、多种型号民用飞机的试验试飞需求，是我国民机试飞能力布局的关键一步。民机试飞是民机产业发展的必要环节，也是飞机研制取证的“最后一公里”。民机试飞中心的成立，对于建立健全民机试验试飞能力体系，不断提升民用航空产品适航取证试飞能力，具有重要意义。未来，民机试飞中心将以民用航空产业发展及适航审定需求为牵引，全面建设民用试飞技术能力、产业能力、创新能力和国际合作能力，全力保障民用飞机、发动机、机载产品等试验试飞任务，建设创新开放、国际一流的民机试飞平台。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxkeqv8732956.d.html</link>
+            <guid>3641487</guid>
+            <pubDate>Sun, 02 Jun 2024 12:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据欧洲电力交易所（Epex Spot），法国次日电力价格上涨1750%，至27.75欧元/MWh，之前一天报价为1.50欧元。据OMIE数据，西班牙次日电力价格上涨570%，至28.56欧元/MWh。]]></title>
+            <guid>3641486</guid>
+            <pubDate>Sun, 02 Jun 2024 12:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黄仁勋：CPU性能扩展速度下降，处理密集型应用应得到加速】6月2日晚间消息，NVIDIA创始人兼CEO黄仁勋在台湾大学综合体育馆发表现场主题演讲，黄仁勋演讲中表示，计算机行业在中央处理器（CPU）上运行的引擎，其性能扩展速度已经大大降低。然而，我们必须做的计算量，仍然在以指数级的速度翻倍。在黄仁勋看来，如果我们需要处理的数据继续呈指数级增长，但处理的性能却没有提升，我们将经历计算膨胀和计算成本的提升。他指出，有一种更好的方法增强计算机的处理性能，那便是通过计算机增强CPU提供加速工作，通过专用处理器做得更好。“现在，随着CPU扩展速度放缓，最终基本停止，我们应该加快让每一个处理密集型应用程序都得到加速，每个数据中心也肯定会得到加速，加速计算是非常明智的，这是很普通的常识。”黄仁勋表示。他指出，计算机图形学是一门完全可以并行操作的学科。计算机图形学、图像处理、物理模拟、组合优化、图形处理、数据库处理，以及深度学习中非常著名的线性代数，许多类型的算法都非常适合通过并行处理来加速。因此，英伟达通过为CPU添加专用的辅助处理器，来实现了对于密集型应用程序的加速。“由于这两个处理器可以并行工作，它们都是自治的，具有更多独立的值，我们可以将100个单位的时间加速到1个单位的时间，速度快得令人难以置信。”黄仁勋表示。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8451598.d.html</link>
+            <guid>3641485</guid>
+            <pubDate>Sun, 02 Jun 2024 11:56:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【太阳连续爆发三次耀斑，未来仍有可能爆发中等强度以上耀斑】据空间天气官微消息，北京时间6月2日03时39分，太阳活动区13697爆发了一次强度为M7.3级的中等耀斑 ，并伴随明显的日冕物质抛射活动，喷发类型为全晕喷发。受此影响，预计6月4日前后可能发生小至中等地磁暴。 地磁暴发生期间，运行在500千米以下轨道高度的人造卫星和空间站可能因大气拖曳造成轨道高度的下降，卫星导航设备的定位也会因电离层环境的不稳定而误差增大；对于飞行在大气层平流层底部高度区域的飞机，会面临通讯环境变差和跨极区辐射的双重风险；磁暴造成的地磁强度和倾角的变化，则会给信鸽一类依靠地磁导航的动物带来麻烦；对于极光爱好者，伴随地磁暴而来的便是他们所追逐的极光。所以，如果你是这些领域的相关人员，未来几天要时刻注意空间天气信息。 此次爆发日冕物质抛射的太阳活动区13697位于可见日面的中部偏东南侧，正随着太阳自转逐渐正对地球，其面积不是很大，但磁场结构为复杂的β-γ-δ型，曾在6月1日至2日连续爆发三次X级以上耀斑，且未来仍有爆发中等强度以上耀斑的可能。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8451075.d.html</link>
+            <guid>3641484</guid>
+            <pubDate>Sun, 02 Jun 2024 11:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长安汽车：5月自主品牌新能源销量5.58万辆，同比增长超90%】 6月2日，长安汽车公布数据显示，5月自主品牌新能源销量5.58万辆，同比增长超90%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhx8862564.d.html</link>
+            <guid>3641483</guid>
+            <pubDate>Sun, 02 Jun 2024 11:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年前5月新疆两口岸通行中欧（中亚）班列超6400列】 中国铁路乌鲁木齐局集团有限公司统计数据显示，截至5月31日，霍尔果斯铁路口岸通行中欧（中亚）班列3248列，同比增长1.9%；阿拉山口铁路口岸通行中欧（中亚）班列3171列，同比增长17.3%。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8450141.d.html</link>
+            <guid>3641482</guid>
+            <pubDate>Sun, 02 Jun 2024 11:49:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧佩克+初步同意将集体性减产措施延长至2024年底】据报道，消息人士称，欧佩克+周日初步同意将集体性减产措施延长至今年年底，以支撑油价。与会代表表示，该组织的一些主要产油国也正在敲定一项协议，将部分其他“减产协议”延长至2025年。与会代表表示，沙特政府正在对华尔街交易员抛售石油期货表示担心。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8449501.d.html</link>
+            <guid>3641481</guid>
+            <pubDate>Sun, 02 Jun 2024 11:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：警惕欧佩克今日公布“意外消息”】分析师Grant Smith表示，可能促使欧佩克+今天公布意外消息的一个因素是，近期原油期货市场空头头寸的增加。数据显示，对冲基金和其他基金经理持有的布伦特原油投机性空头头寸最近达到了自2020年底疫情最严重以来的最高水平。这种水平过去曾引发沙特的反应：能源部长萨勒曼曾威胁要让看空交易员“痛得要命”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8449158.d.html</link>
+            <guid>3641480</guid>
+            <pubDate>Sun, 02 Jun 2024 11:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国12家公司因操纵三星半导体监控系统竞标价格被罚105亿韩元】韩国反垄断监管机构周日表示，已决定对12家韩国企业处以总计104.6亿韩元（约合人民币5500万元）的罚款，原因是这些企业串通操纵三星SDS公司一种半导体监控系统的投标价格。该系统旨在确保半导体制造工厂的最佳条件和工人的安全，并监测和控制泵、冷却器、特种气体和芯片生产所需的整体设施等。]]></title>
+            <guid>3641479</guid>
+            <pubDate>Sun, 02 Jun 2024 11:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公募新发市场升温债基获捧，权益类新发规模占比创三年新低】Wind数据显示，截至5月底，公募新发市场已经连续3个月的单月发行规模超过千亿份，年内募集规模为4849.38亿元，较前两年同期情况有所好转。不过具体来看，权益类产品新发规模占比已不足两成，为近三年最低。而撑起新发市场8成规模的债基，则展现了“吸金”效应，包揽了新发规模的前二十位。（一财）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhz5638457.d.html</link>
+            <guid>3641478</guid>
+            <pubDate>Sun, 02 Jun 2024 11:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯紧急事务部表示，卢克石油炼油厂火灾造成三人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8448015.d.html</link>
+            <guid>3641477</guid>
+            <pubDate>Sun, 02 Jun 2024 11:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达CEO黄仁勋：我们现在在全球有500万CUDA开发者。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8447994.d.html</link>
+            <guid>3641476</guid>
+            <pubDate>Sun, 02 Jun 2024 11:36:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：欧佩克+同意将部分自愿减产措施延长至2024年第三季度，目前谈判仍在继续。]]></title>
+            <guid>3641475</guid>
+            <pubDate>Sun, 02 Jun 2024 11:36:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缅甸实皆省发生5.4级地震】据缅甸气象和水文局消息，当地时间6月2日15时14分，位于中部地区的实皆省明金市东北方向发生5.4级地震，震源深度71公里。目前暂无人员伤亡报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8447815.d.html</link>
+            <guid>3641474</guid>
+            <pubDate>Sun, 02 Jun 2024 11:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米：Xiaomi SU7系列2024年累计交付量达15,764辆】 小米集团港交所公告宣布其首款电动汽车系列，Xiaomi SU7系列于2024年5月的交付数据。截 至2024年5月31日24时，本公司于2024年5月已交付8,646辆Xiaomi SU7系列汽车。 Xiaomi SU7系列2024年累计交付量达15,764辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8445324.d.html</link>
+            <guid>3641473</guid>
+            <pubDate>Sun, 02 Jun 2024 11:23:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据阿联酋国家通讯社：阿联酋总统和卡塔尔总统埃米尔讨论了美国总统的加沙提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8444966.d.html</link>
+            <guid>3641472</guid>
+            <pubDate>Sun, 02 Jun 2024 11:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军袭击黎巴嫩东南部地区 致2人死亡】当地时间6月2日，黎巴嫩东南部紧邻黎以临时边界的胡拉镇（Hula）郊区当天遭到以军军机空袭。袭击致2名黎巴嫩平民死亡。以色列方面对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhx8859556.d.html</link>
+            <guid>3641471</guid>
+            <pubDate>Sun, 02 Jun 2024 11:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天齐锂业：重要参股公司签署重大合同】 天齐锂业6月2日晚公告，5月31日，参股公司SQM公告其与Codelco（智利国家铜业公司）签署了《合伙协议》。该协议确立了双方的权利和义务，拟通过将Codelco之子公司Minera Tarar并入SQM子公司SQM Salar（简称“合营公司”）的方式， 建立合作伙伴关系，以开发SQM目前从Corfo租赁的阿塔卡马盐湖地区开采及生产锂、钾及其他产品的活动和后续销售（直接或通过合营公司子公司或代表处进行）。《合伙协议》包括交易完成前以协议和文件的方式订立，其中包括《股东协议》、SQM在马里昆加盐湖（Salar de Maricunga）的资产的销售协议、SQM将授予合营公司的某些工业产权许可、合营公司的章程和授权书，以及SQM将以何种方式向其子公司SQM Salar注入目前不属于SQM Salar业务的资产和合同等。根据SQM披露的《合伙协议》，合营公司的成立尚需满足一系列先决条件，包括：（1）取得智利国内外反垄断机构的批准；（2）完成与土著社区的磋商程序等。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8444507.d.html</link>
+            <guid>3641470</guid>
+            <pubDate>Sun, 02 Jun 2024 11:18:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【麦肯锡最新报告：预计到2030年，生成式人工智能将帮助美国和欧洲近三分之一的工作时间实现自动化】 麦肯锡全球研究院发布了名为《工作的新未来：在欧洲及其他地区部署人工智能和提升技能的竞争》的报告，指出随着人工智能技术的快速推广，劳动力市场将迎来重大变革。预计到2030年，生成式人工智能将帮助美国和欧洲近三分之一的工作时间实现自动化。人工智能的快速发展可能使就业市场两极分化：一方面，高技能和高薪岗位难以招募到合适人才；另一方面，低薪行业可能出现劳动力过剩的情况。预计在欧洲，高薪职位的比例将增加1.8%，而低薪职位比例将减少1.4%。]]></title>
+            <guid>3641469</guid>
+            <pubDate>Sun, 02 Jun 2024 11:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百胜中国5月31日耗资468.94万港元回购1.71万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8443610.d.html</link>
+            <guid>3641468</guid>
+            <pubDate>Sun, 02 Jun 2024 11:13:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏州：购买新建二星级及以上居住类绿色建筑的，贷款额度在可贷额度基础上上浮20%】 据“苏州公积金”，使用住房公积金贷款购买家庭首套或第二套自住住房，借款申请人及共同借款申请人中有两人（含）以上共同参与计算可贷额度的，贷款最高限额为150万元；仅借款申请人参与计算可贷额度的，贷款最高限额为120万元。使用住房公积金贷款购买新建二星级及以上居住类绿色建筑的，贷款额度在可贷额度基础上上浮20%。该项支持政策自施行之日起有效期2年，仅可享受一次。借款申请人同时符合我市多种可上浮住房公积金贷款额度情形的，以其中最高可上浮比例为上限，上浮额度不重复累加计算。（苏州发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8443312.d.html</link>
+            <guid>3641467</guid>
+            <pubDate>Sun, 02 Jun 2024 11:11:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄媒：五角大楼被曝招标购书供美军飞行员学习，名单现中国兵书《武经七书》】 俄罗斯卫星通讯社6月1日援引美国政府奖励管理系统（SAM）网站消息称，美国五角大楼宣布招标购买书籍供美军飞行员学习，然而美方列出的招标名单中，出现与俄罗斯有关的5本军事书籍，以及中国古代兵书《武经七书》译本。卫星通讯社称，此次采购将用于阿拉巴马州麦克斯韦空军基地的飞行员培训，五角大楼计划每款书籍购买600册，初步报价截止时间为2024年5月31日，并将于6月中旬完成招标。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhv8441218.d.html</link>
@@ -62,11 +208,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiyhu1660858.d.html</link>
             <guid>3641458</guid>
             <pubDate>Sun, 02 Jun 2024 10:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天箭科技：近期公司经营情况及内外部经营环境未发生重大变化】 天箭科技(002977)6月2日晚发布股票交易异常波动公告，近期公司经营情况及内外部经营环境未发生重大变化。公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项。]]></title>
-            <guid>3641457</guid>
-            <pubDate>Sun, 02 Jun 2024 10:40:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【正丹股份：6月3日收市之后“正丹转债”将停止交易】 正丹股份(300641)6月2日晚公告，6月3日是“正丹转债”最后一个交易日；6月3日收市之后“正丹转债”将停止交易。6月4日至6月6日收市前，持有“正丹转债”的投资者仍可进行转股；6月6日收市后，未实施转股的“正丹转债”将停止转股。根据安排，截至6月6日收市后仍未转股的“正丹转债”，将按照100.31元/张的价格强制赎回，因目前“正丹转债”二级市场价格与赎回价格存在较大差异，特别提醒“正丹转债”持有人注意在限期内转股，如果投资者未及时转股，可能面临损失。]]></title>
@@ -457,149 +598,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityz8970380.d.html</link>
             <guid>3641391</guid>
             <pubDate>Sun, 02 Jun 2024 07:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东华丰煤矿突水事故8人被困，共有200多人投入救援】 6月1日17时07分，山东能源华丰煤矿正常放水过程中，水量突然加大，发生突水事故。发现险情后，煤矿立即组织人员撤离，当班10名作业人员有2人成功避险，8人涉险被困。事故发生后，成立省、市、县现场救援指挥部，组织由企业和矿山安全、应急、能源、卫健等相关部门组成的救援队伍，迅即采取抢排水、打钻放水、打通救援通道等措施，全力搜救被困人员，同时注重科学施救，严防发生次生事故。目前，共有200多人组成的救援队伍正在紧张有序开展救援，力争尽快进入井下人员被困区域。国家矿山安监局、应急管理部有关领导、专家已赶到现场，指导救援和开展事故调查等工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityx8532140.d.html</link>
-            <guid>3641390</guid>
-            <pubDate>Sun, 02 Jun 2024 07:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国俄亥俄州阿克伦市发生大规模枪击事件 已致多人伤亡】据当地媒体报道，当地时间6月1日夜间至6月2日凌晨，美国俄亥俄州阿克伦市发生大规模枪击事件。有媒体报道称，至少26人受枪击，已有1人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityx8531721.d.html</link>
-            <guid>3641389</guid>
-            <pubDate>Sun, 02 Jun 2024 07:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三房巷：董事长提议以3000万元—5000万元回购公司股份】 三房巷(600370)6月2日晚间公告，董事长卞惠良提议以3000万元—5000万元回购公司股份，回购股份拟用于股权激励。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityx8531386.d.html</link>
-            <guid>3641388</guid>
-            <pubDate>Sun, 02 Jun 2024 07:52:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯别尔哥罗德州州长称，当地官员因弹药爆炸死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityw1754350.d.html</link>
-            <guid>3641387</guid>
-            <pubDate>Sun, 02 Jun 2024 07:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两位消息人士称，欧佩克+将减产时间延长至2024年和2025年。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityw1754296.d.html</link>
-            <guid>3641386</guid>
-            <pubDate>Sun, 02 Jun 2024 07:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北汽蓝谷：5月子公司汽车销量为5433辆】 北汽蓝谷6月2日晚间发布子公司5月份产销快报，北京新能源汽车股份有限公司5月汽车销量为5433辆，去年同期为4085辆；本年累计销售18437辆，同比下降23.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityx8531116.d.html</link>
-            <guid>3641385</guid>
-            <pubDate>Sun, 02 Jun 2024 07:51:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京能热力：持股5%以上股东陈秀明拟减持不超3%股份】京能热力公告，持股5%以上股东陈秀明拟于公告披露之日起十五个交易日后的三个月内减持公司股份不超过790.92万股（占公司总股本的比例为3.00%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityx8530340.d.html</link>
-            <guid>3641382</guid>
-            <pubDate>Sun, 02 Jun 2024 07:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海底捞：儿童节全国门店接待顾客超220万，同比涨近50%，刷新年内记录】 6月1日，全国海底捞共计接待顾客超过220万人次，这一数据超越了今年5月1日，成为了年内的新高点。从增幅来看，今年“六一”这天的客流较去年大增近50%，远高于“五一”“十一”等节假日的同比增幅。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiwan6914035.d.html</link>
-            <guid>3641381</guid>
-            <pubDate>Sun, 02 Jun 2024 07:47:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【群兴玩具：实控人王叁寿正在配合北京公安机关协助调查】群兴玩具公告，公司实控人王叁寿正在配合北京公安机关协助调查，截至目前公司未收到公安机关协助调查所涉具体事项的书面通知，也不知晓协助调查所涉具体事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityw1753265.d.html</link>
-            <guid>3641380</guid>
-            <pubDate>Sun, 02 Jun 2024 07:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中核科技燃料运输通道闸阀顺利完成出厂试验】 近日，中核科技燃料运输通道闸阀顺利完成出厂试验。燃料运输通道闸阀乃是国内首次依据核级要求所设计的大口径超长远距离阀门，其技术指标已达国际同类阀门的先进水准。燃料运输通道闸阀用于隔离核电厂安全壳与乏燃料池，配套具备抗震I类的超长远距离结构，总高度约为14米，存在超长远传机构难安装等技术难点。中核科技专门成立攻关小组，通过设计专用工装来辅助安装，从而解决了安装过程中容易出现的偏斜、无法吊装等问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityw1751948.d.html</link>
-            <guid>3641379</guid>
-            <pubDate>Sun, 02 Jun 2024 07:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雅博股份：公司经营情况及内外部经营环境未发生重大变化】雅博股份发布异动公告，经核查，公司经营情况及内外部经营环境未发生重大变化。公司控股股东山东泉兴科技有限公司拟通过深圳证券交易所交易系统以集中竞价交易的方式增持公司股份。公司、控股股东不存在关于公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityw1751912.d.html</link>
-            <guid>3641378</guid>
-            <pubDate>Sun, 02 Jun 2024 07:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天箭科技：近期公司经营情况及内外部经营环境未发生重大变化】天箭科技发布股票交易异常波动公告，近期公司经营情况及内外部经营环境未发生重大变化。公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiwaq3690555.d.html</link>
-            <guid>3641377</guid>
-            <pubDate>Sun, 02 Jun 2024 07:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯别尔哥罗德州遭袭 致1死6伤】当地时间6月2日，俄罗斯别尔哥罗德州州长发布消息称，该州当日遭乌军袭击，袭击致舍别金诺市6名居民受伤；此外，科罗昌斯基区一座武器弹药库发生爆炸，导致该区一名副区长死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityx8528479.d.html</link>
-            <guid>3641376</guid>
-            <pubDate>Sun, 02 Jun 2024 07:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛力斯：5月新能源汽车销量3.41万辆 同比增长298.62%】赛力斯公告，5月新能源汽车销量3.41万辆，同比增长298.62%，本年累计销量15.68万辆，同比增长342.35%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiwan6913142.d.html</link>
-            <guid>3641375</guid>
-            <pubDate>Sun, 02 Jun 2024 07:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京能热力：特定股东中山通用投资拟减持不超1%股份】京能热力公告，特定股东中山通用科技创业投资中心（有限合伙）拟以集中竞价交易等合法方式减持公司股份不超过263.64万股（占公司总股本的比例为1%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxiwaq3690275.d.html</link>
-            <guid>3641374</guid>
-            <pubDate>Sun, 02 Jun 2024 07:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三羊马：股东渝物兴物流拟减持不超1%股份】三羊马公告，股东渝物兴物流拟减持不超1%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityw1751305.d.html</link>
-            <guid>3641373</guid>
-            <pubDate>Sun, 02 Jun 2024 07:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科大讯飞：讯飞星火V4.0正在训练中，预计6月底发布】 科大讯飞(002230)在互动平台表示，对标GPT-4当前能力的讯飞星火V4.0正在训练中，预计在2024年6月底发布，对标GPT-4o的产品正在研发中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxityw1751032.d.html</link>
-            <guid>3641372</guid>
-            <pubDate>Sun, 02 Jun 2024 07:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【景区应摆脱门票依赖】近期，新疆吐鲁番市各A级景区执行首次实名购票、终身免门票政策。这一创新举措，减轻了游客的旅行成本，也有助于提升当地整体旅游形象和旅游市场竞争力。但想要彻底摆脱门票依赖，只靠“一次实名购票终身免费游”还远远不够。各地应发挥自身优势、做好系统规划，既要能“揽客”，更要会“留客”。（经济日报）]]></title>
-            <guid>3641371</guid>
-            <pubDate>Sun, 02 Jun 2024 07:34:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【出口民调显示印度全国民主联盟在大选中领先】第18届选举投票1日全部结束。印度多家媒体公布的出口民调结果显示，执政党印度人民党主导的全国民主联盟在大选中领先。 多家媒体发布的民调结果显示，全国民主联盟预计将赢得超过350个议席，以印度国民大会党为首的印度国家发展包容性联盟预计获得不足150个议席。 印度选举委员会计划于6月4日公布官方选举结果。 印度议会实行两院制，分为联邦院（议会上院）和人民院（议会下院）。人民院选举每5年举行一次，在人民院选举中赢得多数席位的政党或政党联盟有权组建内阁。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxirus3820269.d.html</link>
-            <guid>3641370</guid>
-            <pubDate>Sun, 02 Jun 2024 07:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国蓝莓产业图谱：进口、生产双旺盛】据公开数据，近年国内蓝莓销量保持30%~40%的增速，中国人均蓝莓消费量约0.26公斤，而蓝莓产业发展更为成熟的美国人均蓝莓消费量约2.6公斤。云南赤橙蓝农业科技有限公司负责人李少明称，中国蓝莓产业暴利期或者说风口期预计还将持续5年。综合考虑发展规模、增速、市场需求等，中国蓝莓产业平稳利润期预计仍将保持15年。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxipsy1880094.d.html</link>
-            <guid>3641369</guid>
-            <pubDate>Sun, 02 Jun 2024 07:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克+周日讨论将自愿减产延长至2024年，并将部分减产延长至2025年。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxipsz8656247.d.html</link>
-            <guid>3641368</guid>
-            <pubDate>Sun, 02 Jun 2024 07:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部王文涛部长主持召开西班牙中资企业圆桌会】当地时间6月1日，商务部部长王文涛在西班牙巴塞罗那主持召开西班牙中资企业圆桌会。在西开展金融、制造、绿色能源、运输等领域合作的十余家中资企业和欧盟中国商会负责人参会。与会代表介绍了各自在西经营发展状况，并对深化中西、中欧经贸合作提出建议和诉求。中国驻西班牙大使姚敬参加圆桌会。王文涛指出，西班牙对华理性务实友好，中资企业对西经济社会发展作出积极贡献，要充分认识深化中西经贸合作的重要意义，积极开展投资贸易合作，为中西新时期全面战略伙伴关系持续注入经贸动能。要守住安全底线，合规经营，稳中求进，高度重视和切实防范投资贸易中的风险挑战。王文涛表示，近期欧盟以所谓中国“产能过剩”论和“不公平竞争”等错误叙事为由，歧视性运用贸易救济、国际采购工具、外国补贴条例等工具，密集对中国电动汽车、铁路机车、光伏、风电、安检、医疗设备等产品发起调查，使中欧经贸摩擦的风险不断上升。中方注意到，法、德及欧盟机构领人多次表态要避免“贸易战”，支持以规则为基础的多边贸易体制和公平的竞争环境。按照近期中法欧领导人三方会晤达成的重要共识，我们希望通过对话协商妥善处理经贸摩擦，照顾双方合理关切，避免贸易摩擦失控升级。如欧方言行不一，继续打压中国企业，中方将采取一切必要措施，坚定维护中国企业的正当利益。（商务部）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxipsz8656188.d.html</link>
-            <guid>3641367</guid>
-            <pubDate>Sun, 02 Jun 2024 07:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军表示，过去一天，以色列战斗机袭击了加沙地带30多个目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxipsz8655310.d.html</link>
-            <guid>3641365</guid>
-            <pubDate>Sun, 02 Jun 2024 07:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗前总统内贾德登记参选总统】当地时间6月2日，伊朗前总统马哈茂德·艾哈迈迪-内贾德前往伊朗内政部登记参选伊朗第14届总统选举。此前，伊朗代理总统穆赫贝尔、议会议长卡利巴夫、司法总监古拉姆侯赛因·穆赫辛尼·埃杰伊、负责法律事务的副总统穆罕默德·达赫甘，以及宪法监护委员会和内政部代表在德黑兰举行会议，确定伊朗新一届总统选举将于6月28日举行。根据选举时间表，伊朗将于5月30日至6月3日进行候选人登记，6月12日至27日进行竞选活动。随后根据伊朗总统选举法，获得竞选资格的候选人名单由宪法监护委员会确定，然后提交给内政部，获得竞选资格的候选人将于6月12日至27日进行竞选活动。伊朗总统每4年举行一次，新一届选举原定于2025年举行。总统赛义德·易卜拉欣·莱希在5月19日发生的直升机事故中遇难后，总统选举提前至6月28日举行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-02/detail-inaxipsy1878432.d.html</link>
-            <guid>3641364</guid>
-            <pubDate>Sun, 02 Jun 2024 07:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

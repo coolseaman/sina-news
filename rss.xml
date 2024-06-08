@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 08 Jun 2024 20:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 21:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【以军称2枚火箭弹从加沙地带射向以南部】以色列国防军当地时间8日晚表示，当天晚间有2枚火箭弹从加沙地带射向以色列南部城市斯代罗特，其中1枚火箭弹被以军防空系统拦截，另外1枚落在一处开放区域。当地官方暂未发布人员伤亡报告。（央视新闻]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayakau6459931.d.html</link>
+            <guid>3650232</guid>
+            <pubDate>Sat, 08 Jun 2024 20:16:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国南达科他州发生枪击事件 致3死2伤】当地时间8日消息，美国南达科他州苏福尔斯当天2时45分左右发生一起枪击事件，造成3人死亡、2人受伤。警方表示，现已逮捕一名嫌疑人，调查仍在进行中。目前，警方尚未公布其他细节。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-09/detail-inayakar5345434.d.html</link>
@@ -608,12 +614,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-08/detail-inaxznxe6867088.d.html</link>
             <guid>3650130</guid>
             <pubDate>Sat, 08 Jun 2024 09:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024端午档档期票房破亿】据猫眼专业版数据，截至6月8日17时32分，2024年端午档档期（6月8日-6月10日）总票房破亿，《我才不要和你做朋友呢》《扫黑·决不放弃》《走走停停》分列档期票房榜前三位。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-08/detail-inaxznxe6866054.d.html</link>
-            <guid>3650129</guid>
-            <pubDate>Sat, 08 Jun 2024 09:37:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

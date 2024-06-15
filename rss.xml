@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 Jun 2024 19:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 20:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【佩列格里尼就任斯洛伐克总统】斯洛伐克前国民议会议长佩列格里尼15日在首都布拉迪斯拉发宣誓就任斯洛伐克总统，任期5年。 佩列格里尼随后发表就职演讲说，目前斯洛伐克处于极端困难时期，总理菲佐不久前遇刺加剧了目前的混乱局面。他承诺将团结社会各界，共建一个有凝聚力的社会，创造更加美好的未来。 佩列格里尼现年48岁，2018年至2020年担任斯洛伐克总理，2023年10月当选斯国民议会议长。在今年4月初举行的总统选举第二轮投票中，佩列格里尼击败前外长科尔乔克赢得选举。 佩列格里尼是斯洛伐克自1993年独立以来的第六任总统，其前任恰普托娃的任期于6月15日届满。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-16/detail-inaywfxr1066750.d.html</link>
+            <guid>3658208</guid>
+            <pubDate>Sat, 15 Jun 2024 19:12:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴基斯坦监管机构确定将电价平均上调19.2%】据国家电力监管机构发言人Sajid Akram表示，从7月1日开始的下一个财政年度，巴基斯坦10家配电公司的电价平均提高5.72卢比至35.50卢比/千瓦时。]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-16/detail-inaywfxp4288932.d.html</link>
@@ -588,12 +594,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayvkua7536089.d.html</link>
             <guid>3658105</guid>
             <pubDate>Sat, 15 Jun 2024 10:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州解除气象灾害应急响应通知】广州市气象灾害应急指挥部办公室2024年6月15日18时55分发布，据市气象台监测，广州市达到解除气象灾害（雷雨大风）应急响应标准。市气象灾害应急指挥部决定从15日18时55分起解除广州市气象灾害（雷雨大风）Ⅳ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-15/detail-inayvkua7535923.d.html</link>
-            <guid>3658104</guid>
-            <pubDate>Sat, 15 Jun 2024 10:57:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

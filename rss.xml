@@ -4,11 +4,374 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 09 Jul 2024 15:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 16:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【波音6月商用飞机交付量创737 Max事故以来最高】波音公司6月交付了44架商用飞机，为1月初以来的最高月度交付总量。今年1月份，一架737 Max喷气式客机事故险些酿成惨案，导致波音工厂开始限制生产。这家美国飞机制造商6月交付了35架737系列飞机，除了一架军用P-8以外均为Max型号。波音还向其防务部门交付了五架777货机、三架787梦想客机，以及一架将改装为空中加油机的767飞机。该公司当月录得14宗总订单，2宗取消订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-10/detail-inccqkkv0032102.d.html</link>
+            <guid>3689333</guid>
+            <pubDate>Tue, 09 Jul 2024 16:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[提醒：美联储主席鲍威尔在美国参议院银行业委员会的听证会结束，周三（7月10日）还将出席众议院金融服务委员会的半年度货币政策报告听证会。]]></title>
+            <guid>3689332</guid>
+            <pubDate>Tue, 09 Jul 2024 16:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[鲍威尔：从许多指标来看，劳动力市场已经显著降温。劳动力现在不是通胀压力的来源。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-10/detail-inccqkkt3253711.d.html</link>
+            <guid>3689331</guid>
+            <pubDate>Tue, 09 Jul 2024 16:10:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA短期能源展望报告：预计2024年美国天然气（干气）产量为1030亿立方英尺/日，此前预期为1020亿立方英尺/日。预计2025年美国天然气（干气）产量为1050亿立方英尺/日，此前预期为1040亿立方英尺/日。将2024年美国天然气消费量预期维持在890亿立方英尺/日不变，预计2025年美国天然气消费量为890亿立方英尺/日，此前预期为900亿立方英尺/日。]]></title>
+            <guid>3689330</guid>
+            <pubDate>Tue, 09 Jul 2024 16:10:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【EIA：预计2024年美国原油产量为1325万桶/日】EIA短期能源展望报告：预计2024年美国原油产量将增加32万桶/日，此前预期为增加31万桶/日。预计2025年美国原油产量将增加52万桶/日，此前预期为增加47万桶/日。预计2024年美国原油产量为1325万桶/日，此前预期为1324万桶/日。预计2025年美国原油产量为1377万桶/日，此前预期为1371万桶/日。预计2024年美国原油需求增速为11万桶/日，此前为9万桶/日。预计2025年美国原油需求增速为29万桶/日，此前为28万桶/日。将2024年天然气价格预期维持在2.50美元/千立方英尺不变，预计2025年天然气价格为3.30美元/千立方英尺，此前预期为3.20美元/千立方英尺。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-10/detail-inccqkkt3252671.d.html</link>
+            <guid>3689329</guid>
+            <pubDate>Tue, 09 Jul 2024 16:07:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际原子能机构驻扎波罗热核电站观察员完成轮换】 俄罗斯国防部当地时间9日发布消息称，国际原子能机构新一轮由4人组成的观察员小组当天进驻扎波罗热核电站。俄军采取相应行动，确保了观察员小组轮换的安全进行。（央视新闻）]]></title>
+            <guid>3689328</guid>
+            <pubDate>Tue, 09 Jul 2024 16:06:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储主席鲍威尔：美联储会在利率上谨慎行事】美联储主席鲍威尔表示，美联储会在利率上谨慎行事；正在密切关注劳动力市场；如果看到意外的故障，美联储会做出反应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-10/detail-inccqeax0160259.d.html</link>
+            <guid>3689327</guid>
+            <pubDate>Tue, 09 Jul 2024 16:06:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比特币迎来逢低买盘 美国ETF两天净流入4.38亿美元】投资者纷纷涌入比特币交易所交易基金(ETF)，因为他们认为过去几周导致比特币下跌的供应过剩创造了买入机会。汇编数据显示，过去两个交易日，美国比特币ETF资金净流入4.38亿美元。自6月初以来，比特币已下跌约20%，投资者担心已倒闭的交易所Mt. Gox的债权人将开始抛售所分配到的比特币。“大量投资者仍尚未持有比特币，这为长期看涨提供了支撑，”ByteTree首席投资官Charlie Morris在报告中写道，“这场供应风暴很快就会过去”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-10/detail-inccqeav3382496.d.html</link>
+            <guid>3689326</guid>
+            <pubDate>Tue, 09 Jul 2024 16:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA短期能源展望报告：将2024年全球原油需求增速预期维持在110万桶/日不变，将2025年全球原油需求增速预期上调30万桶/日至180万桶/日（此前为150万桶/日）。预计2024年布伦特价格为86美元/桶，此前预期为84美元/桶。预计2025年布伦特价格为88美元/桶，此前预期为85美元/桶。预计2024年WTI原油价格为82美元/桶，此前预期为80美元/桶。预计2025年WTI原油价格为84美元/桶，此前预期为81美元/桶。]]></title>
+            <guid>3689325</guid>
+            <pubDate>Tue, 09 Jul 2024 16:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国7月EIA次年天然气产量预期 1052亿立方英尺/日，前值1044亿立方英尺/日。美国7月EIA当年短期前景美国原油产量预期 1325万桶/日，前值1324万桶/日。美国7月EIA当年天然气产量预期 1034.7亿立方英尺/日，前值1020.5亿立方英尺/日。美国7月EIA次年短期前景美国原油产量预期 1377万桶/日，前值1371万桶/日。]]></title>
+            <guid>3689324</guid>
+            <pubDate>Tue, 09 Jul 2024 16:02:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中长期英债收益率至少涨5个基点，鲍威尔听证会期间利差曲线进一步趋陡】周二（7月9日）欧市尾盘，英国10年期国债收益率上涨5.1个基点，报4.164%，北京时间23:13刷新日高至4.173%。两年期英债收益率涨0.7个基点，报4.132%。30年期英债收益率涨5.1个基点，50年期英债收益率涨5.0个基点。2/10年期英债收益率利差涨4.316个基点，报+3.006个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3380397.d.html</link>
+            <guid>3689323</guid>
+            <pubDate>Tue, 09 Jul 2024 15:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海外市场需求旺盛 轮胎上市公司业绩持续向好】海外市场需求旺盛，多家轮胎企业2024年半年度业绩预喜。7月9日晚间，赛轮轮胎公告称，预计2024年半年度实现归属于上市公司股东的净利润21.20亿元到21.80亿元，同比增加102.68%到108.41%。7月8日晚间，玲珑轮胎公告称，预计2024年半年度实现净利润8.5亿元到10.2亿元，同比增加52%到82%；通用股份预计2024年半年度实现净利润2.7亿元至3亿元，同比增加364.86%到416.51%。“海外市场需求持续旺盛，是轮胎企业业绩大幅增长的一个重要原因。”业内人士表示，轮胎海外需求的旺盛，一方面来源于全球汽车产业链的复苏，带来的配套需求增长；另一方面，庞大的汽车保有量，也拉动轮胎替换市场需求回升。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3380253.d.html</link>
+            <guid>3689322</guid>
+            <pubDate>Tue, 09 Jul 2024 15:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：移民意味着一个更大的经济，但不是更紧的劳动力市场。移民是经济增长和通胀下降的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3379431.d.html</link>
+            <guid>3689321</guid>
+            <pubDate>Tue, 09 Jul 2024 15:54:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：调整国际货币基金组织（IMF）特别提款权（SDR）分配方案可能并不合适。]]></title>
+            <guid>3689320</guid>
+            <pubDate>Tue, 09 Jul 2024 15:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约高级官员：乌克兰对俄罗斯的袭击已经导致俄罗斯石油精炼厂的产量减少约17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6682170.d.html</link>
+            <guid>3689319</guid>
+            <pubDate>Tue, 09 Jul 2024 15:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：想来美联储独立性是有必要的，也大体上得到理解。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0156326.d.html</link>
+            <guid>3689318</guid>
+            <pubDate>Tue, 09 Jul 2024 15:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：埃及、卡塔尔、美国和以色列代表团将于周三在多哈举行会议，就加沙停火进行谈判。埃及情报部门负责人和美国中情局局长伯恩斯将出席多哈会议，就加沙停火谈判进行讨论。]]></title>
+            <guid>3689317</guid>
+            <pubDate>Tue, 09 Jul 2024 15:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛资管高管：美国下半年降息可能会推动固收市场】高盛资产管理公司高管周二表示，预计美国经济在2024年下半年的增速将放缓至2%左右，由于企业盈利增长下滑和政治焦虑，股指将基本持平。“这绝对是软着陆，”该行多部门投资主管Lindsay Rosner表示。Rosner补充说，投资者“很有可能”在2024年下半年看到美国降息。她预计，美联储在9月之前不会开始降息，但她补充称，可能会以每季度25个基点的速度降息。随着利率下降，Rosner预计固定收益市场将受益。她认为在高收益债券市场和结构性信贷领域看到了特别有趣的机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3378942.d.html</link>
+            <guid>3689316</guid>
+            <pubDate>Tue, 09 Jul 2024 15:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼日利亚国家石油公司宣布多项增产措施】 尼日利亚是非洲第二大原油探明储量国，仅次于利比亚。但是近年来，受到石油盗窃和管道破坏等因素影响，尼日利亚的石油产量一直无法达到欧佩克的生产配额。日前，尼日利亚国家石油公司宣布多项增产措施，以努力提高产量。7月2日，尼日利亚国家石油公司宣布进入紧急状态，希望在不部署新钻井平台的情况下，每天可以生产200万桶原油。为此，公司将更换使用多年的旧原油管道，并制定相关计划延长钻机使用年限。欧佩克6月的月度石油市场报告显示，尼日利亚5月的平均日产量为125万桶/日，比4月的128万桶/日下降了2.34%。]]></title>
+            <guid>3689315</guid>
+            <pubDate>Tue, 09 Jul 2024 15:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约高级官员：我们应该意识到，俄罗斯可能在北约峰会期间发动类似基辅儿童医院袭击的大规模袭击。]]></title>
+            <guid>3689314</guid>
+            <pubDate>Tue, 09 Jul 2024 15:49:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约高级官员：俄罗斯总统普京认为“时间仍然在他这边”，愿意忍受“真正惊人的军事伤亡数字”。]]></title>
+            <guid>3689313</guid>
+            <pubDate>Tue, 09 Jul 2024 15:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【输变电行业发展提速 多家公司上半年业绩预增】近日，多家输变电上市公司纷纷披露2024年半年度业绩预告，整体业绩表现亮眼。业内人士表示，随着新一轮特高压电网建设的加速推进和新型电力系统建设的不断深入，输变电装备市场需求将迎来新一轮扩张，输变电设备企业有望充分享受市场红利。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3377994.d.html</link>
+            <guid>3689312</guid>
+            <pubDate>Tue, 09 Jul 2024 15:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：没有关于启用宪法第25修正案的内阁讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6681429.d.html</link>
+            <guid>3689311</guid>
+            <pubDate>Tue, 09 Jul 2024 15:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人民币在俄罗斯外汇交易中的占比几乎达到100%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0155129.d.html</link>
+            <guid>3689310</guid>
+            <pubDate>Tue, 09 Jul 2024 15:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飓风“贝丽尔”登陆美国 8人死亡300万户断电】巨幅“贝丽尔”8日在得克萨斯州休斯敦西南约140公里的马塔戈达地区登陆，强度为一级飓风，最高风速约为每小时130公里，目前已造成得克萨斯州大休斯敦地区7人死亡、路易斯安那州1人死亡。美国航班跟踪网站信息显示，休斯敦主要机场8日取消了1100多个航班。美国电力跟踪网站公布的数据显示，得克萨斯州截至9日早上仍有230万用户未恢复供电。路易斯安那州官员称有超过2万人因风暴受到断电影响。]]></title>
+            <guid>3689309</guid>
+            <pubDate>Tue, 09 Jul 2024 15:46:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：总统拜登在好几次会议上表现得都“非常有效率”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9904012.d.html</link>
+            <guid>3689308</guid>
+            <pubDate>Tue, 09 Jul 2024 15:46:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国财长耶伦称来自劳动力市场的通胀压力降低】美国财政部长珍妮特·耶伦表示，劳动力市场不再像疫情复苏初期那样的推动美国经济通胀，这呼应了美联储主席杰罗姆·鲍威尔早些时候的言论。在疫情后的反弹期间，就业市场“最初非常趋紧”，但“现在我们有一个强劲的劳动力市场，这个市场造成的通胀压力担忧更小，”耶伦周二对众议院金融服务委员会的议员表示。她说这种转变是在劳动力供应激增后发生的。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0154801.d.html</link>
+            <guid>3689307</guid>
+            <pubDate>Tue, 09 Jul 2024 15:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【咖啡豆减产，韩国多款咖啡产品涨价】韩国是咖啡消费大国，每人年均咖啡消费量为405杯，是全球人均消费量152杯的2.7倍。随着全球咖啡豆价格上涨，近期韩国咖啡也开始出现上调价格的情况。韩国咖啡涨价的主要原因是咖啡豆主产国越南、巴西等国家遭遇了异常天气，导致咖啡豆大量减产。数据显示，上个月，用于制作速溶咖啡的罗布斯塔咖啡豆期货价格每吨达到4141.4美元，同比暴涨了51%，创下历史新高，而咖啡店常用的阿拉比卡咖啡豆的期货价格也在一年内上涨了近三成。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0154736.d.html</link>
+            <guid>3689306</guid>
+            <pubDate>Tue, 09 Jul 2024 15:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约高级官员：在补给和天气条件允许的情况下，乌克兰预计将加强进攻行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6680977.d.html</link>
+            <guid>3689305</guid>
+            <pubDate>Tue, 09 Jul 2024 15:43:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约高级官员：俄罗斯仍然缺乏军火，军队无法在乌克兰发动大规模进攻。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3377420.d.html</link>
+            <guid>3689304</guid>
+            <pubDate>Tue, 09 Jul 2024 15:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约高级官员表示，俄罗斯需要从其他国家获得超出其现有水平的大量弹药供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3377364.d.html</link>
+            <guid>3689303</guid>
+            <pubDate>Tue, 09 Jul 2024 15:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司MSCI北欧国家指数下跌1.3%，创6月13日以来最差单日表现（当天跌1.6%），报404.97点。供热技术公司Nibe Industrier AB收跌3.9%，在所有成分股里跌幅最大。]]></title>
+            <guid>3689302</guid>
+            <pubDate>Tue, 09 Jul 2024 15:42:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【空难死者家属对波音认罪协议非常失望】美国波音公司7月8日宣布与美国司法部就两起波音737 MAX型客机致命空难达成认罪协议。波音认罪可避免出庭受审以及更重判罚。遇难者家属方面对美国司法部5年调查如此了结表示“非常失望”，认为这等同于姑息波音“将利润置于安全之上”。有遇难者家属不禁发问：“如果涉案的不是波音，还会如此吗？”（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3377236.d.html</link>
+            <guid>3689301</guid>
+            <pubDate>Tue, 09 Jul 2024 15:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE原糖日内跌幅达2.5%，报19.62美分/磅。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6680553.d.html</link>
+            <guid>3689300</guid>
+            <pubDate>Tue, 09 Jul 2024 15:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰外交部长：任何协议都应该在乌克兰参与讨论的情况下达成。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6680522.d.html</link>
+            <guid>3689299</guid>
+            <pubDate>Tue, 09 Jul 2024 15:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：最近几次数据显示劳动力市场明显降温。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6680481.d.html</link>
+            <guid>3689298</guid>
+            <pubDate>Tue, 09 Jul 2024 15:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：惠誉将爱尔兰银行展望上调至正面。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6680208.d.html</link>
+            <guid>3689297</guid>
+            <pubDate>Tue, 09 Jul 2024 15:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：投资者对德国商业银行债券的认购数量大幅下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3376528.d.html</link>
+            <guid>3689296</guid>
+            <pubDate>Tue, 09 Jul 2024 15:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：薪资增幅仍然很高，但在下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0153680.d.html</link>
+            <guid>3689295</guid>
+            <pubDate>Tue, 09 Jul 2024 15:35:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[鲍威尔国会证词和听证会重点一览
+1. 通胀形势：已取得了“相当大的进展”，等待更多良好数据提振信心。
+2. 劳动市场：劳动力市场似乎已经完全恢复平衡，失业率仍处历史低位。
+3. 经济形势：上半年GDP增长似乎有所放缓，经济仍以稳健的速度增长。
+4. 利率政策：风险是平衡的，过早、过多放松政策都可能会损害已取得的进展。
+5. 市场预期：美联储9月份降息的可能性略高于70%，年内将两次降息25个基点。
+6. 其他内容：已就巴塞尔协议III最终方案进行了系列讨论；许多银行面临商业房产风险。
+7. 行情影响：现货金银震荡下挫，美债收益率走高，非美货币普跌同时曲线趋陡，美元走高，风险资产走高后回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3376281.d.html</link>
+            <guid>3689294</guid>
+            <pubDate>Tue, 09 Jul 2024 15:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鲍威尔：移民对通胀的长期影响是中性的】美联储主席鲍威尔：在全国某些地方，移民已经加剧了本已紧张的住房市场；移民对通胀的长期影响是中性的，当然从短期来看，移民可能助长了通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9902461.d.html</link>
+            <guid>3689293</guid>
+            <pubDate>Tue, 09 Jul 2024 15:33:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖42天期现金管理票据，得标利率5.270%，6月25日为5.250%，6月17日为5.270%。]]></title>
+            <guid>3689292</guid>
+            <pubDate>Tue, 09 Jul 2024 15:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖52周期国债，得标利率4.775%（6月11日为4.915%），投标倍数2.85（前次为2.87）。]]></title>
+            <guid>3689291</guid>
+            <pubDate>Tue, 09 Jul 2024 15:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股收盘普跌 法国股指收跌超1.7%】德国DAX 30指数初步收跌1.30%，报18231.13点。法国股指初步收跌1.73%，意大利股指初步收跌0.67%，英国股指初步收跌0.63%。欧洲STOXX 600指数初步收跌0.93%，报511.64点。欧元区STOXX 50指数初步收跌1.37%，报4901.59点。富时泛欧绩优300指数初步收跌0.90%，报2029.70点。欧元区蓝筹股中，奔驰初步收跌3.6%，法国圣戈班跌3.4%，法国巴黎银行跌3%，空中客车跌2.7%，宝马则涨超0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0153164.d.html</link>
+            <guid>3689290</guid>
+            <pubDate>Tue, 09 Jul 2024 15:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油日内跌幅均达1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9902130.d.html</link>
+            <guid>3689289</guid>
+            <pubDate>Tue, 09 Jul 2024 15:31:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛资产管理：下半年美国小盘股势将反弹 更多领域将受益于人工智能】高盛资产管理表示，美国小盘股势将在2024年下半年反弹，对于寻求拓展至大型股票之外的投资者而言，其估值具有吸引力。高盛公共投资首席投资官Ashish Shah表示，小盘股“可以提供途径获取未来中盘股和大盘股头部企业提供的更高增长潜力”，并补充称围绕降息的确定性也将带来提振。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9901891.d.html</link>
+            <guid>3689288</guid>
+            <pubDate>Tue, 09 Jul 2024 15:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼泊尔季风雨季灾害频发 已造成80人死亡】自6月10日尼泊尔进入季风雨季以来，截至7月9日，因持续降雨引发的洪水和山体滑坡等灾害已在尼泊尔造成80人死亡，另有5人失踪。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0152760.d.html</link>
+            <guid>3689287</guid>
+            <pubDate>Tue, 09 Jul 2024 15:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线走低0.6美元，现分别报80.94美元/桶和84.56美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9901818.d.html</link>
+            <guid>3689286</guid>
+            <pubDate>Tue, 09 Jul 2024 15:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大豆期货跌1.3% 降至2020年以来最低】芝加哥大豆价格延续下跌趋势，跌至2020年以来的最低水平，举行飓风“贝丽尔”带来的降雨有利于美国中西部的作物生长。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9901752.d.html</link>
+            <guid>3689285</guid>
+            <pubDate>Tue, 09 Jul 2024 15:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：鲍威尔罕见地在讲稿中提及央行独立性】管理咨询公司RSM US首席经济学家Joe Brusuelas指出，鲍威尔在今天的声明中罕见地对央行的独立性发表了评论：国会已委托美联储采取长期视角，以追求我们最大的就业和稳定物价的双重使命。市场可以认为，美联储正在为即将到来的总统大选奠定一个标志。在经济民粹主义盛行和第二届特朗普政府可能到来的背景下，央行独立性比民选者和公众舆论要重要得多。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3375292.d.html</link>
+            <guid>3689284</guid>
+            <pubDate>Tue, 09 Jul 2024 15:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会：自2024年初以来，法国、保加利亚和爱尔兰每周的粮食出口数据并不完整。]]></title>
+            <guid>3689283</guid>
+            <pubDate>Tue, 09 Jul 2024 15:24:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及总统重申坚决反对在加沙持续进行军事行动】埃及总统塞西9日在首都开罗重申，埃及坚决反对在加沙地带持续进行军事行动，国际社会必须承担起结束巴以冲突的责任。据埃及总统府当天发表的声明，塞西当天在开罗会见美国中央情报局局长伯恩斯时作出上述表态。他表示，应采取措施缓解巴勒斯坦人所遭受的人道主义灾难，切实有效防止冲突扩大，必须落实“两国方案”，以公正全面解决巴勒斯坦问题。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3374585.d.html</link>
+            <guid>3689282</guid>
+            <pubDate>Tue, 09 Jul 2024 15:24:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【现货黄金跌破2350美元】现货黄金持续回落跌破2350美元/盎司，为7月3日以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6677721.d.html</link>
+            <guid>3689281</guid>
+            <pubDate>Tue, 09 Jul 2024 15:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：劳动力市场意外走软可能成为放松政策的理由。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3374063.d.html</link>
+            <guid>3689280</guid>
+            <pubDate>Tue, 09 Jul 2024 15:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京与莫迪发表联合声明 强调通过对话和平解决乌克兰冲突】当地时间7月9日，俄罗斯总统普京和印度总理莫迪在莫斯科举行会谈后发表联合声明，强调需要通过对话和平解决乌克兰冲突。声明称，根据会谈结果，两国间签署了9项合作文件，主要涉及双边经济合作。在会谈过程中，两国领导人重点讨论了在2030年之前双边战略合作的主要内容，确立了在2030年前将俄印贸易额提升至1000亿美元的目标。双方还讨论了在国防领域发展联合生产的问题。普京和莫迪同意通过使用本国货币进一步发展两国之间的双边结算体系。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3374040.d.html</link>
+            <guid>3689279</guid>
+            <pubDate>Tue, 09 Jul 2024 15:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据欧盟委员会，截至6月30日，欧盟2023/24年软小麦出口量为3100万吨，前一年为3160万吨。欧盟2023/24年大麦出口量为588万吨，前一年为666万吨。欧盟2023/24年玉米进口量为1937万吨，前一年为2645万吨。]]></title>
+            <guid>3689278</guid>
+            <pubDate>Tue, 09 Jul 2024 15:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪镍期货主力合约跌超2%，现报134870元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0151134.d.html</link>
+            <guid>3689277</guid>
+            <pubDate>Tue, 09 Jul 2024 15:20:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：（被问及气候情景风险演习）美联储正在仔细评估还需要做什么。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0151081.d.html</link>
+            <guid>3689276</guid>
+            <pubDate>Tue, 09 Jul 2024 15:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【投行：鲍威尔将继续为9月降息奠定基础】投行Evercore ISI分析师Krishna Guha：我们认为，鲍威尔关于“不断变化的风险平衡”的评论是鸽派的，他将继续为9月份可能的降息奠定基础，前提是即将发布的数据——尤其是周四的通胀报告——维持并支持美联储关于风险平衡的评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3373588.d.html</link>
+            <guid>3689275</guid>
+            <pubDate>Tue, 09 Jul 2024 15:18:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2024年7月票房破10亿】据猫眼专业版数据，7月9日23时15分，2024年7月总票房破10亿，《默杀》《云边有个小卖部》《头脑特工队2》分列7月票房榜前三位。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0150730.d.html</link>
+            <guid>3689274</guid>
+            <pubDate>Tue, 09 Jul 2024 15:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国休斯敦经受飓风袭击之后将面临41度酷暑考验，200多万用户继续停电】 飓风“贝丽尔”(Beryl)袭击过后，美国第四大城市休斯敦将迎来危险的高温天气，而当地超过200万户家庭和企业仍遭遇停电。美国国家气象局表示，该地发布高温警告，预计高温指数将高达106华氏度（41摄氏度），警告在极端条件可能导致生病。高温、潮湿外加停电将导致情况恶劣，因为空调也无法开启。CenterPoint周一晚间公告，按照损害评估和初步修复最新进展，预计到7月10日将为100万受影响客户恢复供电。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0150609.d.html</link>
+            <guid>3689273</guid>
+            <pubDate>Tue, 09 Jul 2024 15:17:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国官员：加沙地带已有1.7万名儿童成为孤儿】当地时间7月9日，约旦副首相兼外交与侨务大臣萨法迪会见联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）主任专员拉扎里尼。拉扎里尼表示，进入加沙地带的人道援助数量仍然不能满足巴勒斯坦民众的最低需求，截至目前加沙地带已有17000名儿童成为孤儿，人道形势日益严峻。萨法迪表示，约旦将与近东救济工程处站在一起，继续为该机构提供必要的支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6676716.d.html</link>
+            <guid>3689272</guid>
+            <pubDate>Tue, 09 Jul 2024 15:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【分析师：对这次鲍威尔证词本没有抱太大期望】Lpl Financial首席固定收益策略师表示，考虑到美联储的所有沟通内容，我们对这次证词没有抱太大期望。10年期美国国债收益率的走势实际上是由对中性利率的预期和对一个相当浅的降息周期的预期决定的，因此我们认为，我们将在一段时间内处于这样的水平。]]></title>
             <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0149969.d.html</link>
@@ -16,7 +379,8 @@
             <pubDate>Tue, 09 Jul 2024 15:14:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：（被问及商业房地产贷款风险）这种风险将持续数年存在于银行之中，银行需要诚实地评估风险以加以管理。对于较小的银行，我们与它们保持联系，以确保它们能够管理风险。]]></title>
+            <title><![CDATA[【鲍威尔：商业地产风险可能会伴随我们多年】美联储主席鲍威尔：（被问及商业房地产贷款风险）这种风险将持续数年存在于银行之中，银行需要诚实地评估风险以加以管理。对于较小的银行，我们与它们保持联系，以确保它们能够管理风险。商业房地产风险将成为许多银行面临的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9898761.d.html</link>
             <guid>3689270</guid>
             <pubDate>Tue, 09 Jul 2024 15:13:52 GMT</pubDate>
         </item>
@@ -177,6 +541,12 @@
             <pubDate>Tue, 09 Jul 2024 14:57:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[美国国务院就卢旺达和刚果的某些矿产供应链发表关切声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9895069.d.html</link>
+            <guid>3689242</guid>
+            <pubDate>Tue, 09 Jul 2024 14:55:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美国财长耶伦：金融犯罪执法网络不会优先追查小型企业在受益所有权违规方面的行为。]]></title>
             <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6672180.d.html</link>
             <guid>3689241</guid>
@@ -223,375 +593,6 @@
             <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0145332.d.html</link>
             <guid>3689234</guid>
             <pubDate>Tue, 09 Jul 2024 14:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：劳动力市场对通胀的压力减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9893305.d.html</link>
-            <guid>3689233</guid>
-            <pubDate>Tue, 09 Jul 2024 14:47:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥央行副行长Heath称6月份通胀率“非常令人担忧”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3367696.d.html</link>
-            <guid>3689232</guid>
-            <pubDate>Tue, 09 Jul 2024 14:46:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：相信2022年出现的大规模通胀冲动是全球性的，并源于疫情后的供应问题；许多供应问题已得到解决，工资压力正在减轻。]]></title>
-            <guid>3689231</guid>
-            <pubDate>Tue, 09 Jul 2024 14:45:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：与全球同行相比，我们的经济表现优异。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0144200.d.html</link>
-            <guid>3689229</guid>
-            <pubDate>Tue, 09 Jul 2024 14:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：记录清楚地表明，美联储的独立是一个良好的制度安排。这是我们作为一个国家做出的选择，这是一个明智的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0144162.d.html</link>
-            <guid>3689228</guid>
-            <pubDate>Tue, 09 Jul 2024 14:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿根廷举办独立日纪念阅兵仪式】当地时间7月9日上午，阿根廷首都布宜诺斯艾利斯举行独立日纪念阅兵仪式，这是该国时隔五年之后首次恢复这一传统庆祝活动。本次阅兵仪式由总统哈维尔·米莱主持，来自阿根廷海陆空三军、安全部等7000多名官兵参加此次阅兵。现场还展示了坦克、装甲车等阿陆军、海军的最新装备等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0144104.d.html</link>
-            <guid>3689227</guid>
-            <pubDate>Tue, 09 Jul 2024 14:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：对“回购法案”的通过感到高兴，该法案授权美国扣押冻结的俄罗斯资产以帮助乌克兰，但正在寻求建立联盟提供援助。]]></title>
-            <guid>3689226</guid>
-            <pubDate>Tue, 09 Jul 2024 14:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【远景动力西班牙工厂开建 为欧洲首个磷酸铁锂电池超级工厂】记者获悉，当地时间7月8日，远景动力位于西班牙纳瓦尔莫拉德拉马塔市的电池超级工厂举行开工仪式。远景动力西班牙工厂将研发制造最新一代磷酸铁锂（LFP）电池产品，预计2026年投产，届时将成为欧洲首个磷酸铁锂电池超级工厂。该工厂还将依托欧洲大陆首个零碳产业园建设，打造零碳电池产品。这是远景动力在欧洲布局的第三座超级工厂。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3366693.d.html</link>
-            <guid>3689225</guid>
-            <pubDate>Tue, 09 Jul 2024 14:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亿晶光电：预计2024年上半年净亏损4亿至6亿元】亿晶光电公告，公司预计2024年上半年实现归属于母公司所有者的净利润为-4亿至-6亿元，较上年同期的2.85亿元净利润大幅下降。扣除非经常性损益后的净利润预计为-4.05亿至-6.05亿元。业绩预亏主要由于光伏行业产能与市场需求阶段性供需错配，导致产品价格下跌，公司盈利能力下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0143791.d.html</link>
-            <guid>3689224</guid>
-            <pubDate>Tue, 09 Jul 2024 14:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川防汛应急响应提升至三级】四川省防汛抗旱指挥部发布通知，将四级防汛应急响应提升至三级防汛应急响应。7月9日15时30分，省气象台继续发布暴雨黄色预警：7月9日20时到10日20时，巴中、南充、遂宁3市，广元、绵阳、德阳3市东部，达州、广安、宜宾3市西部及乐山南部有暴雨（雨量 50~80毫米），其中巴中、南充、遂宁3市局地有大暴雨（雨量 120~150毫米，个别地方可达200毫米以上），最大小时雨量40~60毫米，另凉山州东北部局地有大到暴雨（雨量25~60毫米）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6668679.d.html</link>
-            <guid>3689223</guid>
-            <pubDate>Tue, 09 Jul 2024 14:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：可从职位空缺与失业人数比中看出劳动力市场更为平衡】机构分析师：美联储主席鲍威尔说，劳动力市场已经恢复到更好的平衡状态。这一点可以从职位空缺与失业人数之比中看出来，该比率已恢复到新冠大流行前的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0143566.d.html</link>
-            <guid>3689222</guid>
-            <pubDate>Tue, 09 Jul 2024 14:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储主席鲍威尔：对房地产市场最有利的做法是将通胀率降至2%】美联储主席鲍威尔称，我们国家存在重大的住房问题；疫情已经在房地产市场造成了新的扭曲；我们的紧缩政策对房地产行业的活动产生了影响；对房地产市场最有利的做法是将通胀率降至2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9891344.d.html</link>
-            <guid>3689221</guid>
-            <pubDate>Tue, 09 Jul 2024 14:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔拒绝说明巴塞尔协议III中的具体变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3366301.d.html</link>
-            <guid>3689220</guid>
-            <pubDate>Tue, 09 Jul 2024 14:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新西兰周边海洋和沿海水域温度创1982年以来新高】新西兰统计局9日公布的一项统计结果显示，2022年到2023年间，新西兰周边海洋和沿海水域温度创1982年以来新高。统计显示，到2023年，新西兰各海洋区域的海面温度比1982年上升了约0.63至1.05摄氏度，其中塔斯曼海每十年的平均升温率最高；新西兰沿海水域比1982年升温约0.74至1.35摄氏度，其中新西兰南岛东海岸水域每十年的平均升温率最高。新西兰统计局环境和农业统计高级专员斯图尔特·琼斯表示，即使气温小幅上升也会破坏海洋生态系统，导致一些物种迁徙，并增加疾病风险。此外，水温升高也会导致海平面上升。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9891136.d.html</link>
-            <guid>3689219</guid>
-            <pubDate>Tue, 09 Jul 2024 14:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[机构分析师表示，鲍威尔回避了如果特朗普再次当选，关税对物价影响的问题，他说:“我们非常努力不评论竞选类型的信息。”]]></title>
-            <guid>3689218</guid>
-            <pubDate>Tue, 09 Jul 2024 14:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TCL科技：预计上半年净利润同比增长180%-210%】TCL科技公告，公司预计2024年上半年归属于上市公司股东的净利润为9.5亿元至10.5亿元，同比增长180%-210%。扣除非经常性损益后，净利润为5.0亿元至6.0亿元，上年同期为亏损6.0亿元。公司半导体显示业务净利润预计为25.8亿元至28.8亿元，同比改善超60亿元。新能源光伏业务方面，TCL中环预计上半年净利润为-29亿元至-32亿元。公司其他业务板块经营稳健，盈利趋于平稳。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3366044.d.html</link>
-            <guid>3689217</guid>
-            <pubDate>Tue, 09 Jul 2024 14:36:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鲍威尔国会证词发布后美国国债小幅走低 曲线变陡】美联储主席鲍威尔为周二参议院听证会准备的证词公布后，美国国债小幅走低，2s10s利差扩大至盘中高点。美国国债收益率仍接近日内高点，全线走高1-2个基点，2s10s利差陡化1.5个基点。10年期国债收益率约为4.30%，与周一收盘时相比上升2个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3365958.d.html</link>
-            <guid>3689216</guid>
-            <pubDate>Tue, 09 Jul 2024 14:35:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际原子能机构驻扎波罗热核电站观察员完成轮换】俄罗斯国防部当地时间9日发布消息称，国际原子能机构新一轮由4人组成的观察员小组当天进驻扎波罗热核电站。俄军采取相应行动，确保了观察员小组轮换的安全进行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0142995.d.html</link>
-            <guid>3689215</guid>
-            <pubDate>Tue, 09 Jul 2024 14:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中东股市｜沙特股指收涨超0.5%，科威特股指涨约0.6%】周二（7月9日），沙特证交所全股指数收涨0.53%，报11779.83点。沙特阿美（ARAMCO.AB）收跌0.35%，报28.15沙特里亚尔。科威特证交所超级市场价格回报指数收涨0.58%，埃及证交所EGX 30指数收涨0.19%，卡塔尔证交所指数收涨0.09%，阿布扎比证券市场综合指数收涨0.03%。迪拜金融市场综合指数收跌0.09%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0142898.d.html</link>
-            <guid>3689214</guid>
-            <pubDate>Tue, 09 Jul 2024 14:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：（被问及巴塞尔协议III最终方案时）美联储已就潜在变化进行了一系列讨论；我和委员会的观点是，我们需要将修订后的提案公开征求意见一段时间；我们正在与美国联邦存款保险公司和美国货币监理署（OCC）讨论这个问题，但尚未达成协议；准备好在我们达成协议后继续前进；当我们与其他机构达成协议时，我们的想法是，我们将公布拟议的变化及其可能产生的影响；公开评论期可能为60天。在发布修订提案之前还需要做很多工作。]]></title>
-            <guid>3689213</guid>
-            <pubDate>Tue, 09 Jul 2024 14:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东省防汛抗旱指挥部终止防汛三级应急响应】“山东水利”微信公众号消息，鉴于本轮降雨过程基本结束，全省汛情总体平稳，山东省防指决定7月9日20时终止防汛三级应急响应。当前山东省正处于主汛期，要求各级各部门继续密切监视天气变化，加强监测预警，强化巡查防守，持续开展风险隐患排查整治，抓紧修复水毁设施，确保度汛安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9890033.d.html</link>
-            <guid>3689211</guid>
-            <pubDate>Tue, 09 Jul 2024 14:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：我们正在研究最高法院对监管的决定所带来的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0142352.d.html</link>
-            <guid>3689210</guid>
-            <pubDate>Tue, 09 Jul 2024 14:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超捷股份：在人形机器人领域 公司已给部分客户送样测试】超捷股份在互动平台表示，人形机器人业务是公司的重要业务方向之一，目前在人形机器人领域，公司已给部分客户送样测试，部分样品已通过测试，但尚未取得批量订单，目前该业务在公司营收占比较低，对公司业绩不构成重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3365117.d.html</link>
-            <guid>3689209</guid>
-            <pubDate>Tue, 09 Jul 2024 14:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【众合科技：已布局车路云协同领域 正在进行相关产品的研发】众合科技在互动平台表示，公司目前已布局车路云协同领域，并正在进行相关产品的研发，其中无人机公路智能巡检系统已中标连霍高速（G30）新疆境内星星峡至吐峪沟段改扩建项目科技示范工程科研项目。在低空经济领域，公司已与战略合作方联合发布了UniSpace低空综合服务平台，并同步发布了《众合科技空天产业行动计划》，为公司在该领域深入发展明确了行动路线。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6666920.d.html</link>
-            <guid>3689208</guid>
-            <pubDate>Tue, 09 Jul 2024 14:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法庭文件显示，拜登之子亨特·拜登撤回了对联邦枪支案件进行新审判的动议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3365004.d.html</link>
-            <guid>3689207</guid>
-            <pubDate>Tue, 09 Jul 2024 14:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：尼日利亚国家石油公司寻求20亿美元的石油贷款来资助燃料进口。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3364899.d.html</link>
-            <guid>3689206</guid>
-            <pubDate>Tue, 09 Jul 2024 14:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：下一步政策举措不太可能是加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0142014.d.html</link>
-            <guid>3689205</guid>
-            <pubDate>Tue, 09 Jul 2024 14:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：劳动力市场似乎已经完全恢复平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0141919.d.html</link>
-            <guid>3689204</guid>
-            <pubDate>Tue, 09 Jul 2024 14:29:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：我们清楚地意识到我们现在面临双面风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6666460.d.html</link>
-            <guid>3689203</guid>
-            <pubDate>Tue, 09 Jul 2024 14:28:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：最近的劳动数据确实表明经济正在降温；经济不再过热。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0141757.d.html</link>
-            <guid>3689202</guid>
-            <pubDate>Tue, 09 Jul 2024 14:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界海拔最高风机叶片制造基地今日开工】记者今天从青海海西州格尔木市能源局了解到，世界海拔最高的风机叶片制造基地暨绿色氢能创新基地在当地开工建设。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3364474.d.html</link>
-            <guid>3689201</guid>
-            <pubDate>Tue, 09 Jul 2024 14:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法巴银行：若美国7月失业率再次上升 可能改变降息预期】鲍威尔在周二为参议院听证会准备的证词中警告说，降息过少或过晚都可能给经济和劳动力市场带来风险。 但他补充称，降息太早或降的太多也可能会阻碍或逆转降通胀进程。交易员此前已经提高了对最快9月降息的预期。鲍威尔的讲话表明联邦公开市场委员会不太可能在本月底的会议上降息。 鲍威尔称，劳动力市场“强劲但不过热”，央行的限制性立场正在努力使供需达到更好平衡。法国巴黎银行高级经济学家Yelena Shulyatyeva表示，“如果7月失业率再次上升，可能会挑战我们对今年12月降息一次的基线预期，或提高9月开始两次降息的可能性”。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0141663.d.html</link>
-            <guid>3689200</guid>
-            <pubDate>Tue, 09 Jul 2024 14:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：鲍威尔的证词似乎无法撼动今年两次降息的预期】机构分析师：在鲍威尔证词公布之前，美国国债收益率就已经开始下跌，在证词公布时跌至盘中新低，但随后迅速反弹。美元反弹，风险资产走高。鲍威尔的言论试图传递一个信息，即风险是平衡的。在他准备好的讲话中，似乎没有任何东西改变市场对今年两次降息的预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9889026.d.html</link>
-            <guid>3689199</guid>
-            <pubDate>Tue, 09 Jul 2024 14:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰总统泽连斯基抵达华盛顿参加北约峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9888983.d.html</link>
-            <guid>3689198</guid>
-            <pubDate>Tue, 09 Jul 2024 14:27:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福特汽车“密歇根BlueOval电池产业园”仍将按计划建设投产】福特汽车7月9日宣布，“密歇根BlueOval电池产业园”仍将按计划于2026年开始生产磷酸铁锂电池，用于福特未来的电动汽车。福特公司当天收到了密歇根战略基金为该电池厂修订的激励方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9888468.d.html</link>
-            <guid>3689197</guid>
-            <pubDate>Tue, 09 Jul 2024 14:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉涨近2%，势将连续第十个交易日上涨，创一年来最长连涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0140910.d.html</link>
-            <guid>3689196</guid>
-            <pubDate>Tue, 09 Jul 2024 14:24:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北辰实业：控股股东拟3500万元至7000万元增持公司股份】北辰实业7月9日晚间公告，控股股东北辰集团拟以3500万元至7000万元增持公司股份，增持比例不超过公司总股本的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3363661.d.html</link>
-            <guid>3689195</guid>
-            <pubDate>Tue, 09 Jul 2024 14:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股下半年能否维持涨势 科技巨头面临艰巨任务】在全球最大的几支科技股推动下，标普500指数上半年表现亮眼。今年剩余时间的问题在于强势能否持续。华尔街以历史性的程度向科技股倾斜，如果人工智能驱动下的涨势发生动摇，那么风险就会加大。估值过高，而盈利增长势将放缓。这给押注大型科技股将延续涨势的投资者增加了不确定性，摩根士丹利财富管理部门首席投资官Lisa Shalett称。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6664698.d.html</link>
-            <guid>3689194</guid>
-            <pubDate>Tue, 09 Jul 2024 14:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：鲍威尔的证词表态似乎很平衡】分析师分析美联储主席鲍威尔证词：美联储主席鲍威尔准备好的证词公布了，乍一看，证词的论调看起来相当平衡，给固收多头和空头都提供了一些线索。但这是否真的会影响价格还不能确定。他指出了在宽松政策上过于激进和不够激进的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6664481.d.html</link>
-            <guid>3689193</guid>
-            <pubDate>Tue, 09 Jul 2024 14:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约联储数据显示，上个交易日（7月8日）担保隔夜融资利率（SOFR）报5.32%，之前一天报5.32%。上个交易日有效的联邦基金利率报5.33%，之前一天报5.33%。]]></title>
-            <guid>3689192</guid>
-            <pubDate>Tue, 09 Jul 2024 14:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛资产管理：预计美国股市回报率将趋于平缓，市场广度将增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0139888.d.html</link>
-            <guid>3689191</guid>
-            <pubDate>Tue, 09 Jul 2024 14:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【文生视频公司Odyssey为好莱坞级别的视觉AI启动种子轮融资】近日，初创公司Odyssey（奥德赛）联合创始人兼CEO Oliver Cameron为其“好莱坞级别的”人工智能（AI）系统启动900万美元种子轮融资。通过这个模型，人们可以视觉控制一个故事（情节）按自己的想象发展。Cameron相信，自家的文生视频平台将产生高质量电影、节目秀、视频游戏。相比OpenAI的Sora或谷歌公司的Veo，平台让用户能够按自己的需要直接控制视觉效果。该公司还对标Runway的Alpha Gen 3和快手的Kling。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3362616.d.html</link>
-            <guid>3689190</guid>
-            <pubDate>Tue, 09 Jul 2024 14:20:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近20家上市公司盘后披露回购或增持计划公告 万科A骨干管理人员拟2亿元增持】截至发稿，据不完全统计，盘后包括克明食品、英杰电气、方大特钢、美克家居、新宝股份、豪美新材、徕木股份、捷顺科技、中熔电气、九州一轨、勘设股份、永创智能、中科微至、河化股份、万科A、浙数文化、北辰实业和成都路桥在内的18家A股上市公司披露回购或增持计划公告。具体来看，14家上市公司披露回购计划公告。其中，克明食品公告，拟7500万元-1.5亿元回购公司股份。同时，4家上市公司披露增持计划公告。其中，万科A公告，公司骨干管理人员拟2亿元增持公司A股股票。此外，天臣医疗公告，拟将回购资金总额由1800万元-3600万元，调整为3600万元-7200万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6664234.d.html</link>
-            <guid>3689189</guid>
-            <pubDate>Tue, 09 Jul 2024 14:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【300亿规模专项基金助力 国企土地资产盘活加快推进】300亿规模的国有企业土地资产盘活专项基金近日成立，发挥整合资源、资金投入等重要支撑作用，助力国有企业盘活利用存量土地和既有建筑，提高国有资本配置效率。中国企业改革与发展研究会研究员吴刚梁接受记者采访时表示，盘活国有企业土地存量资产，可以减轻企业负债压力，化解政府隐性债务，同时也为地方发展战略性新兴产业腾出资源空间，有利于国有资产布局优化和产业结构调整。但也存在土地权属、用途变更等难题，涉及多方利益和复杂的债权债务关系。（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6663828.d.html</link>
-            <guid>3689188</guid>
-            <pubDate>Tue, 09 Jul 2024 14:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外交秘书：印度总理莫迪和俄罗斯总统普京讨论了为印度核电站供应燃料的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6663679.d.html</link>
-            <guid>3689187</guid>
-            <pubDate>Tue, 09 Jul 2024 14:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国新任首相斯塔默首次在议会下院发表演讲】当地时间9日，斯塔默在就任英国首相后，首次在议会下院发表演讲。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6663505.d.html</link>
-            <guid>3689186</guid>
-            <pubDate>Tue, 09 Jul 2024 14:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币突破58000美元/枚，日内涨3.19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0139024.d.html</link>
-            <guid>3689183</guid>
-            <pubDate>Tue, 09 Jul 2024 14:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛资产管理：美国“接近”首次降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0138917.d.html</link>
-            <guid>3689182</guid>
-            <pubDate>Tue, 09 Jul 2024 14:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥将在2024年底生产100%所需的汽油。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3361577.d.html</link>
-            <guid>3689181</guid>
-            <pubDate>Tue, 09 Jul 2024 14:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：限制性政策有助于给通胀带来下行压力，过早或过多地减少限制都有导致通胀进程逆转的风险。]]></title>
-            <guid>3689180</guid>
-            <pubDate>Tue, 09 Jul 2024 14:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【隆基绿能：预计上半年净亏损48亿元-55亿元】隆基绿能公告，预计上半年净利亏损48亿元-55亿元，上年同期净利润91.78亿元。报告期内，公司加大了对光伏终端市场的产品及服务投入，实现组件销量同比增长；但受制于光伏行业整体供需错配、各环节主要产品市场销售价格大幅下降的影响，导致与上年同期相比，本报告期内增量不增收、对参股硅料企业的投资收益减少，预计计提存货减值金额45亿元到48亿元，短期盈利承压。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9885117.d.html</link>
-            <guid>3689179</guid>
-            <pubDate>Tue, 09 Jul 2024 14:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国新一届议会下院首次会议举行 林赛·霍伊尔再次当选议长】英国新一届议会下院首次召开会议，林赛·霍伊尔（ Lindsay Harvey Hoyle）再次当选议会下院议长。霍伊尔出生于1957年，1997年当选英国议会下院工党议员，2010年起担任议会下院副议长。2019年曾当选英国议会下院议长。英国本月4日举行议会下院选举，选举结果5日出炉。斯塔默领导的工党赢得议会下院超过半数席位，成为执政党。当天在白金汉宫，斯塔默被国王查尔斯三世授权组建新内阁，正式就任首相。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6662097.d.html</link>
-            <guid>3689178</guid>
-            <pubDate>Tue, 09 Jul 2024 14:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外交秘书：印度和俄罗斯致力于加强与俄罗斯石油公司和其他俄罗斯公司的能源伙伴关系。]]></title>
-            <guid>3689177</guid>
-            <pubDate>Tue, 09 Jul 2024 14:11:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率上涨4.3个基点至4.312%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3360741.d.html</link>
-            <guid>3689176</guid>
-            <pubDate>Tue, 09 Jul 2024 14:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储传声筒：通胀剧烈波动让美联储陷入了尴尬的观望局面】“美联储传声筒”Nick Timiraos文章称，去年下半年，尽管支出和招聘都很强劲，但物价增长放缓速度却如此之快，令官员们感到意外，这促使他们将注意力从加息到多高，转向降息需要多久。鲍威尔上一次出现在国会议员面前是在3月初，他暗示美联储可能在6月前降息。在那之后，通胀出现了逆转，使任何此类计划脱轨。鲍威尔今日表示，最近的通胀数据“显示出一些温和的进一步进展，更多的良好数据将增强我们的信心，即通胀正持续向2%迈进。”通胀的剧烈波动让美联储陷入了尴尬的观望局面，政策制定者要么等待几个月令人信服的温和通胀数据，要么等待就业和经济活动明显放缓的证据，然后再降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3360634.d.html</link>
-            <guid>3689175</guid>
-            <pubDate>Tue, 09 Jul 2024 14:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度外交秘书：俄罗斯和印度在“广泛基础”上设定了到2030年达到1000亿美元的双边贸易目标，高于目前的650亿美元。印俄贸易目标达到1000亿美元旨在“拓宽贸易范围”。]]></title>
-            <guid>3689174</guid>
-            <pubDate>Tue, 09 Jul 2024 14:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金银现货下挫 黄金短线波幅扩大至15美元】现货黄金短线波幅扩大至15美元，现报2360.57；现货白银短线波幅扩大至0.4美元，现报30.84美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3360266.d.html</link>
-            <guid>3689173</guid>
-            <pubDate>Tue, 09 Jul 2024 14:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数在美联储主席鲍威尔讲话后收窄涨幅，现涨0.19%；纳指现涨0.42%。]]></title>
-            <guid>3689172</guid>
-            <pubDate>Tue, 09 Jul 2024 14:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛资产管理：预计美国经济增长稳定在2%，经济正在“放缓并趋于正常化”。预计2024年下半年美国通胀率为2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqear9883788.d.html</link>
-            <guid>3689171</guid>
-            <pubDate>Tue, 09 Jul 2024 14:07:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美指走高，非美货币普遍走低】美联储主席鲍威尔证词公布后，美元指数DXY短线上涨10余点，现报105.08。欧元兑美元EUR/USD短线走低约15点，英镑兑美元GBP/USD短线走低近20点，美元兑日元USD/JPY短线上扬近40点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeat6660581.d.html</link>
-            <guid>3689170</guid>
-            <pubDate>Tue, 09 Jul 2024 14:06:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国钾肥进口合同较上一年度下降34美元/吨】中国钾肥进口谈判小组（中化、中农、中海化学）与食安供应链有限公司（迪拜）就2024年钾肥年度进口合同价格达成一致，合同价格为273美元/吨CFR，较上一年度下降34美元/吨，继续保持世界钾肥“价格洼地”和标杆地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeax0136802.d.html</link>
-            <guid>3689169</guid>
-            <pubDate>Tue, 09 Jul 2024 14:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：限制性利率有助于平衡需求和供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3359563.d.html</link>
-            <guid>3689168</guid>
-            <pubDate>Tue, 09 Jul 2024 14:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“中国天眼”首席科学家李菂获颁马塞尔·格罗斯曼奖】当地时间9日，“中国天眼”首席科学家李菂获颁马塞尔·格罗斯曼奖个人奖。李菂是首位凭借在中国国内取得的学术成果获得该奖的科学家。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-09/detail-inccqeav3359333.d.html</link>
-            <guid>3689167</guid>
-            <pubDate>Tue, 09 Jul 2024 14:05:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

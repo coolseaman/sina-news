@@ -4,15 +4,396 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 19 Jul 2024 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 15:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【中核集团首个海上风电项目获核准】 中核集团消息，7月18日，中核集团首个海上风电项目——新华发电湛江徐闻东二海上风电项目正式获得徐闻县发展和改革局核准。湛江徐闻东二海上风电项目是广东省2024年重点建设项目，项目位于湛江市徐闻县锦和镇以东海域，总装机规模30万千瓦。项目建成投产后，预计每年可提供清洁电能10.34亿千瓦时。]]></title>
-            <guid>3703615</guid>
-            <pubDate>Fri, 19 Jul 2024 14:11:31 GMT</pubDate>
+            <title><![CDATA[【微软表示所有先前受影响的服务都已恢复】 微软在社交媒体X上发帖称已完成“缓解行动”并且所有Microsoft 365应用程序和服务都已恢复。此外，微软表示正在监控以确保中断影响得到完全解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxku1907478.d.html</link>
+            <guid>3703683</guid>
+            <pubDate>Fri, 19 Jul 2024 15:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据知情人士透露，俄罗斯7月1-17日炼油厂处理能力单日均值为541万桶/日，较6月份大部分时间高出20.6万桶/日，并创1月份以来新高。]]></title>
+            <guid>3703682</guid>
+            <pubDate>Fri, 19 Jul 2024 15:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极氪安聪慧：正积极推进欧洲本地化生产计划】极氪智能科技CEO安聪慧今日表示，公司正在积极推进欧洲本地化生产的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxkx4389336.d.html</link>
+            <guid>3703681</guid>
+            <pubDate>Fri, 19 Jul 2024 15:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赴华短途游在韩国火了，成都、海南等成热门选择】 韩国知名旅行平台发布的最新分析报告显示，今年前往海外旅行的韩国游客偏好短途旅行，因此飞行时间在5小时以内的中国、日本和东南亚等旅行目的地很受游客欢迎。统计显示，今年第二季度，短途出境游旅客占80%左右，中国排在热门目的地的前三位。目前韩国游客前往中国旅游的需求，主要集中在张家界等传统的风景秀丽的旅行目的地、海南等暑期休假胜地以及去成都看大熊猫等。韩国旅游业界预测，今年下半年韩国游客赴华旅游需求将进一步增加。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxks5129593.d.html</link>
+            <guid>3703680</guid>
+            <pubDate>Fri, 19 Jul 2024 15:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[信实集团高管：预计全球天然气价格在短期内将继续受到支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxku1906411.d.html</link>
+            <guid>3703679</guid>
+            <pubDate>Fri, 19 Jul 2024 15:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行推动彻底变革，以加强对欧盟银行业的管控力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxkx4388486.d.html</link>
+            <guid>3703678</guid>
+            <pubDate>Fri, 19 Jul 2024 15:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股异动丨区块链概念股走强，MicroStrategy大涨超8%】比特币突破65000美元/枚，带动美股区块链概念股集体走强。其中，MicroStrategy涨超8%，Coinbase涨超6%，Mawson Infrastructure涨超5%，Bitdeer Technologies、Riot Platforms涨超4%，Bit Digital、SOS涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxku1906154.d.html</link>
+            <guid>3703677</guid>
+            <pubDate>Fri, 19 Jul 2024 15:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东暴雨橙色预警升级为红色 防汛四级应急响应提升至三级】山东省气象台于7月19日20时升级暴雨橙色预警为暴雨红色预警：预计19日夜间至20日夜间，山东省中南部地区有强降雨并伴有雷电，菏泽、济宁、枣庄、临沂和日照有暴雨到大暴雨局部特大暴雨（80～120毫米，局部250～350毫米）；聊城南部、泰安、济南南部、淄博南部、潍坊、青岛、烟台南部和威海有大到暴雨局部大暴雨（40～60毫米，局部100～200毫米）；其他地区有雷雨或阵雨（1～10毫米，局部25毫米以上）。最大1小时降水量60～90毫米。受其影响，南四湖上级湖及韩庄运河可能发生超警洪水，沂沭河可能发生编号洪水。根据《山东省防汛抗旱应急预案》，经会商研判，山东省防指决定7月19日20时，将防汛四级应急响应提升至防汛三级应急响应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxks5128807.d.html</link>
+            <guid>3703676</guid>
+            <pubDate>Fri, 19 Jul 2024 15:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：相信美国正在朝着达成以色列与哈马斯停火协议的目标迈进。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxks5128678.d.html</link>
+            <guid>3703675</guid>
+            <pubDate>Fri, 19 Jul 2024 15:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：又有四名众议院民主党人呼吁拜登退选。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxks5128135.d.html</link>
+            <guid>3703674</guid>
+            <pubDate>Fri, 19 Jul 2024 15:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泛欧交易所（EuroNext）：北美地区股票指数服务故障得到处置。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxks5128010.d.html</link>
+            <guid>3703673</guid>
+            <pubDate>Fri, 19 Jul 2024 15:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极氪安聪慧：应对欧盟加征关税 极氪在积极推进欧洲本地化生产】 7月19日，极氪智能科技CEO安聪慧在全新极氪009上市后的媒体采访环节透露，欧盟加征关税，对于包括极氪在内的中国汽车品牌都会有较大的影响。对于极氪而言，一方面会通过在技术、品质上的突破，形成较好的竞争力，赢得欧洲消费者的信赖；另一方面，极氪也在积极推进在欧洲本地化生产的规划。安聪慧表示，这个计划会在合适的时候对外发布。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxks5127848.d.html</link>
+            <guid>3703672</guid>
+            <pubDate>Fri, 19 Jul 2024 15:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国资股东挂牌转让星展证券40%股权，最新回应】7月19日晚间，上海联合产权交易所最新信息显示，星展证券（中国）有限公司（简称“星展证券”）国资股东挂牌转让40%的星展证券股权。具体来看，上海东浩兰生投资管理有限公司拟转让20.17%的星展证券股权，转让底价为4.15亿元；上海黄浦投资控股（集团）有限公司、上海汇旸资产经营有限公司、上海黄浦引导资金股权投资有限公司等3家企业拟转让所持星展证券19.83%的股权，转让底价4.08亿元。股权转让方表示，自星展证券筹建以来，各股东方建立了互信共赢的合作关系，本次转让为基于各方战略规划的正常商业安排。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incesxku1904893.d.html</link>
+            <guid>3703671</guid>
+            <pubDate>Fri, 19 Jul 2024 15:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大商所、郑商所夜盘收盘 烧碱跌近4%】大商所、郑商所夜盘收盘，多数下跌。合成橡胶夜盘收涨超1.9%，20号胶涨超0.7%，白糖则跌0.7%，燃油跌超0.7%，纯碱跌约1.2%，双焦跌超1.4%，烧碱跌约3.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7740962.d.html</link>
+            <guid>3703670</guid>
+            <pubDate>Fri, 19 Jul 2024 15:02:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【15家上市公司股票获重要股东增持，生益科技增持金额最高】Wind数据显示，按变动截止日期为基准，7月19日，3家上市公司股票遭重要股东减持，东箭科技遭重要股东减持157.15万股，减持金额为1606.71万元。15股获重要股东增持，生益科技获重要股东增持1900.14万股，增持金额为3.71亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4517776.d.html</link>
+            <guid>3703669</guid>
+            <pubDate>Fri, 19 Jul 2024 15:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时指数在停盘大约四小时后恢复交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5258082.d.html</link>
+            <guid>3703668</guid>
+            <pubDate>Fri, 19 Jul 2024 15:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克“早咖啡”网上订餐业务遭受微软全球性宕机事故的影响。（美国时间）7月19日早间，星巴克工人被迫手写订单。]]></title>
+            <guid>3703667</guid>
+            <pubDate>Fri, 19 Jul 2024 15:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第34届青岛国际啤酒节开幕】 7月19日，以“青岛与世界干杯”为主题的第34届青岛国际啤酒节开幕，开启为期24天的“夏日狂欢”。据介绍，本届啤酒节设西海岸、崂山两个会场，引进国内外品牌啤酒2200余款，其间将举办开幕式、主题演出、酒王争霸赛、艺术巡游等文体活动。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5257228.d.html</link>
+            <guid>3703666</guid>
+            <pubDate>Fri, 19 Jul 2024 14:55:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[锦欣生殖：不知悉股价不寻常波动的任何理由。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2034399.d.html</link>
+            <guid>3703665</guid>
+            <pubDate>Fri, 19 Jul 2024 14:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【威瑞森电信美股盘中跌超1.2%】威瑞森电信美股盘中跌超1.2%。消息面上，该公司称，全球范围内影响各公司和行业的IT问题对公司产生了一定影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2034204.d.html</link>
+            <guid>3703664</guid>
+            <pubDate>Fri, 19 Jul 2024 14:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员布朗寻求加快对拜登提名的美国联邦存款保险公司候选人的审议。美国参议院对美国联邦存款保险公司负责人的确认流程可能在美国劳动节之前进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5256929.d.html</link>
+            <guid>3703663</guid>
+            <pubDate>Fri, 19 Jul 2024 14:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沪市定于周六开展通关测试】记者日前从业内独家获悉，上海证券交易所定于2024年7月20日（周六）组织开展竞价、综业、新债券等平台相关业务通关测试，以验证相关技术平台业务与技术调整的准确性。参测单位包括上交所技术公司和信息公司、相关核心机构及各市场参与人。 (中证金牛座)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7739404.d.html</link>
+            <guid>3703662</guid>
+            <pubDate>Fri, 19 Jul 2024 14:52:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局（FAA）：美国联合航空(UAL.O)地面停飞已取消。FAA的运营不受全球IT问题的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4516207.d.html</link>
+            <guid>3703661</guid>
+            <pubDate>Fri, 19 Jul 2024 14:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：央行必须承担通胀控制的使命。美联储仍然致力于实现2%的通胀目标。价格稳定是金融稳定的关键。长期趋势对中性利率的影响仍然存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2033896.d.html</link>
+            <guid>3703660</guid>
+            <pubDate>Fri, 19 Jul 2024 14:51:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极氪安聪慧：未来极氪不排除推出混动产品】极氪智能科技CEO安聪慧今日透露，目前公司仍聚焦纯电市场，未来不排除推出增程混动产品的可能。当日，全新极氪009左舵和右舵版本全球同步发售。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4516114.d.html</link>
+            <guid>3703659</guid>
+            <pubDate>Fri, 19 Jul 2024 14:50:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国航空公司：公司运作系统正受到全球性微软宕机事故的影响。多个运营系统遭遇问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2033727.d.html</link>
+            <guid>3703658</guid>
+            <pubDate>Fri, 19 Jul 2024 14:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海港跨境电商“9610”海运出口首单试点落地】 记者从上港集团获悉，7月19日，日本消费者购买的500余件跨境电商出口包裹经海关审核后，在上港集团振东码头海关监管场所快速通关放行，运往日本大阪港，标志着上海港“9610”跨境电商海运出口试点工作启动。上海港跨境电商“9610”海运出口试点首单成功后，上港集团将在上海海关等监管部门的指导下加快推进监管场所整体规划和建设，实现常态化运行后，跨境电商出口商品可直接在上港集团振东码头顺利“出海”。（新华社）]]></title>
+            <guid>3703657</guid>
+            <pubDate>Fri, 19 Jul 2024 14:45:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股盘初震荡 技术故障令CrowdStrike股价重挫】美国股市周五盘初震荡，CrowdStrike(CRWD.O)股价重挫，该公司的一系列技术故障扰乱了世界各地的商业和公共服务。截至纽约时间10:38（北京时间22:38），标普500指数跌0.2%，纳斯达克100指数跌0.3%。如果走势保持，这两个指数本周都将收跌，创下4月以来最大单周跌幅。CrowdStrike表示其Falcon Sensor威胁监控产品导致微软Windows操作系统崩溃。这些问题与微软的Azure云和365办公软件服务中断同时发生。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4515092.d.html</link>
+            <guid>3703656</guid>
+            <pubDate>Fri, 19 Jul 2024 14:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软：所有先前受影响的应用程序和服务均已恢复】微软称，已经完成了技术故障缓解行动；所有先前受影响的应用程序和服务均已恢复；微软正在进行监控，确保全面解决故障所带来的的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7738033.d.html</link>
+            <guid>3703655</guid>
+            <pubDate>Fri, 19 Jul 2024 14:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【被分析师认为“一文不值”！太阳电力暴跌近50%创历史新低】继上一交易日暴跌40%后，美国光伏龙头SunPower(SPWR.US)今日盘中再度重挫，一度跌近50%至0.766美元，创历史新低。消息面上，该公司通知其客户将暂停部分业务，包括从销售平台上撤销租赁和电力购买协议，并停止新产品发货。SunPower在一份声明中表示，将继续致力于解决财务状况问题，并积极努力应对当前的挑战。此外，GLJ Research分析师Gordon Johnson将SunPower的评级下调为“卖出”，并将目标价从1.61美元下调至0美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4514845.d.html</link>
+            <guid>3703654</guid>
+            <pubDate>Fri, 19 Jul 2024 14:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受微软技术故障影响 美国已有超千架次航班被取消】受通信问题影响，包括达美航空公司和联合航空公司在内的几家美国主要航空公司的所有航班于当日上午停飞。根据航班跟踪网站FlightAware的信息，截至当日上午，已有超过1000架次进出美国或美国境内的航班被取消。美国联邦航空管理局表示，正在密切关注影响美国多家航空公司IT系统的技术问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5255103.d.html</link>
+            <guid>3703653</guid>
+            <pubDate>Fri, 19 Jul 2024 14:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【CFTC：已经注意到用户中出现“偶发性故障，但大多数用户未受到全球技术故障的影响”】美国商品期货交易委员会（CFTC）表示，已经注意到用户中出现“偶发性故障，但大多数用户未受到全球技术故障的影响”；每周交易者数据将按计划于周五发布。]]></title>
+            <guid>3703652</guid>
+            <pubDate>Fri, 19 Jul 2024 14:42:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国运输部长布蒂吉格：预计在系统于周五恢复正常之前，将继续存在一些临时运输问题。希望运输系统能在周六恢复正常。]]></title>
+            <guid>3703651</guid>
+            <pubDate>Fri, 19 Jul 2024 14:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉理工大学再通报学生虐猫：予以退学】武汉理工大学7月19日通报，近日，网友反映该校土木工程与建筑学院学生付某某存在虐猫行为，经调查情况属实，目前该生已予以退学。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2032189.d.html</link>
+            <guid>3703650</guid>
+            <pubDate>Fri, 19 Jul 2024 14:42:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小型机器人概念股Serve Robotics股价翻倍，报告显示英伟达持股该公司】面向配送行业开发AI驱动型机器人的Serve Robotics涨约99.5%，创美国IPO以来最大盘中涨幅，报5.29美元。13G报告显示，英伟达对该公司持股10%，英伟达至少自2023年以来就是该公司的投资者。英伟达跌约2%。值得一提的是，英伟达持股的SoundHound目前涨0.3%，测试7月10日涨超22%所达到的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7737152.d.html</link>
+            <guid>3703649</guid>
+            <pubDate>Fri, 19 Jul 2024 14:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verizon(VZ.N)：全球范围内影响各公司和行业的IT问题对公司产生了一定影响。]]></title>
+            <guid>3703648</guid>
+            <pubDate>Fri, 19 Jul 2024 14:40:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称袭击黎真主党多个军事目标并炮击黎南部多地】当地时间7月19日下午，以色列国防军在一份声明中表示，当天稍早前，以军出动战斗机袭击了位于黎巴嫩南部艾塔沙阿布（Eyta al-Sha'ab）地区隶属于黎真主党的一个火箭弹发射场，该设施曾在当天向以色列北部阿比里姆（Abirim）发射了多枚火箭弹。此外，以军战斗机还袭击黎南部多个黎真主党军事基础设施，并炮击黎南部艾塔沙阿布、卡法基拉、拉米亚、达希拉和亚林等地区。声明还表示，以军监测到约65枚火箭弹从黎巴嫩发射到以色列北部地区，其中一些被以军防空系统拦截，其余落在空旷地区，未造成人员伤亡。随后，以色列国防军对火箭弹发射源予以炮击。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7737075.d.html</link>
+            <guid>3703646</guid>
+            <pubDate>Fri, 19 Jul 2024 14:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国运输部长布蒂吉格：正在追踪IT故障对所有交通部门的影响】美国运输部长布蒂吉格表示，正在追踪IT故障对所有交通部门的影响；在停机故障中已经提醒航空公司承担责任；尚未看到对联邦航空局及其他美国交通系统产生影响的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2031707.d.html</link>
+            <guid>3703645</guid>
+            <pubDate>Fri, 19 Jul 2024 14:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯：关闭边界将影响美国的生产者和工人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2031300.d.html</link>
+            <guid>3703644</guid>
+            <pubDate>Fri, 19 Jul 2024 14:36:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国航运机构发言人：新加坡附近的航行交通在两艘油轮相撞后未受到影响，目前油轮的状态和污染风险尚不清楚。油轮所有者安排的救助和灭火资产旨在协助努力并拖曳船只至安全地点。]]></title>
+            <guid>3703643</guid>
+            <pubDate>Fri, 19 Jul 2024 14:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆霍尔果斯口岸哈萨克斯坦路向E邮宝专线开通】 7月19日，新疆霍尔果斯口岸哈萨克斯坦路向E邮宝专线正式开通。E邮宝，是中国邮政为适应跨境轻小件物品寄递需求，开办的标准类直发寄递业务，是服务于跨境电商平台及商家的一种寄递产品。霍尔果斯陆港国际物流有限公司总经理孙祥介绍，该专线的开通，可提高通关效率，降低中哈两国跨境电商企业的运营成本，提供稳定、便捷的物流通道。“专线开通后，从接收用户的邮件到派送到哈萨克斯坦用户手中，全链路卡车时效将由25天缩短至12天。”中国邮政集团有限公司新疆区寄递事业部国际营销中心经理张梦伊说。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2031266.d.html</link>
+            <guid>3703642</guid>
+            <pubDate>Fri, 19 Jul 2024 14:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米MIX Flip与MIX Fold 4搭载汇顶科技超窄侧边电容指纹方案】 据产业链消息，7月19日晚刚发布的小米MIX Flip与MIX Fold 4两款折叠屏手机均搭载汇顶科技超窄侧边电容指纹方案，其中MIX Fold 4机身厚度仅约9.47mm，汇顶指纹方案助力其轻薄外框设计，并支持无感一握开机体验，目前该方案已广泛商用于荣耀、vivo等折叠机型。另外，新发布的小米MIX Flip亦采用汇顶触控屏控制芯片，同期发布的红米K70至尊版采用汇顶屏下光学指纹及触控芯片，小米手环9及小米手表4S Sport均采用汇顶健康传感器。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5253876.d.html</link>
+            <guid>3703641</guid>
+            <pubDate>Fri, 19 Jul 2024 14:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：美国正在全力推动释放华尔街日报记者Gershkovich，新闻工作不是犯罪。]]></title>
+            <guid>3703640</guid>
+            <pubDate>Fri, 19 Jul 2024 14:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度香料航空：技术问题已解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5253392.d.html</link>
+            <guid>3703639</guid>
+            <pubDate>Fri, 19 Jul 2024 14:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马士基：全球IT故障对部分码头造成数小时的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4512657.d.html</link>
+            <guid>3703638</guid>
+            <pubDate>Fri, 19 Jul 2024 14:32:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水利部派出10个工作组分赴长江、淮河流域等防汛重点地区】 当前，长江第1号洪水尚在收尾，第2号洪水正向中下游演进，中游干流监利至莲花塘、九江江段及鄱阳湖仍超警；淮河中游干流三河尖至洪泽湖河段全线超警。受持续强降雨和高水位行洪等影响，部分江段（河段）发生各类堤防险情，部分地方发生山洪灾害，一些城市发生严重内涝，个别中小水库和病险水库发生险情，防汛形势复杂严峻。水利部派出10个工作组分赴长江、淮河流域等防汛重点地区，有针对性强化指导支持，协助地方做好防汛抗洪工作。一是合力筑牢“安全堤”。二是确保水库安全度汛。三是加强山洪灾害防御。四是加强中小河流洪水防御。五是加强城市内涝防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2030495.d.html</link>
+            <guid>3703637</guid>
+            <pubDate>Fri, 19 Jul 2024 14:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯：将向美国前总统特朗普发送关于移民和经济一体化重要性的信件，并表示特朗普“信息不够充分”。]]></title>
+            <guid>3703635</guid>
+            <pubDate>Fri, 19 Jul 2024 14:31:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道氏技术：导电剂客户包括比亚迪、宁德时代等知名电芯公司】 道氏技术(300409)7月19日在互动平台表示，三元前驱体客户包括POSCO、振华科技、贝特瑞等知名厂商。导电剂客户包括比亚迪、宁德时代、中创新航等知名电芯公司。负极石墨化客户包括贝特瑞、璞泰来、中科星城等一线负极材料厂商。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5252941.d.html</link>
+            <guid>3703634</guid>
+            <pubDate>Fri, 19 Jul 2024 14:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软(MSFT.O)365管理中心现已可用。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7734991.d.html</link>
+            <guid>3703633</guid>
+            <pubDate>Fri, 19 Jul 2024 14:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：确认台积电AA3评级，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5252659.d.html</link>
+            <guid>3703632</guid>
+            <pubDate>Fri, 19 Jul 2024 14:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际法院：以色列定居点政策违反国际法】总部位于荷兰海牙的联合国国际法院当地时间7月19日就以色列占领包括东耶路撒冷在内的巴勒斯坦领土产生的法律后果发布咨询意见。国际法院认为，以色列定居点政策违反国际法。法院判定，以色列以违反《日内瓦公约》第53条和第64条的方式强加其占领国的权力。以色列对巴勒斯坦领土的占领是事实上的吞并。国际法院认为，以色列定居点政策是引发暴力事件的原因，以色列继续在巴勒斯坦领土设立定居点是违法的。法院要求以色列必须停止所有新的定居点活动，并裁定以色列必须对占领巴勒斯坦领土造成的损失进行赔偿。所有国家都有义务不承认以色列对巴勒斯坦领土的占领，并有义务区分以色列和巴勒斯坦被占领土。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5252046.d.html</link>
+            <guid>3703631</guid>
+            <pubDate>Fri, 19 Jul 2024 14:26:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：预计埃及央行9月份会降息100个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4511294.d.html</link>
+            <guid>3703630</guid>
+            <pubDate>Fri, 19 Jul 2024 14:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家电投与山东能源集团签署战略合作框架协议】 7月18日，国家电投董事长刘明胜在总部会见山东能源集团董事长李伟，共同见证双方《战略合作框架协议》签署。根据协议，双方将围绕煤炭资源开发、煤电联营、新能源和核电项目投资运营等方面开展合作，实现互利共赢。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2028884.d.html</link>
+            <guid>3703629</guid>
+            <pubDate>Fri, 19 Jul 2024 14:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米公布多款新品售价】7月19日，小米举行新品发布会，公布多款新品售价：Xiaomi MIX Fold 4售价8999起，Xiaomi MIX Flip售价5999元起，Redmi K70至尊版售价2599元起，Redmi K70至尊冠军版售价3999元，Xiaomi Buds 5售价699元，小米手环9售价249元起，Xiaomi Watch S4 Sport智能腕表售价1999元起，米家全效空气净化器Ultra增强版售价5799元，米家空调新风Pro售价7999元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5251412.d.html</link>
+            <guid>3703628</guid>
+            <pubDate>Fri, 19 Jul 2024 14:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国SOFR从5.35%回落至5.34%】 据美国纽约联储数据，上个交易日（7月18日）担保隔夜融资利率（SOFR）报5.34%，之前一天报5.35%。上个交易日有效的联邦基金利率报5.33%，之前一天报5.33%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7733667.d.html</link>
+            <guid>3703627</guid>
+            <pubDate>Fri, 19 Jul 2024 14:23:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【梅赛德斯-奔驰：全球生产网络受到大规模技术故障的部分影响】梅赛德斯-奔驰7月19日就大规模技术故障表示，公司的全球生产网络受到部分影响，目前正恢复正常班次运营。梅赛德斯-奔驰称，已同服务供应商共同制定措施并已开始实施，以纠正这些中断情况，“一般来说，我们工厂的生产具有高度灵活性，这也是为了能够弥补临时性的波动”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2028556.d.html</link>
+            <guid>3703626</guid>
+            <pubDate>Fri, 19 Jul 2024 14:23:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家税务总局：持续深化依法治税、以数治税、从严治税】据国家税务总局消息，7月19日，国家税务总局党委书记、局长胡静林主持召开党委（扩大）会议，传达学习党的二十届三中全会精神，研究部署税务系统贯彻落实措施。会议要求，要把学习贯彻全会精神与深化中央巡视整改、推进各项税务工作统筹结合起来，以改革增效、以改革强能，持续深化依法治税、以数治税、从严治税，持续打造效能税务，高质量推进中国式现代化税务实践，高水平助力全会确定的改革目标圆满实现。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4509817.d.html</link>
+            <guid>3703625</guid>
+            <pubDate>Fri, 19 Jul 2024 14:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家医保局：持续优化医保目录结构，完善“1+3+N”的多层次医疗保障体系】 国家医疗保障局党组召开会议，认真传达学习党的二十届三中全会精神，研究学习宣传贯彻的具体措施。会议强调，要迅即推动改革，扎实开展医保参保扩面，巩固全民参保成果，系统谋划长期护理保险制度建设，强化三医协同治理，提高医保精细化管理水平。要建立改革机制，加强医保基金监管，加强两定医药机构管理，扩大异地就医直接结算范围。要谋划医保发展，持续优化医保目录结构，常态化制度化开展医药集中采购，全面提升医保基金监管能力，完善“1+3+N”的多层次医疗保障体系，优化医保经办服务，推动医疗保障更加可感可及，奋力解除全体人民的疾病医疗后顾之忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4509616.d.html</link>
+            <guid>3703624</guid>
+            <pubDate>Fri, 19 Jul 2024 14:20:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全新极氪009上市 面向香港地区的右舵版同步发售】 7月19日晚间，极氪智能科技正式发布豪华旗舰MPV全新极氪009，其左舵和右舵版本全球同步发售。中国内地地区的官方零售价为43.9万元起，中国香港地区的用户，在享受一换一补贴后零售价为港元75.5万起。据悉，即日起，中国内地地区的用户可通过极氪App、极氪官网、全国各大城市的极氪门店等官方渠道进行订购。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7732652.d.html</link>
+            <guid>3703623</guid>
+            <pubDate>Fri, 19 Jul 2024 14:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球：所有证券金融服务均已恢复上线。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4509502.d.html</link>
+            <guid>3703622</guid>
+            <pubDate>Fri, 19 Jul 2024 14:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京解除大风黄色预警信号】目前，本市大部分地区风力已减弱，市气象台2024年7月19日22时13分解除大风黄色预警信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4509303.d.html</link>
+            <guid>3703621</guid>
+            <pubDate>Fri, 19 Jul 2024 14:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会拉丁裔党团行动委员会支持美国总统拜登竞选总统。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7732353.d.html</link>
+            <guid>3703620</guid>
+            <pubDate>Fri, 19 Jul 2024 14:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【岱勒新材：耕驰的产品已在氢燃料电池、液流储能方面小批量销售】岱勒新材在互动平台表示，耕驰的主导产品为石墨模压复合双极板，在氢燃料电池和液流储能大功率高强度、长寿命、低成本的应用上更具有优势。目前耕驰的产品已在氢燃料电池、液流储能方面通过行业相关头部客户验证且己小批量销售，目前公司正处于产能扩充阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5250041.d.html</link>
+            <guid>3703619</guid>
+            <pubDate>Fri, 19 Jul 2024 14:17:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际法院：所有国家都有义务不承认以色列对巴勒斯坦领土的占领。所有国家都有义务区分以色列领土和被占领土。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4509059.d.html</link>
+            <guid>3703618</guid>
+            <pubDate>Fri, 19 Jul 2024 14:17:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道氏技术：与比亚迪的合作主要是导电剂领域】道氏技术在互动平台表示，公司已进入比亚迪汽车电池的供应链体系，在产品质量、价格、交付能力等方面得到了客户认可。目前，公司与比亚迪的合作主要是导电剂领域，随着比亚迪的销量增长和双方合作的不断深入，公司产品的供应量也将得到提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2027273.d.html</link>
+            <guid>3703617</guid>
+            <pubDate>Fri, 19 Jul 2024 14:17:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦通信委员会（FCC）：我们已注意到有关系统故障的报告，该故障导致服务中断，包括911服务。]]></title>
+            <guid>3703616</guid>
+            <pubDate>Fri, 19 Jul 2024 14:16:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[国际法院：以色列在巴勒斯坦领土的持续存在是非法的。以色列有义务尽快结束其在被占领的巴勒斯坦领土上的存在。以色列必须停止所有新的定居活动。以色列必须对因占领巴勒斯坦领土所造成的损害进行赔偿。]]></title>
@@ -90,12 +471,6 @@
             <pubDate>Fri, 19 Jul 2024 14:03:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际法院：以色列的做法和政策侵犯了巴勒斯坦人民的自决权。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4506018.d.html</link>
-            <guid>3703601</guid>
-            <pubDate>Fri, 19 Jul 2024 14:03:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[【外交部部长助理苗得雨会见世界卫生组织助理总干事李爱兰】7月18日，外交部部长助理苗得雨会见来华访问的世界卫生组织助理总干事李爱兰。苗得雨介绍了中国卫生健康事业发展理念和成就，表示中方支持世卫组织在全球卫生治理中发挥领导协调作用，愿同世卫组织积极探索拓展合作领域，共同推动构建人类卫生健康共同体。]]></title>
             <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2024175.d.html</link>
             <guid>3703600</guid>
@@ -146,12 +521,6 @@
             <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5245774.d.html</link>
             <guid>3703592</guid>
             <pubDate>Fri, 19 Jul 2024 13:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际法院：以色列对巴勒斯坦领土的占领是事实上的吞并。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5245619.d.html</link>
-            <guid>3703591</guid>
-            <pubDate>Fri, 19 Jul 2024 13:55:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国证券交易委员会发言人称，该机构并未遇到EDGAR申报系统的问题。]]></title>
@@ -223,377 +592,6 @@
             <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5244713.d.html</link>
             <guid>3703579</guid>
             <pubDate>Fri, 19 Jul 2024 13:50:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：在扩大国际合作中提升开放能力 建设更高水平开放型经济新体制】商务部部长王文涛主持召开党组会议，传达学习党的二十届三中全会精神，研究部署学习宣传贯彻工作。会议强调，要准确领会全会精神，围绕进一步全面深化改革的总目标，贯彻“六个坚持”原则，深刻认识开放是中国式现代化的鲜明标识，坚持对外开放基本国策，坚持以开放促改革，依托我国超大规模市场优势，在扩大国际合作中提升开放能力，建设更高水平开放型经济新体制。要认真对标对表全会部署，立足商务工作“三个重要”定位，在构建全国统一大市场、稳步扩大制度型开放、深化外贸体制改革、深化外商投资和对外投资管理体制改革、优化区域开放布局、完善推进高质量共建“一带一路”机制、健全提升产业链供应链韧性和安全水平制度等方面，推动重大改革举措转化为商务领域任务清单和工作清单，逐条抓好落实。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4503382.d.html</link>
-            <guid>3703578</guid>
-            <pubDate>Fri, 19 Jul 2024 13:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台湾花莲近海发生里氏4.5级地震】据台湾气象部门消息，今天（19日）20时20分发生的里氏规模4.5地震，震中位于花莲县政府东南方4.2公里处，地震深度为25.7公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5244283.d.html</link>
-            <guid>3703577</guid>
-            <pubDate>Fri, 19 Jul 2024 13:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部：推进用水权市场化交易、水利投融资等领域改革】水利部部长李国英主持召开党组会议，传达学习党的二十届三中全会精神，研究贯彻落实工作。会议要求，要推进水利行业自然垄断环节独立运营和竞争性环节市场化改革，健全监管体制机制；加快完善水旱灾害防御“三大体系”；健全重大水利工程建设、运行、管理机制；推进水资源价格形成机制改革，建立健全节水制度政策，落实水资源刚性约束制度；健全因地制宜发展水利新质生产力体制机制，充分发挥水利技术标准的导向性、引领性、推动性、基础性作用，构建数字孪生水利体系；推进用水权市场化交易、水利投融资等领域改革；全面推进水利安全生产风险管控“六项机制”；完善水利法治体系，着力提升水旱灾害防御能力、水资源节约集约利用能力、水资源优化配置能力、江河湖泊生态保护治理能力，为推动水利高质量发展、保障我国水安全提供强大动力和制度保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4503044.d.html</link>
-            <guid>3703576</guid>
-            <pubDate>Fri, 19 Jul 2024 13:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【教育部：从教育大国到教育强国是一个系统性跃升和质变 必须以改革创新为动力】教育部党组召开扩大会议，传达学习党的二十届三中全会精神，部署贯彻落实工作。会议强调，从教育大国到教育强国是一个系统性跃升和质变，必须以改革创新为动力。要以钉钉子精神抓好改革落实，推动全会重大决策部署在教育系统落地见效，把全会精神落实到教育强国建设规划纲要编制实施和各项重点工作中，围绕立德树人根本任务、服务国家战略和经济社会发展、解决人民群众急难愁盼问题深化教育综合改革，为加快建设教育强国激活力增动力。要加强组织领导，切实增强思想自觉和行动自觉，提高政治站位，压实工作责任，务求工作实效，不折不扣把全会精神的学习宣传贯彻工作落实到位、抓出成效。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2021440.d.html</link>
-            <guid>3703575</guid>
-            <pubDate>Fri, 19 Jul 2024 13:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广电总局：提高站位系统谋划广电领域改革】据国家广播电视总局消息，国家广播电视总局7月19日召开学习宣传贯彻党的二十届三中全会精神会议。会议传达了党的二十届三中全会精神，强调要把学习宣传贯彻全会精神作为当前和今后一个时期的重大政治任务抓紧抓好，抓紧制订实施学习、宣传、贯彻工作方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5244144.d.html</link>
-            <guid>3703574</guid>
-            <pubDate>Fri, 19 Jul 2024 13:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷军：小米汽车预计11月提前完成全年10万辆交付目标】 7月19日晚，小米创办人、董事长兼CEO雷军在其年度演讲中汇报小米汽车进展。雷军透露，迄今为止，已交付超3万台，预计11月提前完成全年10万辆交付目标；预计12月，全国59城，220家门店开业。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5244114.d.html</link>
-            <guid>3703573</guid>
-            <pubDate>Fri, 19 Jul 2024 13:48:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏交科集团与移动江苏公司、华为签署联合创新合作协议】 苏交科集团消息，苏交科集团与中国移动江苏公司、华为公司正式签署联合创新合作协议，开创性地将5G-A通感一体技术应用于公路桥梁健康监测领域，标志着5G通信技术在基础设施结构安全监测领域的全国首次利用。此合作不仅旨在验证技术的实际可行性，更将积极探索其商业应用的广阔前景，为智慧交通基础设施的未来发展奠定坚实基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2021337.d.html</link>
-            <guid>3703572</guid>
-            <pubDate>Fri, 19 Jul 2024 13:48:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奈飞(NFLX.O)转跌，此前一度涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4502757.d.html</link>
-            <guid>3703570</guid>
-            <pubDate>Fri, 19 Jul 2024 13:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：充分发挥重点区域先行先试作用 大胆试、大胆闯、自主改】据上海发布消息，上海市委常委会今天（7月19日）上午举行扩大会议，传达学习党的二十届三中全会精神和习近平总书记在全会上的重要讲话精神。会议指出，充分发挥重点区域先行先试作用，大胆试、大胆闯、自主改，率先在重要领域和关键环节改革上取得新的重大突破。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4502745.d.html</link>
-            <guid>3703569</guid>
-            <pubDate>Fri, 19 Jul 2024 13:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷军：小米空调中国第四，没有说过我们第一，还要向格力学习】7月19日晚间消息，在2024雷军年度演讲活动上，小米董事长雷军发表演讲。在发布空调产品时，雷军表示，小米空调目前中国第四，没有说过我们第一；与格力的差距还很远，还要向格力学习。雷军此次是隔空回应此前董明珠“打假”小米空调国内第一的消息。在今年6月的格力电器2023年年度股东大会上，针对网上有文章和短视频说小米空调销量超过了格力空调，格力电器董事长董明珠说，最近网上编造的谣言较多，“我们不断在打假”。她质问道，小米说自己空调第一名，全靠别的厂家做产品，你的技术是什么？“谁是第一，消费者心里有杆秤”。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5243493.d.html</link>
-            <guid>3703566</guid>
-            <pubDate>Fri, 19 Jul 2024 13:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软股价一度转涨，一度上涨0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7725272.d.html</link>
-            <guid>3703565</guid>
-            <pubDate>Fri, 19 Jul 2024 13:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大银行家协会：银行正在与合作伙伴一起审查全球技术故障情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7724734.d.html</link>
-            <guid>3703563</guid>
-            <pubDate>Fri, 19 Jul 2024 13:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国网络安全和基础设施安全局（CISA）：我们正在与CrowdStrike以及我们的联邦、州、地方和关键基础设施合作伙伴紧密合作，以全面评估和解决这些问题。]]></title>
-            <guid>3703562</guid>
-            <pubDate>Fri, 19 Jul 2024 13:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国光伏模组生产商SunPower(SPWR.O)重挫42%，跌势扩大至纪录新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5242835.d.html</link>
-            <guid>3703561</guid>
-            <pubDate>Fri, 19 Jul 2024 13:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国运通(AXP.N)一度跌4.3%，为去年10月20日以来最大盘中跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5242796.d.html</link>
-            <guid>3703560</guid>
-            <pubDate>Fri, 19 Jul 2024 13:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷军吐槽iPhone不能通话录音】7月19日，雷军在小米发布会上介绍了耳机的独立录音功能，在打电话的时候连续敲三下就开始录音，“这是为iPhone用户设计的，其实我刚知道iPhone到今天为止还没有电话录音。我也惊讶，iPhone用户也换一下安卓手机试试，其实国产手机也挺强的，后来没办法我们帮你们在耳机上也支持了，推荐给iPhone用户。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5242588.d.html</link>
-            <guid>3703559</guid>
-            <pubDate>Fri, 19 Jul 2024 13:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江省发布暴雨红色预警】黑龙江省气象台2024年7月19日21时20分发布暴雨红色预警信号：过去1小时哈尔滨木兰站降雨量已达90.1毫米，未来3小时还将有20～40毫米的降雨量，累计雨量将达到或超过100毫米，请注意防范。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7724244.d.html</link>
-            <guid>3703558</guid>
-            <pubDate>Fri, 19 Jul 2024 13:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹武装冲突双方结束在日内瓦举行的非直接谈判】当地时间19日，联合国秘书长苏丹问题特使拉马姆拉发布声明表示，苏丹武装冲突双方——苏丹武装部队和快速支援部队在瑞士日内瓦举行的非直接谈判于当天结束。声明表示，拉马姆拉根据联合国安理会相关决议邀请苏丹武装冲突双方前往日内瓦就保护平民、保障人道主义准入等问题举行非直接谈判。拉马姆拉分别与冲突双方举行会谈，并作为中间人进行传话。谈判从本月11日持续到19日，拉马姆拉与冲突双方共进行了约20次会谈，包括全体会议和技术小组会议。冲突双方在会谈中表达了各自立场，愿意就相关问题继续与拉马姆拉进行接触，并承诺对联合国方面提出的要求作出回应。声明还表示，冲突双方在此次会谈中并未与联合国方面签署协议，但其中一方在会谈中做出了保护平民和为人道主义援助提供便利的承诺。拉马姆拉未来将继续与冲突双方领导人保持密切联系，并就各项承诺的执行情况采取后续措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7724086.d.html</link>
-            <guid>3703557</guid>
-            <pubDate>Fri, 19 Jul 2024 13:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际法院表示，以色列的定居政策违反国际法。国际法院法官称，法院认为将定居者转移到约旦河西岸和东耶路撒冷违反了《日内瓦第四公约》第四十九条，以色列土地政策不符合第四十六条、第五十二条和第五十五条。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2019398.d.html</link>
-            <guid>3703556</guid>
-            <pubDate>Fri, 19 Jul 2024 13:38:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蒙古发展民族联盟与蒙草集团签署合作备忘录】 蒙草生态消息，7月19日，蒙古发展民族联盟股份公司与蒙草集团签署合作备忘录。合作备忘录签署后，双方将充分利用各自优势促进合作项目落地落实，共建绿色农业基地，推动中蒙两国荒漠化治理，建设形成开放程度高、创新能力强的国际生态合作机制，为中蒙两国生态安全建设贡献力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7723830.d.html</link>
-            <guid>3703555</guid>
-            <pubDate>Fri, 19 Jul 2024 13:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国白宫：NBC新闻关于拜登家族的报道是“错误的”】美国白宫发言人表示，NBC新闻关于拜登家族的报道是“错误的”。NBC新闻稍早前报道称，拜登的家人开始讨论他退出竞选的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5242079.d.html</link>
-            <guid>3703554</guid>
-            <pubDate>Fri, 19 Jul 2024 13:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：一群共和党参议员就特朗普“遇刺未遂”事件与特勤局局长激烈对峙，要求她辞职】 据美国广播公司（ABC）19日报道，美国特勤局局长金伯利·齐特尔的工作人员向该媒体表示，在共和党全国代表大会上，一群共和党参议员就前总统特朗普“遇刺未遂”事件与齐特尔发生激烈对峙，要求她辞职，但齐特尔并无辞职计划。ABC说，要求齐特尔辞职的呼声越来越高，但齐特尔的工作人员说，齐特尔决心留任，并完成对特朗普竞选集会上发生枪击事件的调查。报道提到，一名知情人士18日向该媒体透露，特朗普16日在密尔沃基市与齐特尔会面，齐特尔向他通报了关于“暗杀企图”的情况。报道称，17日晚上，共和党参议员玛莎·布莱克本、约翰·巴拉索、詹姆斯·兰克福德和凯文·克莱默在共和党全国代表大会上质问齐特尔。布莱克本在社交媒体上发布视频，记录了此次会面发生时的情况。视频显示，参议员们围住齐特尔，并要求她立即回答关于特勤局在集会上失职的问题。巴拉索对齐特尔说，“你要么今晚辞职，要么现在就开始回答关于对特朗普（前）总统的死亡威胁以及允许他上台的问题”。布莱克本要求齐特尔解释为什么特勤局“在明知有潜在威胁的情况下仍允许（前）总统（特朗普）上台”。在听了参议员们发言后，齐特尔回应说，“我不认为这里是进行这种讨论的场所”。视频显示，齐特尔表示她将在“适宜的论坛”上回答他们的问题，巴拉索则说，“我们和你一起走”。视频显示，当齐特尔试图走开时，巴拉索开始大喊道，“你应该保护美国总统”。克莱默一度试图挡在齐特尔面前，他反复大喊，“你要对我们负责”。还有一名参议员指责齐特尔“拒绝回答问题”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2019281.d.html</link>
-            <guid>3703553</guid>
-            <pubDate>Fri, 19 Jul 2024 13:37:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[礼来(LLY.N)股价上涨3%，此前礼来替尔泊肽注射液在华获批减重适应症。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4500501.d.html</link>
-            <guid>3703552</guid>
-            <pubDate>Fri, 19 Jul 2024 13:36:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国总统拜登的竞选经理：拜登“比以往任何时候都更有决心”击败特朗普】 美国总统拜登的竞选经理Jen O’Malley Dillon在接受MSNBC采访时表示，那些建议拜登退出竞选的只是一个“小运动”。拜登“比以往任何时候都更有决心”击败对手唐纳德· 特朗普。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5241764.d.html</link>
-            <guid>3703551</guid>
-            <pubDate>Fri, 19 Jul 2024 13:36:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所对东土科技下发监管函】深交所对东土科技及相关责任人下发监管函，公司于2024年7月19日晚披露的《关于2023年年度报告的更正公告》显示，公司于2024年4月22日晚披露的《2023年年度报告》中关于主要销售客户情况的内容有误。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2018954.d.html</link>
-            <guid>3703550</guid>
-            <pubDate>Fri, 19 Jul 2024 13:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球金融服务信息共享分析中心FS-ISAC发言人：核心功能，包括银行和支付处理，基本上正常运作，只有一些零散的影响。公司正在实施解决方案；将继续评估对金融服务的其他影响。]]></title>
-            <guid>3703549</guid>
-            <pubDate>Fri, 19 Jul 2024 13:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奈飞(NFLX.O)一度涨5.6%，为1月24日以来最大盘中涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2018682.d.html</link>
-            <guid>3703548</guid>
-            <pubDate>Fri, 19 Jul 2024 13:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东发布暴雨红色预警和地质、山洪灾害预警】记者从山东省气象台等多个部门获悉，7月19日下午开始，山东多地已出现暴雨及强对流天气。为提醒公众做好防范和应对，山东将此前发布的暴雨预警升级为红色，并发布了地质灾害气象风险预警和山洪灾害气象预警。 19日下午，济宁、枣庄、临沂和泰安的部分地区已出现暴雨局部大暴雨，临沂市平邑县地方镇6小时降雨量达209.1毫米。山东省气象台预计，19日夜间至20日夜间，山东中南部地区有强降雨并伴有雷电，最大1小时降水量为60毫米至90毫米，雷雨地区雷雨时阵风8级至10级，最大风力可达11级以上。 为此，山东省气象台于7月19日20时将此前已经升级至橙色的暴雨预警，再度升级为红色。其中，菏泽、济宁、枣庄、临沂和日照有暴雨到大暴雨局部特大暴雨；聊城南部、泰安、济南南部、淄博南部、潍坊、青岛、烟台南部和威海有大到暴雨局部大暴雨；其他地区有雷雨或阵雨。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7722897.d.html</link>
-            <guid>3703547</guid>
-            <pubDate>Fri, 19 Jul 2024 13:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州发展：上半年完成合并口径发电量同比增长12.5%】广州发展公告，2024年4-6月，公司合并口径发电企业累计完成发电量61.98亿千瓦时，上网电量(含光伏发电售电量)59.20亿千瓦时，与去年同期相比分别增长4.50%和5.35%。2024年1-6月，公司合并口径发电企业累计完成发电量120.74亿千瓦时，上网电量(含光伏发电售电量)115.44亿千瓦时，与去年同期相比分别增长12.50%和13.44%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7722529.d.html</link>
-            <guid>3703546</guid>
-            <pubDate>Fri, 19 Jul 2024 13:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫表示，拜登听取了有关CROWDSTRIKE服务故障的简报。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5240930.d.html</link>
-            <guid>3703545</guid>
-            <pubDate>Fri, 19 Jul 2024 13:32:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国光伏模组生产商SunPower(SPWR.O)跌26%，消息面上，SunPower告知客户暂停部分业务，停止签署新协议，同时无法支持运输中或已交付货物的安装服务。]]></title>
-            <guid>3703544</guid>
-            <pubDate>Fri, 19 Jul 2024 13:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冠忠智慧出行计划向亿航智能采购总计30架EH216-S无人驾驶载人航空器】7月19日，亿航智能宣布与香港最大的非专营公共巴士运营商冠忠巴士集团有限公司（0306.HK）旗下的冠忠智慧出行有限公司签订采购和运营合作协议，旨在合作促进EH216-S无人驾驶载人航空器在中国香港、澳门、湖北省襄阳市及十堰市的推广与运营。根据该合作协议，冠忠智慧出行计划向亿航智能采购总计30架EH216-S。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4499336.d.html</link>
-            <guid>3703543</guid>
-            <pubDate>Fri, 19 Jul 2024 13:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[夏威夷电力实业(HE.N)涨超40%，消息面上，夏威夷电力实业等公司已初步同意支付逾40亿美元，以解决与去年毛伊岛山火有关的数百起诉讼。]]></title>
-            <guid>3703542</guid>
-            <pubDate>Fri, 19 Jul 2024 13:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.2%，标普500涨0.04%，纳指跌0.2%】全球大范围宕机的始作俑者CrowdStrike跌12.5%，公司称已部署解决问题方案。美国运通跌3.6%，Q2营收逊预期。奈飞涨1.6%，Q2新增800万用户。ARM涨2.2%，大摩上调其评级，看高至190美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4499017.d.html</link>
-            <guid>3703541</guid>
-            <pubDate>Fri, 19 Jul 2024 13:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空表示，预计周五会有更多航班延误和取消。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7721801.d.html</link>
-            <guid>3703540</guid>
-            <pubDate>Fri, 19 Jul 2024 13:29:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部：推进制造业数字化转型 培育新支柱新赛道】工信部部长金壮龙先后主持召开党组会议和干部大会，传达党的二十届三中全会精神，研究部署学习宣传贯彻工作。会议要求，要进一步增强责任感、紧迫感，落实落细党中央、国务院各项任务要求，统筹发展和安全，以改革创新精神抓好下半年重点工作任务落实。要持续强化党的创新理论武装，深化党纪学习教育，扎实抓好中央巡视整改，巩固和增强工业经济回升向好态势，抓紧抓实重点产业链高质量发展行动，提升产业科技创新能力，推进制造业数字化转型，培育新支柱新赛道，促进中小企业高质量发展，推动工业绿色低碳发展，巩固提升信息通信业竞争优势和领先地位，做好政策宣传和舆论引导，有效应对外部风险挑战，确保全面完成全年目标任务。要总结评估“十四五”规划落实情况，切实抓好“十五五”规划前期谋划工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2017428.d.html</link>
-            <guid>3703539</guid>
-            <pubDate>Fri, 19 Jul 2024 13:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报道：拜登的家人开始讨论拜登退选的相关事宜】据报道，两位知情人士透露，拜登的家人讨论了他退出竞选活动的可能情况。谈话的总体基调是，任何退选计划都应该使民主党处于击败特朗普的最佳位置，同时也要对得起他在民选办公室为国家服务的50多年。拜登的家人专门讨论了他希望如何按照自己的时间和精心策划的计划结束连任竞选。知情人士说，有关竞选活动对他的健康、家庭和国家稳定的影响的考虑是讨论的重点。拜登的前白宫幕僚长、数十年来的顾问Klain表示，拜登正在听取公众和私下要求他退选的呼声。“我认为他感受到了压力，”最近与拜登交谈过的Klain说。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2016730.d.html</link>
-            <guid>3703538</guid>
-            <pubDate>Fri, 19 Jul 2024 13:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【A股五大上市险企人身险保费分化，市场仍看好中报表现】 五大A股上市险企今年上半年的保费成绩单近日皆已出炉。统计发现，它们今年上半年共计实现1.76万亿元原保险保费收入，同比增长3.03%。和财险保费的普遍同比上涨相比，上市险企人身险保费则呈现“三升两降”的分化态势。 尽管人身险保费增长有所分化，但市场分析师普遍看好上市险企中报的价值表现。他们认为，在代理人渠道高质量转型和银保渠道“报行合一”下，预计新业务价值率将迎来改善，从而驱动上市险企中报的新业务价值（NBV）在高基数基础上保持较好增长。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5239361.d.html</link>
-            <guid>3703537</guid>
-            <pubDate>Fri, 19 Jul 2024 13:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生态环境部：设立海洋倾倒区是服务沿海地方重大项目建设的具体抓手】据生态环境部消息，7月19日，生态环境部部长黄润秋主持召开部常务会议，审议并原则通过《入海排污口监督管理办法（试行）》、崔家潞湾外远海倾倒区等2个海洋倾倒区选划。会议强调，设立海洋倾倒区是服务沿海地方重大项目建设的具体抓手。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5239142.d.html</link>
-            <guid>3703536</guid>
-            <pubDate>Fri, 19 Jul 2024 13:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沪银主力合约日内跌超3.00%，现报7578元/千克。沪金主力合约日内跌超2%，现报559.92元/克。]]></title>
-            <guid>3703535</guid>
-            <pubDate>Fri, 19 Jul 2024 13:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约州首席网络官称尚无恢复时间表。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2016106.d.html</link>
-            <guid>3703534</guid>
-            <pubDate>Fri, 19 Jul 2024 13:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【怡亚通医疗与海正海南签订战略合作协议】 怡亚通消息，7月17日，深圳市怡亚通医疗供应链管理有限公司（简称“怡亚通医疗”）与海正（海南）医学科技发展有限公司（简称“海正海南”）正式签订战略合作协议。此次合作旨在利用双方的渠道网络、市场推广经验等优势资源，共同推动海正海南的核心产品伊索佳®（硫酸氨基葡萄糖胶囊）的市场发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5238604.d.html</link>
-            <guid>3703533</guid>
-            <pubDate>Fri, 19 Jul 2024 13:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国总统拜登的家人开始讨论他退出竞选的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2015164.d.html</link>
-            <guid>3703532</guid>
-            <pubDate>Fri, 19 Jul 2024 13:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国海诚：近期中标多个项目】 中国海诚消息，近期中国海诚各经营单位在食品发酵、节能环保、智能制造、粮食仓储等领域连续中标：中标山西老陈醋厂综合升级改造项目、晋中伊利绿色智能制造新模式示范技术应用改造项目、湛江市临港工业区集中供热项目、雷打石生活垃圾卫生填埋场封场库区光伏项目、西安市特种装备研发生产基地项目、广西壮族自治区五象粮食储备库有限公司粮食仓储设施建设项目（一期工程）等多个项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5237850.d.html</link>
-            <guid>3703531</guid>
-            <pubDate>Fri, 19 Jul 2024 13:19:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沙钢股份：沈彬成公司实际控制人】 沙钢股份公告，公司原实际控制人沈文荣逝世后，其儿子沈彬通过协议转让和继承方式取得沙钢集团、润源不锈钢和锦程沙洲相关股权，间接控制沙钢股份58787.17万股，占公司总股数的26.80%，成为公司的实际控制人。沈彬暂无在未来12个月内增持或处置公司股份的具体计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4495831.d.html</link>
-            <guid>3703530</guid>
-            <pubDate>Fri, 19 Jul 2024 13:17:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫官员O'Malley Dillon：美国总统拜登的竞选活动是为一场非常接近的竞赛而建立的。美国总统拜登下周将重返竞选活动。]]></title>
-            <guid>3703529</guid>
-            <pubDate>Fri, 19 Jul 2024 13:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：建议做多南非兰特对抗哥伦比亚比索/智利比索篮子。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2014797.d.html</link>
-            <guid>3703528</guid>
-            <pubDate>Fri, 19 Jul 2024 13:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[梅赛德斯全球生产受到IT问题的部分影响，正在推出措施以解决信息技术问题，公司的生产恢复正常班次运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5237169.d.html</link>
-            <guid>3703527</guid>
-            <pubDate>Fri, 19 Jul 2024 13:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联邦快递表示，包裹投递可能出现延误。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7718130.d.html</link>
-            <guid>3703526</guid>
-            <pubDate>Fri, 19 Jul 2024 13:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交通运输部：深化综合交通运输体系改革为统领 进一步全面深化交通运输改革】 据交通运输部消息，7月19日上午，交通运输部召开党组会和干部大会，传达学习党的二十届三中全会精神。部党组书记、部长李小鹏主持会议并讲话，强调要更加紧密地团结在以习近平同志为核心的党中央周围，坚持以习近平新时代中国特色社会主义思想为指导，凝心聚力、奋发有为，以深化综合交通运输体系改革为统领，进一步全面深化交通运输改革，为奋力加快建设交通强国、努力当好中国式现代化的开路先锋提供强劲动力和体制机制保障，为实现强国建设、民族复兴伟业提供坚实有力的交通运输服务保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2014086.d.html</link>
-            <guid>3703525</guid>
-            <pubDate>Fri, 19 Jul 2024 13:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国航空：我们的运营已恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestax7717982.d.html</link>
-            <guid>3703524</guid>
-            <pubDate>Fri, 19 Jul 2024 13:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【司法部：围绕构建全国统一大市场等强化法治供给 为改革发展赋能增效】据司法部消息，7月19日，司法部召开党组会、党员干部大会，传达学习党的二十届三中全会精神，研究贯彻落实措施。党组书记、部长贺荣出席会议并讲话。会议指出，党的二十届三中全会是在以中国式现代化全面推进强国建设、民族复兴伟业的关键时期举行的一次十分重要的会议。全会通过的《决定》，紧紧围绕推进中国式现代化这个主题擘画进一步全面深化改革的战略举措，既是党的十八届三中全会以来全面深化改革的实践续篇，也是新征程推进中国式现代化的时代新篇，充分体现了以习近平同志为核心的党中央完善和发展中国特色社会主义制度、推进国家治理体系和治理能力现代化的历史主动，彰显了以进一步全面深化改革开辟中国式现代化广阔前景的坚定决心，是指导新征程上进一步全面深化改革的纲领性文件。会议强调，各级司法行政机关要迅速把思想和行动统一到习近平总书记重要讲话和全会精神上来，深入践行习近平法治思想，深刻领会和把握进一步全面深化改革的主题、重大原则、重大举措和根本保证，把坚定拥护“两个确立”、坚决做到“两个维护”落到实际工作中，牢牢坚持党对司法行政工作的绝对领导，坚持以人民为中心，坚定走中国特色社会主义法治道路，强化政治能力、法治思维和专业素养，务实担当贯彻落实全会部署的相关改革任务。要聚焦党和国家中心任务，围绕构建全国统一大市场、加强产权保护、深化财税金融体制改革、发展新质生产力、稳步扩大制度型开放、保障和改善民生、健全国家安全体系和社会治理体系等强化法治供给，为改革发展赋能增效。要全面落实全会关于完善中国特色社会主义法治体系的战略部署，深刻理解和把握法治是中国式现代化的重要保障，持续抓实走深习近平法治思想学习宣传贯彻，在提高行政立法质效、促进依法行政、加强刑罚执行、提升法律服务水平、加强涉外法治建设等方面履职尽责。会议要求，要把学习宣传贯彻全会精神作为当前和今后一个时期的重大政治任务抓紧抓实，组织全系统广大干警认真学习全会文件，结合实际做好学习宣传、组织培训等工作，以钉钉子精神抓好任务落实。部领导出席会议。中央依法治国办秘书局，驻部纪检监察组，部机关各厅局和直属单位党员干部参加会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2013993.d.html</link>
-            <guid>3703523</guid>
-            <pubDate>Fri, 19 Jul 2024 13:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[麦格理：将奈飞(NFLX.O)目标价从685美元上调至695美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5236690.d.html</link>
-            <guid>3703522</guid>
-            <pubDate>Fri, 19 Jul 2024 13:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富创精密：目前在手订单充足，下游需求较为旺盛，可以支撑未来三个月的生产】 富创精密近日接受机构调研时表示，目前公司在手订单充足，下游需求较为旺盛，可以支撑未来三个月的生产。公司经营业绩将继续保持增长态势。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2013872.d.html</link>
-            <guid>3703521</guid>
-            <pubDate>Fri, 19 Jul 2024 13:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京市委网信办与奇安信签署战略合作协议】 奇安信消息，7月17日，南京市委网信办与奇安签署战略合作协议。基于战略合作，奇安信将更大力度的调集优势能力、人才和资源，投入到支持南京市网信办的工作，通过打造全市一体化网络安全监管运营模式、构建一套网络安全赋能与共享服务平台、建设一套网络安全治理体系、探索一条促进城市网络安全发展路径，筑牢南京市的网络安全保障屏障，全面提升南京市的网络安全能力和水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5236554.d.html</link>
-            <guid>3703520</guid>
-            <pubDate>Fri, 19 Jul 2024 13:13:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内跌超3%，现报28.91美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2013579.d.html</link>
-            <guid>3703519</guid>
-            <pubDate>Fri, 19 Jul 2024 13:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美银：投资者涌入美股 押注特朗普胜选和美联储降息】美国银行的策略师表示，投资者正纷纷涌向美国股市，因为他们对美联储9月降息和唐纳德·特朗普赢得大选的预期升温。由Michael Hartnett牵头的美银团队援引EPFR Global数据称，在截至周三的一周内，美国股票基金吸收了约450亿美元的资金，这是有史以来规模第四大资金流入。小盘股基金流入99亿美元，为史上第二大，大盘股基金流入274亿美元。这位策略师表示，交易员在美联储启动首次降息前转为看涨。他补充说，投资者现在预计美联储9月份降息的可能性为100%，特朗普赢得美国总统大选的可能性为75%，未来12个月“软着陆”的可能性为68%。他认为风险偏好在轮动，而不是消退。他预计资金将从美元流向黄金，从大型企业流向小型企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaz4494355.d.html</link>
-            <guid>3703518</guid>
-            <pubDate>Fri, 19 Jul 2024 13:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙机场管理公司AENA：在CrowdStrike全球IT事件影响后恢复了公司的主要系统。一些航空公司正在调整他们的运营，并仍在努力恢复受影响的系统。AENA正在与CrowdStrike直接合作，以实施最终解决方案。]]></title>
-            <guid>3703517</guid>
-            <pubDate>Fri, 19 Jul 2024 13:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江西省青少年游泳锦标赛部分参赛者呕吐、腹泻，官方：共有57人被陆续送医】 婺源县联合调查组7月19日通报，7月17日下午4时许，婺源县社会体育产业发展中心接到报告，参加2024年江西省青少年游泳锦标赛的部分人员出现呕吐、腹泻等不适症状，中心立即组织送医就诊。截至19日下午5时，共有57人（参赛队员39人、家长18人）被陆续送医，其中50人已出院，7人（参赛队员1人，家长6人）留院观察。 婺源县迅速成立联合调查组开展调查，第一时间对涉事酒店留样食品封存送检，责令暂停餐饮服务；同步开展流行病学调查，将就诊人员呕吐物等样本送检；对游泳馆及涉事酒店进行了清洁消毒。经检测，留样食品未检出食源性致病菌，排除食物中毒可能；呕吐物等样本检出诺如病毒GⅡ型，经综合研判，不适症状系诺如病毒感染所致。下一步，我们将全力做好后续相关服务、保障工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5236050.d.html</link>
-            <guid>3703516</guid>
-            <pubDate>Fri, 19 Jul 2024 13:10:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌吉两国总统就提升双边贸易额达成一致】乌兹别克斯坦总统网站18日发表声明说，乌总统米尔济约耶夫当天在塔什干与到访的吉尔吉斯斯坦总统扎帕罗夫举行会谈，双方就提升双边贸易额达成一致。 声明说，扎帕罗夫此次访问标志着双方合作新阶段的开始。双方在会谈中强调，当前的重要任务是制定综合措施，以期在未来几年内将双边贸易额提升至20亿美元。此外，双方还重点关注了中吉乌铁路等地区项目的推进情况。 据介绍，扎帕罗夫于18日至19日对乌兹别克斯坦进行国事访问。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5235664.d.html</link>
-            <guid>3703515</guid>
-            <pubDate>Fri, 19 Jul 2024 13:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫官员O'Malley Dillon：拜登在参与这场竞选，他比以往任何时候都更决心击败特朗普。拜登支持率的下滑只是小幅波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5235586.d.html</link>
-            <guid>3703514</guid>
-            <pubDate>Fri, 19 Jul 2024 13:08:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合太平洋铁路：正在尽一切可能保持货运畅通，但客户发货存在一些处理延迟。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestaw2012694.d.html</link>
-            <guid>3703513</guid>
-            <pubDate>Fri, 19 Jul 2024 13:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【现货黄金跌破2400美元/盎司 为7月12日以来首次】现货黄金跌破2400美元/盎司，为7月12日以来首次，日内跌近2%。现货白银跌破29美元/盎司，日内跌2.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-19/detail-incestau5235133.d.html</link>
-            <guid>3703512</guid>
-            <pubDate>Fri, 19 Jul 2024 13:06:47 GMT</pubDate>
         </item>
     </channel>
 </rss>

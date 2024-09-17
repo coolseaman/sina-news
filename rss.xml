@@ -4,13 +4,263 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 17 Sep 2024 05:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 06:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[泰国财政部：首次发放救济金计划推动GDP增长0.35个百分点。]]></title>
+            <title><![CDATA[美国银行金融管理局：现金水平降至4.2%。]]></title>
+            <guid>3779970</guid>
+            <pubDate>Tue, 17 Sep 2024 06:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行9月全球基金经理调查：周期性股大幅转向债券敏感股，增持公用事业股为2008年以来最高水平，大宗商品配置为7年低点。]]></title>
+            <guid>3779969</guid>
+            <pubDate>Tue, 17 Sep 2024 06:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行9月全球基金经理调查：策略性调查显示，美联储降息幅度越大，对周期性股票越好。]]></title>
+            <guid>3779968</guid>
+            <pubDate>Tue, 17 Sep 2024 06:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行9月全球基金经理调查：由于对“美联储降息=软着陆”的乐观预期，市场情绪自6月以来首次改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5754675.d.html</link>
+            <guid>3779967</guid>
+            <pubDate>Tue, 17 Sep 2024 06:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲最大的网上游戏公司 Playtech 公司将以 25.6 亿美元的价格向 Flutter 出售意大利部门。]]></title>
+            <guid>3779966</guid>
+            <pubDate>Tue, 17 Sep 2024 06:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大皇家银行：将壳牌目标价从3400便士上调至3500便士。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8977384.d.html</link>
+            <guid>3779965</guid>
+            <pubDate>Tue, 17 Sep 2024 06:17:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苏格兰皇家银行将西班牙跨国能源和石化公司雷普索尔目标价从16欧元下调至14欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5754367.d.html</link>
+            <guid>3779964</guid>
+            <pubDate>Tue, 17 Sep 2024 06:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚S&P/ASX 200指数收盘上涨0.2%至8,140.90点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5753873.d.html</link>
+            <guid>3779963</guid>
+            <pubDate>Tue, 17 Sep 2024 06:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塞浦路斯与希腊就数十亿美元电缆连接进行的谈判取得进展】塞浦路斯一名官员周二表示，塞浦路斯和希腊就建立一条横跨地中海海底连接欧洲和中东的高速电缆网络进行的谈判取得了进展。所谓的大海互联互通（GSI）旨在通过克里特岛、塞浦路斯和最终的以色列连接希腊的输电网络，该项目耗资24亿欧元（26.7亿美元）。截至塞浦路斯，该电缆估计价值19亿欧元。建成后，它将成为世界上最长的1240公里、最深的3000米高压直流（HVDC）互联线路。欧盟表示愿意为其中的一部分提供资金，目前预计将于2030年左右完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8976804.d.html</link>
+            <guid>3779962</guid>
+            <pubDate>Tue, 17 Sep 2024 06:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苏格兰皇家银行将埃克森美孚目标价从135美元降至120美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8976645.d.html</link>
+            <guid>3779961</guid>
+            <pubDate>Tue, 17 Sep 2024 06:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度央行：在3天可变利率回购拍卖中分配价值826.30亿卢比的出价，设定6.51%的截止利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5753553.d.html</link>
+            <guid>3779960</guid>
+            <pubDate>Tue, 17 Sep 2024 06:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苏格兰皇家银行将雪佛龙公司目标价从180美元下调至170美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8976359.d.html</link>
+            <guid>3779959</guid>
+            <pubDate>Tue, 17 Sep 2024 06:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMSPEC：马来西亚9月1-15日出口棕榈油660,767吨，环比增长10.19%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8975248.d.html</link>
+            <guid>3779958</guid>
+            <pubDate>Tue, 17 Sep 2024 06:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水利部滚动会商部署台风“贝碧嘉”暴雨洪水防御工作】9月17日8时，今年第13号台风“贝碧嘉”（热带风暴级）中心位于安徽省淮南市境内，中心附近最大风力8级，预计将以每小时10—15公里左右的速度向西偏北方向移动，并于17日夜间移入河南省境内。9月17日，水利部召开专题会商会，密切关注第13号台风“贝碧嘉”发展变化以及第14号台风“普拉桑”的叠加影响，滚动分析研判防汛形势，针对性细化部署安排暴雨洪水防御工作，特别是南水北调中线等重点工程洪水防御；在保证防洪安全的同时，科学蓄水保水。水利部维持针对安徽省的洪水防御Ⅳ级应急响应；16日向安徽、河南省水利厅和长江、黄河、淮河水利委员会专门发出通知，17日向中国南水北调集团有限公司发函提醒，同时每日“一省一单”靶向预警，指导做好水库安全度汛、中小河流洪水和山洪灾害防御以及南水北调中线工程洪水防御等工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvq2916890.d.html</link>
+            <guid>3779957</guid>
+            <pubDate>Tue, 17 Sep 2024 06:04:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中秋假期进入尾声 铁路、公路、民航迎来返程客流高峰】今天（9月17日）是中秋节，也是中秋假期的第三天。在交通出行方面，铁路、公路、民航都将迎客流高峰。
+
+铁路方面
+记者从国铁集团了解到，昨天全国铁路发送旅客1071万人次，今天全国铁路预计发送旅客1520万人次，计划加开旅客列车1030列。
+
+公路方面
+交通运输部路网中心表示，今天公路拥堵缓行情况会有所增加，尤其是午后车流量集中，高速公路通行压力较大。
+
+新能源汽车出行方面，今天也会出现充电高峰，充电高峰时段预计集中在10时到21时。
+
+民航方面
+民航局数据显示，今天全国民航预计发送旅客185万人次，环比增长30.59%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5752056.d.html</link>
+            <guid>3779956</guid>
+            <pubDate>Tue, 17 Sep 2024 06:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日经225指数收盘下跌1%，报36203.22点。日本东证指数收跌0.6%至2,555.76点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8974591.d.html</link>
+            <guid>3779954</guid>
+            <pubDate>Tue, 17 Sep 2024 06:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度8月份菜粕出口量降至126,610吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8974522.d.html</link>
+            <guid>3779953</guid>
+            <pubDate>Tue, 17 Sep 2024 06:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度8月份油粉出口314,363吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5751514.d.html</link>
+            <guid>3779952</guid>
+            <pubDate>Tue, 17 Sep 2024 06:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大摩：维持白云山(00874)“与大市同步”评级 目标价降至21.7港元】摩根士丹利发布研究报告称，在白云山(00874)今年次季报告后，由于销售额及毛利率的下降，下调白云山2024-2030年盈利预期3%-11%。大摩亦调高其应收帐款天数。综上，大摩下调白云山目标价14.6%，由25.4港元降至21.7港元。暂维持“与大市同步”评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5751264.d.html</link>
+            <guid>3779951</guid>
+            <pubDate>Tue, 17 Sep 2024 05:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JEFFERIES 将 SOLAREDGE TECHNOLOGIES目标价从27美元降至17美元，并从持有状态下调至表现不佳。]]></title>
+            <guid>3779950</guid>
+            <pubDate>Tue, 17 Sep 2024 05:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日全国铁路预计发送旅客1520万人次 计划加开旅客列车1030列】据国铁集团消息，9月16日，全国铁路发送旅客1071万人次，运输安全平稳有序。9月17日，中秋假日最后一天，铁路迎来返程客流高峰，全国铁路预计发送旅客1520万人次，计划加开旅客列车1030列，随着台风“贝碧嘉”影响减弱，京沪高铁、沪昆高铁、杭深高铁等线路旅客列车逐步恢复正常开行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5750935.d.html</link>
+            <guid>3779949</guid>
+            <pubDate>Tue, 17 Sep 2024 05:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济学家：日本央行周五将按兵不动 10月可能加息】日本经济学家木村太郎认为日本央行定于周五维持利率不变，并讨论今年再次加息的条件是否已经成熟，关键在于如何评估两个因素——最新的工资和CPI数据。符合其预期工资-价格的积极周期将确保其2%的通胀目标。木村太郎预测日本央行会选择在本周的政策会议上按兵不动，预计日本央行周五结束为期两天的政策会议时将维持利率在0.25%不变。展望10月份，木村太郎预测加息25个基点至0.50%，认为较为高涨的工资和价格数据将在日本央行此次会议的评估中占据更大的比重。但这一预测的前提条件是，日本央行在周五的新闻发布会上暗示10月份加息是可以考虑的事情。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5750792.d.html</link>
+            <guid>3779948</guid>
+            <pubDate>Tue, 17 Sep 2024 05:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以太坊突破2300美元/枚，日内涨0.20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5750531.d.html</link>
+            <guid>3779947</guid>
+            <pubDate>Tue, 17 Sep 2024 05:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重大突破 我国首个深水油田二次开发项目建设完工】记者从中国海油获悉，随着亚洲首艘圆筒型海上油气加工厂“海葵一号”和亚洲第一深水导管架平台“海基二号”通过机械完工验收，标志着我国首个深水油田二次开发项目工程建设完工，我国全类型深水油气装备自主建设能力实现重大突破。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvq2914443.d.html</link>
+            <guid>3779946</guid>
+            <pubDate>Tue, 17 Sep 2024 05:50:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港餐饮业界料今年中秋生意额减少约一成】香港餐饮联业协会会长黄家和表示，今年中秋业界生意不理想，估计生意额跌10%至15%，单日整体餐饮收益料由去年的2.8亿港元，减少至2.5亿港元。他指，经济环璄欠佳导致消费疲弱，加上港人北上消费及在家过节等因素影响，不少酒楼食肆不敢加价，以往中秋节晚饭一桌收费5000港元，今年订价在4000港元左右，部分酒楼甚至减至3000多港元一桌。他指，过往中秋节，酒楼晚饭一般可以做两轮生意，但今年只做到一轮。维港两岸因有节庆活动，附近的食肆生意较好，但其他区的人流明显较冷清，有食肆的生意额不及平日的一半。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5749915.d.html</link>
+            <guid>3779945</guid>
+            <pubDate>Tue, 17 Sep 2024 05:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【CBA新赛季将于10月12日开赛】9月17日，据CBA联赛消息，2024-2025中国男子篮球职业联赛将于2024年10月12日开赛。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5749301.d.html</link>
+            <guid>3779944</guid>
+            <pubDate>Tue, 17 Sep 2024 05:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【恒大汽车(00708)上涨6.0%，报0.265元/股】9月17日，恒大汽车(00708)盘中上涨6.0%，截至13:34，报0.265元/股，成交106.31万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvn6163015.d.html</link>
+            <guid>3779943</guid>
+            <pubDate>Tue, 17 Sep 2024 05:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【设备故障 福岛第一核电站2号机组核燃料残渣取出工作暂停】9月17日，日本东京电力公司福岛第一核电站2号机组用于提取核燃料残渣的吊杆式装置上摄像头停止显示画面，导致原定于当天进行的用该装置抓取核燃料残渣作业无法进行。东电未透露装置修复所需时间。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5748975.d.html</link>
+            <guid>3779942</guid>
+            <pubDate>Tue, 17 Sep 2024 05:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯阿穆尔州一直升机失踪 搜索工作正在进行】当地时间9月17日，俄罗斯远东阿穆尔州民防和消防安全中心发布消息称，已派出约20名救援人员和7台设备（包括全地形车和米-8型直升机），对前晚在该州失踪的一架直升机展开搜索工作。目前尚未发现相关人员。另外据报道，当地时间9月16日，俄罗斯一家金矿公司一架罗宾逊R66直升机在俄远东地区阿穆尔州境内失踪，机上共有3人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvn6162591.d.html</link>
+            <guid>3779941</guid>
+            <pubDate>Tue, 17 Sep 2024 05:41:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国务院在埃及外长访俄后宣布布林肯将赴埃】据美国国务院消息，埃及外长贝德尔·阿卜杜勒·阿提访问莫斯科后，美国国务卿安东尼·布林肯17日将赴埃及就双边合作以及加沙局势磋商。美国务院的声明中称，“国务卿布林肯将于9月17日至19日赴埃及同埃方共同主持召开美国-埃及战略对话。”美国国务院指出，战略对话的模式旨在巩固双边关系、华盛顿和开罗的经济发展，以及扩大文化和教育领域的联系。此外，布林肯还打算讨论加沙局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvn6162178.d.html</link>
+            <guid>3779940</guid>
+            <pubDate>Tue, 17 Sep 2024 05:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾股指涨幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5747401.d.html</link>
+            <guid>3779939</guid>
+            <pubDate>Tue, 17 Sep 2024 05:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华铁应急海南区域总部揭牌，首单设备采购业务落地】9月16日，海南控股旗下控股子公司浙江华铁应急设备科技股份有限公司（以下简称华铁应急）与海口江东新区管理局在海口举行战略合作签约，并正式揭牌成立华铁应急海南区域总部、落地华铁应急海南区域总部首单设备采购业务。海南区域总部设立后，华铁应急将对海南华铁大黄蜂建筑机械设备有限公司注册资本金由8亿元增资到18亿元，预计今年在海南完成固定资产投资不少于12亿元，未来三年在海南完成固定资产投资不少于30亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvq2911398.d.html</link>
+            <guid>3779937</guid>
+            <pubDate>Tue, 17 Sep 2024 05:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JEFFERIES：BIONTECH SE 从持有转为买入，将目标价格从96美元提高到150美元。]]></title>
+            <guid>3779936</guid>
+            <pubDate>Tue, 17 Sep 2024 05:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰股价下跌0.3%，延续跌势。]]></title>
+            <guid>3779935</guid>
+            <pubDate>Tue, 17 Sep 2024 05:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国财政部长：已为第二阶段救助计划准备资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8969794.d.html</link>
+            <guid>3779934</guid>
+            <pubDate>Tue, 17 Sep 2024 05:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[合肥市气象台2024年09月17日13时22分解除台风蓝色预警信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5746710.d.html</link>
+            <guid>3779933</guid>
+            <pubDate>Tue, 17 Sep 2024 05:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据当地政府：俄罗斯袭击乌克兰苏梅地区能源基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5746464.d.html</link>
+            <guid>3779932</guid>
+            <pubDate>Tue, 17 Sep 2024 05:23:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东4年拟制定9部大湾区法规】《广东省第十四届人大常委会粤港澳大湾区专项立法计划（2024-2027年）》近日出炉，拟从今年起用4年时间制定9部大湾区法规，涉及就业、医疗、轨道交通、气象合作、新兴产业等方方面面，形成一批具有标志性、引领性的立法创新成果，以高质量法治助力建设世界一流湾区。其中，今年制定的《广东省促进港澳青年在粤港澳大湾区内地九市就业创业条例》《广东省粤港澳大湾区内地九市进口港澳药品医疗器械管理条例》已经出台。2025年计划制定《广东省促进粤港澳气象合作发展条例》《广东省粤港澳大湾区轨道交通条例》；2026年计划制定《广东省粤港澳大湾区商事调解条例》《广东省粤港澳大湾区人工智能产业合作发展促进条例》；2027年计划制定《广东省促进粤港澳大湾区律师业合作条例》《广东省实施粤港澳大湾区生态环境保护规划保障条例》。同时，还计划适时制定《广东省促进粤港澳大湾区青少年交流条例》。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8968938.d.html</link>
+            <guid>3779931</guid>
+            <pubDate>Tue, 17 Sep 2024 05:19:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以总理办公室：“以北部居民安全返回”成为新“战争目标”】以色列总理办公室17日在社交媒体发布消息称，以色列安全内阁更新了所谓“战争目标”，将以色列北部居民安全返回住所列为新的目标。据《以色列时报》报道，此前以色列官方一直以来的作战目标是摧毁哈马斯的军事和治理能力、所有被扣押人员获释，并确保加沙地带不再对以色列构成威胁。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvn6159331.d.html</link>
+            <guid>3779930</guid>
+            <pubDate>Tue, 17 Sep 2024 05:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰表示，一夜之间击落了51架俄罗斯无人机中的34架。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5745841.d.html</link>
+            <guid>3779929</guid>
+            <pubDate>Tue, 17 Sep 2024 05:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏上市公司半年营业收入1.65万亿元 占上半年江苏省GDP总额的26%】 日前，江苏693家境内上市公司完成2024年半年报披露。江苏省上市公司协会发布消息：2024年上半年，省内上市公司积极贯彻落实新“国九条”，坚定走高质量发展之路，实现营业收入1.65万亿元，占上半年江苏省GDP总额的26%。披露半年报的693家上市公司中，413家公司营收正增长，43家营收增幅超50%，近四成营收超10亿元；实现净利润1451.2亿元，其中568家盈利，133家净利润增幅超过50%。尤其是二季度，这些公司实现营业收入8755.9亿元，净利润753.9亿元，环比分别增长13%、8.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvs8968725.d.html</link>
+            <guid>3779928</guid>
+            <pubDate>Tue, 17 Sep 2024 05:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国财政部：首批救济计划将推动GDP增长0.35个百分点。]]></title>
             <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmuvu5745457.d.html</link>
             <guid>3779926</guid>
             <pubDate>Tue, 17 Sep 2024 05:15:33 GMT</pubDate>
@@ -356,249 +606,6 @@
             <title><![CDATA[印度卢比开盘上涨0.02%，至1美元兑83.87卢比，而此前收盘价为83.8875卢比。]]></title>
             <guid>3779861</guid>
             <pubDate>Tue, 17 Sep 2024 03:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9月16日，印度储备银行通过边际常备贷款借入2632.4亿卢比。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqps3019194.d.html</link>
-            <guid>3779860</guid>
-            <pubDate>Tue, 17 Sep 2024 03:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西东北部沉船事故致4人死亡1人失踪】巴西东北部伯南布哥州港口管理部门当地时间16日表示，日前一艘运送食品和建筑材料的货轮在该州北部一海域沉没，造成4人死亡，1人失踪。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6268625.d.html</link>
-            <guid>3779859</guid>
-            <pubDate>Tue, 17 Sep 2024 03:32:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东证指数下午开盘下跌1.6%至2,529.97点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9081541.d.html</link>
-            <guid>3779855</guid>
-            <pubDate>Tue, 17 Sep 2024 03:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【飞猪：中秋假期旅游创新高，境内游人均预订量较端午上涨5%】 飞猪发布的《2024中秋假期出游快报》显示，2024年中秋假期旅游预订总量较元旦、清明、端午假期均显著增长，是年内三天假期的最高点。其中，境内游人均预订量环比端午假期增长5%，出境游人均预订量与端午假期基本持平。数据显示，中秋假期国内租车预订量环比端午假期增长31%；国内酒店预订量更是远超2019年同期水平，其中高星级酒店、特色民宿占比高达六成。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9081347.d.html</link>
-            <guid>3779854</guid>
-            <pubDate>Tue, 17 Sep 2024 03:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1个月期香港银行同业拆借利率下跌1.3个基点，至3.7%的1年低点；2个月HIBOR下跌2.3个基点，至16个月低点3.93054%；3个月HIBOR小幅下跌至16个月低点4.00214%。]]></title>
-            <guid>3779853</guid>
-            <pubDate>Tue, 17 Sep 2024 03:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果智能将于下月起登陆Mac机型】 当地时间9月16日，苹果官网宣布，最新版本macOS Sequoia以Mac免费软件更新形式发布，推出iPhone镜像功能，用户现可直接在Mac上访问并控制iPhone；同时，苹果智能将于下月起登陆Mac。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5857330.d.html</link>
-            <guid>3779852</guid>
-            <pubDate>Tue, 17 Sep 2024 03:23:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将Frontier Communications Parent Inc. 目标价从35美元上调至38.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5857270.d.html</link>
-            <guid>3779851</guid>
-            <pubDate>Tue, 17 Sep 2024 03:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【填补月背研究历史空白 嫦娥六号挖回的月背土壤成分揭秘】从中国科学院国家天文台获悉，9月17日，中国科学院国家天文台李春来、中国探月与航天工程中心胡浩、北京控制工程研究所杨孟飞领导的联合研究团队在《国家科学评论》（National Science Review, NSR）上发表嫦娥六号返回样品的首篇研究论文，阐述了返回样品的物理、矿物和地球化学特征。论文中指出了嫦娥六号返回样品具有较低密度，表明其结构较为松散，孔隙率较高。颗粒分析显示，月壤的粒径呈现双峰式分布，暗示样品可能经历了不同物源的混合作用。与嫦娥五号样品相比，此次样品中斜长石含量明显增加，而橄榄石含量显著减少，表明该区域的月壤明显受到了非玄武质物质的影响。此外，嫦娥六号采集的岩屑碎片主要由玄武岩、角砾岩、粘结岩、浅色岩石和玻璃质物质组成。其中，玄武岩碎片占总量的30%~40%，其矿物以辉石、斜长石和钛铁矿为主，橄榄石含量极低。角砾岩和粘结岩由玄武岩碎屑、玻璃珠、玻璃碎片以及少量的斜长岩和苏长岩等浅色岩石碎屑物质构成，进一步揭示了样品来源的复杂性。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6266310.d.html</link>
-            <guid>3779850</guid>
-            <pubDate>Tue, 17 Sep 2024 03:21:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普为新的加密货币项目站台 称美国应主导该这一行业】 特朗普出席了名为“World Liberty Financial”的加密货币平台发布活动，这位共和党总统候选人及其儿子为该项目站台，将这个颇具争议历史的小众数字资产领域置于聚光灯下。这个项目属于数字资产去中心化金融领域，旨在帮助实现金融安全和自由交易，特朗普之子小唐纳德周一在X Spaces的直播中表示。“这是一个需要解决的真正问题，老实说，我认为这是正确的方式，”小唐纳德在其父亲发言后表示。就在这次发布会举行的前一天，特朗普再次险遭暗杀，令美国总统大选再掀波澜。谈到成为加密货币中心的目标时，特朗普表示，“如果我们不做，我们就不会成为最大的（加密货币中心），而我们必须是最大的、最好的。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6265893.d.html</link>
-            <guid>3779849</guid>
-            <pubDate>Tue, 17 Sep 2024 03:18:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本大阪基准橡胶期货上涨超过4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9079221.d.html</link>
-            <guid>3779848</guid>
-            <pubDate>Tue, 17 Sep 2024 03:18:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新研究在较低温度下实现高效氨分解制氢】氨气含氢量高，容易液化后运输，因此作为氢载体备受关注，但高效分解氨气制取氢气通常需要400摄氏度以上高温。日本早稻田大学研究人员领衔的团队将被称为电场催化反应的催化工艺应用于氨气分解，可大幅降低所需温度。早稻田大学日前发布的新闻公报说，所谓电场催化反应是指让电极从上下两个方向接触催化剂层，依靠流经催化剂的电流促进化学反应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9079165.d.html</link>
-            <guid>3779847</guid>
-            <pubDate>Tue, 17 Sep 2024 03:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普在加密货币业务发布会上几乎没有提供任何细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5856217.d.html</link>
-            <guid>3779846</guid>
-            <pubDate>Tue, 17 Sep 2024 03:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[分析师：技术面来看，现货黄金价格倾向于跌至2555美元至2563美元区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5856161.d.html</link>
-            <guid>3779845</guid>
-            <pubDate>Tue, 17 Sep 2024 03:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将菲拉格慕(Ferragamo)目标价从8欧元下调至6.8欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5855794.d.html</link>
-            <guid>3779844</guid>
-            <pubDate>Tue, 17 Sep 2024 03:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚动力煤开采商New Hope首席执行官表示，该公司已提交对澳大利亚英美煤炭资产的收购要约。]]></title>
-            <guid>3779843</guid>
-            <pubDate>Tue, 17 Sep 2024 03:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉确认越南五家电力公司的评级为'BB+'，展望稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9077899.d.html</link>
-            <guid>3779842</guid>
-            <pubDate>Tue, 17 Sep 2024 03:11:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台风“普拉桑”强度缓慢增强 将于19日下午至晚上登陆浙江沿海】今年第14号台风“普拉桑”（热带风暴级）的中心今天上午8点钟位于琉球群岛那霸市东偏南方向约1550公里的洋面上，就是北纬18.2度、东经140.0度，中心附近最大风力8级（18米/秒），中心最低气压998百帕，七级风圈半径180-260公里。预计，“普拉桑”将以每小时45-50公里的速度向西北方向快速移动，强度缓慢加强，18日起移速减缓，18日晚上移入东海东部海面，19日下午到晚上将在浙江沿海登陆（强热带风暴级，10-11级，25-30米/秒），之后强度逐渐减弱。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqps3014649.d.html</link>
-            <guid>3779841</guid>
-            <pubDate>Tue, 17 Sep 2024 03:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国基准股指抹去政府举债计划带来的涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6264101.d.html</link>
-            <guid>3779840</guid>
-            <pubDate>Tue, 17 Sep 2024 03:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚与阿联酋达成贸易协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5854459.d.html</link>
-            <guid>3779839</guid>
-            <pubDate>Tue, 17 Sep 2024 03:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国将增加举债8%至780亿美元以刺激经济增长】据知情人士透露，泰国计划在从10月份开始的财年将政府借款提高约8%，以帮助经济增长。知情人士称，约1.1万亿泰铢(合330亿美元，占780亿美元总额的41%)将是新的借款，主要为预算赤字提供资金，其余资金将用于现有债务的再融资和重组。这些知情人士拒绝透露姓名，因为他们无权在这些信息公布之前讨论这些信息。据知情人士透露，泰国公共债务管理办公室(Public Debt Management Office)周一在曼谷与债券交易员和基金经理举行了一次会议。财政部公共债务顾问金达拉特·维里亚塔维库尔(Jindarat Viriyataveekul)拒绝就该计划置评，称这些信息可以在债务管理委员会周三批准融资框架后披露。知情人士说，虽然该委员会仍可以对该计划进行调整，但不太可能发生重大变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9077356.d.html</link>
-            <guid>3779838</guid>
-            <pubDate>Tue, 17 Sep 2024 03:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿根廷2024年猴痘确诊病例增至42例】当地时间9月16日，阿根廷卫生部通报，2024年该国累计确诊42例猴痘病例。该国卫生部表示，自2022年5月出现首例猴痘病例以来，阿根廷已累计确诊1191例猴痘病例，其中2人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6263239.d.html</link>
-            <guid>3779837</guid>
-            <pubDate>Tue, 17 Sep 2024 03:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国据称计划将2025财年借债增加8%至780亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5852720.d.html</link>
-            <guid>3779836</guid>
-            <pubDate>Tue, 17 Sep 2024 03:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民调：哈里斯在宾夕法尼亚州支持率领先特朗普】 根据今日美国/萨福克大学在总统辩论之后进行的民调，民主党总统候选人卡玛拉·哈里斯与共和党对手唐纳德· 特朗普在宾夕法尼亚州支持率为49%对46%。9月11日至15日在宾夕法尼亚州范围内对500名可能参与投票的选民进行了此次民调。误差率为4.4个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5852489.d.html</link>
-            <guid>3779835</guid>
-            <pubDate>Tue, 17 Sep 2024 03:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通上调日元预测 理由是美元可能走软】摩根大通上调日元预测，理由是对美国和日本利率将正常化的预期以及美元的潜在疲软。摩根大通预计2024年第四季度日元兑美元报142，此前为146；料2025年第一季度为141，此前为145；料2025年第二季度为140，此前为144；料2025年第三季度为139。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9074739.d.html</link>
-            <guid>3779833</guid>
-            <pubDate>Tue, 17 Sep 2024 02:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三井住友：美联储开会在即 市场担忧日元走强】日本央行将于周五宣布政策决定。虽然预计这次不会加息，但官员们在最近的沟通中采取了鹰派姿态，这增加了对政策正常化步伐（即利率为正值且日本央行不寻求严格控制国债市场）加快的预期。三井住友DS资产管理公司首席宏观策略师Masayuki Kichikawa说："人们担心日元可能继续升值，其中美联储和日本央行的决策都有影响。"，"包括我在内，人们开始觉得日本央行急于加息，而不管经济的发展情况如何。"]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6261391.d.html</link>
-            <guid>3779832</guid>
-            <pubDate>Tue, 17 Sep 2024 02:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将LVMH目标价从790欧元下调至720欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9074410.d.html</link>
-            <guid>3779831</guid>
-            <pubDate>Tue, 17 Sep 2024 02:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒生科技指数涨超1% 热门科技股多数上涨】恒生科技指数上涨1%至3,532.44点。热门科技股多数上涨，理想汽车涨4%，万国数据涨3.6%，京东健康涨2.9%，商汤涨2.8%，中芯国际涨1.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9074314.d.html</link>
-            <guid>3779830</guid>
-            <pubDate>Tue, 17 Sep 2024 02:56:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒爆：特朗普遭遇“暗杀未遂”事件后，拜登与其进行“友好”通话】美国《新闻周刊》援引白宫一名官员消息称，在美国前总统特朗普遭遇“暗杀未遂”事件后，美国总统拜登和特朗普于当地时间16日进行了一场“友好”通话。报道称，一封引用白宫官员消息的电子邮件称，“拜登总统刚刚与前总统特朗普通了电话，并转达了他对特朗普安全无恙的欣慰。两人进行了友好交谈，特朗普对这一来电表示感谢。”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqps3011207.d.html</link>
-            <guid>3779829</guid>
-            <pubDate>Tue, 17 Sep 2024 02:53:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外商独资医院来了，高端市场不是唯一选项】近日，商务部、国家卫健委、国家药监局三部门联合发布了《关于在医疗领域开展扩大开放试点工作的通知》，拟允许在北京、天津、上海、南京等9地设立外商独资医院（中医类除外，不含并购公立医院）。对外商独资医院来说，定位是最关键的，也就是目标客户是谁，提供什么样的服务，希望达到什么样的战略目标。从市场各方观点来看，普遍认为外商独资医院将定位高端，除了优质服务之外，高价药品和耗材等都是吸引患者的主要优势。不过，这只是基于过去二十多年中外合资办医的市场实践，并不代表外商独资医院未来真实发展的趋势。而且，在中国市场，外资医院中既有和睦家这样的高端医院，也有类似慈林医院这样扎根于县域以医保支付为主的医院。外商独资医院的定位并不会因为自己的身份而限定自身的发展战略，既可以进入为少数高收入人群服务的高端市场，也可以进入为大众服务的以医保为主要支付方的市场。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqps3011109.d.html</link>
-            <guid>3779828</guid>
-            <pubDate>Tue, 17 Sep 2024 02:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州发布行为指引：国企商务招待纪念品不得超600元】近期，广州市从进一步优化政商关系入手，印发实施《广州市政商交往若干场景行为指引及答疑（第一批）》。近日，随着系列答疑文章的刊发，《指引》的部分内容正陆续公开。例如，国有企业商务招待可赠送原则上每次人均不得超过600元的纪念品，礼品种类以宣传企业形象、展示企业文化或体现地域文化等为主要内容；可以为非特定企业的本地特色产品、名优产品、滞销农产品等开展直播带货、产品推介、媒体宣传等活动。（观察者网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5850390.d.html</link>
-            <guid>3779827</guid>
-            <pubDate>Tue, 17 Sep 2024 02:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰财政部预计第二季度经济萎缩0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9072919.d.html</link>
-            <guid>3779826</guid>
-            <pubDate>Tue, 17 Sep 2024 02:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【野村考虑竞购KKR旗下印度投资银行Avendus】 野村已加入收购KKR旗下印度投资银行Avendus的竞争行列，正在进行尽职调查，最终报价将于本月底提交。（印度经济时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5849927.d.html</link>
-            <guid>3779825</guid>
-            <pubDate>Tue, 17 Sep 2024 02:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MSCI亚太（除日本）股票指数上涨至两周高点，现涨0.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9072601.d.html</link>
-            <guid>3779823</guid>
-            <pubDate>Tue, 17 Sep 2024 02:45:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【许家印25年前在香港买的30平房屋将被拍卖还债】 中国恒大早前被颁令清盘，香港高等法院并裁定恒大创办人许家印，要向中信集团旗下和信恒聚偿还逾53亿元人民币债项，否则要依据绝对押记令，出售名下物业抵债。和信恒聚其后上诉，要求许家印交吉其持有的尖沙咀空置物业，并在法庭指示下出售，案件昨日于高院审理，法庭在许家印一方缺席聆讯下，批准执行押记令，物业经拍卖出售后，将用作偿还部分欠债。据了解，涉案物业为九龙柯士甸道144号祥景楼6楼A室。资料显示，有关单位属两房一厅间隔，面积约375呎，据报是许家印早年涉足房地产业务赚到第一桶金后，在1999年斥资175万港元购买。（香港信报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6259015.d.html</link>
-            <guid>3779822</guid>
-            <pubDate>Tue, 17 Sep 2024 02:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国恢复所有陆地边界管控措施，一度造成边境道路拥堵】 德国政府当地时间16日宣布其所有陆地边界实施管控措施，恢复护照检查，以限制非法移民入境。据了解，这一管控措施为期6个月，到期后可能延期。该措施导致从波兰一侧往德国方向的道路出现严重拥堵。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9072155.d.html</link>
-            <guid>3779821</guid>
-            <pubDate>Tue, 17 Sep 2024 02:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【越南更正台风“摩羯”导致死亡人数为291人】根据越南农业和农村发展部更正的统计数据，截至9月16日晚，台风“摩羯”已在越南造成291人死亡、38人失踪。此前，越南农业和农村发展部称，截至15日晚，台风“摩羯”在越南造成292人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9072145.d.html</link>
-            <guid>3779820</guid>
-            <pubDate>Tue, 17 Sep 2024 02:43:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纽约证交所高管：预计2025年将有大量公司在美国上市】纽约证交所一位高管表示，预计明年上半年将会有大量公司在美国上市，目前许多公司都在等待11月大选结果和美联储启动宽松周期。“我们预计2025年上半年将有大量公司等候上市，” 纽交所资本市场全球主管Michael Harris在新加坡接受媒体采访时表示，“造成市场波动的因素有很多，其中最明显的是即将到来的大选”。“我们正在与一些亚洲公司进行对话”，他表示未来18个月来自亚洲的上市公司储备看起来不错。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6257760.d.html</link>
-            <guid>3779819</guid>
-            <pubDate>Tue, 17 Sep 2024 02:39:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心（NHC）表示，预计GORDON将在周二转向北方，并可能在周中再次加剧。]]></title>
-            <guid>3779818</guid>
-            <pubDate>Tue, 17 Sep 2024 02:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交易员：印度政府债券收益率预计将在周二开盘走低】印度政府债券收益率预计将在周二开盘走低，因为美联储周三大幅降息的可能性继续上升。一位拥有主要经销商的交易员表示，基准10年期收益率可能会在6.75%至6.78%之间波动，而此前的收盘价为6.7613%，为2022年2月25日以来的最低水平。印度债券市场周三休市，美联储将在当天进行会议。这位交易员表示：“现在归结为明天的降息幅度，以及对11月和12月接下来两次会议的预测。如果他们明天降息50个基点，并暗示2024年再降息75个基点，我们可能会看到收益率进一步下降。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpu9071014.d.html</link>
-            <guid>3779817</guid>
-            <pubDate>Tue, 17 Sep 2024 02:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【去哪儿：十一旅游出行预订火爆 多车次车票已售罄】 9月17日，去哪儿发布数据显示，中秋探亲旅客占比增长最明显，旅游占比减少。中秋节恰逢十一火车票开售，旅游出行预订火爆，假期前日、首日多车次车票已售罄。热门短途线路为重庆-成都、天津-北京、上海-杭州、成都-乐山等；热门长线线路为北京-长沙、北京-武汉、上海-广州、广州-重庆等。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpq6257388.d.html</link>
-            <guid>3779816</guid>
-            <pubDate>Tue, 17 Sep 2024 02:37:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东证指数下跌1.8% 丰田领跌】日本东证指数连续第二天走低，下跌1.8%报2,524.74点。丰田汽车对指数下跌拖累最大，下跌3.5%。 Axxzia Inc.跌幅最大，为20.4%。午盘交易中2,132支股票中有1,335支下跌，698支上涨；33个板块中有27个下跌，其中电器股领跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-17/detail-incpmqpw5847498.d.html</link>
-            <guid>3779815</guid>
-            <pubDate>Tue, 17 Sep 2024 02:34:21 GMT</pubDate>
         </item>
     </channel>
 </rss>

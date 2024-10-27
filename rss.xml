@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 27 Oct 2024 19:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 20:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【腾讯云数据库性能测试领跑全球】在国际事务处理性能委员会（TPC）开展的数据库“决策支持类”性能测试TPC-DS中，腾讯云数据库TDSQL大幅刷新此前纪录，位居世界第一。此次测试结果显示，腾讯云数据库TDSQL平均测试耗时大幅领先榜单其他厂商，99个复杂分析任务的单任务平均耗时在4秒以内，多任务并行计算平均耗时8秒以内，并以7260万分的性能评分，将决策支持类榜单最高测试纪录提升3.8倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztft6053669.d.html</link>
+            <guid>3837500</guid>
+            <pubDate>Sun, 27 Oct 2024 20:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹多地遭袭 造成12人死亡】当地时间10月27日，苏丹喀土穆州卫生部门表示，该州恩图曼市一个流离失所者收容中心当天遭苏丹快速支援部队炮击，造成2名平民死亡，另有3人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztft6051399.d.html</link>
+            <guid>3837499</guid>
+            <pubDate>Sun, 27 Oct 2024 19:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩南部城镇一学校附近遭袭 已致5人死亡】当地时间10月27日，黎巴嫩南部布尔吉舍玛利（Burj al-Chmali）镇镇长阿里·迪布（Ali Deeb）发布消息称，联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）在当地开设的巴勒斯坦学校附近遭以军袭击，已有5人死亡，1人受伤。学校的围墙在袭击中受损。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfr9273901.d.html</link>
+            <guid>3837498</guid>
+            <pubDate>Sun, 27 Oct 2024 19:49:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本众议院选举最终结果出炉 执政联盟未获得过半议席】当地时间28日凌晨，日本第50届众议院选举全部席位归属已确定。自民党获得191个席位，公明党获得24个席位，两党组成的执政联盟共获得215个席位，未能达到众议院过半数席位的233席。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfq0078385.d.html</link>
+            <guid>3837497</guid>
+            <pubDate>Sun, 27 Oct 2024 19:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Google推进人工智能以自动化网页浏览任务】Google正在开发一项人工智能（AI）技术，旨在自主操作网络浏览器来执行诸如进行研究和在线购物等活动。这项在公司内部被称为Project Jarvis的计划，预计将于12月与Google即将推出的Gemini大型语言模型一同亮相。The Information披露了这一进展，指出该技术旨在将人类与计算机之间的交互提升到一个新的水平，允许AI直接与用户的计算机或浏览器进行交互。这将标志着AI在无需人类干预的情况下执行复杂任务能力的重大进步。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfn3300660.d.html</link>
+            <guid>3837496</guid>
+            <pubDate>Sun, 27 Oct 2024 19:27:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列空袭黎巴嫩南部多地 造成多人死亡】当地时间10月27日，以色列空袭黎巴嫩南部艾因巴尔镇，造成3人死亡。此外，以军空袭黎南部纳巴提耶县一村庄，造成2人死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfn3298785.d.html</link>
+            <guid>3837495</guid>
+            <pubDate>Sun, 27 Oct 2024 19:14:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场资讯：必和必拓董事长Ken Mackenzie计划于2025年从董事会退休。]]></title>
             <link>https://finance.sina.cn/7x24/2024-10-28/detail-inctztfn3297833.d.html</link>
@@ -556,41 +592,6 @@
             <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzhru0276707.d.html</link>
             <guid>3837323</guid>
             <pubDate>Sun, 27 Oct 2024 13:31:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：格执政党赢得议会选举，反对派不接受】据路透社10月27日报道，格鲁吉亚选举委员会27日表示，随着超过99%的选区已经清点完毕，在26日举行的议会选举中，执政的格鲁吉亚梦想党获得了超过54%的选票。报道称，格鲁吉亚梦想党创始人、亿万富翁比济纳·伊万尼什维利在26日晚上宣布获胜，他所在的政党在一些农村地区获得了高达90%的巨大优势，取得了自2012年以来最强劲的表现。伊万尼什维利曾大力呼吁格鲁吉亚远离乌克兰战争。报道提及，伊万尼什维利领导的格鲁吉亚梦想党表示，希望格鲁吉亚加入欧盟。但布鲁塞尔表示，由于格鲁吉亚梦想党的“独裁倾向”，欧盟冻结了格鲁吉亚的入盟申请。报道还称，反对党26日表示不承认选举结果，一名反对党领导人称选举结果是“宪法政变”。这一选举结果对亲西方的格鲁吉亚人来说是一个打击，他们把这次选举看作是在深化与俄罗斯关系的执政党与希望加快与欧盟一体化进程的反对党之间作出的选择。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzaiu3629611.d.html</link>
-            <guid>3837322</guid>
-            <pubDate>Sun, 27 Oct 2024 13:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：过去24小时内，乌克兰武装部队在库尔斯克地区损失了250多名士兵和两辆装甲战车。]]></title>
-            <guid>3837320</guid>
-            <pubDate>Sun, 27 Oct 2024 13:25:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国信证券：短期继续看好科技主题 电子三季报景气度略占优】国信证券发布研究报告称，“耐心资本”后续加仓的三个方向：红利资产、500-300、深度破净。1)从政策、资金的共振方向看，短期继续看好科技主题，电子三季报景气度略占优；2)外资回补动能、分子端共振：电子、通信、汽车、有色；3)中长期维度关注大盘+红利的胜率提升；4)自下而上沿PEG主线寻找高性价比企业：前向估值小于20倍，PEG小于1。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzaiu3629135.d.html</link>
-            <guid>3837319</guid>
-            <pubDate>Sun, 27 Oct 2024 13:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【应对低生育率和老龄化 韩国计划发布“人口战略路线图”】韩国总统办公室27日宣布，为应对愈加严峻的低生育率和老龄化问题，政府计划明年发布“人口战略路线图”，并将成立统筹应对该问题的人口战略企划部。韩国总统办公室低生育率问题应对首席秘书柳慧美当天在记者会上说，随着人口战略企划部成立，确定该部门目标和制定中长期人口战略“至关重要”。因此，政府和国家研究机构正在共同制定“人口战略路线图”。据《韩国先驱报》报道，设立人口战略企划部的相关法案已于7月提交国会审议。韩国国务调整室9月已成立政府工作组着手筹建这一部门。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzaiu3628805.d.html</link>
-            <guid>3837316</guid>
-            <pubDate>Sun, 27 Oct 2024 13:23:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大禹节水：拟调整回购股份方案】 大禹节水(300021)10月27日晚间公告，公司拟调整回购股份方案，将回购股份价格上限由4.5元/股调整至5.6元/股；回购资金总额由“不低于2000万元且不超过3000万元”调整至“不低于3000万元且不超过5000万元”；资金来源由自有资金调整至自有资金与自筹资金。截至本公告日，公司已通过深交所股票交易系统以集中竞价交易方式累计回购股份224.54万股，占公司当前股本的0.2630%，最高成交价为4.160元/股，最低成交价为3.460元/股，成交金额为864.26万元（不含交易费用）。公司同日公告，近日，公司及全资子公司水电公司、中铁十八局、中交四局、广东建筑、中水北方组成的联合体与兴国县水利局签订《江西省平江灌区工程特许经营协议》。该项目投资总额约51.45亿元，公司与水电公司作为联合体成员承担项目建设金额预计为15亿元，占公司2023年度经审计营业收入的比例为43.0%；项目建成后公司还将承担项目运营维护任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzaiw0405732.d.html</link>
-            <guid>3837315</guid>
-            <pubDate>Sun, 27 Oct 2024 13:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[平安证券股份有限公司给予苏州盛科通信股份有限公司买进的初始评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-27/detail-inctzaiw0405422.d.html</link>
-            <guid>3837313</guid>
-            <pubDate>Sun, 27 Oct 2024 13:20:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

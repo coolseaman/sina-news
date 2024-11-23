@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 23 Nov 2024 19:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 20:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【哈马斯下属武装称一名以方被扣押人员近期死亡 以军称正在调查】当地时间11月23日，巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别“卡桑旅”一名发言人表示，一名女性以方被扣押人员近期在加沙地带北部死亡，另一名女性被扣押人员也性命垂危。这名发言人并未公布这名被扣押人员的死亡原因及具体时间，但他指责以军的行动“给被扣押人员带来危险和死亡”。以色列国防军当天晚些时候发表声明称，以军正在对这一说法进行调查与核实，并称哈马斯发布这一消息的行为是“心理战”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-24/detail-incxaxma9630409.d.html</link>
+            <guid>3888105</guid>
+            <pubDate>Sat, 23 Nov 2024 19:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：11月24日03时04分在斐济群岛（南纬17.80度，西经178.40度）发生5.8级地震，震源深度600千米。]]></title>
+            <guid>3888104</guid>
+            <pubDate>Sat, 23 Nov 2024 19:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦西北部暴力冲突死亡人数升至30人】截至当地时间11月23日晚的过去24小时中，巴基斯坦开伯尔-普什图省克勒姆地区爆发的暴力冲突导致的死亡人数升至30人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-11-24/detail-incxaxme6403768.d.html</link>
+            <guid>3888103</guid>
+            <pubDate>Sat, 23 Nov 2024 19:23:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【苏丹西部一难民营遭炮击 致7人死亡】当地时间11月23日，苏丹西部北达尔富尔州首府法希尔市附近的阿布舒克难民营卫生部门发布声明称，该难民营当天遭炮击，造成至少7人死亡，另有数十人受伤。声明指责苏丹快速支援部队发动此次炮击，十多枚炮弹落入难民营内，造成人员伤亡。快速支援部队对此未作出回应。]]></title>
             <link>https://finance.sina.cn/7x24/2024-11-24/detail-incxaxma9624825.d.html</link>
@@ -589,23 +606,6 @@
             <link>https://finance.sina.cn/7x24/2024-11-23/detail-incxaafp0029651.d.html</link>
             <guid>3887942</guid>
             <pubDate>Sat, 23 Nov 2024 10:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军空袭加沙地带北部医院 致12人受伤】当地时间23日获悉，以军从22日下午到23日凌晨空袭了加沙地带北部的卡迈勒·阿德万医院，导致医院目前供电、供水、输氧设施受损。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-23/detail-incxaafp0028875.d.html</link>
-            <guid>3887941</guid>
-            <pubDate>Sat, 23 Nov 2024 10:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新疆阿克苏地区温宿县发生3.7级地震，震源深度10千米】中国地震台网正式测定：11月23日18时06分在新疆阿克苏地区温宿县（北纬42.22度，东经80.61度）发生3.7级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-11-23/detail-incxaafq6805309.d.html</link>
-            <guid>3887940</guid>
-            <pubDate>Sat, 23 Nov 2024 10:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示：截至11月23日，俄罗斯天然气工业公司通过苏兹哈气体输送站向欧洲供应的天然气量为每天4240万立方米。]]></title>
-            <guid>3887939</guid>
-            <pubDate>Sat, 23 Nov 2024 10:09:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

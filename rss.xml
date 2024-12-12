@@ -4,19 +4,238 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 12 Dec 2024 21:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 22:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[博通预计第一季度营收约为146亿美元，预期为146.1亿美元。]]></title>
+            <title><![CDATA[高盛资产管理宣布清算三只交易所交易基金。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6404366.d.html</link>
+            <guid>3925175</guid>
+            <pubDate>Thu, 12 Dec 2024 22:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：会见了Ila的总裁Harold Daggett。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6403931.d.html</link>
+            <guid>3925173</guid>
+            <pubDate>Thu, 12 Dec 2024 22:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普表示，自动化节省的资金远不及它给美国工人（码头工人）带来的痛苦、伤害和危害。]]></title>
+            <guid>3925172</guid>
+            <pubDate>Thu, 12 Dec 2024 22:09:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方呼吁支持阿富汗重建金融体系 铲除恐怖主义滋生土壤】当地时间12月12日，联合国安理会审议阿富汗局势，关注该国妇女权益严重受限、人道主义资金依然不足等问题。中方代表指出，当前阿富汗正处于和平重建的关键阶段，国际社会要为解决阿富汗面临的突出问题，更好地发挥作用。中国常驻联合国代表傅聪指出，人道救济事关全体阿富汗人民的切身利益，绝不能用作政治施压的筹码。中方呼吁传统捐助方加大资金投入，特别呼吁美国无条件解冻并全额归还属于阿富汗人民的海外资产。受单边制裁影响，阿富汗银行系统长期隔绝在国际金融体系之外，相关国家应立即无条件解除非法单边制裁，支持阿富汗重建金融体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3178260.d.html</link>
+            <guid>3925171</guid>
+            <pubDate>Thu, 12 Dec 2024 22:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[元大京华证券将台光电子材料评级上调至买进，目标价660元台币。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3178118.d.html</link>
+            <guid>3925170</guid>
+            <pubDate>Thu, 12 Dec 2024 22:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：富时胶片将把韩国CMP浆料的产量提高30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3177950.d.html</link>
+            <guid>3925169</guid>
+            <pubDate>Thu, 12 Dec 2024 22:05:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台12月13日06时继续发布大风蓝色预警】预计，12月13日08时至14日08时，内蒙古中东部、山西北部、河北北部、河南中部、山东西南部等地部分地区有5级风，阵风6~8级；黄海大部海域、东海大部海域、台湾海峡、台湾以东洋面、巴士海峡、南海北部和中部海域，北部湾将有7~8级，阵风9级的大风。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3177852.d.html</link>
+            <guid>3925168</guid>
+            <pubDate>Thu, 12 Dec 2024 22:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储12月降息25个基点的概率为94.7%】据CME“美联储观察”：美联储到12月维持当前利率不变的概率为5.3%，累计降息25个基点的概率为94.7%。到明年1月维持当前利率不变的概率为4.1%，累计降息25个基点的概率为73.7%，累计降息50个基点的概率为22.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6403289.d.html</link>
+            <guid>3925167</guid>
+            <pubDate>Thu, 12 Dec 2024 22:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美元指数涨0.3%，日元跌向153，瑞郎跌超0.9%】 周四（12月12日）纽约尾盘，ICE美元指数上涨0.31%，报107.038点，日内交投区间为106.354-107.041点，全天整体呈现出震荡上行状态，但欧洲央行宣布降息、美国PPI数据出炉、北京时间23:00、23:43等时间节点出现显著的波动。彭博美元指数涨0.28%，刷新日高至1288.41点，15:17刷新日低至1281.12点之后，震荡上行。美元兑日元涨0.14%，报152.67日元，日内交投区间为151.81-152.77日元。欧元兑美元跌0.27%、报1.0467，英镑兑美元跌0.62%、报1.2673，美元兑瑞郎涨0.93%、报0.8924；商品货币对中，澳元兑美元冲高回落后大致持平，纽元兑美元跌0.29%，美元兑加元涨0.44%。瑞典克朗兑美元跌0.38%，挪威克朗兑美元跌0.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6403160.d.html</link>
+            <guid>3925166</guid>
+            <pubDate>Thu, 12 Dec 2024 22:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【博通盈利高于预期 人工智能推动销售增长】 苹果公司及其他大型科技公司的芯片供应商博通公布的第四财季盈利优于预期，人工智能需求提振了增长。该公司周四在声明中表示，剔除部分项目后的每股收益为1.42美元。收入升至近141亿美元。彭博汇总的数据显示，分析师此前的预测均值为，每股收益1.39美元，收入141亿美元。博通预计截至1月的第一财季销售额将达到146亿美元，符合分析师预期。博通的财报显示，对人工智能计算的需求正在对冲其他领域的放缓。博通跟英伟达类似，也把自己定位成人工智能支出的主要受益者。财报公布之后，博通股价盘后一度涨超6%。截至周四收盘，该股2024年以来累计涨幅为62%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3177516.d.html</link>
+            <guid>3925165</guid>
+            <pubDate>Thu, 12 Dec 2024 22:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰1-10月净移民人数同比下降至38,776人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6402882.d.html</link>
+            <guid>3925164</guid>
+            <pubDate>Thu, 12 Dec 2024 21:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吉林省推动冰雪经济高质量发展 培育一批知名品牌和龙头企业】吉林省委常委会近日审议通过了《关于推动吉林省冰雪经济高质量发展的实施意见》。《实施意见》提出，到2027—2028年雪季，冰雪旅游接待游客达到2.3亿人次，冰雪旅游游客出游总花费达到4200亿元；到2030年，冰雪旅游接待3亿人次，冰雪旅游出游总花费达到5400亿元，冰雪装备制造业总产值超过50亿元。吉林省将力争再申报1—2家国家级滑雪旅游度假地，每年营业特色冰雪乐园不低于100家，建设高品质冰雪旅游目的地。大力发展冰雪名城、名镇、名村，培育一批冰雪领域知名品牌和龙头企业。 (证券时报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3177275.d.html</link>
+            <guid>3925158</guid>
+            <pubDate>Thu, 12 Dec 2024 21:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军轰炸加沙中部努赛赖特难民营 已致30人死亡】总台记者当地时间12日晚获悉，以军对加沙地带中部努赛赖特难民营的一栋建筑进行轰炸，造成的死亡人数已升至30人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6402604.d.html</link>
+            <guid>3925157</guid>
+            <pubDate>Thu, 12 Dec 2024 21:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报评论员文章：保持物价在合理水平】经济日报发文称，可以预见的是，宏观政策加力实施，将为经济增长和物价稳定营造更好的货币金融环境，也有助于加快形成消费和投资相互促进的良性循环，推动供给和需求实现更高水平动态平衡。物价是宏观经济运行的“温度计”、市场配置资源的“风向标”，也是微观经营的“指挥棒”，过高或过低都不利于经济社会发展。物价水平下降短期看有利于减少消费者负担，但如果物价水平持续低位运行，企业“增收不增利”，“内卷式”竞争加剧，扩大投资动力减弱，进而会造成就业机会减少、工资收入增长放缓。物价水平过低也会抬高实际利率，可能对经济活动形成抑制。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3176915.d.html</link>
+            <guid>3925155</guid>
+            <pubDate>Thu, 12 Dec 2024 21:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【12月12日美股成交额前20：Adobe业绩欠佳股价重挫13.7%】周四美股成交额第4名Adobe收跌13.69%，创两年来最大单日跌幅，成交83.2亿美元。该公司的业绩指引不及市场预期，加剧了投资者对这家创意软件巨头可能会被新兴的人工智能（AI）初创公司颠覆的担忧。公司预计2025财年营收为234亿美元，不及分析师预期的238亿美元；每股收益预计在20.20美元—20.50美元，不及分析师预期的20.52美元。Adobe公布财报与业绩预期后，美银证券将其目标价从640美元下调至605美元，Jefferies将其目标价从700美元下调至650美元。(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3176781.d.html</link>
+            <guid>3925153</guid>
+            <pubDate>Thu, 12 Dec 2024 21:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国提前完成“十四五”5G建设目标 5G-A时代来了】工业和信息化部负责人在上海举行的中国5G发展大会上透露，我国已提前完成“十四五”5G建设发展目标。张云明表示，5G网络已全面覆盖政务中心、文旅景区、交通干线等重点热点场所，并不断向农村边远地区拓展深化。我国5G技术产业已构筑起涵盖通信芯片、终端、基站设备、设施仪表的完整产业链，共有近2000款5G终端产品上市商用。工业和信息化部已举办七届5G应用征集大赛，应用案例超过10万个，5G应用已经融入97个国民经济大类中的80个。全球移动通信系统协会（GSMA）报告显示，2023年中国以5G为代表的移动生态系统创造了约800万个就业岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhaty9208546.d.html</link>
+            <guid>3925152</guid>
+            <pubDate>Thu, 12 Dec 2024 21:50:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约期金跌1.8%，期银跌4.2%，矿业股科尔黛伦跌6.6%】 周四（12月12日）纽约尾盘，现货黄金下跌1.36%，报2681.37美元/盎司，全天呈现出震荡下行表现，北京时间09:00刷新日高至2726.23美元，21:30发布美国PPI数据后、欧洲央行行长拉加德新闻发布会期间加速下挫，23:51刷新日低至2675.29美元，逼近50日均线（该技术指标目前报2670.42美元）。现货白银跌2.91%，报30.9710美元/盎司。COMEX黄金期货跌1.81%，报2706.70美元/盎司，日内交投区间为2761.30-2696.70美元。COMEX白银期货跌4.19%，报31.5850美元/盎司。COMEX铜期货跌0.50%，报4.2420美元/磅。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatx2431261.d.html</link>
+            <guid>3925151</guid>
+            <pubDate>Thu, 12 Dec 2024 21:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：加强超常规逆周期调节】宏观政策定调，事关国民经济运行总体态势。12月9日召开的中共中央政治局会议强调，实施更加积极的财政政策和适度宽松的货币政策，充实完善政策工具箱，加强超常规逆周期调节，打好政策“组合拳”，提高宏观调控的前瞻性、针对性、有效性。“超常规逆周期调节”的提法引发市场广泛关注。受访的专家普遍认为，政治局会议部署的是未来一段时间经济工作的总方针。会议的一系列表述超预期，更大规模的财政金融政策和产业培育政策、更广泛兜底民生促进消费的各项措施有望出台，各部门各地方在执行层面上也会更大程度放开手脚。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3176560.d.html</link>
+            <guid>3925148</guid>
+            <pubDate>Thu, 12 Dec 2024 21:48:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌与三星合作开发头显设备 第一款产品预计将于明年上市】美东时间周四，科技巨头谷歌发布了全新版本的Android XR操作系统，旨在为头显设备和智能眼镜提供多种自然交互方式，提升用户在虚拟现实(VR)和增强现实(AR)领域的体验。]]></title>
+            <guid>3925139</guid>
+            <pubDate>Thu, 12 Dec 2024 21:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至12月5日当周外国央行持有美国国债 -2.03亿美元，前值-61.57亿美元。]]></title>
+            <guid>3925130</guid>
+            <pubDate>Thu, 12 Dec 2024 21:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【挂牌12年终脱手 迈克尔·乔丹降价67%卖掉芝加哥市郊万尺豪宅】篮球巨星迈克尔·乔丹最终在大幅降价后才卖掉自己位于芝加哥郊区的豪宅。公开挂牌记录显示，这处房产以950万美元成交价。与Zillow上公布的最初要价2,900万美元相比，售价低了67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhaty9207348.d.html</link>
+            <guid>3925129</guid>
+            <pubDate>Thu, 12 Dec 2024 21:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储12月11日当周贴现窗贷款余额26.1亿美元，之前一周24.3亿美元。12月11日当周银行定期融资贷款余额156亿美元，之前一周171亿美元。]]></title>
+            <guid>3925128</guid>
+            <pubDate>Thu, 12 Dec 2024 21:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰11月制造业表现指数 45.5，前值45.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6401191.d.html</link>
+            <guid>3925127</guid>
+            <pubDate>Thu, 12 Dec 2024 21:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KeyBanc维持跟踪Salesforce股份有限公司，评级超配，目标价440美元。]]></title>
+            <guid>3925126</guid>
+            <pubDate>Thu, 12 Dec 2024 21:29:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利将九龙仓置业评级下调至低配，目标价20港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3175675.d.html</link>
+            <guid>3925125</guid>
+            <pubDate>Thu, 12 Dec 2024 21:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利将希慎兴业评级下调至低配，目标价13港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhaty9207231.d.html</link>
+            <guid>3925124</guid>
+            <pubDate>Thu, 12 Dec 2024 21:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计2025年食品、饮料、烟草和消费品的销售额增长率为较低的个位数。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3175623.d.html</link>
+            <guid>3925121</guid>
+            <pubDate>Thu, 12 Dec 2024 21:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军轰炸加沙地带中部至少27人死亡】据巴勒斯坦通讯社12日报道，以色列军队当晚轰炸加沙地带中部努赛赖特难民营，造成至少27人死亡，其中包括妇女和儿童，另有数十人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhaty9206936.d.html</link>
+            <guid>3925120</guid>
+            <pubDate>Thu, 12 Dec 2024 21:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长端美债收益率至少涨7个基点，耶伦在纽约中午拍卖30年期美国国债，需求疲软】 周四（12月12日）纽约尾盘，美国10年期基准国债收益率涨6.26个基点，连续第四个交易日上涨，刷新日高至4.3337%，逼近11月25日顶部4.3668%，北京时间08:08（亚太盘初）曾跌至4.2613%，全天绝大部分时间处于上涨状态，欧洲央行21:15宣布降息后、美国PPI数据发布后、至美股开盘后这段时间，出现一波V型反转。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3175190.d.html</link>
+            <guid>3925119</guid>
+            <pubDate>Thu, 12 Dec 2024 21:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通选举Michele Buck为董事会成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6400582.d.html</link>
+            <guid>3925116</guid>
+            <pubDate>Thu, 12 Dec 2024 21:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统埃尔多安告诉美国国务卿布林肯，土耳其不会允许在打击叙利亚伊斯兰国的斗争中出现任何软弱。]]></title>
+            <guid>3925112</guid>
+            <pubDate>Thu, 12 Dec 2024 21:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其总统府：埃尔多安告知美国国务卿布林肯，土耳其将在叙利亚针对包括 “人民保护部队”（YPG）和 “伊斯兰国” 在内的恐怖组织采取预防性措施。]]></title>
+            <guid>3925111</guid>
+            <pubDate>Thu, 12 Dec 2024 21:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：我们估计，如果到2025年底布伦特原油价格跌至50多美元/桶的区间，2025年美国页岩油供应量的增长幅度将降至每日10万桶以下，而这反过来又会将2025年布伦特原油价格每桶推高8美元。]]></title>
+            <guid>3925109</guid>
+            <pubDate>Thu, 12 Dec 2024 21:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【开市客第一财季每股收益超过预估】开市客第一财季每股收益4.04美元，上年同期3.58美元，预估3.81美元。美国同店销售增加5.2％，预估增加5.03％。总营收621.5亿美元，同比增加7.5%，预估619.8亿美元。销售净额609.9亿美元，同比增加7.5%，预估608.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6400338.d.html</link>
+            <guid>3925108</guid>
+            <pubDate>Thu, 12 Dec 2024 21:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：两种情况支撑布油70美元底价的观点】高盛：我们发现，当布伦特原油价格跌至60美元/桶区间时，美国的供应应对举措会增加，加之石油输出国组织（欧佩克）倾向于围绕当前价格水平延长减产的情况，支撑了我们所认为的布伦特原油价格存在70美元/桶这一底价的观点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhaty9206410.d.html</link>
+            <guid>3925107</guid>
+            <pubDate>Thu, 12 Dec 2024 21:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西股指收跌2.67%，在巴西央行加息后创2023年1月来最大跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6400279.d.html</link>
+            <guid>3925106</guid>
+            <pubDate>Thu, 12 Dec 2024 21:17:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收跌0.89%，报13546.000点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6400251.d.html</link>
+            <guid>3925105</guid>
+            <pubDate>Thu, 12 Dec 2024 21:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：凭借二叠纪原油产量的强劲增长以及天然气凝析液持续的强劲表现，美国本土48州的页岩油产量（原油及天然气凝析液）将稳健增长，日产量预计增加60万桶。]]></title>
+            <guid>3925104</guid>
+            <pubDate>Thu, 12 Dec 2024 21:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【博通第四季度经调整净营收140.5亿美元 预期140.8亿美元】博通第四季度经调整净营收140.5亿美元，预期140.8亿美元；第四季度经调整每股收益1.42美元，预期1.39美元；预计第一季度营收约为146亿美元，分析师预期为146.1亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6400214.d.html</link>
             <guid>3925102</guid>
             <pubDate>Thu, 12 Dec 2024 21:16:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[高盛表示，他们的基本预测是，鉴于每天40万桶的适度过剩与当前低估值的正常化之间几乎形成抵消，布伦特原油到 2025 年的平均价格为 76 美元/桶。]]></title>
+            <title><![CDATA[高盛：鉴于每日40万桶的适度供应过剩与当前偏低估值正常化的情况近乎相互抵消，基本预期是布伦特原油在2025年的平均价格为每桶76美元。]]></title>
             <guid>3925101</guid>
             <pubDate>Thu, 12 Dec 2024 21:15:23 GMT</pubDate>
         </item>
@@ -73,12 +292,6 @@
             <pubDate>Thu, 12 Dec 2024 20:57:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【纽约联储市场主管米歇尔·尼尔卸任】根据周四发表的一份声明，纽约联储市场集团主管兼执行委员会成员米歇尔·尼尔（Michelle Neal）将于2025年3月离开该银行，担任私营部门的高级管理人员。在此期间，尼尔已转任顾问，以帮助促进平稳过渡。市场集团国内和国际市场职能负责人安娜·诺德斯特罗姆将担任市场集团的临时负责人，直到任命继任者。纽约联储将在未来几周内开始寻找新的市场集团负责人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhaty9204081.d.html</link>
-            <guid>3925080</guid>
-            <pubDate>Thu, 12 Dec 2024 20:52:16 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[波音股价午后上涨1.3%。消息面上，波音表示计划到2026年将787产量提高至每月10架。]]></title>
             <guid>3925079</guid>
             <pubDate>Thu, 12 Dec 2024 20:50:02 GMT</pubDate>
@@ -101,35 +314,12 @@
             <pubDate>Thu, 12 Dec 2024 20:44:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约联储：安娜·诺德斯特罗姆将担任临时市场主管。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3172370.d.html</link>
-            <guid>3925072</guid>
-            <pubDate>Thu, 12 Dec 2024 20:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[招联首席研究员、复旦大学金融研究院兼职研究员董希淼：“让政策调整走在市场曲线之前”，适度宽松的货币政策将加大逆周期调节力度。中央经济工作会议确定2025年货币政策的基调“适度宽松”，既是出于对当前经济形势的分析，也充分考虑了外部不确定因素，更结合了对明年经济工作的谋划。]]></title>
-            <guid>3925071</guid>
-            <pubDate>Thu, 12 Dec 2024 20:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约联储表示尼尔将重返私营部门工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatx2426396.d.html</link>
-            <guid>3925070</guid>
-            <pubDate>Thu, 12 Dec 2024 20:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约联储：尼尔将担任高级顾问直至离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6397692.d.html</link>
-            <guid>3925069</guid>
-            <pubDate>Thu, 12 Dec 2024 20:42:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[美国国务院：国务卿布林肯在会见土耳其总统埃尔多安时强调，必须确保打击伊斯兰国的联盟能够继续执行其关键使命。]]></title>
             <guid>3925068</guid>
             <pubDate>Thu, 12 Dec 2024 20:41:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约联储：市场部主管米歇尔·尼尔（Michelle Neal）辞去银行职务，将于2025年3月25日起离职。]]></title>
+            <title><![CDATA[纽约联储：市场主管部门Michelle Neal辞职，将于2025年3月25日正式离职，Neal将担任高级顾问直至离开该行，其将重返私营部门工作。Neal离职前，Anna Nordstrom将担任临时市场主管。]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhauc3171944.d.html</link>
             <guid>3925066</guid>
             <pubDate>Thu, 12 Dec 2024 20:40:24 GMT</pubDate>
@@ -189,7 +379,7 @@
             <pubDate>Thu, 12 Dec 2024 20:30:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【A股融资余额创逾9年新高】12月12日，A股市场低开高走，截至收盘，上证指数涨近1%，深证成指涨1%，创业板指涨逾1%。整个A股市场超3500只股票上涨，逾150只股票涨停，大消费板块爆发涨停潮。市场成交放量，成交额为1.89万亿元，已连续52个交易日成交额超1万亿元，刷新A股市场纪录。资金面上，Wind数据显示，截至12月11日，A股市场融资余额报18758.50亿元，创逾9年新高；本周前3个交易日融资余额“三连增”，累计增加225.79亿元。分析人士认为，短期宽裕的流动性和乐观的政策预期仍是市场的主要支撑，从中长期来看，在政策预期和经济趋势的双重推动下，A股市场有望延续震荡上行态势。（中证报）]]></title>
+            <title><![CDATA[【A股融资余额创逾9年新高】Wind数据显示，截至12月11日，A股市场融资余额报18758.50亿元，创逾9年新高；本周前3个交易日融资余额“三连增”，累计增加225.79亿元。分析人士认为，短期宽裕的流动性和乐观的政策预期仍是市场的主要支撑，从中长期来看，在政策预期和经济趋势的双重推动下，A股市场有望延续震荡上行态势。 (中国证券报)]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatx2425201.d.html</link>
             <guid>3925051</guid>
             <pubDate>Thu, 12 Dec 2024 20:30:23 GMT</pubDate>
@@ -303,7 +493,7 @@
             <pubDate>Thu, 12 Dec 2024 20:00:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多个数据显示：公募发力权益布局】股票型基金自购力度不断加大、次新基金加快建仓节奏、“老基金”提升权益仓位，更多新基金将于12月中下旬集中发售……临近年末，公募基金正在加大权益布局力度。公募基金正在入场。Choice数据显示，近三个月（9月12日至12月12日）成立的新基金共计募集资金2898.03亿元，股票型基金募集规模占一半以上。在上述次新股票型基金中，成立以来收益在1%以上的基金达到145只，数量过半，多数基金在快速建仓。截至12月11日，27只产品收益超过5%（不同份额分开计算），表现最好的产品收益达到51%。（上证报）]]></title>
+            <title><![CDATA[【多个数据显示：公募发力权益布局】临近年末，公募基金正在加大权益布局力度。数据显示，近三个月（9月12日至12月12日）成立的新基金共计募集资金2898.03亿元，股票型基金募集规模占一半以上。在上述次新股票型基金中，成立以来收益在1%以上的基金达到145只，数量过半，多数基金在快速建仓。截至12月11日，27只产品收益超过5%（不同份额分开计算），表现最好的产品收益达到51%。更多新资金在“排队入场”。数据显示，年底前，有20余只基金即将启动发售，且八成是权益类基金，华夏、富国、博时、景顺长城等均有产品等待发行。同时，基金自购力度不断加大。截至12月12日，今年以来，基金公司自购旗下股票型基金的净申购额已经达到28.94亿元，较去年全年增长28%。 (上证报)]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczhatz6390902.d.html</link>
             <guid>3925016</guid>
             <pubDate>Thu, 12 Dec 2024 19:59:55 GMT</pubDate>
@@ -403,198 +593,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6517558.d.html</link>
             <guid>3924997</guid>
             <pubDate>Thu, 12 Dec 2024 19:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白俄罗斯总统批准2026-2030年国防计划】据白俄罗斯总统网站12日消息，总统卢卡申科当天在白俄罗斯安全委员会会议上批准了该国2026-2030年国防计划。卢卡申科在会议上指出，近年来白俄罗斯周边的军事和政治局势恶化，个别国家令白俄罗斯周边局势不断升级，欧洲国家针对白俄罗斯的破坏性言论也在增加。他强调，白俄罗斯军队对任何国家都不构成威胁，是防止战争的工具，将在国家遭受侵略时击退敌人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwmz2550233.d.html</link>
-            <guid>3924996</guid>
-            <pubDate>Thu, 12 Dec 2024 19:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI 1月原油期货收跌0.27美元，跌幅0.38%报70.02美元/桶。NYMEX 1月天然气期货收涨2.28%，报3.4550美元/百万英热单位。]]></title>
-            <guid>3924995</guid>
-            <pubDate>Thu, 12 Dec 2024 19:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比特币回落至100000美元/枚下方，日内跌1.15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6516644.d.html</link>
-            <guid>3924994</guid>
-            <pubDate>Thu, 12 Dec 2024 19:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉当局表示，本周释放了7月选举后被捕的103人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnf3291068.d.html</link>
-            <guid>3924993</guid>
-            <pubDate>Thu, 12 Dec 2024 19:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加元兑美元跌至1.4210，创2020年4月以来最低。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnf3290616.d.html</link>
-            <guid>3924992</guid>
-            <pubDate>Thu, 12 Dec 2024 19:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普称将以对乌克兰的援助为筹码来迫使俄罗斯坐上谈判桌】美国候任总统唐纳德·特朗普表示，他将把美国对乌克兰的支持当成筹码，迫使俄罗斯通过谈判结束冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwmz2549168.d.html</link>
-            <guid>3924991</guid>
-            <pubDate>Thu, 12 Dec 2024 19:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【据悉欧洲央行考虑接下来两次会议连续降息25个基点】知情人士透露，随着通胀率在2%目标企稳加之经济增长低迷，欧洲央行官员计划1月份再降息25基点，可能3月份还有一次。知情人士称，只要经济发展符合当前预期，逐步降低借贷成本是最合适的路径。他们认为，在紧急情况下一次降息50个基点仍然是个选项，但此举有可能传达出一种意料之外的紧迫感。知情人士称，官员们尚未做出任何决定，每次会议都会根据所有可获得的信息做出评估，3月之后也是如此。他们强调，一旦特朗普1月份上台后形势更加明朗，央行的政策倾向可能会发生变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwna9326245.d.html</link>
-            <guid>3924990</guid>
-            <pubDate>Thu, 12 Dec 2024 19:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：如果特朗普对加拿大增加进口税，加拿大将考虑对铀和石油征收出口税。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwmz2549043.d.html</link>
-            <guid>3924989</guid>
-            <pubDate>Thu, 12 Dec 2024 19:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音计划到2026年将787的月产量提高到10架】波音公司周四表示，计划到2026年将787梦想飞机宽体客机的产量提高到每月10架。这家飞机制造商计划扩大其在南卡罗来纳州查尔斯顿县工厂的运营，投资10亿美元升级基础设施，并创造500个新的就业机会。波音公司一直在努力使787飞机的产量在今年年底前恢复到每月5架的水平，但供应链方面的障碍导致了生产延误。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwna9326081.d.html</link>
-            <guid>3924988</guid>
-            <pubDate>Thu, 12 Dec 2024 19:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫：拜登再批准一项对乌援助计划 将提供更多防空系统等】当地时间12月12日，美国白宫国家安全委员会战略沟通协调员约翰·柯比在当天的白宫简报会上表示，美国总统拜登12日批准了一项新的乌克兰安全援助计划，将为乌克兰提供更多的防空系统、火炮、无人机和装甲车辆。柯比称，这是美国宣布的第72次此类物资调配援助，美国将继续提供额外援助包，直到本届政府结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwmz2548916.d.html</link>
-            <guid>3924987</guid>
-            <pubDate>Thu, 12 Dec 2024 19:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【豆包概念引爆调研潮 机构“踏破”上市公司门槛】人工智能（AI）题材再次火热于A股。这一次，豆包概念股成为继Kimi概念股、智谱概念股之后，市场上“最靓的仔”。伴随着行情的升温，具有豆包概念的相关上市公司也被机构“踏破了门槛”。近日，中科蓝讯、乐鑫科技、中科创达、海天瑞声等多只抖音豆包概念股获得了上百家机构调研。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6515267.d.html</link>
-            <guid>3924986</guid>
-            <pubDate>Thu, 12 Dec 2024 19:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2万亿元特殊再融资专项债下周发完】根据中国债券信息网披露，北京市计划在12月18日招标发行2024年北京市第十一批政府债券。届时，年内“置换存量隐性债务”的2万亿元地方政府再融资专项债券发行任务将完成。目前来看，29个省份已披露特殊再融资专项债发行安排，广东省和上海市未参与本轮隐债置换。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6514935.d.html</link>
-            <guid>3924985</guid>
-            <pubDate>Thu, 12 Dec 2024 19:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银行备战个人养老金开户营销 险企提早布局抢抓机遇】岁末年终，正值个人养老金年度缴存的最后关头。12月12日，个人养老金制度迎来扩围。人力资源社会保障部等五部门发布《关于全面实施个人养老金制度的通知》称，自12月15日起，个人养老金制度从36个先行试点城市（地区）推开至全国。记者了解到，作为个人养老金账户的“入口”，银行积极备战开户营销。比如，不少银行已推出个人养老金预约开户和缴存优惠活动，立减金、缴存礼、抽奖提现等活动轮番上阵。作为个人养老金制度的深度参与者，保险公司亦积极表态，将抓住历史机遇，更加深入参与养老体系第三支柱建设。(上证报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnf3288611.d.html</link>
-            <guid>3924984</guid>
-            <pubDate>Thu, 12 Dec 2024 19:12:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间03:00收报7.2700元，较周三夜盘收盘跌85点。成交量420.42亿美元。]]></title>
-            <guid>3924983</guid>
-            <pubDate>Thu, 12 Dec 2024 19:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音：查尔斯顿县扩建工厂预计将于2027年初投入运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6513655.d.html</link>
-            <guid>3924982</guid>
-            <pubDate>Thu, 12 Dec 2024 19:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音：787梦想飞机项目计划到2026年将产量增加到每月10架。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwna9324497.d.html</link>
-            <guid>3924980</guid>
-            <pubDate>Thu, 12 Dec 2024 19:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音公司将投资10亿美元，升级在美国南卡来罗纳州的基础设施，招聘500人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwna9324422.d.html</link>
-            <guid>3924979</guid>
-            <pubDate>Thu, 12 Dec 2024 19:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利财政部长：2024年GDP将增长0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6512551.d.html</link>
-            <guid>3924978</guid>
-            <pubDate>Thu, 12 Dec 2024 19:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧洲央行准备在接下来的两次会议上分别降息25个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6512175.d.html</link>
-            <guid>3924977</guid>
-            <pubDate>Thu, 12 Dec 2024 19:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒生指数主连夜盘收跌1.23%，报20219.000点。恒生科技指数主连夜盘收跌1.41%，报4556.00点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnf3286388.d.html</link>
-            <guid>3924976</guid>
-            <pubDate>Thu, 12 Dec 2024 19:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯工业平均指数现报43,983.32点，下跌165.24点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6511705.d.html</link>
-            <guid>3924975</guid>
-            <pubDate>Thu, 12 Dec 2024 19:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国总统马克龙将于13日早间宣布新总理人选】当地时间12日晚，法国总统马克龙在结束对波兰的访问后回到巴黎，并表示将于当地时间13日早间宣布新总理人选。马克龙于12月5日接受了前总理米歇尔·巴尼耶的辞呈，巴尼耶政府成为法兰西第五共和国任期最短的政府。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6511551.d.html</link>
-            <guid>3924974</guid>
-            <pubDate>Thu, 12 Dec 2024 19:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国得克萨斯州到203年将按年发电大约150 GW。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6511479.d.html</link>
-            <guid>3924973</guid>
-            <pubDate>Thu, 12 Dec 2024 19:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金融科技贷款公司Stenn Technologies已经崩溃，其大部分员工将失业。12月初，汇丰控股推动这家陷入麻烦的贸易融资公司破产。]]></title>
-            <guid>3924972</guid>
-            <pubDate>Thu, 12 Dec 2024 18:57:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌CEO料将于当地时间12月13日会见美国当选总统特朗普。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6510394.d.html</link>
-            <guid>3924971</guid>
-            <pubDate>Thu, 12 Dec 2024 18:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国众议院通过法案 计划在全美新增66名联邦法官】当地时间12月12日，美国众议院以236票赞成、173票反对的表决结果通过一项法案，计划在全美范围内新增66名联邦法官，以缓解联邦法院人手不足的问题。这是自1990年以来，美国联邦司法系统的首次重大扩展。法案规定，将在未来11年内分六个阶段逐步增加法官名额，覆盖包括加利福尼亚、佛罗里达和得克萨斯在内的13个州的25个联邦地区法院。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6510318.d.html</link>
-            <guid>3924970</guid>
-            <pubDate>Thu, 12 Dec 2024 18:52:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家安全委员会发言人柯比宣布对乌克兰的武器援助新计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnf3284542.d.html</link>
-            <guid>3924969</guid>
-            <pubDate>Thu, 12 Dec 2024 18:50:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国30年期国债发行中标收益率4.535% 高于发行前交易收益率】美国财政部续发220亿美元30年期国债，中标收益率4.535%，纽约时间下午1点招标截止时的发行前交易收益率为4.523% 。一级交易商获配比例14.4%，高于前次。直接投标者获配比例下降至19.1%，间接投标者获配比例升至66.5%。投标倍数2.39倍，低于过去六次续发交易2.42倍的均值。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwmz2544546.d.html</link>
-            <guid>3924968</guid>
-            <pubDate>Thu, 12 Dec 2024 18:49:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际原子能机构将继续向扎波罗热核电站派驻专家组】国际原子能机构总干事格罗西12日发表声明说，尽管国际原子能机构一辆公务车日前在执行驻扎波罗热核电站专家轮换任务时遭遇无人机袭击，该机构仍将继续向该核电站派驻专家组，以保障核安全、避免发生核事故。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwnc6509833.d.html</link>
-            <guid>3924967</guid>
-            <pubDate>Thu, 12 Dec 2024 18:49:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周四（12月12日），韩元兑美元最终跌0.05%，报1429.98韩元，北京时间10:53曾刷新日低至1434.70韩元。]]></title>
-            <guid>3924966</guid>
-            <pubDate>Thu, 12 Dec 2024 18:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军说摧毁叙利亚超过90%的地对空导弹】以色列国防军12日发表声明说，已“严重破坏”叙利亚防空系统，摧毁超过90%已被识别的地对空导弹。声明说，最近几周，以色列国防军一直在对叙利亚局势进行全面评估。以空军制定了一项“广泛的打击计划”，旨在在地区紧张局势不断升级的情况下摧毁叙利亚强大的军事能力。过去几天，数百架以色列空军战斗机和其他机型发动协同打击，对叙利亚“最具战略意义的武器系统进行了重大打击”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczfwmz2544111.d.html</link>
-            <guid>3924965</guid>
-            <pubDate>Thu, 12 Dec 2024 18:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：OpenAI周四宣布，正在推出一项新功能，允许用户在ChatGPT移动应用的高级语音模式中分享手机屏幕和手机的实时视频。这样用户就不必在聊天中上传照片或描述周围环境。]]></title>
-            <guid>3924964</guid>
-            <pubDate>Thu, 12 Dec 2024 18:42:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱将MicroStrategy目标价从275美元上调至515美元；BTIG Research将MicroStrategy目标价从290美元上调至570美元，予其“买入”评级。]]></title>
-            <guid>3924963</guid>
-            <pubDate>Thu, 12 Dec 2024 18:36:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

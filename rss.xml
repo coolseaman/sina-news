@@ -4,19 +4,167 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 13 Dec 2024 18:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 19:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[加拿大财政部长：若美国征收不合理关税，加拿大将予以强烈回应。]]></title>
+            <title><![CDATA[OpenAI的CEO Sam Altman捐赠100万美元给美国当选总统特朗普的就职基金，特朗普将于2025年1月20日宣誓就职。人工智能（AI）搜索初创公司Perplexity也捐赠100万美元。]]></title>
+            <guid>3926856</guid>
+            <pubDate>Fri, 13 Dec 2024 19:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外交部长：土耳其驻大马士革大使馆将于明天开放。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkfti5400658.d.html</link>
+            <guid>3926855</guid>
+            <pubDate>Fri, 13 Dec 2024 19:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：2025年美国和加拿大货运和物流行业的评级前景大致稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkftc2255000.d.html</link>
+            <guid>3926854</guid>
+            <pubDate>Fri, 13 Dec 2024 19:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外交部长：我们希望看到叙利亚有一个包容性的政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkftc2254982.d.html</link>
+            <guid>3926853</guid>
+            <pubDate>Fri, 13 Dec 2024 19:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥湾沿岸柴油出口飙升至去年12月初的纪录高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkfsz5480361.d.html</link>
+            <guid>3926852</guid>
+            <pubDate>Fri, 13 Dec 2024 19:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计美国和加拿大的货运周期将于2025年开始缓慢改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkftc2254845.d.html</link>
+            <guid>3926851</guid>
+            <pubDate>Fri, 13 Dec 2024 19:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：人工智能和数据公司Databricks融资近95亿美元，正在就额外筹集45亿美元债务进行谈判。该公司的估值将超过600亿美元。]]></title>
+            <guid>3926850</guid>
+            <pubDate>Fri, 13 Dec 2024 19:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在岸人民币兑美元（CNY）北京时间03:00收报7.2731元，较周四夜盘收盘跌31点。成交量367.81亿美元。]]></title>
+            <guid>3926849</guid>
+            <pubDate>Fri, 13 Dec 2024 19:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.28%，报19965点，低水6点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkftc2253390.d.html</link>
+            <guid>3926848</guid>
+            <pubDate>Fri, 13 Dec 2024 19:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马士基：2025年恐怕又是全球贸易遭受干扰的一年。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkftf8622488.d.html</link>
+            <guid>3926847</guid>
+            <pubDate>Fri, 13 Dec 2024 18:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：以色列高级官员同意美国评估，即12月底前可能达成人质协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkfti5399055.d.html</link>
+            <guid>3926846</guid>
+            <pubDate>Fri, 13 Dec 2024 18:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英意日将成立合资公司开发下一代战斗机】英国贝宜系统公司13日发布公告说，已与意大利和日本公司达成协议，将成立新的合资公司开发下一代战斗机。公告说，贝宜系统公司已与意大利莱奥纳多公司、日本航空机产业振兴公司达成协议，将在获得监管部门批准后成立一家合资公司。该公司负责下一代作战飞机的设计、开发和交付，并计划于2035年将其投入使用。公告说，这家合资公司的总部将设在英国，汇集三家公司的综合实力和专业知识。三家公司将分别持有新合资公司33.3%的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkfsz5476647.d.html</link>
+            <guid>3926845</guid>
+            <pubDate>Fri, 13 Dec 2024 18:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员表示，美国军方已将被关押在叙利亚的美国人特拉维斯·蒂莫曼（Travis Timmerman）送出该国。]]></title>
+            <guid>3926844</guid>
+            <pubDate>Fri, 13 Dec 2024 18:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股“十一罗汉”｜诺和诺德收跌约3.9%，本周累跌超4%】 周五（12月13日），阿斯麦控股荷兰阿姆斯特丹股价（ASML.NA）收涨0.64%，报687.70欧元，本周累计上涨1.49%。诺和诺德哥本哈根股价（NOVOB.DC）收跌3.89%，报754.00（丹麦克朗），本周累计下跌4.01%。赛诺菲收跌1.68%，本周累的3.34%；LVMH集团跌1.08%，本周累涨1.32%；阿斯利康跌0.95%，本周累跌1.75%；罗氏制药跌0.9%，本周累跌1.48%；诺华制药跌0.36%，本周累跌2.30%；葛兰素史克跌0.34%，本周累跌1.08%；欧莱雅跌0.33%，本周累跌0.07%；德国思爱普SAP跌0.19%，本周累涨0.12%；雀巢涨0.37%，本周累跌0.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkftc2250757.d.html</link>
+            <guid>3926843</guid>
+            <pubDate>Fri, 13 Dec 2024 18:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金日内跌超1.00%，现报2652.65美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczkfsz5474746.d.html</link>
+            <guid>3926842</guid>
+            <pubDate>Fri, 13 Dec 2024 18:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【搭上“马斯克交易”风口的投资者回报丰厚 有只基金甚至已暴涨500%】无论是华尔街基金，还是小小的短线交易员，只要敢于对埃隆·马斯克的商业帝国押下重注，今年收官就有望赚得盆满钵满，因为唐纳德·特朗普赢得美国大选强力助推这位世界首富财富暴增。马斯克在竞选期间对特朗普的支持以及获委任领导新设的政府效率部让他的企业，包括特斯拉和非上市独角兽企业SpaceX和xAI，成为热门资产。这些企业今年市值飙升，推动马斯克自己的个人财富突破4,000亿美元。封闭式基金Destiny Tech100 Inc.（DXYZ）就是这样一只搭上了马斯克交易风口的基金。自11月5日大选以来，该基金已飙升逾500%。该基金投资于非上市独角兽公司的股份，其最新申报显示，截至9月底，对SpaceX的押注占其持仓的三分之一以上。特朗普胜选促使大量散户涌入这家基金，推动其交易价格远超其基础资产估值，溢价水平升至令人瞠目的高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmc5605034.d.html</link>
+            <guid>3926841</guid>
+            <pubDate>Fri, 13 Dec 2024 18:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：12月10日当周，投机者所持ICE布伦特原油净多头头寸增加5,349手合约，至162,273手合约，创逾两个月新高。所持白糖净多头头寸将至三个月新低，所持罗布斯塔咖啡净多头头寸创四周新低，增持伦敦可可净多头头寸。]]></title>
+            <guid>3926840</guid>
+            <pubDate>Fri, 13 Dec 2024 18:36:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据以色列第12频道援引消息人士的话报道称，以色列预计可以在一个月内与哈马斯达成协议。]]></title>
+            <guid>3926839</guid>
+            <pubDate>Fri, 13 Dec 2024 18:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹西部一难民营持续遭遇袭击 已致57人死亡】苏丹西部北达尔富尔州卫生部长易卜拉欣·哈提尔当地时间12月13日表示，自12月1日以来，北达尔富尔州首府法希尔市以南的扎姆扎姆难民营持续遭遇炮击，迄今已造成营内57名平民死亡，另有376人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmc5603801.d.html</link>
+            <guid>3926838</guid>
+            <pubDate>Fri, 13 Dec 2024 18:33:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计2024年全球航空客运量将从健康水平降至中等水平，但仍将保持强劲增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmi8750219.d.html</link>
+            <guid>3926837</guid>
+            <pubDate>Fri, 13 Dec 2024 18:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：供应链限制、劳动力成本通胀将持续影响全球航空公司直至2025年。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmc5603540.d.html</link>
+            <guid>3926836</guid>
+            <pubDate>Fri, 13 Dec 2024 18:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大财政部长：政府从未打算长期持有加拿大航空股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmc5603471.d.html</link>
+            <guid>3926835</guid>
+            <pubDate>Fri, 13 Dec 2024 18:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2401合约夜盘收涨2.01%，报552.70元人民币/桶。沪金夜盘收跌0.90%，沪银收跌1.36%。]]></title>
+            <guid>3926834</guid>
+            <pubDate>Fri, 13 Dec 2024 18:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大财政部长：将在未来几天宣布出售加拿大航空政府股份的事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmm5527123.d.html</link>
+            <guid>3926833</guid>
+            <pubDate>Fri, 13 Dec 2024 18:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大财政部长：面对美国潜在的征收关税，加拿大不会升级局势，也不会退让。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmi8749511.d.html</link>
+            <guid>3926832</guid>
+            <pubDate>Fri, 13 Dec 2024 18:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士政府决定，取消印度的“最惠国”待遇，意味着印度跨国公司将从2025年面临被瑞士增税的现实。一年之前，印度最高法院裁定，雀巢等瑞士公司不可以根据最惠国（NFN）条款要求印度政府降低它们承受的税负。]]></title>
+            <guid>3926831</guid>
+            <pubDate>Fri, 13 Dec 2024 18:26:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大财政部长：如果美国征收不合理的关税，加拿大将做出强有力的回应。]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmm5526365.d.html</link>
             <guid>3926830</guid>
             <pubDate>Fri, 13 Dec 2024 18:23:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[可口可乐巴西公司投资5.5亿雷亚尔（折合9100万美元）扩建亚马逊州浓缩液厂。]]></title>
+            <title><![CDATA[【可口可乐投资约9000万美元扩大巴西亚马逊地区的生产规模】可口可乐巴西公司在一份声明中说，该公司投资5.5亿雷亚尔(合9000万美元)，扩建巴西亚马逊州的一家浓缩饮料厂。可口可乐公司表示，新工厂于周五举行了落成典礼，巴西副总统杰拉尔多·阿尔克明（Geraldo Alckmin）和其他官方人士出席了典礼。]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmf2376480.d.html</link>
             <guid>3926829</guid>
             <pubDate>Fri, 13 Dec 2024 18:22:48 GMT</pubDate>
@@ -27,10 +175,15 @@
             <pubDate>Fri, 13 Dec 2024 18:21:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国联邦航空管理局采取措施简化商业航天发射和许可审批。]]></title>
+            <title><![CDATA[美国联邦航空管理局（FAA）采取措施简化商业太空发射和许可证审批程序。]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczizmf2375802.d.html</link>
             <guid>3926827</guid>
             <pubDate>Fri, 13 Dec 2024 18:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10年期德债收益率本周涨15个基点，欧洲央行降息后走高，10年期意债收益率周涨20个基点】 周五（12月13日）欧市尾盘，德国10年期国债收益率上涨5.4个基点，刷新日高至2.258%，本周累计上涨15.0个基点，周一至周三窄幅震荡于2.120%附近，欧洲央行行长拉加德在周四降息日的新闻发布会开始后，开启一波显著的上涨。两年期德债收益率涨5.1个基点，刷新日高至2.072%，本周累涨7.3个基点，周一至周四持续、平滑地震荡下行，拉加德新闻发布会开始后低位反抽，并在周五进一步走强，整体交投区间为1.915%-2.072%。2/10年期德债收益率利差涨0.144个基点，报+18.260个基点，本周震荡上行，累计上涨7.953个基点。意大利10年期国债收益率涨4.3个基点，刷新日高至3.393%，本周累涨20.0个基点。]]></title>
+            <guid>3926826</guid>
+            <pubDate>Fri, 13 Dec 2024 18:18:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了44个对手方的1357.77亿美元。]]></title>
@@ -416,7 +569,7 @@
             <pubDate>Fri, 13 Dec 2024 16:13:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美媒称特朗普提议欧盟向乌派遣维和人员】美国《华尔街日报》12月12日援引知情人士的说法称，美国当选总统特朗普已提议欧盟成员国向乌克兰派遣维和人员，以监督乌克兰与俄罗斯可能达成的停火。（CCTV国际时讯）]]></title>
+            <title><![CDATA[【特朗普提议欧盟向乌派遣维和人员】美国《华尔街日报》12日援引知情人士的说法称，美国当选总统特朗普已提议欧盟成员国向乌克兰派遣维和人员，以监督乌克兰与俄罗斯可能达成的停火。文章称，7日，特朗普在和法国总统马克龙、乌克兰总统泽连斯基会谈时表示，欧洲应该在监督停火方面发挥主要作用，美国不会派兵参与。报道称，该提议目前还处于早期阶段，具体有哪些国家参与、要派遣多少部队以及美国在其中发挥怎样的作用等问题仍未明确。同时，欧盟国家能否抽调士兵参与任务以及能否获得国内的政治支持，这些也都是未知数。不过，据知情人士透露，特朗普并不执着于任何结束冲突的特定计划，目前他也没有深入思考这一问题。]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivcp5642112.d.html</link>
             <guid>3926757</guid>
             <pubDate>Fri, 13 Dec 2024 16:13:03 GMT</pubDate>
@@ -438,162 +591,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivci2477825.d.html</link>
             <guid>3926754</guid>
             <pubDate>Fri, 13 Dec 2024 16:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西雷亚尔兑美元跌1%，在新兴市场货币中表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivcf5703198.d.html</link>
-            <guid>3926753</guid>
-            <pubDate>Fri, 13 Dec 2024 16:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国西北地区海拔最高风电场全容量并网发电】记者今天从国家能源集团获悉，我国西北地区海拔最高的风电场——乌恰风电场在新疆克孜勒苏柯尔克孜自治州全容量并网发电，标志着我国在高海拔山地风能开发上取得新的突破。乌恰风电场坐落于帕米尔高原，是我国最西端的风电场。风机安装高度在海拔2800米至3300米之间，共建设38台风电机组，总装机容量达20万千瓦。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivcm8863840.d.html</link>
-            <guid>3926752</guid>
-            <pubDate>Fri, 13 Dec 2024 16:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普团队拟废除自动驾驶事故通报 特斯拉股价一度涨超3%创盘中新高】特朗普过渡团队已建议即将上任的政府废除要求汽车制造商通报自动驾驶系统相关事故的现行通用命令。 取消这一要求将利好特斯拉；按照这项命令，特斯拉已向美国国家公路交通安全管理局通报超过1,500起事故，数量居于榜首。废除这一规定的建议来自一个负责制定汽车政策百日战略的过渡团队。该团队称这个命令是强制“过度”收集数据。消息公布后，特斯拉股价一度上涨3.23%至431.6美元，再创盘中新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivci2477458.d.html</link>
-            <guid>3926751</guid>
-            <pubDate>Fri, 13 Dec 2024 16:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影 《风流一代》上映23天， 总票房破1000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivci2476764.d.html</link>
-            <guid>3926750</guid>
-            <pubDate>Fri, 13 Dec 2024 16:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人工智能（AI）初创公司Liquid在最新一轮融资中获得23亿美元估值。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivcp5639946.d.html</link>
-            <guid>3926749</guid>
-            <pubDate>Fri, 13 Dec 2024 16:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔专业版实时数据，截至12月14日0时0分，影片《孤星计划》票房突破8000万。]]></title>
-            <guid>3926748</guid>
-            <pubDate>Fri, 13 Dec 2024 16:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯第三季度GDP同比增长3.1%，符合预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivcf5701602.d.html</link>
-            <guid>3926747</guid>
-            <pubDate>Fri, 13 Dec 2024 16:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最新研究结果支持哈佛的发现：诺和诺德减肥药Ozempic与罕见的视觉损失有关】大规模试验结果表明：诺和诺德减肥药Ozempic与罕见的视觉损失有关，支持了哈佛大学年内稍早给出的研究结果。使用Ozempic的肥胖症患者被诊断出NAION的概率超过两倍。当血液流动减少伤害到视觉神经时，就会发生NAION。眼部条件的风险仍然偏低；病患应当留意。诺和诺德丹麦股价一度跌超3.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-14/detail-inczivcf5701505.d.html</link>
-            <guid>3926745</guid>
-            <pubDate>Fri, 13 Dec 2024 16:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌发言人：谷歌打算对土耳其竞争管理局的决定提出上诉。此前，土耳其反垄断机构因广告技术调查对谷歌罚款7500万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivci2475950.d.html</link>
-            <guid>3926744</guid>
-            <pubDate>Fri, 13 Dec 2024 15:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱将希尔顿酒店集团目标价从243.00美元上调至268.00美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcm8861916.d.html</link>
-            <guid>3926743</guid>
-            <pubDate>Fri, 13 Dec 2024 15:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊卡车司机工会投票批准在纽约两家大型仓库进行罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcp5638997.d.html</link>
-            <guid>3926742</guid>
-            <pubDate>Fri, 13 Dec 2024 15:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股下跌，标普500指数、纳斯达克指数和道琼斯指数均下跌0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcf5701305.d.html</link>
-            <guid>3926741</guid>
-            <pubDate>Fri, 13 Dec 2024 15:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行行长格拉平斯基：没有调整利率的基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcm8861806.d.html</link>
-            <guid>3926740</guid>
-            <pubDate>Fri, 13 Dec 2024 15:58:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：将乌兹别克斯坦的前景展望调整为负面。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcm8861112.d.html</link>
-            <guid>3926739</guid>
-            <pubDate>Fri, 13 Dec 2024 15:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英镑兑美元GBP/USD日内跌超0.50%，现报1.2611。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcf5700255.d.html</link>
-            <guid>3926738</guid>
-            <pubDate>Fri, 13 Dec 2024 15:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达持仓股SoundHound AI盘中飙升近16%，年初至今已涨超650%，涨幅远超英伟达。]]></title>
-            <guid>3926737</guid>
-            <pubDate>Fri, 13 Dec 2024 15:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，美国证券交易委员会的调查涉及马斯克2022年购买推特股票的文件，以及他是否有意从中受益。]]></title>
-            <guid>3926736</guid>
-            <pubDate>Fri, 13 Dec 2024 15:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，美国证券交易委员会已将埃隆·马斯克对推特调查和解提议的回应期限延长至周一。]]></title>
-            <guid>3926734</guid>
-            <pubDate>Fri, 13 Dec 2024 15:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anteris Technologies Global Corp.（AVR）美国IPO首日平开，报6美元。这家医疗设备供应商旨在改善主动脉瓣狭窄患者的生活质量。]]></title>
-            <guid>3926733</guid>
-            <pubDate>Fri, 13 Dec 2024 15:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：EPFR初步数据显示，全球共同基金对中国股票的配置在11月份下降。按资产加权基础来看，主动性共同基金对中国股票仍然低配了290个基点。本周，中国股票基金迎来56亿美元雄厚的资金流入，打破之前连续七周流出的趋势。]]></title>
-            <guid>3926732</guid>
-            <pubDate>Fri, 13 Dec 2024 15:44:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数转跌，纳斯达克100指数涨幅收窄至0.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivci2473596.d.html</link>
-            <guid>3926731</guid>
-            <pubDate>Fri, 13 Dec 2024 15:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯正在与新的叙利亚当局就维持其在叙利亚的两个军事基地进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcf5698891.d.html</link>
-            <guid>3926730</guid>
-            <pubDate>Fri, 13 Dec 2024 15:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大劳工部长表示希望加拿大邮政下周初恢复运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivci2473137.d.html</link>
-            <guid>3926729</guid>
-            <pubDate>Fri, 13 Dec 2024 15:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：白俄罗斯总统卢卡申科批准了白俄罗斯2025年的预算。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcp5636161.d.html</link>
-            <guid>3926728</guid>
-            <pubDate>Fri, 13 Dec 2024 15:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其说将在叙打击库尔德武装】土耳其总统埃尔多安12月12日在首都安卡拉与到访的美国国务卿布林肯举行会谈，双方讨论了叙利亚最新局势和双边关系等问题，埃尔多安表示，土耳其将打击库尔德工人党等在叙利亚活动的所有“恐怖组织”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcp5636097.d.html</link>
-            <guid>3926727</guid>
-            <pubDate>Fri, 13 Dec 2024 15:37:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【希腊官员称将从以色列购买火炮系统】两名希腊官员称，希腊正就从以色列购买36套PULS火箭炮系统进行深入谈判，以推动其武装部队现代化，价值6亿至7亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcf5698349.d.html</link>
-            <guid>3926726</guid>
-            <pubDate>Fri, 13 Dec 2024 15:36:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德法英等国外长发表声明 支持乌克兰加入北约】欧洲多国外长和欧盟外交与安全政策高级代表卡拉斯12日在德国柏林发表联合声明，表示支持增加对乌克兰的军事、经济和财政援助，并继续支持乌克兰加入北约和欧盟。据德国媒体报道，此次会议由德国外交部长贝尔伯克召集，法国、英国、意大利、西班牙、波兰等国外长出席。会议旨在讨论美国若减少对乌援助欧洲如何应对等问题。德国外交部在官方网站上说，多国外长在会议上表示，欧洲将调动更多资源援助乌克兰，并致力于向乌提供牢不可破的安全保障，包括提供可靠、长期的军事和财政支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-13/detail-inczivcm8858617.d.html</link>
-            <guid>3926725</guid>
-            <pubDate>Fri, 13 Dec 2024 15:35:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

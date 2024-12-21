@@ -4,11 +4,27 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 21 Dec 2024 20:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 21:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：美国当选总统特朗普任命《学徒》制片人马克·布奈特（Mark Burnett）为英国特使。]]></title>
+            <guid>3939460</guid>
+            <pubDate>Sat, 21 Dec 2024 21:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据也门胡塞武装控制的马西拉电视台报道，美国和英国21日晚对也门首都萨那进行了空袭。（新华社快讯）]]></title>
+            <guid>3939459</guid>
+            <pubDate>Sat, 21 Dec 2024 21:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普宣布包括联邦铁路管理局局长在内多项新提名】 当地时间12月21日，美国当选总统特朗普通过社交媒体表示，他已提名大卫·芬克（David Fink）担任下一任联邦铁路管理局局长，决定提名前国土安全部总法律顾问和幕僚长查德·米泽尔（Chad Mizelle）担任下一任司法部幕僚长，提名亚伦·赖茨（Aaron Reitz）担任司法部法律政策办公室的下一任负责人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnuv4658524.d.html</link>
+            <guid>3939458</guid>
+            <pubDate>Sat, 21 Dec 2024 21:04:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【也门首都萨那遭空袭】当地时间12月21日晚，也门首都萨那遭遇空袭。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-12-22/detail-ineahnuv4650013.d.html</link>
@@ -580,23 +596,6 @@
             <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrrf5087771.d.html</link>
             <guid>3939252</guid>
             <pubDate>Sat, 21 Dec 2024 12:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西前三季度为中小微企业提供无还本续贷金额570余亿元】从国家金融监督管理总局山西监管局获悉，山西持续推动优化金融服务，缓解小微经营主体融资困难。截至2024年三季度末，全省累计为2.36万户中小微企业提供无还本续贷金额573.18亿元，普惠型小微企业贷款同比增长32.98%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrri1861587.d.html</link>
-            <guid>3939251</guid>
-            <pubDate>Sat, 21 Dec 2024 12:06:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西：15项迎峰度冬工程建成投运 提升供电能力约300万千瓦】12月21日，随着稷山500千伏变电站扩建的三号、四号主变压器启动运行，国网山西省电力公司保障2024年迎峰度冬可靠供电的15项重点工程全面建成投运，将进一步提升太原、运城、临汾、大同、长治、晋城、晋中、朔州、阳泉9个地市供电能力约300万千瓦。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-12-21/detail-ineafrrf5085845.d.html</link>
-            <guid>3939250</guid>
-            <pubDate>Sat, 21 Dec 2024 12:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本周大盘主力资金累计净流入-1838.26亿元，通信设备、半导体板块净流入居前，个股中兴通讯、兆易创新净流入最多。]]></title>
-            <guid>3939249</guid>
-            <pubDate>Sat, 21 Dec 2024 12:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

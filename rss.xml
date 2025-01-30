@@ -4,31 +4,314 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 30 Jan 2025 20:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 21:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[苹果曾与社交平台X讨论测试广告。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxct4389398.d.html</link>
-            <guid>4005872</guid>
-            <pubDate>Thu, 30 Jan 2025 20:16:53 GMT</pubDate>
+            <title><![CDATA[【纽约股市三大股指30日上涨】纽约股市三大股指30日上涨。截至当天收盘，道琼斯工业平均指数比前一交易日上涨168.61点，收于44882.13点，涨幅为0.38%；标准普尔500种股票指数上涨31.86点，收于6071.17点，涨幅为0.53%；纳斯达克综合指数上涨49.43点，收于19681.75点，涨幅为0.25%。板块方面，标普500指数十一大板块十涨一跌。公用事业板块和房地产板块分别以2.14%和1.36%的涨幅领涨，科技板块下跌0.56%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4267279.d.html</link>
+            <guid>4005937</guid>
+            <pubDate>Thu, 30 Jan 2025 21:13:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊增加了对埃隆·马斯克的社交平台X的广告支出。]]></title>
+            <title><![CDATA[离岸人民币跌0.4%至盘中低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmq1561445.d.html</link>
+            <guid>4005936</guid>
+            <pubDate>Thu, 30 Jan 2025 21:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[软银投资CIPHER矿业股价大涨24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4266900.d.html</link>
+            <guid>4005933</guid>
+            <pubDate>Thu, 30 Jan 2025 21:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VISA 第一季度调整后每股收益2.75美元，预估2.66美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmn2125689.d.html</link>
+            <guid>4005931</guid>
+            <pubDate>Thu, 30 Jan 2025 21:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：与美国国家实验室签署协议，以提升其科学研究水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1041073.d.html</link>
+            <guid>4005930</guid>
+            <pubDate>Thu, 30 Jan 2025 21:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康卡斯特（CMCSA）收跌11%，创2008年以来最差单日表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4266430.d.html</link>
+            <guid>4005928</guid>
+            <pubDate>Thu, 30 Jan 2025 21:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔领导层表示不会进行投机性支出。公司第四季度获得11亿美元的直接资金支持，并在1月份获得11亿美元，资金来源于美国《芯片与科学法案》。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmn2125632.d.html</link>
+            <guid>4005927</guid>
+            <pubDate>Thu, 30 Jan 2025 21:06:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔称外部代工晶圆收入将从 2027 年开始显著增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1040681.d.html</link>
+            <guid>4005922</guid>
+            <pubDate>Thu, 30 Jan 2025 21:05:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔称 18A 工艺技术现已被证实，正在为 18A 客户协商合适的价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1040464.d.html</link>
+            <guid>4005921</guid>
+            <pubDate>Thu, 30 Jan 2025 21:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IBM收涨13%，创1999年以来最大单日涨幅，并创历史收盘新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4265893.d.html</link>
+            <guid>4005920</guid>
+            <pubDate>Thu, 30 Jan 2025 21:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔称竞争性数据中心芯片将需要一些时间。去年宣布的成本削减计划正在产生影响。预计到2025年底将发货超过1亿台AI PC。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmn2125332.d.html</link>
+            <guid>4005919</guid>
+            <pubDate>Thu, 30 Jan 2025 21:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳新银行新西兰1月消费者信心指数降至96。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4265718.d.html</link>
+            <guid>4005918</guid>
+            <pubDate>Thu, 30 Jan 2025 21:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔四季度营收142.6亿美元，分析师预期138.1亿美元。预计一季度收入117-127亿美元，分析师预期128.5亿美元。财报公布后，英特尔盘后跌逾1%。]]></title>
+            <guid>4005917</guid>
+            <pubDate>Thu, 30 Jan 2025 21:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大指数集体收涨 微软跌超6%】美股三大指数集体收涨，标普500指数涨0.53%，道指涨0.38%，纳指涨0.25%。大型科技股涨跌不一，微软跌超6%，亚马逊跌超1%，苹果、奈飞小幅下跌；谷歌、特斯拉涨超2%，英特尔、Meta涨超1%，英伟达小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmq1560577.d.html</link>
+            <guid>4005916</guid>
+            <pubDate>Thu, 30 Jan 2025 21:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克金龙中国指数初步收涨4.2%，富时A50夜期目前涨0.4%。热门中概股阿里涨6.1%，房多多涨5.9%，百度涨5.7%，小鹏、京东、B站、蔚来、新东方、百胜中国至多涨超4.9%，理想涨3.9%，网易涨3.8%，拼多多涨3.2%，腾讯控股涨3.1%。中概ETFYINN涨7.14%，KWEB涨3.7%，“中国龙”DRAG涨2.7%，CQQQ涨2.3%。]]></title>
+            <guid>4005915</guid>
+            <pubDate>Thu, 30 Jan 2025 21:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油短线走低0.8美元，现报72.56美元/桶，布伦特原油短线走低0.6美元，现报76.69美元/桶，均已完全收复特朗普言论后的所有涨幅。]]></title>
+            <guid>4005914</guid>
+            <pubDate>Thu, 30 Jan 2025 20:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿尔及利亚和俄罗斯表示将加强经贸等合作】阿尔及利亚和俄罗斯政府间混合委员会第12次会议30日在阿首都阿尔及尔举行，双方表示将加强经贸、科技等领域合作。据阿尔及利亚通讯社报道，阿农业、农村发展和渔业部长沙尔法与俄副总理帕特鲁舍夫共同主持本次会议。沙尔法表示，两国经济合作潜力巨大，特别是在投资领域。阿方愿在农业、能源、旅游、加工制造业、科技创新等领域深化与俄方合作。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4265208.d.html</link>
+            <guid>4005913</guid>
+            <pubDate>Thu, 30 Jan 2025 20:58:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北伏：保罗·切鲁蒂辞去首席执行官职务，继续担任董事会主席。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmn2124941.d.html</link>
+            <guid>4005912</guid>
+            <pubDate>Thu, 30 Jan 2025 20:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：油价是关税决定的一个因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4264979.d.html</link>
+            <guid>4005911</guid>
+            <pubDate>Thu, 30 Jan 2025 20:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达转涨，此前一度跌4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4264724.d.html</link>
+            <guid>4005910</guid>
+            <pubDate>Thu, 30 Jan 2025 20:55:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国上市的中国科技股ETF资金流入规模创10月份以来最大】 中国境内股市因春节而休市之际，KraneShares金瑞中证中国互联网ETF周三资金流入规模创近四个月来最大。数据显示，这支ETF单日资金流入1.05亿美元，创10月3日以来最大。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4264676.d.html</link>
+            <guid>4005909</guid>
+            <pubDate>Thu, 30 Jan 2025 20:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10年期美债收益率跌1.4个基点，欧洲央行宣布降息、美国GDP数据发布后跌幅收窄】 周四（1月30日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率下跌1.41个基点，报4.5143%，北京时间08:15（亚太盘初）涨至4.5425%，随后震荡下行，20:44（欧洲央行宣布降息前、美国GDP数据出炉前）刷新日低至4.4841%，随后多次转涨，北京时间04:48前后显著拉升，从4.51%附近短暂地上扬至4.53%上方。两年期美债收益率跌0.62个基点，报4.2073%，日内交投于4.2217%-4.1867%区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4264648.d.html</link>
+            <guid>4005908</guid>
+            <pubDate>Thu, 30 Jan 2025 20:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元/日元下跌0.62%，至154.29点。美元指数小幅上涨，目前上涨0.13%，至108.04点。欧元下跌0.12%，至1.040675美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4264458.d.html</link>
+            <guid>4005907</guid>
+            <pubDate>Thu, 30 Jan 2025 20:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑墨西哥比索上涨，拉涨0.7%，至20.637。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1038921.d.html</link>
+            <guid>4005906</guid>
+            <pubDate>Thu, 30 Jan 2025 20:53:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元涨0.4%，至1.4482。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmq1559900.d.html</link>
+            <guid>4005905</guid>
+            <pubDate>Thu, 30 Jan 2025 20:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50短线走低，涨幅从超过0.7%迅速收窄至不足0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1038114.d.html</link>
+            <guid>4005903</guid>
+            <pubDate>Thu, 30 Jan 2025 20:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我们拥有所需的所有木材。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4263371.d.html</link>
+            <guid>4005902</guid>
+            <pubDate>Thu, 30 Jan 2025 20:47:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普：可能在周四晚决定是否对加墨石油征收关税】特朗普称可能在周四晚决定是否对加拿大和墨西哥的石油征收关税。美、布两油短线走高后回落，WTI原油日内涨幅一度扩大至1%，现涨0.2%报72.94美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4263276.d.html</link>
+            <guid>4005901</guid>
+            <pubDate>Thu, 30 Jan 2025 20:46:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普重申将于周六首先对加拿大和墨西哥加征关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1037735.d.html</link>
+            <guid>4005900</guid>
+            <pubDate>Thu, 30 Jan 2025 20:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受美国关税影响，金价维持涨势，接近纪录高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmn2124079.d.html</link>
+            <guid>4005899</guid>
+            <pubDate>Thu, 30 Jan 2025 20:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：将与一些事故遇难者的家庭进行会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmq1559361.d.html</link>
+            <guid>4005898</guid>
+            <pubDate>Thu, 30 Jan 2025 20:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受关税消息提振，原油期货上涨1.2%，WTI 延续涨势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmn2123797.d.html</link>
+            <guid>4005897</guid>
+            <pubDate>Thu, 30 Jan 2025 20:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在特朗普发表关税言论后，通用汽车股价一度下跌4%，福特汽车一度跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1036864.d.html</link>
+            <guid>4005896</guid>
+            <pubDate>Thu, 30 Jan 2025 20:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息称GLS考虑出售10亿美元以上的汽车贷款。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmq1559254.d.html</link>
+            <guid>4005894</guid>
+            <pubDate>Thu, 30 Jan 2025 20:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受关税计划推动，彭博美元即期指数跃升至盘中高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4262160.d.html</link>
+            <guid>4005893</guid>
+            <pubDate>Thu, 30 Jan 2025 20:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普称将对加墨征收25%的关税，加元短线重挫】美元指数DXY短线走高40余点，现报108.16。美元兑加元USD/CAD短线拉升超百点，日内涨幅扩大至1.00%，现报1.4570。墨西哥比索兑美元跌超1%。美国总统特朗普表示他将对加拿大和墨西哥征收25%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1036603.d.html</link>
+            <guid>4005892</guid>
+            <pubDate>Thu, 30 Jan 2025 20:40:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特、通用汽车股价回吐涨幅跌至盘中低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1036454.d.html</link>
+            <guid>4005890</guid>
+            <pubDate>Thu, 30 Jan 2025 20:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普表示他将对加拿大和墨西哥征收25%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4261464.d.html</link>
+            <guid>4005889</guid>
+            <pubDate>Thu, 30 Jan 2025 20:36:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国联邦航空管理局：尚未找到撞机事故客机的黑匣子】当地时间1月30日，美国联邦航空管理局表示，救援人员尚未从撞机事故客机上取回驾驶舱语音记录器或飞行数据记录器（黑匣子）。此后，美国国家运输安全委员会委员托德·英曼也表示，还没有找到任何黑匣子，该机构的目标是在30天内发布有关飞机与直升机相撞原因的初步报告。美国国家运输安全委员会将于30日晚些时候向遇难者家属通报情况。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4261369.d.html</link>
+            <guid>4005888</guid>
+            <pubDate>Thu, 30 Jan 2025 20:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普签署第二份总统备忘录，指示美国联邦航空管理局（FAA）评估多元文化政策造成的损害，并确保在招聘中的能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmn2123227.d.html</link>
+            <guid>4005887</guid>
+            <pubDate>Thu, 30 Jan 2025 20:33:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国消费者金融保护局要求 WISE 支付 250 万美元的非法汇款罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1035502.d.html</link>
+            <guid>4005886</guid>
+            <pubDate>Thu, 30 Jan 2025 20:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音(BA.N)：波音公司星际航线宇宙飞船项目副总裁马克·纳皮辞职，由约翰·穆尔霍兰接任。]]></title>
+            <guid>4005885</guid>
+            <pubDate>Thu, 30 Jan 2025 20:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱将哥伦比亚美元债券评级下调至低配。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmt1035290.d.html</link>
+            <guid>4005884</guid>
+            <pubDate>Thu, 30 Jan 2025 20:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克和工人联合会已同意聘请调解员协助双方。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4260632.d.html</link>
+            <guid>4005882</guid>
+            <pubDate>Thu, 30 Jan 2025 20:30:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国投资公司协会（ICI）：美国货币市场资产降至6.87万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehvcmr4260495.d.html</link>
+            <guid>4005881</guid>
+            <pubDate>Thu, 30 Jan 2025 20:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲股市出现大范围空头回补之际，斯沃琪股价收盘上涨2.2%，扭转了一度高达7.5%的跌幅，此前这家手表制造商业绩逊于预期；标普全球数据显示，斯沃琪的空头头寸约占其流通股的18%。其他奢侈品牌中，菲拉格慕上涨3.1%，开云集团上涨3.9%，博柏利上涨5.9%。菲拉格慕的空头头寸约占流通股的9%。]]></title>
+            <guid>4005880</guid>
+            <pubDate>Thu, 30 Jan 2025 20:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西石油公司方面确认提高航空燃油价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1164588.d.html</link>
+            <guid>4005879</guid>
+            <pubDate>Thu, 30 Jan 2025 20:21:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际油价30日上涨】国际油价30日上涨。截至当天收盘，纽约商品交易所3月交货的轻质原油期货价格上涨11美分，收于每桶72.73美元，涨幅为0.15%；3月交货的伦敦布伦特原油期货价格上涨28美分，收于每桶76.87美元，涨幅为0.38%。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxct4389887.d.html</link>
+            <guid>4005877</guid>
+            <pubDate>Thu, 30 Jan 2025 20:20:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌推出“自愿离职”计划】据报道，谷歌高级副总裁Rick Osterloh周四向Pixel、Android和Chrome团队发布内部备忘录，宣布了一项“自愿离职计划”。声明表示：平台与设备团队正在推出一项自愿离职计划，为美国地区该团队的员工提供自愿离职的机会，并附有离职补偿。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1163989.d.html</link>
+            <guid>4005873</guid>
+            <pubDate>Thu, 30 Jan 2025 20:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊扩大在马斯克旗下社交媒体平台X公司（原推特）的广告开支。苹果已经讨论在原推特测试广告投放的事宜。]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxct4389268.d.html</link>
             <guid>4005871</guid>
             <pubDate>Thu, 30 Jan 2025 20:16:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西石油公司将于 2 月 1 日起将航空燃油价格上调 8%。]]></title>
+            <title><![CDATA[巴西国家石油公司将于2月1日起将航空燃料价格提高8%。]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1163556.d.html</link>
             <guid>4005869</guid>
             <pubDate>Thu, 30 Jan 2025 20:14:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国家运输安全委员会成员Inman：没有任何迹象表明已经部署了滑梯。]]></title>
+            <title><![CDATA[美国国家运输安全委员会成员Inman：没有任何迹象表明已启动滑梯。]]></title>
             <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1163523.d.html</link>
             <guid>4005868</guid>
             <pubDate>Thu, 30 Jan 2025 20:14:09 GMT</pubDate>
@@ -311,283 +594,6 @@
             <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1147871.d.html</link>
             <guid>4005812</guid>
             <pubDate>Thu, 30 Jan 2025 18:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空首席执行官在被问及DEI政策时表示，招聘和晋升人员始终以绩效为基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1147816.d.html</link>
-            <guid>4005811</guid>
-            <pubDate>Thu, 30 Jan 2025 18:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉对DeepSeek的崛起表示：可能会减缓AI芯片制造商的超额收入增长，但会带来更可持续的AI基础设施投资。]]></title>
-            <guid>4005810</guid>
-            <pubDate>Thu, 30 Jan 2025 18:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥副财政部长：如果美国实施关税，无法预测对GDP的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcq2245557.d.html</link>
-            <guid>4005809</guid>
-            <pubDate>Thu, 30 Jan 2025 18:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LBMA：伦敦黄金市场的库存和流动性依然强劲 本月迄今日均成交量4710万盎司】据伦敦金银市场协会（LBMA），伦敦黄金市场的库存和流动性依然强劲，本月迄今日均成交量4710万盎司，日均价值1260亿美元。一直在密切监测并与芝商所（CME）及美国相关机构保持联系。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxct4372565.d.html</link>
-            <guid>4005808</guid>
-            <pubDate>Thu, 30 Jan 2025 18:34:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国司法部起诉阻止140亿美元合并交易后，慧与和瞻博网络股价双双下跌】美国司法部起诉阻止慧与(Hewlett Packard Enterprise)以140亿美元收购其竞争对手、无线技术提供商瞻博网络(Juniper Networks)后，这两家公司的股价均下跌。慧与股价周四午盘下跌3.4%，至20.92美元。瞻博网络股价一度触及52周低点的33.72美元，随后跌幅收窄至3.7%，报33.98美元。慧与股价过去一年累计上涨了37%，而同期瞻博网络股价下跌了8.2%。美国司法部表示，这两家公司拟议中的交易将消除竞争，导致价格上涨、创新减少，企业和消费者的选择也会减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1146846.d.html</link>
-            <guid>4005807</guid>
-            <pubDate>Thu, 30 Jan 2025 18:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【110名获释的巴勒斯坦人抵达拉姆安拉】巴勒斯坦消息人士30日说，搭载110名被以色列释放的巴勒斯坦人的车辆当天抵达约旦河西岸城市拉姆安拉。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1146800.d.html</link>
-            <guid>4005806</guid>
-            <pubDate>Thu, 30 Jan 2025 18:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国天然气期货日内下跌3%】美国天然气期货日内下跌3%，现报3.074美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxct4372203.d.html</link>
-            <guid>4005805</guid>
-            <pubDate>Thu, 30 Jan 2025 18:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯驻华盛顿大使馆向空难遇难者家庭表示哀悼，并对美国当局的支持、沟通和帮助归还遇难俄罗斯公民遗体表示感谢。]]></title>
-            <guid>4005804</guid>
-            <pubDate>Thu, 30 Jan 2025 18:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国将于春季在一处地下实验室开展钚受控爆炸试验】美国计划于春季在内华达州的一处秘密地下实验室开展放射性钚受控爆炸试验。据悉，几个月后，科学家们将使用化学炸药引爆少量钚。这一秘密项目被命名为Cygnus，而即将开展的爆炸试验代号为Nob Hill。其目的是模拟核武器的使用。此次爆炸规模较小，整个反应过程将在可控范围内进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcq2245150.d.html</link>
-            <guid>4005803</guid>
-            <pubDate>Thu, 30 Jan 2025 18:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周四（1月30日），韩元兑美元最终跌0.01%，报1442.39韩元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1145835.d.html</link>
-            <guid>4005801</guid>
-            <pubDate>Thu, 30 Jan 2025 18:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西雷亚尔兑美元汇率收复早前的失地，目前保持稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxct4370494.d.html</link>
-            <guid>4005799</guid>
-            <pubDate>Thu, 30 Jan 2025 18:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[太平洋投资管理公司（PIMCO，品浩）在天然气供应商Venture Global Inc.持股70亿美元。PIMCO对后者拥有3.54亿股A类股。PIMCO在过去八年累积了上述持股。]]></title>
-            <guid>4005798</guid>
-            <pubDate>Thu, 30 Jan 2025 18:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普的中东特使表示，重建加沙可能需要10到15年的时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcq2244391.d.html</link>
-            <guid>4005797</guid>
-            <pubDate>Thu, 30 Jan 2025 18:19:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海指数延续跌势，海岬型船和超灵便型船运费下跌】波罗的海交易所干散货海运指数（用于追踪运载干散货商品的船舶运费）周四连续第十三个交易日下跌，原因是好望角型船和超灵便型船运费下跌。综合海岬型船、巴拿马型船和超灵便型船运费指数下跌11点，至715点，创23个月来的最低水平。海岬型船运价指数下跌35点，至841点，跌至2023年2月以来的最低水平。海岬型船舶通常运输15万吨货物，例如铁矿石和煤炭，其平均日收益下跌290美元，至6,977美元。巴拿马型船运价指数上涨16点，至767点。巴拿马型船舶通常运载约60,000-70,000吨煤炭或谷物，其平均日收益增加137美元，至6,899美元。在小型船舶中，超灵便型船运价指数下跌7点，至605点，为2020年6月以来的最低水平。波罗的海与国际海事理事会(BIMCO)的分析师在一份报告中表示，由于供需平衡减弱，我们预计今年和明年的运费将低于2024年，如果船舶重返红海，巴拿马型船和超灵便型船的需求可能会下降。尽管加沙停火，也门胡塞武装宣布限制袭击，但红海航运仍然危险。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcq2244275.d.html</link>
-            <guid>4005796</guid>
-            <pubDate>Thu, 30 Jan 2025 18:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储隔夜逆回购协议（RRP）使用规模为1259.65亿美元，上个交易日报1218.42亿美元。]]></title>
-            <guid>4005795</guid>
-            <pubDate>Thu, 30 Jan 2025 18:16:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛全球市场董事总经理兼战术专家Scott Rubner：看见全球性的抄底需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcs1679695.d.html</link>
-            <guid>4005794</guid>
-            <pubDate>Thu, 30 Jan 2025 18:15:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥财政部副部长：墨西哥经济不会陷入衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1144097.d.html</link>
-            <guid>4005793</guid>
-            <pubDate>Thu, 30 Jan 2025 18:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦确认以方已释放110名巴方人员】巴勒斯坦囚犯事务部门当地时间1月30日确认，作为停火协议的一部分，以色列已释放了第三批被扣押人员共110人，包括32名终身囚犯、48名不同刑期的囚犯以及30名儿童。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcv1143753.d.html</link>
-            <guid>4005792</guid>
-            <pubDate>Thu, 30 Jan 2025 18:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【梅赛德斯据称在更广泛的评估中考虑出售租赁部门】梅赛德斯·奔驰集团在对其庞大业务进行更广泛评估之际正在探索出售其Athlon汽车租赁业务的可能性。知情人士称这家豪华汽车制造商已经与潜在买家接洽以评估他们对交易的兴趣，考虑尚处于初期阶段不确定最终是否会达成交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehuxcq2243846.d.html</link>
-            <guid>4005791</guid>
-            <pubDate>Thu, 30 Jan 2025 18:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国风险投资家里德·霍夫曼：当将人工智能这一超级力量与负面元素结合时，挑战就会出现。]]></title>
-            <guid>4005790</guid>
-            <pubDate>Thu, 30 Jan 2025 18:09:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据墨西哥财政部，2024年墨西哥的财政赤字为GDP的5.7%，比预计值低0.2个百分点。]]></title>
-            <guid>4005789</guid>
-            <pubDate>Thu, 30 Jan 2025 18:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美撞机事故客机上暂未有中国公民】经记者与中国驻美大使馆初步沟通，截至美国东部时间1月30日下午1点，也就是北京时间今天（1月31日）凌晨2点，尚未收到有关于中国公民在发生撞机事故的美国航班上的报告。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvs2374253.d.html</link>
-            <guid>4005788</guid>
-            <pubDate>Thu, 30 Jan 2025 18:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲央行3月或降息25个基点 抛弃“限制性”一词】消息人士透露，欧洲央行在3月份的下一次利率决议中，可能不再将其货币政策立场描述为“限制性”。届时欧洲央行极有可能再降息25个基点，将存款机制利率降至2.5%，这样的利率水平与该标签已不太相符。因此，官员们在下次讨论货币政策时，将考虑在欧洲央行声明中改变这一术语。这种想法表明，政策制定者已经开始考虑何时停止降息，以及是否在此过程中按兵不动。欧洲央行的官方说法是，它不会提前做出承诺，而是逐次会议做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvv4498549.d.html</link>
-            <guid>4005787</guid>
-            <pubDate>Thu, 30 Jan 2025 18:04:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储：1月29日当周经季节调整后的商业票据余额增加536亿美元，商业票据未偿余额增加23亿美元，外国金融商业票据余额下降57亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvv4498058.d.html</link>
-            <guid>4005786</guid>
-            <pubDate>Thu, 30 Jan 2025 18:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：普利司通位于利比里亚的天然橡胶种植园数千名员工罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvv4497628.d.html</link>
-            <guid>4005785</guid>
-            <pubDate>Thu, 30 Jan 2025 17:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院援助委员会主席卡西迪表示，他正在努力争取通过肯尼迪的提名。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvv4497266.d.html</link>
-            <guid>4005784</guid>
-            <pubDate>Thu, 30 Jan 2025 17:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LME金属期货收盘多数上涨】LME期铜收涨60美元，报9128美元/吨。LME期铝收涨7美元，报2626美元/吨。LME期锌收涨10美元，报2794美元/吨。LME期铅收涨7美元，报1968美元/吨。LME期镍收涨105美元，报15394美元/吨。LME期锡收涨163美元，报30269美元/吨。LME期钴收平，报21550美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvs2373503.d.html</link>
-            <guid>4005783</guid>
-            <pubDate>Thu, 30 Jan 2025 17:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空首席执行官表示，对波音的工作感到满意，尽管波音仍有许多工作要做，但他们似乎正走在正确的道路上，我们对此感到更加乐观。]]></title>
-            <guid>4005782</guid>
-            <pubDate>Thu, 30 Jan 2025 17:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【DeepSeek辟谣：X平台仅有一个官方账号】近日，DeepSeek在社交平台X上表示，为防止任何潜在伤害，DeepSeek在X平台仅有一个官方账号，任何代表DeepSeek、使用相同名称、使用相同头像的都是冒充，请大家保持警惕，避免被误导。DeepSeek回复并辟谣了评论区网友提问的梁文锋个人账号，表示这是一个典型的冒充账号，请不要相信该账号的任何信息。经查询，目前有多个使用DeepSeek头像、名称相似的X账号。截至发稿，DeepSeek在社交平台X已有超过77万粉丝。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvx1270954.d.html</link>
-            <guid>4005781</guid>
-            <pubDate>Thu, 30 Jan 2025 17:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯证实其高级军事指挥官戴夫已被以军打死】巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装组织卡桑旅军事发言人阿布·奥贝达当地时间1月30日晚间发布消息称，其高级军事指挥官穆罕默德·戴夫已被以军打死。他还表示，哈马斯将继续坚持下去，直到以色列监狱中没有被扣押的巴勒斯坦人。2024年8月1日，以军确认在7月13日的行动中打死了哈马斯军事部门首领穆罕默德·戴夫，但哈马斯一直未证实他的死讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvv4495887.d.html</link>
-            <guid>4005780</guid>
-            <pubDate>Thu, 30 Jan 2025 17:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【也门伊卜省发生翻车事故 至少6人死亡】据胡塞武装控制区媒体报道称，当地时间1月30日，也门伊卜省发生汽车翻车事故，造成至少6人死亡、9人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvx1270238.d.html</link>
-            <guid>4005779</guid>
-            <pubDate>Thu, 30 Jan 2025 17:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国发言人：近东救济工程处在加沙的人道主义工作仍在继续，近东救济工程处“致力于驻扎并开展工作”。]]></title>
-            <guid>4005778</guid>
-            <pubDate>Thu, 30 Jan 2025 17:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国发言人：联合国巴勒斯坦救济机构近东救济工程处表示，随着以色列禁令生效，包括东耶路撒冷在内的被占领的约旦河西岸地区的诊所已开放。]]></title>
-            <guid>4005777</guid>
-            <pubDate>Thu, 30 Jan 2025 17:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局将于美东时间周四下午2:45（北京时间周五凌晨3:45）举行媒体发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvx1269744.d.html</link>
-            <guid>4005776</guid>
-            <pubDate>Thu, 30 Jan 2025 17:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美波士顿滑冰俱乐部多人死于撞机事故】当地时间1月29日晚在华盛顿与美军直升机相撞的美国航空公司客机上载有60名乘客。据美国波士顿滑冰俱乐部方面1月30日证实，这60人中包括在堪萨斯州参加了美国花样滑冰训练营后返家的14人，其中6人来自该俱乐部，包括2名青少年运动员及其母亲，以及2名教练，也就是曾代表俄罗斯赢得双人滑世界冠军的叶夫根尼娅·希什科娃和瓦季姆·瑙莫夫。 (CCTV国际时讯)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvs2372807.d.html</link>
-            <guid>4005775</guid>
-            <pubDate>Thu, 30 Jan 2025 17:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国防长：与客机相撞的直升机机组人员“足够有经验”】美国五角大楼负责人赫格塞斯表示，在华盛顿上空与客机相撞的军用直升机机组人员“足够有经验”，并且他们还配备有夜视镜。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvs2372799.d.html</link>
-            <guid>4005774</guid>
-            <pubDate>Thu, 30 Jan 2025 17:44:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部：美国国防部长海格塞斯于周三与北约秘书长进行了交谈，双方强调了提高盟国国防支出的重要性。]]></title>
-            <guid>4005773</guid>
-            <pubDate>Thu, 30 Jan 2025 17:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民调：半数美国人反对马斯克在特朗普政府担任要职】昆尼皮亚克大学的一项民意调查显示，超过一半的美国人反对美国企业家埃隆·马斯克在美国总统特朗普的政府中扮演重要角色。此前，《华盛顿邮报》称马斯克是美国的“影子总统”，因为他积极干预美国联邦政府拨款法案的讨论进程，导致政府面临关门威胁。民调结果显示，53%的受访美国人表示不赞成马斯克在特朗普政府中扮演重要角色。39%的受访者表达了相反的意见。据悉，90%的美国民主党人不赞成马斯克在特朗普领导下发挥突出作用，而73%的共和党人对此表示赞同。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvx1269346.d.html</link>
-            <guid>4005772</guid>
-            <pubDate>Thu, 30 Jan 2025 17:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称拦截黎真主党向以色列发射的无人机】以色列国防军1月30日称，当天拦截了一架黎巴嫩真主党向以色列发射的侦察无人机。黎真主党方面暂无回应。以色列军队电台报道称，这是黎以停火协议生效以来，黎真主党首次向以色列发射无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvv4494566.d.html</link>
-            <guid>4005771</guid>
-            <pubDate>Thu, 30 Jan 2025 17:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国风险投资家里德·霍夫曼：人工智能有潜力成为每个人的助手，提升各种职业的生产力，不仅限于软件工程。AI工具的整合可以显著提高风险投资家、律师、医生和教育工作者等职业的效率，即使是利用基本的编程技能。人工智能的持续演进将导致更广泛的应用，并对各个职业产生更深远的影响。]]></title>
-            <guid>4005770</guid>
-            <pubDate>Thu, 30 Jan 2025 17:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刚果（金）反政府武装称愿与政府直接对话】刚果（金）反政府武装“M23运动”高层人士30日在该国东部北基伍省首府戈马市举行的新闻发布会上说，愿意与刚果（金）政府直接对话。“M23运动”所属的政治军事联盟“刚果河联盟”领导人科尔内耶·南加在新闻发布会上表示，“M23运动”和“刚果河联盟”愿意与刚果（金）政府开展直接对话。他同时承诺将尽快恢复戈马市水电供应，与当地官员以及银行等机构合作建立民政管理机构，设立人道主义通道以协助人道主义物资运输和流离失所者返乡等。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvu1807575.d.html</link>
-            <guid>4005769</guid>
-            <pubDate>Thu, 30 Jan 2025 17:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰国内政治紧张局势升温，基辅市长与泽连斯基爆发争执】乌克兰国内的政治紧张局势一直在加剧。在周三发布的视频讲话中，乌克兰首都基辅市长克利奇科对总统泽连斯基进行了令人震惊的公开谴责，称总统办公室滥用戒严令的权力。克利奇科曾是重量级拳击冠军，在首都建立了一个政治基础。多年来，他与泽连斯基一直处于一场不太激烈的争执中，在他看来，总统试图篡夺这座城市的权威，这让他感到恼火。他指责泽连斯基为该市任命了一名军事行政官，试图接管由选举产生的市议会的权力。“当你作为最高统帅专注于战争和保卫乌克兰的时候，你身边的人却不知疲倦地参与政治阴谋，”克利奇科称。乌克兰的民间社会团体长期以来一直担心，该国中央政府利用军事管理人员来加强对权力的控制，即使在与国防没有直接关系的问题上也是如此。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvu1807499.d.html</link>
-            <guid>4005768</guid>
-            <pubDate>Thu, 30 Jan 2025 17:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲央行或最早3月拿掉货币政策立场的“限制性”标签】据知情人士透露，欧洲央行可能在3月份利率会议上放弃用“限制性”来描述货币政策立场。因讨论内容保密而不愿具名的知情人士称，3月份极有可能再次降息25个基点，从而将存款利率降至2.5%，该水平可能与“限制性”这个标签不再完全相称。因此，他们表示，官员们在下次讨论货币政策时将考虑调整利率声明中的措辞。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvs2371950.d.html</link>
-            <guid>4005767</guid>
-            <pubDate>Thu, 30 Jan 2025 17:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界粮食计划署：苏丹27个地区陷入饥荒或面临饥荒风险】当地时间1月30日，联合国世界粮食计划署就苏丹局势发表声明称，苏丹有27个地区已陷入饥荒或面临饥荒风险。报告表示，苏丹当前有约2460万人处于“严重的粮食不安全”状况或更糟状况，占苏丹人口近一半。在粮食安全状况严重地区，超过三分之一儿童患有严重营养不良。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvs2371923.d.html</link>
-            <guid>4005766</guid>
-            <pubDate>Thu, 30 Jan 2025 17:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：特朗普对飞机失事的猜测是无意义的。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvv4493258.d.html</link>
-            <guid>4005764</guid>
-            <pubDate>Thu, 30 Jan 2025 17:32:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国抵押贷款利率小幅走低 为连续第二周下降】美国抵押贷款利率连续第二周下降。房地美在一份声明中表示，30年期固定利率抵押贷款的平均利率为6.95%，低于上周的6.96%。继借贷成本本月早些时候升破7%后，购房者稍稍松了口气。在即将到来的春季购房季，抵押贷款利率的稳定可能是释放受抑需求的关键，不过贷款成本仍然高昂，房价继续上升，负担能力仍然构成障碍。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvs2371750.d.html</link>
-            <guid>4005763</guid>
-            <pubDate>Thu, 30 Jan 2025 17:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国卫生部长提名人小肯尼迪：不知道卫生与公众服务部有针对联邦雇员的监视名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvx1267339.d.html</link>
-            <guid>4005762</guid>
-            <pubDate>Thu, 30 Jan 2025 17:29:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国司法部发起起诉，试图阻止慧与以140亿美元收购瞻博网络。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-01-31/detail-inehusvs2370857.d.html</link>
-            <guid>4005761</guid>
-            <pubDate>Thu, 30 Jan 2025 17:20:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

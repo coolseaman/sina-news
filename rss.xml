@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 08 Feb 2025 16:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 17:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：02月09日00时12分在新疆阿克苏地区沙雅县（北纬41.06度，东经83.44度）发生3.6级地震，震源深度20千米。]]></title>
+            <guid>4020771</guid>
+            <pubDate>Sat, 08 Feb 2025 16:21:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【四川筠连山体滑坡受灾区域群众已全部转移】2月8日晚，四川宜宾市筠连县沐爱镇山体滑坡救援有序进行。截至8日20时，当地已组织应急救援、武警、消防、公安、交通、医疗、通信、电力等各类综合救援力量949人，调集挖掘机、消防车、救护车等救援设备开展现场救援，现场疏散转移安置群众约200人。目前受灾区域群众已全部转移完毕。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-09/detail-ineivawr1833186.d.html</link>
@@ -595,12 +600,6 @@
             <link>https://finance.sina.cn/7x24/2025-02-08/detail-ineiumyy8930204.d.html</link>
             <guid>4020616</guid>
             <pubDate>Sat, 08 Feb 2025 10:51:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国将从产销储等多方面做好春耕化肥保供稳价】 从国家发展改革委了解到，为保证春耕期间化肥供应充足、价格基本稳定，我国将从生产、流通、储备、进出口等多方面着手，全面做好春耕化肥保供稳价工作。国家发展改革委相关负责人表示，目前，国内化肥生产稳定、流通顺畅、储备充足、价格处于相对合理水平，春耕期间农业用肥供应有保障。下一步，将密切关注化肥市场形势变化，采取综合性调控措施，确保春耕化肥供应量足价稳，为新一年粮食稳产丰产奠定基础。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-08/detail-ineiumyy8929981.d.html</link>
-            <guid>4020615</guid>
-            <pubDate>Sat, 08 Feb 2025 10:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

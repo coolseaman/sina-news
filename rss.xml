@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Feb 2025 21:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 22:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美联邦雇员被要求“交周报” 否则视为辞职】据美国政治新闻网站（Politico）当地时间2月22日报道，美国政府效率部负责人马斯克当日表示，所有美国联邦政府雇员都必须解释他们过去一周的工作内容，否则将面临解雇。马斯克在社交媒体上表示，按照美国总统特朗普的指示，员工们将很快收到一份电子邮件，邮件会要求联邦政府雇员解释他们在过去一周的工作内容，未能回复这封邮件的员工将被视为辞职。报道称，目前尚不清楚马斯克依赖哪种法律权威做出上述言论。但特朗普当日早些时候在社交媒体上对马斯克在缩减美国联邦政府规模方面所做的工作表达了赞赏，并敦促他“更加积极主动”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-23/detail-inemmiet3603378.d.html</link>
+            <guid>4042767</guid>
+            <pubDate>Sat, 22 Feb 2025 22:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国人工智能安全研究所可能面临大幅裁员】据多家媒体报道，美国国家标准与技术研究院（National Institute of Standards and Technology）可能会解雇多达 500 名员工，这些裁员举措进一步危及到一家刚刚起步的人工智能安全机构。本周美国人工智能安全研究所（US AI Safety Institute，简称 AISI）和 “美国芯片计划”（Chips for America）这两个同属美国国家标准与技术研究院的项目，将因针对试用期员工（通常是入职一到两年的员工）的裁员而被 “大幅削减人员”。报道称，部分员工已收到即将被解雇的口头通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-23/detail-inemmier6828649.d.html</link>
+            <guid>4042766</guid>
+            <pubDate>Sat, 22 Feb 2025 22:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[球体娱乐公司（Sphere Entertainment Co.）：麦迪逊广场花园网络公司（MSG Networks）与奥普蒂姆（Optimum）达成了一项协议，麦迪逊广场花园网络公司旗下的频道将重新在奥普蒂姆的视频节目阵容中上线。协议的具体条款尚未公布。]]></title>
+            <guid>4042765</guid>
+            <pubDate>Sat, 22 Feb 2025 21:54:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波兰总统杜达：已告知特朗普，应加强美国在波兰以及中欧地区的军事存在 。]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-23/detail-inemmawv3729571.d.html</link>
@@ -573,22 +590,6 @@
             <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemkmyz7238777.d.html</link>
             <guid>4042550</guid>
             <pubDate>Sat, 22 Feb 2025 13:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔-哈撒韦公司第四财季营业利润为145.3亿美元，上年同期为84.8亿美元。]]></title>
-            <guid>4042549</guid>
-            <pubDate>Sat, 22 Feb 2025 13:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦A 2024年全年EPS为61900美元，上年同期为66412美元，市场预期为55288美元；伯克希尔哈撒韦B 2024年全年EPS为41.27美元，上年同期为44.27美元。]]></title>
-            <guid>4042548</guid>
-            <pubDate>Sat, 22 Feb 2025 13:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔哈撒韦A 2024年全年营收3714.33亿美元，上年同期3644.82亿美元，市场预期为3719.53亿美元。伯克希尔哈撒韦A 2024年全年净利润889.95亿美元，上年同期962.23亿美元，市场预期为607.06亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemkmyz7237675.d.html</link>
-            <guid>4042547</guid>
-            <pubDate>Sat, 22 Feb 2025 13:01:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

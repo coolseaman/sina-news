@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Feb 2025 19:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 20:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【马斯克宣布特朗普指示联邦雇员汇报工作情况】埃隆・马斯克在社交媒体上发文称，根据总统唐纳德・特朗普的指示，所有联邦雇员很快将收到一封电子邮件，要求他们说明上周的工作完成情况。马斯克还表示，未能回复将被视为辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-23/detail-inemmawv3717145.d.html</link>
+            <guid>4042753</guid>
+            <pubDate>Sat, 22 Feb 2025 19:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯强烈谴责以色列推迟释放巴勒斯坦被扣押人员】当地时间2月22日，巴勒斯坦伊斯兰抵抗运动（哈马斯）发言人阿卜杜勒·拉蒂夫·卡努强烈谴责以色列推迟释放被扣押的巴勒斯坦人员，表示以色列拖延释放被扣押人员违反了停火协议的条款，并呼吁调解人向以色列施压，要求其尊重停火协议并毫不拖延地执行其条款。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-02-23/detail-inemmawt6938455.d.html</link>
+            <guid>4042752</guid>
+            <pubDate>Sat, 22 Feb 2025 19:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国食品药品监督管理局（FDA）要求一些被解雇的科学家重返岗位，其中包括一些曾参与埃隆・马斯克旗下 Neuralink 公司相关工作的人员 。]]></title>
+            <guid>4042751</guid>
+            <pubDate>Sat, 22 Feb 2025 19:23:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【一小型飞机在秘鲁首都以南一居民区坠毁】当地时间2月22日中午12时，一架小型飞机坠毁在秘鲁首都利马以南圣巴托洛地区的一处居民区中。飞行员和副驾驶已被救出，但两人的医疗状况尚待确定。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2025-02-23/detail-inemmaxa2593819.d.html</link>
@@ -572,24 +589,6 @@
             <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemkmzc4005205.d.html</link>
             <guid>4042535</guid>
             <pubDate>Sat, 22 Feb 2025 12:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津首个“DeepSeek+企业服务”本地化场景落地】从中新天津生态城获悉，近日，生态城完成天津市首个“DeepSeek+企业服务”本地化部署。此次部署的“e企服”AI助手21日上线，结合区域特色企业服务事项，创新推出了4大类应用场景，进一步优化各类政务事项办理流程和效率。据了解，依托DeepSeek大模型核心技术，“e企服”AI助手创新构建政务+企业服务知识体系。通过汇聚整合区域全量政务+企业数据资源，形成AI“智能中枢”，为企业和群众提供高效、便捷的掌上企业服务。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemkmyz7230437.d.html</link>
-            <guid>4042534</guid>
-            <pubDate>Sat, 22 Feb 2025 12:22:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同比增长27.75% 杭州空港跨境电商出口迎来“开门红”】据杭州萧山国际机场海关统计，受春节促销影响，1月份，杭州空港口岸出口跨境电商货运量达1.19万吨，同比增长了27.75%。跨境电商空运需求的增长带动了货运航线需求的增加。2024年杭州口岸新增或恢复往返迈阿密、温哥华、墨西哥城、大阪、洛杉矶、德比的全货运航线6条，有效提升杭州空港口岸运力，保障了快速增长的出口需求。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemkmyz7230011.d.html</link>
-            <guid>4042533</guid>
-            <pubDate>Sat, 22 Feb 2025 12:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025年春运广州边检总站查验出入境人员超197万人次】广州出入境边防检查总站(下称“广州边检总站”)22日发布消息称，春运期间(1月14日至2月22日12时)，该总站下辖各口岸出入境人员超197万人次，交通运输工具约1.8万架(艘)次，相比去年春运，分别实现26.8%和12.81%的显著增长。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-02-22/detail-inemkmzk2938320.d.html</link>
-            <guid>4042532</guid>
-            <pubDate>Sat, 22 Feb 2025 12:19:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

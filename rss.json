@@ -6,6 +6,394 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4053408,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2750289.d.html",
+            "title": "【美元指数27日上涨】美元指数27日上涨。衡量美元对六种主要货币的美元指数当天上涨0.78%，在汇市尾市收于107.244。截至纽约汇市尾市，1欧元兑换1.0404美元，低于前一交易日的1.0491美元；1英镑兑换1.2608美元，低于前一交易日的1.2684美元。1美元兑换149.87日元，高于前一交易日的148.85日元；1美元兑换0.8996瑞士法郎，高于前一交易日的0.8938瑞士法郎；1美元兑换1.4441加元，高于前一交易日的1.4333加元；1美元兑换10.7467瑞典克朗，高于前一交易日的10.6425瑞典克朗。（新华社）",
+            "date_modified": "2025-02-27T20:18:16.000Z"
+        },
+        {
+            "id": 4053407,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpz0365230.d.html",
+            "title": "现货白银日内跌超2.00%，现报31.20美元/盎司，创月初以来新低。",
+            "date_modified": "2025-02-27T20:17:16.000Z"
+        },
+        {
+            "id": 4053406,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2750214.d.html",
+            "title": "市场消息：美泰与华纳兄弟就DC品牌达成多年授权合作。",
+            "date_modified": "2025-02-27T20:17:11.000Z"
+        },
+        {
+            "id": 4053405,
+            "content_html": "",
+            "title": "OpenAI的CEO Sam Altman：下周发布GPT 4.5时将增加GPUs。届时，将新增（至少）“数十万”GPUs。增加GPUs之后，将铺开GPT 4.5 Plus分层。",
+            "date_modified": "2025-02-27T20:14:35.000Z"
+        },
+        {
+            "id": 4053404,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2749933.d.html",
+            "title": "美国投资公司协会（ICI）：美国货币市场资产增至6.970万亿美元，创历史新高。",
+            "date_modified": "2025-02-27T20:13:16.000Z"
+        },
+        {
+            "id": 4053403,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpt7374957.d.html",
+            "title": "【美联储哈克：仍对经济前景持乐观态度】美联储哈克：政策利率未对经济产生负面影响。不应仅基于一份涵盖单月数据的报告而在政策上采取任何方向的行动。尽管将通胀恢复到目标水平面临挑战，仍对经济前景持乐观态度。",
+            "date_modified": "2025-02-27T20:11:33.000Z"
+        },
+        {
+            "id": 4053401,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpv5975029.d.html",
+            "title": "【美联储哈克：政策利率仍然具有足够的限制性 应该让货币政策继续发挥作用】美联储哈克：政策利率仍然具有足够的限制性，以持续对通胀施加下行压力。实现2%通胀目标的进程已经放缓，应该让货币政策继续发挥作用。美联储关注数据，必要时将做出反应。",
+            "date_modified": "2025-02-27T20:10:31.000Z"
+        },
+        {
+            "id": 4053400,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpz0364748.d.html",
+            "title": "【银行业助力提振消费 专项行动方案陆续出炉】2025年以来，一系列旨在激发消费活力的政策措施密集出台，其中，银行业金融机构以独特金融优势，在这场提振消费的全民行动中扮演重要角色。 记者获悉，从汽车消费信贷到新能源汽车专属金融服务，从提升大众财富管理能力到加强保险和养老金融服务，银行业机构正通过创新金融产品、优化服务供给、深化银企合作，为消费市场注入金融动能，激活市场潜力。 近一段时间以来，多家银行积极响应政策号召，陆续推出关于助力提振消费的行动方案。（证券时报）",
+            "date_modified": "2025-02-27T20:10:26.000Z"
+        },
+        {
+            "id": 4053398,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpz0364609.d.html",
+            "title": "【DeepSeek驱动券商业务模式重构 更多应用场景将落地】春节后，已有数十家券商陆续宣布完成DeepSeek的部署。以DeepSeek为代表的AI大模型，为证券行业的数字化转型与重塑按下加速键。目前，AI在证券行业的应用带来了显著效率提升，有望降低人工成本并提高利润。有券商金融科技团队人士认为，接入DeepSeek大模型，能够帮助证券公司提升业务效率、创新业务模式、优化客户服务，这是行业发展的必然选择。 业内人士预计，往后看，开放DeepSeek提供特色化、多元化自研模块，以提升机构服务附加值，或成为多数券商AI赋能机构服务的路径之一。（证券时报）",
+            "date_modified": "2025-02-27T20:08:36.000Z"
+        },
+        {
+            "id": 4053397,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpt7374619.d.html",
+            "title": "【标普跌1%科技板块跌2.7%，纳指100跌2%，英伟达维持超过6%的跌幅】 标普500日内跌幅达1.0%，报5896.33点；科技板块跌2.7%，电信与可选消费板块跌1.4%。纳斯达克100指数下跌2%，生物科技公司Grail跌7.8%，核电概念股Constellation Energy（CEG）跌7.6%，芯片股迈威尔科技跌6.62%、英伟达跌6.2%。",
+            "date_modified": "2025-02-27T20:08:00.000Z"
+        },
+        {
+            "id": 4053396,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpt7374551.d.html",
+            "title": "【6%增值税明确碳交易税目 业界热议优化路径】国家税务总局近日明确，纳税人发生碳排放权交易、核证自愿减排量交易（两者以下统称为“碳交易”），应按销售“无形资产—其他权益性无形资产—配额”计算缴纳增值税，适用6%税率。这一举措被认为再次明确了碳交易的税目和税率，更有利于交易双方进行成本核算和定价决策。 然而，将碳交易性质归类为“无形资产”并以此征税，在学界和业界仍存在较大分歧。多位业内人士接受证券时报记者采访时呼吁，应统筹考虑碳交易税制与市场培育，避免“竭泽而渔”。（证券时报）",
+            "date_modified": "2025-02-27T20:06:35.000Z"
+        },
+        {
+            "id": 4053395,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpv5974445.d.html",
+            "title": "【并购重组浪潮依旧 产业并购基金渐成趋势】并购重组市场延续火热浪潮。今年以来，上市公司发布了600多份与并购重组相关的公告，产业整合型并购是主流，与科技相关的并购日趋活跃，由地方国资或上市公司作为发起方设立的并购基金也渐成趋势。 一家券商的投行人士指出，产业逻辑支撑叠加政策支持，成为了本轮并购浪潮持续火热的主要原因，并购重组市场正在发生积极的变化，不仅交易活跃度与规模提高，更重要的是，并购项目的质量及监管要求达到了前所未有的高度，并购的实质效果与产业整合的深度更受关注。（证券时报）",
+            "date_modified": "2025-02-27T20:04:52.000Z"
+        },
+        {
+            "id": 4053394,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2748848.d.html",
+            "title": "纳斯达克100指数跌幅扩大至2%。",
+            "date_modified": "2025-02-27T20:04:07.000Z"
+        },
+        {
+            "id": 4053393,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpv5974177.d.html",
+            "title": "                                                                                                                        道琼斯工业平均指数最新报43298.29，日内跌0.31%。",
+            "date_modified": "2025-02-27T20:03:21.000Z"
+        },
+        {
+            "id": 4053392,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2748449.d.html",
+            "title": "美股继续下挫，标普500指数跌幅扩大至1%，纳指跌近1.9%。",
+            "date_modified": "2025-02-27T20:01:38.000Z"
+        },
+        {
+            "id": 4053390,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpt7373883.d.html",
+            "title": "Alphabet跌近2%。",
+            "date_modified": "2025-02-27T19:58:06.000Z"
+        },
+        {
+            "id": 4053389,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2747233.d.html",
+            "title": "【G20财长未能就气候融资等问题达成共识 会议纪要对关税避而不谈】齐聚开普敦的二十国集团(G-20)财长未能就气候融资等一系列问题达成共识。缺乏协议意味着该集团无法发布公报，而只是发布了会议纪要。“自俄乌冲突开始以来很难发联合公报，”南非财长Enoch Godongwana在周四的闭幕新闻发布会上表示。这次会议上，“在许多其他议题，包括气候融资问题方面出现了新的分歧，导致难以达成联合公报。”据悉，会议纪要中却没有提到“关税”字眼。",
+            "date_modified": "2025-02-27T19:54:06.000Z"
+        },
+        {
+            "id": 4053388,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2746586.d.html",
+            "title": "【欧盟将考虑委任特使 参加可能进行的乌克兰谈判】知情人士称，欧盟领导人将在下周会议上讨论任命一位特使，代表欧盟参加可能进行的谈判。",
+            "date_modified": "2025-02-27T19:51:32.000Z"
+        },
+        {
+            "id": 4053387,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpz0362986.d.html",
+            "title": "市场消息：谷歌(GOOG.O)联合创办人谢尔盖要求员工更多的进行现场办公。",
+            "date_modified": "2025-02-27T19:50:44.000Z"
+        },
+        {
+            "id": 4053386,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2746039.d.html",
+            "title": "墨西哥总检察长办公室：29名墨西哥犯罪嫌疑人正被引渡至美国。",
+            "date_modified": "2025-02-27T19:49:17.000Z"
+        },
+        {
+            "id": 4053385,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpz0362712.d.html",
+            "title": "【标普全球：随着联邦政策转变 美国地方政府信贷质量或出现波动】标普全球评级今日表示，美国联邦政策的变化或其走向存在高度的不可预测性，这可能会导致一些地方政府出现信贷不稳定的情况。标普全球评级信贷分析师Jane Ridley在报告中指出：“这些地方政府有应对短期收入中断或支出需求的经验，但在这个不确定性成为新现实的时代，重大变化可能会产生持久影响，这就需要管理团队积极主动地调整其运营预算。”Ridley补充道：“联邦政策变化的幅度和持续时间存在不确定性，这增加了变数，可能会阻碍管理团队的规划工作，并导致混乱。”",
+            "date_modified": "2025-02-27T19:48:22.000Z"
+        },
+        {
+            "id": 4053384,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpx2745665.d.html",
+            "title": "【美联储官员Hammack：利率没有显著的限制性 应一段时间内保持稳定】克利夫兰联邦储备银行行长Beth Hammack表示，利率并没有“显著的限制性”，在一段时间内应保持稳定，以便美联储官员们等待通胀率正在回归2%目标的证据。Hammack还说，监控通胀预期和其他指标，以评估金融状况是否与美联储为物价增长降温的努力相一致，这一点很重要。“我认为在评估未来道路时，货币政策可以保持耐心，这可能意味着在一段时间内保持联邦基金利率不变，” Hammack为周四在纽约一次会议准备的讲话中表示。“保持耐心将使我们有时间监测劳动力市场和通胀的轨迹，以及整体经济在当前利率环境下的表现。”",
+            "date_modified": "2025-02-27T19:47:19.000Z"
+        },
+        {
+            "id": 4053383,
+            "content_html": "",
+            "title": "美国国土安全部发言人称，2月份被抓获的非法穿越美墨边境的移民人数有望接近创纪录的月度新低。",
+            "date_modified": "2025-02-27T19:46:41.000Z"
+        },
+        {
+            "id": 4053382,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpt7372574.d.html",
+            "title": "【原糖期货跌约5%，月末清淡行情中波动性被放大】 周四（2月27日）纽约尾盘，ICE原糖期货跌4.70%，ICE白糖期货跌2.54%。ICE阿拉比卡咖啡期货跌0.43%，咖啡“C”期货涨0.08%。罗布斯塔咖啡期货跌0.54%。纽约可可期货跌0.03%，报9227美元/吨，北京时间22:58（美股盘初）曾跌至8907美元，全天呈现出U形走势。伦敦可可期货涨0.03%。ICE棉花期货跌0.43%。",
+            "date_modified": "2025-02-27T19:46:30.000Z"
+        },
+        {
+            "id": 4053381,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpv5970860.d.html",
+            "title": "【美国科技巨头呼吁特朗普政府调整芯片出口管制】总市值超过8万亿美元的美国科技巨头敦促特朗普政府重新考虑芯片出口限制。微软总裁和亚马逊首席执行官周四接连表示，特朗普团队应重新考虑拜登时代向以色列、沙特和阿联酋等国家出口AI芯片的限制。英伟达首席执行官也发出类似呼吁。",
+            "date_modified": "2025-02-27T19:46:25.000Z"
+        },
+        {
+            "id": 4053380,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpt7372094.d.html",
+            "title": "【特斯拉计划在加州推出免费Robotaxi】马斯克旗下的特斯拉正准备在美国加州推出一项出租车（Robotaxi）服务，该服务最终可能会让付费乘客乘坐自动驾驶汽车穿梭于该州各地。一份电子邮件显示，特斯拉去年年底向加州公用事业委员会提交了一份使用其车辆运送乘客的申请。该公司目前已获准在该州测试无人驾驶汽车，但如果获得额外的许可，人们将可以免费从特斯拉召唤其出租车。",
+            "date_modified": "2025-02-27T19:42:25.000Z"
+        },
+        {
+            "id": 4053379,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemynpz0361963.d.html",
+            "title": "澳元兑美元AUD/USD日内跌幅达1.00%，现报0.6242；纽元兑美元NZD/USD也跌近1%。",
+            "date_modified": "2025-02-27T19:41:58.000Z"
+        },
+        {
+            "id": 4053378,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6100200.d.html",
+            "title": "【美元指数涨超0.7%，美国GDP、耐用品订单、就业周报发布后快速拉升】 周四（2月27日）纽约尾盘，ICE美元指数涨0.73%，报107.195点，日内至北京时间21:30处于窄幅横盘震荡状态，持稳于106.600点一线，美国耐用品订单等数据发布时跌至106.523点，随后快速拉升，01:48刷新日高至107.279点。彭博美元指数涨0.61%，报1294.19点，日内交投区间为1285.63-1294.49点。",
+            "date_modified": "2025-02-27T19:40:24.000Z"
+        },
+        {
+            "id": 4053377,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0492516.d.html",
+            "title": "卡夫亨氏股价迅速回吐涨幅，一度转跌。",
+            "date_modified": "2025-02-27T19:40:01.000Z"
+        },
+        {
+            "id": 4053376,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0492029.d.html",
+            "title": "花旗集团将思科目标股价从71.00美元上调至73.00美元。",
+            "date_modified": "2025-02-27T19:35:57.000Z"
+        },
+        {
+            "id": 4053375,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6098936.d.html",
+            "title": "                                                                                                                        纽元兑美元日内跌幅达到1.00%，报0.5637。",
+            "date_modified": "2025-02-27T19:34:42.000Z"
+        },
+        {
+            "id": 4053374,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6098903.d.html",
+            "title": "【以色列和卡塔尔代表团抵达开罗 继续加沙下阶段停火谈判】当地时间27日晚，埃及新闻总署对外发布消息称，来自以色列和卡塔尔的代表团已经到达开罗，继续加沙下阶段停火谈判。该消息还提到，“美国方面的代表也将参加谈判。”目前相关方正在积极谈判，努力推动巴以双方继续落实之前已达成的共识。此外，如何进一步加大向加沙输送人道主义物资的力度等问题也是讨论的议题之一，一切努力旨在减轻加沙民众的疾苦以及加强地区稳定。巴勒斯坦伊斯兰抵抗运动（哈马斯）当天凌晨发表声明，称已经准备好就加沙地带停火协议第二阶段进行谈判。（央视新闻）",
+            "date_modified": "2025-02-27T19:34:34.000Z"
+        },
+        {
+            "id": 4053373,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6098842.d.html",
+            "title": "英伟达(NVDA.O)跌幅扩大至6%，市值跌破3万亿美元大关。",
+            "date_modified": "2025-02-27T19:34:17.000Z"
+        },
+        {
+            "id": 4053372,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0491743.d.html",
+            "title": "摩根士丹利将中金公司H股评级上调至超配，目标价21港元。",
+            "date_modified": "2025-02-27T19:32:52.000Z"
+        },
+        {
+            "id": 4053371,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6098533.d.html",
+            "title": "优步（Uber）下跌1.6%，刷新日低，Lyft涨幅收窄至2.3%。报道称马斯克旗下特斯拉要在美国加州推出FSD出租车服务。",
+            "date_modified": "2025-02-27T19:32:27.000Z"
+        },
+        {
+            "id": 4053370,
+            "content_html": "",
+            "title": "NYMEX 4月天然气期货收跌0.63%，报3.9340美元/百万英热单位。NYMEX 3月汽油期货收报1.9966美元/加仑，NYMEX 3月取暖油期货收报2.3959美元/加仑。",
+            "date_modified": "2025-02-27T19:31:26.000Z"
+        },
+        {
+            "id": 4053369,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0491583.d.html",
+            "title": "纳斯达克100指数跌幅扩大至1.4%，为盘中低点。",
+            "date_modified": "2025-02-27T19:31:01.000Z"
+        },
+        {
+            "id": 4053368,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7501621.d.html",
+            "title": "市场消息：Meta Platforms(META.O)因信息泄露而解雇大约20人，公司计划解雇更多员工。",
+            "date_modified": "2025-02-27T19:30:49.000Z"
+        },
+        {
+            "id": 4053367,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6097823.d.html",
+            "title": "特斯拉将在加州推出免费自动驾驶出租车服务。",
+            "date_modified": "2025-02-27T19:28:20.000Z"
+        },
+        {
+            "id": 4053366,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7501162.d.html",
+            "title": "纳斯达克100指数跌1.2%，英伟达跌超5%，特斯拉跌近2%。",
+            "date_modified": "2025-02-27T19:26:13.000Z"
+        },
+        {
+            "id": 4053365,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0490938.d.html",
+            "title": "英伟达延续跌势，跌幅扩大至5%。",
+            "date_modified": "2025-02-27T19:24:58.000Z"
+        },
+        {
+            "id": 4053364,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7500991.d.html",
+            "title": "标普全球：随着联邦政策转变，美国杠杆贷款信用质量可能动摇。",
+            "date_modified": "2025-02-27T19:24:40.000Z"
+        },
+        {
+            "id": 4053363,
+            "content_html": "",
+            "title": "市场消息：埃及方面表示，以色列和哈马斯已经在开罗开始就加沙停火的下一阶段进行谈判。",
+            "date_modified": "2025-02-27T19:24:23.000Z"
+        },
+        {
+            "id": 4053362,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2871584.d.html",
+            "title": "【融资余额突破1.9万亿元大关，为2015年7月初以来首次】 近期资金做多情绪浓厚，A股市场融资余额水涨船高。Wind显示，2月26日，A股市场融资余额为19031.65亿元，这是继2015年7月3日后，融资余额再次突破1.9万亿元大关。数据还显示，2月以来，融资净买入额为1386.28亿元，金额为10年来的第二高。在历史上，单月融资净买入额超过1000亿元的，只有13次。（证券时报）",
+            "date_modified": "2025-02-27T19:24:01.000Z"
+        },
+        {
+            "id": 4053361,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0490781.d.html",
+            "title": "标普全球评级：部分墨西哥州易受美国可能实施的关税影响。",
+            "date_modified": "2025-02-27T19:23:26.000Z"
+        },
+        {
+            "id": 4053360,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7500664.d.html",
+            "title": "标普全球汽车：预计2025日历年轻型汽车销量为1620万辆。",
+            "date_modified": "2025-02-27T19:22:01.000Z"
+        },
+        {
+            "id": 4053359,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7500584.d.html",
+            "title": "标普全球汽车：2025年2月美国汽车销量将温和改善。",
+            "date_modified": "2025-02-27T19:21:13.000Z"
+        },
+        {
+            "id": 4053358,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2870954.d.html",
+            "title": "【欧洲央行贸易结算系统恢复运行】据报道，欧洲央行的证券结算系统在周四早些时候因硬件故障导致通讯中断后，现已恢复工作。欧洲央行在一份声明中表示，TARGET2-Securities（简称T2S）平台“运行正常，此前因硬件组件而影响应用对应用呼出和呼入通信的事件已得到解决”。T2S促进了证券与现金的互换，因此是该地区金融市场通道的基石，它在2023年的日均交易量达到7900亿欧元（约合8230亿美元）。",
+            "date_modified": "2025-02-27T19:20:19.000Z"
+        },
+        {
+            "id": 4053357,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0490387.d.html",
+            "title": "巴西石油CEO：燃料定价政策对公司第四季度业绩没有影响。",
+            "date_modified": "2025-02-27T19:20:00.000Z"
+        },
+        {
+            "id": 4053356,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2870614.d.html",
+            "title": "                                                                                                                        道琼斯工业平均指数最新报43599.57，日内涨0.38%。",
+            "date_modified": "2025-02-27T19:18:10.000Z"
+        },
+        {
+            "id": 4053355,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2870519.d.html",
+            "title": "瑞银将Snowflake目标价从190.00美元上调至200.00美元。",
+            "date_modified": "2025-02-27T19:17:31.000Z"
+        },
+        {
+            "id": 4053354,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7500188.d.html",
+            "title": "以色列将调查卡塔尔与内塔尼亚胡助手之间疑似存在的关联。",
+            "date_modified": "2025-02-27T19:17:11.000Z"
+        },
+        {
+            "id": 4053353,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7500100.d.html",
+            "title": "埃及和俄罗斯外长通电话讨论加沙和叙利亚局势等】埃及外交部27日发布消息说，埃及外长阿卜杜勒阿提当天与俄罗斯外长拉夫罗夫通电话，双方重点就加沙地带和叙利亚局势交换意见。消息说，阿卜杜勒阿提重申，埃及反对将巴勒斯坦人驱离加沙地带的立场，并强调必须就巴勒斯坦问题达成永久和公正的政治解决办法。埃及正在制订让巴勒斯坦人留在自己土地上的重建加沙地带计划。埃及为确保加沙地带停火协议的可持续性而努力。两国外长还讨论了叙利亚最新事态发展。阿卜杜勒阿提重申，埃及支持叙利亚，尊重其主权、统一和领土完整。两国外长还讨论了埃俄双边关系。阿卜杜勒阿提高度评价两国在石油、天然气、旅游和航空等各领域的合作，特别提到埃及达巴核电站项目和埃及苏伊士运河经济区俄罗斯工业园项目。（新华社）",
+            "date_modified": "2025-02-27T19:16:31.000Z"
+        },
+        {
+            "id": 4053352,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6095698.d.html",
+            "title": "【库尔德工人党领导人呼吁放下武器 伊拉克库区主席表示欢迎】当地时间2月27日，据伊拉克库尔德自治区（库区）主席府声明，库区主席内奇尔万·巴尔扎尼对库尔德工人党领导人阿卜杜拉·厄贾兰的声明表示欢迎。厄贾兰在声明中明确提出“库尔德工人党应召开大会并宣布自行解散”。巴尔扎尼在声明中表示，这一举措是“实现该地区和平进程的重要一步”。他强调，现阶段需要“和平、文明和民主的斗争”，并指出“应通过对话和政治行动而非武器和暴力”实现该地区稳定。声明称，伊拉克库区完全支持和平进程，并愿采取一切必要措施，以确保和平进程的成功实现。（央视新闻）",
+            "date_modified": "2025-02-27T19:15:57.000Z"
+        },
+        {
+            "id": 4053351,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2869937.d.html",
+            "title": "法官表示，以色列总理内塔尼亚胡每周将出庭作证两次，而不是三次。",
+            "date_modified": "2025-02-27T19:14:28.000Z"
+        },
+        {
+            "id": 4053350,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6095262.d.html",
+            "title": "                                                                                                                        纳斯达克指数最新报18899.22，日内跌0.92%。",
+            "date_modified": "2025-02-27T19:13:50.000Z"
+        },
+        {
             "id": 4053349,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2869491.d.html",
@@ -228,24 +616,17 @@
             "date_modified": "2025-02-27T18:17:30.000Z"
         },
         {
-            "id": 4053314,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2857492.d.html",
-            "title": "美联储哈马克：美联储利率政策目前可能已接近中性。",
-            "date_modified": "2025-02-27T18:17:21.000Z"
-        },
-        {
             "id": 4053313,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2857477.d.html",
-            "title": "美联储哈马克：目前广泛的金融状况是宽松的。",
+            "title": "美联储哈马克：当前整体金融环境是宽松的。",
             "date_modified": "2025-02-27T18:17:17.000Z"
         },
         {
             "id": 4053312,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2857462.d.html",
-            "title": "美联储哈马克：美联储政策似乎并非“有实质意义的紧缩性政策”。",
+            "title": "美联储哈马克：美联储政策似乎并未“显著具有限制性”。",
             "date_modified": "2025-02-27T18:17:13.000Z"
         },
         {
@@ -259,7 +640,7 @@
             "id": 4053310,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0481328.d.html",
-            "title": "美联储哈马克：目前货币政策有“耐心等待的优势”。",
+            "title": "美联储哈马克：货币政策目前有耐心的余地。",
             "date_modified": "2025-02-27T18:17:05.000Z"
         },
         {
@@ -273,14 +654,14 @@
             "id": 4053308,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2857410.d.html",
-            "title": "美联储哈马克：从长远来看，经济能够适应更高的利率。",
+            "title": "美联储哈马克：从长远来看，经济可以适应更高的利率。",
             "date_modified": "2025-02-27T18:16:55.000Z"
         },
         {
             "id": 4053307,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0481302.d.html",
-            "title": "美联储哈马克：当前股票市场估值处于高位。",
+            "title": "美联储哈马克：当前股市估值偏高。",
             "date_modified": "2025-02-27T18:16:50.000Z"
         },
         {
@@ -301,7 +682,7 @@
             "id": 4053303,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2857014.d.html",
-            "title": "美联储哈马克：通胀进一步缓和远非确定之事，上行风险“大量存在”。",
+            "title": "美联储哈马克：通胀进一步放缓尚未确定，依然存在许多上行风险。",
             "date_modified": "2025-02-27T18:15:24.000Z"
         },
         {
@@ -317,382 +698,6 @@
             "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0480929.d.html",
             "title": "特朗普：乌克兰不会加入北约。",
             "date_modified": "2025-02-27T18:14:52.000Z"
-        },
-        {
-            "id": 4053300,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6082220.d.html",
-            "title": "美国总统特朗普：将与乌克兰总统泽连斯基一起签署协议。",
-            "date_modified": "2025-02-27T18:13:55.000Z"
-        },
-        {
-            "id": 4053299,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2856754.d.html",
-            "title": "特朗普：加拿大应该截获更多的芬太尼。",
-            "date_modified": "2025-02-27T18:13:47.000Z"
-        },
-        {
-            "id": 4053298,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2856691.d.html",
-            "title": "美国总统特朗普：（被问及是否信任普京时）我信任但要核实。",
-            "date_modified": "2025-02-27T18:13:18.000Z"
-        },
-        {
-            "id": 4053297,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6081589.d.html",
-            "title": "美国总统特朗普：将安全保障投入乌克兰是简单的部分，达成协议才是困难的部分。",
-            "date_modified": "2025-02-27T18:10:37.000Z"
-        },
-        {
-            "id": 4053296,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6081484.d.html",
-            "title": "英国首相斯塔默：我将与美国总统特朗普讨论如何确保任何乌克兰和平协议不被俄罗斯违反。",
-            "date_modified": "2025-02-27T18:10:17.000Z"
-        },
-        {
-            "id": 4053295,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6081299.d.html",
-            "title": "美国总统特朗普：我认为与俄罗斯达成的协议会有效。",
-            "date_modified": "2025-02-27T18:09:31.000Z"
-        },
-        {
-            "id": 4053294,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6081184.d.html",
-            "title": "美国总统特朗普：我认为俄罗斯总统普京会信守承诺。",
-            "date_modified": "2025-02-27T18:09:05.000Z"
-        },
-        {
-            "id": 4053293,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2855487.d.html",
-            "title": "欧洲央行：TARGET 2系统正在正常运行，事故已得到解决。",
-            "date_modified": "2025-02-27T18:08:14.000Z"
-        },
-        {
-            "id": 4053292,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6080811.d.html",
-            "title": "特朗普：4月2日是对等关税日期。",
-            "date_modified": "2025-02-27T18:07:54.000Z"
-        },
-        {
-            "id": 4053291,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0479598.d.html",
-            "title": "特朗普：没看到加拿大和墨西哥在控制毒品流动方面的进展。",
-            "date_modified": "2025-02-27T18:07:38.000Z"
-        },
-        {
-            "id": 4053290,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7489283.d.html",
-            "title": "美国总统特朗普：如果与乌克兰达成和平协议，我认为普京不会再次进行军事行动。",
-            "date_modified": "2025-02-27T18:05:56.000Z"
-        },
-        {
-            "id": 4053289,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2854538.d.html",
-            "title": "美国总统特朗普：（被问及是否会对英国实施制裁时）我需要先进行评估。",
-            "date_modified": "2025-02-27T18:05:18.000Z"
-        },
-        {
-            "id": 4053288,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7488962.d.html",
-            "title": "美国总统特朗普：欧盟对苹果的决定是荒谬的。",
-            "date_modified": "2025-02-27T18:04:59.000Z"
-        },
-        {
-            "id": 4053287,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6079634.d.html",
-            "title": "【Meta与私募阿波罗洽谈350亿美元数据中心融资】据知情人士透露，另类资管巨头阿波罗（Apollo Global Management Inc.）洽谈牵头对扎克伯格旗下“元宇宙公司”Meta Platforms投资大约350亿美元，从而帮助（后者）在美国打造一系列数据中心。阿波罗将是主要的出资方，融资计划还处于早期讨论阶段。近期，Meta已经宣称，2025年要在人工智能（AI）相关领域投资多达650亿美元。",
-            "date_modified": "2025-02-27T18:04:00.000Z"
-        },
-        {
-            "id": 4053286,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0478590.d.html",
-            "title": "美国总统特朗普：我们为北约支付了不成比例的份额。",
-            "date_modified": "2025-02-27T18:03:32.000Z"
-        },
-        {
-            "id": 4053285,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853938.d.html",
-            "title": "美国总统特朗普：欧盟在贸易问题上对我们非常强硬。",
-            "date_modified": "2025-02-27T18:03:01.000Z"
-        },
-        {
-            "id": 4053284,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853880.d.html",
-            "title": "特朗普：将对欧盟征收对等关税。",
-            "date_modified": "2025-02-27T18:02:42.000Z"
-        },
-        {
-            "id": 4053283,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6079257.d.html",
-            "title": "美国总统特朗普：我们不喜欢欧盟对待我们企业的方式。",
-            "date_modified": "2025-02-27T18:02:26.000Z"
-        },
-        {
-            "id": 4053281,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6079007.d.html",
-            "title": "美国总统特朗普批评欧盟增值税。",
-            "date_modified": "2025-02-27T18:01:23.000Z"
-        },
-        {
-            "id": 4053280,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853387.d.html",
-            "title": "美国总统特朗普：认为当时（英国）脱欧是正确的选择。",
-            "date_modified": "2025-02-27T18:00:31.000Z"
-        },
-        {
-            "id": 4053279,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7488118.d.html",
-            "title": "美国总统特朗普：俄罗斯表现非常良好，我们在和平协议方面进展顺利。",
-            "date_modified": "2025-02-27T17:59:34.000Z"
-        },
-        {
-            "id": 4053278,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7488095.d.html",
-            "title": "美国总统特朗普：我们与俄罗斯和乌克兰进行了非常良好的对话。",
-            "date_modified": "2025-02-27T17:59:24.000Z"
-        },
-        {
-            "id": 4053277,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853124.d.html",
-            "title": "美国总统特朗普：我们需要首先达成协议，然后才能组建维和部队，目前我们尚未达成协议。",
-            "date_modified": "2025-02-27T17:59:17.000Z"
-        },
-        {
-            "id": 4053276,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6078488.d.html",
-            "title": "特朗普：我们在协议上取得了很大进展但协议尚未完成。",
-            "date_modified": "2025-02-27T17:59:01.000Z"
-        },
-        {
-            "id": 4053275,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2853005.d.html",
-            "title": "美国总统特朗普：稀土交易将成为乌克兰的后盾。",
-            "date_modified": "2025-02-27T17:58:47.000Z"
-        },
-        {
-            "id": 4053274,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6078440.d.html",
-            "title": "巴西央行研究显示，财政风险对金融机构已变得更加重要。",
-            "date_modified": "2025-02-27T17:58:43.000Z"
-        },
-        {
-            "id": 4053273,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6078343.d.html",
-            "title": "美国总统特朗普：乌克兰总统泽连斯基将于周五上午到访。",
-            "date_modified": "2025-02-27T17:58:17.000Z"
-        },
-        {
-            "id": 4053272,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6078132.d.html",
-            "title": "美国总统特朗普：正跟踪有多少退伍军人被效率部解雇，希望是一个小数字。",
-            "date_modified": "2025-02-27T17:57:28.000Z"
-        },
-        {
-            "id": 4053271,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0477720.d.html",
-            "title": "特朗普：我们在精简政府（规模）方面取得了巨大成功。",
-            "date_modified": "2025-02-27T17:57:13.000Z"
-        },
-        {
-            "id": 4053270,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7487756.d.html",
-            "title": "印度政府任命现任财政部长图欣·坎塔·潘迪为印度证券交易委员会主席，任期3年。",
-            "date_modified": "2025-02-27T17:56:58.000Z"
-        },
-        {
-            "id": 4053269,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7487599.d.html",
-            "title": "市场消息：特斯拉正寻求在加利福尼亚州提供叫车服务的批准。",
-            "date_modified": "2025-02-27T17:56:08.000Z"
-        },
-        {
-            "id": 4053268,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7487523.d.html",
-            "title": "英国首相斯塔默：这真的很特别且具有历史性意义。",
-            "date_modified": "2025-02-27T17:55:40.000Z"
-        },
-        {
-            "id": 4053267,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7487482.d.html",
-            "title": "英国首相斯塔默：查尔斯国王邀请美国总统特朗普对英国进行第二次国事访问。",
-            "date_modified": "2025-02-27T17:55:29.000Z"
-        },
-        {
-            "id": 4053266,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2852021.d.html",
-            "title": "特朗普：将很快访问英国。",
-            "date_modified": "2025-02-27T17:54:34.000Z"
-        },
-        {
-            "id": 4053265,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7487330.d.html",
-            "title": "市场消息：英国首相斯塔默向美国总统特朗普递交了来自查尔斯国王的信件。",
-            "date_modified": "2025-02-27T17:54:19.000Z"
-        },
-        {
-            "id": 4053264,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7487298.d.html",
-            "title": "英国首相斯塔默：我们希望确保任何乌克兰和平协议都是持久的，并且能够持续下去。",
-            "date_modified": "2025-02-27T17:54:05.000Z"
-        },
-        {
-            "id": 4053263,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6077356.d.html",
-            "title": "英国首相斯塔默：感谢美国总统特朗普为乌克兰带来和平的可能性。",
-            "date_modified": "2025-02-27T17:53:58.000Z"
-        },
-        {
-            "id": 4053262,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7487049.d.html",
-            "title": "LME三个月期铜收跌70美元，至每吨9390美元。",
-            "date_modified": "2025-02-27T17:52:30.000Z"
-        },
-        {
-            "id": 4053261,
-            "content_html": "",
-            "title": "WTI原油日内涨幅达2.5%，报70.37美元/桶；布伦特原油日内涨幅达2.0%，报73.63美元/桶。",
-            "date_modified": "2025-02-27T17:49:40.000Z"
-        },
-        {
-            "id": 4053260,
-            "content_html": "",
-            "title": "巴西环境署技术人员建议该机构拒绝授权巴西石油公司（Petrobras）在亚马孙河口附近进行钻探。",
-            "date_modified": "2025-02-27T17:45:39.000Z"
-        },
-        {
-            "id": 4053259,
-            "content_html": "",
-            "title": "消息人士：欧佩克+对计划于四月实施的提高石油产量持犹豫态度，原因是对制裁和关税的不确定性。",
-            "date_modified": "2025-02-27T17:45:10.000Z"
-        },
-        {
-            "id": 4053258,
-            "content_html": "",
-            "title": "消息人士：俄罗斯、阿联酋希望继续在4月提高石油产量；包括沙特阿拉伯在内的其他成员国赞成推迟。",
-            "date_modified": "2025-02-27T17:44:57.000Z"
-        },
-        {
-            "id": 4053257,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2849067.d.html",
-            "title": "英镑兑美元日内走低0.50%，现报1.2612。",
-            "date_modified": "2025-02-27T17:41:36.000Z"
-        },
-        {
-            "id": 4053256,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7484853.d.html",
-            "title": "【特朗普政府取消FDA顾问会议】 特朗普政府取消与美国食品药品管理局（FDA）下辖疫苗与相关生物产品顾问委员会（疫苗顾问委员会VRBPAC）的会议日程。该委员会负责替FDA评估疫苗接种日期。白宫此举恐怕会造成即将来临的流感季疫苗生产努力变得错综复杂。",
-            "date_modified": "2025-02-27T17:38:31.000Z"
-        },
-        {
-            "id": 4053255,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6073177.d.html",
-            "title": "英国首相斯塔默抵达白宫与美国总统特朗普会面。",
-            "date_modified": "2025-02-27T17:35:17.000Z"
-        },
-        {
-            "id": 4053254,
-            "content_html": "",
-            "title": "欧盟委员会预计2024/25年度欧盟可使用的玉米产量为5930万吨，此前为5950万吨。",
-            "date_modified": "2025-02-27T17:35:02.000Z"
-        },
-        {
-            "id": 4053253,
-            "content_html": "",
-            "title": "欧盟委员会预计2024/25年度欧盟可用大麦产量为4920万吨，此前为4940万吨。",
-            "date_modified": "2025-02-27T17:34:59.000Z"
-        },
-        {
-            "id": 4053252,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6073042.d.html",
-            "title": "美国总统特朗普表示，可以在乌克兰问题上达成和平协议。",
-            "date_modified": "2025-02-27T17:34:39.000Z"
-        },
-        {
-            "id": 4053251,
-            "content_html": "",
-            "title": "欧盟委员会预计2024/2025年度欧盟普通小麦期末库存为940万吨，与之前的940万吨持平。",
-            "date_modified": "2025-02-27T17:34:16.000Z"
-        },
-        {
-            "id": 4053250,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfv7484147.d.html",
-            "title": "【俄称在多地发动攻势 摧毁乌无人机控制点】过去一天，俄乌双方继续发动无人机袭击，并在多个方向发动攻势。俄罗斯国防部27日通报称，26日深夜至27日凌晨，俄军防空系统在库尔斯克州、别尔哥罗德州等地拦截和击落19架乌克兰无人机。俄国防部当天表示，俄军正在顿涅茨克南部加大攻势，并在哈尔科夫、扎波罗热等方向打退乌军多次进攻并发动多次攻势。俄军打击了142个区域的乌军有生力量和装备集中地，摧毁乌军野战炮、电子战基站和弹药库等。在库尔斯克，俄军摧毁了乌军坦克、步兵战车、防空导弹系统发射装置，以及多个无人机控制点等。",
-            "date_modified": "2025-02-27T17:33:50.000Z"
-        },
-        {
-            "id": 4053249,
-            "content_html": "",
-            "title": "欧盟委员会预计2024/25年度欧盟普通小麦出口量为2500万吨，与此前预计的2500万吨持平。",
-            "date_modified": "2025-02-27T17:32:31.000Z"
-        },
-        {
-            "id": 4053248,
-            "content_html": "",
-            "title": "欧盟委员会预计2024/25年度欧盟普通小麦可用产量为1.118亿吨，此前预计为1.119亿吨。",
-            "date_modified": "2025-02-27T17:32:20.000Z"
-        },
-        {
-            "id": 4053247,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfz2846882.d.html",
-            "title": "【法国财长：若美国加征关税 欧盟将以同样措施回应】针对美国总统特朗普26日称将宣布对欧盟进口商品征收25%关税一事，27日，法国经济与财政部长埃里克·隆巴尔说，如果美国对欧盟加征关税，欧盟将用同样的措施予以回应。隆巴尔说，27日上午，七国集团的外交官与美国财政部长贝森特进行了交流，警告称关税战将导致通货膨胀，经济增长放缓。",
-            "date_modified": "2025-02-27T17:31:40.000Z"
-        },
-        {
-            "id": 4053246,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhhc0473466.d.html",
-            "title": "【美国蛋价止步56连涨】 美国鸡蛋并没有变得更便宜，但它自12月6日以来首次没有变得更贵。根据价格报告服务商Expana的基准指标，2月27日，一打大号白壳鸡蛋的价格为8.58美元，与前一天创下的纪录高位持平。上一次价格持稳时，一打鸡蛋仅售3.93美元。一年前的价格为2.97美元。",
-            "date_modified": "2025-02-27T17:30:17.000Z"
-        },
-        {
-            "id": 4053245,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-02-28/detail-inemyhfx6071402.d.html",
-            "title": "【欧元区多国主权债收益率冲高回落，两年期德债收益率跌超3个基点】 周四（2月27日）欧市尾盘，德国10年期国债收益率下跌2.0个基点，报2.413%，日内呈现出冲高回落状态，交投于2.452%-2.410%区间。两年期德债收益率跌3.3个基点，报2.035%，全天处于下跌状态，交投于2.067%-2.030%区间；30年期德债收益率大致持平，报2.698%。2/10年期德债收益率利差涨1.327个基点，报+37.628个基点。",
-            "date_modified": "2025-02-27T17:27:08.000Z"
         }
     ]
 }

@@ -4,13 +4,485 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 11 Mar 2025 14:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 15:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：特朗普助手认为鲍曼有望成为美联储首席银行官。]]></title>
+            <title><![CDATA[菲律宾总统马科斯：杜特尔特是依据国际刑警组织（的相关要求）被捕的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2392953.d.html</link>
+            <guid>4075463</guid>
+            <pubDate>Tue, 11 Mar 2025 15:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波音2月交付量同比增长63%】波音周二表示，公司在2月份交付了44架飞机，高于去年同期的27架，同比涨幅高达63%。这一业绩的出炉，适逢该公司正在努力稳定并增加其737 MAX和787型号的产量。波音2月飞机交付数据仅略低于1月份的45架，后者是该公司自2023年以来单月的最佳交付量。今年2月，波音公司交付了32架最畅销的737 MAX单通道喷气式飞机和5架787宽体飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5191082.d.html</link>
+            <guid>4075462</guid>
+            <pubDate>Tue, 11 Mar 2025 15:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新华社快讯：美国总统特朗普宣布，将对加拿大钢铝产品加征25%关税，总税率提升至50%。相关措施将于3月12日生效。]]></title>
+            <guid>4075461</guid>
+            <pubDate>Tue, 11 Mar 2025 15:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西联邦税收局局长巴雷里尼亚斯：有有力迹象表明，一些不太知名的支付机构被用于洗钱活动。]]></title>
+            <guid>4075460</guid>
+            <pubDate>Tue, 11 Mar 2025 15:18:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息 ：纽约移动（New York Mobile）与 T-Mobile 合作推出带有 “自选号码” 定制解决方案的全国性无线平台。]]></title>
+            <guid>4075459</guid>
+            <pubDate>Tue, 11 Mar 2025 15:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大安大略省省长：如果有必要，将毫不犹豫地切断对美国的电力供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9402649.d.html</link>
+            <guid>4075458</guid>
+            <pubDate>Tue, 11 Mar 2025 15:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：空客直升机宣布推出 H140 轻型双发直升机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2392553.d.html</link>
+            <guid>4075457</guid>
+            <pubDate>Tue, 11 Mar 2025 15:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西联邦税收局局长巴雷里尼亚斯表示：“我们将不得不重新展开关于金融科技公司有必要向税务部门报告相关金额数据这一议题的讨论。”]]></title>
+            <guid>4075456</guid>
+            <pubDate>Tue, 11 Mar 2025 15:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海干散货运价指数触及逾三个月高位】波罗的海干散货运价指数连升第四日，触及逾三个月高位，因巴拿马型船市场需求增加。波罗的海干散货运价指数上涨12点，至1436点，为11月27日以来最高水平。海岬型船运价指数下滑4点，至2474点。上周攀升逾33%。海岬型船日均获利下跌40美元，至20514美元。巴拿马型船运价指数上升50点，报1064点，为一周最高。巴拿马型船日均获利上涨456美元，至9578美元。超灵便型散货船运价指数仍持平于864点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5190619.d.html</link>
+            <guid>4075455</guid>
+            <pubDate>Tue, 11 Mar 2025 15:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国官员宣称：英国（联邦）不会回应美国（总统特朗普针对加拿大发出的最新）钢铁关税（威胁）。英国政府将继续与美方接触，从而获得钢铁关税豁免。]]></title>
+            <guid>4075454</guid>
+            <pubDate>Tue, 11 Mar 2025 15:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌、Anthropic与Snowflake和Databricks洽谈人工智能（AI）数据安全交易。]]></title>
+            <guid>4075453</guid>
+            <pubDate>Tue, 11 Mar 2025 15:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在美国主要航空公司指出旅行需求放缓之后，万豪酒店（Marriott）股价下跌4.9%。]]></title>
+            <guid>4075452</guid>
+            <pubDate>Tue, 11 Mar 2025 15:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾前总统杜特尔特的女儿表示，搭载杜特尔特的飞机已起飞。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9401308.d.html</link>
+            <guid>4075451</guid>
+            <pubDate>Tue, 11 Mar 2025 15:08:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prosus于3月3-7日回购7,522,387股股票，总金额3.2899亿欧元股票（折合3.52亿美元）。Naspers同期回购490,812股股票，总金额23.34亿南非兰特（折合1.27亿美元）。]]></title>
+            <guid>4075450</guid>
+            <pubDate>Tue, 11 Mar 2025 15:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯洛伐克管道运营商 Transpetrol 表示，经过“友谊管道”向斯洛伐克输送石油的供应在周二被暂停，预计今晚恢复输送。]]></title>
+            <guid>4075449</guid>
+            <pubDate>Tue, 11 Mar 2025 15:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会表示，由于技术问题，将于 3 月 9 日发布的欧盟 2024/25 年度软小麦出口数据将无法公布。]]></title>
+            <guid>4075448</guid>
+            <pubDate>Tue, 11 Mar 2025 15:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受无人机袭击影响 俄罗斯向匈牙利输油管道暂停运营】当地时间3月11日，匈牙利外交部长西雅尔多在与俄罗斯副总理诺瓦克通电话后表示，由于此前乌克兰无人机袭击了“友谊”输油管道测量站，目前该管道不得不暂停运营。西雅尔多表示，管道修复工作正在进行中，预计会在当日晚间恢复运营。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8413847.d.html</link>
+            <guid>4075447</guid>
+            <pubDate>Tue, 11 Mar 2025 15:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日产CEO易人 称将引入焕然一新的领导阵容】日本汽车制造商日产汽车公司周二表示，在与竞争对手本田（HMC）的合并计划失败一个月后，该公司将用首席规划官Ivan Espinosa取代CEO内田诚（Makoto Uchida）。日产表示，Espinosa将于4月1日走马上任。该公司称正在“引入一个焕然一新的领导阵容，以实现公司的短期和中期目标，同时为其长期增长做好准备。”(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2390008.d.html</link>
+            <guid>4075446</guid>
+            <pubDate>Tue, 11 Mar 2025 15:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：在菲律宾前总统杜特尔特被捕后从拘押处被转移后，一架飞机从马尼拉机场起飞。]]></title>
+            <guid>4075445</guid>
+            <pubDate>Tue, 11 Mar 2025 15:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[匈牙利通胀率连续五个月上升，2月CPI同比上升5.6%，该国央行发誓不会在遏制通胀方面“手下留情”。]]></title>
+            <guid>4075444</guid>
+            <pubDate>Tue, 11 Mar 2025 15:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国实物市场铝溢价创下超过每吨990美元的新纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5187901.d.html</link>
+            <guid>4075443</guid>
+            <pubDate>Tue, 11 Mar 2025 15:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【30余国讨论向乌派兵，美未获邀参会】据多家媒体报道，当地时间3月11日，来自30多个国家的军方官员将在巴黎举行会谈，讨论为乌克兰组建一支所谓国际安全部队。美国未获邀参加此次会谈。除美国外，几乎所有北约成员国的军方领导人或代表都将参加这次巴黎会谈。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5187227.d.html</link>
+            <guid>4075442</guid>
+            <pubDate>Tue, 11 Mar 2025 15:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内期货主力合约涨跌互现】国内期货主力合约涨跌互现，铁矿石、丁二烯橡胶涨超1%，PX涨近1%；跌幅方面，烧碱、PVC跌超1%，菜油、纯碱、豆油、白糖跌近1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2388571.d.html</link>
+            <guid>4075441</guid>
+            <pubDate>Tue, 11 Mar 2025 15:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音：在2月份交付了44架飞机，其中包括32架737 MAX喷气式飞机，较2024年2月的27架交付量有所增加。]]></title>
+            <guid>4075440</guid>
+            <pubDate>Tue, 11 Mar 2025 15:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【余承东向钛媒体辟谣与刘亦菲恋情：我都没见过她】针对近日网传与刘亦菲恋情，华为常务董事、终端BG董事长、智能汽车解决方案BU董事长余承东向钛媒体集团创始人赵何娟回应说：我至今都没见过她呢。另据钛媒体App从多方了解，刘亦菲将可能作为智界汽车代言人，这可能是双方唯一的关系。但该代言消息目前尚未得到智界官方确认。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8412309.d.html</link>
+            <guid>4075439</guid>
+            <pubDate>Tue, 11 Mar 2025 14:59:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧莱雅CEO称并不过分担心美国关税的影响】美妆巨头欧莱雅（L’Oreal）首席执行官Nicolas Hieronimus周二表示，欧莱雅公司可以免遭美国关税战最糟糕情况的影响，但警告称消费者仍可能受到某些商品价格上涨的打击。Hieronimus表示，他“并不过分担心”白宫关税对欧莱雅的影响，因为该集团的大部分商品都在美国这个北美国家销售。尽管如此，这家化妆品巨头的一些奢侈品，如香水，还是从欧洲出口到美国的。他说：“目前这个类别还没有关税。应该有吗？好吧，我们会解决这个问题。有定价权。还有货币效应。美元也走强了。”(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8411939.d.html</link>
+            <guid>4075438</guid>
+            <pubDate>Tue, 11 Mar 2025 14:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：大众汽车计划在CARIAD软件部门裁员1600人。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8411934.d.html</link>
+            <guid>4075437</guid>
+            <pubDate>Tue, 11 Mar 2025 14:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普将加拿大钢铝关税提高至50% 并扬言要让该国汽车制造业完蛋】美国总统特朗普表示，他将把进口自加拿大的钢和铝的关税提高到50%，以报复安省对输送到美国的电力征收附加费。这一系列关税行动标志着特朗普与加拿大的贸易争端再次升级，有可能进一步扰乱市场。自特朗普上周推进对加拿大和墨西哥的第一轮关税以来，市场一直在持续下跌。在特朗普宣布将关税加征幅度翻倍后，美国股市重拾跌势。纽约时间10:17，标普500指数下跌0.3%，道琼斯工业平均价格指数下跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9397706.d.html</link>
+            <guid>4075436</guid>
+            <pubDate>Tue, 11 Mar 2025 14:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在特朗普对加拿大征收50%关税之后，美元兑加元触及一周高位，最新上涨0.5%，至1加元兑1.4513美元。]]></title>
+            <guid>4075435</guid>
+            <pubDate>Tue, 11 Mar 2025 14:54:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股芯片指数跌约1.8%，泰瑞达跌21%，格芯、思佳讯等跌幅暂时居前】 费城半导体指数目前跌1.78%。泰瑞达（Teradyne，股票代码TER）股价跌幅扩大至21%，创最近三年来最差盘中表现。格芯跌6.58%，思佳讯跌5.73%，Wolfspeed跌5.45%，Qorvo跌4.87%，安森美半导体跌4.02%，恩智浦跌3.41%，德州仪器跌3.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5185869.d.html</link>
+            <guid>4075434</guid>
+            <pubDate>Tue, 11 Mar 2025 14:54:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国职位空缺人数上升裁员减少 劳动力市场似有弹性】美国1月份职位空缺增加，而裁员减少，离职率上升，这表明特朗普政府上台后，劳动力市场出现了弹性。公布的数据显示，1月职位空缺从12月修正后的751万个增加到774万个。职位空缺人数的增加受到金融活动、零售贸易和建筑业的推动。而辞职人数的上升则是广泛的。尽管过去三年呈下降趋势，但职位空缺仍高于大流行前的平均水平，这表明雇主仍在招聘。职位空缺和劳动力流动调查的细节显示，1月份的招聘率保持不变，而裁员率降至1%，为6月份以来的最低水平，这暗示美国经济仍处于有限招聘、有限解雇的环境中。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5185831.d.html</link>
+            <guid>4075433</guid>
+            <pubDate>Tue, 11 Mar 2025 14:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通将美国钢铁公司目标股价从40.00美元上调至43.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8411229.d.html</link>
+            <guid>4075432</guid>
+            <pubDate>Tue, 11 Mar 2025 14:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲汽车股下挫 特朗普计划将加拿大钢铝关税翻倍】欧洲汽车股延续跌势，此前美国总统唐纳德·特朗普称将把对加拿大钢和铝加征的关税翻倍至50%。截至法兰克福时间下午2点39分，斯托克600汽车及零部件指数下跌2.6%，而大盘下跌1.8%。Stellantis下跌5.9%，梅赛德斯-奔驰下跌2.4%，宝马下跌1.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9397301.d.html</link>
+            <guid>4075431</guid>
+            <pubDate>Tue, 11 Mar 2025 14:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰瑞达股价跌幅扩大至21%，为三年来最大跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8410571.d.html</link>
+            <guid>4075430</guid>
+            <pubDate>Tue, 11 Mar 2025 14:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统万斯：敦促国会众议院共和党全体成员支持即将在3月11日表决的临时开支草案。对于总统特朗普按计划推进其日程而言，这份草案具有至关重要的意义。]]></title>
+            <guid>4075429</guid>
+            <pubDate>Tue, 11 Mar 2025 14:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列和黎巴嫩已同意开启谈判以解决两国陆地边界争端。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2386842.d.html</link>
+            <guid>4075428</guid>
+            <pubDate>Tue, 11 Mar 2025 14:49:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【萨默斯表示：特朗普刚刚宣布的对加拿大钢铝关税是迄今最糟糕的贸易政策】 前美国财长、美国通胀吹哨人萨默斯表示：刚刚宣布的对加拿大钢铁和铝的关税是迄今为止最糟糕的贸易政策。提高美国制造业关键原材料的价格–这些行业雇佣了1000万人——正是美国对手会做的事情。这是对美国经济的自我伤害，我们无法承受，正值经济衰退风险上升之际。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5184563.d.html</link>
+            <guid>4075426</guid>
+            <pubDate>Tue, 11 Mar 2025 14:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度尼西亚财政部：截至1月31日，该国预算赤字占国内生产总值的0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8409950.d.html</link>
+            <guid>4075425</guid>
+            <pubDate>Tue, 11 Mar 2025 14:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大被提高关税 美国人面临断电危机】美国总统特朗普最新表示，他将把加拿大钢铁和铝商品的关税提高到50%，以报复安大略省对输往美国的电力征税的举动。在美国这轮关税政策实施之初，加拿大采取了一系列报复性措施，包括对从安大略省输往明尼苏达州、纽约州和密歇根州的电力征收25%的附加费。安省省长威胁称，如果美国升级关税措施，将毫不犹豫地完全切断对美国的电力供应。加拿大联邦政府还对美国橙汁、鞋类和摩托车等商品征收关税。与之相对的，特朗普回应称将宣布该地区进入全国电力紧急状态，并承诺此举将使美国“迅速采取必要措施，减轻来自加拿大的滥用威胁”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8409863.d.html</link>
+            <guid>4075424</guid>
+            <pubDate>Tue, 11 Mar 2025 14:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3月11日增减持汇总】据统计，3月11日，包括陕西能源、邦基科技在内的2家A股上市公司披露增持情况。殷图网联、天地数码、中兰环保、润普食品、巨星农牧、永辉超市、容大感光、西典新能、江苏神通、正帆科技、禾川科技等11家公司披露减持情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8409308.d.html</link>
+            <guid>4075423</guid>
+            <pubDate>Tue, 11 Mar 2025 14:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD日内涨幅达0.50%，现报1.4511。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2385822.d.html</link>
+            <guid>4075422</guid>
+            <pubDate>Tue, 11 Mar 2025 14:43:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：03月11日22时08分在巴西（南纬10.50度，西经70.60度）发生5.7级地震，震源深度670千米。]]></title>
+            <guid>4075421</guid>
+            <pubDate>Tue, 11 Mar 2025 14:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西南航空盘初一度涨超16% 推出改革措施 将结束免费托运行李政策】 西南航空(LUV.US)盘初一度涨超16%，最高触及32.7美元。消息面上，西南航空宣布将结束标志性的免费托运两件行李政策，推出旨在推动收入增长和奖励最忠诚客户的改革措施。该航司将于5月底左右开始对部分客户的第一和第二件托运行李收费，这些客户不包括快速奖励A-List优先会员、A-List会员或特定公务舱旅客。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2385607.d.html</link>
+            <guid>4075420</guid>
+            <pubDate>Tue, 11 Mar 2025 14:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一汽奥迪与中升控股签署战略合作协议 今年计划新建至少10家销售网点】3月11日，一汽奥迪与中升控股签署战略合作协议，双方将在经销商网络发展、新能源业务协同、创新模式试点、用户体验提升等领域展开合作。根据协议，双方计划在2025年前新建至少10家销售网点，并在新能源发展、新业务场景落地等方面展开合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5183494.d.html</link>
+            <guid>4075418</guid>
+            <pubDate>Tue, 11 Mar 2025 14:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电投产融：拟通过资产置换和发行股份购买国电投核能有限公司100%股权】电投产融(000958.SZ)公告，公司拟通过资产置换和发行股份方式购买国电投核能有限公司100%股权，同时置出国家电投集团资本控股有限公司100%股权，并募集配套资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8408767.d.html</link>
+            <guid>4075417</guid>
+            <pubDate>Tue, 11 Mar 2025 14:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普威胁要让加拿大汽车业“永久关闭”，欧洲汽车股普跌。斯泰兰蒂斯Stellantis跌5.59%，戴姆勒卡车跌5.04%，法雷奥、沃尔沃（B类股+A类股）至多跌4.3%。德国大众汽车、保时捷、梅赛德斯奔驰集团至多跌2.93%。]]></title>
+            <guid>4075416</guid>
+            <pubDate>Tue, 11 Mar 2025 14:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Jolts报告后现货黄金价格走高】Jolts报告后黄金价格维持在盘中高点附近。截止发稿，现货黄金突破2920美元/盎司，短线拉升近10美元，日内涨1.11%。周二公布的职位空缺与劳动力流动报告（Jolts）显示美国职位空缺增加。具体数据显示，1月份空缺职位数从修正后的751万提高至774万，接受调查的经济学家预估中值为760万。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5183024.d.html</link>
+            <guid>4075415</guid>
+            <pubDate>Tue, 11 Mar 2025 14:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keybanc维持甲骨文200.00美元/股的目标价。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5182975.d.html</link>
+            <guid>4075414</guid>
+            <pubDate>Tue, 11 Mar 2025 14:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员加大对美联储降息的押注，此前职位空缺数据公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8408379.d.html</link>
+            <guid>4075413</guid>
+            <pubDate>Tue, 11 Mar 2025 14:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国股市继续下跌，标普500指数下跌1.00%，道琼斯工业平均指数日内跌1.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5182860.d.html</link>
+            <guid>4075412</guid>
+            <pubDate>Tue, 11 Mar 2025 14:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元斯托克股票波动率上升，因关税消息触及7个月新高，涨0.7至24.6点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9394928.d.html</link>
+            <guid>4075411</guid>
+            <pubDate>Tue, 11 Mar 2025 14:37:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：维持此前预测，预计2024年第三季度伦敦金属交易所（LME）三个月期铜价将平均为每吨10,200美元。]]></title>
+            <guid>4075410</guid>
+            <pubDate>Tue, 11 Mar 2025 14:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大安大略省省长：安大略省和加拿大将不会退让，直到总统特朗普的关税永久消失。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9394701.d.html</link>
+            <guid>4075409</guid>
+            <pubDate>Tue, 11 Mar 2025 14:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海浦东新区气象台发布大雾黄色预警信号】上海浦东新区气象台2025年03月11日22时30分发布大雾黄色预警信号：预计今天夜间到明天早晨本区大部分街镇将出现能见度小于500米的雾，局部地区小于200米，请注意防范低能见度对道路交通的不利影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5182487.d.html</link>
+            <guid>4075408</guid>
+            <pubDate>Tue, 11 Mar 2025 14:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：预计在实际征收关税之前，美国物价将上涨】高盛：预计在实际征收关税之前，美国物价将上涨，这将导致未来几个月美国铜的净进口增加50%-100%，并预计到第三季度末，美国铜库存将上升20万至30万吨。2025年全球铜市场将出现18万吨的供应缺口，这主要受电气化需求强劲以及矿产供应增长放缓的影响。由于季节性因素，供应缺口将在下半年集中出现。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5182262.d.html</link>
+            <guid>4075407</guid>
+            <pubDate>Tue, 11 Mar 2025 14:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普威胁要让加拿大汽车业“永久关闭”】美国总统特朗普表示，他将在4月2日大幅提高进口汽车的关税。特朗普在Truth Social发帖称，加拿大必须取消“长期存在的恶劣关税”，特朗普还呼吁加拿大“立即取消对各种美国乳制品250%至390%的反美关税”。加元应声走弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5182246.d.html</link>
+            <guid>4075406</guid>
+            <pubDate>Tue, 11 Mar 2025 14:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在特朗普发出最新关税威胁后，通用汽车股价下跌3.6%，福特股价下跌2.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5182176.d.html</link>
+            <guid>4075405</guid>
+            <pubDate>Tue, 11 Mar 2025 14:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国海诚签约嘉吉粮油（江苏）有限公司绿洲项目】 近日，中国海诚成功签约嘉吉粮油（江苏）有限公司绿洲项目。该项目作为目前嘉吉在全球最大的投资项目，建成后将形成每日6000吨大豆预处理及浸出的生产能力和每日1200吨精炼油的生产能力。项目位于江苏省海门市，总占地面积近400亩，建设内容包括精炼车间、氢化车间、各类罐区、包装车间、各类仓库、污水处理站等。（中国海诚官微）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2384233.d.html</link>
+            <guid>4075404</guid>
+            <pubDate>Tue, 11 Mar 2025 14:34:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国将进入电力国家紧急状态】特朗普还称，他将宣布美国进入电力国家紧急状态。 他还敦促加拿大立即取消对美国乳制品征收的“250%至390%的‘反美国农民关税’”。特朗普当地时间2月10日正式宣布“对所有进口的钢铁和铝征收25%的关税”，同时取消对部分贸易伙伴的钢铝免税配额和豁免政策。根据美国政府和美国钢铁协会的数据，美国最大的钢铁进口源是加拿大。按重量计算，加拿大占美国企业进口钢铁的近四分之一。加拿大还是美国最大的初级铝金属供应商。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9394297.d.html</link>
+            <guid>4075403</guid>
+            <pubDate>Tue, 11 Mar 2025 14:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟委员会推出新的药品短缺法案以推动药品生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5181902.d.html</link>
+            <guid>4075401</guid>
+            <pubDate>Tue, 11 Mar 2025 14:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[匈牙利央行呼吁针对CPI采取紧缩的货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9394020.d.html</link>
+            <guid>4075400</guid>
+            <pubDate>Tue, 11 Mar 2025 14:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国1月份职位空缺增加 反映雇主的用工需求稳定】美国1月职位空缺增加，表明随着特朗普政府上台，雇主的劳动力需求仍然稳定。美国劳工统计局周二公布的月度数据显示，1月份空缺职位数从修正后的751万提高至774万，接受调查的经济学家预估中值为760万。增加的职位空缺主要来自金融、零售贸易和建筑业。尽管过去三年职位空缺呈下降趋势，但仍高于疫情前的平均水平，表明雇主仍在寻求招聘。但近期的数据报告显示，由于特朗普经济政策的不确定性，上个月劳动力市场放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5181459.d.html</link>
+            <guid>4075398</guid>
+            <pubDate>Tue, 11 Mar 2025 14:30:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源公司首席执行官：我们需要在欧洲开启有关二氧化碳定价的辩论。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8406723.d.html</link>
+            <guid>4075397</guid>
+            <pubDate>Tue, 11 Mar 2025 14:29:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金属板块股价上涨 汽车股下跌 特朗普称将提高对加拿大的关税】铝和钢铁生产商股价上涨，汽车股下跌，特朗普表示他将把自加拿大进口的钢铁和铝的关税提高到50%。世纪铝业一度上涨9.6%。Stellantis跌3.3%，福特跌1.6%，通用汽车跌1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9393388.d.html</link>
+            <guid>4075396</guid>
+            <pubDate>Tue, 11 Mar 2025 14:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陕国投与中国银行陕西省分行签署全面战略合作协议】据陕国投信托官微，3月10日，公司党委书记、董事长姚卫东与到访的中国银行陕西省分行党委书记、行长蒙震一行，就深化金融领域合作开展交流座谈并签署全面战略合作协议。座谈中，姚卫东表示，希望此次战略合作聚焦重点方向，通过品牌联合提升服务影响力，依托客户资源互通实现精准服务，深化产品创新满足区域特色需求，为实体经济发展注入新动能。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8406438.d.html</link>
+            <guid>4075395</guid>
+            <pubDate>Tue, 11 Mar 2025 14:27:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【如何看待存储市场涨价趋势？江波龙回应】关于“如何看待存储市场涨价趋势”的问题，江波龙在机构调研时表示，展望2025年，云服务提供商对AI硬件的持续投资，将推动对高性能计算和存储硬件的需求，服务器领域的高速、大容量存储产品需求仍有望保持增长。随着AI大模型技术在智能终端本地化和定制化应用的加速，智能终端设备处理能力与数据存储需求显著提升，单机存储容量不断增长，同时，AI大模型与智能终端设备结合愈发紧密，应用场景不断扩展和细化，推动智能终端市场的中长期存储需求持续增长。根据公开报道，多家存储晶圆原厂已宣布产能调整计划，积极调控产能以适应市场需求变化。随着终端库存水位逐渐恢复正常，供需关系将逐步改善，价格回升趋势将在行业供需博弈中逐步建立。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8406399.d.html</link>
+            <guid>4075394</guid>
+            <pubDate>Tue, 11 Mar 2025 14:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汽车制造商斯特兰蒂斯股票继续下跌，跌幅达5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5180788.d.html</link>
+            <guid>4075393</guid>
+            <pubDate>Tue, 11 Mar 2025 14:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“美联储传声筒”NickTimiraos：美国1月职位空缺人数略有上升，此前一直在下降的建设和制造业职位空缺，在1月份有所回升。不过，1月私营部门就业市场波动变化很小，招聘和裁员一直保持稳定。]]></title>
+            <guid>4075392</guid>
+            <pubDate>Tue, 11 Mar 2025 14:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指跌势持续扩大，道指跌超1%，标普500指数跌0.72%，纳指跌0.45%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5180653.d.html</link>
+            <guid>4075391</guid>
+            <pubDate>Tue, 11 Mar 2025 14:26:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大股指转跌，逼近24360点，脱离美国职位空缺数据发布后、特朗普将加拿大钢铝关税翻倍至50%之前刷新的日高24493.46点。]]></title>
+            <guid>4075390</guid>
+            <pubDate>Tue, 11 Mar 2025 14:25:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【禾赛暴涨超43% 创近三年新高 获海外前装量产激光雷达领域最大规模订单】 禾赛暴涨超43%，最高触及22.92美元，创近三年新高。消息面上，禾赛宣布，与一家欧洲领先主机厂达成了具有里程碑意义的多年独家定点合作，为其下一代汽车平台提供高性能超远距激光雷达，覆盖其燃油车和新能源汽车的多款车型。这是一个跨越2030年的多年长期合作项目，也是至今为止海外前装量产激光雷达领域规模最大的订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8406020.d.html</link>
+            <guid>4075389</guid>
+            <pubDate>Tue, 11 Mar 2025 14:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国原铝生产商世纪铝业股价上涨7.8%，美国铝业上涨1.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8405780.d.html</link>
+            <guid>4075388</guid>
+            <pubDate>Tue, 11 Mar 2025 14:24:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杨德龙：全球股市呈现“东升西落”特征；2025年我国资本市场将会迎来牛市第二波、第三波行情】前海开源杨德龙认为，全球股市呈现“东升西落”特征。从资本流向来看，今年很明显，那就是从美股流出，进入到A股、港股等市场进行布局。A股和港股今年以来开启的这轮“科技牛”行情是有深刻的背后逻辑的，并不能理解为短期炒作。A股表现最好的是以人形机器人为代表的AI板块，DeepSeek、Manus等大模型先后出炉，引发全球资本对于中国资产重估的积极期待。过去几年美股持续上涨，而A股和港股持续回落，估值差距拉到了三倍以上。这个世界上没有只涨不跌的市场，也没有只跌不涨的市场。另外，A股这轮科技牛行情已然启动，科技牛行情产生了赚钱效应，将会吸引场外资金入场，推动存款搬家；另一方面也会形成扩散效应，一些滞涨的板块也有估值修复的机会。2025年我国资本市场将会迎来牛市第二波、第三波行情，建议大家可以通过积极布局优质股票或者优质基金来抓住这轮行情的机会。]]></title>
+            <guid>4075387</guid>
+            <pubDate>Tue, 11 Mar 2025 14:23:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国职位空缺数据发布后，美国10年期国债收益率涨至4.2569%刷新日高，随后回吐涨幅并转跌，目前大致持平，报4.2130%。]]></title>
+            <guid>4075386</guid>
+            <pubDate>Tue, 11 Mar 2025 14:23:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通跨资产解决方案策略团队全球主管David Lebovitz：虽然我的团队将美国经济衰退概率从15%提高至20%，但我仍然准备抄底（逢低买入）。]]></title>
+            <guid>4075385</guid>
+            <pubDate>Tue, 11 Mar 2025 14:23:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普再提：让加拿大成为美国第51个州】特朗普最新宣布对加拿大所有钢铁和铝产品增收额外的25%关税，使总关税水平至50%，同时威胁称，如果加拿大不同样取消其他令人震惊的长期关税，将在4月2日大幅提高进入美国的汽车关税。除此之外，他提及，加拿大在国家安全方面的支出很少，主要依靠美国的军事保护，美国每年向加拿大提供2000多亿美元的补贴。要让这种情况持续下去，唯一有意义的事情就是让加拿大成为美国的第51州。这将使所有关税和其他一切都完全消失。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2381948.d.html</link>
+            <guid>4075384</guid>
+            <pubDate>Tue, 11 Mar 2025 14:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：埃森哲将收购Soben，以提高数据中心开发和其他领域的资本项目能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2381702.d.html</link>
+            <guid>4075383</guid>
+            <pubDate>Tue, 11 Mar 2025 14:21:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞士日内瓦机场发生重大信息技术故障 航班出现延误】当地时间3月11日中午，瑞士日内瓦机场出现重大信息技术故障，除空中导航系统外，机场几乎所有基础设施都受到影响：没有Wi-Fi，机场信息显示屏黑屏，商店收银机无法工作，进出日内瓦机场的航班也出现了延误。目前机场没有透露故障原因。机场发言人向当地媒体表示，系统已开始逐步恢复，但航班延误仍会持续。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8405185.d.html</link>
+            <guid>4075382</guid>
+            <pubDate>Tue, 11 Mar 2025 14:21:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：恢复持续低通胀需要较长时间的高利率。预算政策的正常化将在未来几个月中更加明显，这对于减缓通胀将至关重要。]]></title>
+            <guid>4075381</guid>
+            <pubDate>Tue, 11 Mar 2025 14:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧股尾盘跌势扩大，德国DAX指数跌0.83%，英国富时100指数跌1.02%，法国CAC40指数跌0.98%，欧洲斯托克50指数跌1%。]]></title>
+            <guid>4075380</guid>
+            <pubDate>Tue, 11 Mar 2025 14:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国贸促会会长任鸿斌赴中国交通建设集团有限公司调研】中国贸促会会长任鸿斌赴中国交通建设集团有限公司调研，与中交集团董事长王彤宙及公司相关负责人进行座谈，双方就推动中国企业开拓国际市场、参与多边经济治理、深化产业链供应链国际合作等议题深入交流。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5179418.d.html</link>
+            <guid>4075379</guid>
+            <pubDate>Tue, 11 Mar 2025 14:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加元跌至盘中低点 特朗普称将再上调对加拿大钢和铝的关税】纽约早盘加元兑美元跌至盘中低点，此前特朗普表示将对加拿大的钢和铝的关税提高至50%。美元/加元一度上涨0.4%至1.4502的日间高点，为3月4日以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2381258.d.html</link>
+            <guid>4075378</guid>
+            <pubDate>Tue, 11 Mar 2025 14:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：因对（加拿大对美国征收的）25%电力关税采取报复措施，将（对加拿大）征收额外关税。]]></title>
+            <guid>4075377</guid>
+            <pubDate>Tue, 11 Mar 2025 14:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普助手认为美联储理事鲍曼在担任联邦最高银行监管官员的竞争中处于领先地位。]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5178668.d.html</link>
             <guid>4075376</guid>
             <pubDate>Tue, 11 Mar 2025 14:16:15 GMT</pubDate>
@@ -45,7 +517,7 @@
             <pubDate>Tue, 11 Mar 2025 14:13:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普：将对来自加拿大的所有钢铁和铝产品增收额外的25%关税，总关税水平至50%】特朗普在社交媒体Truth上表示：“根据加拿大安大略省对进入美国的“电力”征收25%的关税，我已指示我的商务部长对从加拿大进入美国的所有钢铁和铝征收额外的25%关税，使关税水平至50%，这将于明天早上，即3月12日生效。此外，加拿大必须立即取消对各种美国乳制品征收的250%至390%的反美国农民关税，这一直被认为是令人发指的。我将很快宣布受威胁地区进入全国电力紧急状态。这将使美国能够迅速采取必须采取的措施，减轻来自加拿大的滥用威胁。如果加拿大不同样取消其他令人震惊的长期关税，我将在4月2日大幅提高进入美国的汽车关税，这将从根本上永久关闭加拿大的汽车制造业。”]]></title>
+            <title><![CDATA[【特朗普：将对来自加拿大的所有钢铁和铝产品增收额外的25%关税，总关税水平至50%】特朗普在社交媒体Truth Social上表示：“根据加拿大安大略省对进入美国的“电力”征收25%的关税，我已指示我的商务部长对从加拿大进入美国的所有钢铁和铝征收额外的25%关税，使关税水平至50%，这将于明天早上，即3月12日生效。此外，加拿大必须立即取消对各种美国乳制品征收的250%至390%的反美国农民关税，这一直被认为是令人发指的。我将很快宣布受威胁地区进入全国电力紧急状态。这将使美国能够迅速采取必须采取的措施，减轻来自加拿大的滥用威胁。如果加拿大不同样取消其他令人震惊的长期关税，我将在4月2日大幅提高进入美国的汽车关税，这将从根本上永久关闭加拿大的汽车制造业。”]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5178165.d.html</link>
             <guid>4075370</guid>
             <pubDate>Tue, 11 Mar 2025 14:12:55 GMT</pubDate>
@@ -106,498 +578,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5176228.d.html</link>
             <guid>4075359</guid>
             <pubDate>Tue, 11 Mar 2025 14:03:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普威胁要“永久关闭”加拿大汽车业。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8401588.d.html</link>
-            <guid>4075358</guid>
-            <pubDate>Tue, 11 Mar 2025 14:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        美元兑加元最新报1.4502，日内涨0.43%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2377924.d.html</link>
-            <guid>4075357</guid>
-            <pubDate>Tue, 11 Mar 2025 14:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普：将把对加拿大钢和铝的关税提高到50% 于隔日（3月12日）上午立即生效】美国总统特朗普表示，鉴于加拿大安大略省决定对输美电力征收25%的关税，已指示美国商务部长对来自加拿大的所有钢铁和铝产品增收额外的25%关税，使总关税水平达到50%。于隔日（3月12日）上午立即生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8401158.d.html</link>
-            <guid>4075355</guid>
-            <pubDate>Tue, 11 Mar 2025 14:01:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据公布后，标普500指数走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8401100.d.html</link>
-            <guid>4075354</guid>
-            <pubDate>Tue, 11 Mar 2025 14:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线上扬10点，现报103.48。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8400987.d.html</link>
-            <guid>4075353</guid>
-            <pubDate>Tue, 11 Mar 2025 14:01:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：随着特朗普誓言的改变，海军造船被称为太慢，成本太高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9387419.d.html</link>
-            <guid>4075352</guid>
-            <pubDate>Tue, 11 Mar 2025 14:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯工业平均指数最新报41581.28，日内跌0.79%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9387345.d.html</link>
-            <guid>4075351</guid>
-            <pubDate>Tue, 11 Mar 2025 14:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国1月JOLTs职位空缺 774万人，预期763万人，前值由760万人修正为750.8万人。]]></title>
-            <guid>4075350</guid>
-            <pubDate>Tue, 11 Mar 2025 14:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西国家石油公司：公司正在关注阿根廷的机遇。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9387215.d.html</link>
-            <guid>4075349</guid>
-            <pubDate>Tue, 11 Mar 2025 13:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军空袭加沙地带中部 致5人死亡】巴勒斯坦通讯社当地时间3月11日报道称，以色列军队当天对加沙地带中部进行空袭，造成5人死亡。以色列国防军表示，当天以军在加沙地带中部发现几名可疑人员，对以军构成安全威胁，以军对其展开空袭。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5175237.d.html</link>
-            <guid>4075348</guid>
-            <pubDate>Tue, 11 Mar 2025 13:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亿咖通宣布2024年Q4实现全面盈利，并加速推进全球化战略】 3月11日，全球出行科技企业亿咖通科技发布2024年第四季度及全年业绩报告。得益于销售规模的扩大和经营效率的持续提升，四季度实现全面盈利，赢得大众集团全球车型项目定点，携手一汽红旗战略合作逐步落地，全球业务取得重大突破性进展，夯实了为全球头部整车品牌提供技术领先兼具成本效益方案的坚实基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8400463.d.html</link>
-            <guid>4075347</guid>
-            <pubDate>Tue, 11 Mar 2025 13:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普关税引发华尔街恐慌 加快减税步伐势在必行】随着美国总统唐纳德·特朗普的关税措施令市场陷入一片混乱，他本人面临的压力也与日俱增，需要加快推进其提振经济的主要提案：全面税收法案。寻求对贸易和公共支出进行大刀阔斧的改革之际，特朗普团队也开始强调经济短期内难免经历阵痛。减税可以让消费者的可支配收入增加，可能有助于减轻冲击。理想情况下，政治盟友们有望在7月底前通过一项法案，但也存在诸多障碍。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicec5174965.d.html</link>
-            <guid>4075346</guid>
-            <pubDate>Tue, 11 Mar 2025 13:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国防部：在别尔哥罗德州击落一架乌克兰无人机】3月11日，俄罗斯国防部通报，莫斯科时间当天15时15分（北京时间20时15分）左右，俄军防空部队在别尔哥罗德州上空摧毁一架乌克兰无人机。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9386889.d.html</link>
-            <guid>4075345</guid>
-            <pubDate>Tue, 11 Mar 2025 13:57:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【禾川科技：部分董监高拟减持公司合计不超2.57%股份】 禾川科技公告，公司持股7.23%的董事、副总经理项亨会以及持股3.04%的董事、总经理徐晓杰因个人自身资金需求拟通过集中竞价或大宗交易的方式分别减持所持公司股份不超1.81%、0.76%。上述减持主体拟减持股份合计不超2.57%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8400236.d.html</link>
-            <guid>4075344</guid>
-            <pubDate>Tue, 11 Mar 2025 13:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数日内跌幅达1.0%，报540.62点。欧元区STOXX 50指数日内跌幅达0.5%，报5358.04点。]]></title>
-            <guid>4075342</guid>
-            <pubDate>Tue, 11 Mar 2025 13:55:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首都在线云平台上线OpenManus模型镜像】 近期，AI产品Manus因其强大的任务执行能力引起全球AI行业的热议。处于内测阶段时邀请码已被炒至高价的现象，凸显了市场对通用型AI智能体的迫切需求。在Manus热度高涨时，MetaGPT团队迅速响应，仅用3小时便完成了开源复刻版OpenManus的开发，允许用户无须邀请码即可创建自定义AI智能体。今日，首都在线云平台上线了OpenManus模型镜像，为开发者提供高效、便捷的部署环境，进一步推动AI智能体技术的普及与创新。（人民财讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccz8399776.d.html</link>
-            <guid>4075340</guid>
-            <pubDate>Tue, 11 Mar 2025 13:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国和乌克兰会谈在休息后重新开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepicef2376196.d.html</link>
-            <guid>4075339</guid>
-            <pubDate>Tue, 11 Mar 2025 13:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数上涨0.7%，至盘中高点，标普500指数涨0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inepiccx9385921.d.html</link>
-            <guid>4075338</guid>
-            <pubDate>Tue, 11 Mar 2025 13:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 特斯拉涨超6%，昨日收跌超15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9516377.d.html</link>
-            <guid>4075337</guid>
-            <pubDate>Tue, 11 Mar 2025 13:51:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达涨超3.6% 市场焦点转向本月的GTC大会】 英伟达盘初拉升，涨超3.6%，报110.84点。消息面上，英伟达一年一度的GTC大会将于3月17日至21日召开，本届GTC将聚焦新一代AI芯片架构、多模态大模型优化、数字孪生与机器人技术三大主线，黄仁勋届时将发表主题演讲。Rosenblatt分析师Kevin Cassidy表示，市场焦点已转向GTC，预计此次大会将带来关于英伟达技术发展及AI推理新应用的更新，进一步激发市场热情。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9516287.d.html</link>
-            <guid>4075336</guid>
-            <pubDate>Tue, 11 Mar 2025 13:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际长期投资者正在重返中国市场 估值和基本面将成为外资买入的主要评估因素】知情人士对媒体透露，一些以“只做多头”（long only)闻名的国际机构在过去一周进入香港股市，买入了比亚迪以及蜜雪冰城的股票，以及百度新发的可交换携程股份的债券。有分析师强调，中国公司的估值和基本面将成为外资买入的主要评估因素。高盛也指出，本轮中国股市的上涨基于创新，加上中国监管的可预见性，涨势将更加持久。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8529760.d.html</link>
-            <guid>4075335</guid>
-            <pubDate>Tue, 11 Mar 2025 13:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普签署行政令 授权地方和个人应对灾难】当地时间3月11日，美国总统特朗普签署行政命令，恢复州、地方和个人在灾难准备和响应方面的权力。此前，2月11日，特朗普称，联邦紧急事务管理局行动缓慢且完全无效，应该被解散。特朗普称，各州应自行处理风暴等灾害问题，这样能节省大量资金，更加高效。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8529693.d.html</link>
-            <guid>4075334</guid>
-            <pubDate>Tue, 11 Mar 2025 13:50:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【合富中国：2024年净利润2756.63万元，同比下降41.58%】 合富中国公告，2024年营业收入9.39亿元，同比下降14.05%。归属于上市公司股东的净利润2756.63万元，同比下降41.58%。拟向全体股东按每10股派发现金股利0.5元（含税），预计共派发1990.26万元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9516066.d.html</link>
-            <guid>4075333</guid>
-            <pubDate>Tue, 11 Mar 2025 13:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场分析：经济担忧推动美元指数走低，或跌破100关口】今日，美国经济焦虑情绪推动美元对一篮子主要货币下跌至五个月低点。美元指数触及自10月中旬以来的最低水平，一度下跌0.5%至103.329。杰富瑞的分析师布拉德·贝切尔对客户表示：“我们知道这里的套路，美国增长担忧让我们（美指）跌至100，通胀担忧又让我们回升至108。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5304150.d.html</link>
-            <guid>4075332</guid>
-            <pubDate>Tue, 11 Mar 2025 13:49:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港投资推广署：香港以开放的姿态迎接全球的“老钱”和“新钱”】 日前，香港投资推广署家族办公室环球总裁方展光在接受中国基金报独家采访时表示，家办的核心在于“传承”。香港以开放的姿态迎接全球的“老钱”和“新钱”。截至目前，香港吸引了不少来自加拿大、德国、瑞士、澳大利亚、西班牙、美国和英国等“老钱”地区的家族办公室。下一步，香港将进一步吸引东盟和中东等地的家族来港开设家办。(中国基金报)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2505878.d.html</link>
-            <guid>4075331</guid>
-            <pubDate>Tue, 11 Mar 2025 13:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲股市跌势延续，斯托克600指数下跌1%，至2月6日以来的最低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2505685.d.html</link>
-            <guid>4075330</guid>
-            <pubDate>Tue, 11 Mar 2025 13:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉延续涨势，涨幅一度扩大至3.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2505215.d.html</link>
-            <guid>4075329</guid>
-            <pubDate>Tue, 11 Mar 2025 13:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约期金日内涨超1.00%，现报2928.70美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9515272.d.html</link>
-            <guid>4075328</guid>
-            <pubDate>Tue, 11 Mar 2025 13:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：美乌代表沙特会谈间隙，美代表透露会谈“进展顺利”】 当地时间11日，美乌高级别代表团在沙特吉达开始会谈。据美国有线电视新闻网 (CNN)最新消息，在会谈休息期间，美国国务卿鲁比奥和华尔兹走出会场，CNN记者向他们询问会谈进展如何时，华尔兹回答说，“进展顺利”。据悉，参加会谈的美方代表包括美国国务卿鲁比奥、美国总统国家安全事务助理华尔兹和美国中东问题特使威特科夫等。参加会谈的乌克兰代表包括乌克兰总统办公室主任叶尔马克、外交部长瑟比加和国防部长乌梅罗夫等。双方将讨论“制定和平协议和初步停火的框架”以及美乌矿产协议等问题。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5303442.d.html</link>
-            <guid>4075327</guid>
-            <pubDate>Tue, 11 Mar 2025 13:46:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场分析：美股迟来的调整或让市场恢复一些理智】在经历昨天的抛售后，美股今天开盘表现谨慎。金融服务提供商Trade Nation高级市场分析师戴维·莫里森表示：“股市继上周的消极表现之后，昨天又出现了抛售。然而，几乎没有什么真正的改变。非农就业数据表现良好，大多数经济数据都保持稳定。零售销售疲软，信心指标令人担忧。”“但就目前而言，美股的抛售看起来像是一次迟来的调整，可能会重新调整一些估值过高的股票，并让市场恢复一些理智。这并不是说没有危险。但如果投资者现在扩大投资组合，包括一些被忽视的标普成分股，减少了他们对‘瑰丽七股’的敞口，那么这也可能是一个短期机会。”至于下一步走势的潜在催化剂，今天有JOLTS职位空缺数据，明天有CPI，周四有PPI。除此之外，特朗普的关税威胁还在继续，应该会继续影响市场情绪。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5303345.d.html</link>
-            <guid>4075326</guid>
-            <pubDate>Tue, 11 Mar 2025 13:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大股指走势分化，道指跌幅扩大至0.46%，标普500指数与纳指翻红，现分别涨0.05%和0.5%。]]></title>
-            <guid>4075325</guid>
-            <pubDate>Tue, 11 Mar 2025 13:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳斯达克中国金龙指数日内涨幅扩大至4%】纳斯达克中国金龙指数日内涨幅扩大至4%。小鹏汽车涨超18%，金山云涨逾11%，蔚来、声网涨超9%，理想汽车、哔哩哔哩涨逾7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2504677.d.html</link>
-            <guid>4075324</guid>
-            <pubDate>Tue, 11 Mar 2025 13:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【美国光互连开发商Celestial AI完成2.5亿美元C1轮融资】 3月11日，美国芯片初创公司Celestial AI宣布完成2.5亿美元C1轮融资，本轮由富达管理与研究公司（FMR）领投，总融资金额已超5.15亿美元。除富达外，新投资者包括贝莱德旗下基金与账户、Maverick Silicon、老虎环球基金及陈立武（Lip-Bu Tan），现有投资者AMD Ventures、科氏工业旗下KDT、淡马锡及其全资子公司Xora Innovation、保时捷控股和The Engine Ventures也参与了本轮融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8528314.d.html</link>
-            <guid>4075323</guid>
-            <pubDate>Tue, 11 Mar 2025 13:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因部分岗位职责未实现有效分离等问题，银泰证券一营业部被监管出具警示函】3月11日，河北证监局发布公告表示，银泰证券唐山西山道证券营业部存在多个问题，具体来看，该营业部存在营销、合规风控与账户业务办理等不相容岗位部分职责未实现有效分离的情形。同时，未有效落实从业人员投资行为管理要求，未按要求申报从业人员及其配偶、利害关系人的场内证券投资行为。此外，该营业部未严格落实经纪人登记管理要求，证券经纪人登记执业地域与委托合同约定执业地域不一致。上述行为违反规定，河北证监局决定对该营业部采取出具警示函的行政监管措施，并记入证券期货市场诚信档案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9514626.d.html</link>
-            <guid>4075322</guid>
-            <pubDate>Tue, 11 Mar 2025 13:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨幅扩大至2%，现报32.72美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2504372.d.html</link>
-            <guid>4075321</guid>
-            <pubDate>Tue, 11 Mar 2025 13:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家税务总局连云港市税务局稽查局四级主办曹阳涉嫌严重违法，目前正接受连云港市海州区监委监察调查。（央视新闻）]]></title>
-            <guid>4075320</guid>
-            <pubDate>Tue, 11 Mar 2025 13:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民政部：四个机场获批命名、更名】 经中国民用航空局批准，根据《地名管理条例》规定，民政部今天发布以下四个机场命名、更名的公告：新建厦门机场命名为厦门翔安国际机场。新建乐山机场命名为乐山机场。井冈山机场更名为吉安井冈山机场。二连浩特赛乌素机场更名为二连浩特赛乌素国际机场。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2504078.d.html</link>
-            <guid>4075319</guid>
-            <pubDate>Tue, 11 Mar 2025 13:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Meta涨超1.5% 据称开始测试首款自研人工智能训练芯片】 Meta涨超1.5%，报607.1美元。消息面上，据报道Meta已开始测试其首款自主研发的人工智能训练芯片，标志着该公司向减少对英伟达等外部供应商依赖迈出了关键一步。据称，这款训练芯片是Meta训练与推理加速器系列的最新产品，由台积电负责生产。目前，这款芯片已进入小规模部署阶段，如测试顺利，Meta计划扩大生产规模以实现广泛应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5302249.d.html</link>
-            <guid>4075318</guid>
-            <pubDate>Tue, 11 Mar 2025 13:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金突破2920美元/盎司，短线拉升近10美元，日内涨1.11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8527549.d.html</link>
-            <guid>4075317</guid>
-            <pubDate>Tue, 11 Mar 2025 13:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[禾赛在美股飙升超25%，报道称公司向梅赛德斯供应激光雷达传感器。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5302008.d.html</link>
-            <guid>4075316</guid>
-            <pubDate>Tue, 11 Mar 2025 13:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[T-Mobile公司股价下跌3.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9513591.d.html</link>
-            <guid>4075315</guid>
-            <pubDate>Tue, 11 Mar 2025 13:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        Nymex美原油期货主力最新报67.07美元/桶，日内涨1.58%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8527247.d.html</link>
-            <guid>4075314</guid>
-            <pubDate>Tue, 11 Mar 2025 13:40:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克中国金龙指数涨幅扩大至3.6%，小鹏汽车(XPEV.N)迅速拉升涨超15%，蔚来汽车(NIO.N)涨9.7%，Boss直聘(BZ.N)涨7.5%，理想汽车(LI.O)涨6.89%。]]></title>
-            <guid>4075313</guid>
-            <pubDate>Tue, 11 Mar 2025 13:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金日内涨超1.00%，现报2917.02美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8526720.d.html</link>
-            <guid>4075312</guid>
-            <pubDate>Tue, 11 Mar 2025 13:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[甲骨文股价下跌6.7%，至六个月低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9512559.d.html</link>
-            <guid>4075311</guid>
-            <pubDate>Tue, 11 Mar 2025 13:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        纳斯达克指数最新报17502.47，日内涨0.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8526453.d.html</link>
-            <guid>4075310</guid>
-            <pubDate>Tue, 11 Mar 2025 13:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：预计沙特阿拉伯政府将在2025年削减资本支出及相关的经常性支出。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8526391.d.html</link>
-            <guid>4075309</guid>
-            <pubDate>Tue, 11 Mar 2025 13:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯托克欧洲600指数跌幅扩大至1%，为盘中低点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8526283.d.html</link>
-            <guid>4075308</guid>
-            <pubDate>Tue, 11 Mar 2025 13:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉(TSLA.O)盘初涨1.1%，昨日一度收跌逾15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5300781.d.html</link>
-            <guid>4075307</guid>
-            <pubDate>Tue, 11 Mar 2025 13:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：随着沙特阿美（ARAMCO）股息正常化，沙特阿拉伯的赤字将扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9512212.d.html</link>
-            <guid>4075306</guid>
-            <pubDate>Tue, 11 Mar 2025 13:36:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰与美国官员在沙特第一轮会谈结束】总台记者当地时间3月11日获悉，乌克兰与美国官员在沙特吉达的第一轮会谈已经结束。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5300584.d.html</link>
-            <guid>4075305</guid>
-            <pubDate>Tue, 11 Mar 2025 13:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空股价下跌5.7%，因公司将第一季度盈利预期下调至原来的50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5300404.d.html</link>
-            <guid>4075303</guid>
-            <pubDate>Tue, 11 Mar 2025 13:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福建莆田东吴港区2月货物吞吐量同比增长29.72%】 福建湄洲湾北岸东吴港区八方作业区泊位码头一片繁忙景象。一艘载有1.7万吨煤炭的“水晶翡翠”轮正准备驶往日本海米卡瓦港。东吴港区拥有罗屿、八方、国投湄洲湾煤炭码头三大散货码头，以及福建省最大大宗散货保税堆场。依托“水水中转、海铁联运、水陆联运”体系，东吴港区已与20余个国家和地区的40多个港口建立航线，成为连接国内国际双循环的重要枢纽。东吴港务站统计数据显示，2025年2月，东吴港区完成货物吞吐量474.16万吨，同比增长29.72%。其中，铁矿石装卸量达245.19万吨，同比激增81.58%；集疏运体系表现亮眼，水水中转货物186.42万吨，同比增长90.92%；海铁联运货物94.98万吨，同比增长13.77%。东吴港务站站长林明臻表示，这一成绩得益于边检、港务等多部门协同保障，以及企业作业效率的持续提升。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8525547.d.html</link>
-            <guid>4075301</guid>
-            <pubDate>Tue, 11 Mar 2025 13:32:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西南航空股价上涨16%】西南航空股价上涨16%，创2020年11月以来最大涨幅。该公司将结束标志性的免费托运两件行李政策，推出旨在推动收入增长和奖励最忠诚客户的改革措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9511145.d.html</link>
-            <guid>4075300</guid>
-            <pubDate>Tue, 11 Mar 2025 13:31:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热门中概股开盘普涨 纳斯达克中国金龙指数涨近2%】热门中概股开盘普涨，纳斯达克中国金龙指数涨近2%。小鹏汽车涨逾10%，蔚来涨超6%，理想汽车、阿里巴巴涨超4%，网易、百度涨逾2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9510980.d.html</link>
-            <guid>4075299</guid>
-            <pubDate>Tue, 11 Mar 2025 13:31:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝丰能源：2024年净利润63.38亿元 同比增长12.16%】 宝丰能源发布2024年年度报告，2024年实现营业收入329.83亿元，同比增长13.21%；净利润63.38亿元，同比增长12.16%；基本每股收益0.87元。公司拟向中小股东每股派发现金红利0.4598元，大股东每股派发现金红利0.3891元。因公司拟向宁夏燕宝慈善基金会以现金方式捐赠，用于以捐资助学为主的公益慈善事业，为了维护中小股东的利益，公司按照报告期内实际捐赠额及中小股东持股比例计算了中小股东分担的捐赠额，并由大股东以本次分配的现金股利全额予以补偿。报告期内公司聚烯烃产能、产销量同比增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2500833.d.html</link>
-            <guid>4075298</guid>
-            <pubDate>Tue, 11 Mar 2025 13:31:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【惠誉：美国债务购买者因信用卡余额上升迎来增长机遇】 惠誉评级报告显示，美国消费者信贷上升，尤其是信用卡余额增加，导致坏账率上升，推动了不良贷款（NPL）供应增长，为美国债务购买者提供了更多机会。 2025年，债务购买者预计将维持强劲的组合购买势头，延续近年来的健康增长趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8525111.d.html</link>
-            <guid>4075297</guid>
-            <pubDate>Tue, 11 Mar 2025 13:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开跌0.15%，标普500指数跌0.2%，纳指跌0.16%】特斯拉微涨近1%，该股昨日大跌超15%。达美航空跌近3%，公司将第一季度盈利预期下调至原来的50%。捷蓝航空涨超3%，该公司维持第一季度单位营收预期不变。甲骨文跌近3%，因公司第三季度营收未达预期。加密货币相关股票普涨，Coinbase涨超3%，Strategy涨超2%。柯尔百货跌超13%，公司Q4净销售额51.75亿美元，同比下滑9.4%，可比销售额下滑6.7%。极氪涨超9%，极氪9X将在4月上海车展正式亮相。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2500660.d.html</link>
-            <guid>4075296</guid>
-            <pubDate>Tue, 11 Mar 2025 13:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日经：日本GPIF决定不提高投资组合中的股票比率】据报道，日本政府养老金投资基金(GPIF)决定在2025财年及之后不提高股票投资比例。报道未说明消息来源。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5299518.d.html</link>
-            <guid>4075295</guid>
-            <pubDate>Tue, 11 Mar 2025 13:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西交利物浦大学团队在抗量子密码领域破译200维难题】11日，江苏省金融学会、西交利物浦大学和量子金融安全国家重点研发项目三方联合发布重大研究成果：西浦数学物理学院院长丁津泰教授领衔的研究团队在全球知名的抗量子密码学领域比赛“国际公开Darmstadt格最短向量（SVP）挑战赛”中破译200维难题。 西浦执行校长席酉民教授在发布活动致辞中指出，这一成果是抗量子密码领域的重大突破，为全球网络安全和数字基础设施建设提供了重要支持。(新华网)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9509827.d.html</link>
-            <guid>4075294</guid>
-            <pubDate>Tue, 11 Mar 2025 13:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中远海运重工总经理姜季江履新中国融通集团副总经理】3月11日，中国融通集团官网显示，此前担任中远海运重工有限公司总经理、党委副书记的姜季江，现已履新中国融通资产管理集团有限公司副总经理、党组成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5298018.d.html</link>
-            <guid>4075293</guid>
-            <pubDate>Tue, 11 Mar 2025 13:24:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Stellantis旗下四家意大利车企将为2026年冬奥会提供车辆】当地时间3月11日，Stellantis与2026米兰-科尔蒂纳基金会宣布达成合作协议，Stellantis与旗下四家意大利车企成为2026年米兰科尔蒂纳冬奥会和冬残奥会的汽车高级合作伙伴。根据协议，Stellantis旗下阿尔法·罗密欧、菲亚特、蓝旗亚和玛莎拉蒂承诺为2026年冬奥赛事提供车队。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5297941.d.html</link>
-            <guid>4075292</guid>
-            <pubDate>Tue, 11 Mar 2025 13:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国特使将访问莫斯科？克宫没有证实或否认】据报道，克里姆林宫既没有证实、也没有否认美国总统特朗普的中东问题特使维特科夫将于本周访问莫斯科的报道，发言人佩斯科夫表示，他将及时提供有关信息。一位知情人士此前表示，维特科夫预计将于本周晚些时候抵达莫斯科。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5297440.d.html</link>
-            <guid>4075291</guid>
-            <pubDate>Tue, 11 Mar 2025 13:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏神通：股东风林火山计划减持不超过3%公司股份】江苏神通(002438.SZ)公告称，持股6.91%的股东湖州风林火山股权投资合伙企业（有限合伙）计划在2025年4月7日至7月6日期间，通过集中竞价或大宗交易方式减持不超过1522.6124万股，即不超过公司总股本的3%。减持原因为股东自身财务安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5296790.d.html</link>
-            <guid>4075290</guid>
-            <pubDate>Tue, 11 Mar 2025 13:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯卢布兑美元在场外交易中升值至六个月来的最高点，接近85.00。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9507673.d.html</link>
-            <guid>4075289</guid>
-            <pubDate>Tue, 11 Mar 2025 13:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉美股盘前涨幅收窄，现涨0.3%，此前一度涨近5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8521930.d.html</link>
-            <guid>4075288</guid>
-            <pubDate>Tue, 11 Mar 2025 13:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾媒体：杜特尔特已登上前往海牙的飞机】菲律宾媒体11日援引前总统杜特尔特律师的话报道，杜特尔特当晚已登上一架包机，将被带往荷兰海牙。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9507118.d.html</link>
-            <guid>4075287</guid>
-            <pubDate>Tue, 11 Mar 2025 13:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度食用油进口量创四年新低 库存正不断减少】一家领先的行业机构周二表示，在豆油和葵花籽油进口量下降的带动下，印度2月份食用油进口量骤降至四年来新低，拖累库存降至三年来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5296032.d.html</link>
-            <guid>4075286</guid>
-            <pubDate>Tue, 11 Mar 2025 13:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【永安行：控股股东正在筹划公司控制权变更事项 股票明起继续停牌】永安行3月11日晚间公告，公司控股股东、实控人孙继胜正在筹划公司股份转让事宜，该事项可能导致公司的控制权变更。上述事项仍处于筹划之中，相关细节仍需充分协商确定，相关协议转让交易各方尚需进一步磋商并确认及签署正式股份转让协议。公司预计无法在3月12日（星期三）上午开市起复牌。公司股票、可转债债券以及可转债转股将于2025年3月12日（星期三）上午开市起继续停牌，预计停牌时间不超过3个交易日。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8521174.d.html</link>
-            <guid>4075285</guid>
-            <pubDate>Tue, 11 Mar 2025 13:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【诺瓦瓦克斯任命新任董事会主席】3月11日，诺瓦瓦克斯公司宣布，董事会主席James Young即将退休，Margaret McGlynn被任命为其继任者。该公司还任命John Shiver为董事会独立董事。据介绍，Young决定于2025年3月10日正式辞去董事会职务，他自2010年起担任诺瓦瓦克斯董事，并于2011年出任董事会主席。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9506179.d.html</link>
-            <guid>4075284</guid>
-            <pubDate>Tue, 11 Mar 2025 13:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Coinbase在印度完成注册，将提供加密货币交易服务】加密货币交易平台Coinbase当地时间3月11日宣布，已在印度金融情报机构（FIU）注册，意味着该公司可在印提供加密货币交易服务。Coinbase计划今年晚些时候在印度推出初始零售服务，之后进行额外投资并推出更多产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8520646.d.html</link>
-            <guid>4075283</guid>
-            <pubDate>Tue, 11 Mar 2025 13:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国人寿投资公司主导我国数据中心领域首单ABS发行】由国寿投资公司担任总协调人和投融资顾问的“中信证券—万国数据2025年第1期数据中心持有型不动产资产支持专项计划（可持续挂钩）”成功发行，标志着我国数据中心领域首单持有型不动产ABS的诞生，推动数据中心行业实现了从“重资产沉淀”到“轻资产循环”的转型，同时也标志着保险资金在可持续发展挂钩产品创新上的探索破局。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8520572.d.html</link>
-            <guid>4075282</guid>
-            <pubDate>Tue, 11 Mar 2025 13:11:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中渝置地：预计2024年度股东应占亏损约6.5亿港元】中渝置地(01224.HK)发布内幕消息，宣布集团预计在截至2024年12月31日的财年中，股东应占亏损约为6.5亿港元，相较于2023年同期的19亿港元亏损，亏损额大幅减少。此次亏损减少的主要原因在于，集团对位于英国的投资物业进行了重估，产生了约3.09亿港元的公平值收益，而2023年同期则录得20亿港元的公平值亏损。尽管如此，部分收益被集团合营企业因物业销售收入减少及物业组合的减值亏损所抵消，导致贡献减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8519999.d.html</link>
-            <guid>4075281</guid>
-            <pubDate>Tue, 11 Mar 2025 13:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西典新能：股东长江晨道计划减持不超过1%公司股份】西典新能(603312.SH)公告称，股东长江晨道（湖北）新能源产业投资合伙企业（有限合伙）计划自本公告披露之日起15个交易日后的三个月内，通过集中竞价或大宗交易方式合计减持公司股份不超过1,616,000股，占公司总股本比例不超过1%。减持价格视市场价格而定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5294368.d.html</link>
-            <guid>4075280</guid>
-            <pubDate>Tue, 11 Mar 2025 13:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港海关侦破有记录以来最大宗走私金条案】3月11日，香港海关发布消息，3月5日在香港国际机场侦破一起空运走私金条案件，查获约64公斤金条，估计市值约4600万港元。以案中检获走私金条的重量及市值计算，这是香港海关有相关记录以来侦破的最大一起走私金条案件。目前，案件仍在调查中，不排除会有人被捕。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5294230.d.html</link>
-            <guid>4075279</guid>
-            <pubDate>Tue, 11 Mar 2025 13:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自媒体博主以删稿为由敲诈勒索70万元，获刑十年三个月】据上海市普陀区人民检察院消息，微信公众号“消费金融频道”创始人兼管理员寇某因犯敲诈勒索罪被判处有期徒刑十年三个月，剥夺政治权利一年，并处罚金人民币十万元。寇某通过发布不实文章并胁迫企业支付“公关费”或“信息服务费”，累计敲诈勒索数额达70万元。检察机关表示，寇某的行为构成敲诈勒索罪，严重侵害了企业合法权益。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9504969.d.html</link>
-            <guid>4075278</guid>
-            <pubDate>Tue, 11 Mar 2025 13:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙央行上调该国2025年经济增长预期至2.7%】当地时间3月11日，西班牙央行将该国2025年的经济增长幅度预期上调了0.2个百分点，从2.5%上调到2.7%，但同时警告称该国经济将会面临“巨大的不确定性”。西班牙央行报告指出，当前地缘政治的不确定性正在加剧，美国政府在关税领域宣布的措施，以及各界对于这些措施可能造成影响的担忧预计会造成消费和投资的降级，供应链出现风险的可能性在增加，该国通胀率预计也会出现上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8518784.d.html</link>
-            <guid>4075277</guid>
-            <pubDate>Tue, 11 Mar 2025 13:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟委员会公开征求意见 拟改革清洁能源补贴计划】欧盟委员会正就调整国家援助法规适用方案公开征求意见，拟通过改革补贴机制助力成员国加大清洁能源投资力度。 此举旨在为“清洁工业协议”（Clean Industrial Deal）提供政策配套——该一揽子计划既要实现欧盟激进的去碳化目标，又试图在能源转型中维系欧洲工业竞争力并留住投资。 根据提案，成员国将获准以简化招标流程推进可再生能源项目，并可在无需招标的情况下为可再生氢能等新兴技术提供补贴支持。另一项关键措施是通过政府担保机制，降低私营资本对可再生能源、去碳化项目及清洁技术投资的风险敞口。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwi2493618.d.html</link>
-            <guid>4075276</guid>
-            <pubDate>Tue, 11 Mar 2025 13:02:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波罗的海干散货运价指数涨0.84%，报1436点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwf5292252.d.html</link>
-            <guid>4075275</guid>
-            <pubDate>Tue, 11 Mar 2025 13:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY日内涨幅扩大至0.50%，现报147.82。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwwc8517522.d.html</link>
-            <guid>4075274</guid>
-            <pubDate>Tue, 11 Mar 2025 13:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[夜盘开盘，丁二烯橡胶、低硫燃料油（LU）、沪锌、20号胶主力合约涨超1%；跌幅方面，烧碱主力合约跌超1%。]]></title>
-            <guid>4075273</guid>
-            <pubDate>Tue, 11 Mar 2025 13:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【业界警告若监管过严 瑞银恐会搬离瑞士】瑞士银行家协会(SBA)表示，若瑞士针对具有系统重要性的银行制定过于严苛的监管规定，可能会使瑞银集团考虑离开瑞士。瑞士信贷于2023年倒闭，随后被对手瑞银收购，瑞士正在为银行业制定更严格的规则。争论核心是，瑞银必须持有多少额外资本才能防止再次发生银行业危机的风险。此前瑞银领导层一再强调，瑞士对该银行非常重要，但同时警告，过高的资本要求可能会威胁到瑞士银行业的竞争力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9502850.d.html</link>
-            <guid>4075272</guid>
-            <pubDate>Tue, 11 Mar 2025 12:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因存在安全隐患 巴西沃帕斯航空公司被暂停运营】记者当地时间3月11日获悉，由于存在安全隐患，巴西国家民航局已暂停巴西沃帕斯航空公司运营资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-11/detail-inephwvz9502791.d.html</link>
-            <guid>4075271</guid>
-            <pubDate>Tue, 11 Mar 2025 12:58:45 GMT</pubDate>
         </item>
     </channel>
 </rss>

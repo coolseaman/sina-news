@@ -6,6 +6,467 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4090398,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5385593.d.html",
+            "title": "据尼日利亚媒体报道，尼日利亚总统宣布产油中心河流州进入紧急状态。",
+            "date_modified": "2025-03-18T18:24:27.000Z"
+        },
+        {
+            "id": 4090397,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2159883.d.html",
+            "title": "德国总理朔尔茨：英国和挪威必须成为欧盟防务努力的一部分。",
+            "date_modified": "2025-03-18T18:22:27.000Z"
+        },
+        {
+            "id": 4090396,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2193457.d.html",
+            "title": "【通用汽车携手英伟达开发自动驾驶技术】通用汽车和英伟达周二宣布合作计划，通用汽车司将使用英伟达的人工智能芯片和软件，为其车辆开发自动驾驶技术，并改善工厂的工作流程。两家公司计划共同构建基于英伟达平台的AI系统，以训练用于工厂规划的AI模型。通用汽车还计划使用英伟达的自动驾驶技术来开发未来的高级驾驶辅助系统（ADAS）。包括丰田和现代在内的多家汽车制造商和供应商今年也与英伟达合作，开发自动驾驶能力，以应对来自特斯拉的竞争压力。通用汽车预计，其Super Cruise驾驶辅助技术在未来五年内将带来约20亿美元的年收入。Super Cruise免费提供三年，之后客户可以选择每月支付25美元或每年250美元的订阅费用。",
+            "date_modified": "2025-03-18T18:21:51.000Z"
+        },
+        {
+            "id": 4090395,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2159549.d.html",
+            "title": "德国总理：没有乌克兰的支持，任何决定都不能做出。",
+            "date_modified": "2025-03-18T18:21:14.000Z"
+        },
+        {
+            "id": 4090394,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6312237.d.html",
+            "title": "德国总理朔尔茨：下一步必须是乌克兰全面停火。",
+            "date_modified": "2025-03-18T18:20:55.000Z"
+        },
+        {
+            "id": 4090393,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5384883.d.html",
+            "title": "【苏丹中部城市遭炮击 已致10名平民死亡】苏丹卫生部当地时间3月18日发布声明称，苏丹中部喀土穆州恩图曼市当天遭遇炮击，造成10名平民死亡，另有多人受伤。",
+            "date_modified": "2025-03-18T18:20:19.000Z"
+        },
+        {
+            "id": 4090392,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6312159.d.html",
+            "title": "英伟达CEO黄仁勋：预计到2028年数据中心建设支出将达1万亿美元。",
+            "date_modified": "2025-03-18T18:20:01.000Z"
+        },
+        {
+            "id": 4090391,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2159294.d.html",
+            "title": "德国总理朔尔茨与法国总理马克龙在柏林发表讲话。",
+            "date_modified": "2025-03-18T18:19:24.000Z"
+        },
+        {
+            "id": 4090389,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5384598.d.html",
+            "title": "【乌称仍在库尔斯克地区作战 否认俄军已深入乌苏梅州】当地时间3月18日，乌克兰武装部队总参谋部发布声明称，乌克兰士兵还继续控制着库尔斯克地区的土地。此外，声明驳斥有关俄军已深入乌苏梅州的消息不实。",
+            "date_modified": "2025-03-18T18:18:24.000Z"
+        },
+        {
+            "id": 4090388,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5384454.d.html",
+            "title": "英伟达CEO黄仁勋：宣布推出开源软件NVIDIA Dynamo。",
+            "date_modified": "2025-03-18T18:17:20.000Z"
+        },
+        {
+            "id": 4090387,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2158287.d.html",
+            "title": "【黄仁勋：实际上“几乎整个世界”都在人工智能的规模扩展问题上犯了错】在2025年英伟达GPU技术大会（GTC）的主题演讲中，英伟达CEO黄仁勋没过多久就开始谈及人工智能（AI）的 “规模扩展法则”。在AI规模扩展速度正在放缓这一观点上，几乎 “整个世界都判断失误” 了，事实上，得益于新出现的规模扩展方法和技术，AI的发展速度正比以往任何时候都要快。当然，需要注意的是，AI规模扩展方面的成功对于英伟达向AI模型开发者和服务器提供商大量销售图形处理器（GPU）的业务而言，是极为关键的核心要素。",
+            "date_modified": "2025-03-18T18:13:00.000Z"
+        },
+        {
+            "id": 4090386,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2158239.d.html",
+            "title": "【普京与特朗普通话要点总结】3月18日，据克里姆林宫消息，俄罗斯总统普京与美国总统特朗普举行了电话会谈。以下是俄美总统通话要点：\n①特朗普提议俄罗斯和乌克兰在30天内放弃对对方能源基础设施进行打击，普京支持这一想法，并向军方下达了相应指示； \n②俄方概述了关于可能停火的若干重要观点——必须停止强制动员和对乌克兰武装部队进行重新武装。通过政治和外交手段解决冲突的关键条件是彻底停止外国军事援助和向乌克兰提供情报信息； \n③普京向特朗普证实，如果乌克兰士兵在库尔斯克州投降，俄联邦将保证他们的生命和适当待遇； \n④俄罗斯和美国将成立解决乌克兰问题的专家组； \n⑤普京告诉特朗普，19日俄罗斯和乌克兰将互换175名被俘人员。作为善意姿态，俄罗斯将向乌克兰移交23名正在俄联邦接受治疗的受重伤的乌克兰军人； \n⑥俄美总统同意开始就制定有关黑海航行安全的倡议进行谈判；\n⑦普京告诉特朗普，俄方准备共同寻找乌克兰问题解决方案，而这一解决方案应当是持久的； \n⑧双方赞成根据对世界稳定的共同责任实现俄美双边关系正常化； \n⑨普京和特朗普讨论了伊朗问题，反对伊朗威胁摧毁以色列； \n⑩普京和特朗普讨论了可以建立合作的“广泛领域”； \n⑪特朗普支持普京关于组织冰球比赛的想法。",
+            "date_modified": "2025-03-18T18:12:40.000Z"
+        },
+        {
+            "id": 4090385,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6311097.d.html",
+            "title": "【卡塔尔天然气开始进入叙利亚天然气网络】当地时间3月18日，叙利亚电力公司发布消息称，来自卡塔尔的天然气已开始进入叙利亚天然气网络。据当地媒体报道，按照计划，每天将从卡塔尔输送200万立方米的天然气，可产生400兆瓦的电力。",
+            "date_modified": "2025-03-18T18:09:42.000Z"
+        },
+        {
+            "id": 4090384,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2157549.d.html",
+            "title": "美国国防部将削减多达6万个文职工作岗位。",
+            "date_modified": "2025-03-18T18:08:34.000Z"
+        },
+        {
+            "id": 4090383,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2157279.d.html",
+            "title": "布伦特原油期货跌0.55%，报70.68美元。",
+            "date_modified": "2025-03-18T18:07:25.000Z"
+        },
+        {
+            "id": 4090382,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2156996.d.html",
+            "title": "也门胡塞武装：向以色列发射了一枚弹道导弹，目标是空军基地。",
+            "date_modified": "2025-03-18T18:06:18.000Z"
+        },
+        {
+            "id": 4090381,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2156424.d.html",
+            "title": "【白宫：美俄总统通电话同意需结束俄乌冲突 改善美俄双边关系】当地时间3月18日，美国白宫发布声明表示，美国总统特朗普当日与俄罗斯总统普京通话，双方谈到了乌克兰冲突中和平与停火的必要性，且都同意这场冲突需要以持久和平结束。双方还强调需要改善美国和俄罗斯之间的双边关系。声明表示，俄乌冲突本不该开始，且早就应该以真诚和善意的和平努力结束。两位领导人一致认为，实现和平将从能源和基础设施停火开始，以及就实施黑海海上停火、全面停火和永久和平进行技术谈判。声明称，这些谈判将在中东展开。双方领导人认为，美俄双边关系改善的未来将带来巨大的好处。",
+            "date_modified": "2025-03-18T18:04:00.000Z"
+        },
+        {
+            "id": 4090380,
+            "content_html": "",
+            "title": "也门胡塞武装表示，如果针对加沙的“侵略”不结束，他们将在接下来的几个小时或几天内扩大在以色列的目标。",
+            "date_modified": "2025-03-18T18:03:08.000Z"
+        },
+        {
+            "id": 4090379,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2190281.d.html",
+            "title": "英伟达CEO黄仁勋：我们升级重新设计了高速互连设备NV Link。",
+            "date_modified": "2025-03-18T18:01:35.000Z"
+        },
+        {
+            "id": 4090378,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2155120.d.html",
+            "title": "Mobileye股价迅速下跌。",
+            "date_modified": "2025-03-18T17:58:38.000Z"
+        },
+        {
+            "id": 4090377,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2189527.d.html",
+            "title": "Coinbase调查：超75%机构投资者计划2025年增加加密资产配置。",
+            "date_modified": "2025-03-18T17:56:47.000Z"
+        },
+        {
+            "id": 4090376,
+            "content_html": "",
+            "title": "英伟达CEO黄仁勋：英伟达将与Cisco、T-Mobile、Mitre、Booz Allen和ODC合作开发人工智能无线网络技术。",
+            "date_modified": "2025-03-18T17:54:36.000Z"
+        },
+        {
+            "id": 4090375,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2154148.d.html",
+            "title": "【普京同意限制对乌克兰的打击 但拒绝答应特朗普的停火要求】俄罗斯总统普京在与美国总统特朗普的通话中同意限制对乌克兰能源资产的攻击，但拒绝同意对方一直寻求的30天大范围停火。白宫在一份声明中说，普京和特朗普就“能源和基础设施停火”达成共识并同意开始就“黑海海上停火、全面停火及永久和平”进行谈判。白宫还表示，双方将“立即”在中东启动谈判但未说明由谁负责。克里姆林宫则称，普京提出了实现持久停火的几个条件，包括暂停向乌克兰提供武器和情报支持。",
+            "date_modified": "2025-03-18T17:53:53.000Z"
+        },
+        {
+            "id": 4090374,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6307770.d.html",
+            "title": "【LME金属期货收盘多数上涨】LME期铜收涨43美元，报9904美元/吨。LME期铝收跌32美元，报2654美元/吨。LME期锌收涨5美元，报2963美元/吨。LME期铅收涨12美元，报2094美元/吨。LME期镍收跌181美元，报16249美元/吨。LME期锡收涨53美元，报35240美元/吨。LME期钴收平，报36170美元/吨。",
+            "date_modified": "2025-03-18T17:52:05.000Z"
+        },
+        {
+            "id": 4090373,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6307638.d.html",
+            "title": "英伟达与电信企业合作开发基于人工智能的6G无线技术。",
+            "date_modified": "2025-03-18T17:51:01.000Z"
+        },
+        {
+            "id": 4090372,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2153692.d.html",
+            "title": "高盛和麦肯锡认为：预计欧洲将罕见地成为全球并购市场的热点。",
+            "date_modified": "2025-03-18T17:50:51.000Z"
+        },
+        {
+            "id": 4090371,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6307499.d.html",
+            "title": "英伟达：通用汽车将与英伟达合作开发自动驾驶汽车。",
+            "date_modified": "2025-03-18T17:50:00.000Z"
+        },
+        {
+            "id": 4090369,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2153105.d.html",
+            "title": "美国交通部长达菲：参观亚马逊Prime Air，了解了他们的无人机技术。",
+            "date_modified": "2025-03-18T17:47:38.000Z"
+        },
+        {
+            "id": 4090368,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5378005.d.html",
+            "title": "墨西哥议员：政府将向墨西哥国家石油公司的供应商支付44亿美元。",
+            "date_modified": "2025-03-18T17:44:26.000Z"
+        },
+        {
+            "id": 4090367,
+            "content_html": "",
+            "title": "【生成式AI已过时：英伟达黄仁勋首提Agentic AI，后续是机器人Physical AI】在3月18日的英伟达 GTC 2025 大会主题演讲中，英伟达CEO黄仁勋再次身穿皮衣登场。黄仁勋一上来就提到了 AI 发展的未来，现在我们处于生成式AI（Generative AI）阶段，但根据黄仁勋的路线图，我们将迈向一个代理式AI（Agentic AI）时代，随后是物理AI（Physical AI）—— 机器人登场的时候。",
+            "date_modified": "2025-03-18T17:41:16.000Z"
+        },
+        {
+            "id": 4090366,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2151812.d.html",
+            "title": "Adobe与微软在Microsoft 365 Copilot中集成AI助手，为营销人员提供智能支持。",
+            "date_modified": "2025-03-18T17:40:36.000Z"
+        },
+        {
+            "id": 4090365,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2151773.d.html",
+            "title": "美股三大股指维持跌势，此前俄罗斯总统普京同意俄乌双方在30天内放弃袭击对方能源基础设施的提议。",
+            "date_modified": "2025-03-18T17:40:22.000Z"
+        },
+        {
+            "id": 4090364,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6305503.d.html",
+            "title": "【美国2023年出生人口数量降至40多年来的最低水平】美国2023年出生人口数量降至40多年来的最低水平，长达数十年的趋势进一步延续。3月18日，美国国家卫生统计中心(NCHS)发布的一份报告显示，2023年全年总计出生人数降至360万，较2022年下降了2%，该报告证实了去年公布的初步数据。上一次人口出生数量如此之低还是1979年，当时记录在案的出生人数为350万。报告称，美国首次生育的平均年龄为27.5岁，创纪录新高。",
+            "date_modified": "2025-03-18T17:36:59.000Z"
+        },
+        {
+            "id": 4090363,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5376140.d.html",
+            "title": "瑞士监管机构对瑞银资本需求的逐步引入持开放态度。",
+            "date_modified": "2025-03-18T17:35:55.000Z"
+        },
+        {
+            "id": 4090362,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2150510.d.html",
+            "title": "英伟达股价持续下跌，现跌2.3%。",
+            "date_modified": "2025-03-18T17:34:52.000Z"
+        },
+        {
+            "id": 4090361,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2186108.d.html",
+            "title": "【白宫：美俄首脑同意从能源和基础设施停火开始和平进程，海上停火谈判很快开始】白宫发布特朗普与普京通话情况摘要，双方讨论了俄乌和平与停火的必要性。领导人一致同意，和平进程将从能源和基础设施的停火开始。有关在黑海实施海上停火的技术性谈判将立即在中东开始。领导人广泛讨论了中东作为一个潜在合作区域，以防止未来冲突。还讨论了遏制战略武器扩散的必要性，并将与其他国家合作，确保尽可能广泛的应用。白宫称，未来美俄双边关系的改善有巨大的好处，这包括巨额的经济交易。",
+            "date_modified": "2025-03-18T17:34:14.000Z"
+        },
+        {
+            "id": 4090360,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5375795.d.html",
+            "title": "克里姆林宫：俄罗斯和美国讨论了能源和经济合作。",
+            "date_modified": "2025-03-18T17:33:27.000Z"
+        },
+        {
+            "id": 4090359,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2150328.d.html",
+            "title": "白宫：将就全面停火和实现永久和平进行谈判。",
+            "date_modified": "2025-03-18T17:33:15.000Z"
+        },
+        {
+            "id": 4090358,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6304919.d.html",
+            "title": "白宫：和平将始于对能源和基础设施停火。",
+            "date_modified": "2025-03-18T17:32:47.000Z"
+        },
+        {
+            "id": 4090357,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2185978.d.html",
+            "title": "白宫：俄美两位领导人一致认为，伊朗永远不应该有能力摧毁以色列。",
+            "date_modified": "2025-03-18T17:32:33.000Z"
+        },
+        {
+            "id": 4090356,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5375551.d.html",
+            "title": "英伟达(NVDA.O) 披露，2024年全球前四超算运营商共采购130万片Hopper架构芯片。2025年，它们又购买了360万Blackwell芯片。",
+            "date_modified": "2025-03-18T17:31:31.000Z"
+        },
+        {
+            "id": 4090355,
+            "content_html": "",
+            "title": "克里姆林宫：强调解决俄乌问题的关键条件是完全停止对乌克兰提供外国军事援助和情报信息。",
+            "date_modified": "2025-03-18T17:30:16.000Z"
+        },
+        {
+            "id": 4090354,
+            "content_html": "",
+            "title": "美、布两油短线一度走高0.7美元后回落，现报66.82美元/桶和70.34美元/桶。",
+            "date_modified": "2025-03-18T17:29:27.000Z"
+        },
+        {
+            "id": 4090353,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2185706.d.html",
+            "title": "白宫：美俄双边关系改善后的前景有着巨大的好处，这包括巨额的经济贸易。",
+            "date_modified": "2025-03-18T17:29:23.000Z"
+        },
+        {
+            "id": 4090352,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2149704.d.html",
+            "title": "白宫：讨论了制止战略武器扩散的必要性，并将与其他各方合作以确保尽可能广泛的实施。",
+            "date_modified": "2025-03-18T17:29:03.000Z"
+        },
+        {
+            "id": 4090351,
+            "content_html": "",
+            "title": "白宫：双方领导人广泛探讨了中东地区作为一个具有潜在合作以预防未来冲突的区域这一话题。",
+            "date_modified": "2025-03-18T17:28:52.000Z"
+        },
+        {
+            "id": 4090350,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2185661.d.html",
+            "title": "特朗普和普京一致认为改善双边关系有好处。",
+            "date_modified": "2025-03-18T17:28:48.000Z"
+        },
+        {
+            "id": 4090349,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2185632.d.html",
+            "title": "白宫：关于在黑海实施海上停火的技术性谈判，这些谈判将立即在中东开始。",
+            "date_modified": "2025-03-18T17:28:28.000Z"
+        },
+        {
+            "id": 4090348,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2149548.d.html",
+            "title": "白宫：双方领导人一致认为，迈向和平的行动将从能源和基础设施方面的停火开始。",
+            "date_modified": "2025-03-18T17:28:07.000Z"
+        },
+        {
+            "id": 4090347,
+            "content_html": "",
+            "title": "克里姆林宫：普京对特朗普有关黑海航运安全的想法作出了“建设性”反应，并同意开启谈判以达成相关成果。",
+            "date_modified": "2025-03-18T17:28:05.000Z"
+        },
+        {
+            "id": 4090346,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2149485.d.html",
+            "title": "白宫发布特朗普与普京通话的情况：谈到乌克兰战争需要和平与停火。",
+            "date_modified": "2025-03-18T17:27:48.000Z"
+        },
+        {
+            "id": 4090345,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2185327.d.html",
+            "title": "克里姆林宫：美国总统特朗普支持俄罗斯总统普京在美国组织俄美球员之间进行冰球比赛的想法。",
+            "date_modified": "2025-03-18T17:25:50.000Z"
+        },
+        {
+            "id": 4090343,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2148925.d.html",
+            "title": "克里姆林宫：普京在停火倡议的背景下表示，必须停止乌克兰的动员以及对乌武器供应。",
+            "date_modified": "2025-03-18T17:24:30.000Z"
+        },
+        {
+            "id": 4090342,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2148761.d.html",
+            "title": "克里姆林宫称，关于确保对潜在停火的控制，有若干问题存在。在停火倡议的背景下，俄罗斯总统普京表示，必须停止乌克兰的动员和武装。",
+            "date_modified": "2025-03-18T17:23:45.000Z"
+        },
+        {
+            "id": 4090341,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2185067.d.html",
+            "title": "WTI原油期货跌幅收窄至0.65%，报66.93美元。",
+            "date_modified": "2025-03-18T17:23:34.000Z"
+        },
+        {
+            "id": 4090340,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2184939.d.html",
+            "title": "克里姆林宫称，俄罗斯将向基辅移交23名重伤的乌克兰军人。",
+            "date_modified": "2025-03-18T17:22:39.000Z"
+        },
+        {
+            "id": 4090339,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5373973.d.html",
+            "title": "俄罗斯总统普京：准备继续寻找和平之路。",
+            "date_modified": "2025-03-18T17:22:30.000Z"
+        },
+        {
+            "id": 4090338,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5373844.d.html",
+            "title": "克里姆林宫称，俄罗斯和美国将成立专家小组以推进俄乌问题的解决。",
+            "date_modified": "2025-03-18T17:22:01.000Z"
+        },
+        {
+            "id": 4090337,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6303578.d.html",
+            "title": "克里姆林宫：普京与美国总统特朗普讨论了中东和能源问题。",
+            "date_modified": "2025-03-18T17:21:14.000Z"
+        },
+        {
+            "id": 4090336,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5373523.d.html",
+            "title": "俄罗斯总统普京重申致力于和平解决冲突。",
+            "date_modified": "2025-03-18T17:20:44.000Z"
+        },
+        {
+            "id": 4090335,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2184376.d.html",
+            "title": "克里姆林宫称，乌克兰与俄罗斯将进行175对175的战俘交换。",
+            "date_modified": "2025-03-18T17:20:02.000Z"
+        },
+        {
+            "id": 4090334,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5373255.d.html",
+            "title": "【美银调查：全球基金预见“东升西降”，做多中国科技股热度追平加密货币】美银证券最新月度调查显示，全球基金经理对中国经济的预期进一步改善，同时他们对美国前景的观感急剧恶化。策略师Michael Hartnett和Elyas Galou等人周二在报告中表示，3月调查中预计中国经济继续改善的受访者净比例为28%，为连续第二个月上升。同时，看好美国经济的受访者净比例降至-71%，创下2023年5月以来最低纪录。",
+            "date_modified": "2025-03-18T17:19:44.000Z"
+        },
+        {
+            "id": 4090333,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfhz2184213.d.html",
+            "title": "克里姆林宫称，普京与美国总统特朗普同意保持联系。",
+            "date_modified": "2025-03-18T17:19:23.000Z"
+        },
+        {
+            "id": 4090332,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2147514.d.html",
+            "title": "克里姆林宫称，俄罗斯总统普京与美国总统特朗普讨论了乌克兰问题。",
+            "date_modified": "2025-03-18T17:18:56.000Z"
+        },
+        {
+            "id": 4090331,
+            "content_html": "",
+            "title": "周二（3月18日），美联储隔夜逆回购协议（RRP）使用规模为1495.03亿美元，上个交易日报894.96亿美元。",
+            "date_modified": "2025-03-18T17:17:35.000Z"
+        },
+        {
+            "id": 4090330,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6302710.d.html",
+            "title": "美国联邦航空管理局将调查捷蓝航空飞机返回波士顿机场事件。",
+            "date_modified": "2025-03-18T17:16:27.000Z"
+        },
+        {
+            "id": 4090329,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2146971.d.html",
+            "title": "【以色列大范围拉响防空警报 以军称拦截一枚自也门发射的导弹】以色列南部内盖夫等地当地时间3月18日晚响起防空警报声。一枚从也门发射来的导弹飞越以色列上空。防空警报系统显示，这是以色列境内在今年1月巴以停火协议第一阶段达成并实施后，以色列境内首次响起大范围防空警报。以色列国防军发布消息称，在防空警报被拉响后，以军成功拦截了一枚来自也门境内的导弹。",
+            "date_modified": "2025-03-18T17:16:04.000Z"
+        },
+        {
             "id": 4090327,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2146596.d.html",
@@ -232,468 +693,6 @@
             "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6296348.d.html",
             "title": "【欧元区法意西希主权债上涨不足1个基点，德国国防开支方案获批的利好效应昙花一现】 周二（3月18日）欧市尾盘，法国10年期国债收益率涨0.6个基点，报3.496%，北京时间22:59曾刷新日高至3.528%，随后急速回吐涨幅。意大利10年期国债收益率涨0.8个基点，报3.925%，22:59刷新日高至3.960%。西班牙10年期国债收益率涨0.8个基点，报3.443%，22:59刷新日高至3.476%。希腊10年期国债收益率涨0.6个基点，报3.609%。",
             "date_modified": "2025-03-18T16:36:30.000Z"
-        },
-        {
-            "id": 4090293,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfih2139201.d.html",
-            "title": "克里姆林宫：普京与特朗普结束电话通话。",
-            "date_modified": "2025-03-18T16:35:44.000Z"
-        },
-        {
-            "id": 4090291,
-            "content_html": "",
-            "title": "俄罗斯对外经济合作特使德米特列耶夫：在俄罗斯总统普京和美国总统特朗普的领导下，今天的世界变得安全了许多。",
-            "date_modified": "2025-03-18T16:32:51.000Z"
-        },
-        {
-            "id": 4090290,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfia6295923.d.html",
-            "title": "【伊拉克外交部强烈谴责以色列空袭加沙】据伊拉克外交部18日声明，伊拉克对以色列在加沙地带发动的新一轮军事行动表示强烈谴责，并对当地冲突持续升级表示遗憾和愤慨。声明称，以方侵略行径严重违反国际法和国际人道法，对无辜平民造成直接伤害。袭击行为表明以色列当局仍在继续实施镇压和敌对政策，对巴勒斯坦人民的生命构成持续威胁。",
-            "date_modified": "2025-03-18T16:32:33.000Z"
-        },
-        {
-            "id": 4090289,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqcfie5364090.d.html",
-            "title": "【英国政府拟通过削减福利支出每年节省数十亿英镑，改革措施引发争议】英国工党政府表示，将通过削减福利支出每年节省数十亿英镑，推出有争议的改革措施，引发了残疾活动人士的批评并导致首相基尔·斯塔默的执政党内出现意见分歧。3月18日，就业和退休金大臣Liz Kendall告诉下议院称，政府将收紧病残人士获得个人独立补助金(PIP)所必须满足的标准，这是一项旨在帮助残障人士日常生活的重要福利。",
-            "date_modified": "2025-03-18T16:32:21.000Z"
-        },
-        {
-            "id": 4090288,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzk2269365.d.html",
-            "title": "美国总统特朗普与俄罗斯总统普京的通话结束，持续大约90分钟。",
-            "date_modified": "2025-03-18T16:31:56.000Z"
-        },
-        {
-            "id": 4090287,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayze6426302.d.html",
-            "title": "美敦力因医疗设备召回，股价跌1.5%。",
-            "date_modified": "2025-03-18T16:29:21.000Z"
-        },
-        {
-            "id": 4090286,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzk2268231.d.html",
-            "title": "以色列媒体报道称，以色列内阁将于当地时间晚上9点（北京时间19日凌晨3点）召开会议。",
-            "date_modified": "2025-03-18T16:25:47.000Z"
-        },
-        {
-            "id": 4090285,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzc2306795.d.html",
-            "title": "俄罗斯执法官员报告称，紧急服务部门正在核查列宁格勒地区一架直升机坠毁的信息。",
-            "date_modified": "2025-03-18T16:25:03.000Z"
-        },
-        {
-            "id": 4090284,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzh5492682.d.html",
-            "title": "联合国：海地首都暴力事件在一个月内导致6万人流离失所。",
-            "date_modified": "2025-03-18T16:21:43.000Z"
-        },
-        {
-            "id": 4090283,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzh5492237.d.html",
-            "title": "银行计划于下周出售总额达86.5亿欧元的赛诺菲收购融资债务。",
-            "date_modified": "2025-03-18T16:20:13.000Z"
-        },
-        {
-            "id": 4090282,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayze6424588.d.html",
-            "title": "法国巴黎银行：德国10年期国债收益率因为国防开支因素而面临涨至4%的风险。",
-            "date_modified": "2025-03-18T16:19:44.000Z"
-        },
-        {
-            "id": 4090281,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayze6424489.d.html",
-            "title": "惠誉：匈牙利政府将采取刺激措施避免市场动荡。",
-            "date_modified": "2025-03-18T16:19:11.000Z"
-        },
-        {
-            "id": 4090280,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayze6424280.d.html",
-            "title": "巴西政府：计划制定对高收入者的最低有效税率，以增加252.2亿雷亚尔的收入。",
-            "date_modified": "2025-03-18T16:18:03.000Z"
-        },
-        {
-            "id": 4090279,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayze6424111.d.html",
-            "title": "巴西政府在讲稿中表示，提议对海外利润和股息征税，每年将增加89亿雷亚尔的收入。",
-            "date_modified": "2025-03-18T16:17:00.000Z"
-        },
-        {
-            "id": 4090278,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzc2304971.d.html",
-            "title": "【标普500指数进入回调之际 美国银行客户逢低买入】尽管标普500指数跌入回调，美国银行客户上周仍买入美股，同时受到青睐的板块显示他们并不押注经济会陷入衰退。量化策略师Jill Carey Hall在一份研究报告中写道，在个股的推动下，客户连续第七周净买入，累计净流入资金31亿美元。",
-            "date_modified": "2025-03-18T16:15:44.000Z"
-        },
-        {
-            "id": 4090277,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzk2265401.d.html",
-            "title": "巴西政府提议对汇往国外的利润、股息征收10%的预扣税。",
-            "date_modified": "2025-03-18T16:14:16.000Z"
-        },
-        {
-            "id": 4090276,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzk2265378.d.html",
-            "title": "截至3月18日，美国得克萨斯州报告有36名麻疹患者住院。",
-            "date_modified": "2025-03-18T16:14:09.000Z"
-        },
-        {
-            "id": 4090275,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzc2304214.d.html",
-            "title": "惠誉：匈牙利年初高于预期的重新定价将导致2025年通胀上升。",
-            "date_modified": "2025-03-18T16:11:33.000Z"
-        },
-        {
-            "id": 4090273,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayze6422998.d.html",
-            "title": "惠誉：国内经济脆弱和贸易不确定性高企将增加匈牙利在2025-2026年的经济整合挑战。贸易不确定性加剧，关税上调将拖累该国的出口反弹。",
-            "date_modified": "2025-03-18T16:11:06.000Z"
-        },
-        {
-            "id": 4090272,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzh5489660.d.html",
-            "title": "乌克兰经济部长：1-2月国内生产总值同比增长1.1%。",
-            "date_modified": "2025-03-18T16:10:01.000Z"
-        },
-        {
-            "id": 4090271,
-            "content_html": "",
-            "title": "【王毅同法国总统外事顾问博纳通电话】3月18日，中共中央政治局委员、中央外办主任王毅应约同法国总统外事顾问博纳通电话。（新华社）",
-            "date_modified": "2025-03-18T16:09:19.000Z"
-        },
-        {
-            "id": 4090270,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzk2263915.d.html",
-            "title": "【以防长：哈马斯若不释放所有被扣押人员 将面临全力攻击】以色列国防部长卡茨当地时间3月18日下午对外界表示，除非所有以色列被扣押人员都返回家园，否则以军将不会停止与巴勒斯坦伊斯兰抵抗运动（哈马斯）的战斗。卡茨当天在访问特尔诺夫空军基地时表示，哈马斯必须意识到“游戏规则已经改变”，如果哈马斯不立即释放所有被扣押人员，将面临以色列国防军在空中、海上和陆地上的全力攻击，直到哈马斯彻底“被消灭”。",
-            "date_modified": "2025-03-18T16:08:46.000Z"
-        },
-        {
-            "id": 4090269,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayze6422039.d.html",
-            "title": "巴西总统卢拉：重申所得税改革保持中性很重要。",
-            "date_modified": "2025-03-18T16:07:44.000Z"
-        },
-        {
-            "id": 4090268,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzc2302015.d.html",
-            "title": "【美国首席大法官称弹劾法官裁决不当】美国首席大法官约翰·罗伯茨表示，对联邦法官的弹劾“不是对其裁决的分歧的适当回应”。在特朗普总统呼吁弹劾一名试图暂停驱逐数百名委内瑞拉黑帮成员的法官几个小时后，最高法院领导人发表了这一非同寻常的声明。罗伯茨说：“两个多世纪以来，人们已经认识到，弹劾不是对司法裁决分歧的适当回应。正常的上诉审查程序就是为此目的而存在的。”",
-            "date_modified": "2025-03-18T16:03:36.000Z"
-        },
-        {
-            "id": 4090267,
-            "content_html": "",
-            "title": "法庭文件显示，特朗普政府官员称，在法官命令发布后起飞的遣返航班并未载有仅根据《外国敌人法》被驱逐的人。",
-            "date_modified": "2025-03-18T16:01:36.000Z"
-        },
-        {
-            "id": 4090266,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayze6419805.d.html",
-            "title": "法国统计局：预计第一季度经济增速为0.1%，第二季度增速为0.2%。",
-            "date_modified": "2025-03-18T16:00:27.000Z"
-        },
-        {
-            "id": 4090265,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-19/detail-ineqayzc2300729.d.html",
-            "title": "甲骨文跌幅收窄至3%，最近五个交易日迄今累计涨约2%。",
-            "date_modified": "2025-03-18T16:00:03.000Z"
-        },
-        {
-            "id": 4090264,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2261188.d.html",
-            "title": "巴西总统卢拉称，立法者有权根据需要修改所得税法案。",
-            "date_modified": "2025-03-18T15:59:49.000Z"
-        },
-        {
-            "id": 4090263,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6419599.d.html",
-            "title": "美国首席大法官约翰·罗伯茨：弹劾不是对司法判决存在异议的恰当回应。",
-            "date_modified": "2025-03-18T15:59:05.000Z"
-        },
-        {
-            "id": 4090262,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2260903.d.html",
-            "title": "美国首席大法官发表声明，称弹劾法官裁决不当。",
-            "date_modified": "2025-03-18T15:56:36.000Z"
-        },
-        {
-            "id": 4090261,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzc2300332.d.html",
-            "title": "巴西众议院议长莫塔称，国会致力于财政责任，将寻求弥补收入缺口的最佳方式。",
-            "date_modified": "2025-03-18T15:55:26.000Z"
-        },
-        {
-            "id": 4090260,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzh5485991.d.html",
-            "title": "巴西众议院议长莫塔表示，议员们将修改所得税改革法案的文本。",
-            "date_modified": "2025-03-18T15:54:10.000Z"
-        },
-        {
-            "id": 4090258,
-            "content_html": "",
-            "title": "欧盟委员会主席冯德莱恩：德国决定增加公共投资是一个好消息，因为它向欧洲发出了一个非常明确的信息，即德国决心在国防方面进行大规模投资。",
-            "date_modified": "2025-03-18T15:52:45.000Z"
-        },
-        {
-            "id": 4090257,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2260294.d.html",
-            "title": "【冯德莱恩：欧洲需增加国防开支 拥有强大防御态势】当地时间3月18日，欧盟委员会主席冯德莱恩发表关于欧洲防务的演讲，她表示，到2030年，欧洲必须拥有强大的欧洲防御态势，欧盟所依赖的安全架构不能再被视为理所当然。她强调，这意味着欧洲需要重新武装和发展能力，以拥有可靠的威慑力，首要任务是增加国防开支，必须发展大型项目并加强合作采购，必须购买更多欧洲产品。同时，欧洲还将与乌克兰成立联合特遣部队，协调军事支持。",
-            "date_modified": "2025-03-18T15:52:18.000Z"
-        },
-        {
-            "id": 4090256,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6418592.d.html",
-            "title": "丹麦首相：德国决定增加公共投资是个好消息。",
-            "date_modified": "2025-03-18T15:50:15.000Z"
-        },
-        {
-            "id": 4090255,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzc2299299.d.html",
-            "title": "美国联邦通信委员会（FCC）委员斯塔克斯在声明中表示将辞职。",
-            "date_modified": "2025-03-18T15:46:18.000Z"
-        },
-        {
-            "id": 4090254,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2259479.d.html",
-            "title": "【以色列空袭致19名叙公民死亡 叙利亚谴责：威胁区域和国际安全】叙利亚外交部门当地时间3月18日发表声明，谴责以色列17日对叙利亚德拉地区的空袭，本次袭击已造成19名叙利亚公民死亡。声明称，以色列持续对叙利亚发动的袭击不仅违反了国际法，而且对区域和国际安全构成了直接威胁。该部门呼吁联合国和所有负责的国际机构立即制止这些非法行为。",
-            "date_modified": "2025-03-18T15:46:10.000Z"
-        },
-        {
-            "id": 4090253,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6417976.d.html",
-            "title": "欧盟委员会主席冯德莱恩：现在该俄罗斯做出选择，俄罗斯应该同意无条件停火30天。",
-            "date_modified": "2025-03-18T15:44:42.000Z"
-        },
-        {
-            "id": 4090252,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2258942.d.html",
-            "title": "巴西财长哈达德：所得税改革将对收入产生中性影响。",
-            "date_modified": "2025-03-18T15:43:06.000Z"
-        },
-        {
-            "id": 4090251,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzh5484369.d.html",
-            "title": "巴西财长哈达德：所得税法案可以完善，就像我们提交给国会的所有议案一样。",
-            "date_modified": "2025-03-18T15:42:42.000Z"
-        },
-        {
-            "id": 4090250,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzh5484323.d.html",
-            "title": "【特朗普政策拉扯市场 摩根大通股票交易员有望大赚一笔】股市的混乱行情将给银行股票交易员带来一笔意外收获。据知情人士透露，摩根大通本季度股票交易收入有望同比增长超过30%。如果保持这一趋势，该公司将超过四年前创下的33亿美元纪录。",
-            "date_modified": "2025-03-18T15:42:17.000Z"
-        },
-        {
-            "id": 4090249,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzc2298445.d.html",
-            "title": "巴西财长哈达德：所得税法案在财政方面是平衡的，目的是寻求税收公平。",
-            "date_modified": "2025-03-18T15:40:43.000Z"
-        },
-        {
-            "id": 4090248,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzh5483833.d.html",
-            "title": "巴西财长哈达德：我们重点关注对那些不纳税或纳税很少的人进行财政补偿。",
-            "date_modified": "2025-03-18T15:39:36.000Z"
-        },
-        {
-            "id": 4090247,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6417074.d.html",
-            "title": "巴西财长哈达德：我们相信所得税提案将开始扭转巴西面临的收入分配不均状况。",
-            "date_modified": "2025-03-18T15:38:41.000Z"
-        },
-        {
-            "id": 4090246,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzh5483478.d.html",
-            "title": "【利比亚向尼日利亚遣返177名非法移民】利比亚非法移民管控部门18日在首都的黎波里向尼日利亚遣返177名非法移民。利比亚非法移民管控部门一名官员18日表示，这些非法移民包括160名妇女和17名儿童，当天将乘飞机返回尼日利亚。",
-            "date_modified": "2025-03-18T15:37:20.000Z"
-        },
-        {
-            "id": 4090245,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6415723.d.html",
-            "title": "白宫：特朗普与普京的通话仍在进行中。",
-            "date_modified": "2025-03-18T15:33:13.000Z"
-        },
-        {
-            "id": 4090244,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzc2296745.d.html",
-            "title": "美国财政部拍卖六周期国债，得标利率4.235%，前次为4.235%。美国财政部拍卖52周期国债，得标利率3.945%（2月18日报4.050%），投标倍数3.13（前次为3.03）。",
-            "date_modified": "2025-03-18T15:32:40.000Z"
-        },
-        {
-            "id": 4090243,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6415645.d.html",
-            "title": "【波罗的海干散货运价指数下跌，因海岬型运费回落】波罗的海干散货运价指数周二继续下跌，因海岬型运价指数走软。波罗的海干散货运价指数下跌8点或0.66%，至1650点。海岬型船运价指数下跌54点，至2714点，为连续第三个交易日下滑。海岬型船日均获利下跌447美元，至22507美元。巴拿马型船运价指数上升2点，报1405点，为逾22周高点。巴拿马型船日均获利上涨20美元，至12643美元，为10月14日以来新高。超灵便型散货船运价指数上涨23点，至977点，为逾三个月高位。灵便型船运价指数上涨5点，至578点。",
-            "date_modified": "2025-03-18T15:32:30.000Z"
-        },
-        {
-            "id": 4090242,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2256976.d.html",
-            "title": "巴西官员：法案将削减月收入在5000-7000雷亚尔的工人的所得税。",
-            "date_modified": "2025-03-18T15:32:16.000Z"
-        },
-        {
-            "id": 4090241,
-            "content_html": "",
-            "title": "英国债务管理办公室（DMO）表示，将于2025年3月25日通过拍卖出售20亿英镑的2043年到期、票面利率为4.750%的国债。",
-            "date_modified": "2025-03-18T15:30:22.000Z"
-        },
-        {
-            "id": 4090240,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzc2296337.d.html",
-            "title": "巴西政府正式提交法案，寻求对月收入不超过5000雷亚尔（合计6366元人民币）的人群免征所得税。",
-            "date_modified": "2025-03-18T15:29:38.000Z"
-        },
-        {
-            "id": 4090239,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzc2296269.d.html",
-            "title": "德国外交部长：明天将前往黎巴嫩。",
-            "date_modified": "2025-03-18T15:28:46.000Z"
-        },
-        {
-            "id": 4090238,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzh5481770.d.html",
-            "title": "德国外交部长：以色列袭击导致加沙停火结束，令人严重关切。呼吁各方遵守人道法，应继续进行停火第二阶段的谈判。",
-            "date_modified": "2025-03-18T15:26:55.000Z"
-        },
-        {
-            "id": 4090237,
-            "content_html": "",
-            "title": "周二早间，基准的10年期美国国债收益率下跌0.2个基点，至4.304%。该收益率已从3月4日触及的四个月低点4.106%回升。通常与美联储利率预期同步变动的两年期国债收益率下跌1.1个基点，至4.042%。该收益率从3月11日的3.829%上升，这是自10月4日以来的最低水平。",
-            "date_modified": "2025-03-18T15:26:55.000Z"
-        },
-        {
-            "id": 4090236,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2256210.d.html",
-            "title": "【周二美国长期国债收益率持稳】周二美国较长期国债收益率持稳，此前因市场乐观情绪升温而上涨，投资者认为美国经济前景可能没有最近担心的那么糟糕，但对特朗普贸易政策影响的担忧仍令投资者保持谨慎。Jefferies首席美国经济学家Thomas Simons表示：“市场情绪似乎触及了一个巨大的负面低谷。然而，到目前为止的数据表明，我们在1月份看到的大部分疲软是恶劣天气和许多领域在强劲的第四季度之后的反射性暂停的综合作用……情况并没有像过去两周左右那样糟糕。”周二的数据显示，美国2月独栋住宅建设大幅反弹，而2月制造业产出增幅也超过预期。此前周一的一份报告显示，美国2月零售销售也有所反弹。",
-            "date_modified": "2025-03-18T15:26:15.000Z"
-        },
-        {
-            "id": 4090235,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzc2295889.d.html",
-            "title": "俄罗斯驻联合国特使称，俄罗斯呼吁以色列立即解除对加沙人道主义援助的限制。",
-            "date_modified": "2025-03-18T15:25:34.000Z"
-        },
-        {
-            "id": 4090233,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6414369.d.html",
-            "title": "消息称美国卫生部长小肯尼迪小罗伯特·F·肯尼迪将与婴儿配方奶粉制造商会面。雅培(ABT.N)跌至盘中低点。",
-            "date_modified": "2025-03-18T15:23:22.000Z"
-        },
-        {
-            "id": 4090232,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2255546.d.html",
-            "title": "大型科技股股价下跌。英伟达跌2.6%，Meta Platforms下跌4.9%，亚马逊下跌2.4%，微软下跌1.5%，苹果下跌0.6%。",
-            "date_modified": "2025-03-18T15:22:31.000Z"
-        },
-        {
-            "id": 4090231,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzh5480899.d.html",
-            "title": "【欧盟外长访问英国 讨论推进防务合作等】根据英国政府官方网站消息，欧盟外交与安全政策高级代表卡拉斯于当地时间3月18日抵达伦敦，与英国外交大臣戴维·拉米和英国国防大臣约翰·希利举行会谈，讨论加强对俄罗斯施压并推进防务合作。会谈内容包括如何加强对乌克兰的援助、对俄罗斯进行进一步经济制裁的举措、提高防务支出、加强军事准备等。英国外交大臣和国防大臣均强调了加强英国与欧盟的伙伴关系的重要性。",
-            "date_modified": "2025-03-18T15:22:10.000Z"
-        },
-        {
-            "id": 4090230,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzc2294779.d.html",
-            "title": "俄罗斯驻联合国特使称，加沙地带的人道主义危机很严重。",
-            "date_modified": "2025-03-18T15:21:19.000Z"
-        },
-        {
-            "id": 4090229,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2255202.d.html",
-            "title": "贸易商称，孟加拉国在3月11日截止的招标中从印度购买了5万公吨大米。",
-            "date_modified": "2025-03-18T15:20:41.000Z"
-        },
-        {
-            "id": 4090228,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6413424.d.html",
-            "title": "俄罗斯驻联合国大使：联合国安理会必须尽一切可能确保加沙停火尽快恢复。",
-            "date_modified": "2025-03-18T15:20:12.000Z"
-        },
-        {
-            "id": 4090227,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6412937.d.html",
-            "title": "荷兰议会呼吁政府为国家云服务平台启动招标。",
-            "date_modified": "2025-03-18T15:17:44.000Z"
-        },
-        {
-            "id": 4090226,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6412864.d.html",
-            "title": "荷兰议会批准动议，呼吁政府减少对美国软件公司的依赖。",
-            "date_modified": "2025-03-18T15:17:27.000Z"
-        },
-        {
-            "id": 4090225,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayzk2253713.d.html",
-            "title": "新西兰全球乳制品贸易价格指数保持不变，平均售价为每吨4245美元。",
-            "date_modified": "2025-03-18T15:14:45.000Z"
-        },
-        {
-            "id": 4090224,
-            "content_html": "",
-            "title": "邮轮运营商的股价在周一上涨之后下跌。嘉年华邮轮公司下跌4.8%，挪威邮轮公司下跌5.7%，皇家加勒比邮轮公司下跌7%。",
-            "date_modified": "2025-03-18T15:14:05.000Z"
-        },
-        {
-            "id": 4090223,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-03-18/detail-ineqayze6411366.d.html",
-            "title": "【众多美国大公司正将总部迁往得州】周二发布的一份报告显示，越来越多的美国公司正将总部迁往得克萨斯州。吸引它们的是较低的税收、对商业友好的法规以及不断增长的人才库。这些搬迁预计将重塑得州的经济格局，并增强其在美国全国的影响力。随着计划中的得州证券交易所（Texas Stock Exchange）即将推出，得州有望进一步受益。在此之前，百胜餐饮集团、马斯克旗下的社交媒体平台X和SpaceX、雪佛龙、Frontier通信公司、Fisher投资管理公司、卡特彼勒、艾康科技集团（AECOM）、嘉信理财、甲骨文、惠普等均已经或宣布将其总部迁往得州。（环球市场播报）",
-            "date_modified": "2025-03-18T15:13:22.000Z"
         }
     ]
 }

@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Mar 2025 20:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 21:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【德国总统签署《基本法》修正案放宽“债务刹车”限制】 德国联邦总统发言人塞尔斯廷·加梅林22日在社交媒体上宣布，德国总统施泰因迈尔当天签署了此前联邦议院和联邦参议院通过的《基本法》修正案，放宽“债务刹车”条款限制，允许政府大规模举债投资国防和基础设施建设。该修正案放松限制联邦政府新增债务的“债务刹车”条款，允许联邦政府在国防领域的支出超过国内生产总值1%时，通过举债筹集资金，不计入《基本法》规定的债务限制。此外，允许联邦政府设立一个不受“债务刹车”条款约束的5000亿欧元特别基金，用于交通、电网等基础设施建设。其中，1000亿欧元注入现有的气候与转型基金。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqmza9431630.d.html</link>
+            <guid>4098234</guid>
+            <pubDate>Sat, 22 Mar 2025 20:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【胡塞武装：美军三次空袭也门荷台达省】据胡塞武装消息，当地时间22日晚间，美军对也门荷台达省进行了三次空袭，空袭目标包括荷台达国际机场。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqmza9430918.d.html</link>
+            <guid>4098233</guid>
+            <pubDate>Sat, 22 Mar 2025 20:21:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国航空公司：周六约 90% 的航班按计划执行，预计周日将接近满负荷运行航班计划。]]></title>
             <guid>4098232</guid>
@@ -583,18 +595,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqvh1730169.d.html</link>
             <guid>4098133</guid>
             <pubDate>Sat, 22 Mar 2025 11:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：随着乌克兰持续对俄罗斯能源设施进行打击，俄罗斯保留对称回应的权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqve2761904.d.html</link>
-            <guid>4098132</guid>
-            <pubDate>Sat, 22 Mar 2025 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻加拿大大使王镝：望加方相向而行 促中加关系改善发展】中国驻加拿大使馆网站21日晚刊载中国驻加大使王镝近日就中加关系等问题接受加最大英文媒体《环球邮报》专访实录。王镝表示，期待加方树立正确对华认知，采取更加积极务实的对华政策，为中加各领域交流合作创造公平、公正、非歧视环境；希望加方同中方相向而行，深化两国人民互信，促进双方关系改善发展。 他说，中方对中加关系的认知是，无论何时，中方都愿跟加方开展合作，因为这是对双方人民有利的事情。但“希望我们的诚意能得到加方同样带有诚意的回应”。 当被问及“中国近期对加拿大加征关税，是否是要求加选边站队”时，王镝表示，加拿大和美国等其他国家的关系是加拿大和那些国家的事情，不关中国的事。但加拿大在和别国发展关系时，不应该牺牲中国的利益和中加合作。中方对加采取的反制措施，就是针对加拿大对华采取的歧视性措施。他亦指出，对两国贸易来说，公平与否不能以顺差或逆差决定。但单方面歧视性关税是不公平的。不管是别国对加征收的关税，还是加拿大对中国的关税，都是不公平的。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqvi8503945.d.html</link>
-            <guid>4098131</guid>
-            <pubDate>Sat, 22 Mar 2025 11:10:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

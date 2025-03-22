@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 22 Mar 2025 19:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 20:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英国航空公司：周六约 90% 的航班按计划执行，预计周日将接近满负荷运行航班计划。]]></title>
+            <guid>4098232</guid>
+            <pubDate>Sat, 22 Mar 2025 19:53:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯官员：只要以色列持续其占领 哈马斯就不会解除武装】针对美国中东问题特使威特科夫此前提出的要求哈马斯解除武装的提议，当地时间22日，巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员胡萨姆·巴德兰在接受巴勒斯坦媒体《圣城新闻网》采访时表示，只要以色列持续对巴勒斯坦进行占领，这样的提议就毫无意义。他指出，相比较以色列使用的战机、坦克等致命性武器，巴勒斯坦人民使用武器对抗以色列的占领，是国际法和国际公约所赋予的权利。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqmyx8064018.d.html</link>
+            <guid>4098231</guid>
+            <pubDate>Sat, 22 Mar 2025 19:45:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美联储意外“爆雷”！猛亏5600亿！】当地时间3月21日，美联储发布的2024年财务报表审计结果显示，美联储2024年运营亏损高达776亿美元（约合人民币5600亿元），连续第二年出现大额亏损，2023年亏损额高达1145亿美元。分析称，美联储遭遇巨额亏损的主要原因是其在2020年和2021年疫情期间大力支持经济，以及在2022年和2023年为应对高通胀而大幅加息，将基准利率从接近零上升到5.25%—5.5%的区间。美联储的收入来自于向银行提供的服务以及其持有债券的利息。根据法律规定，美联储必须将利润上缴美国财政部。根据圣路易斯联邦储备银行的研究，从2011年到2021年，美联储向美国财政部上缴了近1万亿美元。但美联储官员强调，这一指标反映的是账面亏损，不会影响其实施货币政策的能力。]]></title>
             <link>https://finance.sina.cn/7x24/2025-03-23/detail-ineqqmyz5306699.d.html</link>
@@ -584,18 +595,6 @@
             <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqvi8503945.d.html</link>
             <guid>4098131</guid>
             <pubDate>Sat, 22 Mar 2025 11:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黎巴嫩国家电视台：以色列袭击南黎巴嫩图林（Touline），造成1人死亡，3人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqve2759164.d.html</link>
-            <guid>4098130</guid>
-            <pubDate>Sat, 22 Mar 2025 10:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军袭击黎巴嫩境内“数十个恐怖目标”】当地时间22日，以色列总理办公室发表声明称，以色列总理内塔尼亚胡和国防部长卡茨已指示以色列国防军对黎巴嫩境内“数十个恐怖目标”实施袭击，以回应当天早上北部城镇梅图拉遭受的火箭弹袭击。声明还称，黎巴嫩政府对其领土上的一切行为负责，以色列不会允许任何对其公民和主权的伤害，并将尽一切努力确保以色列公民和北部社区的安全。以色列国防军已做好准备，随时听从任何命令。目前，以军正在对黎巴嫩南部几个城镇进行一系列袭击。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-03-22/detail-ineqpqve2758002.d.html</link>
-            <guid>4098129</guid>
-            <pubDate>Sat, 22 Mar 2025 10:52:26 GMT</pubDate>
         </item>
     </channel>
 </rss>

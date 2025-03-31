@@ -4,13 +4,396 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 31 Mar 2025 21:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 22:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[富时A50期指连续夜盘收涨0.14%，报13353.000点。]]></title>
+            <title><![CDATA[【加密货币概念股一季度普遍下跌，Bakkt跌65%，TearWulf跌约52%】一季度，CME比特币期货BTC主力合约累计下跌18%，CME以太币期货DCR主力合约累跌48.44%。比特币ETF HODL累计下跌77.95%，以太币ETF QETH跌45.4%、FETH跌45.38%、ETHA跌45.35%。区块链概念股/加密数字货币概念股Bakkt控股跌65%，KULR跌62.82%，TeraWulf跌51.77%，Cipher矿业跌50.43%，Hut 8跌43.29%。整体上涨的屈指可数，第九城市ADR累涨3.23%，网红券商Robinhood涨11.70%，Beyond Inc.涨17.65%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3301055.d.html</link>
+            <guid>4115978</guid>
+            <pubDate>Mon, 31 Mar 2025 22:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI在软银领投的新一轮融资中筹资400亿美元】OpenAI周一表示，它将在软银集团领投的新一轮融资中融资400亿美元， 估值3000亿美元，融资用于推进人工智能研究、扩大计算基础设施和增强其人工智能工具。该公司表示，它希望为每周使用ChatGPT的5亿人提供越来越强大的工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7611526.d.html</link>
+            <guid>4115977</guid>
+            <pubDate>Mon, 31 Mar 2025 22:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：从未与乌克兰讨论过北约。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0601296.d.html</link>
+            <guid>4115976</guid>
+            <pubDate>Mon, 31 Mar 2025 22:14:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗最高领袖顾问：若美国犯错 伊朗将被迫走向制造核武器的方向】当地时间31日，伊朗最高领袖哈梅内伊的顾问阿里·拉里贾尼表示，美国总统特朗普信件的内容基本上与他经常说的话相同，只是用了外交语言表达。他判断正如最高领袖哈梅内伊所说，战争的可能性很低，但即使是最小的战争可能性，伊朗的指挥官也已做好万全准备。阿里·拉里贾尼还表示，间接谈判是为了了解对方诉求和交换利益，在核问题上，是特朗普破坏了协议。伊朗的核计划不会因轰炸而消失。他说道：“如果美国犯错，伊朗将在民众压力下被迫走向制造核武器的方向。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6526275.d.html</link>
+            <guid>4115975</guid>
+            <pubDate>Mon, 31 Mar 2025 22:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我看到泽连斯基试图在稀土问题上重新谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7611241.d.html</link>
+            <guid>4115974</guid>
+            <pubDate>Mon, 31 Mar 2025 22:13:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我相信普京会贯彻到底。如果普京不完成这项工作，我将对俄罗斯石油征收二级关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7611231.d.html</link>
+            <guid>4115973</guid>
+            <pubDate>Mon, 31 Mar 2025 22:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我希望确保普京能够履行承诺，我不想征收二级关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6526114.d.html</link>
+            <guid>4115972</guid>
+            <pubDate>Mon, 31 Mar 2025 22:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我认为普京会坚持到底。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6526099.d.html</link>
+            <guid>4115971</guid>
+            <pubDate>Mon, 31 Mar 2025 22:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：想见到普京。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6526088.d.html</link>
+            <guid>4115970</guid>
+            <pubDate>Mon, 31 Mar 2025 22:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI完成本轮规模为400亿美元的融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3300600.d.html</link>
+            <guid>4115969</guid>
+            <pubDate>Mon, 31 Mar 2025 22:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我希望看到俄罗斯总统普京达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6526027.d.html</link>
+            <guid>4115968</guid>
+            <pubDate>Mon, 31 Mar 2025 22:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【胡塞武装称美军对也门萨达省发动空袭】据也门胡塞武装控制的马西拉电视台当地时间4月1日凌晨公布的消息，美军当天对也门萨达省发动空袭。截至目前，美方对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7610948.d.html</link>
+            <guid>4115967</guid>
+            <pubDate>Mon, 31 Mar 2025 22:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：Stellantis董事长没有要求暂停加征关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0600880.d.html</link>
+            <guid>4115966</guid>
+            <pubDate>Mon, 31 Mar 2025 22:10:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普证实与Stellantis董事长会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3300456.d.html</link>
+            <guid>4115965</guid>
+            <pubDate>Mon, 31 Mar 2025 22:09:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：与其他国家相比，我们将更加友好。在某些情况下，（关税）可能会显著降低。]]></title>
+            <guid>4115963</guid>
+            <pubDate>Mon, 31 Mar 2025 22:08:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：也许明天晚上，可能在周三，你们将看到（对等）关税细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3300339.d.html</link>
+            <guid>4115962</guid>
+            <pubDate>Mon, 31 Mar 2025 22:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我们很快就会达到5万亿美元的美国投资，目前已经有3.5万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3300308.d.html</link>
+            <guid>4115960</guid>
+            <pubDate>Mon, 31 Mar 2025 22:08:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首席执行官称英特尔偏离了客户需求、停止了创新】英特尔首席执行官陈立武希望客户能坦率地告诉他，他们希望从该公司产品中获得什么，因为他认为，最宝贵的反馈是逆耳忠言。他在英特尔2025愿景大会上表示，与客户的早期沟通清楚地表明，近年来，英特尔偏离了客户需求太远，在创新方面落后了。他表示，展望未来，他希望公司像一家大型初创公司那样运营，专注于创新。与此同时，公司将重组现有业务，并努力吸引新的人才。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0600666.d.html</link>
+            <guid>4115959</guid>
+            <pubDate>Mon, 31 Mar 2025 22:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国密歇根州商业团体在信函中警告特朗普，25%的汽车关税将导致车辆价格大幅上涨，并引发严重的供应链中断。]]></title>
+            <guid>4115958</guid>
+            <pubDate>Mon, 31 Mar 2025 22:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰联储银行：在财政部长做出任命之前，将由副行长克里斯蒂安·霍克斯比（Christian Hawkesby）担任代理行长兼首席执行官，一切照常运营。]]></title>
+            <guid>4115957</guid>
+            <pubDate>Mon, 31 Mar 2025 22:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我们将在未来2天内宣布一些重大事件。其他国家正在理解。这是一个国家的重生。]]></title>
+            <guid>4115956</guid>
+            <pubDate>Mon, 31 Mar 2025 22:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰联储：董事会正在准备一份有关任命联储主席的推荐，任期为六个月，预计很快将提交给部长。]]></title>
+            <guid>4115955</guid>
+            <pubDate>Mon, 31 Mar 2025 22:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：还没有研究争取第三个总统任期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3299714.d.html</link>
+            <guid>4115954</guid>
+            <pubDate>Mon, 31 Mar 2025 22:04:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧元一季度涨4.4%，3月初在国防开支计划带动下显著走高】周一（3月31日）纽约尾盘，欧元兑美元跌0.09%，报1.0819，3月份累计上涨4.28%，一季度累涨4.42%，1-2月窄幅震荡于1.0141-1.0527区间，3月份上旬出现一波显著的上扬，随后高位震荡，在3月18日最高达到1.0955。英镑兑美元跌0.18%，报1.2917，3月份累涨2.64%，一季度累涨3.21%，1月13日跌至1.21，随后持续震荡上行，3月20日达到1.3015。美元兑瑞郎涨0.38%、报0.8841，3月份累跌2.11%，一季度累跌2.58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7609986.d.html</link>
+            <guid>4115953</guid>
+            <pubDate>Mon, 31 Mar 2025 22:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：大事件即将来临。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6525005.d.html</link>
+            <guid>4115952</guid>
+            <pubDate>Mon, 31 Mar 2025 22:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（4月1日）亚太盘初，标普500股指期货跌0.2%，道指期货跌0.14%，纳指期货跌0.25%。]]></title>
+            <guid>4115951</guid>
+            <pubDate>Mon, 31 Mar 2025 22:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储5月维持利率不变的概率为86.4%】据CME“美联储观察”： 美联储5月维持利率不变的概率为86.4%，降息25个基点的概率为13.6%。美联储到6月维持利率不变的概率为24%，累计降息25个基点的概率为66.2%，累计降息50个基点的概率为9.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6524901.d.html</link>
+            <guid>4115950</guid>
+            <pubDate>Mon, 31 Mar 2025 22:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球：澳大利亚制造业PMI升至2022年10月以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6524851.d.html</link>
+            <guid>4115949</guid>
+            <pubDate>Mon, 31 Mar 2025 22:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚3月标普全球制造业PMI终值 52.1，前值52.6。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6524822.d.html</link>
+            <guid>4115948</guid>
+            <pubDate>Mon, 31 Mar 2025 22:00:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：门票倒卖现象加剧。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0599720.d.html</link>
+            <guid>4115947</guid>
+            <pubDate>Mon, 31 Mar 2025 22:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利将中软国际有限公司评级下调至平配，目标价5.40港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0599641.d.html</link>
+            <guid>4115946</guid>
+            <pubDate>Mon, 31 Mar 2025 21:57:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普在椭圆形办公室对记者讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3299190.d.html</link>
+            <guid>4115945</guid>
+            <pubDate>Mon, 31 Mar 2025 21:56:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：投资加速器将负责管理芯片项目办公室。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0599200.d.html</link>
+            <guid>4115944</guid>
+            <pubDate>Mon, 31 Mar 2025 21:54:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国财长贝森特、白宫国家经济委员会主任Hassett与参议院共和党就减税计划会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7609261.d.html</link>
+            <guid>4115943</guid>
+            <pubDate>Mon, 31 Mar 2025 21:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（3月31日），彭博电动汽车价格回报指数收跌2.14%，报2389.50点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0599128.d.html</link>
+            <guid>4115942</guid>
+            <pubDate>Mon, 31 Mar 2025 21:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织（IMF）的格奥尔基耶娃表示，美国在数字去监管方面的初步迹象令人鼓舞。]]></title>
+            <guid>4115941</guid>
+            <pubDate>Mon, 31 Mar 2025 21:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国汽车制造商游说政府 希望把低成本汽车零部件排除在关税之外】知情人士称，美国汽车制造商正在游说特朗普政府，以便把某些汽车零部件排除在关税之外，显示其在关税于本周生效之前进行最后一搏。福特汽车、通用汽车和克莱斯勒母公司Stellantis NV正在寻求避免为其在全球采购的数以千计零部件缴纳关税，这些零部件通常来自墨西哥等低成本国家。知情人士称，他们已经与白宫、商务部和美国贸易代表会谈讨论排除事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7608831.d.html</link>
+            <guid>4115940</guid>
+            <pubDate>Mon, 31 Mar 2025 21:45:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统特朗普签署命令，设立投资办公室】 白宫表示，美国总统特朗普签署命令，设立一个隶属于商务部的投资办公室，名为美国投资加速器，意味着部署和加速规模超过10亿美元的美国投资。其职责包括降低监管，加速审批，协调联邦机构之间的回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6523549.d.html</link>
+            <guid>4115939</guid>
+            <pubDate>Mon, 31 Mar 2025 21:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：白宫将监督芯片项目办公室的启动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7608531.d.html</link>
+            <guid>4115938</guid>
+            <pubDate>Mon, 31 Mar 2025 21:42:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度2/10年期美债收益率跌约36个基点】周一（3月31日）纽约尾盘，美国10年期基准国债收益率下跌4.41个基点，报4.2053%，3月份大致持平，一季度累计下跌35.77个基点，整体呈现出震荡下行趋势，交投于4.8069%-4.1040%区间，3月初下探4.1%无果后低位震荡。两年期美债收益率跌2.878个基点，报3.8832%，3月份累跌10.78个基点，一季度累跌35.85个基点，年初至2月20日持续震荡于4.25%附近，随后出现一波下跌，3月11日跌至3.8253%，随后低位震荡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6523067.d.html</link>
+            <guid>4115937</guid>
+            <pubDate>Mon, 31 Mar 2025 21:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统特朗普下令在商务部内设立一个办公室，旨在促进和加速对美国超过十亿美元的投资。]]></title>
+            <guid>4115936</guid>
+            <pubDate>Mon, 31 Mar 2025 21:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统特朗普签署行政命令，成立美国投资加速器。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3296896.d.html</link>
+            <guid>4115935</guid>
+            <pubDate>Mon, 31 Mar 2025 21:38:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至3月31日，SPDR黄金信托（GLD）报告其持有量增加0.15%（即1.44吨），至933.38吨。]]></title>
+            <guid>4115934</guid>
+            <pubDate>Mon, 31 Mar 2025 21:37:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IMF总裁：美国财长理解IMF的存在对于美国经济利益的重要性】国际货币基金组织(IMF)总裁格奥尔基耶娃周一表示，她与美国财政部长贝森特进行了一次 "非常有建设性的 "初步会晤，并表示贝森特理解国际货币基金组织作为全球最后贷款人的重要性。“贝森特非常理解国际货币基金组织（IMF）存在对于美国经济利益的重要性。我们是唯一一家能够在国家陷入困境时提供援助的机构，”格奥尔基耶娃说道。她还提到，作为IMF的最大股东，美国在过去两年中从其IMF资源中赚取了约32亿美元，这些持有资源就像“储蓄账户”一样发挥作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7607663.d.html</link>
+            <guid>4115933</guid>
+            <pubDate>Mon, 31 Mar 2025 21:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【胡塞武装称再次击落一架美军MQ-9型无人机】当地时间4月1日凌晨，也门胡塞武装军事发言人叶海亚表示，胡塞武装击落一架美军MQ-9型无人机。叶海亚表示，这是胡塞武装击落的第16架同型号无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7607378.d.html</link>
+            <guid>4115932</guid>
+            <pubDate>Mon, 31 Mar 2025 21:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔(INTC.O)CEO：期待与特朗普政府“紧密合作”，以推动“共同目标”的实现。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6521895.d.html</link>
+            <guid>4115931</guid>
+            <pubDate>Mon, 31 Mar 2025 21:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美洲玻利瓦尔联盟谴责美国大规模驱逐移民并对移民进行刑事定罪】当地时间3月31日，美洲玻利瓦尔联盟在第25届政治理事会上发布宣言，坚决反对美国大规模驱逐移民，并对移民进行刑事定罪。声明说，该联盟重申对维护拉丁美洲和加勒比地区和平的承诺，在尊重国际法准则和《联合国宪章》基础上，发展友好合作关系，和平解决争端，严格遵守不干涉任何国家内政的承诺。宣言反对并谴责美国政府大规模驱逐移民并对移民进行刑事定罪。在此过程中，移民遭受了非人道主义对待。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3296392.d.html</link>
+            <guid>4115930</guid>
+            <pubDate>Mon, 31 Mar 2025 21:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日元一季度涨4.7%，3月中旬曾逼近146】周一（3月31日）纽约尾盘，美元兑日元涨0.07%，报149.94日元，3月份累计下跌0.42%，一季度累计下跌4.72%，整体持续地震荡下行、交投区间为158.87-146.54日元，3月11日亚太盘初以来略微震荡回升。欧元兑日元大致持平，报162.22日元，3月份累涨3.87%，一季度累跌0.49%，整体呈现出W形走势；英镑兑日元跌0.12%，报193.664日元，3月份累涨2.29%，一季度累跌约1.69%，整体呈现出W形走势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7607031.d.html</link>
+            <guid>4115929</guid>
+            <pubDate>Mon, 31 Mar 2025 21:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔(INTC.O)CEO：我每周都会给我的团队更新代工战略。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0596940.d.html</link>
+            <guid>4115928</guid>
+            <pubDate>Mon, 31 Mar 2025 21:33:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海地中部省一市镇遭帮派武装袭击 532名囚犯越狱】当地时间3月31日，海地帮派武装袭击了该国中部省米勒巴拉市，532名囚犯从监狱逃脱。当天海地帮派武装攻占米勒巴拉市后，放火焚烧房屋和加油站。大量平民因恐惧逃离家园。目前该市通往首都太子港的道路已经被帮派武装控制。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7606886.d.html</link>
+            <guid>4115927</guid>
+            <pubDate>Mon, 31 Mar 2025 21:32:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国法官阻止特朗普政府剥夺一些委内瑞拉移民的临时保护身份。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7606866.d.html</link>
+            <guid>4115926</guid>
+            <pubDate>Mon, 31 Mar 2025 21:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车（GM）美股盘后跌0.13%，福特汽车（F）跌0.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7606810.d.html</link>
+            <guid>4115925</guid>
+            <pubDate>Mon, 31 Mar 2025 21:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔(INTC.O)CEO：我的首要任务是招聘业内最优秀的数据中心人才。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0596710.d.html</link>
+            <guid>4115924</guid>
+            <pubDate>Mon, 31 Mar 2025 21:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【各类资产Q1收官：黄金大涨500美元 比特币先扬后抑】受“特朗普交易”反复、地缘局势变化等影响，各类资产在2025年一季度大幅摇摆，现货黄金一季度累涨19%或约500美元，至高报3127美元/盎司，COMEX黄金期货累涨19.6%。现货白银累涨近18%，至高报34.56美元/盎司；WTI原油期货累跌0.6%，波幅介于65.22美元/桶至79.39美元/桶，布伦特原油跌0.3%，波幅介于68.21美元/桶至81.73美元/桶；比特币累跌11.8%，1月所创历史高位接近11万美元/枚，现回落于8.2万美元一线；美元指数DXY累跌近4%，离岸人民币兑美元涨近1%，目前分别位于104.1和7.26一线，俄罗斯卢布显著升值，美元兑俄罗斯卢布USD/RUB，累跌21%；其他金属方面，铜累涨10.3%，钯金涨近10%，锡大涨近26%，铂金涨超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0596637.d.html</link>
+            <guid>4115923</guid>
+            <pubDate>Mon, 31 Mar 2025 21:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国汽车制造行业寻求将低价值汽车零部件排除在特朗普的关税之外。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6520700.d.html</link>
+            <guid>4115922</guid>
+            <pubDate>Mon, 31 Mar 2025 21:28:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔CEO：我也相信，我们可以在开发针对特定应用的定制硅片方面发挥重要作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7606561.d.html</link>
+            <guid>4115921</guid>
+            <pubDate>Mon, 31 Mar 2025 21:28:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔(INTC.O)CEO：公司将开发定制芯片产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiu7606526.d.html</link>
+            <guid>4115920</guid>
+            <pubDate>Mon, 31 Mar 2025 21:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用电气医疗集团（GE HealthCare Technologies）达成30亿美元循环信贷协议（于2030年3月到期）以及5亿美元的364天信贷协议。]]></title>
+            <guid>4115919</guid>
+            <pubDate>Mon, 31 Mar 2025 21:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[胡塞武装：也门武装部队于2025年3月31日在马里卜省空域执行敌对任务时击落一架美国MQ-9无人机。]]></title>
+            <guid>4115917</guid>
+            <pubDate>Mon, 31 Mar 2025 21:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沃尔玛首席执行官董明伦（McMillon）出售29,124股股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6520394.d.html</link>
+            <guid>4115916</guid>
+            <pubDate>Mon, 31 Mar 2025 21:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国总统特朗普今天早些时候会见了Stellantis首席执行官Elkann。]]></title>
+            <guid>4115915</guid>
+            <pubDate>Mon, 31 Mar 2025 21:26:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英特尔(INTC.O)CEO：我们将剥离一些非核心业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6520222.d.html</link>
+            <guid>4115914</guid>
+            <pubDate>Mon, 31 Mar 2025 21:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美政府称玛丽娜·勒庞（Marine Le Pen）的判决“令人担忧”。周一早些时候，法国极右翼国民议会领导人勒庞和该党的八名欧洲议会议员被判犯有贪污罪，勒庞因挪用欧盟资金被判五年内不得参加公职竞选。]]></title>
+            <guid>4115913</guid>
+            <pubDate>Mon, 31 Mar 2025 21:25:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约白银期货一季度累涨超17%，铜期货涨超24%】周一（3月31日）纽约尾盘，现货白银跌0.12%，报34.0859美元/盎司，3月份累计上涨9.42%，一季度累计上涨大约17.70%。COMEX白银期货跌0.20%，报34.765美元/盎司，3月份累涨9.74%，一季度累涨约17.60%。COMEX铜期货跌1.51%，报5.0525美元/磅，3月份累涨10.79%，一季度累涨约24.23%，3月26日曾涨至5.3740美元创盘中历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraka0596150.d.html</link>
+            <guid>4115912</guid>
+            <pubDate>Mon, 31 Mar 2025 21:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[券商杰富瑞将奥克兰国际机场目标价上调2.4%至每股8.50新西兰元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3294298.d.html</link>
+            <guid>4115911</guid>
+            <pubDate>Mon, 31 Mar 2025 21:21:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3月31日美股成交额前20：日本将实施新规限制苹果谷歌等公司垄断行为】第8名谷歌A类股收高0.20%，成交83.23亿美元。日本公平交易委员会31日发布消息称，已于26日指定对美国谷歌、美国苹果、iTunes（东京）3家企业适用限制IT巨头垄断智能手机APP市场的新法。该新法是《智能手机特定软件竞争促进法》，去年6月获得通过，到12月将全面施行。委员会正在研究具体的运用内容。适用标准为国内用户月均4000万人以上。委员会根据企业方面的申报进行了详细调查。(环球市场播报)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiw6519685.d.html</link>
+            <guid>4115910</guid>
+            <pubDate>Mon, 31 Mar 2025 21:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收涨0.14%，报13353点。]]></title>
             <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerraiy3293412.d.html</link>
             <guid>4115909</guid>
             <pubDate>Mon, 31 Mar 2025 21:15:39 GMT</pubDate>
@@ -207,387 +590,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0722524.d.html</link>
             <guid>4115876</guid>
             <pubDate>Mon, 31 Mar 2025 20:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【布油基金收涨约3.1%，领跑美股大类资产类ETF，一季度小盘股指ETF跌9.5%、纳指ETF跌超8%、长端美债ETF涨约5%、黄金ETF涨19%】周一（3月31日），美国布伦特油价基金收涨3.08%，黄金ETF涨1.44%，道指ETF涨1.02%，美国国债20+年ETF涨0.99%，美国房地产ETF涨0.93%，标普500 ETF涨0.67%，做多美元指数涨0.1%，纳指100 ETF微幅收跌，欧元做多和日元做多跌约0.1%，新兴市场ETF跌超0.1%，罗素2000指数ETF和农产品基金跌约0.5%，大豆基金跌0.65%。]]></title>
-            <guid>4115875</guid>
-            <pubDate>Mon, 31 Mar 2025 20:33:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杜克能源：致力于延长所有现有核电机组的寿命，将于4月提交鲁滨逊核电站的执照更新申请。]]></title>
-            <guid>4115874</guid>
-            <pubDate>Mon, 31 Mar 2025 20:32:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杜克能源：美国核管理委员会批准将奥科尼核电站的运营许可证延长20年。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6642384.d.html</link>
-            <guid>4115873</guid>
-            <pubDate>Mon, 31 Mar 2025 20:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳斯达克100指数因AI泡沫担忧创下近三年来最差季度表现】对人工智能泡沫的担忧给纳斯达克100指数带来了打击，该指数一季度下跌8.3%，为近三年来最差季度表现。此前股市上涨的最大推手，如英伟达(NVDA.O)、博通(AVGO.O)、微软(MSFT.O)、亚马逊(AMZN.O)等，都比各自的历史高位下跌了20%或更多。纳斯达克100指数在2月触顶，较2022年12月的低点上涨了一倍多。虽然该指数的平均估值已从上个月的27倍降至24倍，但相对于过去20年的平均水平（约20倍），其价格仍处于高位。Bokeh Capital Partners首席投资官Kim Forrest认为，整体情况表明投资者对人工智能支出放缓感到紧张，“太多的资金在追逐太少的计算中心需求。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3416625.d.html</link>
-            <guid>4115872</guid>
-            <pubDate>Mon, 31 Mar 2025 20:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【能源业ETF等周一涨超1%，领跑美股行业ETF，一季度半导体ETF跌约13%、能源业ETF涨约10%】 周一（3月31日），日常消费品ETF收涨1.57%，金融业ETF涨1.22%，公用事业ETF涨1.12%，能源业ETF涨1.1%，银行业ETF和区域银行ETF涨0.84%，可选消费ETF、科技行业ETF、全球科技股指数ETF至多涨0.21%，半导体ETF则收跌0.33%，网络股指数ETF跌0.55%，全球航空业ETF跌1.7%，生物科技指数ETF跌1.83%。一季度，全球航空业ETF、半导体ETF、可选消费ETF、科技行业ETF、全球科技股指数ETF累计下跌18.07%-10.63%，网络股指数ETF跌8.64%，区域银行ETF和银行业ETF至多跌约5.2%，医疗业ETF则涨超6.5%，能源业ETF涨9.94%。]]></title>
-            <guid>4115871</guid>
-            <pubDate>Mon, 31 Mar 2025 20:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CACI国际公司与美国军事学院达成合作研究与开发协议以推进电子战技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3415785.d.html</link>
-            <guid>4115870</guid>
-            <pubDate>Mon, 31 Mar 2025 20:24:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一季度特朗普关税输家指数跌超16%，FLNC、ELF和德克斯户外至少跌约45%，3M涨超14%】周一（3月31日），美国“特朗普关税输家”指数跳空低开后震荡上行，尾盘转涨，收涨0.19%，报89.49点，3月份累计下跌11.35%，一季度累跌16.31%。周一当天，成分股Wayfair收跌5.38%，ELF跌3.15%，3M、孩之宝、百思买则至多收涨1.6%表现靠前，美元树涨3.19%。一季度，Fluence Energy累跌69.46%，ELF跌49.99%，德克斯户外跌44.95%，纽威跌37.06%，蔻驰则累涨超8.2%，美泰涨约9.6%，孩之宝涨11.18%，3M涨14.33%。]]></title>
-            <guid>4115869</guid>
-            <pubDate>Mon, 31 Mar 2025 20:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华纳兄弟探索公司任命安东·莱维为董事会成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7731139.d.html</link>
-            <guid>4115868</guid>
-            <pubDate>Mon, 31 Mar 2025 20:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储巴尔金：既担心关税会推高物价，也担心更高关税损害就业市场】美联储理事巴尔金周一表示，任何降息的时机都将取决于通胀的情况，虽然他担心关税会推高物价，但他也担心更高的关税会损害就业市场。"我对这两方面都感到紧张，"巴尔金在接受采访时说，"现在有很多不确定性，我认为这使得我们有理由静观其变。"]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3415341.d.html</link>
-            <guid>4115867</guid>
-            <pubDate>Mon, 31 Mar 2025 20:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股“七姐妹”｜一季度特斯拉跌约36%，英伟达跌超19%，苹果跌超11%】周一（3月31日），美国科技股七巨头（Magnificent 7）指数跳空低开后震荡上行，最终收跌0.19%，报144.21点，3月份累计下跌9.74%，一季度累计下跌14.83%。特斯拉收跌1.67%，亚马逊跌1.28%，英伟达跌1.18%，微软跌0.9%，Meta Platforms跌0.07%，谷歌A则涨0.2%，苹果涨1.94%。此外，AMD收跌0.47%，礼来则涨0.41%，台积电ADR涨0.45%，巴菲特旗下伯克希尔哈撒韦B类股涨1.19%。一季度，特斯拉累计下跌35.83%，英伟达跌19.29%，谷歌A跌18.22%，台积电ADR跌15.62%，AMD跌14.94%，亚马逊跌13.28%，苹果跌11.20%，微软跌10.76%，Meta跌1.48%，礼来则累涨7.17%，伯克希尔B类股涨17.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3414692.d.html</link>
-            <guid>4115866</guid>
-            <pubDate>Mon, 31 Mar 2025 20:16:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥伦比亚总统佩特罗：哥伦比亚央行因政治原因维持关键利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3414456.d.html</link>
-            <guid>4115865</guid>
-            <pubDate>Mon, 31 Mar 2025 20:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美元指数3月31日上涨】衡量美元对六种主要货币的美元指数当天上涨0.17%，在汇市尾市收于104.223。截至纽约汇市尾市，1欧元兑换1.0813美元，低于前一交易日的1.0825美元；1英镑兑换1.2910美元，低于前一交易日的1.2940美元。1美元兑换150.14日元，高于前一交易日的149.96日元；1美元兑换0.8848瑞士法郎，高于前一交易日的0.8819瑞士法郎；1美元兑换1.4373加元，高于前一交易日的1.4316加元；1美元兑换10.0431瑞典克朗，高于前一交易日的9.9986瑞典克朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6639850.d.html</link>
-            <guid>4115864</guid>
-            <pubDate>Mon, 31 Mar 2025 20:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军31日在加沙地带的军事行动已致41人死亡】据加沙地带卫生部门当地时间3月31日统计，以军当天在加沙的军事行动已导致41人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3414129.d.html</link>
-            <guid>4115863</guid>
-            <pubDate>Mon, 31 Mar 2025 20:12:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【涉及反犹 哈佛大学约90亿美元联邦拨款及政府合同将遭审查】当地时间3月31日，美国特朗普政府将因反犹太主义问题审查对哈佛大学的90亿美元联邦拨款和合同。特朗普政府当天在一封信中通知哈佛大学称，该校未能解决校园反犹太主义问题。一位知情人士称，特朗普的反犹太主义特别工作组正在调查政府与哈佛大学之间2.556亿美元的合同和87亿美元的多年期拨款承诺。据悉，这项调查是出于对哈佛大学未能遵守民权法责任的担忧而展开的。知情人士称，如果哈佛大学不解决特别工作组对反犹太主义的担忧并在本周采取措施，该校将开始失去资金支持。知情人士表示，政府的审查将影响哈佛大学包括各研究机构的各个附属机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3414033.d.html</link>
-            <guid>4115862</guid>
-            <pubDate>Mon, 31 Mar 2025 20:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普计划整顿美国娱乐票务行业】美国总统特朗普计划签署行政命令，旨在保护粉丝免受“剥削性的门票倒卖”并改革美国现场娱乐票务行业。特朗普将发布行政命令指示联邦贸易委员会（FTC）与美国检察官合作，以确保在演唱会和娱乐行业竞争法得到恰当执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6638932.d.html</link>
-            <guid>4115860</guid>
-            <pubDate>Mon, 31 Mar 2025 20:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗将唯品会ADR评级下调至中性，目标价18美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7729328.d.html</link>
-            <guid>4115859</guid>
-            <pubDate>Mon, 31 Mar 2025 20:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电视广播公司和多平台内容出版商Newsmax（NMAX）美国IPO首日收涨735.10%，报83.51美元。]]></title>
-            <guid>4115858</guid>
-            <pubDate>Mon, 31 Mar 2025 20:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数一季度下跌8.3%，创2022年第二季度以来最差季度表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6637840.d.html</link>
-            <guid>4115857</guid>
-            <pubDate>Mon, 31 Mar 2025 20:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OpenAI计划在未来几个月内发布开放重量级语言模型】OpenAI首席执行官Sam Altman周一表示，OpenAI 计划在未来几个月内发布自GPT-2以来首个具有推理能力 的开放重量级语言模型，公司将与开发者讨论如何让它发挥作用。开放权重语言模型是一种允许根据新的输入数据或任务调整或微调模型权重的类型。Altman说："我们还需要做出一些决定，因此我们正在举办开发者活动，以收集反馈意见，并在之后试用早期原型。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6637769.d.html</link>
-            <guid>4115856</guid>
-            <pubDate>Mon, 31 Mar 2025 20:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【周一热门中概股涨跌不一 文远知行跌6.54%】周一热门中概股涨跌不一。纳斯达克中国金龙指数（HXC）收跌0.61%。网易涨2.18%，携程涨1.44%，小鹏汽车涨5.18%，联电涨9.16%，金山云涨2.79%。阿里巴巴跌0.15%，拼多多跌1.74%，京东跌1.11%，百度跌1.44%，理想汽车跌1.25%，贝壳跌2.43%，唯品会跌2.79%，哔哩哔哩跌0.57%，文远知行跌6.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0718942.d.html</link>
-            <guid>4115855</guid>
-            <pubDate>Mon, 31 Mar 2025 20:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股三大指数收盘涨跌不一 标普500指数、道指3月份均创至少28个月以来最大单月跌幅】美股三大指数收盘涨跌不一，道指涨1%，3月份累跌4.2%，一季度累跌1.28%；标普500指数涨0.55%，3月份累跌5.75%，创2022年10月以来最大单月跌幅；一季度累跌4.59%，创2022年四季度以来最大季度跌幅；道指跌0.14%，3月份累跌8.21%，创2023年以来最大单月跌幅，一季度累跌10.42%，创2022年三季度以来最大季度跌幅。纳斯达克100指数第一季度下跌8.3%，创2022年第二季度来最差季度表现。媒体公司Newsmax美股上市首日大涨超700%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7729000.d.html</link>
-            <guid>4115854</guid>
-            <pubDate>Mon, 31 Mar 2025 20:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普：将继续打击胡塞武装，直到它们不再对航行自由构成威胁】美国总统特朗普在社交媒体上表示：“伊朗支持的胡塞恐怖分子在过去两周的无情袭击中被歼灭。他们的许多战士和领袖已经离开了我们。我们日以继夜地打击他们，越打越狠。它们威胁航运和该地区的能力正在迅速被摧毁。我们将继续攻击，直到它们不再对航行自由构成威胁。胡塞武装的选择很明确：停止向美国船只开枪，我们也将停止向你们开枪。否则，我们才刚刚开始，对胡塞武装及其在伊朗的支持者来说，真正的痛苦还没有到来。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0718727.d.html</link>
-            <guid>4115853</guid>
-            <pubDate>Mon, 31 Mar 2025 19:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行将速腾聚创科技有限公司评级下调至卖出，目标价18港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3411289.d.html</link>
-            <guid>4115852</guid>
-            <pubDate>Mon, 31 Mar 2025 19:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指尾盘转涨，盘初一度跌超2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0718419.d.html</link>
-            <guid>4115851</guid>
-            <pubDate>Mon, 31 Mar 2025 19:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Runway重磅发布AI视频生成模型Gen-4：保真度、动态性、一致性全面升级】3月31日，专注于视频生成的Runway公司正式推出了他们的新一代模型系列 ——Gen-4。在视频生成的保真度、动态运动捕捉和可控性上都树立了新的标准，相较于之前的 Gen-3 Alpha 版本，提升非常明显。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3411001.d.html</link>
-            <guid>4115850</guid>
-            <pubDate>Mon, 31 Mar 2025 19:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼古拉公司：在截至2024年9月30日的9个月期间确认了3340万美元的减值费用，该费用与使用寿命不确定的无形资产和商誉有关。]]></title>
-            <guid>4115849</guid>
-            <pubDate>Mon, 31 Mar 2025 19:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼古拉公司（NIKOLA CORP）：与截至2023年12月31日的年度相比，公司确认在截至2024年12月31日的年度中收入有所增长。]]></title>
-            <guid>4115848</guid>
-            <pubDate>Mon, 31 Mar 2025 19:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新能源汽车制造商尼古拉在申请延长破产时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3410741.d.html</link>
-            <guid>4115847</guid>
-            <pubDate>Mon, 31 Mar 2025 19:50:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国特别工作组将审查哈佛大学超过87亿美元的多年期拨款。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6635980.d.html</link>
-            <guid>4115846</guid>
-            <pubDate>Mon, 31 Mar 2025 19:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫考虑制定行政命令，加快批准深海采矿】据两位消息人士透露，白宫正在考虑一项行政命令，旨在加快批准在国际水域进行深海采矿，并允许矿业公司绕过联合国支持的审查程序。为在全球获取在美国经济中广泛使用的镍、铜和其他重要矿产，特朗普最近对格陵兰岛和乌克兰采取了行动，若这份命令得到签署，意味着特朗普在矿产问题上又作出新的尝试。特朗普本月早些时候还动用了紧急权力来促进国内矿产生产。根据联合国海洋法公约（美国尚未批准）创建的国际海底管理局（ISA）多年来一直考虑在国际水域进行深海采矿的标准，但由于在实践中可接受的灰尘、噪音和其他方面存在悬而未决的分歧，这些标准尚未正式确定。消息人士称，特朗普的深海采矿命令可能规定，美国旨在行使其在海底开采关键矿物的权利，并允许矿企绕过ISA，通过美国商务部国家海洋和大气管理局的采矿法规寻求许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7728013.d.html</link>
-            <guid>4115845</guid>
-            <pubDate>Mon, 31 Mar 2025 19:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现代汽车警告美国经销商，在4月2日新关税即将生效之后，其可能会改变汽车价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3410040.d.html</link>
-            <guid>4115844</guid>
-            <pubDate>Mon, 31 Mar 2025 19:46:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数转涨，标普500指数涨幅扩大至0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7727515.d.html</link>
-            <guid>4115843</guid>
-            <pubDate>Mon, 31 Mar 2025 19:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万斯将主持共和党全国委员会筹款活动，或打造自己的筹款网络】据AXIOS网站，周一晚上，美国副总统万斯将在纽约市主持一场筹款活动，这是他作为副总统首次为共和党全国委员会筹款。这一举动表明，万斯正在为可能的2028年总统竞选维持和建立自己的筹款网络。万斯与硅谷的捐助者有着深厚的联系，其中包括投资者大卫·萨克斯和贝宝（PayPal）的联合创始人彼得·蒂尔（Peter Thiel），后者是万斯的导师，并为他2022年竞选参议员提供了资金。这位副总统还与马斯克关系密切，马斯克是世界首富，也是政府效率部的代言人，他游说特朗普选择万斯担任副总统。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0717342.d.html</link>
-            <guid>4115842</guid>
-            <pubDate>Mon, 31 Mar 2025 19:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近东救济工程处：以军疏散令将影响超14万加沙民众 加剧困境】联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）负责人菲利普·拉扎里尼31日表示，以军当天在加沙地带南部拉法发布的大规模疏散令将影响到超过14万民众，将进一步加剧当地民众的困境。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6634883.d.html</link>
-            <guid>4115841</guid>
-            <pubDate>Mon, 31 Mar 2025 19:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI创始人Sam Altman：我们计划在未来几个月推出一个强大的、具备推理能力的新型开源语言模型。]]></title>
-            <guid>4115840</guid>
-            <pubDate>Mon, 31 Mar 2025 19:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西国家石油公司将自4月1日起将向经销商出售的航空燃油平均价格平均下调7.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6633783.d.html</link>
-            <guid>4115839</guid>
-            <pubDate>Mon, 31 Mar 2025 19:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国政府正在审查对哈佛大学的90亿美元资助，原因涉及反犹太主义问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0716558.d.html</link>
-            <guid>4115838</guid>
-            <pubDate>Mon, 31 Mar 2025 19:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织（IMF）总裁格奥尔基耶娃：预计在4月春季会议之前完成与阿根廷的新计划谈判。]]></title>
-            <guid>4115837</guid>
-            <pubDate>Mon, 31 Mar 2025 19:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织总裁格奥尔基耶娃表示，根据阿根廷经济改革表现，该国要求首笔发放新贷款计划 40% 的请求是合理的。]]></title>
-            <guid>4115836</guid>
-            <pubDate>Mon, 31 Mar 2025 19:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部驻港公署发言人：美国干涉香港事务和中国内政注定失败】针对美国国务卿鲁比奥和国务院宣布“制裁”6名中国中央政府驻港机构和香港特区政府官员，以及美国务院发布所谓“2025年香港政策法报告”，外交部驻港公署发言人表示强烈谴责，坚决反对！发言人表示，美方对中方有关官员实施无理“制裁”，并发布粗制滥造、充满谎言的所谓“报告”，抹黑“一国两制”，诋毁香港法治、民主、自由、人权状况，是对香港事务和中国内政的粗暴干涉，是对国际法原则和国际关系基本准则的粗暴践踏，再次暴露了美国霸权霸道的丑恶嘴脸。发言人指出，美方所谓“制裁”再次暴露了其破坏香港繁荣稳定、遏制中国发展的险恶用心。对美方的卑劣行径，中方必将采取有力措施坚决反制！我们再次正告美方，香港是中国的香港，香港事务纯属中国内政，任何外部干涉注定失败！我们敦促美方恪守国际法原则和国际关系基本准则，停止以任何方式干涉香港事务和中国内政。（外交部驻香港特派员公署）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7726475.d.html</link>
-            <guid>4115835</guid>
-            <pubDate>Mon, 31 Mar 2025 19:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在岸人民币兑美元（CNY）北京时间03:00收报7.2570元，较上周五夜盘收盘涨60点。成交量467.52亿美元。]]></title>
-            <guid>4115834</guid>
-            <pubDate>Mon, 31 Mar 2025 19:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储放缓缩表是自然的下一步举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6632030.d.html</link>
-            <guid>4115833</guid>
-            <pubDate>Mon, 31 Mar 2025 19:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：任何在特斯拉汽车上乱涂纳粹标志的人显然都犯了仇恨罪。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0715718.d.html</link>
-            <guid>4115832</guid>
-            <pubDate>Mon, 31 Mar 2025 19:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：低收入国家需要战略性地思考自己的未来。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6631908.d.html</link>
-            <guid>4115831</guid>
-            <pubDate>Mon, 31 Mar 2025 19:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：较长期通胀预期已经得到锚定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7725707.d.html</link>
-            <guid>4115830</guid>
-            <pubDate>Mon, 31 Mar 2025 19:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：在增长前景不佳的情况下，债务缠身的发展中国家很难打破债务服务负担的循环。]]></title>
-            <guid>4115829</guid>
-            <pubDate>Mon, 31 Mar 2025 19:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储需要保持长期通胀预期稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6631687.d.html</link>
-            <guid>4115828</guid>
-            <pubDate>Mon, 31 Mar 2025 19:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据以色列时报：以色列财长斯莫特里赫短暂辞去部长职务，这是一种政治策略，目的是将对手政党的成员赶出议会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0715547.d.html</link>
-            <guid>4115827</guid>
-            <pubDate>Mon, 31 Mar 2025 19:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：不确定未来几年货币政策应该达到何种水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0715501.d.html</link>
-            <guid>4115826</guid>
-            <pubDate>Mon, 31 Mar 2025 19:21:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：资产负债表的缩减可能会更慢，持续时间更长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6631483.d.html</link>
-            <guid>4115825</guid>
-            <pubDate>Mon, 31 Mar 2025 19:21:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储需要根据数据的反馈来调整政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6631430.d.html</link>
-            <guid>4115824</guid>
-            <pubDate>Mon, 31 Mar 2025 19:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：正如美联储主席所说，让我们拭目以待，看看情况会如何发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3405894.d.html</link>
-            <guid>4115823</guid>
-            <pubDate>Mon, 31 Mar 2025 19:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：不急于降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3405868.d.html</link>
-            <guid>4115822</guid>
-            <pubDate>Mon, 31 Mar 2025 19:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储在改变政策之前有能力收集更多信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7725391.d.html</link>
-            <guid>4115821</guid>
-            <pubDate>Mon, 31 Mar 2025 19:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织（IMF）总裁格奥尔基耶娃：消除创业和增长的障碍是件好事。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzw7725386.d.html</link>
-            <guid>4115820</guid>
-            <pubDate>Mon, 31 Mar 2025 19:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：我们希望在各地都能看到明智的监管。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0715300.d.html</link>
-            <guid>4115819</guid>
-            <pubDate>Mon, 31 Mar 2025 19:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储当前的政策水平处于有利地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6631199.d.html</link>
-            <guid>4115818</guid>
-            <pubDate>Mon, 31 Mar 2025 19:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：货币政策的定位良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6631149.d.html</link>
-            <guid>4115817</guid>
-            <pubDate>Mon, 31 Mar 2025 19:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：我对通胀和就业情况感到担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6631083.d.html</link>
-            <guid>4115815</guid>
-            <pubDate>Mon, 31 Mar 2025 19:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：预计经济将继续增长，但增速将低于去年。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6631050.d.html</link>
-            <guid>4115814</guid>
-            <pubDate>Mon, 31 Mar 2025 19:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：与美国财政部长贝森特进行了非常具有建设性的会议。贝森特对国际货币基金组织存在的理由有深刻的理解。美国在过去两年中从基金持有中获得32亿美元收益。]]></title>
-            <guid>4115812</guid>
-            <pubDate>Mon, 31 Mar 2025 19:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：当前经济并不存在滞涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwae0715166.d.html</link>
-            <guid>4115811</guid>
-            <pubDate>Mon, 31 Mar 2025 19:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储将在关注就业任务的同时实现通胀目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqvzy6630916.d.html</link>
-            <guid>4115810</guid>
-            <pubDate>Mon, 31 Mar 2025 19:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储巴尔金：现在不是我该表明自己预计今年会有多少次降息的时候。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-01/detail-inerqwaa3405443.d.html</link>
-            <guid>4115809</guid>
-            <pubDate>Mon, 31 Mar 2025 19:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织（IMF）总裁格奥尔基耶娃：如果不确定性迅速降低，对美国的预期仍将是经济强劲。]]></title>
-            <guid>4115808</guid>
-            <pubDate>Mon, 31 Mar 2025 19:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织（IMF）总裁格奥尔基耶娃：2025年美国的反通货膨胀（进程）可能会放缓，但（通胀水平）应该能达到美联储2026年的目标，从而回归（通胀）目标值。]]></title>
-            <guid>4115807</guid>
-            <pubDate>Mon, 31 Mar 2025 19:16:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

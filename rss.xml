@@ -4,13 +4,526 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 17 Apr 2025 14:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Apr 2025 15:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[布伦特原油日内涨幅扩大至2.00%，现报66.63美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3252330.d.html</link>
+            <guid>4152524</guid>
+            <pubDate>Thu, 17 Apr 2025 15:18:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨总统：若诺沃亚就职厄瓜多尔总统 将拒绝与厄复交】当地时间16日，墨西哥总统辛鲍姆表示，若厄瓜多尔当选总统诺沃亚就职，墨西哥将不会恢复与厄瓜多尔的外交关系。根据厄瓜多尔选举委员会13日的初步统计结果，“全国民主行动运动”候选人、厄瓜多尔现任总统诺沃亚赢得大选。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5578955.d.html</link>
+            <guid>4152523</guid>
+            <pubDate>Thu, 17 Apr 2025 15:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿富汗外交部表示，俄罗斯大使转达了俄罗斯最高法院将塔利班从被禁组织名单中移除的决定。]]></title>
+            <guid>4152521</guid>
+            <pubDate>Thu, 17 Apr 2025 15:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利经济部长：包括国内数字税在内的税收政策是要在双边（而非欧盟层面）与美国协商的事项。]]></title>
+            <guid>4152520</guid>
+            <pubDate>Thu, 17 Apr 2025 15:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利财政部长：计划在周二的G20峰会期间与美国财长会晤。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5577416.d.html</link>
+            <guid>4152519</guid>
+            <pubDate>Thu, 17 Apr 2025 15:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：普京会见了伊朗外交部长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8820170.d.html</link>
+            <guid>4152517</guid>
+            <pubDate>Thu, 17 Apr 2025 15:09:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国法官裁定谷歌在在线广告技术领域存在非法垄断行为】一名美国联邦法官周四表示，谷歌(GOOG.O)非法垄断在线广告技术的两个市场，这是这家科技巨头在美国提起的反垄断案中遭受的又一次打击。这一裁决可能使检察官有理由要求分拆谷歌的广告产品。美国司法部表示，谷歌至少应该出售旗下的广告管理器产品，其中包括该公司的出版商广告服务器业务和广告交易平台。谷歌现在可能面临两家不同的美国法院命令其出售资产或改变其商业行为。美国司法部要求谷歌出售其Chrome浏览器，并采取其他措施结束其在在线搜索领域的主导地位，华盛顿的一名法官将于下周就这一要求举行审判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8820050.d.html</link>
+            <guid>4152516</guid>
+            <pubDate>Thu, 17 Apr 2025 15:08:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线反弹10美元，现报3301.03美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2045422.d.html</link>
+            <guid>4152515</guid>
+            <pubDate>Thu, 17 Apr 2025 15:07:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚涨幅扩大至3.4%，消息称美国考虑削减近100亿美元的清洁能源资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2045415.d.html</link>
+            <guid>4152514</guid>
+            <pubDate>Thu, 17 Apr 2025 15:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东证监局联合召开广东省属国有控股上市公司管理座谈会】 4月17日，广东证监局官网发布消息，近日，广东证监局联合广东省委金融办、广东省国资委和人民银行广东省分行召开广东省属国有控股上市公司管理座谈会，全力贯彻落实市值管理工作要求，强化国资国企上市引领支撑作用，坚定维护资本市场稳定。此前，广东证监局还联合广州市委金融办、广州市国资委召开市属国有上市公司市值管理工作会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5576690.d.html</link>
+            <guid>4152513</guid>
+            <pubDate>Thu, 17 Apr 2025 15:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IMF警告全球贸易“重启”将拖累增长 暂不担忧经济衰退】国际货币基金组织(IMF)总裁警告称，美国主导的世界贸易“重启”将拖累全球经济增长，但衰退并不在预测之中。在下周于华盛顿召开春季年会前，IMF总裁克里斯塔利娜·格奥尔基耶娃周四表示，美国总统唐纳德·特朗普的关税威胁外交助长了保护主义的抬头，将引发代价高昂的不确定性，减缓经济活动并阻碍生产力。“贸易在继续，但中断会带来代价，”她在华盛顿发表讲话时表示。“我们的新增长预测将有明显下调，但不包括衰退”，同时预计部分国家的通胀会加快。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5576493.d.html</link>
+            <guid>4152512</guid>
+            <pubDate>Thu, 17 Apr 2025 15:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京将严查大数据杀熟和强制搭售等五种网络销售违法行为】北京市市场监管局在17日召开的北京市重点平台企业工作指导会上，发布了关于规范网络销售、直播带货领域不合理经营行为的若干措施。按照若干措施，北京将严查虚假宣传、价格违法、大数据杀熟和强制搭售、售卖假冒伪劣产品以及食品安全违法等五种违法行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2045006.d.html</link>
+            <guid>4152511</guid>
+            <pubDate>Thu, 17 Apr 2025 15:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国考虑削减近100亿美元的清洁能源资金】美国能源部正准备进行重大资金削减，这一举措可能导致近100亿美元的联邦清洁能源项目资金面临中断。其中，该部门与埃克森美孚和西方石油等公司一些备受瞩目的合作项目也岌岌可危。华尔街日报看到的能源部备忘录显示，这些拟议中的削减计划将颠覆政府与从事氢能源、碳捕获、长时储能及其他技术研发的能源公司签订的合同。预计还将导致数千个能源部相关工作岗位被裁撤。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5576208.d.html</link>
+            <guid>4152510</guid>
+            <pubDate>Thu, 17 Apr 2025 15:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军将提前向公众通报也门导弹袭击事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2044774.d.html</link>
+            <guid>4152509</guid>
+            <pubDate>Thu, 17 Apr 2025 15:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丹麦央行将基准利率从2.1%下调至1.85%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5575702.d.html</link>
+            <guid>4152508</guid>
+            <pubDate>Thu, 17 Apr 2025 15:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线均走高0.3美元，现分别报63.02美元/桶和66.31美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2044299.d.html</link>
+            <guid>4152507</guid>
+            <pubDate>Thu, 17 Apr 2025 15:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[融创中国公告称，已与若干有代表性的债权人就境外债务重组方案达成一致。融创中国知悉持有债务本金额超过10亿美元的债权人原则性支持。]]></title>
+            <guid>4152506</guid>
+            <pubDate>Thu, 17 Apr 2025 15:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分期货夜盘收盘 玻璃夜盘收跌3.15%】部分期货夜盘收盘，玻璃夜盘收跌3.15%，合成橡胶跌1.94%，焦炭跌1.89%，焦煤跌1.82%，纸浆跌1.19%，热卷跌0.66%，铁矿石跌0.63%。低硫燃油、烧碱、沥青、燃油、菜粕、白糖、棕榈油夜盘则至多收涨1.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2044161.d.html</link>
+            <guid>4152505</guid>
+            <pubDate>Thu, 17 Apr 2025 15:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧美股市明日休市，金银油汇交易暂停】受耶稣受难日和复活节假期影响，美股、港股、欧股、澳股于4月18日休市一日，港股、欧股、澳股于4月21日继续休市。CME旗下贵金属、美国原油、外汇、农产品和股指期货合约交易，以及ICE旗下农产品、布伦特原油期货合约交易于4月18日全天交易暂停，4月21日恢复交易，敬请各位投资者留意。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8818549.d.html</link>
+            <guid>4152504</guid>
+            <pubDate>Thu, 17 Apr 2025 15:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[习近平同柬埔寨首相洪玛奈共同见证中柬双方交换30多份双边合作文本，涵盖产供链合作、人工智能、发展援助、海关检验检疫、卫生、新闻等领域。（新华社）]]></title>
+            <guid>4152503</guid>
+            <pubDate>Thu, 17 Apr 2025 14:59:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：除非出现“新冲击”，否则土耳其央行将在七月恢复降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5574995.d.html</link>
+            <guid>4152502</guid>
+            <pubDate>Thu, 17 Apr 2025 14:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：阿根廷外汇政策调整为储备积累打开了更为明确的路径。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5574978.d.html</link>
+            <guid>4152501</guid>
+            <pubDate>Thu, 17 Apr 2025 14:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杰富瑞上调GE Vernova目标价至418美元】 杰富瑞将美国电力设备制造商GE Vernova的目标价从413美元上调至418美元，关税可能会影响成本，但预计公司至少会将部分成本转嫁到定价上。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8818278.d.html</link>
+            <guid>4152499</guid>
+            <pubDate>Thu, 17 Apr 2025 14:58:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[习近平同柬埔寨首相洪玛奈举行会谈，两国领导人一致同意携手构建新时代全天候中柬命运共同体，宣布2025年为“中柬旅游年”。 （新华社）]]></title>
+            <guid>4152498</guid>
+            <pubDate>Thu, 17 Apr 2025 14:57:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格奥尔基耶娃：看到欧洲央行降息，他们就有可能看到来自其他地方的廉价商品增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5574673.d.html</link>
+            <guid>4152497</guid>
+            <pubDate>Thu, 17 Apr 2025 14:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赫兹租车涨超25% 近两日股价实现翻倍】赫兹租车(HTZ.US)股价走高，近两日股价实现翻倍。截至发稿，该股涨超25%，报7.19美元。该公司获比尔·阿克曼旗下对冲基金押注。监管文件披露，截至2024年底，比尔·阿克曼旗下对冲基金潘兴广场持有赫兹4.1%的股份。据知情人士透露，潘兴广场通过股票和掉期交易大幅增持股份至19.8%，成为赫兹的第二大股东。阿克曼的投资公司获得了美国证券交易委员会的豁免，可以延迟到周三才提交持仓信息，这使得他们能够积累更多股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5574525.d.html</link>
+            <guid>4152496</guid>
+            <pubDate>Thu, 17 Apr 2025 14:56:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：（被问及通货膨胀问题时）预计通胀不会在任何一个方向出现大幅波动。]]></title>
+            <guid>4152495</guid>
+            <pubDate>Thu, 17 Apr 2025 14:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线冲高近30点，现报99.58。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8817974.d.html</link>
+            <guid>4152494</guid>
+            <pubDate>Thu, 17 Apr 2025 14:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evercore ISI Group将斯凯奇目标价从78.00美元下调至60.00美元。]]></title>
+            <guid>4152493</guid>
+            <pubDate>Thu, 17 Apr 2025 14:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【4月17日增减持汇总】据统计，4月17日，截至发稿前，暂无上市公司披露增持情况，恒光股份披露减持情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2043345.d.html</link>
+            <guid>4152492</guid>
+            <pubDate>Thu, 17 Apr 2025 14:54:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF格奥尔基耶娃：贸易紧张局势将迫使各国更多地关注区域贸易，可能会看到更多双边协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8817771.d.html</link>
+            <guid>4152491</guid>
+            <pubDate>Thu, 17 Apr 2025 14:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【现货金银持续走低】现货黄金短线跌幅扩大至10美元，现报3288.06美元/盎司；现货白银日内走低2.00%，现报32.09美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3247414.d.html</link>
+            <guid>4152490</guid>
+            <pubDate>Thu, 17 Apr 2025 14:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国顾问宣称：美国与刚果的矿产协议取得进展】 4月17日，一位美国高级官员表示，作为潜在关键矿产合作伙伴关系的一部分，美国可能通过美国进出口银行和美国国际开发金融公司（IDFC）向在刚果民主共和国运营的公司提供融资。美国国务院非洲事务高级顾问马萨德·布洛斯一次在线简报会上表示，这些金融机构将支持对所谓的“洛比托走廊”的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3247374.d.html</link>
+            <guid>4152489</guid>
+            <pubDate>Thu, 17 Apr 2025 14:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：欧盟应抓住这一机遇，完成单一市场的建设。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3247291.d.html</link>
+            <guid>4152488</guid>
+            <pubDate>Thu, 17 Apr 2025 14:52:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雅生活服务：执行董事黄奉潮辞任，此前已辞去董事长等职务】4月17日，雅生活服务（03319.HK）宣布，黄奉潮将辞去执行董事职务，该变动将于2025年5月28日正式生效。公告显示，黄奉潮辞任原因是工作安排，且已确认与董事会并无意见分歧。雅生活表示，目前，公司正在积极寻找合适的人选以尽快填补黄奉潮留下的董事职位，并承诺将继续遵守香港联交所证券上市规则有关董事会组成的规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3247278.d.html</link>
+            <guid>4152487</guid>
+            <pubDate>Thu, 17 Apr 2025 14:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门首都萨那传出爆炸声】据总台报道员消息，当地时间17日傍晚，也门首都萨那传出爆炸声。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5573850.d.html</link>
+            <guid>4152486</guid>
+            <pubDate>Thu, 17 Apr 2025 14:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet股价最新下跌1.8%，至150.54美元。美国法官裁定谷歌在在线广告技术领域存在非法垄断行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5573661.d.html</link>
+            <guid>4152485</guid>
+            <pubDate>Thu, 17 Apr 2025 14:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF格奥尔基耶娃：我们看到全球经济放缓，需要减少不确定性以便企业能够进行规划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2042588.d.html</link>
+            <guid>4152484</guid>
+            <pubDate>Thu, 17 Apr 2025 14:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总统新闻秘书：乌克兰问题谈判相当艰难】俄罗斯总统新闻秘书佩斯科夫17日说，围绕乌克兰问题的谈判进行得相当艰难。塔斯社援引佩斯科夫的话报道说，俄方目前正集中精力与美国方面接触，俄方认为俄美接触是解决乌克兰问题的主要途径。他说，欧洲方面坚持继续军事行动，乌克兰方面也自行其是，这就是谈判进展不顺利的原因。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5572768.d.html</link>
+            <guid>4152483</guid>
+            <pubDate>Thu, 17 Apr 2025 14:47:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普支持者普林斯同意介入刚果安全事务 以换取矿产资源】据报道，两位消息人士及一名刚果政府官员透露，特朗普的知名支持者——美国“雇佣兵巨头”普林斯已同意帮助刚果保障其丰富的矿产资源安全并对其征税。此前刚果总统齐塞克迪在2月8日致信特朗普时提出了一项秘密协议：刚果向美国高科技公司提供其所需的大量矿产，作为交换美国帮助其国家击败反政府武装。齐塞克迪在信中为特朗普的美国主权财富基金提供了采矿机会。特朗普政府尚未说明美国将如何为刚果的安全提供支持。或许受此消息影响，现货黄金短线跳水，一度失守3290美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8816746.d.html</link>
+            <guid>4152482</guid>
+            <pubDate>Thu, 17 Apr 2025 14:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织（IMF）格奥尔基耶娃：很高兴看到美国促增长议程的要素正在推进。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2042039.d.html</link>
+            <guid>4152481</guid>
+            <pubDate>Thu, 17 Apr 2025 14:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：荷兰财政部不寻求改变顶级银行家的奖金上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8816228.d.html</link>
+            <guid>4152480</guid>
+            <pubDate>Thu, 17 Apr 2025 14:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯4月通胀预期13.1%，前值12.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2041628.d.html</link>
+            <guid>4152479</guid>
+            <pubDate>Thu, 17 Apr 2025 14:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【协创数据：前期购买高性能算力服务器基本已到货 预计可以完成在手订单的正常交付】 协创数据4月17日在互动平台表示，公司前期购买高性能算力服务器基本已到货，目前公司库存能满足公司的订单需求，预计可以完成在手订单的正常交付。如果高性能算力服务器受到政策影响供应紧缺，后续或存在涨价风险，也可能对算力租赁价格造成一定影响。未来，公司也将持续关注政策动向，根据政策的最新动态积极调整对应策略，充分降低相关事项对公司所形成的影响，以保障公司稳健发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5571648.d.html</link>
+            <guid>4152478</guid>
+            <pubDate>Thu, 17 Apr 2025 14:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【携程《五一旅游出行预测报告》：入境游订单同比激增173%】 4月17日，携程发布的《五一旅游出行预测报告》显示，今年假期旅游消费呈现“长线爆发、跨境双向升温、县域逆袭”三大特征。在“请4休11”拼假策略带动下，跨市住宿订单占比已突破80%，县域市场高星酒店消费反超高线城市。此外，截至目前入境游订单同比激增173%，出境游市场热度同样持续攀升，以携程境外包车游数据来看，预计五一假期订单量同比增长近25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8815899.d.html</link>
+            <guid>4152477</guid>
+            <pubDate>Thu, 17 Apr 2025 14:41:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比利时布鲁塞尔再次发生枪击事件】当地时间4月17日，比利时布鲁塞尔南区警察局称，当天凌晨，布鲁塞尔安德莱赫特市发生枪击事件，造成两人受伤，其中一人情况危急。两名涉案人员已被捕。警方表示，枪击事件发生在凌晨2时30分左右，地点位于克莱门梭街附近。今年早些时候，该地曾发生过一系列枪击事件。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8815885.d.html</link>
+            <guid>4152476</guid>
+            <pubDate>Thu, 17 Apr 2025 14:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truist Advisory Services将美国中型股评级从“有吸引力”下调至“中性”；将美国大盘股评级从“最具吸引力”下调至“有吸引力”。]]></title>
+            <guid>4152475</guid>
+            <pubDate>Thu, 17 Apr 2025 14:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉评级：欧洲国家的国防开支取决于威胁认知和财政能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2041109.d.html</link>
+            <guid>4152474</guid>
+            <pubDate>Thu, 17 Apr 2025 14:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：为收购宠物供应公司，银行背负了23.5亿美元的债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2041037.d.html</link>
+            <guid>4152473</guid>
+            <pubDate>Thu, 17 Apr 2025 14:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织（IMF）格奥尔基耶娃在被问及人们为何预期会出现经济衰退时表示，迅速减少任何助长这种看法的因素非常重要。]]></title>
+            <guid>4152472</guid>
+            <pubDate>Thu, 17 Apr 2025 14:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【专家称金价也可能制造泡沫】金价狂飙的另一面，是消费市场的理性回归。国内黄金饰品销量经历萎缩，但“存量黄金赎回潮”却暗流涌动。汇管信息研究院副院长赵庆明认为，这一现象折射出投资者对金价波动的预期：“他们正在用脚投票，将黄金从饰品盒搬回银行账户”。投机者仍在狂欢。黄金期货市场上，多空双方展开搏杀。赵庆明称，传统定价模型已失效，机构预测沦为“水涨船高”的盲猜游戏，“一旦金价突破4000美元，我们会见证历史，也可能在制造泡沫。”（国是直通车）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3243860.d.html</link>
+            <guid>4152471</guid>
+            <pubDate>Thu, 17 Apr 2025 14:37:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[多伦多股指走低，下跌0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3243787.d.html</link>
+            <guid>4152470</guid>
+            <pubDate>Thu, 17 Apr 2025 14:36:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国法官裁定谷歌(GOOG.O)在在线广告技术领域存在非法垄断行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8815296.d.html</link>
+            <guid>4152469</guid>
+            <pubDate>Thu, 17 Apr 2025 14:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特国防部长在德黑兰会见伊朗最高领袖。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8815268.d.html</link>
+            <guid>4152468</guid>
+            <pubDate>Thu, 17 Apr 2025 14:36:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道琼斯指数向下跌破39000点，最新报38999.95点，日内下跌1.69%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8815230.d.html</link>
+            <guid>4152467</guid>
+            <pubDate>Thu, 17 Apr 2025 14:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行欧元短期利率（ESTR）远期利率预期低于1.5%，为2022年来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2040683.d.html</link>
+            <guid>4152466</guid>
+            <pubDate>Thu, 17 Apr 2025 14:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部回应是否与美方沟通：“解铃还须系铃人”】商务部新闻发言人何咏前17日说，单边加征关税措施完全由美方发起，“解铃还须系铃人”，中方敦促美方立即停止极限施压，停止胁迫讹诈，在相互尊重的基础上，与中方通过平等对话解决分歧。 
+
+在当天举行的商务部例行新闻发布会上，有记者问：特朗普周二发表声明，再次呼吁中国主动向他伸出橄榄枝，并称“球在中国一边，是中国需要与我们达成协议”。请问商务部对此有何评论，同时，在工作层面商务部是否正在与美方展开沟通？何咏前作出上述回应。 
+
+“中国商务部与美方对口部门一直保持工作层沟通。中方的立场一直很明确，对与美方进行经贸领域磋商持开放态度。”何咏前说。 
+
+发布会上，何咏前还表示，近期，美国对小额包裹关税政策进行破坏性调整，将严重影响美国消费者的利益。 
+
+何咏前说，跨境电商具有效率高、到货快、费用低的独特优势，能更好满足消费者的个性化、多样化消费需求，是国际贸易创新发展的重要趋势，已成为人们不可或缺的生活方式。 
+
+“跨境电商是契合全球消费发展趋势、惠及亿万消费者的新型贸易方式，相关领域政策调整应以便利化为方向。我们愿同各国一道，加强交流合作，共同促进跨境电商健康可持续发展。”何咏前说。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2040641.d.html</link>
+            <guid>4152465</guid>
+            <pubDate>Thu, 17 Apr 2025 14:35:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币跌破84000美元，日内跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5569904.d.html</link>
+            <guid>4152464</guid>
+            <pubDate>Thu, 17 Apr 2025 14:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ALPHABET股价迅速扩大下跌2.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2040419.d.html</link>
+            <guid>4152463</guid>
+            <pubDate>Thu, 17 Apr 2025 14:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金直线下挫，失守3290美元/盎司，日内跌幅1.57%。沪金期货主力合约跳水，现跌超1%，报780.30元/克，已回吐昨日全部涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8814929.d.html</link>
+            <guid>4152462</guid>
+            <pubDate>Thu, 17 Apr 2025 14:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[万物云副总经理、万科物业总经理杨光辉离世，年仅53岁。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5569710.d.html</link>
+            <guid>4152461</guid>
+            <pubDate>Thu, 17 Apr 2025 14:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货上涨1.8%，此前EIA报告称，美国天然气储量略低于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2040233.d.html</link>
+            <guid>4152460</guid>
+            <pubDate>Thu, 17 Apr 2025 14:32:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克综合指数跌幅扩大，现跌0.5%，最新报16212.51点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3242747.d.html</link>
+            <guid>4152459</guid>
+            <pubDate>Thu, 17 Apr 2025 14:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【罗博特科：拟发行股份及支付现金购买资产并募集配套资金】 罗博特科公告，公司拟通过发行股份及支付现金方式购买建广广智、苏园产投等合计持有的斐控泰克81.18%股权，交易作价为10.12亿元；并以支付现金方式购买ELAS持有的FSG和FAG各6.97%股权。此外，公司计划向不超过35名特定对象非公开发行股票募集配套资金，募集配套资金总额不超过3.84亿元，不超过本次发行股份购买资产交易总金额的100%，且发行股份数量不超过本次交易前上市公司总股本的30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2040147.d.html</link>
+            <guid>4152458</guid>
+            <pubDate>Thu, 17 Apr 2025 14:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金持续走低，回落至3300美元/盎司下方，日内跌1.27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2040098.d.html</link>
+            <guid>4152457</guid>
+            <pubDate>Thu, 17 Apr 2025 14:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EIA天然气报告：截至4月11日当周，美国天然气库存总量为18460亿立方英尺，较此前一周增加160亿立方英尺，较去年同期减少4800亿立方英尺，同比降幅20.6%，同时较5年均值低740亿立方英尺，降幅3.9%。]]></title>
+            <guid>4152456</guid>
+            <pubDate>Thu, 17 Apr 2025 14:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国费城联储任命芝加哥联储的Anna Paulson为新任行长，现任行长哈克任期于6月30日结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8814543.d.html</link>
+            <guid>4152455</guid>
+            <pubDate>Thu, 17 Apr 2025 14:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至4月11日当周EIA天然气库存 160亿立方英尺，预期220亿立方英尺，前值570亿立方英尺。]]></title>
+            <guid>4152454</guid>
+            <pubDate>Thu, 17 Apr 2025 14:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉评级：贸易战和政策不确定性增加新兴市场风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8814494.d.html</link>
+            <guid>4152453</guid>
+            <pubDate>Thu, 17 Apr 2025 14:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【强达电路：2024年净利润同比增长23.7% 拟10派4元】 强达电路(301628)4月17日晚间披露2024年年度报告，2024年实现营业收入7.93亿元，同比增长11.19%；净利润1.13亿元，同比增长23.7%；基本每股收益1.89元。公司拟向全体股东每10股派发现金红利4元（含税）。公司经营业绩增长的主要驱动因素包括工业控制、通讯设备等下游应用领域需求增长、客户开发与维护、持续优化产品结构、进行研发创新等，业绩变化较为符合行业整体发展状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2039955.d.html</link>
+            <guid>4152452</guid>
+            <pubDate>Thu, 17 Apr 2025 14:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：沙特国防大臣向伊朗最高领袖哈梅内伊递交沙特国王的信函。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3242179.d.html</link>
+            <guid>4152451</guid>
+            <pubDate>Thu, 17 Apr 2025 14:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海：总投资额1.7亿美元，8个外资项目在奉贤落地】4月17日下午，“投资奉贤 逐梦全球”2025奉贤区全球招商暨企业出海大会在金海湖畔举行，推动企业“引进来”和“走出去”并举，大力推进外资领域招商，助力企业拓展海外市场。本次活动邀请了爱尔兰投资发展局、西班牙马德里工商会、日本贸易振兴机构等100余家外资机构和企业参会。（上观新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8814390.d.html</link>
+            <guid>4152450</guid>
+            <pubDate>Thu, 17 Apr 2025 14:28:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【调查：关税正在改变美国人的大宗消费计划】Redfin的一项调查显示，由于特朗普总统的新关税政策，近四分之一的美国居民取消了房屋或汽车等重大购买计划。另有三分之一的人推迟了大宗消费计划。近十分之一的受访者表示，他们计划比预期更早地进行大宗消费，而8%的受访者表示，他们已经比预期更早地进行了购买。新的关税可能会以多种方式影响房地产市场。关税已经让抵押贷款利率上下波动，而且可能会显著增加建筑成本。关税和更广泛的经济不确定性也压低了购房需求，削减了购房者的预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8814201.d.html</link>
+            <guid>4152449</guid>
+            <pubDate>Thu, 17 Apr 2025 14:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道琼斯日内跌幅达1.5%，报39073.27点。标普500指数一度下跌0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2039653.d.html</link>
+            <guid>4152448</guid>
+            <pubDate>Thu, 17 Apr 2025 14:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[                                    【郑州金水区一烧烤摊位堆砌物起火，未造成人员伤亡】 4月17日晚间，河南省郑州市消防救援支队发布警情通报：2025年4月17日20时28分，郑州市119指挥中心接到报警：金水区沈庄路与凤台路交叉口一烧烤摊位堆砌物起火，指挥中心立即调派临近消防救援力量赶赴现场救援。20时40分明火被扑灭，着火物质为桌椅、杂物、液化气罐等，未造成人员伤亡。火灾原因及损失正在调查中。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8813805.d.html</link>
+            <guid>4152446</guid>
+            <pubDate>Thu, 17 Apr 2025 14:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中东股市收盘播报｜周四（4月17日），沙特证交所全股指数收跌0.70%，报11552.98点，本周（连续五个自然日）累计上涨0.44%。沙特阿美（ARAMCO.AB）收跌0.78%，报25.45沙特里亚尔，本周累跌2.12%。在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.10%，报9.66沙特里亚尔，本周累涨3.09%。WTI原油期货本周迄今（四个交易日）累计上涨3.0%，布伦特原油期货累涨3.3%，中东石油期货涨3.2%。]]></title>
+            <guid>4152445</guid>
+            <pubDate>Thu, 17 Apr 2025 14:22:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国内首创 电科博微在工业智能检测领域取得重大突破】 近日，电科博微旗下合安院发布国内首创的轧管及管加工系列智能检测设备，将有效解决冶金、能源、汽车制造等领域的质量检测难题，为行业发展注入新的活力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2039207.d.html</link>
+            <guid>4152444</guid>
+            <pubDate>Thu, 17 Apr 2025 14:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元刚刚触及142.00关口，最新报142.00，日内涨0.16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2039164.d.html</link>
+            <guid>4152443</guid>
+            <pubDate>Thu, 17 Apr 2025 14:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【紫燕食品：2024年净利润同比增长4.5% 年轻化战略持续增强品牌竞争力】紫燕食品发布2024年年报，全年营业收入为33.63亿元；净利润为3.46亿元，同比增长4.5%；拟向全体股东每10股派现金红利5.2元，共计派发现金红利2.15亿元。紫燕食品表示，面对经济压力加大、行业竞争加剧的复杂形势，公司积极部署增量政策，以全球发展为“基本面”、以创新研究为“助推器”，通过数字化技术、柔性供应链和年轻化战略等，深度契合消费升级趋势和高质量发展需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5567614.d.html</link>
+            <guid>4152442</guid>
+            <pubDate>Thu, 17 Apr 2025 14:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国关税毫无理性，外贸企业出口转内销，首笔生鲜订单落地，单日销量翻了6倍】“4月15日上架首日，部分区域的生姜销量环比翻了6倍，一天就卖了1.2吨。第二天销量更好了，卖了1.56吨。大家对外贸商品买单情绪高涨。”大润发相关负责人告诉记者，自启动“外贸优品进商超”专项扶持计划以来，两天内收到77家企业报名，短短48小时内，原本出口美国的生姜已上架52家门店，也标志着国内大型商超“外贸优品中华行”首笔生鲜订单正式落地。近段时间，美国不断加码对华关税，给我国外贸企业带来了严峻的挑战。为此，上海多家连锁商超和电商平台积极为外贸企业转型，帮助外贸商品加速开拓国内市场。（上观新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8813609.d.html</link>
+            <guid>4152441</guid>
+            <pubDate>Thu, 17 Apr 2025 14:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【肯尼亚政府高级代表团到访晶澳科技】 4月14日，肯尼亚政府高级代表团来访晶澳科技北京总部，聚焦中非能源领域合作，探讨中国可再生能源技术与产品在肯尼亚和非洲市场的应用场景与合作机遇。会上，肯尼亚总统办公室、投资贸易工业部等政府部门高级代表，以及电力、能源企业高管与晶澳科技开展深入交流。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3240780.d.html</link>
+            <guid>4152440</guid>
+            <pubDate>Thu, 17 Apr 2025 14:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【强达电路：2024年净利润1.13亿元，同比增长23.70%】 强达电路公告，2024年营业收入为7.93亿元，同比增长11.19%；归属于上市公司股东的净利润为1.13亿元，同比增长23.70%。公司拟向全体股东每10股派发现金红利4元（含税），送红股0股（含税），以资本公积金向全体股东每10股转增0股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3240493.d.html</link>
+            <guid>4152438</guid>
+            <pubDate>Thu, 17 Apr 2025 14:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道琼斯工业平均指数最新报39099.60，日内跌1.44%。纳斯达克100指数转跌，此前一度涨0.7%。英伟达跌幅扩大至3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8813329.d.html</link>
+            <guid>4152437</guid>
+            <pubDate>Thu, 17 Apr 2025 14:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达回应黄仁勋到访北京：定期与政府领导人会面，讨论产品和技术】应中国贸促会邀请，英伟达公司首席执行官黄仁勋抵达北京。今日晚间，英伟达方面就黄仁勋抵京一事回应新浪科技称，“我们定期与政府领导人会面，讨论我们公司的产品和技术。”（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8813235.d.html</link>
+            <guid>4152435</guid>
+            <pubDate>Thu, 17 Apr 2025 14:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【同程旅行24.9亿收购万达酒管 万达回应：有助集团减债，仍保留自持酒店资产】同程旅行和万达酒店发展发布公告，同程旅行已与万达酒店发展就收购其全资子公司万达酒店管理（香港）有限公司100%股权事宜达成协议，交易对价约为人民币24.9亿元，估值倍数相当于其2023年度经调整EBITDA的9.5倍。万达酒店管理公司为万达酒店发展旗下的轻资产板块，2024年营收为8.9亿港元。
+
+对此，万达方面回应称，万达酒店发展转让旗下万达酒店管理（香港）有限公司股权，按香港联交所相关规则，仍需经过上市公司股东大会审批同意后方可生效。交易带来的资金如获批可用于向全体股东分红，将有助于万达集团去杠杆、减负债，优化资产负债结构，确保履行企业社会责任。近年来，万达通过出售万达广场资产、推进珠海商管重组等措施，显著改善资产负债结构。迄今为止，万达所有公开债均如期兑付，目前，公司仅剩余极少公开债务。
+
+万达方面还表示，本次交易仅涉及酒店管理业务的转让，现有万达自持的酒店物业资产仍将由万达集团继续持有。万达也将与同程旅行持续深化合作，通过资源共享与优势互补，在文旅项目运营管理及市场拓展等领域开展协同，实现双方共赢发展。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2038555.d.html</link>
+            <guid>4152433</guid>
+            <pubDate>Thu, 17 Apr 2025 14:17:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【美电影公司股价再度下跌 好莱坞开始为美国关税买单】 美东时间16日，原本就一直处于低位的华纳兄弟探索、华特迪士尼、派拉蒙全球等知名美国电影公司股价于低位水平内再度暴跌。自从中国国家电影局表态将“适度减少美国影片进口数量”，美电影公司股价持续下跌。而让美国电影行业担心的，远不止股价，而是未来。当下，美国相关行业需要明白： 1.中国市场，是好莱坞在全球其他单一市场都找不到的未来。对于美国电影行业来说，失去中国市场就意味着失去未来。 2.美国文化产业的核心盈利点在于知识产权和品牌价值，对于其他依赖美国IP和品牌溢价的行业来说，失去中国市场，同样意味着失去未来。 （玉渊谭天）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3239957.d.html</link>
             <guid>4152432</guid>
             <pubDate>Thu, 17 Apr 2025 14:17:02 GMT</pubDate>
         </item>
@@ -31,11 +544,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2037817.d.html</link>
             <guid>4152429</guid>
             <pubDate>Thu, 17 Apr 2025 14:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫燕食品：拟设立全资孙公司并投建尼泊尔生产加工基地】4月17日，紫燕食品(603057)晚间公告，公司拟以自有资金出资5亿元对全资子公司成都紫燕进行增资，由成都紫燕作为出资主体出资不超过3亿元（或等值外币）设立全资孙公司尼泊尔紫燕，并投资建设尼泊尔生产加工基地。该投资金额为预算金额，具体投资金额以实际投入为准。]]></title>
-            <guid>4152428</guid>
-            <pubDate>Thu, 17 Apr 2025 14:12:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国财政部将也门国际银行列入制裁名单。]]></title>
@@ -101,502 +609,6 @@
             <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8811165.d.html</link>
             <guid>4152417</guid>
             <pubDate>Thu, 17 Apr 2025 14:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩恩电气：目前没有产品出口美国市场】 摩恩电气4月17日在互动平台表示，公司目前没有产品出口美国市场，公司会持续关注关税政策对全球市场需求及供应链的综合影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2036509.d.html</link>
-            <guid>4152416</guid>
-            <pubDate>Thu, 17 Apr 2025 14:05:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  匈牙利经济部长：正在研究对家庭用品、美容产品和洗漱用品进行价格管控的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8811031.d.html</link>
-            <guid>4152415</guid>
-            <pubDate>Thu, 17 Apr 2025 14:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理内塔尼亚胡：以色列不允许伊朗获得核武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2036461.d.html</link>
-            <guid>4152414</guid>
-            <pubDate>Thu, 17 Apr 2025 14:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际货币基金组织：贸易政策不确定性“爆表” 将下调全球经济增长预期】国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃表示，全球贸易体系正在经历重启，金融市场波动上升，贸易政策不确定性“爆表”，世界经济正面临显著挑战，全球增长预期将被下调。格奥尔基耶娃当天在国际货币基金组织和世界银行春季会议的前瞻讲话中指出，当前世界正处于突变之中，新的贸易紧张局势已使全球经济前景更加不确定，全球经济环境正在经历深刻变化。多边贸易体系长期存在的信任侵蚀和不公平感导致贸易紧张局势加剧。格奥尔基耶娃指出，贸易紧张局势通过供应链中断、投资延迟、金融市场波动和增加预防性储蓄等渠道带来成本。上升的贸易壁垒直接削弱增长潜力，而保护主义在长期内侵蚀生产率，尤其是在小型经济体中。她表示，IMF将在下周发布的新一期《世界经济展望》中，量化这些紧张局势的代价。新预测将包括全球增长预期的下调，但不会预计出现衰退。同时，部分国家的通货膨胀预期也将上调。格奥尔基耶娃警告称，长期存在的高不确定性会增加金融市场压力风险。尽管不确定性处于高位，但美元出现贬值，美国国债收益率曲线呈现出“微笑”形态。她呼吁各国警惕金融环境进一步恶化的可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2036213.d.html</link>
-            <guid>4152412</guid>
-            <pubDate>Thu, 17 Apr 2025 14:03:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至4月17日4周国债竞拍-得标利率 4.24%，前值4.245%。
-美国至4月17日4周国债竞拍-投标倍数 2.91，前值2.95。
-美国至4月17日8周国债竞拍-投标倍数 2.94，前值3.1。
-美国至4月17日8周国债竞拍-得标利率 4.235%，前值4.235%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3236536.d.html</link>
-            <guid>4152410</guid>
-            <pubDate>Thu, 17 Apr 2025 14:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【8天5板乐山电力：2024年净利润2257万元 同比下降7%】乐山电力(600644.SH)发布年报，2024年实现营业收入31.96亿元，同比增长7.03%；净利润为2257.19万元，同比下降7.11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2036006.d.html</link>
-            <guid>4152409</guid>
-            <pubDate>Thu, 17 Apr 2025 14:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长虹控股集团董事长柳江：持续推进“AI+” 拓展全球市场】 近日，第137届中国进出口商品交易会（广交会）召开，长虹携全面AI化的家电产品和多款融入海外本土化设计的产品亮相。在展会现场，长虹控股集团党委书记、董事长柳江表示，长虹的家电全面AI化，应建立在深入调研用户使用痛点上，设计并研发符合当地市场的好产品，让AI真正赋能用户的生活，进一步拓市场、抢订单。长虹要及时把握全球行业发展趋势，适应国际市场变化，坚持推进“AI+”，不断推出满足用户真需求的好产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2035987.d.html</link>
-            <guid>4152408</guid>
-            <pubDate>Thu, 17 Apr 2025 14:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团：私募信贷在数据中心和能源行业存在机遇。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3236418.d.html</link>
-            <guid>4152407</guid>
-            <pubDate>Thu, 17 Apr 2025 14:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金日内下跌1.00%，现报3308.75美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8810440.d.html</link>
-            <guid>4152405</guid>
-            <pubDate>Thu, 17 Apr 2025 14:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IMF：不确定性升高增加了金融市场压力的风险】IMF总裁格奥尔基耶娃：保护主义在长期内侵蚀生产力，尤其对小型经济体造成不利影响，并阻碍创新。不确定性升高增加了金融市场压力的风险；不确定性持续的时间越长，相关成本也越高。美国的实际关税税率已飙升至数十年前的水平。近期美国国债市场的走势应被视为警示；如果金融状况恶化，所有人都将受到影响。新兴市场经济体应保持汇率的弹性。全球主权债务圆桌会议将很快发布债务重组指南。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2035897.d.html</link>
-            <guid>4152404</guid>
-            <pubDate>Thu, 17 Apr 2025 14:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【持续扩容 7家基金公司申报人工智能主题基金】随着人工智能投资持续升温，基金公司加大布局人工智能主题基金。截至4月17日，已有7家基金公司申报了人工智能主题基金，分别跟踪创业板人工智能指数、中证人工智能主题指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2035847.d.html</link>
-            <guid>4152403</guid>
-            <pubDate>Thu, 17 Apr 2025 14:01:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫顾问伪造专家为己背书 美国关税理论站不住脚】过去近两周时间，美方对华轮番加征畸高关税，从34%加到了125%，最后到245%。对外经济贸易大学校长赵忠秀表示，这个水平实际上是禁止性关税，生意已经没法做了。北京大学博雅特聘教授姚洋表示，白宫听从了一些错误的人的错误的建议。比方说纳瓦罗，白宫经济顾问。这个人实际上是一个很差的学者，他为了提升自己的名气，编造了一个“知名学者”为其背书，其实根本不存在。纳瓦罗曾经提出过一个观点：美国加征关税是增加收入的，据他的预测，美国每年将会有近6000亿美元的收入，10年下来就是6万亿。但是在“对等关税”政策出来的第二天，美股连续两个交易日跌掉了5.4万亿美元。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3236060.d.html</link>
-            <guid>4152402</guid>
-            <pubDate>Thu, 17 Apr 2025 14:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：全球贸易体系的重启正考验各国的韧性。更新后的经济预测将导致部分国家的通货膨胀预期上调。国际货币基金组织将于下周发布修订后的经济展望，其中将包含“显著的下调预期，但不预示经济衰退”。]]></title>
-            <guid>4152401</guid>
-            <pubDate>Thu, 17 Apr 2025 14:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【祥源文旅：2024年净利润1.47亿元，同比下降3.14%】 祥源文旅公告，2024年度营业收入8.64亿元，同比增长19.64%。归属于上市公司股东的净利润1.47亿元，同比下降3.14%。公司2024年度利润分配预案为不派发现金股利，不送红股，不以资本公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3235779.d.html</link>
-            <guid>4152400</guid>
-            <pubDate>Thu, 17 Apr 2025 13:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉鑫科技：2024年净利润同比下降76.81%】 吉鑫科技公告，2024年营业收入12.16亿元，同比下降12.48%。归属于上市公司股东的净利润3045.21万元，同比下降76.81%。基本每股收益0.0315元／股，同比下降76.75%。公司2024年度拟不派发现金红利、不送红股、不以资本公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3235731.d.html</link>
-            <guid>4152399</guid>
-            <pubDate>Thu, 17 Apr 2025 13:59:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【祥源文旅：预计一季度净利润同比增长148.76%至173.64%】祥源文旅(600576.SH)公告称，预计2025年第一季度实现归属于母公司所有者的净利润为3000万元到3300万元，同比增加148.76%到173.64%。主要原因是公司新增莽山五指峰景区、丹霞山景区及四川卧龙大熊猫基地带来营业收入增加，以及取得政府补贴收入等。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8810044.d.html</link>
-            <guid>4152398</guid>
-            <pubDate>Thu, 17 Apr 2025 13:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股盘初：主要行业ETF多数上涨，能源业ETF涨2.5%，公用事业ETF涨1.6%，区域银行ETF涨1.2%。]]></title>
-            <guid>4152397</guid>
-            <pubDate>Thu, 17 Apr 2025 13:58:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国区域银行Truist：将对美国股票的看法从中性下调至吸引力较低的级别；将现金评级从中性上调至有吸引力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8810008.d.html</link>
-            <guid>4152396</guid>
-            <pubDate>Thu, 17 Apr 2025 13:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【美好医疗：2024年归母净利润3.64亿元，同比增长16.11%】 美好医疗4月17日公告，2024年实现营业收入15.94亿元，同比增长19.19%；归属于上市公司股东的净利润3.64亿元，同比增长16.11%；基本每股收益0.9元。公司拟向全体股东每10股派发现金红利1元（含税），以资本公积金向全体股东每10股转增4股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5562133.d.html</link>
-            <guid>4152395</guid>
-            <pubDate>Thu, 17 Apr 2025 13:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所打出服务民企“组合拳” 两年助力民营上市公司股债融资逾6000亿元】搭建专业化交流平台，架起上市公司与投资者之间的沟通桥梁，是深交所服务民营经济的抓手之一。近年来，深交所不断完善促进民营上市公司发展壮大的制度机制，过去两年通过IPO、再融资、债券融资等工具，助力民企融资约6197亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8809906.d.html</link>
-            <guid>4152394</guid>
-            <pubDate>Thu, 17 Apr 2025 13:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纽约联储银行行长：美联储短期内无需调整利率 可以等待更多信息】 纽约联邦储备银行行长John Williams表示，他目前看不到“在短期内”调整利率的必要性，并补充称，美联储必须确保关税不会导致通胀持续高企。Williams称，经济目前处于“非常良好的状态”，鉴于政府政策及其最终影响存在诸多不确定性，美联储可以等待更多信息。“我们要确保任何的一次性价格变动不会演变为更持久、更高的通胀，”Williams周四表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5561882.d.html</link>
-            <guid>4152393</guid>
-            <pubDate>Thu, 17 Apr 2025 13:56:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄最高法宣布解除针对阿富汗塔利班的禁令】当地时间17日，俄罗斯最高法院宣布停止有关针对阿富汗塔利班活动的禁令。俄罗斯总统阿富汗问题特别代表卡布洛当天表示，俄方将与阿富汗当局共同推动双边关系正常化。2003年，俄罗斯将阿富汗塔利班列入恐怖组织名单，禁止该组织在俄境内的活动。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8809532.d.html</link>
-            <guid>4152392</guid>
-            <pubDate>Thu, 17 Apr 2025 13:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【国家国际发展合作署与柬埔寨财经部交换发展合作文件】 4月17日，在中国和柬埔寨两国领导人共同见证下，国家国际发展合作署署长陈晓东与柬财经部国务秘书罗西瓦交换了援柬乡村道路三期、参议院数据中心、国家体育场技术援助、残疾人康复中心等项目政府间换文及共同实施2025年度人力资源开发合作计划的两国部门间谅解备忘录。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5561551.d.html</link>
-            <guid>4152391</guid>
-            <pubDate>Thu, 17 Apr 2025 13:55:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东风科技与中汽中心深化战略合作】 4月17日，东风电子科技股份有限公司与中国汽车技术研究中心有限公司在武汉签署战略合作协议，明确将整合双方优势资源，在战略资源布局、开发验证、国际化政策、供应链联盟等方面深化合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3234850.d.html</link>
-            <guid>4152390</guid>
-            <pubDate>Thu, 17 Apr 2025 13:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【减肥药概念股美股盘初普遍走高】 硕迪生物涨超23%，礼来涨15.8%，AnaptysBio涨4.3%，辉瑞制药涨1.8%，罗氏制药ADR涨1.4%，BIIB涨1.1%，雅培涨超1%，福泰制药涨0.8%。Hims & Hers则跌超2%，Viking Therapeutics跌3.2%，安进跌4.7%，诺和诺德ADR跌7.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8809211.d.html</link>
-            <guid>4152389</guid>
-            <pubDate>Thu, 17 Apr 2025 13:53:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯与卡塔尔已同意将其投资平台增加约20亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5561325.d.html</link>
-            <guid>4152388</guid>
-            <pubDate>Thu, 17 Apr 2025 13:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国网络安全标准化技术委员会2025年第一次“标准周”活动在苏州举办】2025年4月15日至17日，全国网络安全标准化技术委员会2025年第一次“标准周”活动在江苏省苏州市举办。中央网信办副主任、国家网信办副主任、网安标委主任委员王京涛指出，一是要实现网络空间安全全覆盖，积极服务构建大网络安全工作格局。二是要凸显标准的强制性作用，有力支撑政策法规落地实施。三是要坚持统筹发展和安全，全力护航新兴产业高质量发展。四是要秉承开放创新理念，推动将我治网主张转化为全球共识、国际规则。会上，受邀专家围绕大模型应用、新一代通信技术、自动驾驶、网络弹性、个人信息保护合规审计、电子产品信息清除、隐私保护等热点主题，聚焦国家网络安全工作重要部署，探讨新技术新应用新业态的标准需求，分享网络安全技术实践和标准探索。（网信中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8809201.d.html</link>
-            <guid>4152387</guid>
-            <pubDate>Thu, 17 Apr 2025 13:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉加德：欧洲央行必须随时准备应对不可预测的情况】欧洲央行行长拉加德表示，她无法判断当前不确定性是否已达到顶峰，但央行必须为各种不可预见的情况做好准备。她在周四的新闻发布会上表示，“一定程度的不可预测性增加了不确定性”。“我们大约每六周开一次会，”她说，“想想过去六周里发生了多少变化。接下来的六周说不定变化更多”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5561306.d.html</link>
-            <guid>4152386</guid>
-            <pubDate>Thu, 17 Apr 2025 13:53:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合健康有望创下超过25年来最大单日跌幅，现跌19.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2034542.d.html</link>
-            <guid>4152385</guid>
-            <pubDate>Thu, 17 Apr 2025 13:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金最新报3319.71美元/盎司，日内跌0.70%；COMEX黄金期货主力最新报3332.80美元/盎司，日内跌0.41%。]]></title>
-            <guid>4152384</guid>
-            <pubDate>Thu, 17 Apr 2025 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美诺华：2024年净利润6680.66万元，同比增长476.64%】 美诺华公告，2024年营业收入为13.73亿元，同比增长12.85%；归属于上市公司股东的净利润为6680.66万元，同比增长476.64%；基本每股收益为0.31元／股，同比增长520.00%。公司拟以实施权益分派股权登记日登记的总股本为基数分配利润,向全体股东每股派发现金红利0.05元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2034228.d.html</link>
-            <guid>4152383</guid>
-            <pubDate>Thu, 17 Apr 2025 13:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        标普500指数刚刚突破5300.00关口，最新报5300.03，日内涨0.46%。]]></title>
-            <guid>4152382</guid>
-            <pubDate>Thu, 17 Apr 2025 13:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：因以色列女星盖尔·加朵被列入“抵制名单”，真人版《白雪公主》电影在黎巴嫩被禁映】迪士尼真人版《白雪公主》电影3月21日与全球观众见面，然而无论其口碑还是票房都不理想。在此背景下，美国《综艺》杂志16日报道称，因片中“邪恶皇后”由被黎巴嫩列入“抵制名单”的以色列女星盖尔·加朵饰演，该片在黎巴嫩被禁止上映。美国福克斯新闻网评论称，真人版《白雪公主》电影“再受打击”。（环球网）]]></title>
-            <guid>4152381</guid>
-            <pubDate>Thu, 17 Apr 2025 13:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲央行拉加德：经济增长的下行风险已经上升】欧洲央行行长拉加德表示，经济增长的下行风险已经增加。她在周四新闻发布会上表示，“全球贸易紧张局势大幅升级及其相关的不确定性可能会抑制出口，从而拖累欧元区经济增长，投资和消费恐也会被影响”。拉加德表示，俄乌冲突等地缘政治事件以及中东地区的悲剧性冲突，仍是主要的不确定性来源。与此同时，国防和基础设施支出的增加将对经济增长形成拉动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2033979.d.html</link>
-            <guid>4152380</guid>
-            <pubDate>Thu, 17 Apr 2025 13:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙软科技：2024年净利润同比减少60.83%】 龙软科技公告，2024年营业收入3.29亿元，同比减少17.04%。归属于上市公司股东的净利润3302.9万元，同比减少60.83%。公司2024年利润分配方案为向全体股东每10股派发现金红利1.36元(含税)，预计派发现金红利总额为991.34万元，占公司2024年度合并报表归属上市公司股东净利润的30.01%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5560304.d.html</link>
-            <guid>4152379</guid>
-            <pubDate>Thu, 17 Apr 2025 13:49:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国10年期国债收益率跌至自4月7日以来的最低点，较当天早些时候下跌约5个基点，报4.560%。]]></title>
-            <guid>4152378</guid>
-            <pubDate>Thu, 17 Apr 2025 13:48:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[赫兹租车今日再度飙升逾30%，近两日股价实现翻倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2033720.d.html</link>
-            <guid>4152377</guid>
-            <pubDate>Thu, 17 Apr 2025 13:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲金融监管机构质疑美国国债的避险地位】 欧洲保险监管机构负责人表示，美国国债市场近期的剧烈波动正使其避险地位受到质疑。据知情人士透露，欧洲保险和职业养老金管理局（EIOPA）主席Petra Hielkema上周在代表欧盟金融监管机构所作的一场简报中发表了上述言论。在闭门会议上的这一表态凸显出市场对美国国债的担忧情绪。美国国债长期以来被视为全球“无风险”资产，并作为全球每日数以万亿美元贷款交易的抵押品。尽管目前没有迹象显示欧洲监管机构正在采取任何具体行动，但这番言论表明，外界对美债的看法在短短数周内发生了巨大转变。美国国债市场近来出现剧烈波动。在美国总统唐纳德·特朗普提出全面关税政策、给全球贸易造成严重威胁并可能导致经济陷入衰退之际，上周10年期国债收益率创下20年来最大涨幅。与此同时，投资者纷纷转向其他避险资产，如黄金、德国国债以及欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2033645.d.html</link>
-            <guid>4152375</guid>
-            <pubDate>Thu, 17 Apr 2025 13:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本黄金零售价创新高 日本民众高位抛售黄金】今天最新公布的数据显示，日本国内黄金零售价格达到每克16885日元（当时约合人民币865元），继本月1日之后，再一次刷新了有史以来的最高纪录。正在日本横滨举行的黄金展受到当地消费者关注。黄金展的现场开设了收购柜台，不时有消费者拿着黄金制品前来估价咨询。随着黄金价格走高，近期部分金店内咨询黄金交易的顾客与去年同期相比增加了两到三成，不少人拿来了多件珍藏已久的黄金制品，想趁高位抛售。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3233180.d.html</link>
-            <guid>4152372</guid>
-            <pubDate>Thu, 17 Apr 2025 13:46:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【华贸物流：一季度归母净利润1.18亿元，同比下滑29.42%】 华贸物流4月17日晚间公告，2025年第一季度实现营业收入39.92亿元，同比增长2.82%；归属于上市公司股东的净利润1.18亿元，同比下滑29.42%；基本每股收益0.09元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8807836.d.html</link>
-            <guid>4152371</guid>
-            <pubDate>Thu, 17 Apr 2025 13:45:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【七彩化学：2025年一季度净利润3078.64万元，同比增长42.56%】 七彩化学公告，2025年第一季度营收为3.65亿元，同比增长13.14%；净利润为3078.64万元，同比增长42.56%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5559660.d.html</link>
-            <guid>4152370</guid>
-            <pubDate>Thu, 17 Apr 2025 13:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【茅台农商行密集转让6家所持村镇银行股份获批复】4月17日，国家金融监督管理总局官网显示，贵州仁怀茅台农村商业银行股份有限公司（以下简称“茅台农商行”）转让其所持有的德江长征村镇银行、沿河长征村镇银行、江口长征村镇银行、玉屏长征村镇银行、思南长征村镇银行、石阡长征村镇银行6家村镇银行股份已获贵州金融监管局批复同意，受让方均为当地农商行或农信社。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8807807.d.html</link>
-            <guid>4152369</guid>
-            <pubDate>Thu, 17 Apr 2025 13:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第一季度业绩超出预期，黑石集团股价上涨1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2033254.d.html</link>
-            <guid>4152368</guid>
-            <pubDate>Thu, 17 Apr 2025 13:44:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【七彩化学：2024年净利润同比增长1035.48%】七彩化学(300758.SZ)公告称，2024年公司实现营业收入15.68亿元，同比增长28.75%；净利润1.25亿元，同比增长1035.48%。公司计划不派发现金红利，不送红股，不以公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8807750.d.html</link>
-            <guid>4152367</guid>
-            <pubDate>Thu, 17 Apr 2025 13:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【深交所：对罗博特科及相关当事人采取书面警示的自律监管措施】 4月17日，深圳证券交易所上市审核中心对罗博特科智能科技股份有限公司及相关当事人下发监管函。2023年10月31日，深交所受理了罗博特科智能科技股份有限公司（以下简称上市公司）发行股份购买资产并募集配套资金的申请，上市公司拟通过发行股份及支付现金方式购买苏州斐控泰克技术有限公司（以下简称斐控泰克）81.18%股权、ficonTEC Service GmbH（以下简称FSG）和ficonTECAutomation GmbH（以下简称FAG）各6.97%股权。经查明，上市公司存在以下信息披露违规情形：2019年至2023年，斐控泰克陆续收购了FSG和FAG各93.03%股权。其中，2019年至2020年期间，上市公司控股股东苏州元颉昇企业管理咨询有限公司（以下简称元颉昇）、实际控制人戴军或者董事王宏军分别与5名斐控泰克股东签2署协议，约定若在规定期限内中国境内上市公司等未能收购斐控泰克及FSG和FAG股权或者未达约定收益率的，由元颉昇、戴军或者王宏军回购其持有的相关股权或者对其进行收益补偿。前述5名斐控泰克股东同时也是本次重组交易对手方。监管函显示，上市公司未在重组报告书中及时披露上述对投资者作出投资决策有影响的信息。上市公司控股股东元颉昇，实际控制人、董事长、CEO戴军，董事王宏军，董事会秘书李良玉未能保证申请文件和信息披露的真实、准确、完整，违反了深交所《重组审核规则》第四条第一款、第十六条第一款的规定。深交所上市审核中心决定对罗博特科智能科技股份有限公司、苏州元颉昇企业管理咨询有限公司、戴军、王宏军、李良玉采取书面警示的自律监管措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8807726.d.html</link>
-            <guid>4152366</guid>
-            <pubDate>Thu, 17 Apr 2025 13:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卓易信息：2024年净利润同比下降41.52%】 卓易信息公告，2024年营业收入3.23亿元，同比增长0.99%。归属于上市公司股东的净利润3284.15万元，同比下降41.52%。公司拟向全体股东每10股派发现金红利1元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8807698.d.html</link>
-            <guid>4152365</guid>
-            <pubDate>Thu, 17 Apr 2025 13:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统新闻秘书佩斯科夫：普京没有就暂停对乌克兰和俄罗斯联邦能源设施进行打击的禁令效果发布新指示。将与美国继续保持联系。]]></title>
-            <guid>4152363</guid>
-            <pubDate>Thu, 17 Apr 2025 13:42:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美关税清单上没有俄罗斯，克宫最新表态：俄方仍无法从潜在全球贸易战中幸免】 美国近期在全球范围滥施关税，但未将俄罗斯列入施加关税清单。据美国消费者新闻与商业频道（CNBC）17日报道，克里姆林宫对此最新表态称，潜在的全球贸易战可能引发经济“余震”，俄罗斯也无法幸免。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3232330.d.html</link>
-            <guid>4152362</guid>
-            <pubDate>Thu, 17 Apr 2025 13:41:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重罚！暂停新增客户】近日，多家第三方投顾机构密集被罚。4月15日，山东证监局、深圳证监局同日开出罚单，神光咨询被山东证监局采取出具警示函措施，中方信富深圳分公司被深圳证监局采取出具警示函措施。今年以来，投顾行业监管力度显著加强，罚单数量急剧攀升。从数量上来看，据不完全统计，相关违规罚单已多达33张。21家投顾机构被罚，8家机构被暂停新增客户。禁止新增客户周期短则1个月，长则多达半年之久，对相关机构惩戒不可谓不深。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2032623.d.html</link>
-            <guid>4152361</guid>
-            <pubDate>Thu, 17 Apr 2025 13:40:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        纳斯达克指数刚刚突破16300.00关口，最新报16299.33，日内跌0.05%。]]></title>
-            <guid>4152360</guid>
-            <pubDate>Thu, 17 Apr 2025 13:40:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广生堂：2024年净亏损1.56亿元】 广生堂公告，2024年营业收入4.41亿元，同比增长4.43%。归属于上市公司股东的净亏损1.56亿元，去年同期净亏损3.49亿元。公司计划不派发现金红利，不送红股，不以公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3232020.d.html</link>
-            <guid>4152359</guid>
-            <pubDate>Thu, 17 Apr 2025 13:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合健康首席执行官：公司已做好充分准备，应对药品关税挑战，具备良好的抗风险能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3231821.d.html</link>
-            <guid>4152358</guid>
-            <pubDate>Thu, 17 Apr 2025 13:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：当前是欧洲把握机遇的关键时刻。欧盟必须加大在资本市场联盟和数字欧元方面的努力。]]></title>
-            <guid>4152357</guid>
-            <pubDate>Thu, 17 Apr 2025 13:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德盘初跌8%，其减肥药竞争对手礼来口服减肥药3期试验取得积极成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5558372.d.html</link>
-            <guid>4152356</guid>
-            <pubDate>Thu, 17 Apr 2025 13:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所：罗博特科发行股份购买资产交易符合重组条件和信息披露要求】深圳证券交易所并购重组审核委员会发布2025年第4次审议会议结果公告，罗博特科智能科技股份有限公司（发行股份购买资产），本次交易符合重组条件和信息披露要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2032169.d.html</link>
-            <guid>4152355</guid>
-            <pubDate>Thu, 17 Apr 2025 13:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[台积电在公布第一季度利润超出预期后，其在美国上市的股票上涨2.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2031985.d.html</link>
-            <guid>4152354</guid>
-            <pubDate>Thu, 17 Apr 2025 13:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黑石集团(BX.N)总裁Grey：由于并购和首次公开募股市场放缓，二级市场基金可能会迎来更多的需求。]]></title>
-            <guid>4152353</guid>
-            <pubDate>Thu, 17 Apr 2025 13:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们关注的是整体贸易账，而不仅仅是商品贸易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8806299.d.html</link>
-            <guid>4152352</guid>
-            <pubDate>Thu, 17 Apr 2025 13:35:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国铝业股价下跌4.6%，此前该公司预测第二季度将有9000万美元的关税冲击。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3231130.d.html</link>
-            <guid>4152351</guid>
-            <pubDate>Thu, 17 Apr 2025 13:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：未来数周内我们将开展密集的情景分析。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3230983.d.html</link>
-            <guid>4152350</guid>
-            <pubDate>Thu, 17 Apr 2025 13:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东华测试：2024年净利润1.22亿元，同比增长38.90%】 东华测试公告，2024年营业收入为5.02亿元，同比增长32.79%。归属于上市公司股东的净利润为1.22亿元，同比增长38.90%。公司拟向全体股东每10股派发现金红利1.77元（含税），送红股0股（含税），以资本公积金向全体股东每10股转增0股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8806034.d.html</link>
-            <guid>4152349</guid>
-            <pubDate>Thu, 17 Apr 2025 13:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在联合健康集团指出医疗护理需求旺盛之后，美股医院运营商的股价上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5557601.d.html</link>
-            <guid>4152348</guid>
-            <pubDate>Thu, 17 Apr 2025 13:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东华测试：2025年一季度净利润2887.86万元，同比增长5.64%】 东华测试公告，2025年第一季度营收为1.09亿元，同比增长4.25%；净利润为2887.86万元，同比增长5.64%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3230867.d.html</link>
-            <guid>4152347</guid>
-            <pubDate>Thu, 17 Apr 2025 13:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【宣亚国际：2024年归母净亏损3509.18万元，亏损同比收窄】 宣亚国际4月17日晚间公告，2024年实现营业收入6.83亿元，同比下降34.88%；归属于上市公司股东的净利润亏损3509.18万元，上年同期亏损7853.06万元；基本每股收益-0.2元。公司计划不派发现金红利，不送红股，不以公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3230801.d.html</link>
-            <guid>4152346</guid>
-            <pubDate>Thu, 17 Apr 2025 13:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标准普尔500管理医疗保健指数开盘下跌14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5557444.d.html</link>
-            <guid>4152345</guid>
-            <pubDate>Thu, 17 Apr 2025 13:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数开盘上涨0.4%，纳斯达克100指数涨0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2031251.d.html</link>
-            <guid>4152344</guid>
-            <pubDate>Thu, 17 Apr 2025 13:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳斯达克中国金龙指数盘初涨超2%】 纳斯达克中国金龙指数盘初涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2031196.d.html</link>
-            <guid>4152343</guid>
-            <pubDate>Thu, 17 Apr 2025 13:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英特尔股价下跌1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3230630.d.html</link>
-            <guid>4152342</guid>
-            <pubDate>Thu, 17 Apr 2025 13:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们并未设置任何特定的汇率水平为目标。我们在货币政策决策时考虑了汇率因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3230457.d.html</link>
-            <guid>4152340</guid>
-            <pubDate>Thu, 17 Apr 2025 13:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[unitedhealth股价下跌18%，为2020年3月以来最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3230381.d.html</link>
-            <guid>4152339</guid>
-            <pubDate>Thu, 17 Apr 2025 13:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[礼来股价上涨15%，创2023年8月以来最大盘中涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3230331.d.html</link>
-            <guid>4152338</guid>
-            <pubDate>Thu, 17 Apr 2025 13:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰国际集团分析师Carsten Brzesk：周四的利率决定是一项“保险法案”，我们认为接下来会有更多的降息。]]></title>
-            <guid>4152337</guid>
-            <pubDate>Thu, 17 Apr 2025 13:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌1.2%，标普500涨0.4%，纳指涨0.5%】联合健康跌16.4%，公司下调年度利润预期。礼来涨12.1%，公司发布减肥药研究数据。赫兹暴涨35.4%，阿克曼旗下基金成其第二大股东。阿里巴巴涨3.8%，淘宝登顶16个国家App下载榜。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8805341.d.html</link>
-            <guid>4152336</guid>
-            <pubDate>Thu, 17 Apr 2025 13:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：还不确定我们是否已经度过了不确定性的高峰。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5556687.d.html</link>
-            <guid>4152335</guid>
-            <pubDate>Thu, 17 Apr 2025 13:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲央行强调对进一步降息持开放态度】德意志银行首席欧洲经济学家马克•沃尔表示，欧洲央行在降息后发表的评论暗示，如果贸易冲击持续下去，将进一步放宽货币政策。他在一份报告中表示，政策制定者对经济的前瞻性看法意味着关税预期会带来冲击。沃尔说：“对‘异常’不确定性的描述意味着，如果贸易冲击持续下去，并得到数据的证实，欧洲央行对进一步放松货币政策持开放态度。”不过，欧洲央行删掉了“限制性”政策的措辞，并暗示经济对全球冲击具有韧性，指的是劳动力囤积等动态因素。他说，欧洲央行可能会在6月份再次降息，并在年底前将利率降至1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2030667.d.html</link>
-            <guid>4152334</guid>
-            <pubDate>Thu, 17 Apr 2025 13:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                    【智己汽车将于年内全面进军沙特等海湾国家】 4月17日，智己汽车宣布，已与中东头部经销商达成深度合作，2025年内将全面进军沙特等海湾国家，2026年将覆盖整个中东地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5556596.d.html</link>
-            <guid>4152333</guid>
-            <pubDate>Thu, 17 Apr 2025 13:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[拉加德：德国刺激计划提振经济增长，价格影响尚不明朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3229881.d.html</link>
-            <guid>4152332</guid>
-            <pubDate>Thu, 17 Apr 2025 13:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将惠普目标价从40.00美元下调至29.00美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2030439.d.html</link>
-            <guid>4152331</guid>
-            <pubDate>Thu, 17 Apr 2025 13:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华致酒行：2024年归母净利润同比下降81.11%，拟10派0.93元】 华致酒行4月17日晚间公告，2024年实现营业收入94.64亿元，同比下降6.49%；归属于上市公司股东的净利润4444.59万元，同比下降81.11%；基本每股收益0.11元。公司拟向全体股东每10股派发现金红利0.93元（含税），送红股0股（含税），以资本公积金向全体股东每10股转增0股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwip8804618.d.html</link>
-            <guid>4152330</guid>
-            <pubDate>Thu, 17 Apr 2025 13:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【罗博特科收到深交所监管函】罗博特科收到深交所监管函， 2023年10月31日，深交所受理了罗博特科发行股份购买资产并募集配套资金的申请，上市公司拟通过发行股份及支付现金方式购买斐控泰克81.18%股权、FSG和FAG各6.97%股权。经查明，上市公司存在以下信息披露违规情形：2019年至2023年，斐控泰克陆续收购了FSG和FAG各93.03%股权。其中，2019年至2020年期间，上市公司控股股东元颉昇、实际控制人戴军或者董事王宏军分别与5名斐控泰克股东签署协议，约定若在规定期限内中国境内上市公司等未能收购斐控泰克及FSG和FAG股权或者未达约定收益率的，由元颉昇、戴军或者王宏军回购其持有的相关股权或者对其进行收益补偿。前述5名斐控泰克股东同时也是本次重组交易对手方。上市公司未在重组报告书中及时披露上述对投资者作出投资决策有影响的信息。直至深交所发出明确问询后，上市公司才于2025年3月24日在《落实函》回复及更新的重组报告书中披露前述协议内容及其解除情况。上市公司上述行为违反了深交所相关规定，上市公司控股股东元颉昇，实际控制人、董事长、CEO戴军，董事王宏军，董事会秘书李良玉未能保证申请文件和信息披露的真实、准确、完整，违反了相关规定。鉴于上述事实和情节，深交所上市审核中心决定对罗博特科、元颉昇、戴军、王宏军、李良玉采取书面警示的自律监管措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwir3229565.d.html</link>
-            <guid>4152329</guid>
-            <pubDate>Thu, 17 Apr 2025 13:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南省首个分布式“渠面”光伏项目并网发电】当日，海南省首个分布式“渠面”光伏项目——海南华电陵水59.9MW分布式光伏发电项目并网发电。该项目由华电（陵水）新能源有限公司投资，中铁二十局电气化公司承建，创新采用光伏发电与水渠资源利用相结合方式，即将光伏板铺设于干渠及周边空余未利用土地上方，既不影响渠道功能，又可光伏发电，总装机容量达59.9兆瓦，预计年均发电量约1.02亿千瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5556132.d.html</link>
-            <guid>4152328</guid>
-            <pubDate>Thu, 17 Apr 2025 13:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华贸物流：2025年第一季度净利润1.18亿元，同比下降29.42%】 华贸物流公告，2025年第一季度营收为39.92亿元，同比增长2.82%；净利润为1.18亿元，同比下降29.42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5556046.d.html</link>
-            <guid>4152327</guid>
-            <pubDate>Thu, 17 Apr 2025 13:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华贸物流：2024年净利润5.39亿元，同比减少12.60%】 华贸物流公告，2024年实现营业收入175.25亿元，同比增长19.96%；归属于上市公司股东的净利润5.39亿元，同比减少12.60%；扣除非经常性损益后归属母公司净利润4.63亿元，同比减少12.99%；每股收益0.41元，同比减少12.77%。公司拟以本议案日总股本13.09亿股为基数，向全体股东每10股派发人民币现金股利1.74元人民币（含税），现金分红金额2.28亿元。2024年合计分红3.8亿元人民币，占2024合并报表中归属于上市公司普通股股东的净利润的比率70.45%，剩余未分配利润4.04亿元结转留存。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwin2029715.d.html</link>
-            <guid>4152326</guid>
-            <pubDate>Thu, 17 Apr 2025 13:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辟谣！网传“人民币跨境支付系统单日交易量出现天量增长”消息不实】今日市场传闻称人民币跨境支付系统（CIPS）单日交易量出现天量增长，金融一线经查阅权威渠道信息，多方了解情况，确认此传闻不实。（金融一线）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-04-17/detail-inetnwik5555872.d.html</link>
-            <guid>4152325</guid>
-            <pubDate>Thu, 17 Apr 2025 13:24:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

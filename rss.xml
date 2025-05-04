@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 04 May 2025 21:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 May 2025 22:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美联储5月维持利率不变的概率为96.8%】据CME“美联储观察”： 美联储5月维持利率不变的概率为96.8%，降息25个基点的概率为3.2%。美联储到6月维持利率不变的概率为63.3%，累计降息25个基点的概率为35.6%，累计降息50个基点的概率为1.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevneka5057052.d.html</link>
+            <guid>4178747</guid>
+            <pubDate>Sun, 04 May 2025 22:09:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【原油周一开盘大跌5% 据悉欧佩克+将继续加速增产】消息人士表示，欧佩克+正准备在10月之前快速增加石油产量，如果成员国的减产情况没有改善，可能会在11月之前取消220万桶/日的自愿减产。在此之前，欧佩克+4月份出人意料地以快于预期的速度提高了产量。据报道，这一策略是由沙特主导的，目的是惩罚达不到配额的成员国。6月份的新增产计划在周末达成一致，将4月至6月的总增产量推高至近100万桶/日。预计7月份将再批准增加41.1桶/日的产量，10月份也可能会进一步增产。受此消息影响，WTI原油周一盘初跌幅快速扩大至5%，布伦特原油跌4.5%。瑞银分析师Giovanni Staunovo警告称：“只要原油出口情况没有显示欧佩克+内部的合规情况有所改善，市场就会对这一消息持负面态度。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevneka5056908.d.html</link>
+            <guid>4178746</guid>
+            <pubDate>Sun, 04 May 2025 22:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【WTI原油跌幅扩大至5%】WTI原油跌幅扩大至5%，最低至55.03美元/桶。消息面上，欧佩克+成员国同意6月增产41.1万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevnekf6612360.d.html</link>
+            <guid>4178745</guid>
+            <pubDate>Sun, 04 May 2025 22:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金周一基本平开，现报3243.89美元/盎司。美股三大股指期货开盘均跌0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevnekf6612227.d.html</link>
+            <guid>4178744</guid>
+            <pubDate>Sun, 04 May 2025 22:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际原油期货周一大幅低开】国际原油期货周一大幅低开。WTI原油周一开跌3.7%，布伦特原油开跌3.5%。消息面上，欧佩克+成员国同意6月增产41.1万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevnekf6612179.d.html</link>
+            <guid>4178743</guid>
+            <pubDate>Sun, 04 May 2025 22:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西太平洋银行上半年净利润33.2亿澳元 符合预期】西太平洋银行上半年净利润33.2亿澳元，预估33.2亿澳元；每股中期派息0.76澳元，预估0.78澳元；上半年普通股一级资本充足率12.2％，预估11.9％；上半年股本回报率9.42％。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyai6740759.d.html</link>
+            <guid>4178742</guid>
+            <pubDate>Sun, 04 May 2025 21:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务大臣加藤胜信：不会在贸易谈判中动用抛售美国国债（这一手段）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyah1956804.d.html</link>
+            <guid>4178741</guid>
+            <pubDate>Sun, 04 May 2025 21:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【莫斯科一住宅楼发生爆炸引发火灾致2死6伤】俄罗斯紧急情况部4日在社交媒体上发文说，俄首都莫斯科西南部一栋住宅楼4日晚发生爆炸并引发火灾，造成2人死亡、6人受伤。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-05/detail-inevmyai6739358.d.html</link>
@@ -558,48 +600,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmiet6515029.d.html</link>
             <guid>4178382</guid>
             <pubDate>Sun, 04 May 2025 12:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：美国政府拟削减NASA预算 将重心转向登月与火星】据美国《纽约时报》等外媒近日报道，美国政府提出了一项削减美国国家航空航天局(NASA)预算约60亿美元的计划。同时，该计划还将为火星探测项目引入10亿美元的投资。报道称，美国政府的新预算提案显示，NASA今后的任务，几乎只专注于把人送上月球和火星。这意味着，NASA接下来将减少在太空科学、地球观测等诸多项目的研究资金，把重心全部转向这两项目标。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmiet6514872.d.html</link>
-            <guid>4178381</guid>
-            <pubDate>Sun, 04 May 2025 12:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京称俄中关系对维护世界稳定具有战略意义】俄罗斯总统普京在“俄罗斯-1”电视频道4日播出的一部纪录片中表示，自25年前他初次担任总统时就注意到世界经济发展重心正向亚太地区转移。俄罗斯积极发展同中国的关系，为世界稳定打造坚实基础。普京强调，在当今条件下，俄中关系具有深刻的战略意义。“全球性动荡未见缓和，反而呈现扩散态势。俄中两国可靠、稳定的关系本身增强了世界稳定性。”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmieq2282559.d.html</link>
-            <guid>4178380</guid>
-            <pubDate>Sun, 04 May 2025 12:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“五一”假期过半 浙江普陀山水域客流突破47万人次】“五一”假期过半，浙江海岛游持续火爆。记者4日从浙江海事局获悉，假期前三天，浙江普陀山水域客流已突破47万人次，单日最高进出岛旅客数达18.2万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmaws2412390.d.html</link>
-            <guid>4178379</guid>
-            <pubDate>Sun, 04 May 2025 12:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美银Hartnett：市场正预期特朗普转向“降关税、降利率、降税收”】全球股市在4月演绎了一场惊人的"深V"反弹，其中标普500自4月初暴跌后迎来9日连涨，创下2004年11月以来最长连涨纪录。对此，美银首席投资官Hartnett在最新研报中指出，这一走势表明投资者预期特朗普在第二个百日转向“三低”政策，即降低关税、降低利率和降低税收。同时“软”数据引发的对美国经济衰退的担忧也在缓解，Hartnett指出，2年期美债收益率自特朗普以来已下降70个基点，油价下跌20%，美元贬值9%，这些促成了金融条件的宽松。再加上科技巨头在AI领域资本支出依然强劲，2025年预计将达到3200亿美元，共同缓解了对衰退的担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmawq5636779.d.html</link>
-            <guid>4178374</guid>
-            <pubDate>Sun, 04 May 2025 12:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美银：上调微软目标价至515美元 第三季财报与展望强劲】 美银证券发表研报指，微软第三季财报与展望强劲，主要归功于云端运算服务Azure。Azure季内表现突出，按固定汇率计增长35%，远超预期中位数的31.5%。虽然季内受惠于图形处理器(GPU)及中央处理单元(CPU)交付，但核心云迁移交易的稳健执行也贡献显著。OpenAI推动Azure增长16个百分点，应能缓解略为紧张合作关系的担忧。美银证券表示，随著增长加速、资本开支达到顶峰、人工智能(AI)驱动效率的规模化，预测微软自由现金流增长将于2027财年加速至接近20%水平(乐观情况下可达20%初段)。该行将微软目标价由480美元上调至515美元，重申“买入”评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmawt7207113.d.html</link>
-            <guid>4178372</guid>
-            <pubDate>Sun, 04 May 2025 12:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国航空暂停特拉维夫航班至5月7日。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmawv6642503.d.html</link>
-            <guid>4178371</guid>
-            <pubDate>Sun, 04 May 2025 12:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加沙卫生部门：过去24小时以军行动造成至少40人死亡】据巴勒斯坦加沙地带卫生部门4日发布的数据，过去24小时内，以色列军队在加沙地带的军事行动造成至少40人死亡、125人受伤。该部门说，今年3月18日以来，以军对加沙地带多地发动袭击，已造成至少2436人死亡、6450人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-04/detail-inevmaws2410549.d.html</link>
-            <guid>4178369</guid>
-            <pubDate>Sun, 04 May 2025 12:21:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

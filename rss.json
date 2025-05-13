@@ -6,23 +6,172 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
-            "id": 4193246,
+            "id": 4193270,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvk9812882.d.html",
-            "title": "美国商务部未来将发布替代人工智能芯片规则。",
-            "date_modified": "2025-05-13T18:24:23.000Z"
+            "title": "秘鲁财政部长Jose Salardi辞职。内政部长辞职。交通部长辞职。",
+            "date_modified": "2025-05-13T19:15:01.000Z"
+        },
+        {
+            "id": 4193269,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvq1580489.d.html",
+            "title": "纽元/美元日内涨幅达1.5%，报0.5942。",
+            "date_modified": "2025-05-13T19:14:21.000Z"
+        },
+        {
+            "id": 4193268,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvk9820908.d.html",
+            "title": "【美元指数下跌将近0.8%】 周二（5月13日）纽约尾盘，ICE美元指数下跌0.78%，刷新日低至100.998点，全天处于下跌状态，日内至北京时间20:30发布美国CPI通胀数据之后不久都持续交投于101.800-101.477点区间，之后开始加速下挫。彭博美元指数跌0.66%，报1231.78点，日内交投区间为1240.11-1231.46点。",
+            "date_modified": "2025-05-13T19:09:36.000Z"
+        },
+        {
+            "id": 4193267,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvk9820484.d.html",
+            "title": "【胡塞武装称使用导弹袭击以色列机场并准确命中目标】当地时间5月13日晚，也门胡塞武装发表声明称，其导弹部队使用一枚高超音速弹道导弹袭击了以色列的本-古里安机场。胡塞武装表示，导弹准确命中目标，并导致机场暂停约一小时。胡塞武装再次强调针对以色列的空中封锁仍然有效，并要求所有航空公司停止前往以色列机场的航班。（央视新闻）",
+            "date_modified": "2025-05-13T19:07:24.000Z"
+        },
+        {
+            "id": 4193266,
+            "content_html": "",
+            "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.2040元，较周一夜盘收盘涨35点。成交量554.98亿美元。",
+            "date_modified": "2025-05-13T19:04:26.000Z"
+        },
+        {
+            "id": 4193265,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvn6594213.d.html",
+            "title": "【以军对加沙哈马斯目标实施“精准打击”至少16人死亡】 以色列国防军和以国家安全总局（辛贝特）13日发表联合声明说，当天对位于加沙地带南部汗尤尼斯欧洲医院的一处“地下指挥和控制中心”内的巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员实施了“精准打击”。据巴勒斯坦通讯社报道，以军空袭已造成至少16人死亡。(新华社)",
+            "date_modified": "2025-05-13T19:03:05.000Z"
+        },
+        {
+            "id": 4193264,
+            "content_html": "",
+            "title": "恒生指数主连夜盘收涨1.13%，报23288点。恒生科技指数主连夜盘收涨2.05%，报5379点。",
+            "date_modified": "2025-05-13T19:01:30.000Z"
+        },
+        {
+            "id": 4193263,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvi3905584.d.html",
+            "title": "以色列国防军：拦截了来自加沙的两枚火箭弹。",
+            "date_modified": "2025-05-13T19:00:06.000Z"
+        },
+        {
+            "id": 4193262,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvn6593677.d.html",
+            "title": "OpenAI将宣布阿联酋Stargate数据中心。",
+            "date_modified": "2025-05-13T18:59:49.000Z"
+        },
+        {
+            "id": 4193261,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvq1578684.d.html",
+            "title": "胡塞武装组织：向本·古里安机场发射了弹道导弹。",
+            "date_modified": "2025-05-13T18:57:17.000Z"
+        },
+        {
+            "id": 4193260,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvn6593242.d.html",
+            "title": "胡塞武装组织声称对以色列发动导弹袭击。",
+            "date_modified": "2025-05-13T18:57:03.000Z"
+        },
+        {
+            "id": 4193259,
+            "content_html": "",
+            "title": "海南省气象台2025年05月14日02时51分发布海上雷雨大风黄色预警信号：本岛南部海面03时到11时可能出现雷雨大风天气，风力达7～9级，并伴有强雷电，建议有关单位和人员做好防范工作。",
+            "date_modified": "2025-05-13T18:55:52.000Z"
+        },
+        {
+            "id": 4193258,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvi3905048.d.html",
+            "title": "法国总统马克龙：将钢铁制造商安赛乐米塔尔国有化是绝无可能的。",
+            "date_modified": "2025-05-13T18:54:11.000Z"
+        },
+        {
+            "id": 4193257,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvq1577510.d.html",
+            "title": "以色列国防军发言人： 加沙周边地区已启动警报，详情正在审查中。",
+            "date_modified": "2025-05-13T18:49:34.000Z"
+        },
+        {
+            "id": 4193256,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvi3904015.d.html",
+            "title": "【捷克将于10月举行议会众议院选举】捷克总统办公室13日宣布，总统帕维尔当天确定该国议会众议院选举将于今年10月3日和4日举行。据当地媒体报道，参加选举的政党须于7月29日前向相关机构提交候选人名单，相关机构将于8月15日前对名单进行审核。本次议会选举将首次允许居住在国外的捷克公民通过邮寄方式投票。据捷克外交部估计，目前有超过60万捷克公民长期居住在国外。捷克议会实行参众两院制。众议院共有200个席位，议员任期4年。捷克上一次众议院选举于2021年10月举行，共有7个政党进入议会。",
+            "date_modified": "2025-05-13T18:48:47.000Z"
+        },
+        {
+            "id": 4193255,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvi3903610.d.html",
+            "title": "德国总理默茨：呼吁废除欧盟供应链法。",
+            "date_modified": "2025-05-13T18:45:44.000Z"
+        },
+        {
+            "id": 4193254,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvn6590726.d.html",
+            "title": "Coinbase(COIN.O)涨幅一度扩大至25%，此前公司将被纳入标普500指数。",
+            "date_modified": "2025-05-13T18:44:59.000Z"
+        },
+        {
+            "id": 4193253,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvi3903424.d.html",
+            "title": "美元指数失守101，日内跌幅0.79%。纽元兑美元日内涨幅达1.50%，现报0.5941。",
+            "date_modified": "2025-05-13T18:44:08.000Z"
+        },
+        {
+            "id": 4193252,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvn6590443.d.html",
+            "title": "【加巴德解雇国家情报委员会高级成员】美国国家情报总监图尔西·加巴德解雇了国家情报委员会代理主席迈克·柯林斯及其副手玛丽亚·兰根·里克霍夫。加巴德还将该机构划归国家情报总监办公室（ODNI）。",
+            "date_modified": "2025-05-13T18:43:20.000Z"
+        },
+        {
+            "id": 4193251,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvn6590120.d.html",
+            "title": "微软(MSFT.O)将在总部雷德蒙德裁减1985名员工。",
+            "date_modified": "2025-05-13T18:41:44.000Z"
+        },
+        {
+            "id": 4193249,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvn6588439.d.html",
+            "title": "WTI 6月原油期货收涨1.72美元，涨幅2.77%报63.67美元/桶。",
+            "date_modified": "2025-05-13T18:31:12.000Z"
+        },
+        {
+            "id": 4193248,
+            "content_html": "",
+            "title": "上期所原油期货2406合约夜盘收涨1.70%，报491.00元人民币/桶。沪金夜盘收涨0.36%，沪银收涨0.44%。",
+            "date_modified": "2025-05-13T18:30:22.000Z"
+        },
+        {
+            "id": 4193247,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvq1575109.d.html",
+            "title": "美国国家情报总监加巴德解雇国家情报委员会高级成员。",
+            "date_modified": "2025-05-13T18:29:35.000Z"
         },
         {
             "id": 4193245,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewncvq1574685.d.html",
-            "title": "美国商务部撤销拜登时代的人工智能扩散规则。",
+            "title": "美国商务部撤销拜登政府时期的AI扩散规则，未来将发布AI芯片替换规则。",
             "date_modified": "2025-05-13T18:24:08.000Z"
         },
         {
             "id": 4193244,
             "content_html": "",
-            "title": "法国总统马克龙：我们的意愿是在乌克兰停火未得到遵守的情况下，未来几天对俄罗斯实施新的制裁。",
+            "title": "法国总统马克龙：我们的意愿是在乌克兰停火未得到遵守的情况下，未来几天对俄罗斯实施新的制裁。制裁可能涉及金融服务以及石油和天然气领域。",
             "date_modified": "2025-05-13T18:23:54.000Z"
         },
         {
@@ -535,158 +684,6 @@
             "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpq6698070.d.html",
             "title": "大众品牌首席执行官：我们需要在本十年末实现电动车与内燃机汽车的利润平价。",
             "date_modified": "2025-05-13T16:33:43.000Z"
-        },
-        {
-            "id": 4193167,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxps1689967.d.html",
-            "title": "以色列国防军：从也门发射的导弹被拦截。",
-            "date_modified": "2025-05-13T16:32:44.000Z"
-        },
-        {
-            "id": 4193166,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpq6697254.d.html",
-            "title": "福特：将裁减约350个软件岗位以提高效率，裁员是为了“确保我们拥有合适的人才”。",
-            "date_modified": "2025-05-13T16:29:34.000Z"
-        },
-        {
-            "id": 4193165,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpq6697017.d.html",
-            "title": "【吉利银河官方：本次网络故障波动影响地区范围较大，深表歉意】 5月13日深夜，吉利银河官方发布App车控及登录异常情况说明：“经过与网络运营服务商紧急协调处理，目前吉利银河App车辆远程控制、账号登录等功能已陆续恢复正常中，但由于本次网络故障波动影响地区范围较大，服务恢复过程中仍可能产生部分功能不可用的情况，预计07:00前完成全量服务恢复。在此期间给您带来的不便，我们深表歉意，感谢您的理解与支持！”",
-            "date_modified": "2025-05-13T16:28:14.000Z"
-        },
-        {
-            "id": 4193164,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpm4015712.d.html",
-            "title": "以色列军方：已确认从也门向以色列领土发射导弹，并正在努力拦截。",
-            "date_modified": "2025-05-13T16:27:00.000Z"
-        },
-        {
-            "id": 4193163,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpn9922207.d.html",
-            "title": "费城半导体指数上涨3.3%。",
-            "date_modified": "2025-05-13T16:26:45.000Z"
-        },
-        {
-            "id": 4193162,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpn9922160.d.html",
-            "title": "【以军对加沙地带南部医院发动空袭】当地时间13日晚间，以色列国防军发表声明，证实当天以军对位于加沙地带南部汗尤尼斯的欧洲医院发动空袭。声明称，空袭的目标是哈马斯武装人员在该医院地下设施中设立的指挥和活动中心。声明表示，以军空袭时已采取措施以减少对平民的伤害，包括使用精确武器、准确情报信息等。此前，巴勒斯坦媒体报道称，以军对欧洲医院连续发动多轮空袭，造成多人伤亡。另据以色列消息人士称，此次以军空袭的目标是哈马斯在加沙地带的高级指挥官穆罕默德·辛瓦尔。但相关消息尚未得到以军证实。",
-            "date_modified": "2025-05-13T16:26:31.000Z"
-        },
-        {
-            "id": 4193161,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpq6696401.d.html",
-            "title": "【瑞银称富有客户撤出美元资产】瑞银集团亚洲财富管理联席主管Amy Lo表示，瑞银的高净值客户正日益撤出美元资产，转向黄金、加密货币。她表示：“黄金现在非常受欢迎。”",
-            "date_modified": "2025-05-13T16:25:37.000Z"
-        },
-        {
-            "id": 4193160,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpm4014596.d.html",
-            "title": "市场消息：OpenAI考虑在阿联酋建设数据中心，美国总统特朗普访问中东期间可能宣布相关协议。",
-            "date_modified": "2025-05-13T16:21:14.000Z"
-        },
-        {
-            "id": 4193159,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpm4014170.d.html",
-            "title": "美国总统特朗普：在与土耳其总统埃尔多安会谈后做出了有关制裁的决定。",
-            "date_modified": "2025-05-13T16:19:19.000Z"
-        },
-        {
-            "id": 4193158,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpm4014117.d.html",
-            "title": "特朗普：将下令停止对叙利亚的制裁。",
-            "date_modified": "2025-05-13T16:18:59.000Z"
-        },
-        {
-            "id": 4193157,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpm4013821.d.html",
-            "title": "美国总统特朗普：希望协助黎巴嫩。",
-            "date_modified": "2025-05-13T16:17:25.000Z"
-        },
-        {
-            "id": 4193156,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpm4013657.d.html",
-            "title": "高盛集团洽谈将旗下Marcus零售银行推广至爱尔兰。",
-            "date_modified": "2025-05-13T16:16:26.000Z"
-        },
-        {
-            "id": 4193155,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxps1686929.d.html",
-            "title": "美国总统特朗普：将会带回更多加沙人质，加沙地区的人民应当拥有更美好的未来。",
-            "date_modified": "2025-05-13T16:15:56.000Z"
-        },
-        {
-            "id": 4193154,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpq6693979.d.html",
-            "title": "美国总统特朗普宣称：也门胡塞武装不会（继续）打击任何美国目标。",
-            "date_modified": "2025-05-13T16:15:52.000Z"
-        },
-        {
-            "id": 4193153,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpq6693941.d.html",
-            "title": "特朗普：继续努力结束加沙战争。",
-            "date_modified": "2025-05-13T16:15:38.000Z"
-        },
-        {
-            "id": 4193152,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpn9919309.d.html",
-            "title": "特朗普：努力解救所有被哈马斯劫持的人质。",
-            "date_modified": "2025-05-13T16:15:10.000Z"
-        },
-        {
-            "id": 4193151,
-            "content_html": "",
-            "title": "周二（5月13日）欧市尾盘，德国10年期国债收益率上涨3.2个基点，报2.680%。两年期德债收益率涨2.4个基点，报1.936%；30年期德债收益率涨4.5个基点，报3.126%。2/10年期德债收益率利差涨0.783个基点，报+74.055个基点。",
-            "date_modified": "2025-05-13T16:14:05.000Z"
-        },
-        {
-            "id": 4193150,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpm4013230.d.html",
-            "title": "【利比亚首都武装冲突已致至少6人死亡】 利比亚首都的黎波里一家紧急医疗服务机构13日说，的黎波里南部12日夜晚发生的武装冲突已造成至少6人死亡。",
-            "date_modified": "2025-05-13T16:13:41.000Z"
-        },
-        {
-            "id": 4193149,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxps1686562.d.html",
-            "title": "AMD涨超3.8%，刷新日高至109.60美元，英伟达涨幅收窄至5.4%。",
-            "date_modified": "2025-05-13T16:13:29.000Z"
-        },
-        {
-            "id": 4193148,
-            "content_html": "",
-            "title": "高盛：鉴于近期贸易缓和，预计布伦特/WTI原油价格预测在2025年剩余时间内有大约每桶3到4美元的上行风险，预测为60/56美元；2026年价格预测为56/52美元。",
-            "date_modified": "2025-05-13T16:12:27.000Z"
-        },
-        {
-            "id": 4193147,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxps1686311.d.html",
-            "title": "特朗普：必要时会毫不犹豫地动用美国的力量。",
-            "date_modified": "2025-05-13T16:12:00.000Z"
-        },
-        {
-            "id": 4193146,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-05-14/detail-inewmxpm4012937.d.html",
-            "title": "特朗普：如果不使用这些武器就是巨大的浪费。",
-            "date_modified": "2025-05-13T16:11:53.000Z"
         }
     ]
 }

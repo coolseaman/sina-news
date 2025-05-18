@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 18 May 2025 18:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 19:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[声明显示：美国副总统万斯会见加拿大总理卡尼，双方讨论了美国和加拿大的共同利益与目标，包括公平贸易政策以及两国持续的长久关系。]]></title>
+            <guid>4200844</guid>
+            <pubDate>Sun, 18 May 2025 19:13:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰总统选举第一轮投票结束】当地时间5月18日21时，波兰总统选举第一轮投票结束。出口民调显示，拉法乌·特沙斯科夫斯基的支持率为30.8%，卡罗尔·纳夫罗茨基的支持率为29.1%，斯瓦沃米尔·门岑的支持率为15.4%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8265644.d.html</link>
+            <guid>4200842</guid>
+            <pubDate>Sun, 18 May 2025 19:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【出口民调：葡萄牙总理领导的中右翼民主联盟赢得议会选举最多席位】出口民调显示，葡萄牙现任总理蒙特内格罗领导的中右翼民主联盟在18日举行的议会选举中获得最多席位，但未获绝对多数。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8264915.d.html</link>
+            <guid>4200837</guid>
+            <pubDate>Sun, 18 May 2025 19:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股“稳中有进”趋势有望延续】上周，A股市场呈现震荡上行后的高位整固格局。沪指上半周在大金融的带动下收复3400点，下半周板块轮动加快，指数缩量调整。机构观点分析认为，短期市场风险偏好回升和基本面预期改善，A股主要指数向上突破4月初缺口。在总量政策定力持续强化，中长线资金入市的背景下，A股“稳中有进”的趋势有望延续。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8263949.d.html</link>
+            <guid>4200812</guid>
+            <pubDate>Sun, 18 May 2025 18:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国信证券袁超：中国资产正转向“技术驱动+资产重估”】近日，《中美日内瓦经贸会谈联合声明》发布后，中国资产市场有积极反应。未来，中美贸易政策走向及其对中国资产的影响备受关注。国信证券经济研究所的高管袁超表示，前期中国已打出政策组合拳，增强中国资产应对外部环境变化的能力，当前关键在于用好用足现有政策。袁超认为，中国经济韧性足、潜力大，在超大规模市场纵深、全产业链体系加速重构的背景下，中国经济中长期发展具备坚实基础，资产重估的内在逻辑并未改变。他谈到，目前中国资产的吸引力已从“估值修复”向“技术驱动+资产重估”切换，未来如果政策红利持续释放、科技突破转化为盈利增长且地缘风险边际缓和，外资主动型长线资金或将加速入场。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8263906.d.html</link>
+            <guid>4200810</guid>
+            <pubDate>Sun, 18 May 2025 18:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联邦调查局确认加州棕榈泉市爆炸事件嫌疑人】当地时间5月18日，美国联邦调查局确认，加利福尼亚州棕榈泉市一家医疗健康机构外发生的爆炸事件嫌疑人为盖伊·爱德华·巴特库斯（Guy Edward Bartkus）。联邦调查局官员称，该局正在对嫌疑人的住所执行搜查令，且不认为存在持续的公共安全威胁。官员表示，嫌疑人试图直播爆炸过程。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnm1488525.d.html</link>
+            <guid>4200793</guid>
+            <pubDate>Sun, 18 May 2025 18:29:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【出口民调：布加勒斯特市长在罗马尼亚总统选举中得票率暂时领先】 初步出口民调显示，罗马尼亚首都布加勒斯特市长尼库绍尔·达恩在18日举行的罗马尼亚总统选举第二轮投票中得票率暂时居于领先地位。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-19/detail-inewzpnn8262644.d.html</link>
@@ -567,41 +602,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewywqw3740321.d.html</link>
             <guid>4200581</guid>
             <pubDate>Sun, 18 May 2025 12:29:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国总统候选人金文洙：将推动亲商政策和核能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewywqu8613209.d.html</link>
-            <guid>4200580</guid>
-            <pubDate>Sun, 18 May 2025 12:27:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【石破茂内阁支持率降至22%，濒临“下台水域”】 日本一项最新民意调查结果显示，日本首相石破茂领导的内阁支持率降至22%，濒临“下台水域”，为其执政以来最低值；其内阁不支持率升至62%，远超支持率。在日本政坛，内阁支持率低于30%会被舆论视为进入“危险水域”；如果进一步跌破20%，就被视为陷入“下台水域”。截至本月，石破内阁支持率已连续3个月处于“危险水域”。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewywqu8612453.d.html</link>
-            <guid>4200579</guid>
-            <pubDate>Sun, 18 May 2025 12:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本周两融余额增幅最大：宁波远洋两融余额：1.54亿元，余额增幅：64.26%；安乃达两融余额：1.69亿元，余额增幅：58.08%]]></title>
-            <guid>4200578</guid>
-            <pubDate>Sun, 18 May 2025 12:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国大选热门人李在明选称无需急于与美达成协议】韩国总统候选人领跑者李在明（Lee Jae-myung）表示，在与美国的贸易谈判中无需急于达成早期协议，并批评过渡政府仓促与特朗普政府接触。李在明认为，美国在关税谈判中并不具备 “压倒性优势”，韩国无需率先采取行动以尽早达成协议。他还提出宪法修正案，建议将总统任期从单一的五年制改为四年一届、可连任两届，旨在加强总统问责制并实现权力分散。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewywqu8612338.d.html</link>
-            <guid>4200577</guid>
-            <pubDate>Sun, 18 May 2025 12:19:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安达维尔：与多家eVTOL主机单位在部分产品上签订研制合同或合作意向书】安达维尔近日在业绩说明会上表示，公司在低空经济领域积极布局，已经取得了一定的成果。目前，公司与多家eVTOL（电动垂直起降飞行器）主机单位在座椅、内饰、空调、照明等产品上签订了研制合同或合作意向书，相关研制工作进展顺利。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewywqw3737250.d.html</link>
-            <guid>4200576</guid>
-            <pubDate>Sun, 18 May 2025 12:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最高气温37℃以上！山西发布高温橙色预警】山西省气象台2025年05月18日16时27分发布高温橙色预警，预警区域：运城、临汾、晋城、长治、晋中、太原、吕梁、阳泉、忻州等地的部分地区。此外，北部平川和中南部其余大部分地区未来24小时最高气温也将达35℃或以上。预计24小时预警区域最高气温将升至37℃以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-18/detail-inewywqu8610944.d.html</link>
-            <guid>4200575</guid>
-            <pubDate>Sun, 18 May 2025 12:07:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

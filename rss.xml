@@ -4,13 +4,458 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Fri, 23 May 2025 17:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 18:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[周五（5月23日），美联储隔夜逆回购协议（RRP）使用规模为1548.41亿美元，上个交易日报1730.18亿美元。]]></title>
+            <title><![CDATA[特朗普：考虑了很多关于大学的事情。]]></title>
+            <guid>4210606</guid>
+            <pubDate>Fri, 23 May 2025 18:24:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：有些产品我们不想生产。如果在美国销售，就需要在美国制造。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0424354.d.html</link>
+            <guid>4210605</guid>
+            <pubDate>Fri, 23 May 2025 18:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：不希望消费者为关税买单。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0424291.d.html</link>
+            <guid>4210604</guid>
+            <pubDate>Fri, 23 May 2025 18:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：6月1日起对欧盟征收50%关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0424224.d.html</link>
+            <guid>4210603</guid>
+            <pubDate>Fri, 23 May 2025 18:22:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元涨约0.8%，报1.1366。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3649724.d.html</link>
+            <guid>4210602</guid>
+            <pubDate>Fri, 23 May 2025 18:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈及苹果：对不在美国生产的手机制造商征收25%的关税。若苹果、三星在美建厂，不会加征关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0424165.d.html</link>
+            <guid>4210601</guid>
+            <pubDate>Fri, 23 May 2025 18:21:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：不寻求与欧盟达成协议。如果欧盟开始转向美国，可能会讨论推迟对其征税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3649654.d.html</link>
+            <guid>4210600</guid>
+            <pubDate>Fri, 23 May 2025 18:20:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普:我们还有许多其他协议要签署。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8364756.d.html</link>
+            <guid>4210599</guid>
+            <pubDate>Fri, 23 May 2025 18:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：将看看欧盟是否可以采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3649630.d.html</link>
+            <guid>4210598</guid>
+            <pubDate>Fri, 23 May 2025 18:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部与波音公司原则上达成协议，允许该飞机制造商避免被起诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3649623.d.html</link>
+            <guid>4210597</guid>
+            <pubDate>Fri, 23 May 2025 18:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：（对欧盟50%关税）他们只会在美国建厂。我不是在寻求达成协议，协议已定在50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8364714.d.html</link>
+            <guid>4210596</guid>
+            <pubDate>Fri, 23 May 2025 18:19:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普说现在是发展核武的时候了。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3649575.d.html</link>
+            <guid>4210595</guid>
+            <pubDate>Fri, 23 May 2025 18:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：欧盟占了美国的便宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0424026.d.html</link>
+            <guid>4210594</guid>
+            <pubDate>Fri, 23 May 2025 18:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普说美国不能在欧盟销售汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3649541.d.html</link>
+            <guid>4210593</guid>
+            <pubDate>Fri, 23 May 2025 18:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：与欧盟的谈判进展缓慢。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0424004.d.html</link>
+            <guid>4210592</guid>
+            <pubDate>Fri, 23 May 2025 18:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普称建造一个大的核电站是有道理的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0423959.d.html</link>
+            <guid>4210591</guid>
+            <pubDate>Fri, 23 May 2025 18:17:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：核电具有强大的切断能力和冗余能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5705764.d.html</link>
+            <guid>4210590</guid>
+            <pubDate>Fri, 23 May 2025 18:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普对安全问题感到满意。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0423865.d.html</link>
+            <guid>4210589</guid>
+            <pubDate>Fri, 23 May 2025 18:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫高级官员：行政令将旨在振兴美国的采矿和铀浓缩产业。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0423797.d.html</link>
+            <guid>4210588</guid>
+            <pubDate>Fri, 23 May 2025 18:15:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫高级官员：总统签署的行政令要求核能监管委员会须在18个月内对核能和反应堆许可证作出裁决。]]></title>
+            <guid>4210587</guid>
+            <pubDate>Fri, 23 May 2025 18:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫高级官员：行政令要求能源部和国防部合作在联邦土地上建设核能项目。要求对核能监管委员会进行“重大改革”，其中包括审查人员配置情况。行政命令将旨在缩减监管规定，以加快许可证和反应堆许可证的审查进度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3649308.d.html</link>
+            <guid>4210586</guid>
+            <pubDate>Fri, 23 May 2025 18:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普将签署核反应堆法规行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0423719.d.html</link>
+            <guid>4210585</guid>
+            <pubDate>Fri, 23 May 2025 18:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西声明：由于禽流感，印度、纳米比亚和阿尔巴尼亚宣布在全国范围内暂停进口巴西家禽。]]></title>
+            <guid>4210584</guid>
+            <pubDate>Fri, 23 May 2025 18:13:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：核计划处于第一阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0423573.d.html</link>
+            <guid>4210583</guid>
+            <pubDate>Fri, 23 May 2025 18:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普签署首批核能相关行政令；旨在重振美国在核电领域的领导地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0423512.d.html</link>
+            <guid>4210582</guid>
+            <pubDate>Fri, 23 May 2025 18:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我们需要大量电力。谈论核问题很有道理。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8364234.d.html</link>
+            <guid>4210580</guid>
+            <pubDate>Fri, 23 May 2025 18:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OKLO首席执行官在椭圆形办公室与特朗普交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5705366.d.html</link>
+            <guid>4210579</guid>
+            <pubDate>Fri, 23 May 2025 18:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文股价上涨。报道称公司将购买400亿英伟达芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5705220.d.html</link>
+            <guid>4210578</guid>
+            <pubDate>Fri, 23 May 2025 18:08:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[核电概念股NNE涨30.3%，Oklo涨23.7%，UEG涨23.1%，LEU涨21.4%，SMR涨16.6%。]]></title>
+            <guid>4210577</guid>
+            <pubDate>Fri, 23 May 2025 18:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CONSTELLATION ENERGY首席执行官：特朗普行动涉及许可问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5705110.d.html</link>
+            <guid>4210576</guid>
+            <pubDate>Fri, 23 May 2025 18:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特美国总统特朗普：能源安全就是国家安全。如果我们为驻军提供的能源不可靠，无论是在前线部署还是国内，我们都将陷入危险之中。因此，拥有快速部署的小型模块化核能力非常重要。科技在安全性和成本方面已经取得了长足的进步。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3648336.d.html</link>
+            <guid>4210575</guid>
+            <pubDate>Fri, 23 May 2025 18:05:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国防部长HEGSETH：核电可以为人工智能提供动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5704770.d.html</link>
+            <guid>4210574</guid>
+            <pubDate>Fri, 23 May 2025 18:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国内政部长伯古姆：命令将解决燃料装载问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3648179.d.html</link>
+            <guid>4210573</guid>
+            <pubDate>Fri, 23 May 2025 18:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[甲骨文将为OpenAI在美国的新数据中心购买价值400亿美元的英伟达芯片，将购买约40万个英伟达的GB200芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3648161.d.html</link>
+            <guid>4210572</guid>
+            <pubDate>Fri, 23 May 2025 18:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国内政部长伯古姆：将会有四个核相关订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5704616.d.html</link>
+            <guid>4210571</guid>
+            <pubDate>Fri, 23 May 2025 18:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：今天将宣布有关核能的重大消息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0422522.d.html</link>
+            <guid>4210570</guid>
+            <pubDate>Fri, 23 May 2025 18:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：核电是安全且环保的。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8363326.d.html</link>
+            <guid>4210569</guid>
+            <pubDate>Fri, 23 May 2025 18:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：核能是一个热门行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0422494.d.html</link>
+            <guid>4210568</guid>
+            <pubDate>Fri, 23 May 2025 18:01:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[提示：特朗普开始在白宫发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8363297.d.html</link>
+            <guid>4210567</guid>
+            <pubDate>Fri, 23 May 2025 18:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，沙特阿美正在考虑潜在的资产出售计划。据悉沙特阿美正在寻求银行的建议，以从其资产中提取价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8363158.d.html</link>
+            <guid>4210566</guid>
+            <pubDate>Fri, 23 May 2025 17:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：“Operator” 仍继续作为研究预览智能代理，面向全球ChatGPT Pro用户开放使用。]]></title>
+            <guid>4210565</guid>
+            <pubDate>Fri, 23 May 2025 17:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：贸易关税和不确定性对经济产生负面影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8363139.d.html</link>
+            <guid>4210564</guid>
+            <pubDate>Fri, 23 May 2025 17:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：风险平衡并非仅限于我们有多少上行和下行风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5704129.d.html</link>
+            <guid>4210563</guid>
+            <pubDate>Fri, 23 May 2025 17:57:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：必须在更长时间内实施紧缩政策才能使CPI达到目标水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0422133.d.html</link>
+            <guid>4210562</guid>
+            <pubDate>Fri, 23 May 2025 17:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：央行快速加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0422078.d.html</link>
+            <guid>4210561</guid>
+            <pubDate>Fri, 23 May 2025 17:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本方面表示：双方寻求尽快达成互利协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3647511.d.html</link>
+            <guid>4210560</guid>
+            <pubDate>Fri, 23 May 2025 17:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会（SEC）文件显示，麦当劳(MCD.N)关于在高管薪酬中纳入多元化、公平与包容性（DEI）考量的股东提案遭否决。]]></title>
+            <guid>4210559</guid>
+            <pubDate>Fri, 23 May 2025 17:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本方面称赤泽亮正在华盛顿与美国商务部长卢特尼克会面，讨论了关税措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0421968.d.html</link>
+            <guid>4210558</guid>
+            <pubDate>Fri, 23 May 2025 17:52:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约期铜日内涨幅达4.00%，现报4.8670美元/磅。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8362405.d.html</link>
+            <guid>4210557</guid>
+            <pubDate>Fri, 23 May 2025 17:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD日内下跌1.00%，现报1.3719。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0421783.d.html</link>
+            <guid>4210556</guid>
+            <pubDate>Fri, 23 May 2025 17:49:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：当前要保持灵活性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3647303.d.html</link>
+            <guid>4210555</guid>
+            <pubDate>Fri, 23 May 2025 17:49:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：鉴于不确定性，谨慎意味着央行不应突然采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8362290.d.html</link>
+            <guid>4210554</guid>
+            <pubDate>Fri, 23 May 2025 17:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士法郎上涨1%至两周高点，报0.8206瑞郎兑1美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3647143.d.html</link>
+            <guid>4210553</guid>
+            <pubDate>Fri, 23 May 2025 17:47:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD继续走低，刷新七个月低位，现报1.3724。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0421549.d.html</link>
+            <guid>4210552</guid>
+            <pubDate>Fri, 23 May 2025 17:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长Galipolo：IOF税收决定不会对市场造成损害。目前货币政策的两个关键词是谨慎和灵活。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3647050.d.html</link>
+            <guid>4210551</guid>
+            <pubDate>Fri, 23 May 2025 17:45:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（5月23日），韩元兑美元最终上涨1.24%，报1365.42韩元，本周累计上涨2.48%、期内持续震荡走高。]]></title>
+            <guid>4210550</guid>
+            <pubDate>Fri, 23 May 2025 17:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：我不赞同利用金融操作税（IOF税）来实现财政目标的想法。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8361968.d.html</link>
+            <guid>4210549</guid>
+            <pubDate>Fri, 23 May 2025 17:43:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：麦当劳将关闭所有独立试点 COSMC 门店。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5703110.d.html</link>
+            <guid>4210548</guid>
+            <pubDate>Fri, 23 May 2025 17:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：财长HADDAD清楚地解释了如何做出IOF税收决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3646777.d.html</link>
+            <guid>4210547</guid>
+            <pubDate>Fri, 23 May 2025 17:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所（ICE）：上周布伦特原油期货投机性净多头头寸增加12,185手合约至163,329手合约。上周汽油期货投机性净多头头寸增加2,687手合约至9,486手合约。]]></title>
+            <guid>4210546</guid>
+            <pubDate>Fri, 23 May 2025 17:39:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所欧洲期货市场：截至5月20日，可可投机者将净多头头寸增加5972手至15305手 。]]></title>
+            <guid>4210545</guid>
+            <pubDate>Fri, 23 May 2025 17:39:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：财政政策需要得到全社会的关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5702769.d.html</link>
+            <guid>4210544</guid>
+            <pubDate>Fri, 23 May 2025 17:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：我非常热衷于适当的机构分离。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3646593.d.html</link>
+            <guid>4210543</guid>
+            <pubDate>Fri, 23 May 2025 17:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美债期限溢价升至十年高点 投资者要求更高回报】随着市场越来越担心全球最大经济体不断扩大的财政赤字，债券投资者对持有美国长债所要求的回报也越来越高。美国10年期期限溢价 —— 即投资者对持有长债而非一系列短债所要求的额外回报 —— 已升至接近1%，创2014年以来最高。这表明投资者对加大未来举债规模计划的担忧。“目前的危险在于，这种财政现象会自我强化，”Newton Investment Management固定收益主管Ella Hoxha在接受彭博电视采访时表示，“这应该值得关注，尤其对风险资产来说，当然对决策者也同样如此，因为他们将不得不在更高利率水平下融资。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3646584.d.html</link>
+            <guid>4210542</guid>
+            <pubDate>Fri, 23 May 2025 17:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国地方当局表示，周五早些时候，他们驱离了一艘在法国海域且没有相应执照的英国渔船。]]></title>
+            <guid>4210541</guid>
+            <pubDate>Fri, 23 May 2025 17:35:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：财政政策需要更多谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3646428.d.html</link>
+            <guid>4210540</guid>
+            <pubDate>Fri, 23 May 2025 17:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：央行有工具来履行其职责。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3646355.d.html</link>
+            <guid>4210539</guid>
+            <pubDate>Fri, 23 May 2025 17:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长Galipolo：提前防范尚未发生的事件会带来更大的困难。财政和货币政策总会引发一些不满。经济政策决定总是需要权衡利弊。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0420776.d.html</link>
+            <guid>4210538</guid>
+            <pubDate>Fri, 23 May 2025 17:32:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长：市场担心经济放缓可能导致财政政策出现反应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0420592.d.html</link>
+            <guid>4210537</guid>
+            <pubDate>Fri, 23 May 2025 17:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特朗普升级对哈佛大学的冲突后，德国向哈佛大学提供“流放校园”。此外，欧洲大学收到大量美国学者的咨询。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3646094.d.html</link>
+            <guid>4210535</guid>
+            <pubDate>Fri, 23 May 2025 17:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国汉堡发生持刀袭击事件 多人受伤】当地时间5月23日下午，德国汉堡主火车站发生持刀袭击事件。总台记者获悉，袭击造成至少12人受伤，其中3人有生命危险，3人重伤，6人轻伤。德国警方逮捕了一名嫌疑人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0420561.d.html</link>
+            <guid>4210534</guid>
+            <pubDate>Fri, 23 May 2025 17:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储理事Cook：家庭借贷对金融体系的风险仍然“温和”】美联储理事Lisa Cook表示，家庭借贷对金融体系的风险仍然“温和”，美国人的财务状况总体看起来稳健。Cook为周五在纽约一场活动准备的关于金融稳定的讲话中表示：“大多数家庭都有能力偿还债务，过去五年来，家庭债务占GDP的比重有所下降”。Cook表示，如果家庭拖欠贷款和违约率上升，足够大的收入冲击可能会导致贷款机构遭受更大损失。Cook表示，她也在“密切”关注商业房地产市场，因为大量房地产贷款即将到期，需要再融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs5702170.d.html</link>
+            <guid>4210533</guid>
+            <pubDate>Fri, 23 May 2025 17:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长Galipolo：巴西的通胀预期已长期脱钩。国内因素在很大程度上解释了这一趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8360891.d.html</link>
+            <guid>4210532</guid>
+            <pubDate>Fri, 23 May 2025 17:26:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞士法郎触及两周低点，最新下跌0.9%，至1美元兑0.8214瑞士法郎。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0420208.d.html</link>
+            <guid>4210531</guid>
+            <pubDate>Fri, 23 May 2025 17:22:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克指数刚刚突破18800.00关口，最新报18800.28，日内跌0.66%。道琼斯工业平均指数刚刚突破41700.00关口，最新报41701.85，日内跌0.38%。]]></title>
+            <guid>4210530</guid>
+            <pubDate>Fri, 23 May 2025 17:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：道尔顿将启动富士传媒董事会代理权争夺战。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0419881.d.html</link>
+            <guid>4210529</guid>
+            <pubDate>Fri, 23 May 2025 17:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周五（5月23日），美联储隔夜逆回购协议（RRP）使用规模为1548.41亿美元，上个交易日报1730.18亿美元。美联储在固定利率逆回购操作中总计接纳了39个对手方的1548.41亿美元。]]></title>
             <guid>4210528</guid>
             <pubDate>Fri, 23 May 2025 17:16:25 GMT</pubDate>
         </item>
@@ -97,7 +542,7 @@
             <pubDate>Fri, 23 May 2025 16:55:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贝森特预计美国几周内将达成数个大型贸易协议 中美将再次谈判】美国财政部长斯科特·贝森特表示，美国政府可能在几周宣布“若干项大型”贸易协议。“这些协议进展非常快，我认为随着90天暂停期接近结束，会看到越来越多的协议被公布，”贝森特说。“很多亚洲国家提出了非常不错的条件。”贝森特表示，大多数美国贸易伙伴一直在“非常真诚地”进行谈判，但欧盟是个例外。特朗普当天早些时候威胁称，若与欧盟的谈判继续无果，将自6月1日起对欧盟商品加征50%关税，特朗普称“我们与他们的谈判毫无进展”。]]></title>
+            <title><![CDATA[【贝森特预计美国几周内将达成数个大型贸易协议】美国财政部长斯科特·贝森特表示，美国政府可能在几周宣布“若干项大型”贸易协议。“这些协议进展非常快，我认为随着90天暂停期接近结束，会看到越来越多的协议被公布，”贝森特说。“很多亚洲国家提出了非常不错的条件。”贝森特表示，大多数美国贸易伙伴一直在“非常真诚地”进行谈判，但欧盟是个例外。特朗普当天早些时候威胁称，若与欧盟的谈判继续无果，将自6月1日起对欧盟商品加征50%关税，特朗普称“我们与他们的谈判毫无进展”。]]></title>
             <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0416321.d.html</link>
             <guid>4210511</guid>
             <pubDate>Fri, 23 May 2025 16:52:54 GMT</pubDate>
@@ -148,448 +593,6 @@
             <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvr0413030.d.html</link>
             <guid>4210503</guid>
             <pubDate>Fri, 23 May 2025 16:34:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫：欧洲人尚未放弃让特朗普重返反俄阵营的希望，但他们将无法推卸责任。]]></title>
-            <guid>4210502</guid>
-            <pubDate>Fri, 23 May 2025 16:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加纳央行行长：加纳通胀率到12月底将降至12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8354053.d.html</link>
-            <guid>4210501</guid>
-            <pubDate>Fri, 23 May 2025 16:30:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外长：伊美第五轮谈判是最具专业性的一轮谈判】当地时间23日，伊朗外长阿拉格齐表示，伊美第五轮核问题谈判是最具专业性的一轮谈判，伊朗立场非常明确，现在美方对伊朗的立场有了更多了解。阿拉格齐还表示，阿曼外交大臣提出了能够克服障碍的解决方案的一些想法，本轮谈判对这一方案的概要和核心议题进行了审查。目前，美伊双方一致同意，在两国各自国家领导层作进一步审议的同时，阿曼外交大臣将继续研究其所提出想法的细节，并将其提供给双方进一步审议。阿拉格齐表示，下一轮谈判的时间和地点将另行确定并公布。阿拉格齐还表示，谈判情况复杂，两三次会议不可能达成最终结论。但目前谈判已步入合理轨道，这本身就是一个进展。 他希望在接下来的一两次会谈中，能够达成推动谈判取得进展的解决方案，为最终协议铺平道路。阿拉格齐还表示，尽管目前尚未进入最终协议阶段，但今天谈判的气氛良好，随着阿曼采取措施消除障碍，取得进展的可能性将会增加。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3637573.d.html</link>
-            <guid>4210500</guid>
-            <pubDate>Fri, 23 May 2025 16:29:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据报道，美国伊朗寻求指导核协议谈判的框架。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3636881.d.html</link>
-            <guid>4210499</guid>
-            <pubDate>Fri, 23 May 2025 16:26:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        现货白银日内涨幅达到1.01%，报33.36美元/盎司；COMEX白银期货主力最新报33.54美元/盎司，日内涨0.97%。]]></title>
-            <guid>4210498</guid>
-            <pubDate>Fri, 23 May 2025 16:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【270亿美元巴帝财富继承人加入英国财富外流潮】 印度最富有家族之一的继承人、英国电信巨头英国电信集团（BT Group Plc）的最大股东，因英国富裕居民增税而从英国迁居。根据亿万富翁家族同名企业集团的部分注册文件，37岁的什拉文·巴帝·米塔尔（Shravin Bharti Mittal）现在将阿联酋列为其居住地，此前他曾将英国列为其居住地。该集团拥有英国最大的移动和宽带公司之一24.5%的股份。其他文件显示，他上个月为其在伦敦创立的投资公司Unbound在阿布扎比设立了分公司。根据彭博亿万富翁指数，巴帝·米塔尔家族拥有总计272亿美元的财富。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3636389.d.html</link>
-            <guid>4210497</guid>
-            <pubDate>Fri, 23 May 2025 16:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国财长：今夏料取消银行业SLR规则 美债收益率有望大幅下跌】 美国财政部长贝森特表示，监管机构可能在今年夏季取消一项长期以来制约银行美国国债交易的规定。贝森特表示，非常接近就补充杠杆率(SLR)规定采取行动。他指出，美联储、货币监理署(OCC)、联邦存款保险公司(FDIC)这三大银行监管机构正在着手应对这一问题，“我认为我们可能会在夏季看到结果”。现有SLR规则要求银行在交易美债时保留相应资本金，贝森特称，取消该规定可能会使美国国债收益率下行数十个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3636212.d.html</link>
-            <guid>4210496</guid>
-            <pubDate>Fri, 23 May 2025 16:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外长拉夫罗夫：一旦战俘交换完成，俄罗斯将准备向乌克兰提交一份概述实现长期和平的条件的草案文件。]]></title>
-            <guid>4210495</guid>
-            <pubDate>Fri, 23 May 2025 16:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伦敦股市23日下跌】英国伦敦股市《金融时报》100种股票平均价格指数23日报收于8717.97点，较前一交易日下跌21.29点，跌幅为0.24%。欧洲三大股指当天全线下跌。个股方面，当天伦敦股市成分股中资源类个股领涨，涨幅位于前五位的个股分别为：英美资源股价上涨3.37%，奋进矿业公司股价上涨3.29%，贵金属生产商弗雷斯尼洛股价上涨2.44%，医疗技术公司康维德公司股价上涨2.07%，商业服务公司能多洁公司股价上涨1.96%。当天伦敦股市成分股中消费类个股领跌，位于跌幅前五位的个股分别为：约翰-戴维运动时装公司股价下跌3.03%，保险及金融投资公司保诚集团股价下跌2.87%，游戏工坊集团股价下跌2.77%，比兹利保险公司股价下跌2.63%，纸业公司蒙迪股价下跌2.51%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvp3635691.d.html</link>
-            <guid>4210494</guid>
-            <pubDate>Fri, 23 May 2025 16:22:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉方面表示，另有11人因涉嫌参与选举阴谋被拘留。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqsvs8352860.d.html</link>
-            <guid>4210493</guid>
-            <pubDate>Fri, 23 May 2025 16:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两年期德债收益率本周跌超9个基点，特朗普对欧盟关税威胁打乱本周稍早的横盘震荡状态】 周五（5月23日）欧市尾盘，德国10年期国债收益率下跌7.6个基点，报2.567%，本周累计下跌2.3个基点，整体呈现出M形走势，5月21日北京时间17:30涨至2.671%，23日19:42瞬间出现一波显著的跳水，20:06跌至2.539%。两年期德债收益率跌6.7个基点，报1.764%，本周累跌9.1个基点，5月19-23日在1.850%附近持续窄幅震荡，美国总统特朗普对欧盟发出新的关税威胁之后，在5月23日跳水，19:51跌至1.707%；30年期德债收益率跌6.3个基点，报3.088%，本周累涨4.8个基点。2/10年期德债收益率利差跌0.910个基点，报+80.041个基点，本周持续走高，累计上涨6.839个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu5824317.d.html</link>
-            <guid>4210492</guid>
-            <pubDate>Fri, 23 May 2025 16:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多只电力主题基金月内净值增长率超3% 绿色电力投资价值受关注】 近段时间，A股市场震荡上行，板块轮动加速，如何在轮动中把握投资机会成为投资者关注的焦点。5月份以来，电力板块整体表现较好，相关主题基金也“水涨船高”，多只电力主题交易型开放式指数基金（ETF）月内净值增长率超3%，受到市场关注。 业内人士认为，电力市场化改革的推进等因素对电力板块的投资价值有支持作用。未来，电力板块尤其是绿色电力板块配置机会显现，看好电力行业、电力主题基金的长期投资价值。(证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpr3765343.d.html</link>
-            <guid>4210491</guid>
-            <pubDate>Fri, 23 May 2025 16:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【义乌玩具商表示美国客户仍普遍担忧】到目前为止，中美间暂缓部分关税政策实施已经有近10天。不少美国进口商利用“窗口期”从中国进货、补充库存。不过，部分关税的暂缓实施并不能消除美国企业的焦虑。近日，总台记者采访了一名与美国客户有生意往来的义乌玩具商。他就表示，由于仍存忧虑，不少美国客户还是持谨慎观望态度。对于未来关税政策的走向，总部位于美国纽约的一家小型拼图公司也感到忧心忡忡。不过，将生产转移到美国本土却显得更不现实。 （CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpt0539486.d.html</link>
-            <guid>4210490</guid>
-            <pubDate>Fri, 23 May 2025 16:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国疾控中心（CDC）：截至5月22日，31个辖区共报告了1046例确诊麻疹病例。]]></title>
-            <guid>4210489</guid>
-            <pubDate>Fri, 23 May 2025 16:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[明晟公司MSCI北欧国家指数跌0.4%，报355.17点，北欧工业板块领跌，本周累计下跌0.62%。殷拓EQT AB跌3.1%，在一众成分股里表现最差。]]></title>
-            <guid>4210488</guid>
-            <pubDate>Fri, 23 May 2025 16:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：委内瑞拉内政部长发布的视频显示，委内瑞拉反对派人物胡安·帕布罗·瓜尼帕被捕。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpr3763206.d.html</link>
-            <guid>4210487</guid>
-            <pubDate>Fri, 23 May 2025 16:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰贸易部长：希望美欧之间的贸易谈判能达成一个对双方都公平的良好协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu8481131.d.html</link>
-            <guid>4210486</guid>
-            <pubDate>Fri, 23 May 2025 16:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加纳央行将基准利率维持在28.00%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpr3762076.d.html</link>
-            <guid>4210485</guid>
-            <pubDate>Fri, 23 May 2025 16:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加纳央行行长：加纳通胀有望加速缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpt0536501.d.html</link>
-            <guid>4210484</guid>
-            <pubDate>Fri, 23 May 2025 16:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈佛大学赢得法庭胜利 特朗普禁止该校招收外国学生的命令被叫停】哈佛大学赢得一项法院裁定，特朗普政府对该校招收国际学生的禁令将被暂停实施，在这场对美国高等教育影响深远的法律战中取得初步胜利。美国地方法官Allison Burroughs周五裁定，联邦政府不得执行前一日发布的禁令。这项裁决是在哈佛当天稍早向波士顿联邦法院提起诉讼后数小时内作出的。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu8480655.d.html</link>
-            <guid>4210483</guid>
-            <pubDate>Fri, 23 May 2025 16:07:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：GDP增长“很快”就能达到3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu5821811.d.html</link>
-            <guid>4210482</guid>
-            <pubDate>Fri, 23 May 2025 16:07:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧元区四大经济体5月份通胀率料全部达到或低于央行的2%目标】根据经济学家的预测，欧元区四大经济体的通胀率目前均已处于或低于欧洲央行设定的2%目标。如果他们对下周即将公布的欧元区各国数据的预期成真，那么今年5月将是八个月以来首次，也是自2021年以来第二次，这些国家的消费者价格同比涨幅全部未超过该目标。法国数据将于周二公布，预计维持在0.9%。另外三份数据将于周五公布，预计意大利为1.9%，德国和西班牙预计都为2%。总体而言，这四大经济体合计占欧元区经济总量的70%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpr3760865.d.html</link>
-            <guid>4210481</guid>
-            <pubDate>Fri, 23 May 2025 16:04:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：主权财富基金计划已暂停，直至我们处理完所有其他事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu5821191.d.html</link>
-            <guid>4210480</guid>
-            <pubDate>Fri, 23 May 2025 16:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：我们将在第30届联合国气候变化大会期间设立一项基金，帮助发展中国家保护其森林。]]></title>
-            <guid>4210479</guid>
-            <pubDate>Fri, 23 May 2025 16:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：敦促参议院瞄准THUNE的7月份税收法案目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu5820612.d.html</link>
-            <guid>4210478</guid>
-            <pubDate>Fri, 23 May 2025 16:02:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事库克：四月份的美债市场在波动期间保持有序运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu5820481.d.html</link>
-            <guid>4210477</guid>
-            <pubDate>Fri, 23 May 2025 16:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影《情书》总票房破8000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpt0533767.d.html</link>
-            <guid>4210476</guid>
-            <pubDate>Fri, 23 May 2025 16:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影 《星际宝贝史迪奇》上映2天， 总票房破2000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu8479100.d.html</link>
-            <guid>4210475</guid>
-            <pubDate>Fri, 23 May 2025 16:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事库克：密切关注商业房地产市场动态。巨大的收入冲击可能引发贷款机构更大的损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpr3759108.d.html</link>
-            <guid>4210474</guid>
-            <pubDate>Fri, 23 May 2025 16:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事库克：家庭借贷带来的整体风险已得到缓解。如果收入受到足够大的冲击，可能会推高违约率，并导致贷款机构出现损失。低收入和中等收入家庭中出现了一些压力迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-24/detail-inexqnpu8478934.d.html</link>
-            <guid>4210473</guid>
-            <pubDate>Fri, 23 May 2025 16:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：特朗普的议程可能因法院和民主党而放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3758873.d.html</link>
-            <guid>4210472</guid>
-            <pubDate>Fri, 23 May 2025 15:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美政界多人涉嫌内幕交易】不久前，美国政府的种种关税政策令股市仿佛“坐上过山车”的景象还让人记忆犹新。最近，美国一家非营利性民间新闻网站“为了人民”查询了几百份美国政府雇员、国会工作人员等的证券交易披露报告，有了一些发现，据该网站5月22日报道说，有十几名美国政府部门的高级官员和国会工作人员在买卖股票的时机掌握上十分地“恰到好处”。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu5820041.d.html</link>
-            <guid>4210471</guid>
-            <pubDate>Fri, 23 May 2025 15:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国地区法官艾莉森·伯勒斯发布临时限制令，冻结了特朗普政府禁止哈佛招收留学生的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0532171.d.html</link>
-            <guid>4210470</guid>
-            <pubDate>Fri, 23 May 2025 15:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰军方总参谋部：袭击了位于利佩茨克地区的一家俄罗斯电池制造厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3757567.d.html</link>
-            <guid>4210469</guid>
-            <pubDate>Fri, 23 May 2025 15:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债跑赢掉期合约，美国财长贝森特承诺进行补充杠杆率（SLR）改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0532012.d.html</link>
-            <guid>4210468</guid>
-            <pubDate>Fri, 23 May 2025 15:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国法官定于5月27日举行听证会，审议特朗普方面阻止纽约市实施曼哈顿拥堵收费计划的相关措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0531648.d.html</link>
-            <guid>4210467</guid>
-            <pubDate>Fri, 23 May 2025 15:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外长：伊朗和美国将考虑提案并计划下一轮谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3757136.d.html</link>
-            <guid>4210466</guid>
-            <pubDate>Fri, 23 May 2025 15:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：巴西国家石油公司（PETROBRAS）再次在化石燃料、石油和天然气研究中发挥积极作用非常重要。我们将签署一项协议，恢复融资渠道，为巴西和安哥拉带来新的合作机遇。]]></title>
-            <guid>4210465</guid>
-            <pubDate>Fri, 23 May 2025 15:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外长：阿曼提出解决美伊谈判主要障碍的方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu8477337.d.html</link>
-            <guid>4210464</guid>
-            <pubDate>Fri, 23 May 2025 15:50:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        现货黄金刚刚突破3360.00美元/盎司关口，最新报3360.03美元/盎司，日内涨1.99%；COMEX黄金期货主力最新报3360.40美元/盎司，日内涨1.98%。]]></title>
-            <guid>4210463</guid>
-            <pubDate>Fri, 23 May 2025 15:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：我们将拭目以待哈佛是否遵守规则。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0531147.d.html</link>
-            <guid>4210462</guid>
-            <pubDate>Fri, 23 May 2025 15:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[干邑行业高级官员：特朗普最新的关税提议意味着我们将无法再在美国这个最大市场销售我们的产品。特朗普最新对欧盟的关税提议将使我们处于无法维持的境地。]]></title>
-            <guid>4210461</guid>
-            <pubDate>Fri, 23 May 2025 15:49:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：本申报季的税收收入高于目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3756418.d.html</link>
-            <guid>4210460</guid>
-            <pubDate>Fri, 23 May 2025 15:48:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿迪达斯：发现未经授权的外部方通过第三方客户服务提供商获取了某些消费者数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0530806.d.html</link>
-            <guid>4210459</guid>
-            <pubDate>Fri, 23 May 2025 15:48:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷经济部长：阿根廷正在与美国进行贸易谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0530785.d.html</link>
-            <guid>4210458</guid>
-            <pubDate>Fri, 23 May 2025 15:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：（关注）有没有办法缩小抵押贷款-国债利差。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu8476839.d.html</link>
-            <guid>4210457</guid>
-            <pubDate>Fri, 23 May 2025 15:47:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：当贸易协议尘埃落定后，政府将集中精力处理房利美和房地美的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0530402.d.html</link>
-            <guid>4210456</guid>
-            <pubDate>Fri, 23 May 2025 15:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外长阿拉格奇：与美国的谈判有可能取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3755858.d.html</link>
-            <guid>4210455</guid>
-            <pubDate>Fri, 23 May 2025 15:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：SLR调整可能使国债收益率下降数十个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3755664.d.html</link>
-            <guid>4210454</guid>
-            <pubDate>Fri, 23 May 2025 15:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝森特：可能在夏季调整补充杠杆率规定】美国财长贝森特：非常接近调整补充杠杆率（SLR）。我们可能会在夏季看到SLR的变化。SLR的调整可能对国债收益率产生影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu5817485.d.html</link>
-            <guid>4210451</guid>
-            <pubDate>Fri, 23 May 2025 15:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：仅在中东，就有数万亿美元流入美国。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3755301.d.html</link>
-            <guid>4210450</guid>
-            <pubDate>Fri, 23 May 2025 15:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：希望将美国打造成最具吸引力的资本投资目的地。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3755211.d.html</link>
-            <guid>4210449</guid>
-            <pubDate>Fri, 23 May 2025 15:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：放松管制将在2026年第三季度和第四季度促进经济增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3754995.d.html</link>
-            <guid>4210448</guid>
-            <pubDate>Fri, 23 May 2025 15:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：俄罗斯仍致力于和平解决冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3754848.d.html</link>
-            <guid>4210447</guid>
-            <pubDate>Fri, 23 May 2025 15:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿曼外交大臣：谈判取得一些进展 但无最终结论】阿曼外交大臣巴德尔表示，伊美第五轮核问题谈判23日在罗马结束，取得一些进展，但没有最终结论。巴德尔还表示，希望在未来几天澄清剩余问题，以便能够朝着达成持久和互相尊重协议的共同目标迈进。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu5817110.d.html</link>
-            <guid>4210446</guid>
-            <pubDate>Fri, 23 May 2025 15:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部：俄罗斯将对乌克兰在其领土上发动的大规模攻击作出适当回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3754670.d.html</link>
-            <guid>4210445</guid>
-            <pubDate>Fri, 23 May 2025 15:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：很多人反对政府削减开支。让我们拭目以待特朗普的赤字计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu8475759.d.html</link>
-            <guid>4210444</guid>
-            <pubDate>Fri, 23 May 2025 15:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：许多国家的情况不能简单地归类为美元走弱。其他国家货币上涨，而非美元下跌。其他国家在外汇市场中的增长前景有所改善。]]></title>
-            <guid>4210443</guid>
-            <pubDate>Fri, 23 May 2025 15:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雷军： 这个世界不会永远是强者恒强，后来者总有机会！]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu5816848.d.html</link>
-            <guid>4210442</guid>
-            <pubDate>Fri, 23 May 2025 15:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团将Ulta Beauty目标股价从每股365.00美元上调至425.00美元。]]></title>
-            <guid>4210440</guid>
-            <pubDate>Fri, 23 May 2025 15:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝森特：对美国债务动态不感担忧】美国财长贝森特表示，认为债券市场将因美国国会的行动而波动是错误的。债券市场的变动具有全球性，且对美国税收法案的影响存在争议。对市场的看法并不特别担心。对美国债务动态不感担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0528352.d.html</link>
-            <guid>4210439</guid>
-            <pubDate>Fri, 23 May 2025 15:37:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：德国总理默茨任期内美德关系或将重启。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0528330.d.html</link>
-            <guid>4210438</guid>
-            <pubDate>Fri, 23 May 2025 15:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指收盘集体下跌，德国DAX30指数跌1.5%】 欧洲主要股指收盘集体下跌，德国DAX30指数跌1.5%，英国富时100指数跌0.24%，法国CAC40指数跌1.65%，欧洲斯托克50指数跌1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3753635.d.html</link>
-            <guid>4210437</guid>
-            <pubDate>Fri, 23 May 2025 15:36:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马士基：自2025年5月24日的价格计算日起，往返巴拉圭的进出口低水位附加费将暂停收取。]]></title>
-            <guid>4210436</guid>
-            <pubDate>Fri, 23 May 2025 15:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：关税将带来每年数千亿美元收入。预计在接下来的几周内，将达成几项重大贸易协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3753268.d.html</link>
-            <guid>4210435</guid>
-            <pubDate>Fri, 23 May 2025 15:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外交部长：在阿曼提出的建议下，核谈判有望取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3753168.d.html</link>
-            <guid>4210434</guid>
-            <pubDate>Fri, 23 May 2025 15:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：欧洲天然气价格下跌将推动储量增加。预计欧洲天然气价格将持续高度波动，特别是在美国关税政策持续调整的背景下。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0527555.d.html</link>
-            <guid>4210433</guid>
-            <pubDate>Fri, 23 May 2025 15:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：对赤字前景非常乐观。由于关税政策，现在已经带来了“可观的收入”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpt0527525.d.html</link>
-            <guid>4210432</guid>
-            <pubDate>Fri, 23 May 2025 15:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长贝森特：共和党法案中的税收条款永久性保留将提供确定性。目标到2028年实现约3%的财政缺口。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu8474278.d.html</link>
-            <guid>4210431</guid>
-            <pubDate>Fri, 23 May 2025 15:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外交部长：阿曼提出了多种想法，以解决伊朗与美国核谈判中的僵局问题。与美国的核谈判复杂，还需更多会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu8474253.d.html</link>
-            <guid>4210430</guid>
-            <pubDate>Fri, 23 May 2025 15:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦延长对印度航班的禁飞令】巴基斯坦民航局23日宣布，巴基斯坦领空将继续对印度航班关闭，时间延长至6月23日。根据巴民航局发布的航行通告，该禁令适用于所有在印度注册，由印度航空公司和运营商运营、拥有或租赁的飞机，包括军用飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu8473686.d.html</link>
-            <guid>4210429</guid>
-            <pubDate>Fri, 23 May 2025 15:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌1.02%，报544.63点，本周累计下跌大约0.8%。欧元区STOXX 50指数初步收跌1.98%，报5317.02点，本周累跌约1.9%。富时泛欧绩优300指数初步收跌1.09%，报2159.39点。]]></title>
-            <guid>4210428</guid>
-            <pubDate>Fri, 23 May 2025 15:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【这家千亿级险企总经理人选获批】5月23日，记者从业内独家获悉，中国平安人寿保险股份有限公司（下称“平安人寿”或“公司”）原副总经理史伟玉将出任总经理一职，任职资格已获批，据了解，相关信息已在平安内网官宣。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3751870.d.html</link>
-            <guid>4210427</guid>
-            <pubDate>Fri, 23 May 2025 15:28:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德克萨斯州卫生部门网站报告称，截至5月23日有728例麻疹病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpu5814543.d.html</link>
-            <guid>4210426</guid>
-            <pubDate>Fri, 23 May 2025 15:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[接近谈判团队的伊朗消息人士称，伊朗与美国的核谈判预计将继续，具体日期和地点由阿曼决定。]]></title>
-            <guid>4210425</guid>
-            <pubDate>Fri, 23 May 2025 15:28:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非药监局批准首个猴痘体外诊断测试】据南非政府新闻网23日消息，南非卫生产品监管局(SAHPRA)已正式批准Alinity m MPX试剂作为首个猴痘(mpox，猴痘病毒)体外诊断(IVD)检测工具。 南非卫生产品监管局称，此次批准是通过依托世界卫生组织(WHO)预认证和紧急使用清单(EUL)机制完成的，为全球公共卫生合作提供了范例。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-05-23/detail-inexqnpr3751484.d.html</link>
-            <guid>4210424</guid>
-            <pubDate>Fri, 23 May 2025 15:27:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

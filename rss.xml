@@ -4,24 +4,495 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 07 Jul 2025 17:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 18:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[海事安全消息源：也门荷台达附近一艘船只遭无人机袭击，船上有一人受伤。]]></title>
+            <title><![CDATA[特朗普：将对南非运往美国的所有产品征收30%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9244288.d.html</link>
+            <guid>4276838</guid>
+            <pubDate>Mon, 07 Jul 2025 18:25:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普再宣布对五国征收最高40%关税】美国总统特朗普宣布对多个国家征收关税：南非：30%；哈萨克斯坦：25%；马来西亚：25%；老挝：40%；缅甸：40%。关税将于2025年8月1日生效。此前美国白宫表示，特朗普将签署行政令，把关税谈判截止日期推迟至8月1日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3948006.d.html</link>
+            <guid>4276837</guid>
+            <pubDate>Mon, 07 Jul 2025 18:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫：暂停对乌克兰武器供应是国防部标准审查的一部分】当地时间7日，美国白宫表示，暂停对乌克兰武器供应是美国国防部标准审查的一部分。美国白宫和五角大楼1日证实，美国暂停对乌克兰的部分军援。白宫发言人安娜·凯利在一份声明中说，五角大楼在审查美国对全球其他国家的军事援助后，“决定将美国利益放在首位”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9244115.d.html</link>
+            <guid>4276836</guid>
+            <pubDate>Mon, 07 Jul 2025 18:22:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空股价随成交量激增而下跌，最新跌幅达3.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3947911.d.html</link>
+            <guid>4276835</guid>
+            <pubDate>Mon, 07 Jul 2025 18:21:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[                                                                                                                        道琼斯工业平均指数刚刚跌破44200.00关口，最新报44195.53，日内跌1.41%  。]]></title>
+            <guid>4276834</guid>
+            <pubDate>Mon, 07 Jul 2025 18:21:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[网络数据显示，埃及发生重大互联网中断事件。互联网监测组织网络封锁（NetBlocks）称，开罗一座电信大楼起火后，全国网络连接水平降至正常水平的62%。]]></title>
+            <guid>4276833</guid>
+            <pubDate>Mon, 07 Jul 2025 18:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受特朗普关税影响南非兰特下跌1.5%至盘中低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3947819.d.html</link>
+            <guid>4276832</guid>
+            <pubDate>Mon, 07 Jul 2025 18:19:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数跌幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5804606.d.html</link>
+            <guid>4276831</guid>
+            <pubDate>Mon, 07 Jul 2025 18:17:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普称美国将对缅甸加征40%关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3947726.d.html</link>
+            <guid>4276830</guid>
+            <pubDate>Mon, 07 Jul 2025 18:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：将对老挝进口商品征收40%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7173161.d.html</link>
+            <guid>4276829</guid>
+            <pubDate>Mon, 07 Jul 2025 18:17:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普称美国将对南非加征30%关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9243764.d.html</link>
+            <guid>4276828</guid>
+            <pubDate>Mon, 07 Jul 2025 18:16:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外长：俄方愿为伊朗提供浓缩铀贫化服务】 当地时间7日，俄罗斯外长拉夫罗夫表示，俄罗斯拥有使铀贫化的技术并愿意在该方面向伊朗提供服务。俄方可以从伊朗运出该国剩余的过度浓缩的铀并在俄企业对其进行加工，之后再作为能源用浓缩铀供伊朗核能设施使用。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3947666.d.html</link>
+            <guid>4276827</guid>
+            <pubDate>Mon, 07 Jul 2025 18:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴克莱维持雪佛龙股票“持股观望”评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7173109.d.html</link>
+            <guid>4276826</guid>
+            <pubDate>Mon, 07 Jul 2025 18:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普表示，美国将对哈萨克斯坦征收25%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7173105.d.html</link>
+            <guid>4276825</guid>
+            <pubDate>Mon, 07 Jul 2025 18:15:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普表示，美国将对马来西亚征收25%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9243714.d.html</link>
+            <guid>4276824</guid>
+            <pubDate>Mon, 07 Jul 2025 18:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：日本英国企业寻求建造“世界首个”浮动数据中心 。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7172984.d.html</link>
+            <guid>4276823</guid>
+            <pubDate>Mon, 07 Jul 2025 18:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗国家电视台：一位不愿透露姓名的伊朗消息人士称，伊朗正处于“全面准备”状态，并将即将举行的特朗普与内塔尼亚胡的会晤描述为预先安排好的、充满欺骗性的。]]></title>
+            <guid>4276822</guid>
+            <pubDate>Mon, 07 Jul 2025 18:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息人士：以方研判特朗普或为对伊新军事行动开绿灯】据两位知情人士向AXIOS网站透露，以色列正为伊朗可能重启核计划做准备，其高级官员认为美国总统特朗普可能批准以军发动新一轮打击。特朗普和以色列总理内塔尼亚胡在当地时间周一晚于白宫共进晚餐时，伊朗核危机的前进道路将是一个主要话题。以方称，以色列总理内塔尼亚胡希望就未来美伊核谈判及可能触发军事行动的“红线”与美方达成共识。以总理高级顾问罗恩·德尔默在闭门简报中透露，他近期华盛顿之行获得明确信号——在某些情境下，特朗普政府将支持以色列对伊朗实施新打击。消息人士指出，触发情形包括：伊朗试图转移福尔多、纳坦兹及伊斯法罕受损设施内的高浓缩铀，以及德黑兰着手重建核计划（尤其是铀浓缩设施）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9243497.d.html</link>
+            <guid>4276821</guid>
+            <pubDate>Mon, 07 Jul 2025 18:12:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汇丰策略师称市场环境适合风险资产继续融涨】汇丰策略师表示，目前的市场环境非常适合风险资产继续“融涨”。由Max Kettner领导的团队表示，他们对7月9日关税谈判最后期限会引发类似4月2日‘解放日’那样的市场波动持“怀疑”态度。股市预计将受益于美国财政宽松、部分贸易协议的达成以及强劲的劳动力市场，同时美国国债收益率尚未高到足以构成威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7172838.d.html</link>
+            <guid>4276820</guid>
+            <pubDate>Mon, 07 Jul 2025 18:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗国家电视台：德黑兰认为以色列正在积极寻求战争，美国总统唐纳德·特朗普不太可能反对。]]></title>
+            <guid>4276819</guid>
+            <pubDate>Mon, 07 Jul 2025 18:10:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[家乐氏公司（WK Kellogg）股价转涨，涨幅最高达 2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7172672.d.html</link>
+            <guid>4276818</guid>
+            <pubDate>Mon, 07 Jul 2025 18:08:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CBS：目前的加沙提案是60天停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7172582.d.html</link>
+            <guid>4276817</guid>
+            <pubDate>Mon, 07 Jul 2025 18:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿鲁比奥与丹麦外交大臣讨论了乌克兰冲突和北约。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7172269.d.html</link>
+            <guid>4276816</guid>
+            <pubDate>Mon, 07 Jul 2025 18:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 美国司法部：斯坦泰克公司（Stantec）同意支付400万美元，以了结其违反《虚假索赔法》的指控。]]></title>
+            <guid>4276815</guid>
+            <pubDate>Mon, 07 Jul 2025 18:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质调查局（USGS）：希腊帕莱卡斯特罗东南 33 公里处发生 5.0 级地震。]]></title>
+            <guid>4276814</guid>
+            <pubDate>Mon, 07 Jul 2025 18:03:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国外长：边境管控是“临时措施” 呼吁欧洲共同解决移民问题】当地时间7日，德国外长瓦德富尔在访问捷克时表示，德国对波兰和捷克实施的边境管控是“临时措施”，未来需要欧洲层面的移民解决方案。他强调，非法移民是欧洲共同挑战，必须加强边境管理和内部秩序。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9242409.d.html</link>
+            <guid>4276813</guid>
+            <pubDate>Mon, 07 Jul 2025 18:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：预计美联储终端利率区间为3.00-3.25%，此前预期为3.50%-3.75%。]]></title>
+            <guid>4276812</guid>
+            <pubDate>Mon, 07 Jul 2025 18:02:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋官员：阿联酋营救了在红海遭袭的英国船只船员。阿联酋的救援行动成功营救了船上所有22名人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7172072.d.html</link>
+            <guid>4276811</guid>
+            <pubDate>Mon, 07 Jul 2025 18:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：美联储可能在9月下调政策利率，由于关税影响减弱和通胀回落，美联储可能会提前降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7171998.d.html</link>
+            <guid>4276810</guid>
+            <pubDate>Mon, 07 Jul 2025 18:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通将华纳音乐集团目标股价从每股32美元上调至33美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7171900.d.html</link>
+            <guid>4276809</guid>
+            <pubDate>Mon, 07 Jul 2025 17:59:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[提示：白宫新闻秘书LEAVITT结束新闻发布会。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7171888.d.html</link>
+            <guid>4276808</guid>
+            <pubDate>Mon, 07 Jul 2025 17:59:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一商船在也门荷台达以西海域遭遇袭击】据英国海上贸易行动办公室（UKMTO）通报，当地时间7日，一艘商船在也门荷台达以西约51海里处海域遭遇袭击。报告称，袭击来自多艘小型船只，使用了多枚火箭推进榴弹。目前相关部门正在对事件展开调查。英国海上贸易行动办公室提醒，过往船只应提高警惕，谨慎通行，并及时向其报告任何可疑活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9241973.d.html</link>
+            <guid>4276807</guid>
+            <pubDate>Mon, 07 Jul 2025 17:58:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：各国将认真对待贸易信件。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3946371.d.html</link>
+            <guid>4276806</guid>
+            <pubDate>Mon, 07 Jul 2025 17:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：暂停乌克兰武器供应是美国国防部标准审查的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7171765.d.html</link>
+            <guid>4276805</guid>
+            <pubDate>Mon, 07 Jul 2025 17:57:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普将与内塔尼亚胡讨论以色列与哈马斯的停火协议】当地时间7日，美国白宫表示，美国总统特朗普将与以色列总理内塔尼亚胡讨论以色列与哈马斯的停火协议。美国中东问题特使威特科夫本周晚些时候将前往多哈讨论加沙停火问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9241776.d.html</link>
+            <guid>4276804</guid>
+            <pubDate>Mon, 07 Jul 2025 17:55:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国得克萨斯州洪灾已造成91人死亡】当地时间7日，美国白宫表示，美国得克萨斯州洪灾已造成91人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5802475.d.html</link>
+            <guid>4276803</guid>
+            <pubDate>Mon, 07 Jul 2025 17:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：特朗普正在关注最新的金砖国家峰会。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9241719.d.html</link>
+            <guid>4276802</guid>
+            <pubDate>Mon, 07 Jul 2025 17:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普将签署行政令 把关税谈判截止日期推迟至8月1日】据央视新闻报道，美国白宫当地时间7日表示，还有12个国家将收到有关贸易的信函，信函内容将在社交媒体平台“真实社交”上发布。美总统特朗普将签署行政命令，将原定于7月的关税谈判截止日期推迟至8月1日。白宫表示，除12个国家外，美国还将发出更多信函。此前，特朗普在社交媒体平台上发布了致日本首相石破茂、韩国总统李在明的信件，宣布美国将自2025年8月1日起对所有日本和韩国输美产品征收25%的关税。美国总统特朗普4月2日宣布开征所谓“对等关税”，引发美国金融市场暴跌。在多方压力下，特朗普又在4月9日宣布暂缓对部分贸易伙伴征收高额“对等关税”90天，同时威胁美贸易伙伴需在7月8日前完成与美谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3946185.d.html</link>
+            <guid>4276801</guid>
+            <pubDate>Mon, 07 Jul 2025 17:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：特朗普确保美国受到公平对待。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7171642.d.html</link>
+            <guid>4276800</guid>
+            <pubDate>Mon, 07 Jul 2025 17:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊朗方面称与以色列的冲突所导致的死亡人数已达1060人。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7171213.d.html</link>
+            <guid>4276799</guid>
+            <pubDate>Mon, 07 Jul 2025 17:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：不相信美国总统特朗普曾说过要接管加沙。特朗普从未提及接管加沙，而是提到重建。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9241201.d.html</link>
+            <guid>4276798</guid>
+            <pubDate>Mon, 07 Jul 2025 17:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（7月7日），韩元兑美元最终下跌1.15%，报1378.35韩元。美国总统特朗普宣布对日韩加征关税的信函之后，该货币对短线瞬间跳水，日内整体跌幅扩大，逼近6月23日底部1390.82韩元。]]></title>
+            <guid>4276797</guid>
+            <pubDate>Mon, 07 Jul 2025 17:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知名科技记者古尔曼：苹果公司突然摒弃了液态玻璃（Liquid Glass）。我一点也不喜欢这个改变。]]></title>
+            <guid>4276796</guid>
+            <pubDate>Mon, 07 Jul 2025 17:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：我们在其他贸易协议方面接近达成共识。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3945264.d.html</link>
+            <guid>4276795</guid>
+            <pubDate>Mon, 07 Jul 2025 17:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油期货维持1.3%的涨幅，持稳于69.20美元附近。白宫新闻秘书Leavitt称，美国总统特朗普的政府将继续与伊朗联系，希望能达成核协议。]]></title>
+            <guid>4276794</guid>
+            <pubDate>Mon, 07 Jul 2025 17:44:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[                                                                                                                        道琼斯工业平均指数刚刚跌破44300.00关口，最新报44294.76，日内跌1.19%。]]></title>
+            <guid>4276793</guid>
+            <pubDate>Mon, 07 Jul 2025 17:43:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：今天将发出12封贸易信函。除这12个国家外，还会有更多信函发出。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3945171.d.html</link>
+            <guid>4276792</guid>
+            <pubDate>Mon, 07 Jul 2025 17:43:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统特朗普政府继续与伊朗保持直接和间接的接触，以推动协议谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7170552.d.html</link>
+            <guid>4276791</guid>
+            <pubDate>Mon, 07 Jul 2025 17:42:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股三大股指延续超0.9%的跌势，白宫称特朗普将于今日签署推迟关税的命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3945001.d.html</link>
+            <guid>4276790</guid>
+            <pubDate>Mon, 07 Jul 2025 17:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元跌幅收窄至不到0.6%，消息称欧盟不会收到来自美国关于提高关税的信函。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5800679.d.html</link>
+            <guid>4276789</guid>
+            <pubDate>Mon, 07 Jul 2025 17:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部表示，技术问题现已解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7170022.d.html</link>
+            <guid>4276788</guid>
+            <pubDate>Mon, 07 Jul 2025 17:37:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国中东问题特使威特科夫本周晚些时候将前往多哈，就加沙停火事宜进行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5800457.d.html</link>
+            <guid>4276787</guid>
+            <pubDate>Mon, 07 Jul 2025 17:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国首相斯塔默与乌克兰总统泽连斯基进行了通话，讨论了加快英国和乌克兰达成协议的下一步工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7169962.d.html</link>
+            <guid>4276786</guid>
+            <pubDate>Mon, 07 Jul 2025 17:36:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：13周期和26周期国债拍卖将于美东时间14:30（北京时间7月8日2:30）结束认购。]]></title>
+            <guid>4276785</guid>
+            <pubDate>Mon, 07 Jul 2025 17:36:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拟议的以色列与哈马斯停火协议将与以色列总理内塔尼亚胡进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7169880.d.html</link>
+            <guid>4276784</guid>
+            <pubDate>Mon, 07 Jul 2025 17:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：相关关税信函将在真实社交平台上公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5800310.d.html</link>
+            <guid>4276783</guid>
+            <pubDate>Mon, 07 Jul 2025 17:35:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：特朗普今天将签署命令，将原定于7月的关税截止日期延长至8月1日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3944295.d.html</link>
+            <guid>4276782</guid>
+            <pubDate>Mon, 07 Jul 2025 17:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：将向另外12个国家发送关税信函。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3944266.d.html</link>
+            <guid>4276780</guid>
+            <pubDate>Mon, 07 Jul 2025 17:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国海上贸易组织（UKMTO）：一艘船只在也门附近遭火箭推进式榴弹袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3944243.d.html</link>
+            <guid>4276779</guid>
+            <pubDate>Mon, 07 Jul 2025 17:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元兑美元EUR/USD短线走高近20点，现报1.1701。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7169616.d.html</link>
+            <guid>4276778</guid>
+            <pubDate>Mon, 07 Jul 2025 17:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国海事安全公司Ambrey：也门荷台达附近悬挂利比里亚国旗的希腊船只遭无人机袭击，两名船员受伤，两人失踪。]]></title>
+            <guid>4276777</guid>
+            <pubDate>Mon, 07 Jul 2025 17:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普可能会在周五访问德克萨斯州。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5800067.d.html</link>
+            <guid>4276776</guid>
+            <pubDate>Mon, 07 Jul 2025 17:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟消息人士：欧盟不会收到来自美国关于提高关税的信函。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5800055.d.html</link>
+            <guid>4276775</guid>
+            <pubDate>Mon, 07 Jul 2025 17:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统特朗普将于当地时间周二主持内阁会议，将于周三举办非洲国家午餐会，并将于本周晚些时候就洪灾问题访问得州。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5799781.d.html</link>
+            <guid>4276774</guid>
+            <pubDate>Mon, 07 Jul 2025 17:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗总统：对与美国谈判持开放态度 只是很难信任华盛顿】伊朗总统佩泽希齐扬在接受Tucker Carlson采访时表示，伊朗仍愿意与美国进行对话，但鉴于上个月的袭击事件，很难再信任华盛顿。Carlson对佩泽什基安近30分钟的视频采访在周一播出。这位伊朗总统称：“我相信，我们完全可以通过对话和谈判轻松解决与美国的分歧和冲突。”佩泽希齐扬声称，特朗普政府批准了自6月13日起以色列对伊朗的袭击，随后美国于6月22日对伊朗核设施发动了空袭。他表示，以色列的轰炸直接针对他和几位同僚，当时他们正在开会，但袭击未能成功。其未透露更多细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3943576.d.html</link>
+            <guid>4276773</guid>
+            <pubDate>Mon, 07 Jul 2025 17:27:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：特朗普将于周二主持内阁会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9238962.d.html</link>
+            <guid>4276772</guid>
+            <pubDate>Mon, 07 Jul 2025 17:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：特朗普将在本周晚些时候前往遭受洪灾的得克萨斯州进行访问。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3943416.d.html</link>
+            <guid>4276771</guid>
+            <pubDate>Mon, 07 Jul 2025 17:26:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：气象部门及时执行了预报和警告。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3943333.d.html</link>
+            <guid>4276770</guid>
+            <pubDate>Mon, 07 Jul 2025 17:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[若干医生就美国新冠疫苗接种政策的调整起诉卫生部长RFK Jr.。（Axios）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3943260.d.html</link>
+            <guid>4276769</guid>
+            <pubDate>Mon, 07 Jul 2025 17:25:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：德克萨斯州洪灾已造成91人遇难。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3943097.d.html</link>
+            <guid>4276768</guid>
+            <pubDate>Mon, 07 Jul 2025 17:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国海事安全公司Ambrey：失事船只引擎据报道已被关闭，观察到该船已开始漂移。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3943050.d.html</link>
+            <guid>4276767</guid>
+            <pubDate>Mon, 07 Jul 2025 17:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国海事安全公司Ambrey：报告称利比里亚旗船上有两名船员受伤，另有两人失踪，地点位于也门荷台达西南偏南49海里。]]></title>
+            <guid>4276766</guid>
+            <pubDate>Mon, 07 Jul 2025 17:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦敦股市7日下跌】英国伦敦股市《金融时报》100种股票平均价格指数7日报收于8806.53点，较前一交易日下跌16.38点，跌幅为0.19%。欧洲三大股指当天涨跌不一。个股方面，当天伦敦股市成分股中金融类个股领涨，位于涨幅前五位的个股分别为：金融投资公司3i集团股价上涨3.32%，企业服务外包商巴布科克国际股价上涨2.61%，国际联合航空集团股价上涨2.37%，易捷航空公司股价上涨1.68%，资产管理公司施罗德股价上涨1.43%。当天伦敦股市成分股中能源类个股领跌，位于跌幅前五位的个股分别为：壳牌公司股价下跌2.85%，约翰-戴维运动时装公司股价下跌2.40%，英国石油公司股价下跌1.98%，消费健康公司Haleon股价下跌1.75%，纸业公司蒙迪股价下跌1.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5799414.d.html</link>
+            <guid>4276765</guid>
+            <pubDate>Mon, 07 Jul 2025 17:23:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：世界需要找到一种不依赖美元的交易方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9238611.d.html</link>
+            <guid>4276764</guid>
+            <pubDate>Mon, 07 Jul 2025 17:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：没人会要求伊朗改变其对以色列的立场。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3942640.d.html</link>
+            <guid>4276763</guid>
+            <pubDate>Mon, 07 Jul 2025 17:21:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫官员没有透露周一是否会发布更多类似（对日韩的）信函，或总统是否仍计划宣布贸易协议。]]></title>
+            <guid>4276762</guid>
+            <pubDate>Mon, 07 Jul 2025 17:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：特朗普应当少管博索纳罗的事情。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7167900.d.html</link>
+            <guid>4276761</guid>
+            <pubDate>Mon, 07 Jul 2025 17:20:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：在金砖国家峰会期间，没有人提及特朗普的关税威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5799081.d.html</link>
+            <guid>4276760</guid>
+            <pubDate>Mon, 07 Jul 2025 17:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta目前涨0.5%，Snap跌0.8%，特斯拉目前跌7.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestau9238311.d.html</link>
+            <guid>4276759</guid>
+            <pubDate>Mon, 07 Jul 2025 17:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴勒斯坦媒体：以军在加沙多地造成至少35人死亡】据巴勒斯坦通讯社7日报道，以色列军队当天在加沙地带多地继续军事行动，造成至少35名巴勒斯坦人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaw7167776.d.html</link>
+            <guid>4276758</guid>
+            <pubDate>Mon, 07 Jul 2025 17:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：不会对特朗普有关博索纳罗的帖子发表评论，我有更重要的事情要做。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3942071.d.html</link>
+            <guid>4276757</guid>
+            <pubDate>Mon, 07 Jul 2025 17:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰总理：仍然希望欧盟和美国本周能够就框架贸易协议达成一致，但仍有一些问题需要协商。]]></title>
+            <guid>4276756</guid>
+            <pubDate>Mon, 07 Jul 2025 17:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[海事安全部门消息人士：也门荷台达附近的船只遭遇无人机袭击，船上有一人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestay3941890.d.html</link>
             <guid>4276755</guid>
             <pubDate>Mon, 07 Jul 2025 17:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西总统卢拉：如果特朗普出台关税措施，其他国家有权采取同样行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infestaz5798744.d.html</link>
-            <guid>4276754</guid>
-            <pubDate>Mon, 07 Jul 2025 17:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：像美国这样的国家的总统在社交媒体上以加征关税威胁世界，这是不负责任的。]]></title>
+            <title><![CDATA[巴西总统卢拉：像美国这样的国家的总统在社交媒体上用关税威胁世界，这是不负责任的。如果美国总统特朗普实施关税，其他国家也有权采取同样的措施。]]></title>
             <guid>4276753</guid>
             <pubDate>Mon, 07 Jul 2025 17:16:25 GMT</pubDate>
         </item>
@@ -116,472 +587,6 @@
             <title><![CDATA[                                                                                                                        道琼斯工业平均指数刚刚跌破44300.00关口，最新报44297.51，日内跌1.18%                                                                                                                    。]]></title>
             <guid>4276737</guid>
             <pubDate>Mon, 07 Jul 2025 16:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工业金属普跌】LME期铜收跌35美元，报9830美元/吨。LME期铝收跌16美元，报2574美元/吨。LME期锌收跌40美元，报2684美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7293923.d.html</link>
-            <guid>4276736</guid>
-            <pubDate>Mon, 07 Jul 2025 16:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安布雷公司表示，其已获悉在也门荷台达西南 49 海里处发生一起事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnva4068315.d.html</link>
-            <guid>4276735</guid>
-            <pubDate>Mon, 07 Jul 2025 16:51:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及安全部门消息人士及当地媒体：开罗 Ramses 地区一座电信大楼起火，无人员伤亡。]]></title>
-            <guid>4276734</guid>
-            <pubDate>Mon, 07 Jul 2025 16:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：英国政府对化学武器相关活动实施三项新限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7293330.d.html</link>
-            <guid>4276733</guid>
-            <pubDate>Mon, 07 Jul 2025 16:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第九届中俄博览会在俄罗斯叶卡捷琳堡开幕】 第九届中俄博览会7日在俄罗斯斯维尔德洛夫斯克州首府叶卡捷琳堡国际展览中心开幕。本届博览会以“中俄务实合作稳健前行”为主题，超过1500名俄罗斯政府和企业代表报名参加，185家公司搭建展位，300多家供应商和制造商参展。中方有300余家企业参展，聚焦高端制造、能源合作、科技创新等领域。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnvc5925511.d.html</link>
-            <guid>4276732</guid>
-            <pubDate>Mon, 07 Jul 2025 16:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国将自8月1日起对所有日本和韩国产品征收25%关税】当地时间7月7日，美国总统特朗普在社交媒体平台上发布了致日本首相石破茂、韩国总统李在明的信件，表示美国将自2025年8月1日起对所有日本和韩国产品征收25%的关税。特朗普表示，尽管美国与韩国和日本之间存在巨额贸易逆差，美国仍决定继续与两国合作。然而，美国决定以更加平衡、公平的贸易为前提，继续向前推进。特朗普称，贸易逆差已对美国经济乃至国家安全构成重大威胁，因此必须作出改变。自2025年8月1日起，美国将对所有韩国和日本产品征收25%的关税，此项关税将独立于各类行业性关税。此外，任何试图通过第三国转运来规避该关税的做法，也将被征以更高的关税。特朗普称，选择在美国境内建厂或生产产品的公司无需缴纳此项关税。此外，若韩国和日本决定提高对美关税，则美国将在现有25%税率基础上追加同等幅度关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7293056.d.html</link>
-            <guid>4276731</guid>
-            <pubDate>Mon, 07 Jul 2025 16:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普表示将从8月1日起对韩国加征25%关税后，在美上市的SK电讯股价下跌7.5%。]]></title>
-            <guid>4276730</guid>
-            <pubDate>Mon, 07 Jul 2025 16:45:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普称将从8月1日起对日本加征25%关税后，在美上市的日本汽车制造商股价下跌。丰田汽车股价下跌4%，本田汽车股价下跌3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7292570.d.html</link>
-            <guid>4276729</guid>
-            <pubDate>Mon, 07 Jul 2025 16:44:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法庭文件：包括美国儿科学会在内的医学专业协会起诉美国卫生与公众服务部、小罗伯特·F·肯尼迪。]]></title>
-            <guid>4276728</guid>
-            <pubDate>Mon, 07 Jul 2025 16:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在美上市的LG Display公司股价跌超6%。此前特朗普宣布将于8月1日起对韩国商品征收25%的关税。]]></title>
-            <guid>4276727</guid>
-            <pubDate>Mon, 07 Jul 2025 16:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青海海西多地出现不同程度沙尘天气】从7日中午开始，青海海西州多地出现不同程度沙尘天气，部分地区最小能见度仅为百米左右。在海西州茫崖市冷湖镇附近，当地群众用手机记录下了沙尘来袭画面，视频中，大风扬起沙土形成巨大的“沙墙”，“沙墙”随风力移动迅速。在德令哈市、都兰县和格尔木市等地，通过当时的视频画面看到，巨大“沙墙”穿过城区，天空瞬间被黄沙笼罩，部分地区最小能见度仅为百米左右。记者从当地气象部门了解到，此次沙尘天气持续时间长达6小时左右，目前，上述地区沙尘天气已有所好转。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnvc5924961.d.html</link>
-            <guid>4276726</guid>
-            <pubDate>Mon, 07 Jul 2025 16:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯无人机袭击了乌克兰苏梅的电力分配厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnvc5924844.d.html</link>
-            <guid>4276725</guid>
-            <pubDate>Mon, 07 Jul 2025 16:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿联酋总统与叙利亚政权领导人就双边关系等举行会谈】当地时间7日，阿联酋总统穆罕默德在首都阿布扎比会见了到访的叙利亚政权领导人艾哈迈德·沙拉。双方就阿联酋与叙利亚两国的双边关系、加强经济领域合作以及地区与国际局势等议题展开会谈。双方强调，应加强中东地区和平、安全与稳定的基础，以造福所有国家，促进该地区人民的发展与繁荣。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuw9363822.d.html</link>
-            <guid>4276724</guid>
-            <pubDate>Mon, 07 Jul 2025 16:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY持续拉升，较稍早低点反弹近40点，现报146.06。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7291743.d.html</link>
-            <guid>4276723</guid>
-            <pubDate>Mon, 07 Jul 2025 16:40:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美、布两油短线走高，WTI原油突破67美元/桶，日内涨2.21%。布伦特原油向上触及69美元/桶，日内涨1.62%。]]></title>
-            <guid>4276722</guid>
-            <pubDate>Mon, 07 Jul 2025 16:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        Nymex美原油期货主力刚刚突破68.00美元/桶关口，最新报68.01美元/桶，日内涨1.51%。]]></title>
-            <guid>4276721</guid>
-            <pubDate>Mon, 07 Jul 2025 16:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        现货铂金刚刚跌破1360.00美元/盎司关口，最新报1359.71美元/盎司，日内跌1.54%；Nymex铂金期货主力最新报1374.5美元/盎司，日内跌0.55%。]]></title>
-            <guid>4276720</guid>
-            <pubDate>Mon, 07 Jul 2025 16:36:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普宣布8月1日起将对日韩加征25%关税】美国总统特朗普宣布，自8月1日起将对日本和韩国输美商品加征25%关税。此举标志着美国政府开始对尚未与其达成贸易协议的国家实施单边关税政策。这两个亚洲国家成为特朗普政府本周一承诺将密集发布的贸易要求函与协议中的首批对象。特朗普在第二个任期内加速推进美国贸易政策改革，持续为市场、央行官员和企业高管带来不确定性。各方正艰难评估这一政策对生产、库存、招聘、通胀及消费需求的影响——即便没有这种朝令夕改的关税政策，常规商业规划已属不易。根据特朗普发布的信函显示，日韩两国的关税水平基本符合其此前预警。特朗普最初对日本征收24%的关税、对韩国征收25%的关税，在他所谓的对等关税延期90天后，特朗普将这些关税降至10%，以便有时间进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7290911.d.html</link>
-            <guid>4276719</guid>
-            <pubDate>Mon, 07 Jul 2025 16:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丰田汽车ADR下跌4.3%，日产汽车ADR跌7.6%，创2月12日以来最差盘中表现。此前特朗普宣布将对日本加征25%的关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnvc5923354.d.html</link>
-            <guid>4276718</guid>
-            <pubDate>Mon, 07 Jul 2025 16:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丰田汽车ADR一度下跌4.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuw9362397.d.html</link>
-            <guid>4276717</guid>
-            <pubDate>Mon, 07 Jul 2025 16:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩元跌0.9%至盘中低点。iShares MSCI日本ETF下跌2.1%，iShares MSCI韩国ETF下跌3.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnva4063314.d.html</link>
-            <guid>4276716</guid>
-            <pubDate>Mon, 07 Jul 2025 16:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普宣布对日本、韩国加征关税后，美国股市指数走低。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnvc5922221.d.html</link>
-            <guid>4276715</guid>
-            <pubDate>Mon, 07 Jul 2025 16:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        美元兑日元刚刚突破146.00关口，最新报146.01，日内涨1.06%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuw9361173.d.html</link>
-            <guid>4276714</guid>
-            <pubDate>Mon, 07 Jul 2025 16:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数日内跌幅达到1.00%，报6216.34。美元指数DXY短线走高10点，现报97.37。英镑兑美元GBP/USD短线下挫逾20点，现报1.3620。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7288191.d.html</link>
-            <guid>4276713</guid>
-            <pubDate>Mon, 07 Jul 2025 16:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：（在致日本首相石破茂的信中表示）我们将对所有日本产品征收25%的关税，此关税将与各行业关税分开计算。如果日本或日本企业决定在美国境内建厂或生产产品，将不会征收关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7288049.d.html</link>
-            <guid>4276712</guid>
-            <pubDate>Mon, 07 Jul 2025 16:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：我们拥有稳固且独立的制度体系，没有人能凌驾于法律之上。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnvc5921555.d.html</link>
-            <guid>4276711</guid>
-            <pubDate>Mon, 07 Jul 2025 16:21:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY短线下挫近20点，现报145.77。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnva4062441.d.html</link>
-            <guid>4276710</guid>
-            <pubDate>Mon, 07 Jul 2025 16:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股三大股指走低，道指跌幅扩大至1.13%，纳指、标普500指数跌约1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7287753.d.html</link>
-            <guid>4276709</guid>
-            <pubDate>Mon, 07 Jul 2025 16:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卢拉表示巴西不能接受任何干涉。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7287584.d.html</link>
-            <guid>4276708</guid>
-            <pubDate>Mon, 07 Jul 2025 16:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普宣布将对韩国征收25%的关税】美国总统特朗普在致韩国总统李在明的信中表示，自2025年8月1日起，美国将对所有韩国输美商品统一征收25%关税（不含行业专项关税）。任何通过转运规避高关税的货物，将按更高税率补征。需要说明的是，25%的税率远不足以消除两国间的贸易逆差。若韩国或韩企选择在美国本土生产，相关产品将享受零关税待遇。我们将全力确保审批流程高效专业，通常在数周内即可完成。倘若韩方单方面加征关税，无论幅度如何，美方将在现行25%税率基础上叠加同等税率。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuw9360532.d.html</link>
-            <guid>4276707</guid>
-            <pubDate>Mon, 07 Jul 2025 16:19:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普宣布将对日本征收25%的关税】美国总统特朗普在致日本首相石破茂的信中表示，自2025年8月1日起，美国将对所有日本输美商品统一征收25%关税（不含行业专项关税）。任何通过转运规避高关税的货物，将按更高税率补征。须知25%的税率远低于消除两国贸易逆差所需的水平。如贵国或日企选择在美国本土设厂生产，相关产品将享受零关税。我们将全力确保审批流程高效专业，通常数周即可完成。若日方单方面加征关税，无论幅度如何，美方将在现行25%基础上叠加同等税率。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7287523.d.html</link>
-            <guid>4276706</guid>
-            <pubDate>Mon, 07 Jul 2025 16:19:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普向日本发出贸易函。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7287446.d.html</link>
-            <guid>4276705</guid>
-            <pubDate>Mon, 07 Jul 2025 16:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德将新兴市场本地债券评级从减持上调至中性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuw9360430.d.html</link>
-            <guid>4276704</guid>
-            <pubDate>Mon, 07 Jul 2025 16:19:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        现货铂金刚刚突破1370.00美元/盎司关口，最新报1370.03美元/盎司，日内跌0.79%；Nymex铂金期货主力最新报1383.3美元/盎司，日内涨0.09%。]]></title>
-            <guid>4276703</guid>
-            <pubDate>Mon, 07 Jul 2025 16:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[戴姆勒：将在两年内回购价值高达 20 亿欧元的股票。回购计划将从2025年下半年开始，持续长达两年的时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7287045.d.html</link>
-            <guid>4276702</guid>
-            <pubDate>Mon, 07 Jul 2025 16:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[昔日碳化硅巨头Wolfspeed盘中涨幅扩大，一度涨超110%，上一个交易日暴涨超50%，公司预计三季度末撤销破产重组。]]></title>
-            <guid>4276701</guid>
-            <pubDate>Mon, 07 Jul 2025 16:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国佛罗里达州奥兰治县报告称 5 月酒店税收入创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnvc5920582.d.html</link>
-            <guid>4276700</guid>
-            <pubDate>Mon, 07 Jul 2025 16:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中长期德债收益率涨超3个基点】 周一（7月7日）欧市尾盘，德国10年期国债收益率涨3.6个基点，报2.643%，全天持续震荡上行，整体交投于2.591%-2.647%区间。两年期德债收益率涨2.2个基点，报1.837%，日内交投于1.800%-1.840%区间；30年期德债收益率涨3.1个基点，报3.118%。2/10年期德债收益率利差涨1.464个基点，报+80.373个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7286112.d.html</link>
-            <guid>4276699</guid>
-            <pubDate>Mon, 07 Jul 2025 16:12:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列媒体：了解谈判细节的消息人士称，与谈判陷入僵局的毫无根据的报道相反，即使在这些时刻，谈判团队仍与多哈和解谈判的调解员保持着持续的联系。]]></title>
-            <guid>4276698</guid>
-            <pubDate>Mon, 07 Jul 2025 16:11:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国量化巨头遭印度市场禁入 操纵手法曝光】 日前，印度证券交易委员会（SEBI）发布一份临时监管通知，禁止美国量化交易巨头简街集团（Jane Street）进入当地市场，直至进一步通知，并扣押了该公司484亿卢比（折约40亿人民币）的资金。SEBI称，这些资金是该公司涉嫌“恶劣的市场操纵行为”所获得的“非法所得”。 这是近年来SEBI对外国交易公司采取的最严厉措施。SEBI表示，其调查发现Jane Street通过衍生品交易操纵股票指数，导致交易对手方的散户投资者遭受损失。 值得注意的是，受印度主要股指表现良好推动，散户投资者近年来蜂拥入市，进一步推动印度成为全球合约交易量最大的衍生品市场。个人投资者大量参与衍生品交易，期权流动性甚至高于现货，这构成了Jane Street操纵市场的重要背景。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnva4060166.d.html</link>
-            <guid>4276697</guid>
-            <pubDate>Mon, 07 Jul 2025 16:10:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【又一机构上调英伟达目标价：看好主权AI需求激增】随着英伟达股价持续上涨，花旗银行成为最新一家上调该股目标价的机构，看好理由是其认为主权国家对人工智能（AI）基础设施的需求正在大幅增长，这将推动英伟达进一步扩张。 花旗将英伟达的目标股价上调至每股190美元，若以上周四收盘价计算，还有约15%的上涨空间。此次上调评级正值英伟达市值不断逼近4万亿美元，公司股价在过去一个月内上涨了12%。 花旗分析师称，他们认为英伟达将在不断扩大的数据中心基础设施总可寻址市场（TAM）中占据更大份额。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7285387.d.html</link>
-            <guid>4276696</guid>
-            <pubDate>Mon, 07 Jul 2025 16:09:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯交通部长被免职当天身亡】据俄罗斯侦查委员会7日消息，当天早些时候被免职的俄交通部长斯塔罗沃伊特身亡。俄侦查委员会发言人彼得连科发表声明说，斯塔罗沃伊特的遗体7日在莫斯科州的一辆私家车内被发现，身上有枪伤。当地侦查部门正在展开调查，推测可能为自杀。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnva4059565.d.html</link>
-            <guid>4276695</guid>
-            <pubDate>Mon, 07 Jul 2025 16:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特交易所首次在沙特资本市场推出沙特存托凭证（SDRs）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnva4059110.d.html</link>
-            <guid>4276694</guid>
-            <pubDate>Mon, 07 Jul 2025 16:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日元兑美元下跌1%至145.92。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnva4058849.d.html</link>
-            <guid>4276693</guid>
-            <pubDate>Mon, 07 Jul 2025 16:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥斯达黎加6月份消费者价格环比上涨0.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7284021.d.html</link>
-            <guid>4276692</guid>
-            <pubDate>Mon, 07 Jul 2025 16:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西前总统博索纳罗：很高兴听到特朗普在社交媒体上的帖子。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnuy7283504.d.html</link>
-            <guid>4276691</guid>
-            <pubDate>Mon, 07 Jul 2025 16:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国巴黎银行商业、个人银行及服务部门将成立新部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-08/detail-infesnvc5917713.d.html</link>
-            <guid>4276690</guid>
-            <pubDate>Mon, 07 Jul 2025 16:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【非洲股市收盘播报｜南非股指涨超0.2%继续创收盘历史新高，该国总统就特朗普威胁对金砖国家加征关税予以回击】 周一（7月7日），南非富时/JSE非洲领先40可交易指数收涨0.25%，报89623.71点，连续第二个交易日创收盘历史新高。南非兰特兑美元跌幅收窄至0.9%，处于连续第二个交易日反弹之中。南非总统西里尔·拉马福萨（Cyril Ramaphosa）批评美国总统特朗普威胁对金砖国家成员国实施惩罚的言论，称“现在不可能是强权即正义”。]]></title>
-            <guid>4276689</guid>
-            <pubDate>Mon, 07 Jul 2025 16:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[利比亚央行：2025年上半年利比亚的石油收入达到了511亿利比亚第纳尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnva4057306.d.html</link>
-            <guid>4276688</guid>
-            <pubDate>Mon, 07 Jul 2025 15:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利国家铜业公司萨尔瓦多分公司首席执行官CHRISTIAN TOUTIN辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuw9356316.d.html</link>
-            <guid>4276687</guid>
-            <pubDate>Mon, 07 Jul 2025 15:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰多地遭俄军袭击 至少4人死亡数十人受伤】乌克兰军方和地方军事行政机构7日在社交媒体发布消息说，俄军6日晚至7日上午对乌克兰多地发动导弹和无人机袭击，截至当天下午已造成乌境内至少4人死亡，数十人受伤。另据俄罗斯国防部7日消息，俄军对乌多个地区发动进攻，破坏了乌军兵役中心等。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnvc5916957.d.html</link>
-            <guid>4276686</guid>
-            <pubDate>Mon, 07 Jul 2025 15:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西股指跌超0.9%，在美上市iShares安硕MSCI巴西ETF维持超过1.8%的跌幅，巴西雷亚尔兑美元维持0.8%的跌幅。]]></title>
-            <guid>4276685</guid>
-            <pubDate>Mon, 07 Jul 2025 15:56:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克打破淡出政坛誓言 特斯拉股价再遭重创】 特斯拉公司股价下跌，马斯克宣布组建新政党的消息给该公司的前景带来更多困扰。这位首席执行官在周末宣布，他将成立“美国党”(America Party)挑战共和党和民主党，未来12个月重点争夺众议院和参议院席位。据他在X上的发帖，今后还可能支持人竞选美国总统。周一常规交易开始后不久，特斯拉股价下跌8%。如果跌势持续，将成为自马斯克今年6月初与特朗普因税改问题首次产生分歧以来的最大单日跌幅。由于马斯克涉足政治活动影响特斯拉在汽车买家中的声誉，今年以来该股已累计下跌28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuw9356079.d.html</link>
-            <guid>4276684</guid>
-            <pubDate>Mon, 07 Jul 2025 15:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法新社：周一上午在多哈举行的一轮间接会谈后，一名巴勒斯坦官员称，促成以色列和哈马斯停火的努力迄今为止尚未取得突破。]]></title>
-            <guid>4276683</guid>
-            <pubDate>Mon, 07 Jul 2025 15:54:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银将微芯科技（Microchip Tech）目标价从每股65美元上调至85美元。]]></title>
-            <guid>4276682</guid>
-            <pubDate>Mon, 07 Jul 2025 15:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及国家电视台：开罗市中心电信大楼火灾已被控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnva4056764.d.html</link>
-            <guid>4276681</guid>
-            <pubDate>Mon, 07 Jul 2025 15:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银将西南航空目标股价从每股27美元上调至34美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuw9355736.d.html</link>
-            <guid>4276680</guid>
-            <pubDate>Mon, 07 Jul 2025 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际咖啡组织称，5月份全球生咖啡出口量增长了3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuy7282076.d.html</link>
-            <guid>4276679</guid>
-            <pubDate>Mon, 07 Jul 2025 15:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[庞巴迪股价创下2011年以来新高，加拿大皇家银行上调其目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuy7282058.d.html</link>
-            <guid>4276678</guid>
-            <pubDate>Mon, 07 Jul 2025 15:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国石油公司任命西蒙·亨利为非执行董事。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuy7281850.d.html</link>
-            <guid>4276676</guid>
-            <pubDate>Mon, 07 Jul 2025 15:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加利西亚石油公司（GALP）：第二季度加工的原材料较第一季度减少2%，为2110万桶油当量，而第一季度加工量更多 。]]></title>
-            <guid>4276675</guid>
-            <pubDate>Mon, 07 Jul 2025 15:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部：13周和26周国债拍卖面临技术问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnva4056158.d.html</link>
-            <guid>4276674</guid>
-            <pubDate>Mon, 07 Jul 2025 15:46:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：欧洲在与美国的贸易谈判中必须展现出实力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuy7281552.d.html</link>
-            <guid>4276673</guid>
-            <pubDate>Mon, 07 Jul 2025 15:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国驻德黑兰大使馆暂时关闭后现已重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuw9355067.d.html</link>
-            <guid>4276672</guid>
-            <pubDate>Mon, 07 Jul 2025 15:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西劳工党主席霍夫曼：如果美国总统特朗普认为他可以干涉巴西的司法程序，那他就是错的。特朗普应专注于自身众多的问题，尊重巴西的主权和司法制度。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuy7281378.d.html</link>
-            <guid>4276671</guid>
-            <pubDate>Mon, 07 Jul 2025 15:44:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[半岛电视台：俄罗斯外长拉夫罗夫称，俄罗斯准备向伊朗提供足够用于和平核计划的浓缩铀。]]></title>
-            <guid>4276670</guid>
-            <pubDate>Mon, 07 Jul 2025 15:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国计划生育联合会就削减医疗中心资金的计划起诉特朗普政府】据法庭文件显示，美国计划生育联合会就削减医疗中心资金的计划起诉特朗普政府。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuw9354612.d.html</link>
-            <guid>4276669</guid>
-            <pubDate>Mon, 07 Jul 2025 15:41:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新氧(SY.US)涨超34% 6月底来累计升幅超320%】新氧(SY.US)股价拉涨，截至发稿，该股涨超34%，报4.36美元。该股6月底以来累计升幅超320%。消息面上，新氧青春诊所宣布其在营门店数量达31家，首次登顶中国轻医美连锁品牌门店数量榜首。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuw9354523.d.html</link>
-            <guid>4276668</guid>
-            <pubDate>Mon, 07 Jul 2025 15:41:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国土安全部称，一名枪手在得克萨斯州边境巡逻队分区附属建筑入口处开枪，造成两名执法人员和一名边境巡逻队员工受伤。]]></title>
-            <guid>4276667</guid>
-            <pubDate>Mon, 07 Jul 2025 15:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：泽连斯基向特朗普保证，将换被特朗普盟友批评的驻美国特使。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnva4055403.d.html</link>
-            <guid>4276666</guid>
-            <pubDate>Mon, 07 Jul 2025 15:41:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：墨西哥平台已登记近30万名零工。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnvc5914959.d.html</link>
-            <guid>4276665</guid>
-            <pubDate>Mon, 07 Jul 2025 15:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                                        道琼斯工业平均指数刚刚跌破44500.00关口，最新报44499.03，日内跌0.73%。]]></title>
-            <guid>4276664</guid>
-            <pubDate>Mon, 07 Jul 2025 15:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国对等关税最后期限逼近 国务卿鲁比奥将启程出访亚洲】美国国务卿马尔科·鲁比奥本周将首次作为国家最高外交官员出访亚洲，与该地区官员就贸易与安全问题进行磋商。这些官员正希望避免特朗普即将实施的关税上调。鲁比奥“致力于重申美国对推进自由、开放和安全的印度-太平洋地区的承诺，”国务院在一份声明中表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnvc5914856.d.html</link>
-            <guid>4276663</guid>
-            <pubDate>Mon, 07 Jul 2025 15:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲股市收盘涨跌不一】欧洲股市收盘涨跌不一，欧洲斯托克50指数收涨0.99%，德国DAX30指数收涨1.08%，英国富时100指数收跌0.18%，法国CAC40指数收涨0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuw9353888.d.html</link>
-            <guid>4276662</guid>
-            <pubDate>Mon, 07 Jul 2025 15:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳瓦罗：鲍威尔的货币政策正在给美国造成严重经济损害】白宫贸易顾问彼得·纳瓦罗表示，美联储主席鲍威尔拒绝降低利率正在对美国造成“严重的经济损失”。纳瓦罗在Substack上发帖呼吁美联储理事会干涉鲍威尔的政策立场。他写道，如果鲍威尔“不主动调整方向，理事会必须果断采取行动，防止进一步的经济损害”。他称， 美联储政策导致联邦税收收入减少、预算赤字加剧、国家债务加深。纳瓦罗称，美国家庭正感受到“尖锐的经济痛苦”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnvc5914527.d.html</link>
-            <guid>4276661</guid>
-            <pubDate>Mon, 07 Jul 2025 15:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[明晟公司MSCI北欧国家指数涨0.1%，报354.09点，创6月27日以来收盘新高；北欧工业板块领跑。航运巨头马士基B类股收涨2.98%，领跑一众成分股。]]></title>
-            <guid>4276660</guid>
-            <pubDate>Mon, 07 Jul 2025 15:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟说仍在争取与美国达成原则性贸易协议】欧盟委员会发言人奥洛夫·吉尔7日表示，欧盟仍在争取于7月9日前与美国达成一项原则性的双边贸易协议，目前欧盟与美国仍在继续接触。 吉尔说，欧盟始终致力于达成一项有利于欧盟企业、消费者和全球经济的协议。此外，欧盟也已准备好应对所有结果的选项，包括反制清单，但暂不打算启动该程序。 他表示，欧盟已完成对成员国、企业和利益相关方的意见征询。目前，欧盟仍把谈判作为首要任务，但也在为其他可能的结果做准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuy7280056.d.html</link>
-            <guid>4276659</guid>
-            <pubDate>Mon, 07 Jul 2025 15:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家机构备战香港稳定币牌照 业内称勿夸大稳定币影响】据记者从业内人士处了解到，香港的稳定币牌照比较稀缺且抢手，预计牌照仅为个位数，但目前除了已经官宣的京东、渣打、圆币等，有40多家企业准备提交申请，律所的反馈还有几十家意向申请，目前处于咨询或准备材料阶段，竞争十分激烈，申请机构基本都是中国最大的金融机构和互联网公司，而部分有意申请的小型企业则希望渺茫。 在这一背景下，稳定币重构全球货币体系的预期升温。上海发展研究基金会副会长兼秘书乔依德对第一财经记者表示，稳定币所能提升的跨境支付效率可能并没有大家预想的高。有研究指出实际成本可能接近1%，而非宣传的极低水平。同时，稳定币以主权货币为锚定基础，实为法币功能的延伸与扩散，无法颠覆其赖以生存的体系。 尽管当前市场如火如荼、各大机构争相入局，甚至出现这样一种观点——稳定币将重构、颠覆国际货币体系。但在业内人士看来，这无疑是夸大稳定币的影响。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnva4054395.d.html</link>
-            <guid>4276658</guid>
-            <pubDate>Mon, 07 Jul 2025 15:34:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：新兴市场可持续发展债券表现优异。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnva4054265.d.html</link>
-            <guid>4276657</guid>
-            <pubDate>Mon, 07 Jul 2025 15:33:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新兴市场ETF连续第六周资金流入】投资者上周向投资于新兴市场股票和债券的交易所交易基金（ETF）投入资金。此类ETF连续第六周录得资金流入。数据显示，截至7月3日当周，投资于发展中国家及特定国家的美国上市新兴市场ETF总计录得资金流入24.6亿美元，而前一周流入为33.5亿美元。今年迄今为止，流入总额已达129亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-07-07/detail-infesnuy7279592.d.html</link>
-            <guid>4276656</guid>
-            <pubDate>Mon, 07 Jul 2025 15:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财政部长：财政部下月将决定是否调整年度融资计划，以维持更快的债务展期速度。财政部“确定”将在2025年下半年再次进入全球债券市场。]]></title>
-            <guid>4276655</guid>
-            <pubDate>Mon, 07 Jul 2025 15:31:19 GMT</pubDate>
         </item>
     </channel>
 </rss>

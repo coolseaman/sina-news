@@ -4,11 +4,32 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 09 Aug 2025 20:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 21:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[晨星财富（Morningstar Wealth）首席多资产策略师Dominic Pappalardo：我确实认为美股已做好小幅回调的准备，潜在的担忧情绪正在积聚。]]></title>
+            <guid>4329658</guid>
+            <pubDate>Sat, 09 Aug 2025 21:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月10日04时40分在危地马拉沿岸近海（北纬13.60度，西经92.30度）发生6.0级地震，震源深度10千米。]]></title>
+            <guid>4329657</guid>
+            <pubDate>Sat, 09 Aug 2025 21:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国地球科学研究中心（GFZ）：墨西哥恰帕斯州海岸附近发生5.84级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkmsep7378650.d.html</link>
+            <guid>4329656</guid>
+            <pubDate>Sat, 09 Aug 2025 20:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心（NHC）：“伊沃”（IVO）正在减弱，预计到周日晚些时候将转变为温带气旋。]]></title>
+            <guid>4329655</guid>
+            <pubDate>Sat, 09 Aug 2025 20:39:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国首相斯塔默和法国总统马克龙重申对乌克兰总统泽连斯基的坚定支持。]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-10/detail-infkmsei1968132.d.html</link>
@@ -569,28 +590,6 @@ S40广洪高速眉山段：关闭眉山南、丹棱、仁美收费站入口。�
             <link>https://finance.sina.cn/7x24/2025-08-09/detail-infkkzhv7733583.d.html</link>
             <guid>4329552</guid>
             <pubDate>Sat, 09 Aug 2025 14:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月09日22时04分在千岛群岛以东海域（北纬50.00度，东经160.05度）发生6.0级地震，震源深度10千米。]]></title>
-            <guid>4329551</guid>
-            <pubDate>Sat, 09 Aug 2025 14:27:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：卢拉表示支持旨在解决乌克兰危机的努力。两国元首确认了进一步加强俄巴战略伙伴关系以及两国内部合作的意向。]]></title>
-            <guid>4329550</guid>
-            <pubDate>Sat, 09 Aug 2025 14:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京向卢拉介绍了美国中东问题特使威特科夫访问的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-09/detail-infkkzhr2323748.d.html</link>
-            <guid>4329549</guid>
-            <pubDate>Sat, 09 Aug 2025 14:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫：普京与巴西总统卢拉通电话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-09/detail-infkkzhr2323411.d.html</link>
-            <guid>4329548</guid>
-            <pubDate>Sat, 09 Aug 2025 14:21:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

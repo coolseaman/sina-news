@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 30 Aug 2025 17:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 18:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【特朗普：美军不会进驻乌克兰】美国总统特朗普表示，对基辅的安全保证可能包括美欧战机在乌克兰领空巡逻，但强调不会有美军士兵驻扎乌克兰。特朗普在接受采访时说：“我们的士兵不会在那里”。他还说，美国准备提供空中支援，但主要是欧洲飞机。特朗普还表示，如果没有“任何形式”的安全保证，将无法解决乌克兰危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnuxcu4449536.d.html</link>
+            <guid>4362196</guid>
+            <pubDate>Sat, 30 Aug 2025 17:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【石宇奇晋级羽毛球世锦赛男单决赛】当地时间30日下午，2025年世界羽毛球锦标赛迎来男单半决赛。本届赛事头号种子、中国选手石宇奇对阵加拿大选手赖浩俊。最终石宇奇以总比分2-1战胜对手，晋级决赛。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnuxcu4448254.d.html</link>
+            <guid>4362191</guid>
+            <pubDate>Sat, 30 Aug 2025 17:32:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[越南将越南盾每日参考汇率设定为 1 美元兑 25240 越南盾。]]></title>
             <link>https://finance.sina.cn/7x24/2025-08-31/detail-infnuxea2936793.d.html</link>
@@ -581,18 +593,6 @@
             <link>https://finance.sina.cn/7x24/2025-08-30/detail-infnuhhe1494866.d.html</link>
             <guid>4361965</guid>
             <pubDate>Sat, 30 Aug 2025 09:26:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新和成：公司目前没有胆固醇产线】新和成8月30日在投资者互动平台表示，公司目前没有胆固醇产线。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-30/detail-infnuhhe1494624.d.html</link>
-            <guid>4361964</guid>
-            <pubDate>Sat, 30 Aug 2025 09:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平会见缅甸代总统敏昂莱】8月30日下午，国家主席习近平在天津迎宾馆会见来华出席2025年上海合作组织峰会和纪念中国人民抗日战争暨世界反法西斯战争胜利80周年活动的缅甸代总统敏昂莱。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-08-30/detail-infnuhfz6141288.d.html</link>
-            <guid>4361963</guid>
-            <pubDate>Sat, 30 Aug 2025 09:10:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -6,6 +6,412 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4367963,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3962032.d.html",
+            "title": "美国国务卿鲁比奥：利用海上航线的（非法）团体不能继续逍遥法外。",
+            "date_modified": "2025-09-03T18:21:33.000Z"
+        },
+        {
+            "id": 4367962,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9227850.d.html",
+            "title": "美国国务卿鲁比奥：特朗普总统将对毒品恐怖组织发动战争。",
+            "date_modified": "2025-09-03T18:20:03.000Z"
+        },
+        {
+            "id": 4367961,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3961712.d.html",
+            "title": "美国国务卿鲁比奥：拦截贩毒船不起作用，炸毁它们才能阻止它们。",
+            "date_modified": "2025-09-03T18:19:06.000Z"
+        },
+        {
+            "id": 4367960,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3961513.d.html",
+            "title": "克里姆林宫：俄罗斯总统普京已抵达符拉迪沃斯托克。",
+            "date_modified": "2025-09-03T18:17:36.000Z"
+        },
+        {
+            "id": 4367959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9227467.d.html",
+            "title": "美联储卡什卡利：有信心独立的美联储能够控制通胀压力。",
+            "date_modified": "2025-09-03T18:17:06.000Z"
+        },
+        {
+            "id": 4367958,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3961143.d.html",
+            "title": "美联储卡什卡利：未预测会出现经济衰退。",
+            "date_modified": "2025-09-03T18:14:38.000Z"
+        },
+        {
+            "id": 4367957,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3961026.d.html",
+            "title": "美联储卡什卡利：利率有一定的温和下调空间。",
+            "date_modified": "2025-09-03T18:13:44.000Z"
+        },
+        {
+            "id": 4367956,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvu7343570.d.html",
+            "title": "美联储卡什卡利：有充分理由相信经济将实现温和降温。",
+            "date_modified": "2025-09-03T18:13:38.000Z"
+        },
+        {
+            "id": 4367955,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3960523.d.html",
+            "title": "【英国央行行长贝利进一步对11月降息的前景表示怀疑】英国央行行长安德鲁·贝利进一步对今年晚些时候降息的前景表示怀疑，这实际上认可了市场定价，该定价反映，在即将召开的会议上再次降息的可能性不大。贝利暗示他对过快采取更多降息持谨慎态度，他周三提醒称，“关于我们究竟何时、以及多快能够采取进一步措施，现在不确定性明显增加。”副行长Clare Lombardelli也表示，面对长期价格压力，特别是在服务业，利率可能只需略低于目前4%的水平。",
+            "date_modified": "2025-09-03T18:10:01.000Z"
+        },
+        {
+            "id": 4367954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9226012.d.html",
+            "title": "美国国务院：通过具体且即时的行动开展合作，将加强共同边境的安全。",
+            "date_modified": "2025-09-03T18:06:02.000Z"
+        },
+        {
+            "id": 4367953,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3959979.d.html",
+            "title": "美国国务院：正努力解决人员非法越境问题。",
+            "date_modified": "2025-09-03T18:05:55.000Z"
+        },
+        {
+            "id": 4367952,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvu7342995.d.html",
+            "title": "美国国务院发布关于美国与墨西哥安全合作的联合声明。",
+            "date_modified": "2025-09-03T18:05:42.000Z"
+        },
+        {
+            "id": 4367951,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9225946.d.html",
+            "title": "葡萄牙里斯本格洛里亚缆车脱轨事故造成至少三人死亡，约20人受伤。",
+            "date_modified": "2025-09-03T18:05:34.000Z"
+        },
+        {
+            "id": 4367950,
+            "content_html": "",
+            "title": "美联储褐皮书：消费者支出持平或下降，因为许多家庭的工资增长未能跟上物价上涨的步伐。",
+            "date_modified": "2025-09-03T18:04:37.000Z"
+        },
+        {
+            "id": 4367949,
+            "content_html": "",
+            "title": "美联储褐皮书：十个地区将价格增长描述为中等或适度。另外两个地区则表示，投入品价格强劲增长，超过了中等或适度的销售价格增长。几乎所有地区都注意到了与关税相关的价格上涨，许多地区的联系人表示，关税对投入品价格的影响尤其显著。多个地区的联系人还报告了保险、公用事业和技术服务价格的上涨。",
+            "date_modified": "2025-09-03T18:03:35.000Z"
+        },
+        {
+            "id": 4367948,
+            "content_html": "",
+            "title": "美联储褐皮书：关于劳动力市场，11个地区报告称总体就业水平几乎没有或没有净变化，而一个地区则报告称就业水平略有下降。7个地区指出，由于需求减弱或不确定性，企业不愿招聘员工。此外，两个地区的联系人报告裁员人数增加，而多个地区的联系人报告称通过自然减员的方式减少员工人数。",
+            "date_modified": "2025-09-03T18:03:11.000Z"
+        },
+        {
+            "id": 4367947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9225428.d.html",
+            "title": "美联储褐皮书：十个辖区认为物价增长温和。",
+            "date_modified": "2025-09-03T18:00:58.000Z"
+        },
+        {
+            "id": 4367946,
+            "content_html": "",
+            "title": "美联储褐皮书：大多数企业要么表示乐观情绪几乎没有变化，要么称其业务联系人对形势变化方向的预期存在分歧。",
+            "date_modified": "2025-09-03T18:00:54.000Z"
+        },
+        {
+            "id": 4367945,
+            "content_html": "",
+            "title": "美联储褐皮书：自上一份褐皮书发布以来，12个联邦储备区中的大多数地区报告称经济活动几乎没有变化或没有变化，有4个情况不同的地区报告称经济有温和增长。",
+            "date_modified": "2025-09-03T18:00:45.000Z"
+        },
+        {
+            "id": 4367944,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvz9225242.d.html",
+            "title": "美联储卡什卡利：对美国维持其货币作为储备货币的地位感到乐观。",
+            "date_modified": "2025-09-03T17:53:41.000Z"
+        },
+        {
+            "id": 4367943,
+            "content_html": "",
+            "title": "穆迪关于哥伦比亚的报告：2025 年，石油和天然气勘探与生产领域的资本支出将下降约 18%，降至四年以来的最低水平。",
+            "date_modified": "2025-09-03T17:53:21.000Z"
+        },
+        {
+            "id": 4367942,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infphcvw3959186.d.html",
+            "title": "美联储卡什卡利：美国仍是全球最具竞争力的经济体。",
+            "date_modified": "2025-09-03T17:52:17.000Z"
+        },
+        {
+            "id": 4367941,
+            "content_html": "",
+            "title": "加拿大皇家银行：日本收益率上升吸引国内投资者将资金留在本土而非持有外国资产，全球货币和利率市场正迎来重大转变。",
+            "date_modified": "2025-09-03T17:52:04.000Z"
+        },
+        {
+            "id": 4367940,
+            "content_html": "",
+            "title": "美国国家飓风中心（NHC）：东热带大西洋上空的风暴在未来48小时内有40%的可能性形成气旋。",
+            "date_modified": "2025-09-03T17:48:40.000Z"
+        },
+        {
+            "id": 4367939,
+            "content_html": "",
+            "title": "数千名抗议者聚集在以色列总理内塔尼亚胡位于耶路撒冷的官邸外，要求达成被扣押人员交换和停火协议。",
+            "date_modified": "2025-09-03T17:47:39.000Z"
+        },
+        {
+            "id": 4367938,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2409132.d.html",
+            "title": "阿联酋：以色列吞并（约旦河西岸地区）可能破坏《亚伯拉罕协议》。",
+            "date_modified": "2025-09-03T17:46:55.000Z"
+        },
+        {
+            "id": 4367937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9355693.d.html",
+            "title": "马萨诸塞州州长希利：特朗普正在通过拆除风电项目夺取权力。",
+            "date_modified": "2025-09-03T17:46:05.000Z"
+        },
+        {
+            "id": 4367936,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4089664.d.html",
+            "title": "美国联邦通信委员会主席希望终止为校车上使用无线网络以及图书馆外热点提供政府补贴。",
+            "date_modified": "2025-09-03T17:45:40.000Z"
+        },
+        {
+            "id": 4367935,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4089660.d.html",
+            "title": "阿联酋就以色列吞并约旦河西岸向美国发出警告。",
+            "date_modified": "2025-09-03T17:45:35.000Z"
+        },
+        {
+            "id": 4367934,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2409074.d.html",
+            "title": "马萨诸塞州州长希利：联邦政府削减开支正在打击知识型州的经济。",
+            "date_modified": "2025-09-03T17:45:23.000Z"
+        },
+        {
+            "id": 4367933,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7472761.d.html",
+            "title": "美联储卡什卡利：美联储严重依赖政府发布的经济数据。",
+            "date_modified": "2025-09-03T17:44:33.000Z"
+        },
+        {
+            "id": 4367932,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7472664.d.html",
+            "title": "美联储卡什卡利：对人工智能持怀疑态度的因素正在经济数据中显现。",
+            "date_modified": "2025-09-03T17:43:15.000Z"
+        },
+        {
+            "id": 4367931,
+            "content_html": "",
+            "title": "美墨两国政府联合声明：密切的协调使两国得以确保边境安全、减少芬太尼走私并推进情报共享。",
+            "date_modified": "2025-09-03T17:42:51.000Z"
+        },
+        {
+            "id": 4367930,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9355495.d.html",
+            "title": "美联储卡什卡利：目前就业市场的收支平衡水平可能为每月新增7.5万个就业岗位。",
+            "date_modified": "2025-09-03T17:42:24.000Z"
+        },
+        {
+            "id": 4367929,
+            "content_html": "",
+            "title": "美墨两国政府联合声明：这些措施包括打击卡特尔组织、加强边境安全、消除秘密边境隧道、处理非法资金流动、加强合作以防止燃油被盗，以及遏制毒品和武器流通的相关举措。",
+            "date_modified": "2025-09-03T17:42:18.000Z"
+        },
+        {
+            "id": 4367928,
+            "content_html": "",
+            "title": "美墨两国政府在联合声明中表示，墨西哥和美国已成立一个高级别执行小组，以监督相关承诺的落实情况，并在各自国内采取行动。",
+            "date_modified": "2025-09-03T17:41:44.000Z"
+        },
+        {
+            "id": 4367927,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4089380.d.html",
+            "title": "荷兰合作银行：巴西2025/2026年度大豆种植面积预计较上一季增加1.5%。",
+            "date_modified": "2025-09-03T17:41:29.000Z"
+        },
+        {
+            "id": 4367926,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7472462.d.html",
+            "title": "荷兰合作银行：预计巴西2025/2026年度大豆产量达1.75亿吨。",
+            "date_modified": "2025-09-03T17:41:14.000Z"
+        },
+        {
+            "id": 4367925,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9355335.d.html",
+            "title": "美联储卡什卡利：需要关注与关税相关的通胀情况，以确定其是否具有持续性。",
+            "date_modified": "2025-09-03T17:40:29.000Z"
+        },
+        {
+            "id": 4367924,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4089281.d.html",
+            "title": "美联储卡什卡利：关税导致商品通胀上升。",
+            "date_modified": "2025-09-03T17:39:40.000Z"
+        },
+        {
+            "id": 4367923,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4089234.d.html",
+            "title": "美联储卡什卡利：数据显示经济正在放缓，并朝着软着陆迈进。",
+            "date_modified": "2025-09-03T17:38:52.000Z"
+        },
+        {
+            "id": 4367922,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2408516.d.html",
+            "title": "【美联储隔夜逆回购使用量降至2021年以来最低水平】美联储隔夜逆回购协议使用余额周三跌至2021年以来的最低水平。约17个交易对手方利用隔夜逆回购在美联储存放179亿美元，低于上一交易日的211亿美元，并创下四年多来的最低水平。",
+            "date_modified": "2025-09-03T17:38:25.000Z"
+        },
+        {
+            "id": 4367921,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2408471.d.html",
+            "title": "巴西财长哈达德：央行应有独立预算。",
+            "date_modified": "2025-09-03T17:37:48.000Z"
+        },
+        {
+            "id": 4367920,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2408303.d.html",
+            "title": "房地美涨幅扩大至22%至盘中高点。",
+            "date_modified": "2025-09-03T17:35:34.000Z"
+        },
+        {
+            "id": 4367919,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2408269.d.html",
+            "title": "美联储卡什卡利：美联储在履行使命方面正陷入棘手局面。",
+            "date_modified": "2025-09-03T17:34:59.000Z"
+        },
+        {
+            "id": 4367918,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4088786.d.html",
+            "title": "美联储卡什卡利：通胀仍过高，但劳动力市场呈现降温迹象。",
+            "date_modified": "2025-09-03T17:34:37.000Z"
+        },
+        {
+            "id": 4367917,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7471943.d.html",
+            "title": "美联储卡什卡利：美联储在使通胀率回落至2%方面的工作尚未完成。",
+            "date_modified": "2025-09-03T17:34:06.000Z"
+        },
+        {
+            "id": 4367916,
+            "content_html": "",
+            "title": "周三（9月3日），韩元兑美元最终涨0.43%，报1389.52韩元，全天持续震荡上行。",
+            "date_modified": "2025-09-03T17:33:30.000Z"
+        },
+        {
+            "id": 4367915,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9354431.d.html",
+            "title": "葡萄牙里斯本标志性的格洛里亚缆车脱轨，造成多人受伤。",
+            "date_modified": "2025-09-03T17:31:42.000Z"
+        },
+        {
+            "id": 4367914,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4088372.d.html",
+            "title": "巴西央行：截至8月29日的当月资金净流出20.63亿美元。",
+            "date_modified": "2025-09-03T17:31:00.000Z"
+        },
+        {
+            "id": 4367913,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9354379.d.html",
+            "title": "巴西央行：上周资金净流出2.31亿美元。",
+            "date_modified": "2025-09-03T17:30:57.000Z"
+        },
+        {
+            "id": 4367912,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9354177.d.html",
+            "title": "印度财政部长：预计削减商品及服务税将对GDP产生非常积极的影响。",
+            "date_modified": "2025-09-03T17:27:04.000Z"
+        },
+        {
+            "id": 4367911,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2407722.d.html",
+            "title": "字节跳动和HTC就VR/XR头显与IngenioSpec公司达成了和解。",
+            "date_modified": "2025-09-03T17:26:38.000Z"
+        },
+        {
+            "id": 4367910,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4088047.d.html",
+            "title": "【阿富汗东北部地震遇难人数升至1457人】当地时间9月3日，阿富汗政府副发言人表示，阿东北部31日地震造成的死亡人数已达到1457人，受伤人数超过3000人。",
+            "date_modified": "2025-09-03T17:24:36.000Z"
+        },
+        {
+            "id": 4367909,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9353898.d.html",
+            "title": "惠誉确认华纳音乐信用评级为 “BBB-”，展望稳定。",
+            "date_modified": "2025-09-03T17:21:14.000Z"
+        },
+        {
+            "id": 4367908,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2407432.d.html",
+            "title": "亚马逊在因维修成本问题引发强烈抗议后暂停配送车队重新部署。",
+            "date_modified": "2025-09-03T17:20:47.000Z"
+        },
+        {
+            "id": 4367907,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9353799.d.html",
+            "title": "美国财政部长：关税动荡并未影响印度商品及服务税改革。",
+            "date_modified": "2025-09-03T17:18:32.000Z"
+        },
+        {
+            "id": 4367906,
+            "content_html": "",
+            "title": "德国总理默茨表示，他也将很快与汽车制造商、汽车供应商展开会谈，以讨论该行业当前面临的挑战。",
+            "date_modified": "2025-09-03T17:16:45.000Z"
+        },
+        {
+            "id": 4367905,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4087698.d.html",
+            "title": "周三（9月3日），美联储隔夜逆回购协议（RRP）使用规模为179.23 亿美元。",
+            "date_modified": "2025-09-03T17:16:42.000Z"
+        },
+        {
+            "id": 4367904,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2407238.d.html",
+            "title": "消息人士称，沙特阿美计划最快本月发售美元伊斯兰债券。",
+            "date_modified": "2025-09-03T17:16:08.000Z"
+        },
+        {
             "id": 4367903,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7470901.d.html",
@@ -275,417 +681,6 @@
             "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2405279.d.html",
             "title": "市场资讯：亚马逊送货车维修费用高昂，面临强烈反对。",
             "date_modified": "2025-09-03T16:52:50.000Z"
-        },
-        {
-            "id": 4367863,
-            "content_html": "",
-            "title": "白宫官员：特朗普在椭圆形办公室发表讲话时提及的是计划与泽连斯基进行的电话通话，而非与普京的通话。",
-            "date_modified": "2025-09-03T16:51:50.000Z"
-        },
-        {
-            "id": 4367862,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9351274.d.html",
-            "title": "印度财政部长：农产品、拖拉机、土壤制备机械的税率降至5%。",
-            "date_modified": "2025-09-03T16:49:39.000Z"
-        },
-        {
-            "id": 4367861,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4085252.d.html",
-            "title": "印度财政部长：水泥税率从28%降至18%。",
-            "date_modified": "2025-09-03T16:49:33.000Z"
-        },
-        {
-            "id": 4367860,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9351264.d.html",
-            "title": "博柏利上涨4%。",
-            "date_modified": "2025-09-03T16:49:25.000Z"
-        },
-        {
-            "id": 4367859,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9351217.d.html",
-            "title": "伊拉克石油部文件显示，伊拉克8月石油平均日出口量为338万桶。",
-            "date_modified": "2025-09-03T16:48:53.000Z"
-        },
-        {
-            "id": 4367858,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2404943.d.html",
-            "title": "印度财政部长：小型汽车税率降至18%。",
-            "date_modified": "2025-09-03T16:48:51.000Z"
-        },
-        {
-            "id": 4367857,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4085140.d.html",
-            "title": "印度财政部长：空调、电视机、洗碗机的税率降至18%。",
-            "date_modified": "2025-09-03T16:48:10.000Z"
-        },
-        {
-            "id": 4367856,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9351109.d.html",
-            "title": "博柏利（BURBERRY）将在缺席一年后重新加入英国富时100指数。",
-            "date_modified": "2025-09-03T16:47:42.000Z"
-        },
-        {
-            "id": 4367855,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9351036.d.html",
-            "title": "印度财政部长：面向普通民众和中产阶级的商品税率从18%、12%降至5%。",
-            "date_modified": "2025-09-03T16:46:59.000Z"
-        },
-        {
-            "id": 4367854,
-            "content_html": "",
-            "title": "欧洲央行管委兼法国央行行长Villeroy抨击美国总统特朗普对美联储（独立性）的强势攻击。",
-            "date_modified": "2025-09-03T16:46:09.000Z"
-        },
-        {
-            "id": 4367853,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2404589.d.html",
-            "title": "印度财政部长：商品及服务税（GST）合理化调整在多数情况下将降低税率。",
-            "date_modified": "2025-09-03T16:45:13.000Z"
-        },
-        {
-            "id": 4367852,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9350918.d.html",
-            "title": "印度财政部长：下调商品及服务税（GST）税率的决定是一致通过的。",
-            "date_modified": "2025-09-03T16:44:15.000Z"
-        },
-        {
-            "id": 4367851,
-            "content_html": "",
-            "title": "现货黄金日内涨幅达到1.00%，报3568.74美元/盎司；COMEX黄金期货主力最新报3632.70美元/盎司，日内涨1.13%。",
-            "date_modified": "2025-09-03T16:44:10.000Z"
-        },
-        {
-            "id": 4367850,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2404500.d.html",
-            "title": "【全球债市抛售潮过后：英国政府30/50年期融资成本至多下跌10个基点】周三（9月3日）欧市尾盘，英国10年期国债收益率跌5.2个基点，报4.748%，北京时间15:33微涨至4.845%刷新日高，随后持续震荡下挫，22:40刷新日低至4.742%。两年期英债收益率跌2.2个基点，报3.960%，日内大部分时间低位震荡。30年期英债收益率跌9.0个基点，报5.603%，欧股盘初涨至5.748%，随后逐步走低；50年期英债收益率跌10.0个基点，报4.904%，欧股盘初一度达到5.056%，随后持续走低。2/10年期英债收益率利差跌3.075个基点，报+78.558个基点。",
-            "date_modified": "2025-09-03T16:43:14.000Z"
-        },
-        {
-            "id": 4367849,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7468217.d.html",
-            "title": "印度财政部长：商品及服务税（GST）将仅设两个税率档次。",
-            "date_modified": "2025-09-03T16:43:06.000Z"
-        },
-        {
-            "id": 4367848,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9350757.d.html",
-            "title": "特朗普将要求美国最高法院推翻其卡罗尔性虐待案的判决。",
-            "date_modified": "2025-09-03T16:41:10.000Z"
-        },
-        {
-            "id": 4367847,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9350726.d.html",
-            "title": "美国法官就撤销波音公司独立监管一事质问美国司法部，但未立即作出裁决。",
-            "date_modified": "2025-09-03T16:40:17.000Z"
-        },
-        {
-            "id": 4367846,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2404009.d.html",
-            "title": "美国玻璃制造商康宁公司股价短线走低，现跌超2%。",
-            "date_modified": "2025-09-03T16:36:31.000Z"
-        },
-        {
-            "id": 4367845,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9350154.d.html",
-            "title": "【萨默斯批评金融界的沉默 警告美联储公信力危机将酿灾祸】美国前财政部长劳伦斯·萨默斯警告称，尽管迄今金融市场对美联储独立性的担忧有限，但局势“可能会非常迅速地转变”。萨默斯说，“我们正处于美联储信誉危机的山脚，眼前是一片完全前所未见的领域。”萨默斯提到，特朗普要求美联储降息约三个百分点，以及对美联储主席鲍威尔的严词批评。萨默斯强调，特朗普试图在“没有任何正当程序”的情况下罢免理事丽莎·库克，并有报道说特朗普提名的人员可能试图改组地区联储银行的领导层。萨默斯认为金融界当下的沉默“令人不安”。",
-            "date_modified": "2025-09-03T16:35:33.000Z"
-        },
-        {
-            "id": 4367844,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9349757.d.html",
-            "title": "美国国务卿鲁比奥在墨西哥会见墨西哥总统辛鲍姆。",
-            "date_modified": "2025-09-03T16:33:13.000Z"
-        },
-        {
-            "id": 4367843,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4083608.d.html",
-            "title": "【中国商务部裁定：对康宁等美国公司征收最高78.2%的反倾销税】中国商务部裁定，美国光纤生产商和出口商通过改变贸易模式的方式向中国出口相关截止波长位移单模光纤（G.654.C光纤），不具有充分的商业合理性，削弱了现行反倾销措施的实施效果，构成了对原产于美国的进口非色散位移单模光纤反倾销措施的规避。对各公司征收的反倾销税税率如下：德拉克通信美国公司 78.2%，康宁公司37.9%，OFS-费特有限责任公司 33.3%，其他美国公司78.2%。",
-            "date_modified": "2025-09-03T16:32:23.000Z"
-        },
-        {
-            "id": 4367842,
-            "content_html": "",
-            "title": "【商务部：9月4日起将原产于美国的进口非色散位移单模光纤现行反倾销税税率适用于原产于美国的进口相关截止波长位移单模光纤】商务部公布对原产于美国的进口相关截止波长位移单模光纤反规避调查的裁决。商务部裁定，美国光纤生产商和出口商通过改变贸易模式的方式向中国出口相关截止波长位移单模光纤（G.654.C光纤），不具有充分的商业合理性，削弱了现行反倾销措施的实施效果，构成了对原产于美国的进口非色散位移单模光纤反倾销措施的规避。根据调查结果，商务部向国务院关税税则委员会提出调整征税范围的建议，国务院关税税则委员会根据商务部的建议作出决定，依据相关规定，自2025年9月4日起，将原产于美国的进口非色散位移单模光纤现行反倾销税税率适用于原产于美国的进口相关截止波长位移单模光纤。",
-            "date_modified": "2025-09-03T16:22:02.000Z"
-        },
-        {
-            "id": 4367841,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9347766.d.html",
-            "title": "印度部长称，新的商品及服务税（GST）税率将于9月22日起生效。",
-            "date_modified": "2025-09-03T16:21:27.000Z"
-        },
-        {
-            "id": 4367840,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2402291.d.html",
-            "title": "以色列国防军：因也门发射炮弹，以色列发出警报。",
-            "date_modified": "2025-09-03T16:21:13.000Z"
-        },
-        {
-            "id": 4367839,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9347664.d.html",
-            "title": "英国财政大臣里夫斯：英国“未能免受”全球借贷成本上升的影响。",
-            "date_modified": "2025-09-03T16:20:47.000Z"
-        },
-        {
-            "id": 4367838,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4081488.d.html",
-            "title": "英国财政大臣里夫斯：“严肃的经济学家”并不认为英国需要国际货币基金组织的帮助。",
-            "date_modified": "2025-09-03T16:19:44.000Z"
-        },
-        {
-            "id": 4367837,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2402123.d.html",
-            "title": "美国佛罗里达州计划终止所有州级疫苗强制令，包括针对儿童入学的疫苗强制令。",
-            "date_modified": "2025-09-03T16:19:18.000Z"
-        },
-        {
-            "id": 4367836,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9347398.d.html",
-            "title": "标普500指数涨0.3%，道指跌171点跌幅0.4%。",
-            "date_modified": "2025-09-03T16:18:59.000Z"
-        },
-        {
-            "id": 4367835,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9347278.d.html",
-            "title": "以色列军方：已确认从也门向以色列发射了导弹，并正在努力进行拦截。",
-            "date_modified": "2025-09-03T16:18:11.000Z"
-        },
-        {
-            "id": 4367834,
-            "content_html": "",
-            "title": "英国财政大臣里夫斯称，英国国家经济社会研究院近年来“数据有误”，驳斥了其对英国500亿英镑预算缺口的预测。",
-            "date_modified": "2025-09-03T16:17:14.000Z"
-        },
-        {
-            "id": 4367833,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4080723.d.html",
-            "title": "【普京结束对华访问】当地时间9月3日晚，俄罗斯总统普京结束对中国的正式访问，启程前往符拉迪沃斯托克。",
-            "date_modified": "2025-09-03T16:14:53.000Z"
-        },
-        {
-            "id": 4367832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4080516.d.html",
-            "title": "特朗普：与普京谈话后我将知道该如何应对俄罗斯。",
-            "date_modified": "2025-09-03T16:14:05.000Z"
-        },
-        {
-            "id": 4367831,
-            "content_html": "",
-            "title": "加拿大金融监管机构：由于不确定性，住房市场需求下降。房价仅小幅下跌。体系内资本充足，足以应对房地产市场的任何冲击。",
-            "date_modified": "2025-09-03T16:13:50.000Z"
-        },
-        {
-            "id": 4367830,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4080241.d.html",
-            "title": "美国众议院委员会就环保署相关行动对国家科学院展开调查。",
-            "date_modified": "2025-09-03T16:12:34.000Z"
-        },
-        {
-            "id": 4367829,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7465031.d.html",
-            "title": "特朗普：几天内将与普京通话。",
-            "date_modified": "2025-09-03T16:12:21.000Z"
-        },
-        {
-            "id": 4367828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9346184.d.html",
-            "title": "特朗普：普京不久将与我交谈。",
-            "date_modified": "2025-09-03T16:12:10.000Z"
-        },
-        {
-            "id": 4367827,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4080075.d.html",
-            "title": "特朗普就关税案：我想我们将不得不取消贸易协议。",
-            "date_modified": "2025-09-03T16:11:38.000Z"
-        },
-        {
-            "id": 4367826,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7464929.d.html",
-            "title": "特朗普：美国可能富有也可能贫穷取决于最高法院对关税的审理结果。",
-            "date_modified": "2025-09-03T16:11:21.000Z"
-        },
-        {
-            "id": 4367825,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2401120.d.html",
-            "title": "特朗普：最高法院正审理一起与关税相关的重大案件。",
-            "date_modified": "2025-09-03T16:10:38.000Z"
-        },
-        {
-            "id": 4367824,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2401058.d.html",
-            "title": "印度部长称，由于商品和服务减税，印度政府预计税收总收入损失4770亿卢比。",
-            "date_modified": "2025-09-03T16:10:11.000Z"
-        },
-        {
-            "id": 4367823,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9345809.d.html",
-            "title": "可口可乐股价触及盘中低点。",
-            "date_modified": "2025-09-03T16:10:05.000Z"
-        },
-        {
-            "id": 4367822,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7464704.d.html",
-            "title": "特朗普：关税对美国的成功至关重要。",
-            "date_modified": "2025-09-03T16:09:18.000Z"
-        },
-        {
-            "id": 4367821,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9345538.d.html",
-            "title": "特朗普：可能有一天用关税取代所得税。",
-            "date_modified": "2025-09-03T16:08:27.000Z"
-        },
-        {
-            "id": 4367820,
-            "content_html": "",
-            "title": "加拿大金融事务监管局负责人：世界正经历持续的地缘政治变化时期，不确定性给模型和加拿大金融行业带来风险。加拿大金融行业持续保持高水平的韧性。",
-            "date_modified": "2025-09-03T16:08:12.000Z"
-        },
-        {
-            "id": 4367819,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2400749.d.html",
-            "title": "波兰总统：美军驻扎波兰以确保安全。",
-            "date_modified": "2025-09-03T16:07:30.000Z"
-        },
-        {
-            "id": 4367818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9345201.d.html",
-            "title": "波兰总统纳夫罗茨基在美国白宫椭圆形办公室发表讲话。",
-            "date_modified": "2025-09-03T16:06:54.000Z"
-        },
-        {
-            "id": 4367817,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4079112.d.html",
-            "title": "【南部战区新闻发言人就菲澳加联合巡航发表谈话】南部战区新闻发言人田军里空军大校表示，9月3日，中国人民解放军南部战区海军位南海海域进行例行巡航。菲律宾拉拢域外国家进行所谓“联合巡航”，破坏地区和平稳定。战区部队时刻保持高度戒备，坚决捍卫国家领土主权和海洋权益，任何搅局南海、制造热点的企图都不可能得逞。",
-            "date_modified": "2025-09-03T16:06:23.000Z"
-        },
-        {
-            "id": 4367816,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9344828.d.html",
-            "title": "特朗普：我们将帮助波兰自卫。",
-            "date_modified": "2025-09-03T16:04:51.000Z"
-        },
-        {
-            "id": 4367815,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7464032.d.html",
-            "title": "特朗普：从未考虑过从波兰撤军。",
-            "date_modified": "2025-09-03T16:04:43.000Z"
-        },
-        {
-            "id": 4367814,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9344777.d.html",
-            "title": "特朗普：考虑从其他国家撤军。",
-            "date_modified": "2025-09-03T16:04:35.000Z"
-        },
-        {
-            "id": 4367813,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpy4078716.d.html",
-            "title": "特朗普：美国与波兰有着非常特殊的关系。",
-            "date_modified": "2025-09-03T16:04:23.000Z"
-        },
-        {
-            "id": 4367812,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7463593.d.html",
-            "title": "印度商品及服务税委员会同意5%、18%的双税率。",
-            "date_modified": "2025-09-03T16:03:20.000Z"
-        },
-        {
-            "id": 4367811,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9344237.d.html",
-            "title": "Instagram推出首款专为苹果iPad设计的应用程序。",
-            "date_modified": "2025-09-03T16:02:30.000Z"
-        },
-        {
-            "id": 4367810,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2399489.d.html",
-            "title": "美国本田：8月总销量达132,734辆。",
-            "date_modified": "2025-09-03T16:02:08.000Z"
-        },
-        {
-            "id": 4367809,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7463122.d.html",
-            "title": "印度商品及服务税委员会同意实行双税率。",
-            "date_modified": "2025-09-03T16:01:46.000Z"
-        },
-        {
-            "id": 4367808,
-            "content_html": "",
-            "title": "俄罗斯经济部表示，截至9月1日，年度消费者通胀率为8.28%，而一周前为8.43%。",
-            "date_modified": "2025-09-03T16:01:22.000Z"
-        },
-        {
-            "id": 4367807,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpz2399266.d.html",
-            "title": "特朗普：可能前往路易斯安那州处理犯罪问题。",
-            "date_modified": "2025-09-03T16:01:07.000Z"
-        },
-        {
-            "id": 4367806,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxpw7462968.d.html",
-            "title": "特朗普：可能会整顿新奥尔良。",
-            "date_modified": "2025-09-03T16:01:00.000Z"
-        },
-        {
-            "id": 4367805,
-            "content_html": "",
-            "title": "俄罗斯9月1日当周CPI周环比下降0.08%，2025年迄今CPI累计上升4.10%。",
-            "date_modified": "2025-09-03T16:00:49.000Z"
-        },
-        {
-            "id": 4367804,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-04/detail-infpfxqc9343752.d.html",
-            "title": "美国总统特朗普：（谈及谈爱泼斯坦档案）这是民主党永无止境的骗局。",
-            "date_modified": "2025-09-03T16:00:00.000Z"
         }
     ]
 }

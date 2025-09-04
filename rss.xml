@@ -4,18 +4,374 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 04 Sep 2025 19:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 20:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[微软：每所美国高中都可以免费使用Gemini for Education。]]></title>
+            <title><![CDATA[博通第三季度基础设施软件净营收67.9亿美元，第三季度半导体解决方案净营收91.7亿美元。]]></title>
+            <guid>4369889</guid>
+            <pubDate>Thu, 04 Sep 2025 20:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博通股价盘后上涨2%，公司发布的第四季度人工智能芯片销售预测高于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpav1255752.d.html</link>
+            <guid>4369888</guid>
+            <pubDate>Thu, 04 Sep 2025 20:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美元指数4日上涨】衡量美元对六种主要货币的美元指数当天上涨0.21%，在汇市尾市收于98.348。截至纽约汇市尾市，1欧元兑换1.1644美元，低于前一交易日的1.1662美元；1英镑兑换1.3426美元，低于前一交易日的1.3442美元。1美元兑换148.56日元，高于前一交易日的147.97日元；1美元兑换0.8063瑞士法郎，高于前一交易日的0.8040瑞士法郎；1美元兑换1.3829加元，高于前一交易日的1.3797加元；1美元兑换9.4732瑞典克朗，高于前一交易日的9.4280瑞典克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6319449.d.html</link>
+            <guid>4369887</guid>
+            <pubDate>Thu, 04 Sep 2025 20:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博通公司第四季度营收展望约为174亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2904288.d.html</link>
+            <guid>4369886</guid>
+            <pubDate>Thu, 04 Sep 2025 20:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博通第三财季调整后每股收益1.69美元，预估为1.67美元；营收159.52亿美元，上年同期130.72亿美元，市场预期158.3亿美元。]]></title>
+            <guid>4369885</guid>
+            <pubDate>Thu, 04 Sep 2025 20:16:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博通（Broadcom）预计第四季度人工智能（AI）半导体业务营收为 62 亿美元，市场预期为 58.2 亿美元。]]></title>
+            <guid>4369884</guid>
+            <pubDate>Thu, 04 Sep 2025 20:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露乐蒙（Lululemon）表示，关税导致其上半年毛利润净减少 1000 万美元。]]></title>
+            <guid>4369883</guid>
+            <pubDate>Thu, 04 Sep 2025 20:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[好市多（Costco）第四季度销售额844亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6319386.d.html</link>
+            <guid>4369882</guid>
+            <pubDate>Thu, 04 Sep 2025 20:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开市客公司8月同店销售总额+6.3％。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2904262.d.html</link>
+            <guid>4369881</guid>
+            <pubDate>Thu, 04 Sep 2025 20:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际油价4日下跌】截至当天收盘，纽约商品交易所10月交货的轻质原油期货价格下跌49美分，收于每桶63.48美元，跌幅为0.77%；11月交货的伦敦布伦特原油期货价格下跌61美分，收于每桶66.99美元，跌幅为0.90%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2904222.d.html</link>
+            <guid>4369880</guid>
+            <pubDate>Thu, 04 Sep 2025 20:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露乐蒙（Lululemon）首席财务官（CFO）表示，公司正应对包括关税在内的各项挑战。]]></title>
+            <guid>4369879</guid>
+            <pubDate>Thu, 04 Sep 2025 20:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据知情人士透露，Paulson & Co.出售121万股Acadian股票，均价48.15美元，位于指引区间48.15-50.19美元的底部。]]></title>
+            <guid>4369878</guid>
+            <pubDate>Thu, 04 Sep 2025 20:13:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国预算委员会批准2025年预算，为议会批准铺平道路。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6319321.d.html</link>
+            <guid>4369877</guid>
+            <pubDate>Thu, 04 Sep 2025 20:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（9月4日），彭博电动汽车价格回报指数跌1.30%，报2986.47点。成分股中，日本电产株式会社东京股价收跌22.44%，蔚来集团H股跌6.42%，宣布裁员方案的“特斯拉劲敌”Rivian跌约5%表现倒数第三。在收涨的三只成分股里，理想汽车H股涨0.16%，智利化工矿业公司（SQM）涨1.30%，特斯拉涨超1%。]]></title>
+            <guid>4369876</guid>
+            <pubDate>Thu, 04 Sep 2025 20:12:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SAMSARA股价上涨10%，第二季度毛利率和营收超过预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2904119.d.html</link>
+            <guid>4369875</guid>
+            <pubDate>Thu, 04 Sep 2025 20:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰哈尔科夫州州长称，俄罗斯无人机袭击造成该州三人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8170078.d.html</link>
+            <guid>4369874</guid>
+            <pubDate>Thu, 04 Sep 2025 20:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露乐蒙（Lululemon）二季度净营收25.3亿美元，分析师预期25.4亿美元。预计三季度净营收24.7亿-25.0亿美元，分析师预期25.6亿美元。]]></title>
+            <guid>4369873</guid>
+            <pubDate>Thu, 04 Sep 2025 20:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露乐蒙（Lululemon）第二季度美洲地区同店销售额（剔除汇率影响）下降 3%，市场预期为下降 0.88%。]]></title>
+            <guid>4369872</guid>
+            <pubDate>Thu, 04 Sep 2025 20:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露乐蒙（Lululemon）首席执行官（CEO）对产品执行环节的部分表现感到失望。]]></title>
+            <guid>4369871</guid>
+            <pubDate>Thu, 04 Sep 2025 20:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DocuSign预计全年营收31.9亿-32.0亿美元，公司原本预计31.5亿-31.6亿美元。]]></title>
+            <guid>4369870</guid>
+            <pubDate>Thu, 04 Sep 2025 20:07:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LULULEMON股价下跌12%，此前下调了全年每股收益和销售预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8169965.d.html</link>
+            <guid>4369869</guid>
+            <pubDate>Thu, 04 Sep 2025 20:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露乐蒙（Lululemon）将本财年每股收益（EPS）预期下调至 12.77 至 12.97 美元，此前预期为 14.58 至 14.78 美元。]]></title>
+            <guid>4369868</guid>
+            <pubDate>Thu, 04 Sep 2025 20:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露乐蒙（Lululemon）第二季度毛利率为 58.5%，市场预期为 57.5%。]]></title>
+            <guid>4369867</guid>
+            <pubDate>Thu, 04 Sep 2025 20:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿里巴巴宣布开始进行发行在外的高级票据的置换。启动对2035年到期的11.5亿美元票据的交换要约。]]></title>
+            <guid>4369866</guid>
+            <pubDate>Thu, 04 Sep 2025 20:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿里巴巴：启动对2035年到期的11.5亿美元票据的交换要约。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2903664.d.html</link>
+            <guid>4369864</guid>
+            <pubDate>Thu, 04 Sep 2025 20:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股三大股指收涨 亚马逊创5月份以来最大涨幅】美股三大股指收涨。道指涨0.77%，纳指涨0.98%，标普500指数涨0.83%。纳斯达克100指数上涨0.9%。亚马逊股价上涨4.3%，创下5月份以来的最大涨幅。英特尔涨超2%，特斯拉涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6318640.d.html</link>
+            <guid>4369863</guid>
+            <pubDate>Thu, 04 Sep 2025 20:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股周四收高。疲软的ADP私营就业报告使投资者认为美联储有理由在9月降息。市场将注意力转移到周五将公布的8月非农就业数据。道指收涨0.77%，纳指收高0.98%，标普500指数收高0.84%。]]></title>
+            <guid>4369862</guid>
+            <pubDate>Thu, 04 Sep 2025 20:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克金龙中国指数初步收跌1.1%。热门中概股里，阿里巴巴、小马智行、蔚来初步收跌超3%，小鹏、小米跌超2%，网易、腾讯跌超1%，台积电和百度则涨超1%，房多多涨18%。]]></title>
+            <guid>4369861</guid>
+            <pubDate>Thu, 04 Sep 2025 20:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国股市涨幅扩大，纳斯达克综合指数上涨1.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2903559.d.html</link>
+            <guid>4369860</guid>
+            <pubDate>Thu, 04 Sep 2025 20:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普请求最高法院允许他解雇FTC专员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpav1254729.d.html</link>
+            <guid>4369859</guid>
+            <pubDate>Thu, 04 Sep 2025 19:57:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lambda 签署 2 亿美元协议，额外租赁 8,000 块英伟达芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2903474.d.html</link>
+            <guid>4369858</guid>
+            <pubDate>Thu, 04 Sep 2025 19:57:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达今年夏天同意从Lambda租赁1万颗自家的人工智能芯片，四年租金总计13亿美元。]]></title>
+            <guid>4369857</guid>
+            <pubDate>Thu, 04 Sep 2025 19:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达已达成一项价值 15 亿美元的协议，租赁其自研芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6318262.d.html</link>
+            <guid>4369856</guid>
+            <pubDate>Thu, 04 Sep 2025 19:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达已同意从 Lambda 公司租赁其自研的人工智能（AI）芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpav1254516.d.html</link>
+            <guid>4369855</guid>
+            <pubDate>Thu, 04 Sep 2025 19:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达：承诺投入2500万美元支持人工智能教育项目，英伟达正与Study Fetch和CK - 12合作。]]></title>
+            <guid>4369854</guid>
+            <pubDate>Thu, 04 Sep 2025 19:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人工智能（AI）初创公司Sierra Technologies Inc.按100亿美元估值融资3.5亿美元，由Greenoks Capital Partners领投。2024年10月份，该公司按45亿美元估值融资1.75亿美元。该公司帮助开发定制款服务AI agents，由OpenAI主席Bret Taylor和原谷歌母公司Alphabet高管Clayton Bavor创立。]]></title>
+            <guid>4369853</guid>
+            <pubDate>Thu, 04 Sep 2025 19:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：目前正在进行谈判，以确定伊朗与国际原子能机构之间的新合作形式。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8169197.d.html</link>
+            <guid>4369852</guid>
+            <pubDate>Thu, 04 Sep 2025 19:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷国会推翻总统对一项法案的否决，该法案旨在增加支出并加强对残疾人的保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2903100.d.html</link>
+            <guid>4369851</guid>
+            <pubDate>Thu, 04 Sep 2025 19:46:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会（FTC）主席：今天我们就竞业禁止协议的使用问题公开征求意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6317880.d.html</link>
+            <guid>4369850</guid>
+            <pubDate>Thu, 04 Sep 2025 19:45:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧文石油公司将于本月晚些时候对其日产能32万桶的圣约翰炼油厂进行为期30天的检修。]]></title>
+            <guid>4369849</guid>
+            <pubDate>Thu, 04 Sep 2025 19:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【FTC主席批评竞业禁止协议】美国联邦贸易委员会（FTC）主席：作为美国联邦贸易委员会（FTC）主席，我的首要任务之一是保护本国劳动者免受反竞争行为的侵害。当雇主强迫员工签署竞业禁止协议时，他们便能规避来自竞争对手企业的人才竞争。这种做法可能导致薪资水平下降、就业机会减少，以及消费者支付的价格上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6317834.d.html</link>
+            <guid>4369848</guid>
+            <pubDate>Thu, 04 Sep 2025 19:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会（FTC）主席批评竞业禁止协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2902858.d.html</link>
+            <guid>4369847</guid>
+            <pubDate>Thu, 04 Sep 2025 19:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asset Entities公司股价加速下跌，跌幅达22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6317619.d.html</link>
+            <guid>4369846</guid>
+            <pubDate>Thu, 04 Sep 2025 19:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥玉米和大豆油期货涨约0.6%】周四（9月4日）纽约尾盘，彭博谷物分类指数涨0.03%，报29.1442点，全天呈现出V形反转，北京时间22:42曾跌至28.8314点刷新日低。CBOT玉米期货涨0.66%，CBOT小麦期货跌0.38%。CBOT大豆期货涨0.17%，报10.3325美元/蒲式耳，豆粕期货涨0.57%，豆油期货涨0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2902747.d.html</link>
+            <guid>4369845</guid>
+            <pubDate>Thu, 04 Sep 2025 19:39:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【众议院勉强批准能源与水开支草案，加大美国重演权宜性立法的风险】9月4日，美国众议院两名保守派议员倒戈投票，让共和党领袖们在众议院全体表决一份开支立法草案中（214-213票）获胜。一开始对金额为573亿美元的“能源与水”拨款措施投票时，许多共和党成员投了反对票，造成该草案几乎无法通关。来自得克萨斯州的Chip Roy与同僚们交谈了一番，随后改变了投票决定，但仍不忘警告称他和其他人将继续向共和党施压——要求将10月1日开始12个月的开支规模压低至至少是当前的水平。除了Roy，来自亚利桑那州的Andy Biggs也从反对改为支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6316927.d.html</link>
+            <guid>4369844</guid>
+            <pubDate>Thu, 04 Sep 2025 19:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国陆军将华盛顿特区国民警卫队现役命令延长至11月30日】据美国广播公司（ABC）援引两名美国官员报道称，美国陆军将把国民警卫队在首都的现役命令延长至11月30日。官员表示，总统特朗普仍可能缩短或进一步延长这一任务。ABC称，该计划不适用于来自其他州、部署在华盛顿特区的另外1300名士兵。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8168500.d.html</link>
+            <guid>4369843</guid>
+            <pubDate>Thu, 04 Sep 2025 19:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英特尔：2026年将是公司制造技术关键转折点】英特尔首席财务官戴夫·辛斯纳在花旗2025年全球TMT会议上表示，2026年对公司的制造技术至关重要，届时将显示公司是否准备好推进更先进的制程工艺。辛斯纳表示，届时公司才能确定是否批准名为14A的制程技术。实现这一里程碑长期被视为英特尔转型计划的关键环节。“到2026年的某个时候，我们将对进展有更清晰的把握，”辛斯纳表示。辛斯纳重申英特尔只有获得外部客户使用承诺后才会建设14A产线，称这一立场符合财务常识。然而当首席执行官陈立武7月首次阐述此策略时，引发了分析师和投资者的担忧。不推进14A可能意味着英特尔放弃重夺技术领导地位的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpas6316532.d.html</link>
+            <guid>4369842</guid>
+            <pubDate>Thu, 04 Sep 2025 19:34:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Revolut聘请SocGen前首席执行官乌代亚（Oudea）担任西欧区董事长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2902162.d.html</link>
+            <guid>4369841</guid>
+            <pubDate>Thu, 04 Sep 2025 19:30:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股周四尾盘，零售商Gap股价上涨5.2%，此前公司宣布将首先通过Old Navy品牌拓展美妆业务。这标志着该服装零售商的战略转型，其正进入近年来最具韧性的零售领域之一。]]></title>
+            <guid>4369840</guid>
+            <pubDate>Thu, 04 Sep 2025 19:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉：或者在冬天，可远程加热并融化冰雪。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8168100.d.html</link>
+            <guid>4369839</guid>
+            <pubDate>Thu, 04 Sep 2025 19:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉：在离开大楼前，可通过应用程序让你的特斯拉降温。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8168078.d.html</link>
+            <guid>4369838</guid>
+            <pubDate>Thu, 04 Sep 2025 19:26:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[著名科技记者古尔曼：2017年特斯拉Roadster开启预订时，如果有人将所需的定金投入特斯拉股票，他们的收益将超过80万美元。]]></title>
+            <guid>4369837</guid>
+            <pubDate>Thu, 04 Sep 2025 19:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股周四尾盘，光网络系统公司Ciena股价大涨19.8%，此前该公司报告第三财季业绩超预期。Ciena实现每股收益67美分，营收12.2亿美元。FactSet调查的分析师此前预计每股收益53美分，营收17亿美元。第四财季营收指引也超出预期。]]></title>
+            <guid>4369836</guid>
+            <pubDate>Thu, 04 Sep 2025 19:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌承诺未来三年提供1.5亿美元赠款 支持人工智能教育及数字健康发展】谷歌公司在社交平台X宣布：“今日，我们的首席执行官桑达尔・皮查伊谈及了我们在美国开展的、旨在帮助学生与教育工作者接受人工智能培训并提升相关技能的一系列举措。” 谷歌表示，皮查伊的发言重点如下： 美国所有高中均可免费使用Gemini for Education，其中包含Gemini应用中的“引导式学习”等工具。 承诺在未来三年内提供1.5亿美元赠款，用于支持人工智能教育及数字健康领域的发展。这笔赠款中，200万美元将拨付给“繁荣基金”（Flourish Fund），以助力儿童福利类非营利组织为青少年配备取得成功所需的各类工具。 300万美元将捐赠给代码组织（@codeorg），同时还将提供谷歌云（@Google Cloud）信用额度，用于在高中课程中融入人工智能功能。 针对大学生群体，“教育人工智能加速器”项目已从覆盖100所高校扩展至200所。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpav1252414.d.html</link>
+            <guid>4369835</guid>
+            <pubDate>Thu, 04 Sep 2025 19:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股周四尾盘，支付公司贝宝(PayPal)股价下跌1.7%，此前首席财务官杰米·米勒表示，为实现盈利性增长，公司仍"需要完成大量工作"。不过她补充称，对"观察到的诸多不同要素感到鼓舞"。]]></title>
+            <guid>4369834</guid>
+            <pubDate>Thu, 04 Sep 2025 19:22:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美银：美联储9月会议或现严重内部分歧】美国银行预计9月份美联储利率决议将出现严重的内部分歧。鸽派成员沃勒、鲍曼、戴利及有望确认理事提名的米兰可能会推动进一步的降息，而鹰派成员国如哈马克、博斯蒂克、穆萨利姆和施密德则强调通胀风险。即使9月会议上降息25个基点，委员会内部仍可能出现双向异议投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8167990.d.html</link>
+            <guid>4369833</guid>
+            <pubDate>Thu, 04 Sep 2025 19:21:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康菲石油公司在致州政府的通知中称，最早将于11月10日开始裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8167963.d.html</link>
+            <guid>4369832</guid>
+            <pubDate>Thu, 04 Sep 2025 19:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[叙利亚方面表示，叙利亚发展基金正式启动，这将成为可持续发展道路上的新灯塔，也是迈向恢复和重建的战略一步。]]></title>
+            <guid>4369831</guid>
+            <pubDate>Thu, 04 Sep 2025 19:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗分析师马利克在周四的客户报告中表示："我们预计英伟达股票在过去六个月强劲上涨后将暂歇，而黄仁勋10月28日在GTC大会的主题演讲将成为该股的下一个催化剂。"]]></title>
+            <guid>4369830</guid>
+            <pubDate>Thu, 04 Sep 2025 19:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质调查局：阿拉斯加尼科尔斯基西南偏南91公里发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2901888.d.html</link>
+            <guid>4369829</guid>
+            <pubDate>Thu, 04 Sep 2025 19:18:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗认为英伟达短期前景正在转弱】花旗分析师阿蒂夫·马利克在周四给客户的报告中重申对英伟达的买入评级，表示在花旗全球TMT会议上的讨论确认了明年人工智能市场的强劲增长，以及英伟达从GB200向GB300芯片平稳过渡的预期。但马利克指出，在GPU普遍短缺的背景下，谷歌通过向Meta、OpenAI和甲骨文等竞争对手提供张量处理单元（TPU）与英伟达展开间接竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpav1252184.d.html</link>
+            <guid>4369828</guid>
+            <pubDate>Thu, 04 Sep 2025 19:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI计划2026年推出一款由人工智能（AI）支持的就业平台，为企业与那些具备AI技能的应聘人员提供帮助。]]></title>
+            <guid>4369827</guid>
+            <pubDate>Thu, 04 Sep 2025 19:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：德黑兰愿意进行谈判，但需要激励措施。我们准备好开展新的建立信任措施，但必须优先考虑解除制裁和停止威胁。]]></title>
+            <guid>4369826</guid>
+            <pubDate>Thu, 04 Sep 2025 19:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：对于大学生，我们的教育人工智能加速器项目已从 100 所高校扩展到 200 所。]]></title>
+            <guid>4369825</guid>
+            <pubDate>Thu, 04 Sep 2025 19:14:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：每所美国高中都可以免费使用Gemini for Education。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpax8167672.d.html</link>
             <guid>4369824</guid>
             <pubDate>Thu, 04 Sep 2025 19:13:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软：我们承诺在未来三年内提供1.5亿美元的资助，以支持人工智能教育和数字健康。]]></title>
+            <title><![CDATA[谷歌：我们承诺在未来三年内提供1.5亿美元的资助，以支持人工智能教育和数字健康。]]></title>
             <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkpau2901633.d.html</link>
             <guid>4369823</guid>
             <pubDate>Thu, 04 Sep 2025 19:13:04 GMT</pubDate>
@@ -212,367 +568,6 @@
             <title><![CDATA[上期所原油期货2510合约夜盘收跌0.06%，报483.30元人民币/桶。沪金夜盘收跌0.33%，沪银收跌1.14%。]]></title>
             <guid>4369789</guid>
             <pubDate>Thu, 04 Sep 2025 18:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[民主党参议员就芝加哥的军事计划向特朗普政府提出质询。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhux1380076.d.html</link>
-            <guid>4369788</guid>
-            <pubDate>Thu, 04 Sep 2025 18:30:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊：到2028年，提供3000万美元的亚马逊云科技（AWS）推广信贷，以帮助各组织开发教育解决方案。]]></title>
-            <guid>4369787</guid>
-            <pubDate>Thu, 04 Sep 2025 18:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊：到2028年将为400万美国学习者提供人工智能技能培训，为1万名教育工作者提供人工智能课程支持。]]></title>
-            <guid>4369786</guid>
-            <pubDate>Thu, 04 Sep 2025 18:19:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软：微软董事长兼首席执行官萨蒂亚·纳德拉今日参加了白宫人工智能教育特别工作组会议。]]></title>
-            <guid>4369785</guid>
-            <pubDate>Thu, 04 Sep 2025 18:18:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软：在今日白宫人工智能教育特别工作组会议上，微软宣布了一系列新承诺，以支持总统人工智能挑战计划。]]></title>
-            <guid>4369784</guid>
-            <pubDate>Thu, 04 Sep 2025 18:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯表示，关税对经济的影响小于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3029807.d.html</link>
-            <guid>4369783</guid>
-            <pubDate>Thu, 04 Sep 2025 18:15:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：评估关税对通胀数据的全面影响可能需要更长时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3029806.d.html</link>
-            <guid>4369782</guid>
-            <pubDate>Thu, 04 Sep 2025 18:15:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：很高兴看到到目前为止关税并未引发持续的通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhux1379340.d.html</link>
-            <guid>4369781</guid>
-            <pubDate>Thu, 04 Sep 2025 18:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：拒绝评论市场对于9月降息的预期是否正确。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3029804.d.html</link>
-            <guid>4369780</guid>
-            <pubDate>Thu, 04 Sep 2025 18:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普政府将终止以俄罗斯为重点的欧洲安全援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3029788.d.html</link>
-            <guid>4369778</guid>
-            <pubDate>Thu, 04 Sep 2025 18:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：椭圆实验室（Elliptic Labs）与英特尔公司合作，提升英特尔酷睿Ultra和英特尔Evo™版平台上的高端笔记本电脑使用体验。]]></title>
-            <guid>4369777</guid>
-            <pubDate>Thu, 04 Sep 2025 18:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称已控制加沙城40%地区 将继续追击哈马斯】当地时间9月4日晚，以色列国防军发言人艾菲·德弗林表示，军方目前控制着加沙城约40%的地区，并正在推进全面接管加沙城的计划。德弗林称，以色列已于本周开始动员数万名预备役人员，推进对加沙城哈马斯的打击。未来几天，以军的行动将继续扩大和加强，预计哈马斯将在加沙城全力迎战以色列国防军。因此，以军将加大对哈马斯的压力并继续在各个地方追击，“直至其彻底溃败”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8295745.d.html</link>
-            <guid>4369776</guid>
-            <pubDate>Thu, 04 Sep 2025 18:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文件显示：美国联邦航空管理局拟对新商用飞机速度认证作出变更。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhux1379093.d.html</link>
-            <guid>4369775</guid>
-            <pubDate>Thu, 04 Sep 2025 18:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌公司违法植入广告遭法国罚款3.25亿欧元】法国国家信息自由委员会当地时间9月3日在官网说，美国谷歌公司因在其邮箱服务植入广告等行为违反法国相关法律，对其处以3.25亿欧元罚款。法国国家信息自由委员会调查发现，谷歌公司在其Gmail邮箱服务中植入了广告，这些广告以电子邮件形式出现。该委员会认为，依照法国相关法律，显示此类广告需征得用户同意。]]></title>
-            <guid>4369774</guid>
-            <pubDate>Thu, 04 Sep 2025 18:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普周一将在圣经博物馆发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3029439.d.html</link>
-            <guid>4369773</guid>
-            <pubDate>Thu, 04 Sep 2025 18:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府数据显示，巴西8月糖出口量为374万吨，去年同期为392万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8295335.d.html</link>
-            <guid>4369772</guid>
-            <pubDate>Thu, 04 Sep 2025 18:02:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府数据显示，巴西8月纸浆出口量为167.034万吨，去年同期为123.3222万吨。]]></title>
-            <guid>4369771</guid>
-            <pubDate>Thu, 04 Sep 2025 18:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府数据显示，巴西8月出口373,989吨家禽，去年同期为355,821吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3029313.d.html</link>
-            <guid>4369770</guid>
-            <pubDate>Thu, 04 Sep 2025 18:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府数据显示，巴西8月玉米出口量为684.8668万吨，去年同期为606.3155万吨。]]></title>
-            <guid>4369769</guid>
-            <pubDate>Thu, 04 Sep 2025 18:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西贸易部：巴西8月贸易顺差达61.33亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8295302.d.html</link>
-            <guid>4369768</guid>
-            <pubDate>Thu, 04 Sep 2025 18:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府数据显示，巴西8月出口大豆934万吨，去年同期为804万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3029275.d.html</link>
-            <guid>4369767</guid>
-            <pubDate>Thu, 04 Sep 2025 18:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府数据显示，巴西8月牛肉出口量为268,562吨，去年同期为217,409吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3029272.d.html</link>
-            <guid>4369766</guid>
-            <pubDate>Thu, 04 Sep 2025 18:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府数据显示，巴西8月原油出口量为901万吨，去年同期为698万吨。 巴西8月出口铁矿石4021万吨，去年同期为3424万吨。]]></title>
-            <guid>4369765</guid>
-            <pubDate>Thu, 04 Sep 2025 18:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基称乌克兰将“加入欧盟”视为安全保障之一】“志愿者联盟”峰会4日在法国巴黎爱丽舍宫举行。法国总统马克龙、欧盟委员会主席冯德莱恩、乌克兰总统泽连斯基等约30位领导人出席会议，讨论俄乌停火后对乌克兰提供安全保障的细节。部分国家代表通过视频连线参会。乌克兰总统泽连斯基在会后表示，乌克兰将“加入欧盟”视为安全保障之一。此外，泽连斯基在社交媒体上发文称，各国就陆、海、空及网络空间领域提供安全保障的承诺意愿展开讨论、协调立场并就安全担保的具体组成部分进行了磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuu6442317.d.html</link>
-            <guid>4369764</guid>
-            <pubDate>Thu, 04 Sep 2025 18:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国科研团队实现常温氢气异裂】从中国科学院大连化学物理研究所获悉，近日，该研究所王峰研究员团队联合意大利的里雅斯特大学研究人员在光催化氢气异裂领域取得新进展，发展了光催化策略，实现了常温氢气异裂。相关成果于北京时间9月5日在国际学术期刊《科学》发表。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8295252.d.html</link>
-            <guid>4369763</guid>
-            <pubDate>Thu, 04 Sep 2025 18:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：吉利德将“按成本价”且无利润地向全球基金、美国政府的“总统防治艾滋病紧急救援计划”（PEPFAR）提供伦卡帕韦。]]></title>
-            <guid>4369762</guid>
-            <pubDate>Thu, 04 Sep 2025 17:59:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国宣布一项计划，将美国吉利德科学公司的药物来那卡帕韦（lenacapavir）引入艾滋病高负担国家市场。]]></title>
-            <guid>4369761</guid>
-            <pubDate>Thu, 04 Sep 2025 17:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周四（9月4日），韩元兑美元最终跌0.40%，报1395.07韩元，全天大部分时间低位震荡。]]></title>
-            <guid>4369760</guid>
-            <pubDate>Thu, 04 Sep 2025 17:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约总检察长就特朗普5亿美元欺诈罚款判决被撤销一事提出上诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8295076.d.html</link>
-            <guid>4369759</guid>
-            <pubDate>Thu, 04 Sep 2025 17:53:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黄金窗口期到来 美股将迎密集IPO】分析师认为，随着美股市场对美国关税担忧消退，今年9月初至10月中旬，将会是至关重要的IPO窗口，届时将有多家知名企业排队等候，以评估投资者对股市的信心能否经受住美国政治和经济的不确定性考验。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3028955.d.html</link>
-            <guid>4369758</guid>
-            <pubDate>Thu, 04 Sep 2025 17:51:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国8月非农就业料延续疲软势头 失业率或创2021年以来最高】经济学家预计，周五发布的非农就业报告将显示美国就业增速延续疫情以来最疲软表现，扫除美联储降息最后一丝悬念。接受调查的经济学家预测中值为8月新增非农就业人数可能达到7.5万，连续第四个月少于10万。失业率预计上升至4.3%，创2021年以来最高水平。近几个月美国就业增长大幅放缓预计8月份新增非农就业人数将连续第四个月少于10万。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhux1378244.d.html</link>
-            <guid>4369757</guid>
-            <pubDate>Thu, 04 Sep 2025 17:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：日本京都大学与伊藤忠商事将推出低成本个性化干细胞套装。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3028524.d.html</link>
-            <guid>4369756</guid>
-            <pubDate>Thu, 04 Sep 2025 17:45:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货钯金跌2%，现报1119.50美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3028243.d.html</link>
-            <guid>4369755</guid>
-            <pubDate>Thu, 04 Sep 2025 17:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：国务卿鲁比奥宣布将“乔内罗斯帮”（Los Choneros）、“狼帮”（Los Lobos）认定为外国恐怖组织以及特别指定的全球恐怖分子。]]></title>
-            <guid>4369754</guid>
-            <pubDate>Thu, 04 Sep 2025 17:37:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列国防军发布袭击哈马斯高级官员行动画面】当地时间9月4日，以色列国防军公布了此前袭击巴勒斯坦伊斯兰抵抗运动（哈马斯）军事部门发言人兼宣传机构负责人胡达海法·卡卢特（又名“阿布·奥贝达”）的行动视频。以军声明称胡达海法·卡卢特是哈马斯组织的发言人，负责宣传和心理战工作。以军认为，胡达海法·卡卢特的死亡对哈马斯军事部门构成了又一次“重大打击”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuu6440944.d.html</link>
-            <guid>4369753</guid>
-            <pubDate>Thu, 04 Sep 2025 17:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马克龙证实：特朗普批评一些欧盟国家购买俄油】法国总统马克龙在巴黎举行的“自愿联盟”会谈后的新闻发布会上表示，美国总统特朗普批评了一些欧盟国家在乌克兰冲突持续期间继续购买俄罗斯石油。马克龙说：“在这场冲突的一开始，特朗普总统和美国政府以及我们确实都对两个欧盟成员国继续购买俄罗斯石油的决定感到愤怒。我认为这是好事。”他补充说，在今天的会议上，提出了对俄罗斯及其伙伴国家实施新的直接和次级制裁的议题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuu6440881.d.html</link>
-            <guid>4369752</guid>
-            <pubDate>Thu, 04 Sep 2025 17:35:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国西北大学校长辞职，学校与白宫交锋】美国西北大学校长迈克尔·希尔在任三年后辞职，此前三年，他因校园抗议活动、与特朗普政府在研究经费问题上的冲突以及橄榄球项目的欺凌丑闻而饱受争议。希尔在周四宣布卸任的声明中表示：“我很荣幸能够担任西北大学校长。在此期间，我们取得了重大进步，同时也面临着巨大的挑战。”该校董事会将很快任命一位临时校长，接替希尔。西北大学目前正试图与白宫谈判，以释放因校园反犹太主义指控而被冻结的7.9亿美元资金。由于联邦政府对资金的限制，西北大学不得不裁员，这影响到了医学、工程和其他领域的项目。席尔的退出加剧了美国高校的动荡。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8292758.d.html</link>
-            <guid>4369750</guid>
-            <pubDate>Thu, 04 Sep 2025 17:23:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西农业部长：欧盟承认巴西为无禽流感国家，这将允许恢复鸡肉出口。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8292744.d.html</link>
-            <guid>4369749</guid>
-            <pubDate>Thu, 04 Sep 2025 17:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥伦比亚国家石油公司董事会主席表示，由于美国制裁，该公司无法从委内瑞拉购买天然气，也无法收购委内瑞拉石化公司（Monomeros）。]]></title>
-            <guid>4369748</guid>
-            <pubDate>Thu, 04 Sep 2025 17:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VinFast汽车公司第二季度亏损20.342万亿越南盾（合7.7亿美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhux1375996.d.html</link>
-            <guid>4369747</guid>
-            <pubDate>Thu, 04 Sep 2025 17:18:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VinFast汽车公司第二季度营收1.6609万亿越南盾（合6293万美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8292376.d.html</link>
-            <guid>4369746</guid>
-            <pubDate>Thu, 04 Sep 2025 17:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周四（9月4日），美联储隔夜逆回购协议（RRP）使用规模为201.28亿美元，上个交易日报179.23亿美元。]]></title>
-            <guid>4369745</guid>
-            <pubDate>Thu, 04 Sep 2025 17:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利竞争管理局批准意大利邮政（Poste）收购意大利电信（Telecom Italia）股份的交易。]]></title>
-            <guid>4369744</guid>
-            <pubDate>Thu, 04 Sep 2025 17:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国地球科学研究中心（GFZ）：阿富汗东南部发生6.31级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuu6439449.d.html</link>
-            <guid>4369743</guid>
-            <pubDate>Thu, 04 Sep 2025 17:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英特尔股价扩大至2.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhux1375494.d.html</link>
-            <guid>4369742</guid>
-            <pubDate>Thu, 04 Sep 2025 17:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：09月05日00时56分在阿富汗（北纬34.50度，东经70.75度）发生5.5级地震，震源深度10千米。]]></title>
-            <guid>4369741</guid>
-            <pubDate>Thu, 04 Sep 2025 17:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[派拉蒙在大规模削减成本前要求员工每周五天全部到岗办公。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuu6438948.d.html</link>
-            <guid>4369740</guid>
-            <pubDate>Thu, 04 Sep 2025 17:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大国际贸易部长：上周加拿大官员们会见了美国商务部长卢特尼克。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3025807.d.html</link>
-            <guid>4369739</guid>
-            <pubDate>Thu, 04 Sep 2025 17:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英特尔首席财务官表示，70%的制造业务由内部完成，30%由外部合作伙伴承担。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8291712.d.html</link>
-            <guid>4369738</guid>
-            <pubDate>Thu, 04 Sep 2025 17:07:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国西北大学校长因学校与白宫发生冲突而辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuu6438498.d.html</link>
-            <guid>4369737</guid>
-            <pubDate>Thu, 04 Sep 2025 17:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国地球科学研究中心（GFZ）：阿富汗东南部发生6.09级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3025208.d.html</link>
-            <guid>4369736</guid>
-            <pubDate>Thu, 04 Sep 2025 17:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国卫生部长肯尼迪在参议院财政委员会的听证会结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuu6438182.d.html</link>
-            <guid>4369735</guid>
-            <pubDate>Thu, 04 Sep 2025 17:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿鲁比奥就以色列吞并约旦河西岸问题发表讲话称，美国已告知其他国家，承认巴勒斯坦将带来更多问题。]]></title>
-            <guid>4369734</guid>
-            <pubDate>Thu, 04 Sep 2025 17:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta：将推出新功能，允许在帖子中附带长达1万个字符的文本。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8291053.d.html</link>
-            <guid>4369733</guid>
-            <pubDate>Thu, 04 Sep 2025 17:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际铜夜盘收跌0.48%，沪铜收跌0.41%，沪铝收跌0.05%，沪锌收跌0.29%，沪铅收涨0.03%，沪镍收跌0.43%，沪锡收跌0.59%。氧化铝夜盘收跌0.47%，铝合金收跌0.10%。不锈钢夜盘收跌1.63%。]]></title>
-            <guid>4369732</guid>
-            <pubDate>Thu, 04 Sep 2025 17:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普再次请求法院作出裁决，允许他解雇美联储理事库克。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuu6437891.d.html</link>
-            <guid>4369731</guid>
-            <pubDate>Thu, 04 Sep 2025 17:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英特尔首席财务官表示，预计将在未来几周内完成对阿尔特拉（Altera）的收购交易。]]></title>
-            <guid>4369730</guid>
-            <pubDate>Thu, 04 Sep 2025 16:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储调查：企业AI普及率提升，就业冲击暂不明显】美国纽约联储的一项新研究显示，过去一年使用人工智能（AI）的公司显著增加，并且预计还将继续增长，但迄今为止鲜有公司因此裁员。研究发现，约有40%的服务业公司报告使用AI处理任务，高于去年的25%。预计这一比例还将继续增长，因为44%的公司表示将在未来六个月内使用AI。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuw3024560.d.html</link>
-            <guid>4369729</guid>
-            <pubDate>Thu, 04 Sep 2025 16:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿鲁比奥：若收到邀请，美国将研究在厄瓜多尔设立军事基地的提议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8290244.d.html</link>
-            <guid>4369728</guid>
-            <pubDate>Thu, 04 Sep 2025 16:58:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国将削减对部分与俄罗斯接壤欧洲国家的安全资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhux1373748.d.html</link>
-            <guid>4369727</guid>
-            <pubDate>Thu, 04 Sep 2025 16:57:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当被问及接受从美国驱逐的第三国移民的协议时，厄瓜多尔外交部长索默费尔德表示，厄瓜多尔将帮助美国。]]></title>
-            <guid>4369726</guid>
-            <pubDate>Thu, 04 Sep 2025 16:57:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[淡水河谷计划投资670亿巴西雷亚尔（折合123亿美元），用于2030年之前在旗下巴西南部最老旧的五个铁矿石（开采/冶炼）设施进行升级改造。]]></title>
-            <guid>4369725</guid>
-            <pubDate>Thu, 04 Sep 2025 16:56:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：到目前为止，加沙地带的谈判没有取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-05/detail-infpkhuz8289555.d.html</link>
-            <guid>4369724</guid>
-            <pubDate>Thu, 04 Sep 2025 16:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国特使维特科夫周四在巴黎与卡塔尔高级官员会面，讨论了为达成一项能结束加沙战争的人质协议所做的努力。]]></title>
-            <guid>4369723</guid>
-            <pubDate>Thu, 04 Sep 2025 16:55:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

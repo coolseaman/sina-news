@@ -4,11 +4,350 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 11 Sep 2025 17:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 18:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[巴西最高法院小组形成多数意见，判定前总统雅伊尔·博索纳罗参与犯罪组织罪名成立。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1228494.d.html</link>
+            <guid>4381591</guid>
+            <pubDate>Thu, 11 Sep 2025 18:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西最高法院大法官卡门·露西亚投票判定前总统博索纳罗参与犯罪组织罪名成立。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8057663.d.html</link>
+            <guid>4381590</guid>
+            <pubDate>Thu, 11 Sep 2025 18:19:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国寻求重启与制药业的定价谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3400833.d.html</link>
+            <guid>4381589</guid>
+            <pubDate>Thu, 11 Sep 2025 18:18:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国西南航空一波音客机因引擎故障紧急转降】当地时间9月11日，美国西南航空公司的一架波音737-700客机在从美国加利福尼亚州好莱坞伯班克机场起飞后发生引擎故障。据悉，这架客机原本计划飞往“凤凰城”菲尼克斯，在发生故障后被迫转降洛杉矶。西南航空在声明中表示，将为乘客安排其他航班前往凤凰城，并称飞机已安全滑行至洛杉矶国际机场登机口。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1228204.d.html</link>
+            <guid>4381588</guid>
+            <pubDate>Thu, 11 Sep 2025 18:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Qwen3-Next：迈向更极致的训练推理性价比】阿里巴巴通义千问发布下一代基础模型架构Qwen3-Next，并开源了基于该架构的Qwen3-Next-80B-A3B系列模型。他们认为，Context Length Scaling和Total Parameter Scaling是未来大模型发展的两大趋势，为了进一步提升模型在长上下文和大规模总参数下的训练和推理效率，设计了全新的Qwen3-Next的模型结构。该结构相比Qwen3的MoE模型结构,进行了以下核心改进：混合注意力机制、高稀疏度MoE结构、一系列训练稳定友好的优化，以及提升推理效率的多token预测机制。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1227954.d.html</link>
+            <guid>4381587</guid>
+            <pubDate>Thu, 11 Sep 2025 18:14:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行：采矿活动萎缩影响了南部地区的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8056751.d.html</link>
+            <guid>4381586</guid>
+            <pubDate>Thu, 11 Sep 2025 18:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁能源和矿业部表示，7月该国铜产量为228,007公吨，同比下降2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3400184.d.html</link>
+            <guid>4381585</guid>
+            <pubDate>Thu, 11 Sep 2025 18:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马克龙：法国将部署三架“阵风”战斗机协助保护波兰领空。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1227606.d.html</link>
+            <guid>4381584</guid>
+            <pubDate>Thu, 11 Sep 2025 18:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥银行：墨西哥南部第二季度生产力萎缩。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1227511.d.html</link>
+            <guid>4381583</guid>
+            <pubDate>Thu, 11 Sep 2025 18:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行：墨西哥大部分地区生产率增长缓慢。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeeru2789916.d.html</link>
+            <guid>4381582</guid>
+            <pubDate>Thu, 11 Sep 2025 18:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[民意调查机构Datafolha：巴西总统卢拉政府支持率为33%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeeru2789900.d.html</link>
+            <guid>4381581</guid>
+            <pubDate>Thu, 11 Sep 2025 18:07:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【胡塞武装证实对以色列发动弹道导弹袭击】当地时间11日晚间，也门胡塞武装发言人叶海亚·萨雷亚发表讲话称，胡塞武装对以色列实施了两项军事行动。首先，使用一枚“巴勒斯坦-2”型高超音速弹道导弹袭击了以色列内盖夫地区的一个军事目标；其次，使用三架无人机袭击了拉蒙机场和内盖夫地区的一个军事目标。此前，以色列国防军表示，成功拦截了一枚从也门方向发射的弹道导弹，随后内盖夫和阿拉瓦地区多地响起防空警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1227240.d.html</link>
+            <guid>4381580</guid>
+            <pubDate>Thu, 11 Sep 2025 18:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基和美国特使凯洛格在基辅讨论乌克兰的安全和国防问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8055589.d.html</link>
+            <guid>4381579</guid>
+            <pubDate>Thu, 11 Sep 2025 18:05:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：批准拨款3200万美元用于北卡罗来纳州7月份的洪灾救援。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3399693.d.html</link>
+            <guid>4381578</guid>
+            <pubDate>Thu, 11 Sep 2025 18:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华纳兄弟探索涨幅扩大至35%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1227076.d.html</link>
+            <guid>4381577</guid>
+            <pubDate>Thu, 11 Sep 2025 18:03:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院民主党人要求联邦住房金融局监察长复核对美联储理事库克的调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8055200.d.html</link>
+            <guid>4381576</guid>
+            <pubDate>Thu, 11 Sep 2025 18:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国驻印度大使候选人塞尔吉奥·戈尔：特朗普已经邀请印度商务部长皮尤什·戈亚尔于下周访问华盛顿，讨论双边贸易协议问题。]]></title>
+            <guid>4381575</guid>
+            <pubDate>Thu, 11 Sep 2025 18:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部声明：8月美国海关净收入创纪录，达295亿美元，2024年8月为70亿美元。]]></title>
+            <guid>4381574</guid>
+            <pubDate>Thu, 11 Sep 2025 18:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国8月预算支出为6890亿美元，2024年8月为6870亿美元；收入为3440亿美元，2024年8月为3070亿美元。]]></title>
+            <guid>4381573</guid>
+            <pubDate>Thu, 11 Sep 2025 18:00:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国2025财年至今的赤字为1.973万亿美元，而2024财年同期赤字为1.897万亿美元。]]></title>
+            <guid>4381572</guid>
+            <pubDate>Thu, 11 Sep 2025 18:00:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国8月政府预算 -3447.9亿美元，预期 -3400亿美元，前值 -3801亿美元。]]></title>
+            <guid>4381571</guid>
+            <pubDate>Thu, 11 Sep 2025 18:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西航空工业公司首席执行官表示，不考虑为商用喷气式飞机在美国新建装配线。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8054065.d.html</link>
+            <guid>4381570</guid>
+            <pubDate>Thu, 11 Sep 2025 17:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西航空工业公司首席执行官表示，供应链挑战将在2025年和2026年持续存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8054041.d.html</link>
+            <guid>4381569</guid>
+            <pubDate>Thu, 11 Sep 2025 17:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西航空工业公司首席执行官：E2飞机发动机供应“状况良好”，预计欧洲机身部件供应以及E1喷气式飞机所用通用电气发动机供应会出现问题。]]></title>
+            <guid>4381568</guid>
+            <pubDate>Thu, 11 Sep 2025 17:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西航空工业公司首席执行官表示，该公司预计到2028年每年交付100架商用飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3398782.d.html</link>
+            <guid>4381567</guid>
+            <pubDate>Thu, 11 Sep 2025 17:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿里巴巴发布能效更高的QWEN3-NEXT人工智能模型。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3398721.d.html</link>
+            <guid>4381566</guid>
+            <pubDate>Thu, 11 Sep 2025 17:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3Tentos公司高管：巴西2025/26年度大豆产量将达1.8亿吨，预售大豆预计占比19%。]]></title>
+            <guid>4381565</guid>
+            <pubDate>Thu, 11 Sep 2025 17:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华纳兄弟探索公司股价上涨逾27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8053234.d.html</link>
+            <guid>4381564</guid>
+            <pubDate>Thu, 11 Sep 2025 17:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥主要股指涨幅扩大，上涨超2%，触及61,872.81点的历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8053092.d.html</link>
+            <guid>4381563</guid>
+            <pubDate>Thu, 11 Sep 2025 17:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：秘鲁央行最迟将于11月降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1225251.d.html</link>
+            <guid>4381562</guid>
+            <pubDate>Thu, 11 Sep 2025 17:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【优步因歧视残疾乘客遭美国司法部起诉】美国司法部起诉优步公司，指控该公司歧视残疾人士，违反联邦法律。该部门民权部门周四在加州北部联邦法院提起的诉讼中指控优步司机经常拒绝为携带服务性动物或使用可收纳轮椅的乘客提供便利。优步因涉嫌违反《美国残疾人法案》而屡次被乘客起诉。2021年，优步就曾与美国司法部达成和解，同意向数万名乘客支付超过200万美元，并调整政策，此前该公司被指控因残疾而收取歧视性费用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1225166.d.html</link>
+            <guid>4381561</guid>
+            <pubDate>Thu, 11 Sep 2025 17:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国安理会强调，解救人质（包括被哈马斯杀害的人质）以及结束加沙地带的战争必须始终是首要任务。]]></title>
+            <guid>4381560</guid>
+            <pubDate>Thu, 11 Sep 2025 17:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国安理会谴责近期卡塔尔境内发生的袭击事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3397269.d.html</link>
+            <guid>4381559</guid>
+            <pubDate>Thu, 11 Sep 2025 17:43:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国安理会发表声明，表示支持卡塔尔的主权和领土完整。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1224680.d.html</link>
+            <guid>4381558</guid>
+            <pubDate>Thu, 11 Sep 2025 17:43:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国安理会强调缓和局势的重要性，表达对卡塔尔的声援。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeeru2785766.d.html</link>
+            <guid>4381557</guid>
+            <pubDate>Thu, 11 Sep 2025 17:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国有关部门向参议院工作人员发出警报，国会警察正在处理民主党全国委员会 (DNC) 总部发生的一起事件。]]></title>
+            <guid>4381556</guid>
+            <pubDate>Thu, 11 Sep 2025 17:40:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[派拉蒙股价涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1223914.d.html</link>
+            <guid>4381555</guid>
+            <pubDate>Thu, 11 Sep 2025 17:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华纳兄弟探索公司股价延续涨势，最新涨幅达21%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8050814.d.html</link>
+            <guid>4381554</guid>
+            <pubDate>Thu, 11 Sep 2025 17:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普支持堪萨斯州参议员马歇尔竞选连任。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8050621.d.html</link>
+            <guid>4381553</guid>
+            <pubDate>Thu, 11 Sep 2025 17:37:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国寻求一项禁令以防止进一步的违规行为，并请求法院下令优步改进其运营方式、支付损害赔偿以及缴纳一笔民事罚款。]]></title>
+            <guid>4381552</guid>
+            <pubDate>Thu, 11 Sep 2025 17:34:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华纳兄弟探索公司股价涨超14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1222864.d.html</link>
+            <guid>4381551</guid>
+            <pubDate>Thu, 11 Sep 2025 17:34:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[派拉蒙准备在埃里森支持下竞购华纳兄弟探索公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeeru2783849.d.html</link>
+            <guid>4381550</guid>
+            <pubDate>Thu, 11 Sep 2025 17:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【稳定币热潮引发华尔街抢人大战，相关岗位薪资直追企业银行董事总经理】金融科技招聘公司Find创始人Owen Dearn表示，“加密代币领域正掀起一场人才淘金热。”据他估算，过去数月其安排的职位中约80%与稳定币相关。Dearn表示，在美国一家大型传统金融公司担任稳定币战略主管，基本薪资通常为25万至40万美元。他补充道，在英国，担任该职位的人员预计年薪在15万英镑（20.3万美元）至22万英镑之间。在美国，高级合规职位的年薪最高可达35万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeeru2783792.d.html</link>
+            <guid>4381549</guid>
+            <pubDate>Thu, 11 Sep 2025 17:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部指控优步经常拒绝为残疾人提供服务，其中包括携带服务性动物出行或使用可折叠轮椅的人。]]></title>
+            <guid>4381548</guid>
+            <pubDate>Thu, 11 Sep 2025 17:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部指控优步及其司机收取违规附加费。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3394892.d.html</link>
+            <guid>4381547</guid>
+            <pubDate>Thu, 11 Sep 2025 17:31:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大冲撞托儿所的司机被控两项罪名】当地时间9月11日，加拿大安大略省约克区警方称，此前驾驶车辆冲撞一家托儿所的司机现已被指控两项罪名，分别为危险驾驶致人死亡罪和危险驾驶致人受伤罪。据警方介绍，事故造成1名一岁半的男童死亡，6名18个月至3岁大的幼童受伤，其中两名儿童伤势危重。另有3名日托中心工作人员受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8049375.d.html</link>
+            <guid>4381546</guid>
+            <pubDate>Thu, 11 Sep 2025 17:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法庭文件显示，美国司法部起诉优步科技公司违反《美国残疾人法案》。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8049287.d.html</link>
+            <guid>4381545</guid>
+            <pubDate>Thu, 11 Sep 2025 17:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚财政部将削减2026年预算10万亿比索。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3394716.d.html</link>
+            <guid>4381544</guid>
+            <pubDate>Thu, 11 Sep 2025 17:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[扎波罗热核电站俄方任命的管理层表示，乌克兰无人机袭击了该核电站的一处培训中心，暂无人员伤亡报告。]]></title>
+            <guid>4381543</guid>
+            <pubDate>Thu, 11 Sep 2025 17:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西最高法院大法官卡门·露西亚开始就前总统博索纳罗涉嫌发动政变一案进行投票表决。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1221939.d.html</link>
+            <guid>4381542</guid>
+            <pubDate>Thu, 11 Sep 2025 17:27:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西最高法院重启对前总统博索纳罗的审判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeeru2782650.d.html</link>
+            <guid>4381541</guid>
+            <pubDate>Thu, 11 Sep 2025 17:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[优步就美国司法部诉讼发表声明：“我们从根本上不同意”美国司法部（残疾歧视）的指控。]]></title>
+            <guid>4381540</guid>
+            <pubDate>Thu, 11 Sep 2025 17:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空高管：我们希望在2026年和2027年扩大企业客户市场份额。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerv1221580.d.html</link>
+            <guid>4381539</guid>
+            <pubDate>Thu, 11 Sep 2025 17:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国政府官员：要求京东就收购德国Ceconomy AG提供更多信息。Ceconomy对法国电子产品零售商Fnac Darty SA持股大约22%。]]></title>
+            <guid>4381538</guid>
+            <pubDate>Thu, 11 Sep 2025 17:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈萨克斯坦一轻型客车坠沟 造成10人死亡】当地时间11日，哈萨克斯坦曼吉斯套州发生一起严重交通事故。据悉，一辆轻型客车失去控制，在偏离道路后翻入路旁沟渠，有8人当场死亡，另有2人在送医途中死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3394095.d.html</link>
+            <guid>4381537</guid>
+            <pubDate>Thu, 11 Sep 2025 17:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉国防部长：委内瑞拉将保护石化设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeeru2781925.d.html</link>
+            <guid>4381536</guid>
+            <pubDate>Thu, 11 Sep 2025 17:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国航空高管：我们看到未来机票预订需求非常强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerz3393909.d.html</link>
+            <guid>4381535</guid>
+            <pubDate>Thu, 11 Sep 2025 17:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[优步：对已核实的拒单行为采取零容忍政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeeru2781528.d.html</link>
+            <guid>4381534</guid>
+            <pubDate>Thu, 11 Sep 2025 17:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（9月11日），美联储隔夜逆回购协议（RRP）使用规模为268.97亿美元，上个交易日报294.00亿美元。]]></title>
+            <guid>4381532</guid>
+            <pubDate>Thu, 11 Sep 2025 17:16:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国航空高管：计划于第四季度在跨大陆航线上投放空客A321XLR客机。]]></title>
             <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqeerx8046175.d.html</link>
@@ -241,342 +580,6 @@
             <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiw2901516.d.html</link>
             <guid>4381491</guid>
             <pubDate>Thu, 11 Sep 2025 16:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普提名的驻印度大使人选表示，总统已明确表态，印度必须停止购买俄罗斯石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiw2901388.d.html</link>
-            <guid>4381490</guid>
-            <pubDate>Thu, 11 Sep 2025 16:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉内政部长迪奥斯达多·卡韦略表示，上周美国船只撞击事件中遇难的11人无一为“阿拉瓜火车帮”成员。]]></title>
-            <guid>4381489</guid>
-            <pubDate>Thu, 11 Sep 2025 16:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普提名的驻印度大使人选表示，美国正逐步解决与印度关系中的“小问题”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiw2901190.d.html</link>
-            <guid>4381488</guid>
-            <pubDate>Thu, 11 Sep 2025 16:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿鲁比奥：美国计划向菲律宾提供2.5亿美元新援助，以应对严峻的公共卫生挑战。]]></title>
-            <guid>4381485</guid>
-            <pubDate>Thu, 11 Sep 2025 16:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿鲁比奥：美国宣布为菲律宾提供新的卫生领域援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiw2901055.d.html</link>
-            <guid>4381484</guid>
-            <pubDate>Thu, 11 Sep 2025 16:12:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦调查局公布柯克枪击案嫌疑人照片。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcykc3517307.d.html</link>
-            <guid>4381483</guid>
-            <pubDate>Thu, 11 Sep 2025 16:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：近日已扩大在加沙城谢赫拉德万（Sheikh Radwan）郊区和卡夫尔贾巴利亚（Kafr Jabalia）地区的行动。在行动中，第162师的部队发现并摧毁了数十处哈马斯据点，包括诱杀装置、武器库和两条长达数百米的隧道。]]></title>
-            <guid>4381482</guid>
-            <pubDate>Thu, 11 Sep 2025 16:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国政府在一份声明中表示，该联合项目的目标是每月生产数千架无人机，每架无人机的制造成本不到其设计拦截目标的10%。]]></title>
-            <guid>4381481</guid>
-            <pubDate>Thu, 11 Sep 2025 16:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国宣布将批量生产乌克兰设计的拦截无人机，以帮助乌克兰对抗俄罗斯导弹和单向攻击无人机。]]></title>
-            <guid>4381480</guid>
-            <pubDate>Thu, 11 Sep 2025 16:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁公司高管：今年预估关税影响约为2.5亿美元；认为其中大部分（即便不是全部）随着时间推移有望得到弥补。]]></title>
-            <guid>4381479</guid>
-            <pubDate>Thu, 11 Sep 2025 16:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁公司股价从盘中高点回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiz8165763.d.html</link>
-            <guid>4381478</guid>
-            <pubDate>Thu, 11 Sep 2025 16:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁：预计2026年10亿美元养老金支出将减少公司的自由现金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcykc3516246.d.html</link>
-            <guid>4381477</guid>
-            <pubDate>Thu, 11 Sep 2025 16:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄“进步MS-32”货运飞船升空 为国际空间站运送补给】俄罗斯国家航天集团11日发布消息称，莫斯科时间18时54分，“进步MS-32”货运飞船搭乘“联盟-2.1a”运载火箭，从哈萨克斯坦境内的拜科努尔发射场升空，预计将于49小时33分钟后，于莫斯科时间13日的20时27分与国际空间站对接。“进步MS-32”货运飞船的发射是为了向国际空间站运送包括生活物资和实验设备在内的各项补给。据悉，“进步MS-32”货运飞船搭载的补给总重达2516公斤，包括1176公斤固体物资，870公斤燃料，420公斤饮用水，以及50公斤加压气体。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyix1343447.d.html</link>
-            <guid>4381476</guid>
-            <pubDate>Thu, 11 Sep 2025 16:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁：预计今年的关税成本约为2亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiw2899211.d.html</link>
-            <guid>4381475</guid>
-            <pubDate>Thu, 11 Sep 2025 16:04:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银涨超1%，现报41.57美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiz8164980.d.html</link>
-            <guid>4381474</guid>
-            <pubDate>Thu, 11 Sep 2025 16:03:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰国防部长与莱茵金属首席执行官讨论防空问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiz8164879.d.html</link>
-            <guid>4381473</guid>
-            <pubDate>Thu, 11 Sep 2025 16:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁：认为机密航空项目不会收取新费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiw2898628.d.html</link>
-            <guid>4381472</guid>
-            <pubDate>Thu, 11 Sep 2025 16:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰国防部长称，德国莱茵金属公司将在乌克兰建造炮弹生产厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiw2898449.d.html</link>
-            <guid>4381471</guid>
-            <pubDate>Thu, 11 Sep 2025 16:02:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FlightRadar24消息：在现代汽车合资企业上周遭遇移民突击检查后，大韩航空一架包机从亚特兰大起飞前往首尔。]]></title>
-            <guid>4381470</guid>
-            <pubDate>Thu, 11 Sep 2025 16:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[房地美：美国上周30年期按揭贷款/抵押贷款利率6.35%，前值6.50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyix1342540.d.html</link>
-            <guid>4381469</guid>
-            <pubDate>Thu, 11 Sep 2025 16:01:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国二季度家庭净值变动 70862亿美元，前值 -15950亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyiz8164046.d.html</link>
-            <guid>4381468</guid>
-            <pubDate>Thu, 11 Sep 2025 16:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国抵押贷款利率创一年来最大单周跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-12/detail-infqcyix1342183.d.html</link>
-            <guid>4381467</guid>
-            <pubDate>Thu, 11 Sep 2025 16:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：将于周四会见美国特使凯洛格。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiz8163853.d.html</link>
-            <guid>4381466</guid>
-            <pubDate>Thu, 11 Sep 2025 15:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国称将终止对阿富汗回国人员的支持，以应对对女性雇员的限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2897666.d.html</link>
-            <guid>4381465</guid>
-            <pubDate>Thu, 11 Sep 2025 15:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典外交部就波兰无人机袭击事件召见俄罗斯大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcykc3514396.d.html</link>
-            <guid>4381464</guid>
-            <pubDate>Thu, 11 Sep 2025 15:57:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[分析公司VortexaLtd.编制的数据显示，9月前7天，俄罗斯成品油总出口量降至每日196万桶。若按此速度，本月平均出口量将创下近一年来的新低，比8月份下降10%。]]></title>
-            <guid>4381463</guid>
-            <pubDate>Thu, 11 Sep 2025 15:56:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【获释韩国工人乘机离美返韩】当地时间9月11日上午，获释的300多名韩国公民乘包机从美国亚特兰大机场启程返回韩国。当地时间9月4日，美国联邦移民执法部门对位于佐治亚州的现代汽车与LG能源解决方案合资的电池工厂展开突查，拘留了475人，其中包括300多名韩国公民。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2897527.d.html</link>
-            <guid>4381462</guid>
-            <pubDate>Thu, 11 Sep 2025 15:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西方国家应停止向以色列运送武器】本轮巴以冲突爆发以来，西班牙多次批评以色列的军事行动。西班牙外交大臣阿尔瓦雷斯近日表示，西班牙希望欧盟能够全面中止《欧盟-以色列联系国协议》。在接受总台记者采访时，西班牙专家和民众表示，承认巴勒斯坦国是实现和平的重要基础，西方各国应停止向以色列运送武器。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2897435.d.html</link>
-            <guid>4381461</guid>
-            <pubDate>Thu, 11 Sep 2025 15:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达美航空股价下跌3.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcykc3514136.d.html</link>
-            <guid>4381460</guid>
-            <pubDate>Thu, 11 Sep 2025 15:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股涨势持续，阿里巴巴涨超6%，百度涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2897380.d.html</link>
-            <guid>4381459</guid>
-            <pubDate>Thu, 11 Sep 2025 15:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁公司高管：随着第18批次合同的最终确定，第19批次合同授出后，公司积压订单中将新增约150架F-35战机。]]></title>
-            <guid>4381458</guid>
-            <pubDate>Thu, 11 Sep 2025 15:53:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卢卡申科：希望特朗普致力于结束俄乌冲突】据白俄罗斯总统网站11日发布的消息，白总统卢卡申科当天在明斯克会见到访的美国总统特使约翰·科尔时表示，希望美国总统特朗普能坚守承诺，致力于结束俄乌冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcykc3513938.d.html</link>
-            <guid>4381457</guid>
-            <pubDate>Thu, 11 Sep 2025 15:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一天之内股票评级两度被降 苹果的分析师信心指标创五年新低】苹果公司周四被两家机构下调评级，成为市场对这家iPhone制造商持谨慎态度的最新迹象。今年以来，苹果表现大幅落后于其他大型科技股。随着评级下调，苹果的“推荐一致性”（即买入、持有和卖出评级的比例指标）已降至3.9（满分为5分），创2020年初以来最低水平。在彭博追踪的分析师中，仅有55%的人推荐买入该股，在大型科技股中属极低水平。相比之下，英伟达、微软和亚马逊均超过90%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyix1341309.d.html</link>
-            <guid>4381456</guid>
-            <pubDate>Thu, 11 Sep 2025 15:51:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁公司今年将交付190架F-35。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2897044.d.html</link>
-            <guid>4381455</guid>
-            <pubDate>Thu, 11 Sep 2025 15:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁公司高管：正与海军在红海开展激光武器的研发与测试工作，该武器可多次击落无人机。]]></title>
-            <guid>4381454</guid>
-            <pubDate>Thu, 11 Sep 2025 15:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普总统提名的驻印度大使人选表示，总统完全致力于继续与四方机制成员国举行会晤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiz8162932.d.html</link>
-            <guid>4381453</guid>
-            <pubDate>Thu, 11 Sep 2025 15:47:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部新闻发言人就墨西哥拟对有关贸易伙伴提高进口关税税率事答记者问】商务部新闻发言人表示，我们注意到有关报道，将密切关注墨方提税动向，并对有关最终措施进行认真评估。中方一贯主张各方通过平等对话协商解决经贸分歧，反对任何形式的单边主义、保护主义以及歧视性排他性措施，坚决反对各种损害中方利益的做法。中方将根据实际情况采取必要措施，坚决维护自身正当合法权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiz8162929.d.html</link>
-            <guid>4381452</guid>
-            <pubDate>Thu, 11 Sep 2025 15:47:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部向白俄罗斯航空公司“白俄罗斯航空”及其子公司颁发了金融交易通用许可证。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2896893.d.html</link>
-            <guid>4381451</guid>
-            <pubDate>Thu, 11 Sep 2025 15:47:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金价突破1980年通胀调整后的历史高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyix1340790.d.html</link>
-            <guid>4381450</guid>
-            <pubDate>Thu, 11 Sep 2025 15:45:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织（IMF）：美国经济在多年保持韧性之后，正显现出一些压力迹象，国内需求正在放缓，就业增长也在减速。]]></title>
-            <guid>4381449</guid>
-            <pubDate>Thu, 11 Sep 2025 15:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利会议：CSX首席执行官预计第四季度多式联运业务将实现更多增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcykc3513267.d.html</link>
-            <guid>4381448</guid>
-            <pubDate>Thu, 11 Sep 2025 15:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会（FTC）：（此次行动为）利用职权发布命令，开展不具有特定执法目的的广泛研究。]]></title>
-            <guid>4381447</guid>
-            <pubDate>Thu, 11 Sep 2025 15:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦贸易委员会（FTC）：向Alphabet、Character Technologies、Instagram、Meta Platforms、OpenAI、Snap、X.AI发出命令，寻求有关公司如何衡量、测试和监控人工智能聊天机器人对儿童和青少年潜在负面影响的信息。]]></title>
-            <guid>4381446</guid>
-            <pubDate>Thu, 11 Sep 2025 15:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：载有被扣韩国工人的飞机将飞往韩国。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyix1340209.d.html</link>
-            <guid>4381445</guid>
-            <pubDate>Thu, 11 Sep 2025 15:41:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国人民银行与印度尼西亚央行正式启用双边交易本币结算框架】9月11日，中国人民银行与印度尼西亚央行正式启用双边交易本币结算（LCT）框架，将本币结算范围拓展至国际收支全部项目。同日，两国央行还启动了二维码互联互通合作项目。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2896230.d.html</link>
-            <guid>4381444</guid>
-            <pubDate>Thu, 11 Sep 2025 15:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：载有被扣韩国工人的飞机离开亚特兰大。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiz8162186.d.html</link>
-            <guid>4381443</guid>
-            <pubDate>Thu, 11 Sep 2025 15:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白俄罗斯反对派官员称斯塔克维奇试图重新进入白俄罗斯，但被阻止。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcykc3512536.d.html</link>
-            <guid>4381442</guid>
-            <pubDate>Thu, 11 Sep 2025 15:39:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白俄罗斯反对派官员证实，获释囚犯米科拉·斯塔克维奇拒绝离开该国。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiz8162081.d.html</link>
-            <guid>4381441</guid>
-            <pubDate>Thu, 11 Sep 2025 15:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：感谢美国总统特朗普的支持。我们释放所有政治犯的工作仍在继续。]]></title>
-            <guid>4381440</guid>
-            <pubDate>Thu, 11 Sep 2025 15:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：白俄罗斯政治犯获释是个好消息，我很高兴我们的同事米卡莱·希洛也获释。]]></title>
-            <guid>4381439</guid>
-            <pubDate>Thu, 11 Sep 2025 15:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员沃伦希望德意志银行就爱泼斯坦问题在国会作证。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiz8161724.d.html</link>
-            <guid>4381438</guid>
-            <pubDate>Thu, 11 Sep 2025 15:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏富比佣金暴跌近20%，奢侈品市场萎缩】苏富比报告称，由于拍卖会上奢侈品和艺术品的销售额减少，去年佣金和费用收入下降了近20%。根据苏富比控股公司本月在卢森堡提交的合并业绩，这家由电信亿万富翁帕特里克·德拉希控制的拍卖行的总收入从上年的13.6亿美元降至2024年的11.3亿美元。佣金和费用构成了苏富比收入的大部分，其中包括其作为艺术品、汽车和收藏品代理商（通过拍卖或私人销售）所赚取的金额。总体而言，该公司报告2024年税前亏损2.479亿美元。而2023年为1.063亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyix1339444.d.html</link>
-            <guid>4381437</guid>
-            <pubDate>Thu, 11 Sep 2025 15:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[洛克希德·马丁公司高管：不要指望我们在过去几个月披露的机密航空和机密任务系统与训练（MFC）项目上会有额外的费用支出。]]></title>
-            <guid>4381436</guid>
-            <pubDate>Thu, 11 Sep 2025 15:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界最大冰山A23a再断裂 面积单次缩减近20%】俄罗斯北极与南极科学研究所新闻处当地时间9月11日通报称，世界最大冰山A23a再次发生大规模断裂，面积单次缩减近20%。当前其面积仍超过1400平方公里，继续保持世界最大冰山地位。据该研究所冰河水文气象信息中心首席专家波琳娜·索洛休克称，最近几周，A23a分离出四个总面积超800平方公里的大型碎块。巨型冰山A23a目前正向北漂移，部分碎块向相反的西南方向运动。由于体积足够大，冰山和碎块可被船载雷达探测，不会对船舶构成危险。据该所披露，A23a于1986年从南极菲尔希纳冰架脱落，形成初期面积达4170平方公里。由于被卡在了海床上，A23a在威德尔海浅滩搁浅逾30年，随后开始沿南极海岸漂移，2025年初抵达南乔治亚岛附近海域，于1月至5月再次搁浅，此后继续环岛漂移。A23a现位于南乔治亚岛以北130公里处，很可能继续向北移动，并在风和洋流作用下持续崩解。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2895512.d.html</link>
-            <guid>4381435</guid>
-            <pubDate>Thu, 11 Sep 2025 15:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：欧洲央行决策者认为，12月会议是讨论是否需要再次降息，以缓冲美国关税对欧元区经济影响的最现实时间框架。]]></title>
-            <guid>4381434</guid>
-            <pubDate>Thu, 11 Sep 2025 15:34:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员沃伦希望戴蒙和摩根大通高管就爱泼斯坦问题在国会作证。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiw2895377.d.html</link>
-            <guid>4381433</guid>
-            <pubDate>Thu, 11 Sep 2025 15:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员呼吁就摩根大通与杰弗里·爱泼斯坦的关系举行听证会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcykc3511247.d.html</link>
-            <guid>4381432</guid>
-            <pubDate>Thu, 11 Sep 2025 15:33:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国以4.060%的高利率出售四周期国债，按此高利率分配的投标量占投标总量的1.15%。]]></title>
-            <guid>4381431</guid>
-            <pubDate>Thu, 11 Sep 2025 15:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指收盘普涨】欧洲斯托克600指数上涨0.51%。英国富时100指数上涨0.73%；德国DAX指数上涨0.26%。法国CAC 40指数上涨0.76%；西班牙IBEX指数上涨0.59%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-11/detail-infqcyiz8161079.d.html</link>
-            <guid>4381430</guid>
-            <pubDate>Thu, 11 Sep 2025 15:31:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

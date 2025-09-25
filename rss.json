@@ -6,6 +6,395 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4405490,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infruerw6608771.d.html",
+            "title": "派拉蒙任命马坎·德尔拉希姆为首席法务官。",
+            "date_modified": "2025-09-25T20:19:13.000Z"
+        },
+        {
+            "id": 4405489,
+            "content_html": "",
+            "title": "美国联邦航空管理局（FAA）下令将纽瓦克机场的每小时航班起降量上限提升至72架次。",
+            "date_modified": "2025-09-25T20:18:15.000Z"
+        },
+        {
+            "id": 4405488,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infruerr7989154.d.html",
+            "title": "好市多第四财季净利润为26.1亿美元，每股收益5.87美元。",
+            "date_modified": "2025-09-25T20:15:49.000Z"
+        },
+        {
+            "id": 4405485,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infruerr7989142.d.html",
+            "title": "比特币下跌3.61%，现报109365.82美元。",
+            "date_modified": "2025-09-25T20:13:28.000Z"
+        },
+        {
+            "id": 4405481,
+            "content_html": "",
+            "title": "消息人士：最高检察官已收到指示，准备对由民主党捐赠者乔治·索罗斯资助的开放社会基金会展开调查。",
+            "date_modified": "2025-09-25T20:10:47.000Z"
+        },
+        {
+            "id": 4405480,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infruesa0728445.d.html",
+            "title": "俄罗斯总统普京与国际原子能机构秘书长格罗西在克里姆林宫举行双边会谈。",
+            "date_modified": "2025-09-25T20:09:44.000Z"
+        },
+        {
+            "id": 4405479,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infruerw6608639.d.html",
+            "title": "OpenAI正在为数万亿美元的人工智能计划寻找融资途径。",
+            "date_modified": "2025-09-25T20:08:24.000Z"
+        },
+        {
+            "id": 4405478,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infruesa0728205.d.html",
+            "title": "【俄战略轰炸机巡航白令海 美方拦截但不视为威胁】俄罗斯国防部25日晚通报，俄军多架图-95MS战略轰炸机在白令海和鄂霍次克海中立水域上空完成飞行任务。北美防空司令部当天早些时候说，美军战机拦截进入阿拉斯加防空识别区的俄军机，但不将俄方此类常态活动视为威胁。",
+            "date_modified": "2025-09-25T20:07:22.000Z"
+        },
+        {
+            "id": 4405476,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infruerr7988995.d.html",
+            "title": "阿根廷主要股指收盘下跌4%。",
+            "date_modified": "2025-09-25T20:05:31.000Z"
+        },
+        {
+            "id": 4405473,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infruerw6608525.d.html",
+            "title": "美联储戴利：美联储利率降至 3%的中性水平无法解决住房可负担性危机。",
+            "date_modified": "2025-09-25T20:04:10.000Z"
+        },
+        {
+            "id": 4405472,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6739282.d.html",
+            "title": "【热门中概股周四多数上涨】周四热门中概股多数上涨，纳斯达克中国金龙指数涨0.4%。京东涨近1%，百度、理想涨超1%，小鹏、蔚来涨超4%，携程跌超1%。",
+            "date_modified": "2025-09-25T20:02:18.000Z"
+        },
+        {
+            "id": 4405471,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8119689.d.html",
+            "title": "【美股三大股指收盘普跌 英特尔涨超8%】周四美股三大股指收跌，道指跌0.38%，纳指跌0.5%，标普跌0.5%。英特尔已就投资或制造合作事宜与台积电进行接触，股价收涨超8%。Meta、台积电跌超1%，苹果涨超1%，特斯拉跌超4%。",
+            "date_modified": "2025-09-25T20:01:20.000Z"
+        },
+        {
+            "id": 4405470,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8119535.d.html",
+            "title": "土耳其与波音公司达成价值数十亿美元的协议，购买200多架客机。",
+            "date_modified": "2025-09-25T19:56:23.000Z"
+        },
+        {
+            "id": 4405469,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0858092.d.html",
+            "title": "美国货币市场基金资产规模增至创纪录的7.31万亿美元。",
+            "date_modified": "2025-09-25T19:55:53.000Z"
+        },
+        {
+            "id": 4405468,
+            "content_html": "",
+            "title": "特朗普在联合国演讲中宣称存在“失控移民危机”后，美国开始发起一场运动，期望修改国际庇护规则，并称这些规则已经过时且经常被滥用。",
+            "date_modified": "2025-09-25T19:55:42.000Z"
+        },
+        {
+            "id": 4405467,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6739016.d.html",
+            "title": "CoreWeave首席执行官：公司正减少对微软的依赖。",
+            "date_modified": "2025-09-25T19:53:54.000Z"
+        },
+        {
+            "id": 4405466,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8119290.d.html",
+            "title": "美联储戴利：美联储正在为后台办公目的研究人工智能，但距离将其融入系统尚远。",
+            "date_modified": "2025-09-25T19:47:19.000Z"
+        },
+        {
+            "id": 4405465,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8119259.d.html",
+            "title": "思克莱克斯控股公司宣布向达塔沃尔特人工智能公司进行1.5亿美元的比特币战略投资。",
+            "date_modified": "2025-09-25T19:46:23.000Z"
+        },
+        {
+            "id": 4405463,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0857373.d.html",
+            "title": "美联储戴利：这些都是就业市场的警示信号。",
+            "date_modified": "2025-09-25T19:45:53.000Z"
+        },
+        {
+            "id": 4405462,
+            "content_html": "",
+            "title": "美联储戴利：还在关注低求职成功率以及找到一份工作所需的时长，将其作为劳动力市场的领先指标。",
+            "date_modified": "2025-09-25T19:45:33.000Z"
+        },
+        {
+            "id": 4405461,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738811.d.html",
+            "title": "美联储戴利：应届大学毕业生就业困难是我们需要密切关注的问题。",
+            "date_modified": "2025-09-25T19:45:14.000Z"
+        },
+        {
+            "id": 4405459,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738776.d.html",
+            "title": "一位欧洲高级外交官：伊朗核问题谈判失败后，联合国将重新对伊朗实施制裁。",
+            "date_modified": "2025-09-25T19:44:24.000Z"
+        },
+        {
+            "id": 4405458,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8119139.d.html",
+            "title": "也门发射一枚弹道导弹后，以色列中部拉响警报。以色列国防军表示正在努力击落该导弹。",
+            "date_modified": "2025-09-25T19:43:22.000Z"
+        },
+        {
+            "id": 4405457,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8119109.d.html",
+            "title": "美联储戴利：美联储需要监测通胀情况，同时也要关注劳动力市场是否疲软。",
+            "date_modified": "2025-09-25T19:42:58.000Z"
+        },
+        {
+            "id": 4405456,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8119085.d.html",
+            "title": "美联储理事库克向最高法院提起诉讼，力求保住职位。",
+            "date_modified": "2025-09-25T19:42:13.000Z"
+        },
+        {
+            "id": 4405454,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0856862.d.html",
+            "title": "美联储戴利：美国经济形势尚可。",
+            "date_modified": "2025-09-25T19:42:01.000Z"
+        },
+        {
+            "id": 4405453,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8119065.d.html",
+            "title": "美联储理事库克警告最高法院，如果她被解雇，市场将陷入“混乱”。",
+            "date_modified": "2025-09-25T19:41:54.000Z"
+        },
+        {
+            "id": 4405451,
+            "content_html": "",
+            "title": "标普：预计特立尼达和多巴哥未来两到三年经济增长将持续疲软，因近年来石油和天然气产量下降。",
+            "date_modified": "2025-09-25T19:40:17.000Z"
+        },
+        {
+            "id": 4405450,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738543.d.html",
+            "title": "【智利北部地区发生5.3级地震】根据智利大学国家地震中心报告，当地时间9月25日15时11分，智利北部地区发生5.3级地震，震源深度107.9公里。目前暂无人员伤亡及财产损失报告。",
+            "date_modified": "2025-09-25T19:40:11.000Z"
+        },
+        {
+            "id": 4405449,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738517.d.html",
+            "title": "美联储戴利：不应一路加息至中性利率水平，风险太大。",
+            "date_modified": "2025-09-25T19:39:54.000Z"
+        },
+        {
+            "id": 4405448,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738512.d.html",
+            "title": "以色列军方称，已识别出一枚从也门射向以色列的导弹。",
+            "date_modified": "2025-09-25T19:39:48.000Z"
+        },
+        {
+            "id": 4405446,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738459.d.html",
+            "title": "美联储戴利：我们处于“权衡取舍”的境地，需要平衡风险。",
+            "date_modified": "2025-09-25T19:38:59.000Z"
+        },
+        {
+            "id": 4405445,
+            "content_html": "",
+            "title": "标普：特立尼达和多巴哥的财政与外部缓冲能力长期以来一直在逐渐减弱；长期经济增长低迷。",
+            "date_modified": "2025-09-25T19:38:09.000Z"
+        },
+        {
+            "id": 4405444,
+            "content_html": "",
+            "title": "墨西哥卫生机构国家农业、食品卫生、安全和质量服务局（SENASICA）表示，已针对运往墨西哥北部的牲畜实施双重检查制度。",
+            "date_modified": "2025-09-25T19:38:04.000Z"
+        },
+        {
+            "id": 4405443,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738402.d.html",
+            "title": "美联储戴利：随着时间推移，认为还需要进一步降息。",
+            "date_modified": "2025-09-25T19:37:44.000Z"
+        },
+        {
+            "id": 4405442,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0856070.d.html",
+            "title": "美联储戴利：利率仍处于适度的限制性水平。",
+            "date_modified": "2025-09-25T19:37:13.000Z"
+        },
+        {
+            "id": 4405441,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8118759.d.html",
+            "title": "美联储戴利：关税对通胀的影响没有预期那么大，且对劳动力市场的影响更大。",
+            "date_modified": "2025-09-25T19:36:56.000Z"
+        },
+        {
+            "id": 4405438,
+            "content_html": "",
+            "title": "墨西哥卫生机构国家农业卫生、食品安全和质量服务局（SENASICA）表示，新莱昂州的螺旋锥蝇病例得以发现，得益于与美国双边行动计划所确立的相关规程。",
+            "date_modified": "2025-09-25T19:36:23.000Z"
+        },
+        {
+            "id": 4405435,
+            "content_html": "",
+            "title": "墨西哥卫生机构国家农业和食品卫生、安全与质量服务局（SENASICA）表示，已与美国农业部合作建立了用于检测嗜人锥蝇的捕蝇系统。",
+            "date_modified": "2025-09-25T19:35:26.000Z"
+        },
+        {
+            "id": 4405434,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738121.d.html",
+            "title": "专家表示，H1B签证价格上涨可能会对初创企业行业产生不利影响。",
+            "date_modified": "2025-09-25T19:34:14.000Z"
+        },
+        {
+            "id": 4405433,
+            "content_html": "",
+            "title": "刚果民主共和国称，该国每年因走私损失60吨黄金。新任矿业部长希望该国建设新的黄金开采基地，以夺回这些财富。",
+            "date_modified": "2025-09-25T19:33:59.000Z"
+        },
+        {
+            "id": 4405432,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6738051.d.html",
+            "title": "白宫威胁解雇员工后，民主党坚持政府关门立场。",
+            "date_modified": "2025-09-25T19:33:40.000Z"
+        },
+        {
+            "id": 4405429,
+            "content_html": "",
+            "title": "特斯拉在欧洲市场的销量下跌了22%，而同期欧洲电动汽车（EV）整体销量却增长了30%。",
+            "date_modified": "2025-09-25T19:32:05.000Z"
+        },
+        {
+            "id": 4405427,
+            "content_html": "",
+            "title": "美国卫生部长小罗伯特·肯尼迪正在考虑将某些自闭症症状添加到联邦疫苗伤害赔偿名单中。",
+            "date_modified": "2025-09-25T19:30:59.000Z"
+        },
+        {
+            "id": 4405426,
+            "content_html": "",
+            "title": "美国众议院民主党人拟提交针对卫生部长小罗伯特・肯尼迪的弹劾条款，理由是其引发健康领域 “混乱”。",
+            "date_modified": "2025-09-25T19:30:07.000Z"
+        },
+        {
+            "id": 4405424,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6737443.d.html",
+            "title": "【菲佐：进口俄罗斯能源是斯洛伐克最经济选择】当地时间9月25日，斯洛伐克总理菲佐在国民议会质询环节表示，斯洛伐克从俄罗斯进口能源原料的比例仅占2%。因此，斯洛伐克通过购买俄罗斯能源并未对战争资金做出实质性贡献。更何况，天然气和石油供应对斯洛伐克而言不是意识形态问题，而是地理现实问题。菲佐指出，该国别无选择，且无法随意接收任何类型的石油，因为炼油厂需要耗费大量资金和时间进行设备改造。他认为斯洛伐克的利益在于维持从俄罗斯进口能源原材料，因为这是最经济的选择。",
+            "date_modified": "2025-09-25T19:26:58.000Z"
+        },
+        {
+            "id": 4405423,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0854323.d.html",
+            "title": "Meta Platforms推出 “Vibes” 功能。",
+            "date_modified": "2025-09-25T19:25:45.000Z"
+        },
+        {
+            "id": 4405421,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8117839.d.html",
+            "title": "乌克兰总统泽连斯基：准备好在俄乌冲突结束后卸任，并承诺如果停火将举行选举。",
+            "date_modified": "2025-09-25T19:25:19.000Z"
+        },
+        {
+            "id": 4405419,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8117733.d.html",
+            "title": "土耳其能源部长表示，他在访问白宫期间与美国国务卿签署了民用核能合作谅解备忘录。",
+            "date_modified": "2025-09-25T19:22:09.000Z"
+        },
+        {
+            "id": 4405416,
+            "content_html": "",
+            "title": "美国参议院跨党派成员们调查多家科技公司与H-1B签证问题相关的裁员等问题，亚马逊和苹果都在被调查之列。",
+            "date_modified": "2025-09-25T19:21:55.000Z"
+        },
+        {
+            "id": 4405413,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8117683.d.html",
+            "title": "云顶集团（Genting）价值55亿美元的纽约赌场项目获得当地团体支持。",
+            "date_modified": "2025-09-25T19:19:25.000Z"
+        },
+        {
+            "id": 4405412,
+            "content_html": "",
+            "title": "声明显示：道达尔能源尼日利亚公司将以4.08亿美元的价格将其10%的权益转让给壳牌，而埃尼集团旗下的阿吉普公司将支付1.02亿美元收购剩余2.5%的权益。",
+            "date_modified": "2025-09-25T19:18:56.000Z"
+        },
+        {
+            "id": 4405411,
+            "content_html": "",
+            "title": "声明显示：尼日利亚石油监管机构批准道达尔能源尼日利亚公司以5.1亿美元的协议价格，将其在118号海上石油开采许可证（OML 118）中持有的全部12.5%股权出售给壳牌和埃尼集团。",
+            "date_modified": "2025-09-25T19:17:36.000Z"
+        },
+        {
+            "id": 4405409,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8117624.d.html",
+            "title": "美联储理事丽莎·库克向美国最高法院提交针对特朗普试图解雇她一事的回应。",
+            "date_modified": "2025-09-25T19:16:51.000Z"
+        },
+        {
+            "id": 4405408,
+            "content_html": "",
+            "title": "沙特外交大臣在联合国表示，阿拉伯和穆斯林国家已向特朗普明确指出以色列吞并约旦河西岸地区的风险和危害。",
+            "date_modified": "2025-09-25T19:16:18.000Z"
+        },
+        {
+            "id": 4405407,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6737177.d.html",
+            "title": "土耳其和美国将深化核能合作。",
+            "date_modified": "2025-09-25T19:16:09.000Z"
+        },
+        {
+            "id": 4405406,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6737170.d.html",
+            "title": "现货白银上涨3%，至每盎司45.20美元。",
+            "date_modified": "2025-09-25T19:15:52.000Z"
+        },
+        {
+            "id": 4405405,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0853640.d.html",
+            "title": "土耳其与美国签署谅解备忘录。",
+            "date_modified": "2025-09-25T19:15:27.000Z"
+        },
+        {
             "id": 4405403,
             "content_html": "",
             "title": "美国联邦法官：若特朗普政府旗下的国际贸易委员会（ITC）未采取行动，苹果公司Apple Watch的进口将面临风险。但倘若ITC能妥善解决与苹果公司及Masimo公司之间的专利纠纷僵局，或会考虑支持阻止Apple Watch进口的相关举措。",
@@ -286,401 +675,6 @@
             "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8114617.d.html",
             "title": "【美联储理事巴尔呼吁银行资本要求与压力测试脱钩并个性化定制】美联储理事巴尔表示，设定银行资本水平应与压力测试结果分离，并更紧密地根据银行自身状况定制。他正在寻找方法，在行业呼吁放宽测试的情况下保持测试的严格性。巴尔反对提前提高压力测试的透明度并将其与公式化的资本要求挂钩。",
             "date_modified": "2025-09-25T18:20:37.000Z"
-        },
-        {
-            "id": 4405350,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6734178.d.html",
-            "title": "巴拿马运河管理局：立法者批准了2025/26财年52.1亿美元的预算。",
-            "date_modified": "2025-09-25T18:20:20.000Z"
-        },
-        {
-            "id": 4405349,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6734099.d.html",
-            "title": "美国卫生部长RFK Jr.考虑扩大疫苗接种计划。",
-            "date_modified": "2025-09-25T18:19:16.000Z"
-        },
-        {
-            "id": 4405348,
-            "content_html": "",
-            "title": "花旗集团高管：在与墨西哥当局通话时，花旗集团表达了继续拓展其在墨西哥机构业务的计划。",
-            "date_modified": "2025-09-25T18:17:04.000Z"
-        },
-        {
-            "id": 4405347,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0847873.d.html",
-            "title": "【伦敦股市25日下跌】英国伦敦股市《金融时报》100种股票平均价格指数25日报收于9213.98点，较前一交易日下跌36.45点，跌幅为0.39%。欧洲三大股指当天全线下跌。当天伦敦股市成分股中位于涨幅前五位的个股分别为：资源开采和矿产品供应商力拓集团股价上涨3.54%，金融投资企业3i集团股价上涨1.96%，体育博彩企业恩坦公司股价上涨1.65%，比兹利保险公司股价上涨1.41%，科技企业史密斯集团股价上涨1.15%。",
-            "date_modified": "2025-09-25T18:15:18.000Z"
-        },
-        {
-            "id": 4405346,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6733879.d.html",
-            "title": "【伊拉克总理宣布中央政府接收库区原油并恢复出口】当地时间9月25日，伊拉克总理苏达尼在其社交媒体账号发表声明称，已达成一项“历史性协议”，巴格达中央政府石油部将接收库尔德自治区（库区）油田生产的原油，并通过伊拉克与土耳其两国间输油管道进行出口。伊拉克中央政府此前曾因土耳其政府在2014年至2018年间未经伊拉克政府授权从伊库区政府进口石油索求赔偿。2023年3月，土耳其与伊拉克库区政府间中止石油运输。伊拉克政府官员曾于2024至2025年间多次对外透露称将恢复伊库区石油出口，但出口计划因库区油田频繁遭无人机袭击等多重因素被迫推迟。",
-            "date_modified": "2025-09-25T18:13:27.000Z"
-        },
-        {
-            "id": 4405345,
-            "content_html": "",
-            "title": "美国联邦航空管理局（FAA）：将纽瓦克机场每小时飞行次数限制从68次提高至72次。",
-            "date_modified": "2025-09-25T18:13:16.000Z"
-        },
-        {
-            "id": 4405344,
-            "content_html": "",
-            "title": "美国联邦航空管理局（FAA）：延长了一项于2025年6月发布的、将限制航班起降的命令期限至2026年10月24日。",
-            "date_modified": "2025-09-25T18:12:53.000Z"
-        },
-        {
-            "id": 4405343,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6733844.d.html",
-            "title": "美国联邦航空管理局（FAA）：延长纽瓦克自由国际机场有限的起降架次限制期限。",
-            "date_modified": "2025-09-25T18:12:45.000Z"
-        },
-        {
-            "id": 4405342,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6733832.d.html",
-            "title": "高盛CEO：美国通胀仍具有粘性。",
-            "date_modified": "2025-09-25T18:12:24.000Z"
-        },
-        {
-            "id": 4405341,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6733578.d.html",
-            "title": "【高盛批评全球人才流动壁垒 担忧H-1B签证新政影响竞争力】高盛首席运营官John Waldron批评了世界各国不断增加的人才流动壁垒，这一言论正值美国企业对特朗普政府决定对关键签证收取10万美元费用的担忧日益加剧之际。Waldron表示：“我们拥有非常庞大的全球业务版图，需要并渴望全球各地的人才。我认为全球设置的壁垒越多，像我们这样的公司就越难做到这一点。”",
-            "date_modified": "2025-09-25T18:07:56.000Z"
-        },
-        {
-            "id": 4405340,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0847018.d.html",
-            "title": "标普500指数跌幅扩大至1%。",
-            "date_modified": "2025-09-25T18:05:44.000Z"
-        },
-        {
-            "id": 4405339,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8113847.d.html",
-            "title": "美股三大股指持续回落，道指跌0.6%，纳指跌超1%，标普500跌0.9。",
-            "date_modified": "2025-09-25T18:03:28.000Z"
-        },
-        {
-            "id": 4405338,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8113814.d.html",
-            "title": "礼来公司：预计因鲁利尤（Inluriyo）将在未来几周内于美国上市。",
-            "date_modified": "2025-09-25T18:02:38.000Z"
-        },
-        {
-            "id": 4405337,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8113807.d.html",
-            "title": "特斯拉跌幅扩大至5%。",
-            "date_modified": "2025-09-25T18:02:33.000Z"
-        },
-        {
-            "id": 4405336,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0846616.d.html",
-            "title": "普京助手：我们会考虑美国发出的信号。",
-            "date_modified": "2025-09-25T18:01:08.000Z"
-        },
-        {
-            "id": 4405335,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0846543.d.html",
-            "title": "【最新研究刷新人类演化时间线】记者从中国科学院古脊椎动物与古人类研究所获悉，该研究所倪喜军研究员团队对一件出土于中国、距今约100万年前的古人类头骨化石重新进行了分析，揭示出一个与神秘古人类“丹尼索瓦人”密切相关的新演化支系——“龙人”（Homo longi），并将现代人、尼安德特人与这一亚洲古人类支系的分化时间大幅推前，远超此前学界共识。相关研究成果北京时间9月26日在国际学术期刊《科学》发表。（央视新闻）",
-            "date_modified": "2025-09-25T18:00:27.000Z"
-        },
-        {
-            "id": 4405334,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0846506.d.html",
-            "title": "美国能源部长：削减俄罗斯天然气销量是向莫斯科施压的关键。",
-            "date_modified": "2025-09-25T18:00:09.000Z"
-        },
-        {
-            "id": 4405333,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6733169.d.html",
-            "title": "【欧洲央行官员Cipollone：如果通胀大幅偏离目标 将采取行动】欧洲央行执行理事会成员Piero Cipollone表示，如果通胀大幅偏离其目标，欧洲央行将采取行动。他在周四发布于欧洲央行网站的采访中表示：“如果预计通胀在中期将显著偏离我们2%的目标，我们已做好准备作出反应。”他还说：“我们处于一个‘良好位置’，因为当前通胀位于我们2%的目标，而我们的宏观经济预测也不预见在中期会显著偏离这一水平。”",
-            "date_modified": "2025-09-25T17:57:51.000Z"
-        },
-        {
-            "id": 4405332,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyit8113538.d.html",
-            "title": "比特币失守109000美元/枚，日内跌幅3.80%。",
-            "date_modified": "2025-09-25T17:56:55.000Z"
-        },
-        {
-            "id": 4405331,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6732974.d.html",
-            "title": "美国司法部：已起诉六个州，因其未能提供选民登记名单。",
-            "date_modified": "2025-09-25T17:52:39.000Z"
-        },
-        {
-            "id": 4405330,
-            "content_html": "",
-            "title": "美联储洛根：三方一般担保利率（TGCR）每天涵盖超过1万亿美元的交易，因此变化能在货币市场中有效传导。而联邦基金市场的交易量目前平均不到1000亿美元。",
-            "date_modified": "2025-09-25T17:52:15.000Z"
-        },
-        {
-            "id": 4405329,
-            "content_html": "",
-            "title": "美联储洛根：美联储应放弃将联邦基金利率作为执行货币政策的基准，转而考虑与更稳健的美国国债抵押品贷款市场挂钩的隔夜利率。",
-            "date_modified": "2025-09-25T17:51:40.000Z"
-        },
-        {
-            "id": 4405328,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyke0845529.d.html",
-            "title": "特朗普：与埃尔多安的会晤很棒。",
-            "date_modified": "2025-09-25T17:51:25.000Z"
-        },
-        {
-            "id": 4405327,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtyiy6732888.d.html",
-            "title": "美联储洛根：升级（通胀）目标不会干扰资产负债表。",
-            "date_modified": "2025-09-25T17:50:45.000Z"
-        },
-        {
-            "id": 4405326,
-            "content_html": "",
-            "title": "神舟二十号航天员乘组圆满完成第四次出舱活动，这是我国首次由两名第三批航天员共同完成舱外作业任务。（新华社）",
-            "date_modified": "2025-09-25T17:48:08.000Z"
-        },
-        {
-            "id": 4405325,
-            "content_html": "",
-            "title": "塞尔维亚总统武契奇：美国将从10月1日起对塞尔维亚境内的俄罗斯国有尼什石油公司（NIS）实施制裁。",
-            "date_modified": "2025-09-25T17:44:42.000Z"
-        },
-        {
-            "id": 4405324,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8243871.d.html",
-            "title": "受洛根讲话推动，两年期国债收益率升至盘中高点。",
-            "date_modified": "2025-09-25T17:44:25.000Z"
-        },
-        {
-            "id": 4405323,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuaa6863419.d.html",
-            "title": "【德国举行军演 重点演练向北约东翼投送部队】近来，北约东翼局势持续紧张。25日开始，德国联邦国防军在汉堡举行代号为“红色风暴布拉沃”的军事演习，重点演练向北约东翼投送部队的能力。",
-            "date_modified": "2025-09-25T17:44:06.000Z"
-        },
-        {
-            "id": 4405322,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8243795.d.html",
-            "title": "韩国财政部表示韩国将把韩元交易时间延长至24小时。",
-            "date_modified": "2025-09-25T17:43:20.000Z"
-        },
-        {
-            "id": 4405321,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuaa6863311.d.html",
-            "title": "美联储洛根：美联储已到时机，需对利率目标体系进行现代化改造。",
-            "date_modified": "2025-09-25T17:42:34.000Z"
-        },
-        {
-            "id": 4405320,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8243718.d.html",
-            "title": "美联储洛根呼吁全面改革央行利率调控工具包。",
-            "date_modified": "2025-09-25T17:42:16.000Z"
-        },
-        {
-            "id": 4405319,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8243640.d.html",
-            "title": "美联储洛根：现在是时候为新的基准利率做好准备了。",
-            "date_modified": "2025-09-25T17:41:15.000Z"
-        },
-        {
-            "id": 4405318,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8243607.d.html",
-            "title": "美联储洛根：美联储过去多次改变利率调控体系。",
-            "date_modified": "2025-09-25T17:41:03.000Z"
-        },
-        {
-            "id": 4405317,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0974951.d.html",
-            "title": "美联储洛根：联邦基金市场仍在运转，但正日益脆弱。",
-            "date_modified": "2025-09-25T17:40:56.000Z"
-        },
-        {
-            "id": 4405315,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuaa6863158.d.html",
-            "title": "美联储洛根：鉴于美联储设定的是目标区间，回购利率目标出现一定波动是可以接受的。",
-            "date_modified": "2025-09-25T17:40:47.000Z"
-        },
-        {
-            "id": 4405313,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0974851.d.html",
-            "title": "美联储洛根：最好在市场平静时更新利率调控体系。",
-            "date_modified": "2025-09-25T17:40:38.000Z"
-        },
-        {
-            "id": 4405312,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuaa6863121.d.html",
-            "title": "美联储洛根：回购市场是货币市场的核心，将其作为目标是合理的。",
-            "date_modified": "2025-09-25T17:40:30.000Z"
-        },
-        {
-            "id": 4405311,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0974786.d.html",
-            "title": "美联储洛根：美联储改革利率目标体系的时机已至。",
-            "date_modified": "2025-09-25T17:40:24.000Z"
-        },
-        {
-            "id": 4405310,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0974760.d.html",
-            "title": "美联储洛根：认为美联储不应为新体系设定管理目标。",
-            "date_modified": "2025-09-25T17:40:18.000Z"
-        },
-        {
-            "id": 4405309,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuaa6863088.d.html",
-            "title": "美联储洛根：转向有担保市场意味着美联储需要更新利率目标体系。",
-            "date_modified": "2025-09-25T17:40:13.000Z"
-        },
-        {
-            "id": 4405308,
-            "content_html": "",
-            "title": "行业组织称：美国政府部分停摆将暂停招聘空中交通管制员，每周使旅游业损失10亿美元。",
-            "date_modified": "2025-09-25T17:39:22.000Z"
-        },
-        {
-            "id": 4405307,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuaa6863014.d.html",
-            "title": "【四川西昌至香格里拉高速公路全线首座特长隧道双幅贯通】9月25日，G7611线西昌至香格里拉（四川境）高速公路（以下简称“西香高速”）全线首座特长隧道——海南隧道实现双幅贯通，这一突破标志着西香高速建设取得重大进展。",
-            "date_modified": "2025-09-25T17:38:44.000Z"
-        },
-        {
-            "id": 4405306,
-            "content_html": "",
-            "title": "印度外贸总局（DGFT）考虑扭转电商外国投资政策。希望放宽外国投资制度，从而允许亚马逊等电商企业直接从印度卖家购买产品、并在海外销售。",
-            "date_modified": "2025-09-25T17:37:35.000Z"
-        },
-        {
-            "id": 4405305,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0974109.d.html",
-            "title": "神舟二十号航天员乘组圆满完成第四次出舱活动。（央视新闻）",
-            "date_modified": "2025-09-25T17:35:12.000Z"
-        },
-        {
-            "id": 4405304,
-            "content_html": "",
-            "title": "尼日尔矿业部长Ousmane Abarchi周四表示，该国希望与俄罗斯国有核公司Rosatom合作建设两座2000兆瓦的核反应堆。",
-            "date_modified": "2025-09-25T17:29:00.000Z"
-        },
-        {
-            "id": 4405303,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0972516.d.html",
-            "title": "【亿万富翁格里芬抨击特朗普的企业交易，称当政府开始挑选赢家时，“我们都输了”】城堡投资创始人兼首席执行官肯·格里芬（Ken Griffin）抨击特朗普政府与大公司达成协议，以避免其关税政策的全面实施，称此类协议是反美协议。“这是我们的国家吗？我们会青睐那些有人脉的大人物吗？”格里芬说，“这不是美国的故事。”“当政府参与挑选赢家和输家时，这场游戏只有一种结局：我们都输了，”亿万富翁格里芬补充道。",
-            "date_modified": "2025-09-25T17:23:50.000Z"
-        },
-        {
-            "id": 4405302,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8241439.d.html",
-            "title": "比特币失守110000美元/枚，日内跌幅2.96%。",
-            "date_modified": "2025-09-25T17:23:08.000Z"
-        },
-        {
-            "id": 4405301,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0971907.d.html",
-            "title": "美国能源部长：随着人工智能需求激增，美国敦促公用事业公司维持燃煤电厂的运营。",
-            "date_modified": "2025-09-25T17:20:28.000Z"
-        },
-        {
-            "id": 4405300,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8240515.d.html",
-            "title": "周四（9月25日），美联储隔夜逆回购协议（RRP）使用规模为253.69亿美元。",
-            "date_modified": "2025-09-25T17:16:34.000Z"
-        },
-        {
-            "id": 4405299,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8240380.d.html",
-            "title": "以太坊回落至3900美元/枚下方，日内跌6.14%。",
-            "date_modified": "2025-09-25T17:15:35.000Z"
-        },
-        {
-            "id": 4405298,
-            "content_html": "",
-            "title": "                                                                                                            现货铂金突破1520.00美元/盎司关口，最新报1520.26美元/盎司，日内涨3.06%。",
-            "date_modified": "2025-09-25T17:15:32.000Z"
-        },
-        {
-            "id": 4405297,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuaa6859923.d.html",
-            "title": "文件显示：特斯拉敦促特朗普政府不要废除汽车排放标准。",
-            "date_modified": "2025-09-25T17:15:21.000Z"
-        },
-        {
-            "id": 4405296,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0971027.d.html",
-            "title": "WTI原油期货站上65美元/桶，日内涨0.02%。",
-            "date_modified": "2025-09-25T17:14:29.000Z"
-        },
-        {
-            "id": 4405295,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0970438.d.html",
-            "title": "【ChatGPT推出新功能：基于聊天历史推送个性化每日资讯】OpenAI正在推出一项新的ChatGPT功能，每天根据用户之前与聊天机器人的对话，向他们发送一组个性化的新闻、研究和其他更新内容，这是其旗舰产品更加主动的一次早期尝试。",
-            "date_modified": "2025-09-25T17:11:53.000Z"
-        },
-        {
-            "id": 4405294,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8239627.d.html",
-            "title": "文件显示：印度政府起草放宽电子商务出口外国投资规则的提案。",
-            "date_modified": "2025-09-25T17:11:03.000Z"
-        },
-        {
-            "id": 4405293,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0969856.d.html",
-            "title": "美国七年期国债收益率在拍卖后延续升势，最新上涨0.4个基点，至3.947%。",
-            "date_modified": "2025-09-25T17:09:56.000Z"
-        },
-        {
-            "id": 4405292,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrttzv8239312.d.html",
-            "title": "【英国政府10年期融资成本涨超9个基点，预算顾虑冲击国债发行，投资者兴趣减退】周四（9月25日）欧市尾盘，英国10年期国债收益率上涨9.2个基点，刷新日高至4.761%，全天处于上涨状态，北京时间18:00过后打破日内稍早持稳于4.680%附近的沉闷交投状态，并持续地加速上涨。两年期英债收益率涨6.9个基点，刷新日高至4.023%，18:00过后也开始显著地持续走高。30年期英债收益率涨8.4个基点，刷新日高至5.570%；50年期英债收益率涨7.9个基点，刷新日高至4.932%。2/10年期英债收益率利差涨2.228个基点，报+73.586个基点。",
-            "date_modified": "2025-09-25T17:09:03.000Z"
-        },
-        {
-            "id": 4405291,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-09-26/detail-infrtuah0969591.d.html",
-            "title": "【OpenAI：GPT-5在众多职业领域表现比肩人类】9月25日，OpenAI发布一项新基准测试，旨在评估其人工智能（AI）模型在各类行业及职业中与人类专业人士的表现差异。这项名为GDPval的测试，是该公司为了解自身系统在 “高经济价值工作” 上与人类表现的接近程度所做的初步尝试 —— 而实现这一目标，正是OpenAI成立使命中 “研发通用人工智能（AGI）” 的关键组成部分。OpenAI表示，研究发现其GPT-5模型及Anthropic公司的Claude Opus 4.1模型 “在工作质量上已接近行业专家水平”。",
-            "date_modified": "2025-09-25T17:08:28.000Z"
         }
     ]
 }

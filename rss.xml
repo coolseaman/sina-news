@@ -4,15 +4,531 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 29 Sep 2025 12:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 13:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[以色列央行：由于战争可能会持续，今年的增长预期下调，因此供应受限以及对以色列的市场情绪产生的不利影响将持续存在。]]></title>
+            <guid>4410707</guid>
+            <pubDate>Mon, 29 Sep 2025 13:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【野村：澳洲联储本周料按兵不动，沟通口径或有变化】野村证券首席经济学家Andrew Ticehurst表示，预计澳洲联储周二将宣布维持官方现金利率不变，到时可能是全票通过。与8月份的表态相比，澳洲联储此次的沟通口径似乎将明显转向不那么鸽派的立场。近期数据显示，GDP增长更为强劲，失业率保持低位，同时通胀有升温迹象。（新华财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8175109.d.html</link>
+            <guid>4410706</guid>
+            <pubDate>Mon, 29 Sep 2025 13:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源首席执行官：我们的股息不可侵犯，不会削减。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3093422.d.html</link>
+            <guid>4410705</guid>
+            <pubDate>Mon, 29 Sep 2025 13:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫称以色列和哈马斯都必须“做出一点让步”】白宫新闻秘书卡罗琳·莱维特表示，美国总统特朗普希望以色列总理内塔尼亚胡与哈马斯能同意其为该地区提出的21点和平计划。她表示，“双方都必须做出些许让步，或许会带着些许不满离开谈判桌，但这终究是我们结束这场冲突的方式”特朗普今日在白宫会见内塔尼亚胡。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8173715.d.html</link>
+            <guid>4410704</guid>
+            <pubDate>Mon, 29 Sep 2025 13:24:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州省黔东南苗族侗族自治州委原书记安九熊一审被判十年】贵州省毕节市中级人民法院29日一审公开宣判黔东南苗族侗族自治州委原书记安九熊受贿案，对被告人安九熊以受贿罪，判处有期徒刑十年，并处罚金人民币五十万元；对被告人安九熊退缴的受贿违法所得四百三十五万三千四百三十九元及其孳息依法予以没收，由扣押机关上缴国库。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8173365.d.html</link>
+            <guid>4410703</guid>
+            <pubDate>Mon, 29 Sep 2025 13:23:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源首席执行官：我们预计未来几年天然气需求将增长6% - 7%，有信心全球市场需求将消化液化天然气供应过剩问题。]]></title>
+            <guid>4410702</guid>
+            <pubDate>Mon, 29 Sep 2025 13:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油日内下跌2.00%，现报63.65美元/桶；布伦特原油跌1.84%，现报67.38美元/桶。]]></title>
+            <guid>4410701</guid>
+            <pubDate>Mon, 29 Sep 2025 13:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极氪9X 13分钟大定破万，大比例为豪华品牌增换购】极氪9X正式上市，13分钟，大定量破万台。作为国内首款全栈900V高压混动架构的全尺寸SUV，极氪9X具备代际领先的产品优势。价格方面，Max版本45.59万元，Ultra版47.59万元，Hyper版54.99万元、曜黑版58.99万元，主销版型已突破传统海外豪华品牌价格区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3092456.d.html</link>
+            <guid>4410700</guid>
+            <pubDate>Mon, 29 Sep 2025 13:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列总理与科技投资者举行私人会议，讨论人工智能】据知情人士透露，以色列总理内塔尼亚胡周日在纽约会见了多位美国科技高管和投资者，讨论利用人工智能来提升以色列的经济和军事能力的前景。知情人士称，出席与内塔尼亚胡会面的人员包括雅各布·海尔伯格（Jacob Helberg），他曾是Palantir公司的前顾问，并已被提名为特朗普政府的主管经济增长、能源和环境的副国务卿（目前仍在等待参议院确认）。海尔伯格是以色列的坚定支持者。其他与会者包括金融科技初创公司Ramp的首席执行官埃里克·格莱曼，以及在线房地产公司Open Door的联合创始人埃里克·吴（Eric Wu）和基思·拉博伊斯（Keith Rabois）等。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8172318.d.html</link>
+            <guid>4410699</guid>
+            <pubDate>Mon, 29 Sep 2025 13:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列央行行长表示，维持利率不变与自加沙战争爆发以来我们所采取的货币政策相一致，其目标是将通胀率稳定在目标区间内。]]></title>
+            <guid>4410698</guid>
+            <pubDate>Mon, 29 Sep 2025 13:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国海证券：广西投资集团金融控股持股比例增至10.60%】国海证券公告，广西投资集团金融控股有限公司通过增资中恒集团并获得其持有的国海证券股份，使得其间接持有国海证券股份的比例从6.75%增至10.60%。此次权益变动是广西投资集团内部股权结构调整的结果，不会导致上市公司控制权变更或对持续经营产生重大影响。未来12个月内，广西投资金控暂无明确的增减持计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8171987.d.html</link>
+            <guid>4410697</guid>
+            <pubDate>Mon, 29 Sep 2025 13:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油期货回落至64美元/桶下方，日内跌2.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1580436.d.html</link>
+            <guid>4410696</guid>
+            <pubDate>Mon, 29 Sep 2025 13:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源首席执行官：由于欧洲天然气供应仍相当紧张，我们预计未来两年天然气价格将维持在每百万英热单位11美元左右。]]></title>
+            <guid>4410695</guid>
+            <pubDate>Mon, 29 Sep 2025 13:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[嘉年华（CARNIVAL CORP）上调年度利润预期后，其股价在盘前上涨4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8170988.d.html</link>
+            <guid>4410694</guid>
+            <pubDate>Mon, 29 Sep 2025 13:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源首席执行官：我们仍然认为，强劲的基本面因素支撑着油价上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3090974.d.html</link>
+            <guid>4410693</guid>
+            <pubDate>Mon, 29 Sep 2025 13:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[曼彻斯特市长：无法发起工党党魁竞选活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3090954.d.html</link>
+            <guid>4410692</guid>
+            <pubDate>Mon, 29 Sep 2025 13:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼日利亚政府将与工会会面 以化解石油停产威胁】尼日利亚政府将与该国最大的石油和天然气行业劳工组织“Pengassan”举行会谈，以化解与非洲首富阿里科·丹格特有关的争议而引发的原油停产威胁。会议定于当地时间周一下午2点在首举行。Pengassan已指示包括道达尔能源和雪佛龙公司的当地子公司在内的公司成员停止向丹格特炼油厂供应原油，以抗议后者涉嫌因员工加入工会而解雇工人。工会要求停工行动持续到被解雇工人复职为止。停止供应将扰乱丹格特炼油厂的运营以及石油出口，该工厂的产能为65万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8170609.d.html</link>
+            <guid>4410691</guid>
+            <pubDate>Mon, 29 Sep 2025 13:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【嘉年华集团Carnival第三季度调整后每股收益超过预估】嘉年华集团第三季度调整后每股收益1.43美元，上年同期1.27美元，预估1.32美元。第三季度每股收益1.33美元，上年同期1.26美元。第三季度调整后净利润19.8亿美元，同比增长13%，预估18.4亿美元。第三季度调整后息税折旧及摊销前利润29.9亿美元，同比增长6.1%，预估29亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3090648.d.html</link>
+            <guid>4410690</guid>
+            <pubDate>Mon, 29 Sep 2025 13:17:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[嘉年华集团（CARNIVAL CORP）：今年第三次上调2025财年业绩展望。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8170012.d.html</link>
+            <guid>4410689</guid>
+            <pubDate>Mon, 29 Sep 2025 13:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中装建设：拟注销942,200股回购专户库存股】2025年9月29日，中装建设召开相关会议，审议通过《关于注销回购专户库存股的议案》，尚需提交2025年第二次临时股东会审议。2022年公司以自有资金回购股份，累计回购942,200股，占总股本0.1320%，支付总金额499.64万元，后因不符合发展战略终止回购。截至公告日，这些股份未用于激励计划。按规定，公司拟注销这942,200股。注销后，公司股本总额将从961,078,193股减至960,135,993股。本次注销对公司经营和财务无重大不利影响，后续需股东会审议并授权办理注销手续。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8169900.d.html</link>
+            <guid>4410688</guid>
+            <pubDate>Mon, 29 Sep 2025 13:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国将为学生设立有针对性的维持补助金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3090095.d.html</link>
+            <guid>4410686</guid>
+            <pubDate>Mon, 29 Sep 2025 13:14:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统特朗普将于当地时间周一上午与卡塔尔埃米尔通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8168867.d.html</link>
+            <guid>4410685</guid>
+            <pubDate>Mon, 29 Sep 2025 13:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德意志银行调查显示法国最有可能未来两年面临政府债券危机】据德意志银行的一项调查，法国是在未来两年最有可能遭遇政府债券危机的国家，超过英国和美国等其他国家。该调查于9月22日至25日进行，超过半数做出回应者在给定国家列表中将法国评为最脆弱。英国以约20%的得票率位居第二，美国第三。由于连续数任总理难以推进缩减公共支出、降低赤字（该赤字为欧元区内最大）的改革，法国债券一年多来一直承受压力。衡量借贷成本的指标——法国10年期收益率如今与意大利相当，而意大利在历史上一直被视为该地区财政不负责任的典型，直到总理梅洛尼开启了一个政治稳定时期。在德意志银行的调查中，意大利排名第五，日本第四。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8168671.d.html</link>
+            <guid>4410684</guid>
+            <pubDate>Mon, 29 Sep 2025 13:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列官员：以色列总理内塔尼亚胡预计将提出保留意见，并推动修改停火计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8168551.d.html</link>
+            <guid>4410683</guid>
+            <pubDate>Mon, 29 Sep 2025 13:13:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【晨曦航空：签署1.76亿元房产补充协议】晨曦航空公告，公司与陕西中巨嘉恒科技有限公司就房产交易签署补充协议。该协议涉及位于西安高新区的工业用地及建筑物，交易分两期完成：第一期为1号和2号厂房综合楼，买方需在2025年12月31日前支付4788.47万元；第二期为3号厂房综合楼，买方需在2026年6月30日前支付1.29亿元。协议旨在保障交易的公平有序推进，对公司财务和经营状况无重大不利影响，最终影响以年度审计为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8167817.d.html</link>
+            <guid>4410682</guid>
+            <pubDate>Mon, 29 Sep 2025 13:11:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥期货交易所农产品期价预期走低】小麦期货持平至下跌2美分/蒲式耳交易商等待美国农业部周二发布季度谷物库存数据。分析师预计美国9月1日小麦库存为20.43亿蒲式耳，高于去年同期的19.92亿蒲式耳。全球小麦供应充足，但俄罗斯出口价格因需求增加连续第二周上涨。CBOT12月软红冬小麦期货下跌1美分至5.18-3/4美元/蒲式耳。玉米期货下跌1-3美分/蒲式耳美国玉米收割推进压制期价，农民正从田间收获作物。美国农业部预计将收获创纪录产量。分析师预计9月1日玉米库存为13.37亿蒲式耳，低于去年同期的17.63亿蒲式耳。CBOT12月玉米期货下跌2-1/4美分至4.19-3/4美元/蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8167780.d.html</link>
+            <guid>4410681</guid>
+            <pubDate>Mon, 29 Sep 2025 13:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦锡日内涨超2.00%，现报35100.50美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8167505.d.html</link>
+            <guid>4410680</guid>
+            <pubDate>Mon, 29 Sep 2025 13:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据印度国家证券交易所（NSE），全球基金9月29日净卖出281亿卢比印度股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8166700.d.html</link>
+            <guid>4410679</guid>
+            <pubDate>Mon, 29 Sep 2025 13:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST国华：全资子公司预中标“克融云智算中心二期三标段”项目】*ST国华(000004)9月29日公告，公司全资子公司北京智游网安科技有限公司于近日参与了“克融云智算中心二期三标段”项目的投标，招标单位为新疆克融云算数字科技有限公司。2025年9月29日，中国招标投标公共服务平台发布了相关中标候选人公示。第一名中标候选人为北京智游网安科技有限公司，投标报价约为2.36亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3088749.d.html</link>
+            <guid>4410678</guid>
+            <pubDate>Mon, 29 Sep 2025 13:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国将对境外制作的电影加征100%关税后，网飞（Netflix）盘前股价下跌1.6%。]]></title>
+            <guid>4410677</guid>
+            <pubDate>Mon, 29 Sep 2025 13:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储哈玛克：预计企业将转嫁更多关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3088588.d.html</link>
+            <guid>4410676</guid>
+            <pubDate>Mon, 29 Sep 2025 13:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四维图新：拟以现金及资产形式出资对鉴智开曼投资】四维图新公告，公司拟以现金及资产形式出资对PhiGentRoboticsLimited（简称“鉴智开曼”）投资及提供财务资助。鉴智开曼是大规模中高阶智驾量产的软件算法公司，为车企提供基于地平线平台的高阶智驾产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1577092.d.html</link>
+            <guid>4410675</guid>
+            <pubDate>Mon, 29 Sep 2025 13:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿尔法企业：股本重组将于9月30日生效】阿尔法企业公告，由于公司日期为2025年9月10日通函所提述的所有股本重组条件均已达成，股本重组将于2025年9月30日(星期二)生效，紧随其后，更改每手买卖单位将于2025年10月16日生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3088180.d.html</link>
+            <guid>4410674</guid>
+            <pubDate>Mon, 29 Sep 2025 13:07:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储哈马克：关税转嫁幅度低于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1576862.d.html</link>
+            <guid>4410673</guid>
+            <pubDate>Mon, 29 Sep 2025 13:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：为了让彻底失去家具产业的北卡罗来纳州再次伟大起来，我将对任何不在美国生产家具的国家征收高额关税。]]></title>
+            <guid>4410672</guid>
+            <pubDate>Mon, 29 Sep 2025 13:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列央行：若战争于第一季度结束，预计2026年GDP增速将达4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8164412.d.html</link>
+            <guid>4410671</guid>
+            <pubDate>Mon, 29 Sep 2025 13:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：我将对任何不在美国生产家具的国家征收高额关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1576612.d.html</link>
+            <guid>4410670</guid>
+            <pubDate>Mon, 29 Sep 2025 13:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【别克：至境L7奥特能电池包设有金属护板保护】9月29日，别克在至境L7热门问题答用户问中表示，至境L7的电池离地间隙为145mm，比别克君越的离地间隙高3mm。至境L7的奥特能电池包设有金属护板保护，底部抗撞击能力达到新国标要求的两倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3087679.d.html</link>
+            <guid>4410669</guid>
+            <pubDate>Mon, 29 Sep 2025 13:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列央行：2025年预算赤字占国内生产总值（GDP）的比例为5.1%，2026年为4.3%。]]></title>
+            <guid>4410668</guid>
+            <pubDate>Mon, 29 Sep 2025 13:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《互联网平台企业涉税信息报送规定》实施在即 平台上的外卖员、快递员等各类“小哥”年收入12万元以下基本无需纳税】据国家税务总局办公厅，今年10月1日起，按照国务院发布的《互联网平台企业涉税信息报送规定》有关要求，互联网平台企业将首次正式报送平台内经营者和从业人员的身份信息、收入信息。《规定》的落地，对于广大从事外卖、快递等便民劳务活动的“小哥”而言，具体有哪些影响？记者就此采访了相关财税专家和税务部门负责人。中国政法大学财税法研究中心主任施正文介绍，通常劳务报酬的预缴方法，是按次用收入减除800元或20%的费用后，乘以20%-40%的三级累进预扣率计算预扣预缴税款，预扣税款会相对多一些。与之相比，平台从业人员新的累计预扣法不仅扣除金额高，而且适用预扣率低，明显更为利好。按照《公告》规定的累计预扣法来计算，对实际月收入在6250元以下的平台上各类“小哥”无需预扣税款。即便月收入高于6250元被暂时预扣了小额税款，在次年的年度汇算时，大部分“小哥”还可以进一步申报享受3岁以下婴幼儿照护、子女教育、赡养老人、住房租金等扣除项目，并依法申请退税。全年来看，年收入12万元以下的“小哥”在扣除减除费用和法定的扣除项目后，基本无需缴纳个税。]]></title>
+            <guid>4410667</guid>
+            <pubDate>Mon, 29 Sep 2025 13:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列央行：一年后的基准利率为3.75%（前值3.75%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1576213.d.html</link>
+            <guid>4410666</guid>
+            <pubDate>Mon, 29 Sep 2025 13:04:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[相关文件显示，民主党参议员反对美国总统特朗普终止对校车无线使用及图书馆热点的政府补贴计划。]]></title>
+            <guid>4410665</guid>
+            <pubDate>Mon, 29 Sep 2025 13:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行将2026年和2027年铜价预测分别从每吨10188美元上调至每吨11313美元，从每吨12000美元上调至每吨13500美元。]]></title>
+            <guid>4410664</guid>
+            <pubDate>Mon, 29 Sep 2025 13:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列央行：2026年以色列经济将增长4.7%（此前预测为4.6%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1576082.d.html</link>
+            <guid>4410663</guid>
+            <pubDate>Mon, 29 Sep 2025 13:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部部长刘伟在浙江调研时强调 加快完善现代化综合交通运输体系】据交通运输部消息，9月28日至29日，交通运输部党组书记、部长刘伟到浙江省杭州市、温州市调研交通运输领域新质生产力发展、综合交通枢纽建设、港口高质量发展等情况，督导检查中秋国庆假期交通运输安全生产和服务保障工作。在杭州市，刘伟来到杭州城市大脑运营指挥中心，了解杭州城市大脑建设情况，听取浙江数字交通建设工作汇报。他强调，要深入实施“人工智能+交通运输”行动，加快推动人工智能在交通运输领域规模化创新应用，助力智慧城市建设。刘伟来到杭州西站，调研枢纽及周边配套设施建设情况。他强调，要统筹谋划推进综合交通枢纽建设，强化综合交通枢纽智慧安全绿色发展，加快完善现代化综合交通运输体系，提高交通运输服务水平和整体效率。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8162950.d.html</link>
+            <guid>4410662</guid>
+            <pubDate>Mon, 29 Sep 2025 13:03:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国-新加坡数字政策对话第二次会议在渝召开】9月28日，国家数据局局长刘烈宏与新加坡数码发展及新闻部兼卫生部高级政务部长陈杰豪在重庆召开中新数字政策对话机制第二次会议。中方表示，数据已成为推动经济社会发展的基础资源和创新引擎，中新数字合作前景广阔。双方在中新数字政策对话机制下务实开展工作，取得良好进展，数字基础设施互联互通实现新突破，数字规则与标准协同迈出新步伐，数字生态与人才合作呈现新气象。国家数据局愿与新加坡数码发展及新闻部一道，坚持互惠共赢、务实坦诚、开拓创新原则，推进四方面工作：一是持续强化数字基础设施互联互通，拓展中新两国国际数据通道应用，探讨跨境可信数据空间；二是加快推动数字规则与标准协同互认，加强两国在数据、人工智能应用等领域标准合作；三是深化产业合作与人才交流机制，推进两国产业平台和展会资源对接合作；四是更好服务两国企业经营，拓展医疗、金融等领域数据跨境流动便利化。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8162897.d.html</link>
+            <guid>4410661</guid>
+            <pubDate>Mon, 29 Sep 2025 13:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【司尔特：前任董事、高管等被控职务侵占等罪 公司被认定为单位犯罪】司尔特公告称，公司收到《移送审查起诉告知书》和《委托诉讼代理人/申请法律援助告知书》。公司前任董事、高管金国清、金政辉、方君、文继兵、田明华等人涉嫌利用职务之便，长期侵占公司及全资子公司贵州路发等的巨额财产；虚构尿素采购交易将公司资金转出，再虚构有机肥销售回流部分资金并骗取政府补贴；接受虚开的增值税专用发票；非国家工作人员受贿等行为。公司也被认定为涉嫌虚开增值税专用发票罪的单位犯罪。宣城市公安局认为犯罪事实清楚，证据确实、充分，足以认定，现将该案移送至宣城市人民检察院审查起诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1575865.d.html</link>
+            <guid>4410660</guid>
+            <pubDate>Mon, 29 Sep 2025 13:02:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列央行表示，未来几个月，通胀率预计将维持在目标区间上限附近，甚至可能突破该上限，并将于2026年初开始回落。]]></title>
+            <guid>4410659</guid>
+            <pubDate>Mon, 29 Sep 2025 13:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列央行：鉴于地缘政治不确定性，利率路径将根据通胀率向目标区间收敛、金融市场稳定、经济活动以及财政政策来决定。]]></title>
+            <guid>4410658</guid>
+            <pubDate>Mon, 29 Sep 2025 13:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场监管总局发布《经营者集中申报规范》服务企业高效申报 助力企业投资并购】9月26日，市场监管总局发布《经营者集中申报规范》（以下简称《申报规范》），首次以市场监管行业标准形式明确申报要求，便利企业规范、高效申报。由于经营者集中反垄断申报专业性较强，申报企业普遍希望获得全面、详细的业务指导，以尽快取得反垄断审批，完成投资并购交易。市场监管总局积极响应企业诉求，研究制定《申报规范》，整合先前较为分散、效力不高的申报指导性文件，吸收最新法律规定和审查实践，对企业如何申报经营者集中作出统一、明确要求。《申报规范》共六章、六个附录，明确了经营者集中申报的申报条件、申报材料、申报流程的相关要求。一是明确企业在何种条件下需要进行经营者集中申报，包括：构成经营者集中的情形、达到国务院规定的申报标准、未达到申报标准但申报的情形、豁免申报的情形等，提示企业合规义务。二是明确企业申报时应当提交的具体文件、资料以及相关要求和说明，包括：申报表的主要内容、简易案件申报的要求等，帮助申报企业规范、准确填写申报表格和相关材料，提高申报效率。三是明确企业如何准备和提交申报文件资料以及申报后的受理审查流程，为申报企业提供充分的可预期性。《申报规范》的出台进一步完善了经营者集中反垄断审查制度体系，有利于为企业投资并购营造公开、透明、可预期的制度环境，是市场监管标准化规范化数字化建设的重要成果。《申报规范》为企业申报经营者集中提供了“一站式”指导，将帮助企业进一步提高申报效率和申报质量，助力企业尽早完成并购，有利于推进“高效办成一件事”，更大力度促进投资发展，筑牢推动经济持续回升向好基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1575511.d.html</link>
+            <guid>4410657</guid>
+            <pubDate>Mon, 29 Sep 2025 13:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[夜盘期货开盘，燃油、原油、焦煤跌逾1%，焦炭、纸浆等下跌；沪锌、沪金、沪锡等上涨。]]></title>
+            <guid>4410656</guid>
+            <pubDate>Mon, 29 Sep 2025 13:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列中央银行将基准利率维持在 4.5%；预计为 4.50%。]]></title>
+            <guid>4410655</guid>
+            <pubDate>Mon, 29 Sep 2025 13:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百通能源：拟投资2.24亿元建设热电联产三期项目】百通能源公告，全资子公司百通宏达热力（泗阳）有限公司拟投资建设“百通宏达热力（泗阳）有限公司热电联产三期项目”，投资总额预计约为2.24亿元，资金来源为自有资金或自筹资金。项目建设工期为18个月，主要收益来源为蒸汽销售、电力销售。项目总投资约2.24亿元，投资回收期为8.7年（含建设期），财务内部收益率（税后）为12.7%。项目实施有利于实现地区能源结构调整，减少煤炭使用量，符合国家节能减排政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3086431.d.html</link>
+            <guid>4410654</guid>
+            <pubDate>Mon, 29 Sep 2025 12:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【罗欣药业：拟定增募资不超8.42亿元 用于创新药研发等项目】罗欣药业(002793)9月29日披露2025年度向特定对象发行A股股票预案，公司拟定增募资总额不超过8.42亿元（含本数），扣除发行费用后拟用于以下项目：创新药研发项目、原料药改扩建及冻干车间技改项目、补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1575180.d.html</link>
+            <guid>4410653</guid>
+            <pubDate>Mon, 29 Sep 2025 12:59:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件：华勤技术股份有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3086402.d.html</link>
+            <guid>4410652</guid>
+            <pubDate>Mon, 29 Sep 2025 12:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一博科技：为英伟达提供PCB研发设计服务】一博科技在互动平台表示，公司已与英伟达建立业务合作关系，主要为其提供PCB研发设计服务。目前公司与单个客户的交易金额较小，对总体业绩的影响不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3086385.d.html</link>
+            <guid>4410651</guid>
+            <pubDate>Mon, 29 Sep 2025 12:59:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统办公室主任叶尔马克：乌克兰团队本周将访美进行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3086352.d.html</link>
+            <guid>4410650</guid>
+            <pubDate>Mon, 29 Sep 2025 12:58:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼盘前跌超1%。特朗普称将对所有在美国境外制作的电影征收100%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1575066.d.html</link>
+            <guid>4410649</guid>
+            <pubDate>Mon, 29 Sep 2025 12:58:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普：将对所有在美国境外制作的电影征收100%的关税】美国总统特朗普在社交媒体上称，我们的电影制作业被其他国家从美国偷走了，就像从婴儿手里偷走糖果一样。加州州长软弱无能，遭受的打击尤其严重！因此，为了解决这个长期存在且永无止境的问题，我将对所有在美国境外制作的电影征收100%的关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3086188.d.html</link>
+            <guid>4410647</guid>
+            <pubDate>Mon, 29 Sep 2025 12:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南京化纤监事会审议通过重大资产交易多项议案】2025年9月29日，南京化纤（600889）第十一届监事会第十六次会议以通讯表决方式召开，3名监事实际参与表决。会议审议多项议案：一是通过《关于＜南京化纤股份有限公司重大资产置换、发行股份及支付现金购买资产并募集配套资金暨关联交易报告书（草案）（修订稿）＞及其摘要的议案》，公司拟购南京工艺100%股份并募资；二是批准本次交易相关加期审计报告、备考审阅报告；三是确认本次交易符合《上市公司监管指引第9号》第四条规定；四是明确本次交易符合《上市公司重大资产重组管理办法》第四十三条、第四十四条规定。关联监事周维回避表决，上述议案依授权无需股东大会审议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1574820.d.html</link>
+            <guid>4410646</guid>
+            <pubDate>Mon, 29 Sep 2025 12:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟警告：气候变化和环境退化威胁欧洲经济民生 不能放弃绿色议程】欧盟周一发布的一份环境报告指出，气候变化和环境恶化正在危及欧洲的经济民生。欧洲环境署(EEA)执行主任Leena Ylä-Mononen警告称：“我们在许多领域都难以实现2030年目标。这实际上正在威胁欧洲人的未来繁荣、竞争力以及生活质量。”欧盟委员会方面表示，其绿色议程承诺依然有效，但在实施上会给予某些产业和提出异议的成员国一定灵活性，以缓解转型带来的压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8159266.d.html</link>
+            <guid>4410645</guid>
+            <pubDate>Mon, 29 Sep 2025 12:55:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST惠程：转让控股子公司峰极智能30%股权】*ST惠程公告，公司通过重庆联合产权交易所公开挂牌转让控股子公司峰极智能30%股权。经评估，峰极智能股东全部权益的净资产账面价值为555万元，评估价值为1419.17万元。公司拟定的转让底价为510万元，最终以实际成交情况为准。截至公告披露日，峰极智能已就股权转让事宜完成工商变更程序，峰极智能不再纳入公司合并报表范围，公司仍持有其21.7241%股权。此次交易对方为重庆东数同新科技有限公司，交易对价为510万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8159027.d.html</link>
+            <guid>4410644</guid>
+            <pubDate>Mon, 29 Sep 2025 12:55:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三七互娱完成晶正电子股权投资】据三七互娱消息，近日，三七互娱正式完成对济南晶正电子科技有限公司（简称“晶正电子”）的股权投资。此次投资晶正电子，不仅让三七互娱的投资版图延伸至半导体材料领域，更丰富了其在算力、光学显示、XR 整机、文娱内容、半导体及材料、空间计算引擎、人工智能、新型传感和AIGC游戏社交平台等文娱科技领域的生态布局。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3085728.d.html</link>
+            <guid>4410643</guid>
+            <pubDate>Mon, 29 Sep 2025 12:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国庆假期上海机场预计保障进出港旅客314万人次 同比增5.6%】从上海机场集团获悉，今年国庆中秋期间（10月1日至8日），上海浦东、虹桥两大机场预计航班量1.9万架次（其中，浦东机场1.3万架次、虹桥机场0.6万架次），日均2366架次，同比增长2.5%；预计保障进出港旅客314.1万人次（其中，浦东机场197.4万人次、虹桥机场116.7万人次），日均39.3万人次，同比增长5.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1574459.d.html</link>
+            <guid>4410642</guid>
+            <pubDate>Mon, 29 Sep 2025 12:54:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST新元：预重整期限延长至2026年1月3日】*ST新元公告，公司于2025年7月4日收到江西省抚州市中级人民法院送达的《决定书》和《通知书》，决定对公司启动预重整，并指定上海市锦天城律师事务所担任预重整临时管理人，预重整期间为三个月。2025年9月28日，公司收到抚州中院送达的《决定书》，决定延长万向新元科技股份有限公司预重整期间至2026年1月3日。预重整期限延长期间，临时管理人将继续按照相关法律法规以及抚州中院的要求履行职责，公司也将积极配合完成临时管理人及法院的相关工作，稳步推进公司预重整程序的顺利进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3085617.d.html</link>
+            <guid>4410641</guid>
+            <pubDate>Mon, 29 Sep 2025 12:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾亚精工：拟投资不超过800万美元建设越南生产基地】腾亚精工公告，公司同意使用自有资金或自筹资金通过新加坡全资子公司TOUA TECHNOLOGY PTE LTD 在越南设立全资孙公司越南公司投资建设越南生产基地，投资总额预计不超过800万美元，包括设立及运营境外公司、厂房建设、设备采购、铺底流动资金等。公司与V.P.S COMPANY LIMITED 签署《定金合同》，拟向其租赁位于越南同奈省仁泽县仁富仁泽2工业区8号路的厂房、办公楼等，建筑面积为12897.02平方米。租赁期限为五年，租金为63840.15美元/月，押金为38.3万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1574350.d.html</link>
+            <guid>4410640</guid>
+            <pubDate>Mon, 29 Sep 2025 12:54:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Strategy比特币持仓量超64万枚】9月29日，比特币持仓大户Strategy宣布，于2025年9月22日至9月28日期间购买196枚比特币，平均购入价格为113,048美元，总购入价格2210万美元。截至9月14日，Strategy总共持有640,031枚比特币，平均购入价格为73,983美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8158354.d.html</link>
+            <guid>4410639</guid>
+            <pubDate>Mon, 29 Sep 2025 12:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST国华：子公司预中标2.36亿元项目】*ST国华公告，全资子公司北京智游网安科技有限公司参与“克融云智算中心二期三标段”项目投标，投标报价2.36亿元。该项目工期为90天，目前处于中标候选人公示阶段。若正式签订合同并顺利实施，将对公司未来经营业绩产生积极影响。但公司提醒，项目仍存在未中标的风险，具体实施内容和金额以正式合同为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8158097.d.html</link>
+            <guid>4410638</guid>
+            <pubDate>Mon, 29 Sep 2025 12:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国将制裁由受制裁企业控股的公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3085189.d.html</link>
+            <guid>4410637</guid>
+            <pubDate>Mon, 29 Sep 2025 12:52:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部：电动汽车及电池产业成为中国与北欧国家合作新热点】商务部9月29日下午在北京召开2025中国—北欧经贸合作论坛专题新闻发布会。商务部欧洲司副司长王宇鹏介绍了中国与北欧国家经贸合作的情况。王宇鹏说，北欧企业普遍看好中国经济发展前景，看重中国超大规模市场潜力。瑞典斯堪尼亚、挪威雅苒国际、芬兰芬欧汇川等北欧企业坚定投资中国，将中国作为主要生产基地、销售市场和研发中心，深度融入本土汽车、机械、船舶、森工等产供链，共享中国经济高质量发展机遇。据他介绍，电动汽车及电池产业成为中国与北欧国家经贸合作新热点。北欧国家是全球绿色转型的先行者，电动汽车渗透率较高，比亚迪、蔚来、小鹏等一大批中国新能源汽车已成功进入北欧多国市场，获得当地消费者青睐。中国动力电池企业也将目光投向北欧国家，例如星源材质在瑞典设立欧洲总部，当升科技将首个海外生产基地设在芬兰。可以说，北欧地区已经成为中国电动汽车及动力电池企业进入欧洲、加快开展产供链合作的重要市场。 (澎湃新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqec8156242.d.html</link>
+            <guid>4410636</guid>
+            <pubDate>Mon, 29 Sep 2025 12:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[寒武纪：已同步实现对DeepSeek-V3.2-Exp的适配，并开源大模型推理引擎vLLM-MLU源代码。]]></title>
+            <guid>4410635</guid>
+            <pubDate>Mon, 29 Sep 2025 12:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源将 2030 年前年度净资本支出指引下调 10 亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqei1573320.d.html</link>
+            <guid>4410634</guid>
+            <pubDate>Mon, 29 Sep 2025 12:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西财长Haddad：美国关税不会损害经济只会影响一些行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseqef3084471.d.html</link>
+            <guid>4410633</guid>
+            <pubDate>Mon, 29 Sep 2025 12:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普威胁称如果MAMDANI赢得纽约市选举他将扣留资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3214967.d.html</link>
+            <guid>4410632</guid>
+            <pubDate>Mon, 29 Sep 2025 12:47:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚国防部长：担忧欧洲国防工业无法消化来自“安全计划”的欧盟再军备资金。政界人士应通过缩短审批时间来帮助工业发展。]]></title>
+            <guid>4410631</guid>
+            <pubDate>Mon, 29 Sep 2025 12:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海螺新材：拟收购华北塑料51%股权】海螺新材(000619)9月29日公告，公司拟收购河南省华北工业塑料有限公司（简称“华北塑料”）51%股权，交易价格9526.80万元，本次收购完成后，公司将持有华北塑料51%股权，华北塑料将成为公司控股子公司，纳入公司合并报表范围。华北塑料主要生产经营高分子低噪音托辊、改性超高分子量聚乙烯管材管件等系列产品。公司与华北塑料同属塑料制品行业，产业关联度高，易于实现产业整合与协同发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8285504.d.html</link>
+            <guid>4410630</guid>
+            <pubDate>Mon, 29 Sep 2025 12:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【仔猪价格又见新低 跌破30元大关】根据仔猪育肥周期推算，现阶段补栏的仔猪将错过春节消费旺季，面临节后淡季价格走弱的风险，打击了养殖户的补栏信心。加之供应端产能扩张叠加PSY提升，市场供应压力较大。补栏疲软与供应充足形成双重挤压，加剧了仔猪价格下行压力。据对全国500个县集贸市场和采集点的监测，9月第4周全国仔猪平均价格29.07元/公斤，比前一周下跌3.2%，同比下跌26.2%，降至19个半月低点。全国29个监测省份仔猪价格全部下跌。华南地区价格较高，为31.61元/公斤；华北地区价格较低，为27.93元/公斤。（农业农村部）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8285389.d.html</link>
+            <guid>4410629</guid>
+            <pubDate>Mon, 29 Sep 2025 12:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联影医疗世界首台“摄像”磁共振获批上市】9月29日，由联影医疗自主研发的世界首台“摄像”磁共振uMR Ultra正式获得国家药品监督管理局（NMPA）批准上市。至此，联影成为全球唯一一家具备“摄像”磁共振技术的公司，同时uMR Ultra已获中国NMPA、美国FDA及欧洲CE三大认证，实现全球上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1703459.d.html</link>
+            <guid>4410628</guid>
+            <pubDate>Mon, 29 Sep 2025 12:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列总理内塔尼亚胡在与科技投资者的私下会议中讨论了人工智能问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3214658.d.html</link>
+            <guid>4410627</guid>
+            <pubDate>Mon, 29 Sep 2025 12:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【索辰科技：拟收购力控科技60%股权 构成重大资产重组】索辰科技(688507.SH)公告称，公司拟通过全资子公司数字科技收购马国华、田晓亮及前海股权投资基金（有限合伙）等10名股东持有的力控科技60%股权。交易完成后，力控科技将成为公司二级控股子公司。经交易各方协商，力控科技100%股权的交易定价确定为3.2亿元。本次交易构成重大资产重组。标的公司深耕SCADA软件领域二十余年，形成了以SCADA产品为核心的工业自动化软件产品体系，高度赋能关键制造领域向数字化、智能化转型升级，为制造业客户提供过程稳定、高效运行、精准管控和安全保障的智能化生产管控体系。通过本次并购，索辰科技将能够为客户提供从研发设计到生产制造的全生命周期解决方案，有望进一步在物理AI方面实现创新突破，为我国工业软件领域的高质量发展提供新动能。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8284798.d.html</link>
+            <guid>4410626</guid>
+            <pubDate>Mon, 29 Sep 2025 12:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京市政府召开常务会议，研究强化食品安全全链条监管工作等事项】据北京日报，9月29日下午，北京市政府召开常务会议，落实市委工作部署，研究进一步强化食品安全全链条监管工作等事项。北京市委副书记、市长殷勇主持会议。会议强调，食品安全关乎人民群众身体健康，既是重大民生问题，也是公共安全问题。要深入贯彻习近平总书记关于食品安全的重要论述精神，将“四个最严”要求贯穿食品生产、流通、储存、消费等各环节、全过程，推动食品安全治理从事后处置向事前预防延伸、从局部管控向系统治理升级，不断健全完善“从农田到餐桌”的食品安全全链条监管体系，让市民群众吃得安全、吃得健康，全力守护好“舌尖上的安全”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8284662.d.html</link>
+            <guid>4410625</guid>
+            <pubDate>Mon, 29 Sep 2025 12:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部：邀请丹麦担任主宾国，彰显两国对深化经贸合作的热切期待】9月29日下午，商务部在北京召开2025中国—北欧经贸合作论坛专题新闻发布会。记者在现场提问：北欧论坛今年首次设置了主宾国，并邀请丹麦担任主宾国。请谈一谈中丹经贸合作的主要特点，以及丹麦在中国与北欧国家经贸合作中扮演了怎么样的角色？商务部欧洲司副司长王宇鹏回复说，当前，中丹经贸合作稳中有进，呈现出基础牢、韧性足、质量高等特点。他说，丹麦在中国与北欧经贸合作中发挥了关键作用。此次论坛，我们特地邀请丹麦担任主宾国，这不仅体现出中方对中丹经贸关系的高度重视，也彰显两国政府和企业对深化经贸合作的热切期待。丹方将派出高级别官员出席论坛开幕式，丹麦企业也将在论坛上精彩亮相，全方位展示优质产品、技术和服务，让中国消费者领略“丹麦优品”的独特魅力。此外，商务部和丹麦外交部将于论坛期间在武汉召开中丹经贸联委会第24次会议，并广泛邀请两国商协会和企业参会，推动双方经济界深度交流互动，持续夯实中丹经贸合作基础。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1703060.d.html</link>
+            <guid>4410624</guid>
+            <pubDate>Mon, 29 Sep 2025 12:43:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源：综合电力业务板块到2028年将实现正自由现金流，并在2030年实现12%的平均使用资本回报率。]]></title>
+            <guid>4410623</guid>
+            <pubDate>Mon, 29 Sep 2025 12:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：伊朗处决一名为以色列从事间谍活动男子，“6月以伊冲突以来已处决9名”】据美联社、《以色列时报》等媒体报道，伊朗方面当地时间9月29日表示，伊朗处决了一名被判定为以色列从事间谍活动的男子，该男子名叫巴赫曼·楚比亚斯尔。伊朗媒体称，该男子是“以色列在伊朗最重要的间谍之一”。 据隶属于伊朗司法部的“平衡”通讯社消息，伊朗指控楚比亚斯尔与以色列情报和特勤局（摩萨德）官员会面。据称，楚比亚斯尔曾参与“敏感电信项目”，并泄露“电子设备进口渠道”。楚比亚斯尔最终被执行绞刑。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8283471.d.html</link>
+            <guid>4410622</guid>
+            <pubDate>Mon, 29 Sep 2025 12:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫就加沙提议表态：特朗普将与卡塔尔方面通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1702664.d.html</link>
+            <guid>4410621</guid>
+            <pubDate>Mon, 29 Sep 2025 12:41:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[道达尔能源计划在2024年至2030年间实现油气年产量增长3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1702624.d.html</link>
+            <guid>4410620</guid>
+            <pubDate>Mon, 29 Sep 2025 12:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特再次呼吁通过清洁政府资金法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8282602.d.html</link>
+            <guid>4410619</guid>
+            <pubDate>Mon, 29 Sep 2025 12:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行首席经济学家Lane称通胀前景“相当温和”】欧洲央行首席经济学家Philip Lane表示，他不认为通胀在任一方向存在重大风险。这表明他和同事们可能愿意暂时将利率维持在当前水平。Lane周一在法兰克福的一场小组讨论中表示：“我们似乎不会回到疫情前极低通胀的均衡状态，”但看起来也不存在“持续明显高于通胀目标的重大风险”。Lane表示：“我们对通胀前景的评估在当前看来相当温和。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8282320.d.html</link>
+            <guid>4410618</guid>
+            <pubDate>Mon, 29 Sep 2025 12:39:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[莱维特：特朗普希望双方都能接受他的 21 点计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1702384.d.html</link>
             <guid>4410617</guid>
             <pubDate>Mon, 29 Sep 2025 12:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台：热带低压“博罗依”将以每小时30-35公里的速度向西偏北方向快速移动，强度逐渐减弱。]]></title>
+            <guid>4410616</guid>
+            <pubDate>Mon, 29 Sep 2025 12:39:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[莱维特：内塔尼亚胡和哈马斯都必须做出“些许”让步。]]></title>
@@ -72,525 +588,6 @@
             <title><![CDATA[深圳市晶存科技股份有限公司向港交所提交上市申请书，联席保荐人为招商证券国际、国泰君安国际。]]></title>
             <guid>4410606</guid>
             <pubDate>Mon, 29 Sep 2025 12:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雪人集团：董事陈辉因个人原因辞职】雪人集团公告，公司董事会收到非独立董事陈辉的书面辞职报告，陈辉因个人原因辞去非独立董事职务，辞职报告自送达董事会之日起生效。陈辉辞职后不再担任公司及其控股子公司的任何职务。职工代表大会选举戴闽洪为第六届董事会职工代表董事，任期至第六届董事会任期届满。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3211528.d.html</link>
-            <guid>4410605</guid>
-            <pubDate>Mon, 29 Sep 2025 12:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普利特：控股孙公司拟投资8亿元建设钠离子电池生产基地】普利特公告，公司控股孙公司海四达钠星与内江经济技术开发区管理委员会签订协议，拟投资建设年产6GWh钠离子电池生产基地。项目总投资约8亿元，规划建设两条钠离子电池生产线，分两期建设，其中一期设计产能2GWh，预计建设周期约6个月。甲方将协调9800万元产业引导基金增资海四达钠星，专项用于支持本项目一期建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1700228.d.html</link>
-            <guid>4410604</guid>
-            <pubDate>Mon, 29 Sep 2025 12:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊泰B股：转让控股子公司呼准铁路51%股权，对价约62.8亿元】伊泰B股公告，公司已于2025年9月29日与中国铁路呼和浩特局集团有限公司签署股权转让协议，将所持有的控股子公司呼准铁路51%的股权转让给中国铁路呼和浩特局集团有限公司。本次交易初步标的股权转让对价约为62.8亿元。转让完成后，公司仍持有呼准铁路21.6569%的股权。本次交易有助于公司优化资源配置和产业布局，加速资金回笼，改善资产结构。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8277668.d.html</link>
-            <guid>4410603</guid>
-            <pubDate>Mon, 29 Sep 2025 12:31:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大政府表示，将向阿尔戈马钢铁公司提供4亿加元财政支持，以维持其运营。 政府表示，将提供财政援助，帮助阿尔戈马公司向减少对美国依赖的商业模式转型，并尽量减少对其员工队伍的影响。]]></title>
-            <guid>4410602</guid>
-            <pubDate>Mon, 29 Sep 2025 12:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财长：不会改变2026年的财政目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3210943.d.html</link>
-            <guid>4410601</guid>
-            <pubDate>Mon, 29 Sep 2025 12:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大安大略省将向阿尔戈马钢铁公司提供5亿加元贷款，以应对美国关税压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3210508.d.html</link>
-            <guid>4410600</guid>
-            <pubDate>Mon, 29 Sep 2025 12:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：我认为有进一步解除政策限制的空间。适宜采取渐进且谨慎的利率政策；不能排除劳动力市场存在一些结构性问题。]]></title>
-            <guid>4410599</guid>
-            <pubDate>Mon, 29 Sep 2025 12:29:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杰富瑞将阿里巴巴集团控股的目标股价从每股178.00美元上调至230.00美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8275670.d.html</link>
-            <guid>4410598</guid>
-            <pubDate>Mon, 29 Sep 2025 12:29:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【逾六成私募计划高仓位过节，科技成长主线迎长假“压力测试”】私募排排网调查数据显示，超过六成私募对长假持股表现出强烈信心。第三方监测数据还显示，截至9月19日，股票私募平均仓位已升至78.41%的今年以来新高水平。从私募排排网的具体问卷调查结果来看，除65.38%的私募倾向于重仓或满仓过节之外，选择中等偏重仓位（仓位在五成至七成之间）、中等偏轻仓位（仓位在三成至五成之间）和轻仓（仓位在三成以下）过节的私募比例，依次为17.31%、11.54%和5.77%。按照不同仓位区间均值及对应私募的比例计算，股票私募机构计划在此次长假持有的平均股票仓位为71.44%。值得注意的是，科技成长投资方向依旧是私募业内的“心头好”。调查显示，有59.62%的私募表示，在长假之后看好AI、半导体、人形机器人、智能驾驶、创新药等科技成长方向；21.15%的私募看好新能源、房地产产业链等估值修复方向；看好高股息、周期股和泛消费等投资方向的私募占比均不足10%。这在很大程度预示着，长假之后，科技成长主线依然是资金的关注焦点。（中证金牛座）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8275628.d.html</link>
-            <guid>4410597</guid>
-            <pubDate>Mon, 29 Sep 2025 12:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首钢股份：拟2.6亿元-5.2亿元回购公司股份】首钢股份公告，拟以集中竞价交易方式回购公司股份，预计回购股份数量为4000万股至8000万股，回购总金额2.6亿元-5.2亿元，回购价格不超过人民币6.5元/股。回购股份将用于实施股权激励计划。回购期限为自董事会审议通过回购股份方案之日起12个月内。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8275549.d.html</link>
-            <guid>4410596</guid>
-            <pubDate>Mon, 29 Sep 2025 12:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两名行业消息人士称，土耳其杰伊汉港正接收来自伊拉克库尔德地区的原油，流量为每日15万至16万桶。]]></title>
-            <guid>4410595</guid>
-            <pubDate>Mon, 29 Sep 2025 12:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京证券向特定对象发股申请获上交所审核通过】2025年9月29日，南京证券股份有限公司收到上海证券交易所出具的《关于南京证券股份有限公司向特定对象发行股票的交易所审核意见》，上交所认为公司向特定对象发行股票申请符合发行条件、上市条件和信息披露要求。不过，该事项尚需经中国证监会同意注册后方可实施，最终能否获得同意注册的决定及时间存在不确定性。公司董事会及全体董事保证公告内容真实准确完整，并将根据进展及时披露信息，提醒投资者注意投资风险。此公告于9月30日发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1698840.d.html</link>
-            <guid>4410594</guid>
-            <pubDate>Mon, 29 Sep 2025 12:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛力斯：拟每10股派发3.10元现金红利】赛力斯(601127.SH)公告称，公司2025年半年度实现归属于上市公司股东的净利润为29.41亿元。公司拟以实施权益分派股权登记日登记的A股总股本为基数，向全体A股股东每10股派送现金3.10元（含税），合计拟派发现金红利5.06亿元，占净利润的17.22%。该预案尚需提交公司2025年第二次临时股东大会审议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1698787.d.html</link>
-            <guid>4410593</guid>
-            <pubDate>Mon, 29 Sep 2025 12:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：在当前政策设定下，通胀已达到目标。英国央行对CPI的核心预测最有可能成为现实。工资增长将保持在目标一致的水平。]]></title>
-            <guid>4410592</guid>
-            <pubDate>Mon, 29 Sep 2025 12:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：工资调整与薪酬调查结果相符。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1698429.d.html</link>
-            <guid>4410591</guid>
-            <pubDate>Mon, 29 Sep 2025 12:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财政部长哈达德：我们将继续推进财政框架中设定的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8274134.d.html</link>
-            <guid>4410590</guid>
-            <pubDate>Mon, 29 Sep 2025 12:26:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财长哈达德：巴西的潜在国内生产总值可能高于 2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3209497.d.html</link>
-            <guid>4410589</guid>
-            <pubDate>Mon, 29 Sep 2025 12:26:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛力斯：已支付完毕购买华为持有的引望智能10%股权的全部对价】赛力斯(601127.SH)公告称，公司全资子公司赛力斯汽车拟以支付现金的方式购买华为技术有限公司持有的深圳引望智能技术有限公司10%股权，交易金额为人民币115亿元。截至本公告披露日，《股权转让协议》约定的第三笔付款先决条件已满足，赛力斯汽车已向华为支付完毕《股权转让协议》约定的第三笔转让价款人民币34.5亿元，赛力斯汽车已支付完毕本次交易的全部对价。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3209353.d.html</link>
-            <guid>4410588</guid>
-            <pubDate>Mon, 29 Sep 2025 12:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：需注意食品价格对家庭通胀预期的重要性。自2022年以来，家庭通胀预期似乎对食品价格更加敏感。相信凭借当前的紧缩利率，我们将使通胀率重回目标水平，而市场预期也支持这一点。]]></title>
-            <guid>4410587</guid>
-            <pubDate>Mon, 29 Sep 2025 12:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                            现货黄金刚刚跌破3820.00美元/盎司关口，最新报3819.90美元/盎司，日内涨1.56%；COMEX黄金期货主力最新报3849.20美元/盎司，日内涨1.06%。]]></title>
-            <guid>4410586</guid>
-            <pubDate>Mon, 29 Sep 2025 12:24:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩媒：美军证实在韩国正式部署MQ-9“死神”无人机】据韩联社报道， 驻韩美军29日证实在位于韩国全罗北道的群山空军基地正式部署MQ-9“死神”无人机。韩联社在报道中炒作称，监视中方在黄海的活动可能是此举意图之一。对于美韩在朝鲜半岛的军事动向，中方此前明确表态，半岛形势高度复杂敏感，有关各方都应保持克制，多做有利于半岛和平稳定的事。报道称，驻韩美军第7航空队当天发布新闻稿称，由MQ-9无人机组成的第431远征侦察中队在群山空军基地正式成立。驻韩美军方面声称，此举将巩固美韩同盟，展现两国对“印太地区”安全和稳定的承诺。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8272570.d.html</link>
-            <guid>4410585</guid>
-            <pubDate>Mon, 29 Sep 2025 12:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[索拉纳公司将有权以折扣价从基金会购买一定数量的SOL代币。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3208872.d.html</link>
-            <guid>4410584</guid>
-            <pubDate>Mon, 29 Sep 2025 12:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国政府：根据伊朗核制裁制度新增71项制裁对象指定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1697336.d.html</link>
-            <guid>4410582</guid>
-            <pubDate>Mon, 29 Sep 2025 12:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股盘前要闻速递】
-①美股三大股指期货齐涨：道指期货涨0.36%，标普500期货涨0.48%，纳指期货涨0.64%。
-②欧洲股市指数齐涨：德国DAX30涨0.02%，法国CAC40涨0.24%，欧洲斯托克50涨0.07%，英国富时100涨0.41%。
-③本周美国政府停摆风险与非农数据齐袭，停摆或推迟关键经济数据发布，投资者聚焦非农数据以判断美联储降息预期。
-④克利夫兰联储主席哈马克“放鹰”，表示通胀已经连续超过4年半未能实现2%的通胀目标，且可能持续高于目标至2028年，故反对降息并强调需维持限制性政策。
-⑤黄金价格周一涨近2%突破3830美元历史新高，实现连续六周上涨，德银指出央行和ETF强劲需求是主要推动力。美国黄金储备价值在黄金创纪录的上涨后达到1万亿美元。
-⑥欧佩克+无视供应过剩警告，市场消息称该组织拟在11月再增产至少13.7万桶/日，持续推进夺回全球市场份额战略，油价韧性面临考验。
-⑦MoonLake盘前暴跌超87%，因其实验性皮肤病药物晚期临床试验数据不及预期，疗效仅为14%。
-⑧中国二手车零售商优信盘前涨超5%，Q2零售交易量同比增长超150%，达到10385辆，仓储式大卖场模式展现强劲增长潜力。
-⑨游戏开发商艺电（Electronic Arts，EA）盘前涨近5%。公司正接近达成一项私有化交易，将被PIF、银湖资本和AFFINITY以550亿美元、每股210美元收购。 其中200亿美元债务融资由摩根大通完全独家承诺提供。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3208458.d.html</link>
-            <guid>4410581</guid>
-            <pubDate>Mon, 29 Sep 2025 12:22:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艺电（Electronic Arts）将以550亿美元与公共投资基金（PIF）和银湖资本（Silver Lake）达成私有化交易，盘前股价上涨5.3%。]]></title>
-            <guid>4410580</guid>
-            <pubDate>Mon, 29 Sep 2025 12:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：我们已看到劳动力市场持续放松，工资增长趋于正常化。我认为劳动力市场的宽松态势正成为我判断通胀前景的基石。]]></title>
-            <guid>4410579</guid>
-            <pubDate>Mon, 29 Sep 2025 12:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光洋股份：拟与东方富海等共同投资3亿元设立机器人产业投资基金】光洋股份公告，公司拟与东方富海（芜湖）股权投资基金管理企业（有限合伙）、黄山市城市投资管理有限公司、深圳市东方富海投资管理股份有限公司共同投资设立黄山建投富海光洋机器人产业基金合伙企业（有限合伙），基金总规模3亿元，其中公司作为有限合伙人出资1.5亿元，占全体合伙人认缴出资总额的50%。该基金的投资方向将围绕人形机器人、具身智能零部件、低空经济等领域及上下游相关产业机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3208303.d.html</link>
-            <guid>4410578</guid>
-            <pubDate>Mon, 29 Sep 2025 12:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油失守64美元/桶，日内跌幅1.50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3208159.d.html</link>
-            <guid>4410577</guid>
-            <pubDate>Mon, 29 Sep 2025 12:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行官员：整体通胀率将小幅进一步上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3208122.d.html</link>
-            <guid>4410576</guid>
-            <pubDate>Mon, 29 Sep 2025 12:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿拉伯航空：迎来首架空客A320NEO客机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8270320.d.html</link>
-            <guid>4410575</guid>
-            <pubDate>Mon, 29 Sep 2025 12:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盈趣科技：控股股东质押1000万股股份】盈趣科技公告，控股股东万利达工业质押1000万股股份，占其所持股份比例2.57%，占总股本比例1.29%，质押起始日为2025年9月26日，质押到期日为2026年9月26日，质权人为上海浦东发展银行股份有限公司深圳分行，质押用途为置换融资。同时，万利达工业解除质押1250万股股份，占其所持股份比例3.22%，占总股本比例1.61%，解除质押日为2025年9月29日，质权人为国泰海通证券股份有限公司。截至2025年9月28日，公司总股本为7.77亿股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3208027.d.html</link>
-            <guid>4410574</guid>
-            <pubDate>Mon, 29 Sep 2025 12:20:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行：直到最近，通货膨胀率仍处于大幅下降态势。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8270130.d.html</link>
-            <guid>4410573</guid>
-            <pubDate>Mon, 29 Sep 2025 12:19:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲安全与合作组织（OSCE）监测团团长就摩尔多瓦选举发表看法：选举前排除两个政党的决定破坏了选举的“法律确定性”。]]></title>
-            <guid>4410572</guid>
-            <pubDate>Mon, 29 Sep 2025 12:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山河药辅：控股股东、实际控制人由尹正龙变更为吴长虹】山河药辅(300452.SZ)公告称，公司原控股股东、实际控制人尹正龙逝世后，其妻吴长虹和女儿尹稚雅通过继承获得公司股份。本次权益变动后，吴长虹将直接持有山河药辅20.172%股份，尹稚雅直接持有6.724%股份。同时，吴长虹与尹稚雅签署了《表决权委托协议》，尹稚雅将其所持有山河药辅全部股份的身份性权利，包括参会权、提名权、提案权、表决权等身份性权利全部委托吴长虹行使。山河药辅控股股东、实际控制人由尹正龙变更为吴长虹。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8269714.d.html</link>
-            <guid>4410571</guid>
-            <pubDate>Mon, 29 Sep 2025 12:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储哈玛克：服务业通胀上升令人担忧】美联储哈玛克周一表示，美国服务业通胀水平相对较高令人担忧，物价过快增长比就业市场走软更令人担忧。哈马克在欧洲央行的一次会议上表示：“目前，从我的立场来看，通胀仍然是双重使命中更大的担忧。”“通胀率仍然高于我希望的水平；它正朝着错误的方向前进。”]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3207747.d.html</link>
-            <guid>4410570</guid>
-            <pubDate>Mon, 29 Sep 2025 12:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[罗马尼亚国防部长称又有一架无人机坠落在罗马尼亚境内。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3207636.d.html</link>
-            <guid>4410569</guid>
-            <pubDate>Mon, 29 Sep 2025 12:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行的连恩：通胀前景相当良性。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8269299.d.html</link>
-            <guid>4410568</guid>
-            <pubDate>Mon, 29 Sep 2025 12:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首钢股份：拟回购4000万股至8000万股股份】首钢股份公告，公司拟回购部分A股社会公众股用于实施股权激励计划，回购价格不超过6.5元/股。预计回购股份数量为4000万股至8000万股，占公司总股本的0.52%至1.03%。按照回购价格上限测算，预计回购金额约为2.6亿元至5.2亿元。本次回购股份的实施期限为自董事会审议通过最终回购股份方案之日起不超过12个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3207570.d.html</link>
-            <guid>4410567</guid>
-            <pubDate>Mon, 29 Sep 2025 12:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺华将在美国推出可善挺®（司库奇尤单抗）的直接面向患者平台，平台将于11月1日生效。]]></title>
-            <guid>4410566</guid>
-            <pubDate>Mon, 29 Sep 2025 12:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油期货跌幅扩大至2%，报67.839美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3207502.d.html</link>
-            <guid>4410565</guid>
-            <pubDate>Mon, 29 Sep 2025 12:17:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国FDA批准强生旗下Tremfya用于治疗儿童银屑病及关节炎。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1696188.d.html</link>
-            <guid>4410564</guid>
-            <pubDate>Mon, 29 Sep 2025 12:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BETA TECHNOLOGIES表示，摩根士丹利、高盛集团有限责任公司、美国银行证券和杰富瑞等将担任其首次公开募股（IPO）的承销商。]]></title>
-            <guid>4410563</guid>
-            <pubDate>Mon, 29 Sep 2025 12:15:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青木科技：控股股东、实际控制人及其一致行动人计划减持不超过3%公司股份】青木科技(301110.SZ)公告称，公司控股股东、实际控制人吕斌及其一致行动人允宜合伙计划自公告发布之日起十五个交易日后的三个月内，以集中竞价或大宗交易方式合计减持公司股份不超过2,776,000股，占公司总股本的3.00%。减持原因为股东资金需求，减持价格将根据市场价格和交易方式确定，且不低于发行价。减持计划期间如有除权除息事项，减持价格下限将相应调整。本次减持计划符合相关法律法规及规范性文件的规定，不会导致公司控制权变更，对公司治理结构和持续经营无重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1696032.d.html</link>
-            <guid>4410562</guid>
-            <pubDate>Mon, 29 Sep 2025 12:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩尔多瓦议会选举计票完成，执政党获得多数票】摩尔多瓦中央选举委员会宣布，议会选举投票统计已100%完成，执政党行动和团结党获得50.2%的多数票。选举于9月28日举行，投票率超过52%，议员任期4年，采用比例代表制选举产生。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1695940.d.html</link>
-            <guid>4410561</guid>
-            <pubDate>Mon, 29 Sep 2025 12:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防股在盘前交易中上涨，RTX涨2.2%，L3Harris涨1.7%，洛克希德·马丁涨1.6%，波音涨0.7%。]]></title>
-            <guid>4410560</guid>
-            <pubDate>Mon, 29 Sep 2025 12:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST凯利：拟1.52亿元转让上海利格泰7.0130%股份】ST凯利公告，为进一步优化资产结构，提高资金使用效率，公司拟将持有的上海利格泰7.0130%的股份以1.52亿元转让给上海利格智创企业管理合伙企业（有限合伙）。此次交易构成关联交易，交易金额为1.52亿元。交易完成后，公司将不再持有上海利格泰及其子公司的股份。此次交易预计将增加归属于上市公司股东的净利润6993.1万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8267868.d.html</link>
-            <guid>4410559</guid>
-            <pubDate>Mon, 29 Sep 2025 12:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[航天航空制造商BETA TECHNOLOGIES寻求在纽约证交所上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8267865.d.html</link>
-            <guid>4410558</guid>
-            <pubDate>Mon, 29 Sep 2025 12:13:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[REZOLVE AI 重申与微软和谷歌的合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3206859.d.html</link>
-            <guid>4410557</guid>
-            <pubDate>Mon, 29 Sep 2025 12:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澄星股份：拟质押应收账款4.02亿元】澄星股份公告，因公司及全资子公司澄星日化搬迁注销房产证、土地证需要和后续融资需要，拟将部分应收账款质押给江苏资产管理有限公司。质押的应收账款为搬迁补偿总额的30%，金额为人民币4.02亿元。此举旨在解除公司及澄星日化搬迁范围内已抵押给江苏资产的部分房产、土地上的抵押权，并解除宣威磷电为担保公司债务的清偿已抵押给江苏资产的97套机器设备上的抵押权。该议案已通过董事会审议，尚需提交股东大会审议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3206626.d.html</link>
-            <guid>4410556</guid>
-            <pubDate>Mon, 29 Sep 2025 12:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德向美国食品药品监督管理局（FDA）重新提交了 Awiqli 用于治疗 2 型糖尿病的申请。]]></title>
-            <guid>4410555</guid>
-            <pubDate>Mon, 29 Sep 2025 12:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈玛克：将对经济表现持开放态度。通胀预期已锚定，但有一些令人担忧的迹象。需要采取紧缩性货币政策以抑制通胀。]]></title>
-            <guid>4410554</guid>
-            <pubDate>Mon, 29 Sep 2025 12:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【9月29日《新闻联播》主要内容】今天《新闻联播》主要内容有： 1.中共中央政治局召开会议 讨论拟提请二十届四中全会审议的文件 中共中央总书记习近平主持会议； 2.习近平在中共中央政治局第二十二次集体学习时强调 系统推进我国宗教中国化 积极引导宗教与社会主义社会相适应； 3.烈士纪念日向人民英雄敬献花篮仪式9月30日上午举行 习近平等党和国家领导人将出席； 4.《习近平的文化情缘》《习近平经济思想系列讲读》在香港和澳门地区主流媒体播出； 5.李强会见朝鲜外相； 6.【“十四五”高质量发展答卷】我国建成世界上规模最大水利基础设施体系； 7.【“十四五”高质量发展答卷】文旅融合发展 点亮美好生活； 8.国庆中秋将至 各地洋溢喜庆氛围； 9.铁路国庆中秋假期运输今日启动； 10.明家犯罪集团案今天一审公开宣判； 11.国内联播快讯： （1）前八个月我国物流运行向好态势更趋明显； （2）我国将支持各类企业深度参与“人工智能+”行动； （3）北京公布40个城市更新最佳实践项目； （4）我国成功发射两星 长征二号丁运载火箭突破百发； （5）内蒙古千万千瓦级“沙戈荒”新能源基地全面开工； （6）青藏联网二期扩建工程正式投运； （7）总台与香港特区政府开启多项合作； （8）“湾区升明月”大湾区电影音乐晚会在澳门举行； 12.我驻外使馆使团举办活动庆祝中华人民共和国成立76周年； 13.巴称加沙地带遭以军袭击致79人死亡 以军称地面部队在加沙城推进； 14.国际联播快讯： （1）俄对乌发动大规模打击 乌向俄发动进攻； （2）美密歇根州发生枪击致5死8伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8266061.d.html</link>
-            <guid>4410553</guid>
-            <pubDate>Mon, 29 Sep 2025 12:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟理事会将尼加拉瓜制裁措施延长一年。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3205869.d.html</link>
-            <guid>4410552</guid>
-            <pubDate>Mon, 29 Sep 2025 12:09:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈马克：控制通胀预期至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3205792.d.html</link>
-            <guid>4410551</guid>
-            <pubDate>Mon, 29 Sep 2025 12:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艺电：若交易在某些情况下终止，公司需向奥克鹰收购公司支付10亿美元的终止费。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3205710.d.html</link>
-            <guid>4410550</guid>
-            <pubDate>Mon, 29 Sep 2025 12:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈马克：其他劳动力市场措施保持稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8264605.d.html</link>
-            <guid>4410549</guid>
-            <pubDate>Mon, 29 Sep 2025 12:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈玛克：预计2027年通胀率回落至2%。开始看到劳动力市场出现脆弱迹象，劳动力市场正在发生变化。]]></title>
-            <guid>4410548</guid>
-            <pubDate>Mon, 29 Sep 2025 12:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士国家银行：向美国财政部和美国金融部门重申，其不会出于竞争目的干预汇率。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8263912.d.html</link>
-            <guid>4410547</guid>
-            <pubDate>Mon, 29 Sep 2025 12:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈马克：目前美联储面临挑战，在两大目标上都受到挑战（注：美联储的两大目标通常指充分就业和稳定物价。）]]></title>
-            <guid>4410546</guid>
-            <pubDate>Mon, 29 Sep 2025 12:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡罗特：控股股东增持2000万港元】卡罗特公告，控股股东Yili Investment计划自本公告日期起六个月内增持公司股份，增持金额不低于2000万港元；截至公告日，其持有4亿股，占已发行股份约72.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8263592.d.html</link>
-            <guid>4410545</guid>
-            <pubDate>Mon, 29 Sep 2025 12:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储的哈马克：服务业通胀高企是一个切实令人担忧的问题。关税是通胀故事的重要组成部分。]]></title>
-            <guid>4410544</guid>
-            <pubDate>Mon, 29 Sep 2025 12:06:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈马克：通胀率过高，且趋势朝着不利方向发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1693621.d.html</link>
-            <guid>4410543</guid>
-            <pubDate>Mon, 29 Sep 2025 12:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 艺电：200亿美元债务融资由摩根大通完全独家承诺提供。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1693560.d.html</link>
-            <guid>4410542</guid>
-            <pubDate>Mon, 29 Sep 2025 12:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[可可出口商协会：科特迪瓦8月可可研磨量为39,276吨，去年同期为61,551吨。]]></title>
-            <guid>4410541</guid>
-            <pubDate>Mon, 29 Sep 2025 12:05:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广立微：拟与浙江大学共建硅光技术及量测装备联合研发中心】广立微(301095.SZ)公告称，公司拟与浙江大学签署《共建“浙江大学-广立微硅光技术及量测装备联合研发中心”协议》，共同开展晶圆级硅光测试设备、硅光器件良率提升解决方案以及硅光高效量产光电监控方案研发，并建立校企深度融合联动的人才引进与培养机制。广立微计划3年内投入中心的资金规模不低于1500万元人民币。本次合作预计短期内对公司经营业绩不会产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1693447.d.html</link>
-            <guid>4410540</guid>
-            <pubDate>Mon, 29 Sep 2025 12:04:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[可可出口商协会：截至8月底，科特迪瓦2024/2025年度可可研磨量达55.4331万吨，上年经修订后的研磨量为59.8126万吨。]]></title>
-            <guid>4410539</guid>
-            <pubDate>Mon, 29 Sep 2025 12:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[优步外卖（Uber Eats）应用新增合作商家，包括西塔雷拉（Citarella）、劳斯市场（Rouses Markets）、乡村超市（Town and Country）、狂野叉子（Wild Fork）和罗索尔超市（Rosauers Supermarkets）。]]></title>
-            <guid>4410538</guid>
-            <pubDate>Mon, 29 Sep 2025 12:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艺电：预计交易完成时将获得 180 亿美元资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8261854.d.html</link>
-            <guid>4410537</guid>
-            <pubDate>Mon, 29 Sep 2025 12:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南省普洱市人大常委会原党组成员魏刚被“双开”】中央纪委国家监委网站9月29日通报，据云南省纪委监委消息：日前，经云南省委批准，云南省纪委监委对普洱市人大常委会原党组成员、副主任魏刚严重违纪违法问题进行了立案审查调查。经查，魏刚身为党员领导干部，丧失理想信念，背弃初心使命，搞迷信活动；违背组织原则，组织函询时不如实说明问题；廉洁底线失守，将应当由个人支付的费用由他人支付，利用职权为亲属经营活动谋取利益；用公款报销个人费用；利用职务便利为他人在工程承揽方面谋取利益，非法收受巨额财物；利用职务便利，挪用公款。魏刚严重违反党的政治纪律、组织纪律、廉洁纪律，构成严重职务违法，并涉嫌受贿罪、挪用公款罪，且在党的十八大后不收敛、不收手，性质严重、影响恶劣，应予以严肃处理。依据《中国共产党纪律处分条例》《中华人民共和国监察法》《中华人民共和国公职人员政务处分法》等有关规定，经云南省纪委常委会会议研究并报云南省委批准，决定给予魏刚开除党籍处分；由云南省监委给予其开除公职处分；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1692982.d.html</link>
-            <guid>4410536</guid>
-            <pubDate>Mon, 29 Sep 2025 12:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艺电将被PIF、SILVER LAKE和AFFINITY以550亿美元收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3204130.d.html</link>
-            <guid>4410535</guid>
-            <pubDate>Mon, 29 Sep 2025 12:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艺电：交易较未受影响的股价溢价25% 。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1692827.d.html</link>
-            <guid>4410534</guid>
-            <pubDate>Mon, 29 Sep 2025 12:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[派拉蒙天空舞公司：宣布与TKO集团控股公司达成长期媒体版权协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8260893.d.html</link>
-            <guid>4410533</guid>
-            <pubDate>Mon, 29 Sep 2025 12:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艺电公司将以每股210美元现金的交易私有化，ANDREW WILSON继续担任CEO。]]></title>
-            <guid>4410532</guid>
-            <pubDate>Mon, 29 Sep 2025 12:02:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波罗的海干散货指数跌1.73%，至2220点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3203805.d.html</link>
-            <guid>4410531</guid>
-            <pubDate>Mon, 29 Sep 2025 12:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安奈儿：聘任杨文涛为总经理、宋欢洋为财务负责人】安奈儿9月29日晚间公告，公司董事会于近日收到曹璋、冯旭的书面辞职报告。因工作调整原因，曹璋辞去公司董事长等职务，辞职后将继续担任公司全资子公司深圳市安奈儿品牌运营有限公司总经理。冯旭辞去公司副董事长、副总经理兼财务负责人等职务，辞职后将继续担任安奈儿品牌财务负责人。曹璋的辞职将导致审计委员会成员低于3人，曹璋将继续履行职责至选举出新的董事，冯旭的辞职报告自送达公司董事会之日起生效。公司董事会同意聘任杨文涛为公司总经理，聘任宋欢洋为公司财务负责人，上述人员任期自本次董事会审议通过之日起至第四届董事会任期届满之日止。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8259750.d.html</link>
-            <guid>4410530</guid>
-            <pubDate>Mon, 29 Sep 2025 12:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士与美国就外汇事宜发表联合声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1692464.d.html</link>
-            <guid>4410529</guid>
-            <pubDate>Mon, 29 Sep 2025 12:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国、瑞士再次确认不会将外汇汇率作为竞争目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8259495.d.html</link>
-            <guid>4410528</guid>
-            <pubDate>Mon, 29 Sep 2025 12:01:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【个人信息跨境安全管理迎来国家标准！明年3月1日正式实施】市场监管总局（国家标准委）批准发布《数据安全技术 个人信息跨境处理活动安全认证要求》推荐性国家标准，将于2026年3月1日正式实施。该标准由中国网络安全审查认证和市场监管大数据中心牵头编制，是我国个人信息跨境安全管理领域的首项国家标准，规定了跨境处理个人信息时相关方应遵守的基本原则、基本要求和个人信息主体权益保障要求，为规范个人信息跨境处理活动提供了依据。在国内外尚缺乏相关成熟标准的背景下，该标准为推进个人信息跨境安全标准化建设提供了宝贵的实践探索。不仅有助于提升个人信息跨境处理活动的透明度和可信性，推动认证工作规范化实施和发展，还将有效促进个人信息依法合规跨境流动，服务高水平对外开放，为构建安全、有序、自由的国际数据流通环境提供有力支撑。该项标准将为个人信息保护认证提供依据标准，推动个人信息保护认证制度落地实施，为个人信息跨境流动提供便捷、权威的合规路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3203532.d.html</link>
-            <guid>4410527</guid>
-            <pubDate>Mon, 29 Sep 2025 12:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥8月份失业率2.93%，预估2.85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1692219.d.html</link>
-            <guid>4410526</guid>
-            <pubDate>Mon, 29 Sep 2025 12:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈门那美股盘前涨超17%】哈门那美股盘前涨超17%，现报299.999美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1692188.d.html</link>
-            <guid>4410525</guid>
-            <pubDate>Mon, 29 Sep 2025 12:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strategy买入196枚比特币总买入价为2,210万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1692182.d.html</link>
-            <guid>4410524</guid>
-            <pubDate>Mon, 29 Sep 2025 12:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富奥股份：拟2000万增资富奥智慧完善电池循环产业链布局】2025年9月28日，富奥汽车零部件股份有限公司召开董事会，审议通过对富奥智慧能源科技有限公司增资议案。此前因碳酸锂价格低迷，原定增资及员工跟投项目终止。此次富奥智慧将通过公开挂牌引入战略投资者，增资金额2000万元，入股价格以国资部门备案评估值为准。富奥智慧目前由富奥股份100%持股，截至2025年6月30日，所有者权益8015.45万元。此次增资旨在完善“梯次利用+再生利用”全产业链布局，但挂牌实施存在不确定性，公司将及时披露进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8258977.d.html</link>
-            <guid>4410523</guid>
-            <pubDate>Mon, 29 Sep 2025 12:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富奥股份拟1元收购控股子公司少数股权，强化热管理业务】2025年9月28日，富奥股份召开会议，审议通过购买控股子公司一汽 - 法雷奥汽车空调有限公司少数股东股权议案。公司拟以1元总价收购法雷奥冷却系统公司36.5%股权、伊藤忠商事株式会社12.5%股权。交易完成后，公司将100%控股，该公司更名为富奥华启汽车热管理系统（长春）有限公司。这将提升热系统业务资源整合与管理决策效率，巩固公司热管理领域竞争力。交易不构成关联与重大资产重组，无需股东会审议。截至公告日，相关协议未签署，公司将跟进进展并依规披露信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwi3203388.d.html</link>
-            <guid>4410522</guid>
-            <pubDate>Mon, 29 Sep 2025 12:00:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strategy在9月22日至28日买入196枚比特币。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8258899.d.html</link>
-            <guid>4410521</guid>
-            <pubDate>Mon, 29 Sep 2025 12:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：艺电的收购交易接近达成，可能于今日宣布，收购价为每股210美元，由银湖资本牵头。]]></title>
-            <guid>4410520</guid>
-            <pubDate>Mon, 29 Sep 2025 11:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心表示，“伊梅尔达”继续向北移动，强度略有增强，今天上午巴哈马群岛西北部仍受热带风暴影响。]]></title>
-            <guid>4410519</guid>
-            <pubDate>Mon, 29 Sep 2025 11:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场分析：美国就业数据将是黄金后续走势的关键】Pepperstone分析师迪林·吴称，鉴于黄金持续创新高，美国就业数据将是决定黄金下一步走势的关键。市场对美联储进一步降息的预期正在支撑黄金。这位研究策略师表示，特朗普的关税政策、地缘政治紧张局势以及美国政府可能停摆等因素，也刺激了市场对黄金这类避险资产的需求。此外，动量交易者和持续流入黄金ETF的资金也提供了支撑。本周，市场的目光都集中在美国劳动力市场数据上。迪林·吴指出，弱于预期的就业人数和失业率持稳将增强美联储放松货币政策的理由，从而进一步推高黄金价格。目前黄金多头占据主导地位，除非发生重大的意外事件，比如美联储改变立场，否则黄金的阻力最小路径仍然是上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwm1691836.d.html</link>
-            <guid>4410518</guid>
-            <pubDate>Mon, 29 Sep 2025 11:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艺电股票暂停交易，待消息发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-09-29/detail-infseiwf8257962.d.html</link>
-            <guid>4410517</guid>
-            <pubDate>Mon, 29 Sep 2025 11:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                            现货黄金刚刚突破3830.00美元/盎司关口，最新报3830.02美元/盎司，日内涨1.83%；COMEX黄金期货主力最新报3858.60美元/盎司，日内涨1.30%。]]></title>
-            <guid>4410516</guid>
-            <pubDate>Mon, 29 Sep 2025 11:57:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

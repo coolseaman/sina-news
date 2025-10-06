@@ -6,6 +6,466 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4419999,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2226003.d.html",
+            "title": "AMD首席执行官苏姿丰：与 OpenAI 的合作是对其技术的重要认可。",
+            "date_modified": "2025-10-06T15:17:31.000Z"
+        },
+        {
+            "id": 4419998,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2225927.d.html",
+            "title": "AMD首席执行官苏姿丰：与OpenAI的交易是本公司科学技术的一个重大验证。",
+            "date_modified": "2025-10-06T15:17:08.000Z"
+        },
+        {
+            "id": 4419997,
+            "content_html": "",
+            "title": "美股周一早盘，贝宝（PayPal，PYPL）上涨2.3%，此前该公司针对美国的假日购物季推出“先买后付”交易返还现金5%的活动。该促销适用于年底前符合条件的交易，同时贝宝公司正在全美实体店推广其“月付”选项。",
+            "date_modified": "2025-10-06T15:16:37.000Z"
+        },
+        {
+            "id": 4419996,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3928092.d.html",
+            "title": "芬兰外交部长：芬兰希望对所有俄罗斯进口商品实施制裁。",
+            "date_modified": "2025-10-06T15:15:20.000Z"
+        },
+        {
+            "id": 4419995,
+            "content_html": "",
+            "title": "丹麦首相：正与北约秘书长吕特探讨北约如何加强威慑与防御能力，并确保对乌克兰的持续支持。",
+            "date_modified": "2025-10-06T15:15:05.000Z"
+        },
+        {
+            "id": 4419994,
+            "content_html": "",
+            "title": "美股周一早盘，Criteo（CRTO）上涨0.3%，DoorDash（DASH）上涨3.2%，此前二者宣布达成多年合作伙伴关系，以扩大零售媒体覆盖。Criteo将增强DoorDash的广告销售能力，为品牌提供在购买环节触达消费者的新途径。",
+            "date_modified": "2025-10-06T15:14:20.000Z"
+        },
+        {
+            "id": 4419993,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5439164.d.html",
+            "title": "OpenAI：推理任务的准入门槛将降低。",
+            "date_modified": "2025-10-06T15:13:45.000Z"
+        },
+        {
+            "id": 4419992,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3927539.d.html",
+            "title": "OpenAI 考虑通过股权、债务等方式为扩建计划融资。",
+            "date_modified": "2025-10-06T15:10:30.000Z"
+        },
+        {
+            "id": 4419991,
+            "content_html": "",
+            "title": "Clearway能源（CWEN）上涨6.6%，此前公司同意从Deriva能源收购总装机容量613兆瓦的太阳能组合项目，横跨美国八个州。",
+            "date_modified": "2025-10-06T15:10:12.000Z"
+        },
+        {
+            "id": 4419990,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2224081.d.html",
+            "title": "AMD首席执行官苏姿丰：对 OpenAI 充满信心。",
+            "date_modified": "2025-10-06T15:10:04.000Z"
+        },
+        {
+            "id": 4419989,
+            "content_html": "",
+            "title": "美股周一早盘，小牛科技（NIU）上涨13.2%，此前公司宣布第三季度销售额同比增长49%，售出465873辆电动单车。",
+            "date_modified": "2025-10-06T15:08:42.000Z"
+        },
+        {
+            "id": 4419988,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3927356.d.html",
+            "title": "埃塞俄比亚统计局：9 月年度通胀率为 13.2%，低于 8 月的 13.6%。",
+            "date_modified": "2025-10-06T15:08:29.000Z"
+        },
+        {
+            "id": 4419987,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3927120.d.html",
+            "title": "AMD首席执行官苏姿丰：双方（AMD+OpenAI）开始大规模建设（AI算力）。",
+            "date_modified": "2025-10-06T15:07:03.000Z"
+        },
+        {
+            "id": 4419986,
+            "content_html": "",
+            "title": "总部位于加拿大的数据中心HIVE数字科技（HIVE）上涨21.6%，此前该公司宣布9月开采267枚比特币，创下今年最高月产量。",
+            "date_modified": "2025-10-06T15:07:00.000Z"
+        },
+        {
+            "id": 4419985,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3927088.d.html",
+            "title": "OpenAI 将在其自身及其他数据中心部署 AMD 芯片。",
+            "date_modified": "2025-10-06T15:06:44.000Z"
+        },
+        {
+            "id": 4419984,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2222720.d.html",
+            "title": "OpenAI Greg Brockman：产能将限制未来的（产品）发布。",
+            "date_modified": "2025-10-06T15:05:25.000Z"
+        },
+        {
+            "id": 4419983,
+            "content_html": "",
+            "title": "美股周一早盘，量子计算公司（Quantum Computing，QUBT）下跌10.6%，此前公司宣布计划通过私募融资7.5亿美元，用于推动商业化及战略收购。",
+            "date_modified": "2025-10-06T15:05:11.000Z"
+        },
+        {
+            "id": 4419982,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5437923.d.html",
+            "title": "英国央行行长贝利：需要对人工智能（AI）和诸多风险采取务实和开放的态度。",
+            "date_modified": "2025-10-06T15:04:01.000Z"
+        },
+        {
+            "id": 4419981,
+            "content_html": "",
+            "title": "美股周一早盘，礼来公司（LLY）股价上涨1.7%，此前该公司宣布在印度投资10亿美元以扩大制造布局，重点聚焦糖尿病和癌症等关键疗法。",
+            "date_modified": "2025-10-06T15:03:19.000Z"
+        },
+        {
+            "id": 4419980,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5437673.d.html",
+            "title": "英国央行行长贝利：拥有一个支持这种稳健推进式发展的投资环境至关重要。",
+            "date_modified": "2025-10-06T15:02:24.000Z"
+        },
+        {
+            "id": 4419979,
+            "content_html": "",
+            "title": "尼康（OTCPK:NINOF）股价上涨近6%，此前依视路陆逊梯卡将其持股比例增至10.6%。分析师称此举彰显对尼康作为芯片制造设备关键供应商地位的信心，未来可能进一步增持股份。",
+            "date_modified": "2025-10-06T15:01:40.000Z"
+        },
+        {
+            "id": 4419978,
+            "content_html": "",
+            "title": "美股周一早盘，壳牌（SHEL）股价上涨0.9%，此前卡塔尔能源公司从该公司收购埃及近海North Cleopatra区块27%的权益。壳牌作为作业者保留36%的权益，雪佛龙和Tharwa石油公司持有剩余权益。",
+            "date_modified": "2025-10-06T15:00:23.000Z"
+        },
+        {
+            "id": 4419977,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3926154.d.html",
+            "title": "厄瓜多尔将部分省份的紧急状态延长30天。",
+            "date_modified": "2025-10-06T14:59:13.000Z"
+        },
+        {
+            "id": 4419976,
+            "content_html": "",
+            "title": "巴拉圭前总统奥拉西奥·卡特斯称美国外国资产控制办公室（OFAC）已解除对他的制裁。",
+            "date_modified": "2025-10-06T14:59:06.000Z"
+        },
+        {
+            "id": 4419975,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2220573.d.html",
+            "title": "【双节喜相逢 澳门旅游市场欣欣向荣】今年国庆中秋假期，澳门旅游市场欣欣向荣。叠加中秋节，节日效应明显。据特区政府治安警察局统计，10月1日至4日，各口岸入境旅客总人次接连攀升，4日迎来高峰，超过19万。（新华社）",
+            "date_modified": "2025-10-06T14:58:58.000Z"
+        },
+        {
+            "id": 4419974,
+            "content_html": "",
+            "title": "美股周一早盘，萤火虫航空航天公司（FLY）股价上涨8.9%，该公司计划以8.55亿美元收购SciTec以增强国防能力。这笔预计在2025年底完成的交易，将把SciTec的数据分析和遥感技术专长整合至萤火虫业务组合，强化其对美国国防任务的支持能力。",
+            "date_modified": "2025-10-06T14:58:35.000Z"
+        },
+        {
+            "id": 4419973,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3926088.d.html",
+            "title": "巴西央行行长：央行策略正在取得成效。",
+            "date_modified": "2025-10-06T14:58:18.000Z"
+        },
+        {
+            "id": 4419972,
+            "content_html": "",
+            "title": "美股周一早盘，特斯拉（TSLA）股价上涨3.5%。该公司暗示将于10月7日发布新车型，引发市场对低价车型的猜测。",
+            "date_modified": "2025-10-06T14:57:19.000Z"
+        },
+        {
+            "id": 4419971,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5437161.d.html",
+            "title": "巴西政府声明：卢拉与特朗普交换电话号码以保持直接沟通渠道。",
+            "date_modified": "2025-10-06T14:56:14.000Z"
+        },
+        {
+            "id": 4419970,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2219894.d.html",
+            "title": "巴西政府声明：卢拉与特朗普面对面会晤地点可能在马来西亚。",
+            "date_modified": "2025-10-06T14:55:48.000Z"
+        },
+        {
+            "id": 4419969,
+            "content_html": "",
+            "title": "美股周一早盘，波音公司（BA）上涨2.2%，据悉该公司准备最早于本月将737 MAX产量提升至每月42架。波音计划在2026年进一步增产，可能达到每月53架。",
+            "date_modified": "2025-10-06T14:55:32.000Z"
+        },
+        {
+            "id": 4419968,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2219563.d.html",
+            "title": "纳斯达克中国金龙指数涨幅扩大，现涨1.0%，最新报8838.8点。",
+            "date_modified": "2025-10-06T14:54:34.000Z"
+        },
+        {
+            "id": 4419967,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5436928.d.html",
+            "title": "巴西政府声明：特朗普任命鲁比奥继续与巴西副总统阿尔克明进行谈判。",
+            "date_modified": "2025-10-06T14:54:10.000Z"
+        },
+        {
+            "id": 4419966,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2219447.d.html",
+            "title": "【高盛：高市早苗胜选加剧日本长债波动性 料蔓延至美欧市场】高盛集团称，在高市早苗赢得选举之后，日本长期限政府债券的波动性正在上升，而这种走势可能会波及远至美国和英国的市场。包括Bill Zu在内的策略师在一份报告中写道，高市早苗的崛起存在着推动日本长端收益率上行的风险。策略师们称，对于每10个基点的“特质性日本国债冲击”，投资者可以预期美国、德国和英国的收益率将承受约2至3个基点的上行压力。",
+            "date_modified": "2025-10-06T14:53:59.000Z"
+        },
+        {
+            "id": 4419965,
+            "content_html": "",
+            "title": "全球最大的炊具制造商SEB集团（OTCPK:SEBYF）周一下调2025年财务展望，归因于市场不确定性及9月业绩表现不及预期。",
+            "date_modified": "2025-10-06T14:53:57.000Z"
+        },
+        {
+            "id": 4419964,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2219393.d.html",
+            "title": "市场消息：以色列与哈马斯之间的间接会谈在埃及开始。",
+            "date_modified": "2025-10-06T14:53:40.000Z"
+        },
+        {
+            "id": 4419963,
+            "content_html": "",
+            "title": "巴西总统府：巴西总统卢拉与美国总统特朗普同意“尽快”举行面对面会晤，卢拉表示愿意赴美。",
+            "date_modified": "2025-10-06T14:53:04.000Z"
+        },
+        {
+            "id": 4419962,
+            "content_html": "",
+            "title": "阿斯顿马丁（OTCPK:AMGDF）发布盈利预警后股价下跌10%，主要原因是关税相关挑战。该公司预计批发销量将下滑，并放弃了在2025年下半年实现正自由现金流的计划。",
+            "date_modified": "2025-10-06T14:52:19.000Z"
+        },
+        {
+            "id": 4419961,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5436736.d.html",
+            "title": "巴西总统府：巴西总统卢拉呼吁美国总统特朗普取消对巴西进口商品征收的40%关税。",
+            "date_modified": "2025-10-06T14:52:00.000Z"
+        },
+        {
+            "id": 4419960,
+            "content_html": "",
+            "title": "美股周一早盘，五三银行（FITB）下跌0.3%，联信(Comerica Incorporated，CMA)上涨15%，此前五三银行与联信宣布以109亿美元全股票方式合并，将组建资产规模达2880亿美元的全美第九大银行。",
+            "date_modified": "2025-10-06T14:50:57.000Z"
+        },
+        {
+            "id": 4419959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2218452.d.html",
+            "title": "巴西总统府称，卢拉与特朗普谈了约30分钟。",
+            "date_modified": "2025-10-06T14:50:18.000Z"
+        },
+        {
+            "id": 4419958,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2218163.d.html",
+            "title": "【德国总理：欧洲近期无人机干扰事件是“间谍活动”】德国总理默茨5日说，本月初德国慕尼黑机场无人机干扰事件的责任方尚不清楚，欧洲近期频发的无人机入侵是“进行间谍活动”和“扰乱公共秩序”。 默茨当天在接受德国媒体采访时说，近来欧洲国家领空遭到入侵的频率前所未有，但这些无人机并未携带武器，很可能是在执行侦察任务。他说，这“对我们的安全构成了严重威胁”，德国正在与其他欧洲国家合作开展调查。 默茨说，目前负责处理相关无人机事件的警方装备不够完善，联邦国防军应该在必要时击落入侵德国领空的无人机。德国计划审查和修订相关法律，以明确界定联邦国防军在无人机防御方面的责任。（新华社）",
+            "date_modified": "2025-10-06T14:49:08.000Z"
+        },
+        {
+            "id": 4419957,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3925135.d.html",
+            "title": "工会敦促空中交通管制员在美国政府停摆期间坚守岗位。",
+            "date_modified": "2025-10-06T14:47:34.000Z"
+        },
+        {
+            "id": 4419956,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2217585.d.html",
+            "title": "【波罗的海干散货运价指数结束连续六日的下跌】受海岬型船运价走强提振，波罗的海干散货运价指数周一结束了连续六天的下跌。波罗的海干散货运价指数上涨31点，至1932点。海岬型船运价指数上涨104点，报2828点。海岬型船日均获利增加858美元，至23453美元。巴拿马型船运价指数扩大跌幅，下跌8点，报1654点，为8月19日以来新低。巴拿马型船日均获利下跌75美元，至14886美元。超灵便型散货船运价指数连续7个交易日下跌，下跌4点，报1443点。",
+            "date_modified": "2025-10-06T14:46:55.000Z"
+        },
+        {
+            "id": 4419955,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2217572.d.html",
+            "title": "哥伦比亚8月份出口38.42亿美元，市场预估41亿美元。",
+            "date_modified": "2025-10-06T14:46:51.000Z"
+        },
+        {
+            "id": 4419954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2217174.d.html",
+            "title": "【波音据悉计划最快10月将737 Max产量提高至每月42架 波音拒绝置评】据知情人士透露，波音向供应商发出指引，表示737 Max机型的月产量最快可能在10月提升至42架，凸显出这家飞机制造商对争取美国监管机构批准持日益增长的乐观情绪。知情人士表示，波音还在为4月和2026年底再次提高生产速度做准备。若计划顺利执行，产量到明年年底可能提升至每月约53架。投资者认为，波音这一核心机型的提速计划是公司管理层重新掌控生产流程、恢复美国联邦航空管理局（FAA）信任的最明确信号。波音在过去数年屡屡失误，而竞争对手空中客车却稳步前进。波音拒绝置评。",
+            "date_modified": "2025-10-06T14:45:05.000Z"
+        },
+        {
+            "id": 4419952,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3924798.d.html",
+            "title": "巴西央行行长加利波洛：央行在缺乏财务和预算自主权的情况下存在制度性滞后问题。",
+            "date_modified": "2025-10-06T14:44:01.000Z"
+        },
+        {
+            "id": 4419951,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2216874.d.html",
+            "title": "【民调显示66%以色列人认为应结束加沙冲突】当地时间10月6日，《以色列时报》援引以色列民主研究所（Israel Democracy Institute）的最新民意调查数据报道称，66%的以色列人认为现在应结束加沙地带冲突、27%的人认为时机尚未到来、7%的人表示不确定。报道称，调查数据中66%的这一比例较去年同期调查数据上升了13%。多数认为加沙地带冲突应当结束的以色列人表示，以方被扣押人员处于危险是他们支持停火的主要原因。此外，64%的以色列人认为，以总理内塔尼亚胡应该对2023年10月7日发生的袭击事件承担责任并辞职，其中45%认为内塔尼亚胡应立即辞职，19%认为他应在冲突结束后辞职。（央视新闻）",
+            "date_modified": "2025-10-06T14:43:49.000Z"
+        },
+        {
+            "id": 4419950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5435121.d.html",
+            "title": "哈维分析公司：9月最后一周，美国每周申领失业救济人数适度上升。",
+            "date_modified": "2025-10-06T14:35:04.000Z"
+        },
+        {
+            "id": 4419949,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5435078.d.html",
+            "title": "【初步调查显示菲律宾卡加延省大桥因超载垮塌】总台记者10月6日获悉，菲律宾公共工程与公路部称，初步调查结果显示，卡加延省阿尔卡拉镇大桥垮塌是由超载导致的。该桥的设计限重为18吨，但当时有3辆超载的卡车在大桥上行驶，每辆卡车重约50吨，大大超出限重。（央视新闻）",
+            "date_modified": "2025-10-06T14:34:33.000Z"
+        },
+        {
+            "id": 4419948,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3923787.d.html",
+            "title": "印度石油公司：印度石油公司与孟买天然气有限公司签署谅解备忘录。",
+            "date_modified": "2025-10-06T14:34:04.000Z"
+        },
+        {
+            "id": 4419947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3923767.d.html",
+            "title": "【美国国防部长首次回应“五角大楼披萨指数”】当地时间5日，美国国防部长赫格塞思在美国海军成立250周年庆典接受采访时表示，他知道所谓的“五角大楼披萨指数”。这也是首次有美国国防部长公开回应民间关于美国国防部的这一猜测。由于美国人有食用披萨作为加班快餐的习惯，长期以来，网上有一个名为“五角大楼披萨指数”的网站，通过搜集美国国防部大楼附近披萨店的订单数推测该部门是否存在加班，借此预测美国的军事行动，这一算法吸引了众多网友的关注。",
+            "date_modified": "2025-10-06T14:33:51.000Z"
+        },
+        {
+            "id": 4419946,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5434904.d.html",
+            "title": "美国财政部对芬太尼贩运网络实施制裁，以打击锡那罗亚贩毒集团。",
+            "date_modified": "2025-10-06T14:33:00.000Z"
+        },
+        {
+            "id": 4419945,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3923408.d.html",
+            "title": "加拿大总理卡尼：目标是增加资本支出、缩减运营预算。",
+            "date_modified": "2025-10-06T14:31:06.000Z"
+        },
+        {
+            "id": 4419944,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5434579.d.html",
+            "title": "加拿大将通过春季财政更新补充秋季预算。",
+            "date_modified": "2025-10-06T14:30:33.000Z"
+        },
+        {
+            "id": 4419943,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2211592.d.html",
+            "title": "市场消息：加拿大将在秋季发布预算。",
+            "date_modified": "2025-10-06T14:30:21.000Z"
+        },
+        {
+            "id": 4419942,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2211526.d.html",
+            "title": "德国外长：必须在本周内实现特朗普计划的第一阶段，否则最迟也要在下周初实现。",
+            "date_modified": "2025-10-06T14:29:57.000Z"
+        },
+        {
+            "id": 4419941,
+            "content_html": "",
+            "title": "土耳其哈尔克银行：我们就美国第二巡回上诉法院不利裁决向美国最高法院提起的上诉于10月6日被最高法院驳回。 这一进展并不意味着法律程序已终结。",
+            "date_modified": "2025-10-06T14:29:21.000Z"
+        },
+        {
+            "id": 4419940,
+            "content_html": "",
+            "title": "Critical Metals上涨超70%，有望创下自2024年2月以来的最大百分比涨幅。",
+            "date_modified": "2025-10-06T14:28:55.000Z"
+        },
+        {
+            "id": 4419939,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3923132.d.html",
+            "title": "美国众议长约翰逊：众议院少数党领袖Jeffries正在拼命地请求大家关注他。",
+            "date_modified": "2025-10-06T14:27:39.000Z"
+        },
+        {
+            "id": 4419937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2210750.d.html",
+            "title": "德国总理：如果以色列被驱逐出竞争，那么德国退出竞争也是合适的。",
+            "date_modified": "2025-10-06T14:25:57.000Z"
+        },
+        {
+            "id": 4419936,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2210091.d.html",
+            "title": "美国众议长约翰逊：众议院完成了其职责，轮到参议院民主党人接棒了。",
+            "date_modified": "2025-10-06T14:23:16.000Z"
+        },
+        {
+            "id": 4419935,
+            "content_html": "",
+            "title": "德国外交部长：以色列与德国的关系完好无损，没有其他欧洲国家像德国这样对以色列的存在感到如此有责任感。",
+            "date_modified": "2025-10-06T14:23:02.000Z"
+        },
+        {
+            "id": 4419934,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3922599.d.html",
+            "title": "美国众议长约翰逊：在临时性资金援助方面，我们无需进行任何谈判。",
+            "date_modified": "2025-10-06T14:22:34.000Z"
+        },
+        {
+            "id": 4419932,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3922435.d.html",
+            "title": "德国外交部长：将继续推动确保以色列的安全与生存得到保障。",
+            "date_modified": "2025-10-06T14:21:02.000Z"
+        },
+        {
+            "id": 4419931,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3922403.d.html",
+            "title": "消息人士：哈马斯和以色列代表团抵达沙姆沙伊赫参加加沙问题会谈。",
+            "date_modified": "2025-10-06T14:20:09.000Z"
+        },
+        {
+            "id": 4419930,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2209343.d.html",
+            "title": "卡拉斯：欧盟希望成为加沙过渡机构的一部分。",
+            "date_modified": "2025-10-06T14:19:49.000Z"
+        },
+        {
+            "id": 4419929,
+            "content_html": "",
+            "title": "德国外交部长瓦德普尔：关于“事态发展之后”的种种重大问题不应阻止我们进行加沙问题的谈判。",
+            "date_modified": "2025-10-06T14:19:20.000Z"
+        },
+        {
+            "id": 4419928,
+            "content_html": "",
+            "title": "声明：巴西国家石油公司（Petrobras）的天然气经管道从阿根廷输送至玻利维亚，再从玻利维亚输送至巴西。",
+            "date_modified": "2025-10-06T14:18:37.000Z"
+        },
+        {
             "id": 4419927,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5433457.d.html",
@@ -141,6 +601,19 @@
             "date_modified": "2025-10-06T14:10:09.000Z"
         },
         {
+            "id": 4419907,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2206988.d.html",
+            "title": "【高市早苗顾问：日本央行10月加息恐怕有难度 12月时机更成熟】高市早苗一位亲密的经济顾问指出，日本央行在新政府组建后于本月推行加息可能为时过早，12月时机更为合适。“我认为10月加息可能有难度，”高市早苗的经济政策顾问本田悦朗周一表示。“这取决于宏观经济环境，但我认为12月加息25个基点的问题不大。”本田悦朗的言论暗示，尽管此前有预测认为日本央行可能在10月加息，但随着高市早苗在上周六赢得执政党党首选举，央行很可能稍事等待。作为货币宽松政策的拥护者及前首相安倍晋三的门生，高市早苗预计将在10月15日前后举行的国会投票中成为日本首位女性首相。",
+            "date_modified": "2025-10-06T14:09:58.000Z"
+        },
+        {
+            "id": 4419906,
+            "content_html": "",
+            "title": "美国全国广播公司环球公司（NBCUniversal）在NBA赛事回归美国全国广播公司（NBC）后的广告销售表现超出预期，线性和数字平台的合作伙伴接近170家，广告位几近售罄。",
+            "date_modified": "2025-10-06T14:09:21.000Z"
+        },
+        {
             "id": 4419905,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2206814.d.html",
@@ -153,13 +626,6 @@
             "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2206626.d.html",
             "title": "高盛将英伟达目标价从200美元上调至210美元。",
             "date_modified": "2025-10-06T14:08:06.000Z"
-        },
-        {
-            "id": 4419903,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5432488.d.html",
-            "title": "土耳其哈卡银行（Halkbank）股价延续跌势，下跌8%。",
-            "date_modified": "2025-10-06T14:06:41.000Z"
         },
         {
             "id": 4419902,
@@ -209,463 +675,6 @@
             "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5431913.d.html",
             "title": "美国9月全球供应链压力指数 0.03，前值-0.08。",
             "date_modified": "2025-10-06T14:02:10.000Z"
-        },
-        {
-            "id": 4419895,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2204027.d.html",
-            "title": "摩根士丹利：将贝莱德目标价从每股1224.00美元上调至1362.00美元。",
-            "date_modified": "2025-10-06T14:01:01.000Z"
-        },
-        {
-            "id": 4419894,
-            "content_html": "",
-            "title": "巴西央行行长加利波洛：央行官员目前认为，美元的走势如今更多地是对美国货币政策周期以及降息预期作出反应。",
-            "date_modified": "2025-10-06T14:00:48.000Z"
-        },
-        {
-            "id": 4419893,
-            "content_html": "",
-            "title": "希尔顿推出希尔顿逸境系列酒店，持续快速拓展生活方式酒店组合，该系列专为寻求富有内涵、独具特色酒店体验的宾客而设计。",
-            "date_modified": "2025-10-06T14:00:30.000Z"
-        },
-        {
-            "id": 4419890,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2203747.d.html",
-            "title": "巴西政府消息人士称，卢拉与特朗普正在进行视频会议。",
-            "date_modified": "2025-10-06T13:59:55.000Z"
-        },
-        {
-            "id": 4419889,
-            "content_html": "",
-            "title": "英国外交部就加沙援助船队事件表态：我们正在为多名被以色列拘留的英国公民提供支持，并与当地当局保持联系。",
-            "date_modified": "2025-10-06T13:58:38.000Z"
-        },
-        {
-            "id": 4419888,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2203502.d.html",
-            "title": "比特币向上触及125000美元/枚，日内涨1.23%。",
-            "date_modified": "2025-10-06T13:58:34.000Z"
-        },
-        {
-            "id": 4419887,
-            "content_html": "",
-            "title": "美股周一早盘，道指成份股思科系统公司(CSCO)上涨0.8%，日前该公司发布先进人工智能驱动的Webex联络中心解决方案及行业集成功能",
-            "date_modified": "2025-10-06T13:57:00.000Z"
-        },
-        {
-            "id": 4419886,
-            "content_html": "",
-            "title": "消息人士称，俄罗斯基里希炼油厂在10月4日遭无人机袭击后，其最大的装置CDU - 6已停产，恢复生产可能需要一个月时间。",
-            "date_modified": "2025-10-06T13:56:47.000Z"
-        },
-        {
-            "id": 4419885,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2202629.d.html",
-            "title": "特朗普：日本刚刚选出首位女性首相，这是大新闻。",
-            "date_modified": "2025-10-06T13:54:50.000Z"
-        },
-        {
-            "id": 4419884,
-            "content_html": "",
-            "title": "国际原子能机构：“国际原子能机构在赞比亚核电站的团队今天听到了来自核电站附近多轮炮击。赞比亚核电站表示，两轮炮击位于核电站周边1.25公里处。总干事表示，炮击加剧了赞比亚核电站的核安全风险，该核电站近两周没有外部电力供应。”",
-            "date_modified": "2025-10-06T13:54:15.000Z"
-        },
-        {
-            "id": 4419883,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5431180.d.html",
-            "title": "梵蒂冈高级枢机主教称以色列正在加沙地带进行大屠杀。",
-            "date_modified": "2025-10-06T13:53:38.000Z"
-        },
-        {
-            "id": 4419882,
-            "content_html": "",
-            "title": "美股周一早盘，道指成份股明尼苏达矿业制造公司(MMM)下跌0.5%。周末有消息称该公司正考虑剥离工业部门。",
-            "date_modified": "2025-10-06T13:52:43.000Z"
-        },
-        {
-            "id": 4419881,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2201819.d.html",
-            "title": "巴西央行行长加利波洛：浮动汇率制是巴西经济现有的主要防线之一。",
-            "date_modified": "2025-10-06T13:51:26.000Z"
-        },
-        {
-            "id": 4419880,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3919715.d.html",
-            "title": "土耳其部长TEIAS：与世界银行签署7.5亿美元贷款协议。",
-            "date_modified": "2025-10-06T13:51:10.000Z"
-        },
-        {
-            "id": 4419879,
-            "content_html": "",
-            "title": "美股周一早盘，道指成份股苹果公司(AAPL)下跌0.9%。据报道，苹果Siri涉嫌未经同意收集用户录音，面临法国检方调查。此次调查源于法国人权联盟（LDH）在今年2月提交的一份举报。",
-            "date_modified": "2025-10-06T13:50:33.000Z"
-        },
-        {
-            "id": 4419878,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5430802.d.html",
-            "title": "美国银行全球研究：将高盛目标股价从782美元上调至850美元。",
-            "date_modified": "2025-10-06T13:49:21.000Z"
-        },
-        {
-            "id": 4419877,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3919547.d.html",
-            "title": "现货钯金日内涨幅扩大至4.00%，现报1306.55美元/盎司。",
-            "date_modified": "2025-10-06T13:49:09.000Z"
-        },
-        {
-            "id": 4419876,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5430758.d.html",
-            "title": "美国银行全球研究：将花旗目标价从107美元上调至115美元。",
-            "date_modified": "2025-10-06T13:48:59.000Z"
-        },
-        {
-            "id": 4419875,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2201231.d.html",
-            "title": "市场消息：卢拉与特朗普通电话。",
-            "date_modified": "2025-10-06T13:48:46.000Z"
-        },
-        {
-            "id": 4419874,
-            "content_html": "",
-            "title": "美股周一早盘，道指成份股摩根大通(JPM)上涨0.4%。美国银行全球研究部周一将摩根大通目标价从340美元上调至350美元。",
-            "date_modified": "2025-10-06T13:48:36.000Z"
-        },
-        {
-            "id": 4419873,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2200917.d.html",
-            "title": "【美股加密货币股普涨】比特币逼近历史高位，加密货币相关股票上涨。Coinbase涨1.5%，Bitfarms涨10%，Strategy涨1.8%。ProShares比特币策略ETF上涨1.5%，安硕比特币信托上涨1.3%。RIOT平台公司股价上涨5.1%，HUT 8矿业公司股价上涨3.3%，MARA控股公司股价上涨3.4%。",
-            "date_modified": "2025-10-06T13:47:19.000Z"
-        },
-        {
-            "id": 4419872,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5430475.d.html",
-            "title": "印度煤炭公司将与恰蒂斯加尔邦合作开采关键矿产资源。",
-            "date_modified": "2025-10-06T13:46:03.000Z"
-        },
-        {
-            "id": 4419871,
-            "content_html": "",
-            "title": "土耳其哈尔克银行（HALKB.E）股票的连续交易暂停，伊斯坦布尔证券交易所相关金融工具的集合竞价阶段订单收集已启动。",
-            "date_modified": "2025-10-06T13:45:43.000Z"
-        },
-        {
-            "id": 4419870,
-            "content_html": "",
-            "title": "美股周一早盘，道指成份股波音公司(BA)小幅上扬。据知情人士透露，波音公司正指导供应商推进737 Max产量提升计划，最早可能在2025年10月将月产量提高至42架。",
-            "date_modified": "2025-10-06T13:45:14.000Z"
-        },
-        {
-            "id": 4419869,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5430400.d.html",
-            "title": "Robinhood用户报告表明平台存在问题。",
-            "date_modified": "2025-10-06T13:45:11.000Z"
-        },
-        {
-            "id": 4419868,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5430366.d.html",
-            "title": "美国银行全球研究部将摩根士丹利目标股价从154美元上调至170美元。",
-            "date_modified": "2025-10-06T13:44:47.000Z"
-        },
-        {
-            "id": 4419867,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3919083.d.html",
-            "title": "道琼斯指数走势反转，最新下跌0.11%。",
-            "date_modified": "2025-10-06T13:44:17.000Z"
-        },
-        {
-            "id": 4419866,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2200158.d.html",
-            "title": "土耳其主要银行指数下跌2.1%。",
-            "date_modified": "2025-10-06T13:43:48.000Z"
-        },
-        {
-            "id": 4419865,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5430254.d.html",
-            "title": "普京签署法令没收SILGAN Metal的俄罗斯子公司。",
-            "date_modified": "2025-10-06T13:43:43.000Z"
-        },
-        {
-            "id": 4419864,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2199999.d.html",
-            "title": "美国银行全球研究部将摩根大通目标价从340美元上调至350美元。",
-            "date_modified": "2025-10-06T13:43:26.000Z"
-        },
-        {
-            "id": 4419863,
-            "content_html": "",
-            "title": "美银全球研究首次覆盖Klarna，给予“买入”评级；目标价51美元。",
-            "date_modified": "2025-10-06T13:42:45.000Z"
-        },
-        {
-            "id": 4419862,
-            "content_html": "",
-            "title": "美股周一早盘，道指成份股微软公司(MSFT)上涨1%，周一富国银行将微软目标价从650美元上调至675美元。",
-            "date_modified": "2025-10-06T13:42:31.000Z"
-        },
-        {
-            "id": 4419861,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5429997.d.html",
-            "title": "费城证交所半导体指数上涨4.3%，创下历史新高。",
-            "date_modified": "2025-10-06T13:41:27.000Z"
-        },
-        {
-            "id": 4419860,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3918713.d.html",
-            "title": "现货钯金上涨3%，至每盎司1298.04美元。",
-            "date_modified": "2025-10-06T13:40:54.000Z"
-        },
-        {
-            "id": 4419859,
-            "content_html": "",
-            "title": "报道称特朗普政府有意入股格陵兰稀土开发商Critical Metals后，该公司股价飙升62%。",
-            "date_modified": "2025-10-06T13:40:50.000Z"
-        },
-        {
-            "id": 4419858,
-            "content_html": "",
-            "title": "美股周一早盘，道指成份股美国运通公司(NYSE:AXP)上涨0.7%，日前摩根士丹利将美国运通公司目标价从311美元上调至362美元。",
-            "date_modified": "2025-10-06T13:40:33.000Z"
-        },
-        {
-            "id": 4419857,
-            "content_html": "",
-            "title": "据TheFly.com消息，美国银行全球研究部将Shake Shack的评级从中性下调至跑输大盘后，该公司股价下跌3.6%。",
-            "date_modified": "2025-10-06T13:39:23.000Z"
-        },
-        {
-            "id": 4419856,
-            "content_html": "",
-            "title": "美股周一早盘，道指成份股卡特彼勒上涨1.15%，最高上涨至505.34美元，创历史新高。",
-            "date_modified": "2025-10-06T13:37:59.000Z"
-        },
-        {
-            "id": 4419855,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3918418.d.html",
-            "title": "Klarna股价上涨5.5%，多家机构覆盖其评级。",
-            "date_modified": "2025-10-06T13:37:31.000Z"
-        },
-        {
-            "id": 4419854,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2198483.d.html",
-            "title": "摩根士丹利将美光科技评级从“持股观望”上调至“增持”后，美光科技股价上涨5%。",
-            "date_modified": "2025-10-06T13:37:11.000Z"
-        },
-        {
-            "id": 4419853,
-            "content_html": "",
-            "title": "美股AI股普涨，Palantir股价上涨3.1%，甲骨文公司（Oracle）股价上涨2.6%。",
-            "date_modified": "2025-10-06T13:36:34.000Z"
-        },
-        {
-            "id": 4419852,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2198157.d.html",
-            "title": "【美股芯片股普涨】在超威半导体公司（AMD）与OpenAI签署人工智能芯片供应协议后，部分美国芯片制造商的股价上涨。 迈威尔科技集团（Marvell Technology）上涨3.4%，应用材料公司（Applied Materials）上涨3%。",
-            "date_modified": "2025-10-06T13:35:49.000Z"
-        },
-        {
-            "id": 4419851,
-            "content_html": "",
-            "title": "美股周一早盘，高盛集团(NYSE:GS)股价上涨1.4%，成为涨幅最大的道指成份股。高盛周一宣布已在科威特开设办事处。",
-            "date_modified": "2025-10-06T13:35:45.000Z"
-        },
-        {
-            "id": 4419850,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5429359.d.html",
-            "title": "COMERICA股价上涨16%，FIFTH THIRD上涨1.3%。",
-            "date_modified": "2025-10-06T13:34:51.000Z"
-        },
-        {
-            "id": 4419849,
-            "content_html": "",
-            "title": "法国总理塞巴斯蒂安·勒科尔尼辞职后，安硕MSCI法国交易型开放式指数基金（ETF）下跌1.6%。",
-            "date_modified": "2025-10-06T13:34:44.000Z"
-        },
-        {
-            "id": 4419848,
-            "content_html": "",
-            "title": "矿业公司墨西哥集团（Grupo Mexico）提出收购花旗集团旗下墨西哥国民银行（Banamex）后，其股价暴跌17%。",
-            "date_modified": "2025-10-06T13:33:47.000Z"
-        },
-        {
-            "id": 4419847,
-            "content_html": "",
-            "title": "威瑞森（Verizon）股价逆转盘前涨势，最新下跌2.1%；该公司任命丹·舒尔曼（Dan Schulman）为首席执行官。",
-            "date_modified": "2025-10-06T13:33:30.000Z"
-        },
-        {
-            "id": 4419846,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2196943.d.html",
-            "title": "最高法院驳回就教堂枪击案起诉META的请求。",
-            "date_modified": "2025-10-06T13:31:54.000Z"
-        },
-        {
-            "id": 4419845,
-            "content_html": "",
-            "title": "美国最高法院拒绝审理科技巨头思爱普（SAP）对竞争对手软件公司天睿资讯（Teradata）反垄断诉讼的挑战。",
-            "date_modified": "2025-10-06T13:31:34.000Z"
-        },
-        {
-            "id": 4419844,
-            "content_html": "",
-            "title": "美国最高法院拒绝听取Live Nation的申请，该申请旨在将消费者针对门票价格提起的诉讼从法院移出，转入私人仲裁程序。",
-            "date_modified": "2025-10-06T13:31:31.000Z"
-        },
-        {
-            "id": 4419843,
-            "content_html": "",
-            "title": "美国最高法院拒绝受理俄罗斯联邦储蓄银行（Sberbank）针对一个家庭因2014年马来西亚航空公司坠机事件提起的诉讼所提出的上诉。",
-            "date_modified": "2025-10-06T13:31:24.000Z"
-        },
-        {
-            "id": 4419842,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5428548.d.html",
-            "title": "新美亚电子股价飙升40%，创下2008年11月以来最大盘中涨幅。",
-            "date_modified": "2025-10-06T13:31:09.000Z"
-        },
-        {
-            "id": 4419841,
-            "content_html": "",
-            "title": "美国最高法院拒绝听取土耳其哈卡银行（Halbank）提出的终止美国对其涉嫌违反伊朗制裁规定指控的诉讼请求。",
-            "date_modified": "2025-10-06T13:30:49.000Z"
-        },
-        {
-            "id": 4419840,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2196338.d.html",
-            "title": "【道指开盘涨0.1%，标普500涨0.3%，纳指涨0.5%】AMD涨37.9%，市值增加超1000亿美元，ChatGPT的母公司可能会收购AMD 10%股份。Comerica涨15.0%，五三银行宣布以109亿美元收购该行，五三银行跌0.3%。萤火虫航空涨14.7%，将以 8.55 亿美元收购军火承包商科技公司（SciTec），以强化其在军工领域的服务能力。波音涨0.8%，该公司最快可能在10月将737 MAX飞机月产量提升至42架。",
-            "date_modified": "2025-10-06T13:30:48.000Z"
-        },
-        {
-            "id": 4419839,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3917187.d.html",
-            "title": "【多国民众声援巴勒斯坦】当地时间10月5日，声援巴勒斯坦的大规模游行集会在包括荷兰、保加利亚、希腊、巴基斯坦、土耳其、厄瓜多尔在内的多个国家举行。人们纷纷表达对以色列持续军事行动的不满，呼吁尽快结束这场“疯狂的、持续了两年的种族灭绝”，“全世界都必须知晓以色列在加沙地带和约旦河西岸犯下的骇人罪行”。（CCTV国际时讯）",
-            "date_modified": "2025-10-06T13:30:44.000Z"
-        },
-        {
-            "id": 4419838,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2195832.d.html",
-            "title": "以太坊站上4600美元/枚，日内涨1.91%。",
-            "date_modified": "2025-10-06T13:29:42.000Z"
-        },
-        {
-            "id": 4419837,
-            "content_html": "",
-            "title": "联邦快递宣布MARSHALL WITT担任FEDEX FREIGHT的高级副总裁兼首席财务官。",
-            "date_modified": "2025-10-06T13:28:19.000Z"
-        },
-        {
-            "id": 4419836,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2195262.d.html",
-            "title": "市场消息：斯洛伐克政府飞机将9名被以色列拘留的活动人士运往布拉迪斯拉发。",
-            "date_modified": "2025-10-06T13:27:57.000Z"
-        },
-        {
-            "id": 4419835,
-            "content_html": "",
-            "title": "哈维（Harvey）宣布获得殷拓集团成长基金（EQT Growth）5000万欧元投资，借助殷拓集团的全球平台加速国际扩张。",
-            "date_modified": "2025-10-06T13:27:51.000Z"
-        },
-        {
-            "id": 4419834,
-            "content_html": "",
-            "title": "格陵兰稀土开发商Critical Metals：根据美国证券交易委员会（SEC）文件，10月3日同意终止日期为1月21日的比特币（BTC）协议。",
-            "date_modified": "2025-10-06T13:26:59.000Z"
-        },
-        {
-            "id": 4419833,
-            "content_html": "",
-            "title": "摩根大通向员工发送备忘录，宣布欧洲、中东和非洲地区领导层变动，任命CONOR HILLERY和MATTHIEU WILTZ为主管。发言人不予置评备忘录以外的内容。",
-            "date_modified": "2025-10-06T13:24:00.000Z"
-        },
-        {
-            "id": 4419832,
-            "content_html": "",
-            "title": "                                                                                                            现货铂金刚刚突破1640.00美元/盎司关口，最新报1640.45美元/盎司，日内涨3.57%；Nymex铂金期货主力最新报1670.1美元/盎司，日内涨1.71%。",
-            "date_modified": "2025-10-06T13:22:44.000Z"
-        },
-        {
-            "id": 4419831,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5426815.d.html",
-            "title": "【印度“毒糖浆”疑致14名儿童死亡】印度媒体6日报道，印度一家制药厂生产的止咳糖浆被查出含有毒物质，疑导致14名儿童死亡。警方正对涉事企业开展刑事调查。据印度媒体报道，涉事企业名为“斯雷桑制药”，位于泰米尔纳德邦。中央邦14名儿童相继死亡后，当地一家实验室检测发现，这家制药厂生产的一款止咳糖浆含有46.28%的二甘醇，远超0.1%的规定上限。二甘醇用于制作防冻剂和化妆品等，可引发呕吐、腹痛、急性肾损伤等症状甚至致命。印度警方已对此事展开调查，涉事制药厂将面临过失杀人、药品掺假以及违法销售等指控。若罪名成立，相关责任人可能被处以终身监禁。警方同时逮捕一名涉事医生，这名医生被指向儿童开具“毒糖浆”处方。事发后，印度多个邦政府已下令禁用该糖浆。按媒体说法，这批止咳糖浆仅在印度国内销售，未出口至他国。（新华社）",
-            "date_modified": "2025-10-06T13:20:59.000Z"
-        },
-        {
-            "id": 4419830,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2193198.d.html",
-            "title": "【哥伦比亚外长：美国在加勒比海的军事行动对该地区构成威胁】当地时间10月6日，哥伦比亚外交部长罗莎·比利亚维森西奥在罗马接受采访时表示，美国在加勒比海域的军事存在对该地区的国家构成威胁。比利亚维森西奥表示，美军声称击毁了贩毒船只。这些“毒贩”可以被拘留引渡进行审判，并通过美国与各国在军事上进行合作与协调来打击国家贩毒集团。比利亚维森西奥表示，哥伦比亚希望与所有国家进行对话，并继续与美国接触。她强调，哥伦比亚一直捍卫并将继续捍卫多边主义，而美国采取了单边措施，导致两国关系严重紧张。比利亚维森西奥呼吁欧洲和哥伦比亚在贸易和政治对话方面建立更紧密的联系。（央视新闻）",
-            "date_modified": "2025-10-06T13:20:38.000Z"
-        },
-        {
-            "id": 4419829,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3915531.d.html",
-            "title": "FIFTH THIRD CEO：预计监管审批流程将加快。",
-            "date_modified": "2025-10-06T13:20:18.000Z"
-        },
-        {
-            "id": 4419828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzf2193024.d.html",
-            "title": "FIFTH THIRD CEO：与COMERICA的交易是一个难得的机会。",
-            "date_modified": "2025-10-06T13:19:55.000Z"
-        },
-        {
-            "id": 4419827,
-            "content_html": "",
-            "title": "美国证券交易委员会（SEC）文件显示：T-Mobile 提交发行三部分优先票据的申请；发行规模未披露。",
-            "date_modified": "2025-10-06T13:19:36.000Z"
-        },
-        {
-            "id": 4419826,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzk3915236.d.html",
-            "title": "文件显示：墨西哥西麦斯公司剥离其在巴拿马的业务并拓展其在美国的骨料业务。",
-            "date_modified": "2025-10-06T13:15:46.000Z"
-        },
-        {
-            "id": 4419825,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-06/detail-infsymzh5426297.d.html",
-            "title": "【日本自民党总裁高市早苗基本敲定党内四大要职】相关人士透露，日本自民党总裁高市早苗6日基本敲定了党内四大要职。内定前经济安全保障担当相小林鹰之担任政务调查会长，参议员有村治子担任总务会长，前国家公安委员长古屋圭司担任选举对策委员长。将起用前首相麻生太郎担任副总裁，让牵涉派系收回扣事件的原安倍派的前政调会长萩生田光一担任代理干事长。若高市就任首相，计划让前干事长茂木敏充出任外相，原茂木派的前防卫相木原稔出任官房长官。自民党将在7日召开临时总务会，决定党高层人事。之后，党内四大要职将出席记者会。",
-            "date_modified": "2025-10-06T13:13:55.000Z"
-        },
-        {
-            "id": 4419824,
-            "content_html": "",
-            "title": "                                                                                                            美银证券将西方石油公司评级维持在中性，将西方石油公司目标价从44.00美元上调至47.00美元。",
-            "date_modified": "2025-10-06T13:13:47.000Z"
         }
     ]
 }

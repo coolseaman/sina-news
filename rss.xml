@@ -4,13 +4,501 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 14 Oct 2025 15:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 16:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[花旗CEO：市场存在局部估值低迷的情况，且希望市场能保持自律。]]></title>
+            <title><![CDATA[美联储主席鲍威尔发表讲话后，美国国债收益率走低；10年期国债收益率最新下跌1.1个基点，至4.04%。]]></title>
+            <guid>4432867</guid>
+            <pubDate>Tue, 14 Oct 2025 16:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美联储或许本应在疫情后更早停止资产购买计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtca4121226.d.html</link>
+            <guid>4432866</guid>
+            <pubDate>Tue, 14 Oct 2025 16:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：近期数据显示就业市场呈现低招聘、低裁员态势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtca4121146.d.html</link>
+            <guid>4432865</guid>
+            <pubDate>Tue, 14 Oct 2025 16:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：现有数据显示，关税正在推高物价压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7070163.d.html</link>
+            <guid>4432864</guid>
+            <pubDate>Tue, 14 Oct 2025 16:20:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：就业市场风险上升证明9月降息合理。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2609898.d.html</link>
+            <guid>4432863</guid>
+            <pubDate>Tue, 14 Oct 2025 16:20:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美国就业市场面临的下行风险有所增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7070152.d.html</link>
+            <guid>4432862</guid>
+            <pubDate>Tue, 14 Oct 2025 16:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：现有数据表明当前经济状况与9月时相当。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7070133.d.html</link>
+            <guid>4432861</guid>
+            <pubDate>Tue, 14 Oct 2025 16:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：目前货币政策没有“无风险”路径。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2609866.d.html</link>
+            <guid>4432860</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美国政府停摆前的数据显示，经济增长可能好于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7070106.d.html</link>
+            <guid>4432859</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：货币政策的未来走向取决于数据和风险评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaz1733766.d.html</link>
+            <guid>4432858</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美国央行除了政府来源的数据外，还有其他数据可供使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7070094.d.html</link>
+            <guid>4432857</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：资产负债表仍是重要的货币政策工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2609814.d.html</link>
+            <guid>4432856</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美联储仍着眼于在更长期内使资产负债表仅持有国债。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtca4121031.d.html</link>
+            <guid>4432855</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美联储官员将讨论资产负债表的构成。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2609795.d.html</link>
+            <guid>4432854</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美联储的亏损不会影响货币政策，未来终将恢复盈利。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7070064.d.html</link>
+            <guid>4432853</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：剥夺美联储支付利息的权力将极大地使利率控制复杂化。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaz1733729.d.html</link>
+            <guid>4432852</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：当前美联储的政策工具包运行效果非常好。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaz1733722.d.html</link>
+            <guid>4432851</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：认为美联储在调整资产负债表规模方面有更大的“灵活性”空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtca4120977.d.html</link>
+            <guid>4432850</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：有迹象显示货币市场部分领域的状况正在收紧。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaz1733716.d.html</link>
+            <guid>4432849</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席鲍威尔：美联储可能在未来几个月结束缩减资产负债表。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaz1733713.d.html</link>
+            <guid>4432848</guid>
+            <pubDate>Tue, 14 Oct 2025 16:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[路威酩轩CFO：由于基数对比原因，第四季度形势将更加严峻。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7070020.d.html</link>
+            <guid>4432847</guid>
+            <pubDate>Tue, 14 Oct 2025 16:18:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利财政部：意大利将从银行和保险公司筹集资金以支持预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7069997.d.html</link>
+            <guid>4432846</guid>
+            <pubDate>Tue, 14 Oct 2025 16:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【30年期德债收益率跌超3个基点】周二（10月14日）欧市尾盘，德国10年期国债收益率跌2.6个基点，报2.610%，日内交投于2.618%-2.583%区间，全天持续低位震荡。两年期德债收益率跌0.9个基点，报1.935%，日内交投于1.940%-1.902%区间；30年期德债收益率跌3.2个基点，报3.192%。2/10年期德债收益率利差跌1.747个基点，报+67.361个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2609354.d.html</link>
+            <guid>4432845</guid>
+            <pubDate>Tue, 14 Oct 2025 16:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英媒质疑前首相为私利搅黄俄乌谈判】英国《卫报》近日援引一家非盈利组织披露的文件报道称，英国前首相鲍里斯·约翰逊在卸任后，从其政治捐助者克里斯托弗·哈伯恩那里获得了100万英镑。而哈伯恩是向乌克兰提供无人机的供应商——英国防务公司“凯奈蒂克”的最大股东。值得注意的是，在2022年俄乌冲突谈判即将取得进展的时候，正是约翰逊把谈判给搅黄了，极力劝说乌克兰“接着打下去”。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtca4120573.d.html</link>
+            <guid>4432844</guid>
+            <pubDate>Tue, 14 Oct 2025 16:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行维勒鲁瓦：在俄罗斯资产问题上，我们不得违反国际法。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtca4120490.d.html</link>
+            <guid>4432843</guid>
+            <pubDate>Tue, 14 Oct 2025 16:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行维勒鲁瓦：欧洲央行处于不错的状态，但这并非一成不变。通胀下行风险超过上行风险。]]></title>
+            <guid>4432842</guid>
+            <pubDate>Tue, 14 Oct 2025 16:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行维勒鲁瓦：我们已重新对自身预测树立信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2608936.d.html</link>
+            <guid>4432841</guid>
+            <pubDate>Tue, 14 Oct 2025 16:13:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行维勒鲁瓦：下一步利率行动更有可能是降息而非加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaz1733035.d.html</link>
+            <guid>4432840</guid>
+            <pubDate>Tue, 14 Oct 2025 16:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行管委Makhlouf称利率处于良好位置】欧洲央行管委会成员Gabriel Makhlouf称，鉴于通胀回到目标、且经济较好地抵御来自该地区内外的挑战，该行利率仍处于“良好位置”。正在华盛顿参加参加国际货币基金组织年会的这位爱尔兰官员表示：“随着降通胀进程已成为过去，欧洲经济展现出韧性，通胀处在我们希望的位置，我们仍然处于一个良好位置。”Makhlouf表示，尽管与美国的贸易协议降低了不确定性，但其影响只有随着时间推移才会显现。他说，经济面临的下行风险包括在重燃的贸易紧张局势下出口、投资和消费走弱，但与此同时，更多的政府支出以及提升生产率的改革可能会提振增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2607595.d.html</link>
+            <guid>4432839</guid>
+            <pubDate>Tue, 14 Oct 2025 16:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗CFO：资本状况的最终情况将于5月确定，并在投资者日公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2607219.d.html</link>
+            <guid>4432838</guid>
+            <pubDate>Tue, 14 Oct 2025 16:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗CFO：压力资本缓冲要求连续第二年降低。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtca4118101.d.html</link>
+            <guid>4432837</guid>
+            <pubDate>Tue, 14 Oct 2025 16:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财政大臣：预计2026 年法国政府的债务偿还成本将达到 593 亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtce2606722.d.html</link>
+            <guid>4432836</guid>
+            <pubDate>Tue, 14 Oct 2025 16:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国预计2026年总体融资需求为3057亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtca4117798.d.html</link>
+            <guid>4432835</guid>
+            <pubDate>Tue, 14 Oct 2025 16:01:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家美媒拒签同意五角大楼新规文件】近日，多家获得授权进入美国五角大楼进行新闻简报的知名新闻机构发表正式声明，明确拒绝接受五角大楼、也就是今年9月刚更名的美国“战争部”提出的一项新规。这一新规定于9月18日公布，要求媒体承诺“不获取未经授权的材料”，并“限制记者在无人陪同的情况下进入特定区域”。五角大楼表示，如果媒体机构未能在10月14日下午5点前签署同意文件，其进入五角大楼的权限将被正式收回。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftwtaw7067320.d.html</link>
+            <guid>4432834</guid>
+            <pubDate>Tue, 14 Oct 2025 16:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国社会党表示不会投票让勒科尔尼下台。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7067163.d.html</link>
+            <guid>4432833</guid>
+            <pubDate>Tue, 14 Oct 2025 15:59:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗CFO：预计明年净利息收入将增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2606028.d.html</link>
+            <guid>4432832</guid>
+            <pubDate>Tue, 14 Oct 2025 15:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯恢复向印度尼西亚供应小麦。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4117180.d.html</link>
+            <guid>4432831</guid>
+            <pubDate>Tue, 14 Oct 2025 15:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行CFO：（就美国政府停摆）不会造成巨大干扰。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4117162.d.html</link>
+            <guid>4432830</guid>
+            <pubDate>Tue, 14 Oct 2025 15:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法国社会党不会对不信任动议投赞成票。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1730699.d.html</link>
+            <guid>4432829</guid>
+            <pubDate>Tue, 14 Oct 2025 15:57:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列媒体：以政府暂停重开拉法口岸】据多家以色利媒体14日报道，以政府称，鉴于巴勒斯坦伊斯兰抵抗运动（哈马斯）未能按时移交所有被扣押人员遗体，决定暂停重新开放拉法口岸，以此作为反制措施。报道说，拉法口岸将不会按加沙停火第一阶段协议约定的15日重新开放，人道主义援助也将大幅减少。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4117066.d.html</link>
+            <guid>4432828</guid>
+            <pubDate>Tue, 14 Oct 2025 15:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：哈马斯告知调解员，将于周二晚上 10 点开始将四名已死亡的以色列人质移交给以色列。]]></title>
+            <guid>4432827</guid>
+            <pubDate>Tue, 14 Oct 2025 15:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行官员科赫尔：有降低监管存量的空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7066876.d.html</link>
+            <guid>4432826</guid>
+            <pubDate>Tue, 14 Oct 2025 15:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行官员科赫尔：多数利益相关者认为银行业规则已变得过于复杂。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4116840.d.html</link>
+            <guid>4432825</guid>
+            <pubDate>Tue, 14 Oct 2025 15:55:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[前法国财政部长Brune Le Maire将重返阿斯麦控股，担任顾问。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4116656.d.html</link>
+            <guid>4432824</guid>
+            <pubDate>Tue, 14 Oct 2025 15:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国10年期国债收益率跌至3.40%，为两个月以来最低。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2605372.d.html</link>
+            <guid>4432823</guid>
+            <pubDate>Tue, 14 Oct 2025 15:54:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：叙利亚总统将于周三访问莫斯科。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2605321.d.html</link>
+            <guid>4432822</guid>
+            <pubDate>Tue, 14 Oct 2025 15:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国家能源公司：乌克兰 7 个地区实施紧急限电。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1730199.d.html</link>
+            <guid>4432821</guid>
+            <pubDate>Tue, 14 Oct 2025 15:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所英国天然气 11 月期货合约结算价报 81.29 便士 / 英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7066494.d.html</link>
+            <guid>4432820</guid>
+            <pubDate>Tue, 14 Oct 2025 15:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总理勒科尔尼：所做的一切都需要资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2604958.d.html</link>
+            <guid>4432819</guid>
+            <pubDate>Tue, 14 Oct 2025 15:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国社会党议会党团主席瓦洛：法国社会党已准备好承担风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1729914.d.html</link>
+            <guid>4432818</guid>
+            <pubDate>Tue, 14 Oct 2025 15:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国10年期国债收益率下跌7个基点至3.40%，为8月15日以来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4115759.d.html</link>
+            <guid>4432817</guid>
+            <pubDate>Tue, 14 Oct 2025 15:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【路威酩轩（LVMH）第三季度时尚与皮具部门有机销售额超预期】LVMH集团三季度营收182.8亿欧元，分析师预期181.7亿欧元。三季度有机营收增长1%，分析师预期下降0.72%。三季度美国有机营收增长3%，分析师预期增长1.93%。三季度时装和皮草有机销售下降2%，分析师预期减少3.48%。LVMH集团ADR短线走高，日内迄今涨2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2604459.d.html</link>
+            <guid>4432816</guid>
+            <pubDate>Tue, 14 Oct 2025 15:48:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LVMH集团三季度有机营收增长1%，预期下降0.72%。三季度时装和皮草有机销售下降2%，预期减少3.48%。]]></title>
+            <guid>4432815</guid>
+            <pubDate>Tue, 14 Oct 2025 15:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美政府本轮停摆或为史上最长】美国联邦政府“关门”已经两周了，依然“开门”无望。共和、民主两党在医保相关福利开支等核心议题上仍互不让步，互相甩锅。历史上，美国联邦政府“停摆”最长是35天，发生在特朗普第一个总统任期。众议院共和党籍议长约翰逊当地时间10月13日称，本轮“停摆”可能将刷新纪录。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4115121.d.html</link>
+            <guid>4432814</guid>
+            <pubDate>Tue, 14 Oct 2025 15:45:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拉加德称经济状况良好 但不会宣布降息周期结束】欧洲央行行长克里斯蒂娜·拉加德表示，她不能宣布降息周期结束，尽管她重申货币政策和经济“处于良好位置”。在与美国达成贸易协议后不确定性已“显著减弱”，拉加德认为经济增长面临的风险更加平衡。当被问及货币宽松是否已结束时，拉加德表示：“我永远不会这么说，因为我认为央行行长的工作永远不会结束。”拉加德及其同事多次表示对当前的货币政策设定感到满意。虽然欧元区经济受到美国关税和法国政治动荡的困扰，但决策者认为通胀将实现2%的官方目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7065353.d.html</link>
+            <guid>4432813</guid>
+            <pubDate>Tue, 14 Oct 2025 15:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国贸易代表格里尔：我们一直关注股票和债券市场，要确保市场对恰当的信息作出反应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2603644.d.html</link>
+            <guid>4432812</guid>
+            <pubDate>Tue, 14 Oct 2025 15:43:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部通过打击柬埔寨pig butchering（杀猪盘）骗局交货150亿美元比特币。]]></title>
+            <guid>4432811</guid>
+            <pubDate>Tue, 14 Oct 2025 15:42:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国社会党议员瓦洛：我们密切关注，看你们能否将承诺转化为行动。 我们将调整政府提出的预算方案。]]></title>
+            <guid>4432810</guid>
+            <pubDate>Tue, 14 Oct 2025 15:41:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗CEO：监管环境正出现积极变化，更加注重安全稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4114358.d.html</link>
+            <guid>4432809</guid>
+            <pubDate>Tue, 14 Oct 2025 15:40:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司MSCI北欧国家指数跌0.6%，报353.72点。在十个板块中，北欧医疗保健板块跌幅最大。沃旭能源Orsted跌3.7%，在一众北欧个股里表现最差。]]></title>
+            <guid>4432808</guid>
+            <pubDate>Tue, 14 Oct 2025 15:40:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗CEO：改善监管数据将需要更长时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4114010.d.html</link>
+            <guid>4432807</guid>
+            <pubDate>Tue, 14 Oct 2025 15:38:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国社会党议员瓦洛：我们看到了一个信号，表明你们已经听取了我们的意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2602734.d.html</link>
+            <guid>4432806</guid>
+            <pubDate>Tue, 14 Oct 2025 15:38:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音周二表示，其中40架交付机型为737 Max，客户包括欧洲廉航瑞安航空（接收10架）、西南航空、美联航、中国南方航空及租赁公司AerCap。]]></title>
+            <guid>4432805</guid>
+            <pubDate>Tue, 14 Oct 2025 15:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗CEO：自动化正在改善银行内部的预防性控制措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2602673.d.html</link>
+            <guid>4432804</guid>
+            <pubDate>Tue, 14 Oct 2025 15:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货钯金上涨3%，报每盎司1518.25美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4113873.d.html</link>
+            <guid>4432803</guid>
+            <pubDate>Tue, 14 Oct 2025 15:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富国银行股价涨幅扩大，最新上涨7.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2602494.d.html</link>
+            <guid>4432802</guid>
+            <pubDate>Tue, 14 Oct 2025 15:37:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【柬埔寨内政部：有80名韩国公民被柬移民总局拘留】柬埔寨内政部发言人杜索卡14日向新华社记者证实，有80名韩国公民目前被柬埔寨移民总局拘留。杜索卡说，尽管韩国官员已与这批人接触，但他们“仍拒绝回国”。杜索卡还说，他不清楚此前媒体报道的80名韩国失踪人员是否指这批韩国公民。此前有媒体以韩国外交部为消息源报道说，约有80名韩国公民在柬埔寨处于“失踪或人身安全不明”状态。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7064266.d.html</link>
+            <guid>4432801</guid>
+            <pubDate>Tue, 14 Oct 2025 15:37:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国政府停摆进入第14天 白宫誓言继续裁员】美国政府停摆进入第14天且仍看不到解决方案之际，白宫预算办公室誓言将继续裁撤政府机构工作人员，但会向军人和联邦执法人员发放薪酬。“管理和预算办公室(OMB)正在做好一切准备，以应对民主党人的不让步，” OMB周二在社交媒体上发文称。“向部队发薪，向执法部门发薪，继续精简人员，并且等待。”白宫预算办公室于上周五发布了第一轮裁员计划，解雇了超过4,000名联邦雇员，使其与民主党的对峙升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4113433.d.html</link>
+            <guid>4432800</guid>
+            <pubDate>Tue, 14 Oct 2025 15:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国法官裁定：特朗普政府曾无视有关联邦应急管理局拨款的法院命令。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7063914.d.html</link>
+            <guid>4432799</guid>
+            <pubDate>Tue, 14 Oct 2025 15:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖三个月期国债，得标利率3.845%，投标倍数2.91。拍卖六个月期国债，得标利率3.685%，投标倍数2.95。]]></title>
+            <guid>4432798</guid>
+            <pubDate>Tue, 14 Oct 2025 15:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄企：北方航道对全球贸易稳定起到重要作用】俄罗斯国家原子能公司14日说，北方航道货运量2024年达到约3790万吨，2025年预计增长约20%。中欧北极快航航线首艘货船取道北极东北航道13日已抵达欧洲，仅历时20天，比传统南方航道时间缩短近一半，时效优势明显。俄罗斯国家原子能公司说，此次“历史性航行”是北方航道成为中欧间可持续物流通道的重要一步，对全球贸易稳定起到重要作用。北方航道是连接亚洲和欧洲地区最短的海上航道，大部分航段位于俄罗斯北部的北冰洋海域。俄在北方航道的活动和开发主要由国家原子能公司负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4112737.d.html</link>
+            <guid>4432797</guid>
+            <pubDate>Tue, 14 Oct 2025 15:32:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：2025年第三季度全球智能手机市场同比增长3%】Omdia的最新研究显示，2025年第三季度，全球智能手机市场同比增长3%，标志着在本季度多款新品发布的带动下，市场重新回归增长势头。本季度的反弹得益于强劲的换机需求，以及多家厂商在繁忙的2025年第四季度到来前，提前在渠道中备货。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2601407.d.html</link>
+            <guid>4432796</guid>
+            <pubDate>Tue, 14 Oct 2025 15:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国土安全部长诺姆：尽管政府停摆，美国海岸警卫队仍将获得薪水。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1726531.d.html</link>
+            <guid>4432795</guid>
+            <pubDate>Tue, 14 Oct 2025 15:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委马赫鲁夫：通胀正处在我们希望看到的位置，欧洲经济正显现韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7062718.d.html</link>
+            <guid>4432794</guid>
+            <pubDate>Tue, 14 Oct 2025 15:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌0.40%，报564.34点。欧元区STOXX 50指数初步收跌0.34%，报5549.29点。富时泛欧绩优300指数初步收跌0.38%，报2244.31点。]]></title>
+            <guid>4432793</guid>
+            <pubDate>Tue, 14 Oct 2025 15:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收跌0.68%，报24220.96点。法国股指初步收跌0.12%，意大利股指初步收跌0.32%、银行指数跌0.18%，英国股指初步收涨0.03%。]]></title>
+            <guid>4432792</guid>
+            <pubDate>Tue, 14 Oct 2025 15:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：阿塞拜疆1月至9月石油产量同比下降4.6%，天然气产量同比增长1.8%。]]></title>
+            <guid>4432791</guid>
+            <pubDate>Tue, 14 Oct 2025 15:28:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：法国机构评级因主权评级下调而受到重大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4111939.d.html</link>
+            <guid>4432790</guid>
+            <pubDate>Tue, 14 Oct 2025 15:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西国家石油公司CEO：预计 10 月 16 日获得亚马逊河口钻探许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2600534.d.html</link>
+            <guid>4432788</guid>
+            <pubDate>Tue, 14 Oct 2025 15:26:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：我们将在本周晚些时候发布Grok更新后的算法，包括模型权重。你会发现很多随机的残留规则已经消失了。下个月将全面启用人工智能推荐功能，届时 Grok 将评估每日超过 1 亿条帖子，并推荐您最有可能感兴趣的内容。这将显著提升您的动态质量。]]></title>
+            <guid>4432787</guid>
+            <pubDate>Tue, 14 Oct 2025 15:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国检方周二表示，美国司法部已查获一名男子持有的价值约150亿美元的比特币，该男子负责监管一个以柬埔寨为基地的大型“杀猪盘”诈骗网络。此次查没行动是美国司法部有史以来规模最大的资产没收行动。]]></title>
+            <guid>4432786</guid>
+            <pubDate>Tue, 14 Oct 2025 15:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：西班牙天然气公司（ENAGAS）正洽谈收购新加坡政府投资公司（GIC）持有的法国天然气运输管网运营商 Terega的股份。]]></title>
+            <guid>4432785</guid>
+            <pubDate>Tue, 14 Oct 2025 15:23:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普 500 银行指数扭转此前跌幅，最新上涨 0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4111089.d.html</link>
+            <guid>4432784</guid>
+            <pubDate>Tue, 14 Oct 2025 15:22:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗CEO：宏观环境反映出全球经济的韧性超出了许多人的预期，美国经济受到消费者持续支出以及在人工智能和数据中心领域科技投资的推动。]]></title>
+            <guid>4432783</guid>
+            <pubDate>Tue, 14 Oct 2025 15:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗CEO：市场存在局部估值冷淡现象，希望（市场）保持克制。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1724668.d.html</link>
             <guid>4432782</guid>
             <pubDate>Tue, 14 Oct 2025 15:20:09 GMT</pubDate>
@@ -98,478 +586,6 @@
             <title><![CDATA[Prosus于10月6-10日按均价61.1669欧元回购股票126万。Naspers同期按均价1272.4477南非兰特回购116.8469万股。]]></title>
             <guid>4432767</guid>
             <pubDate>Tue, 14 Oct 2025 15:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Telix制药（Telix Pharmaceuticals，TLPPF）报告第三季度营收同比增长53%，并将2025财年营收指引上调至8-8.2亿美元。公司计划增加研发投入以支持扩展中的临床管线，彰显其对医药领域创新的承诺。]]></title>
-            <guid>4432766</guid>
-            <pubDate>Tue, 14 Oct 2025 15:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储监管副主席Bowman称新的压力测试改革方案很快将公布】美联储负责银行监管的负责人表示，她计划很快公布更多对压力测试的调整方案，此举可能会受到华尔街银行的欢迎。“我们一直在逐步推出改进压力测试流程的提案，下周前后我们将推出又一轮方案，”美联储监管副主席Michelle Bowman周二在国际金融协会(Institute of International Finance)于华盛顿举行的年会上表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4108494.d.html</link>
-            <guid>4432765</guid>
-            <pubDate>Tue, 14 Oct 2025 15:07:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周二早盘，富国银行（WFC）上涨6.1%，此前该公司报告第三季度GAAP每股收益1.66美元，超预期0.11美元；营收214.4亿美元，同比增长5.3%。分析师称投资者对其持续转型与增长前景抱有信心。]]></title>
-            <guid>4432763</guid>
-            <pubDate>Tue, 14 Oct 2025 15:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软将在葡萄牙租用大量存储空间以存放英伟达芯片。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1722293.d.html</link>
-            <guid>4432762</guid>
-            <pubDate>Tue, 14 Oct 2025 15:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国广告与传播企业阳狮集团（Publicis Groupe，PUBGY）第三季度营收35.3亿欧元，有机增长5.7%超预期。得益于客户对AI产品的强劲需求，公司将2025财年有机增长指引上调至5.0%-5.5%。阳狮持续聚焦AI投资与人才招募以维持增长。]]></title>
-            <guid>4432761</guid>
-            <pubDate>Tue, 14 Oct 2025 15:04:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其主要银行指数收跌4.56%，土耳其主要的伊斯坦布尔证交所全国100指数收跌2.29%。]]></title>
-            <guid>4432760</guid>
-            <pubDate>Tue, 14 Oct 2025 15:03:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周二早盘，全球第三大快餐店运营商餐饮品牌国际(Restaurant Brands，QSR)股价上涨1.2%，据报道，该公司旗下Popeyes正加速全球扩张，计划未来十年在墨西哥开设超300家新店。]]></title>
-            <guid>4432759</guid>
-            <pubDate>Tue, 14 Oct 2025 15:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马达加斯加国民议会通过对总统弹劾案 总统府称“缺乏法律依据”】当地时间10月14日，马达加斯加国民议会在首都塔那那利佛召开特别会议，投票通过了对总统拉乔利纳的弹劾案，理由是其玩忽职守。但总统府表示此次会议“缺乏任何法律依据”。该弹劾决定还需得到高等宪法法院的确认和批准。随后，此前驻扎在塔那那利佛南部、发生哗变的军营称，武装部队正在控制该国。当天早些时候，拉乔利纳在总统府官方社交媒体账号发表声明称，他已解散国民议会。自9月25日起，马达加斯加首都塔那那利佛等多座城市爆发大规模示威游行，抗议频繁发生的缺水断电。10月11日，塔那那利佛南部一处军营发生哗变，部分军人加入示威游行，并要求总统拉乔利纳下台。12日，该军营宣布接管马军队指挥权，总统府发表书面声明，谴责正在发生的“非法武力夺权企图”。拉乔利纳13日晚经由社交媒体发表视频讲话，表示因人身安全受到威胁，他已转移至“安全的地方”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7057671.d.html</link>
-            <guid>4432758</guid>
-            <pubDate>Tue, 14 Oct 2025 15:02:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国9月进口原油1060万吨，去年同期1100万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2596004.d.html</link>
-            <guid>4432757</guid>
-            <pubDate>Tue, 14 Oct 2025 15:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VERTEX 获得甲骨文验证集成，为 ORACLE ERP 解决方案提供经过验证的可重复集成。]]></title>
-            <guid>4432756</guid>
-            <pubDate>Tue, 14 Oct 2025 15:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音公司：9月获得96份新订单，其中包括32架737 MAX喷气式飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4107102.d.html</link>
-            <guid>4432755</guid>
-            <pubDate>Tue, 14 Oct 2025 15:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音公司：9月交付55架飞机，其中包括40架737 MAX飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4107086.d.html</link>
-            <guid>4432754</guid>
-            <pubDate>Tue, 14 Oct 2025 15:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟表示，波音公司还将把Spirit位于马来西亚的工厂出售给马来西亚复合材料技术研究公司。]]></title>
-            <guid>4432753</guid>
-            <pubDate>Tue, 14 Oct 2025 15:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音：47亿美元收购SPIRIT AEROSYSTEMS交易获欧盟反垄断批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4106988.d.html</link>
-            <guid>4432752</guid>
-            <pubDate>Tue, 14 Oct 2025 15:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周二早盘，纳维塔斯半导体（Navitas Semiconductor，NVTS）股价大涨19.3%，此前公司宣布为英伟达（NVDA）AI平台开发800VDC功率器件取得进展。新技术旨在提升AI数据中心效率与性能，契合英伟达在AI基础设施领域的战略推进。]]></title>
-            <guid>4432751</guid>
-            <pubDate>Tue, 14 Oct 2025 15:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夜盘期货收盘】低硫燃料油连续跌1.90%，燃料油连续跌1.55%，玻璃连续跌1.48%，PTA连续跌1.30%，苯乙烯连续跌0.98%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4106902.d.html</link>
-            <guid>4432750</guid>
-            <pubDate>Tue, 14 Oct 2025 15:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国 Orange 电信公司：专为海湾阿拉伯国家合作委员会（GCC）各国政府及各类规模机构打造生成式人工智能平台。]]></title>
-            <guid>4432749</guid>
-            <pubDate>Tue, 14 Oct 2025 14:59:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【eSIM手机业务全国上线】中国电信、中国移动和中国联通正式获得工信部eSIM手机商用试验批复许可，并在全国上线eSIM手机办理业务。据了解，eSIM手机业务是一种将实体SIM卡功能集成到手机内置芯片中的技术。消费者购买具备eSIM功能的手机后，无需插入实体SIM卡，可将号码通过空中下载的方式写入手机内置eSIM芯片。eSIM手机和实体SIM卡手机的业务功能一致，可使用语音通信、数据上网、短信收发等通信服务。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4106801.d.html</link>
-            <guid>4432748</guid>
-            <pubDate>Tue, 14 Oct 2025 14:59:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马达加斯加最高宪法法院要求，在军事政变发生后的60天内举行选举。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1720698.d.html</link>
-            <guid>4432747</guid>
-            <pubDate>Tue, 14 Oct 2025 14:58:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刚果（金）政府与反政府武装签署协议 建立停火监测与核查机制】当地时间10月14日，卡塔尔外交部发表声明称，刚果（金）政府与反政府武装“M23运动”当天在卡塔尔首都多哈签署协议，旨在建立停火监测与核查机制。声明指出，根据刚果（金）政府与“M23运动”今年7月在多哈签署的原则宣言，双方将建立停火监测与核查机制。该机制将监督双方实行永久停火的落实情况，调查并核实报告的违规行为，同时与相关各方保持沟通，以防止敌对行动再次爆发。卡塔尔、美国和非洲联盟将作为观察员参与该机制。声明还强调，该机制的建立是加强冲突双方互信、推动达成全面和平协议的关键步骤。今年1月以来，刚果（金）东部地区紧张局势急剧升级，“M23运动”在北基伍省、南基伍省等地不断发起攻势，冲突造成大量平民伤亡和流离失所。7月，刚果（金）政府和“M23运动”在多哈签署原则宣言。根据原则宣言，双方应采取永久停止敌对行动、释放在押人员、恢复国家机构在冲突地区的治理权、启动和平协议谈判等步骤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2595424.d.html</link>
-            <guid>4432746</guid>
-            <pubDate>Tue, 14 Oct 2025 14:58:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中铁十九局副总经理孙强接受纪律审查和监察调查】据微信公众号“清风北京”10月14日消息，中铁十九局集团有限公司党委委员、副总经理孙强涉嫌严重违纪违法，目前正接受中国铁建股份有限公司纪委和丰台区监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4106559.d.html</link>
-            <guid>4432745</guid>
-            <pubDate>Tue, 14 Oct 2025 14:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部：美国出口检验量——大豆994008吨、小麦444138吨、玉米1129708吨 。]]></title>
-            <guid>4432744</guid>
-            <pubDate>Tue, 14 Oct 2025 14:56:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加沙民防机构称，以色列军队周二在多起事件中杀害了六名巴勒斯坦人，而军方报告称，其部队向接近其阵地的嫌疑人开火。]]></title>
-            <guid>4432743</guid>
-            <pubDate>Tue, 14 Oct 2025 14:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周二早盘，廉价航空企业易捷航空（EasyJet，EJTTF）股价因传闻MSC集团可能发起收购要约而上涨3.6%。据称潜在收购方案包括全面收购或控股股权收购。该公司年内股价已下跌14%。]]></title>
-            <guid>4432742</guid>
-            <pubDate>Tue, 14 Oct 2025 14:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行：将10月15日卢布官方汇率设定为1美元兑换79.9589卢布（前值为1美元兑换80.8548卢布）。]]></title>
-            <guid>4432741</guid>
-            <pubDate>Tue, 14 Oct 2025 14:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美高梅博彩公司旗下美高梅博彩上调2025财年业绩展望，并预计向股东返还2亿美元后，美高梅度假村国际酒店集团股价上涨4.2% 。]]></title>
-            <guid>4432740</guid>
-            <pubDate>Tue, 14 Oct 2025 14:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马达加斯加最高宪法法院在军事政变后邀请一名陆军上校出任总统。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1719965.d.html</link>
-            <guid>4432739</guid>
-            <pubDate>Tue, 14 Oct 2025 14:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席财务官：在财富管理业务方面存在提升利润率的机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1719936.d.html</link>
-            <guid>4432738</guid>
-            <pubDate>Tue, 14 Oct 2025 14:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周二早盘，福特（F）股价上涨0.2%，因关键铝供应商工厂火灾，临时削减五款车型产量。肯塔基卡车工厂的生产受阻，影响远征者和林肯领航员等车型。分析师预估此次火灾可能导致福特2025财年息税前利润减少5-10亿美元，加剧现有关税和电动车业务亏损带来的财务压力。]]></title>
-            <guid>4432736</guid>
-            <pubDate>Tue, 14 Oct 2025 14:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西国家石油公司（Petrobras）首席执行官：巴西国家石油公司每天向市场投放5100万立方米天然气。]]></title>
-            <guid>4432735</guid>
-            <pubDate>Tue, 14 Oct 2025 14:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州黄埔昔日“网红盘”二手房成交价跌到“3字头”，有业主写3页长信“护盘保价”】广州黄埔科学城“网红盘”大壮名城价格腰斩，二期新房去化率仅约11.6%，部分业主被迫降价。一期业主发布3页“护盘倡议”长信，呼吁定价参考正常成交价、内部消化房源。事实上，多地二手房业主曾抱团“保卫房价”，但专家认为业主“抱团护盘”象征意义大于实际意义，无法对抗市场，刚需买家应关注现金流和租金。9月的一则成交数据，让广州黄埔科学城核心地段“网红盘”大壮名城刷新了价格底线：一套104平方米的二手房，以2.96万元/平方米单价成交，较高峰时跌幅超过50%。（每经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4105532.d.html</link>
-            <guid>4432734</guid>
-            <pubDate>Tue, 14 Oct 2025 14:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西增加调拨2.21万件救灾物资支持4地救灾救助】10月14日，在前期已向灾区调拨两批中央和自治区救灾物资基础上，自治区应急管理厅会同自治区粮食和物资储备局向南宁、北海、百色、崇左增加调拨2.21万件自治区本级救灾物资，全力支持当地做好受灾群众避险转移和安置救助工作。 据了解，此次增加调拨的救灾物资包括1300顶帐篷、5200张折叠床、1300套折叠桌凳、2600条毛巾被、2600条毛毯、5200顶蚊帐、1300个家用应急灯、2600个强光手电等。10月12日23时，自治区防灾减灾救灾委员会办公室决定将自治区自然灾害救助四级应急响应调整为三级。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2594063.d.html</link>
-            <guid>4432733</guid>
-            <pubDate>Tue, 14 Oct 2025 14:51:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周二早盘，通用汽车（GM）上涨0.6%，此前该公司宣布，因美国政府政策调整导致电动车普及速度预期放缓，将计提16亿美元费用，其中包括12亿美元非现金减值损失和4亿美元现金支出。]]></title>
-            <guid>4432732</guid>
-            <pubDate>Tue, 14 Oct 2025 14:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度拉贾斯坦邦一巴士起火 恐致多人伤亡】当地时间14日下午，印度拉贾斯坦邦一辆正在行驶的巴士突然起火。当地警方表示，事故已经造成了数人伤亡。事故发生后，村民立即展开救援并且通知消防部门和警方，伤者已被送往附近医院。目前尚不清楚该巴士起火原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4105125.d.html</link>
-            <guid>4432731</guid>
-            <pubDate>Tue, 14 Oct 2025 14:50:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席执行官：我们认为汽车业务的业绩没有出现任何实质性变化，其表现符合预期。]]></title>
-            <guid>4432730</guid>
-            <pubDate>Tue, 14 Oct 2025 14:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行将所有40,000份外汇掉期合约展期。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2593818.d.html</link>
-            <guid>4432729</guid>
-            <pubDate>Tue, 14 Oct 2025 14:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COYA THERAPEUTICS股价涨幅扩大至24%，为2023年以来最高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4105004.d.html</link>
-            <guid>4432728</guid>
-            <pubDate>Tue, 14 Oct 2025 14:49:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席执行官：不同富裕阶层的信贷情况未见任何显著变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2593745.d.html</link>
-            <guid>4432727</guid>
-            <pubDate>Tue, 14 Oct 2025 14:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周二早盘，摩根大通（JPM）下跌1.5%，此前该公司公布第三季度业绩：GAAP每股收益5.07美元，超预期0.26美元；营收471亿美元，较预期高出15.3亿美元。尽管计提了34亿美元信贷损失拨备，该行营收仍实现10.4%的同比增长。]]></title>
-            <guid>4432726</guid>
-            <pubDate>Tue, 14 Oct 2025 14:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔玛与OpenAI达成合作后，其股价上涨2.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2593699.d.html</link>
-            <guid>4432725</guid>
-            <pubDate>Tue, 14 Oct 2025 14:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储监管副主席鲍曼在华盛顿的一次活动中表示：“我仍然认为今年年底前还会再降息两次。”]]></title>
-            <guid>4432724</guid>
-            <pubDate>Tue, 14 Oct 2025 14:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典政府周二宣布，首批用于战争或危机的粮食储备将建立在瑞典北部地区，该地区具有“重要的军事战略意义”。]]></title>
-            <guid>4432723</guid>
-            <pubDate>Tue, 14 Oct 2025 14:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席财务官：信用卡业务增长主要来自现有客户。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaw7055131.d.html</link>
-            <guid>4432722</guid>
-            <pubDate>Tue, 14 Oct 2025 14:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本札幌控股公司接近与KKR - PAG集团达成出售房地产业务的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2593103.d.html</link>
-            <guid>4432721</guid>
-            <pubDate>Tue, 14 Oct 2025 14:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COYA THERAPEUTICS成交量激增，股价一度上涨9.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4104257.d.html</link>
-            <guid>4432720</guid>
-            <pubDate>Tue, 14 Oct 2025 14:46:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债实际收益率上升1.6个基点至1.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4104143.d.html</link>
-            <guid>4432719</guid>
-            <pubDate>Tue, 14 Oct 2025 14:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瀚天天成电子科技（厦门）股份有限公司递表港交所】瀚天天成电子科技（厦门）股份有限公司向港交所提交上市申请书，独家保荐人为中金公司。2025年截至10月14日，共有271家公司向港交所递交IPO招股材料，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4103953.d.html</link>
-            <guid>4432718</guid>
-            <pubDate>Tue, 14 Oct 2025 14:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议长迈克·约翰逊：特朗普政府有权调动资金支付军队军费。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1718270.d.html</link>
-            <guid>4432717</guid>
-            <pubDate>Tue, 14 Oct 2025 14:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国极右翼政党“国民阵线”前主席勒庞：与社会党不同，左翼党并没有把自己卖给马克龙阵营，而是把自己交给了马克龙阵营。]]></title>
-            <guid>4432716</guid>
-            <pubDate>Tue, 14 Oct 2025 14:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西方石油首席执行官表示：不需要进行更多收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1718090.d.html</link>
-            <guid>4432715</guid>
-            <pubDate>Tue, 14 Oct 2025 14:43:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克斯坦国有铀矿企业Kazatomprom首席战略和国际发展官Dastan Kosherbayev在伦敦能源情报论坛上表示：我们都看到了结构性赤字逼近的迹象。（铀矿）价格正在“缓慢但稳定地上涨”。]]></title>
-            <guid>4432714</guid>
-            <pubDate>Tue, 14 Oct 2025 14:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF：法国利差扩大“相当可控”，尚未看到担忧蔓延至其他国家。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4103199.d.html</link>
-            <guid>4432713</guid>
-            <pubDate>Tue, 14 Oct 2025 14:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国债务管理办公室（DMO）表示，通过银团配售方式发售的2041年到期英国国债中，国内投资者获配比例约为62%。]]></title>
-            <guid>4432712</guid>
-            <pubDate>Tue, 14 Oct 2025 14:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰在每周债券发行中筹集了196亿格里夫纳资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4103050.d.html</link>
-            <guid>4432711</guid>
-            <pubDate>Tue, 14 Oct 2025 14:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席财务官表示，我们在人员裁减方面仍有更多工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2591732.d.html</link>
-            <guid>4432710</guid>
-            <pubDate>Tue, 14 Oct 2025 14:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西方石油高管预计2026年后油价将升至62美元以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2591525.d.html</link>
-            <guid>4432709</guid>
-            <pubDate>Tue, 14 Oct 2025 14:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷主要股指上涨逾3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtca4102661.d.html</link>
-            <guid>4432708</guid>
-            <pubDate>Tue, 14 Oct 2025 14:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西方石油首席执行官预计，今年和明年布伦特原油价格在58-62美元/桶之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1717068.d.html</link>
-            <guid>4432707</guid>
-            <pubDate>Tue, 14 Oct 2025 14:38:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[牙买加第三季度失业率为3.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtce2591255.d.html</link>
-            <guid>4432706</guid>
-            <pubDate>Tue, 14 Oct 2025 14:37:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【健盛集团：拟使用1.5亿元-3亿元回购公司股份】健盛集团公告，拟使用1.5亿元-3亿元回购公司股份，回购价格不超过14.69元/股。此次回购股份将用于减少公司注册资本（注销股份）。公司于近日收到中信银行股份有限公司杭州萧山支行出具的《贷款承诺函》，借款金额为人民币2.7亿元，借款专项用于公司股份回购。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwtaz1716848.d.html</link>
-            <guid>4432705</guid>
-            <pubDate>Tue, 14 Oct 2025 14:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ARM涨近4%，据悉OpenAI自研AI芯片采用ARM架构。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnve4233008.d.html</link>
-            <guid>4432704</guid>
-            <pubDate>Tue, 14 Oct 2025 14:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国游客在泰国旅游时被威胁购物 我使馆发布提醒】10月14日，中国驻泰国大使馆发布公告称，近日，网上流传一段中国游客在泰国旅游时被威胁购物的视频。使馆即向泰旅游警察局及旅游局核实了解相关情况。据泰方核实，该导游持中国护照，在泰无导游资质。其企图逼迫游客购物并通过游客消费获取提成，泰方已对涉事旅行社进行调查追责。驻泰使馆再次提醒广大来泰游客，切勿相信“低价游”，参团游请选择有出境游经营资质、信誉良好的正规旅行社和质价相符的旅游产品，签订正规合同。根据泰有关法律，不允许外国公民在泰从事导游职业。如遇纠纷，请理性维权，保留证据，并及时拨打泰国旅游警察热线1155或使馆领保电话02-245-7010求助。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnvh2721521.d.html</link>
-            <guid>4432703</guid>
-            <pubDate>Tue, 14 Oct 2025 14:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际市场白银年内涨幅超70%】14日国际金价延续涨势，而上涨势头比黄金还要强劲的是白银。数据显示，国际市场白银的年内涨幅已超过70%，大于黄金年内涨幅。上海期货交易所12月到期交割的沪银主力合约连续两日上涨，盘中一度来到每千克12000元上方，创下历史新高。业内人士表示，沪银这一波涨势，更多受到伦敦白银市场流动性紧张和历史性逼空行情的短期金融因素影响。此外，推动白银上涨的两大核心支柱，其金融避险属性与强劲的工业需求，在未来仍将延续。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnvc1847050.d.html</link>
-            <guid>4432702</guid>
-            <pubDate>Tue, 14 Oct 2025 14:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【教育部：支持各地举办一批综合高中 引导高中阶段学校多样化发展】全国县域普通高中振兴现场推进会14日在甘肃兰州召开。会议强调，要抓住关键，不折不扣落实好县中振兴行动计划，促进县域基础教育全面改革提质。一是加强政府统筹，充分用好教育工作领导小组体制机制，为县中建设争取更多资源、更大支持，探索市县结合的基础教育管理体制，提升区域基础教育支撑保障能力。二是加强师资队伍建设，推动教师素质和培养的结构性变化，改革完善培养培训体系，用好国家智慧教育平台，加快破解教师学科结构、能力结构矛盾。三是加强职普融通，支持各地举办一批综合高中，引导高中阶段学校多样化发展，使不同发展潜质的学生能够选择适合的教育。四是加强评价改革，持续深化中考招生改革，扭转单纯以升学率评价学校和考核教师的片面做法，切实落实健康第一的教育理念，合理安排学生作息时间，下大力气整治超时学习、违规补课等问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnuy7183273.d.html</link>
-            <guid>4432701</guid>
-            <pubDate>Tue, 14 Oct 2025 14:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席财务官表示，我们可能在第四季度产生额外的遣散费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnvh2721077.d.html</link>
-            <guid>4432700</guid>
-            <pubDate>Tue, 14 Oct 2025 14:33:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Omdia：全球智能手机市场在2025年第三季度增长3% 苹果创下史上同期最高纪录】Omdia的最新研究显示，2025年第三季度，全球智能手机市场同比增长3%，标志着在本季度多款新品发布的带动下，市场重新回归增长势头。本季度的反弹得益于强劲的换机需求，以及多家厂商在繁忙的2025年第四季度到来前，提前在渠道中备货。三星以19%的市场份额连续第三个季度保持全球第一的位置，这得益于其GalaxyA系列的持续热销以及第七代可折叠机型产品线的升级。苹果iPhone出货量同比增长4%，创下其史上最强的第三季度表现，受益于iPhone17系列的提前需求，市场份额达18%。小米本季度表现稳定，市场份额为14%；传音和vivo各占9%，共同跻身本季度前五大厂商。]]></title>
-            <guid>4432699</guid>
-            <pubDate>Tue, 14 Oct 2025 14:33:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其主要银行指数跌幅扩大，下跌4.2%；土耳其主要的伊斯坦布尔证券交易所100指数下跌2.2%。]]></title>
-            <guid>4432698</guid>
-            <pubDate>Tue, 14 Oct 2025 14:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周二早盘，谷歌（GOOGL）股价小幅上扬，此前该公司宣布将投资100亿美元在印度维沙卡帕特南建设数据中心和人工智能中心。这标志着谷歌在印度的最大规模投资，该设施预计将创造18.8万个就业岗位，并于2028年7月前投入运营。]]></title>
-            <guid>4432697</guid>
-            <pubDate>Tue, 14 Oct 2025 14:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西方石油公司高管霍卢布：美国石油供应将在2027年至2030年间见顶。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnvh2720667.d.html</link>
-            <guid>4432696</guid>
-            <pubDate>Tue, 14 Oct 2025 14:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[冰岛国民银行：最高法院裁定，该行基础抵押贷款中与利率调整相关的条款无效 —— 因其参考了冰岛央行政策利率以外的其他指标。]]></title>
-            <guid>4432695</guid>
-            <pubDate>Tue, 14 Oct 2025 14:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫：政府“停摆”期间将继续裁员】当地时间10月14日，白宫管理和预算办公室表示，正“做好迎接并挺过政府停摆的准备”，将在“停摆”期间继续向军人和执法人员发放薪资，同时推进联邦雇员裁员计划。由于两党在医保相关福利支出等方面严重对立，美国国会参议院未能在9月30日上一财年结束前通过新的临时拨款法案，导致联邦政府维持正常运转的资金耗尽，于10月1日起“停摆”。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnvh2719951.d.html</link>
-            <guid>4432694</guid>
-            <pubDate>Tue, 14 Oct 2025 14:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛在备忘录中称将有限裁减（员工）。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnve4231011.d.html</link>
-            <guid>4432693</guid>
-            <pubDate>Tue, 14 Oct 2025 14:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委卡兹米尔可能将留任至2027年斯洛伐克大选之后。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnve4230880.d.html</link>
-            <guid>4432692</guid>
-            <pubDate>Tue, 14 Oct 2025 14:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛在备忘录中宣布今年进一步裁员。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnve4230705.d.html</link>
-            <guid>4432691</guid>
-            <pubDate>Tue, 14 Oct 2025 14:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席财务官表示，我们将继续削减住房贷款业务的员工数量。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnuy7181984.d.html</link>
-            <guid>4432690</guid>
-            <pubDate>Tue, 14 Oct 2025 14:29:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利发行400亿比索2035年到期债券，债券收益率为5.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnvh2719009.d.html</link>
-            <guid>4432689</guid>
-            <pubDate>Tue, 14 Oct 2025 14:28:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国晟科技：子公司拟2.3亿元增资铁岭环球 后者拟投资年产10GWh固态电池产业链AI智能制造项目】国晟科技(603778.SH)公告称，公司二级控股子公司安徽国晟新能源拟以2.3亿元向铁岭环球进行增资，增资后持股51.11%；同时，江苏环球以1.2亿元对铁岭环球进行增资，累计持股48.89%。增资完成后，铁岭环球注册资本增加至4.5亿元，将纳入公司合并报表范围。铁岭环球拟投资的年产10GWh固态电池产业链AI智能制造项目已取得项目备案手续；并且铁岭环球已取得电池回收及固态电池生产制备所需的知识产权许可使用授权；本项目的固态电池产品植入AI高智能BMS核心模块，将主要服务于具身智能、低空经济、智慧储能、智驾动力等科技领域，目前已签署3份国内销售意向协议，1份国际销售意向协议。]]></title>
-            <guid>4432688</guid>
-            <pubDate>Tue, 14 Oct 2025 14:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数跌幅收窄至不到1%；标普500指数跌0.6%。]]></title>
-            <guid>4432687</guid>
-            <pubDate>Tue, 14 Oct 2025 14:26:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[                                                                                                            道琼斯工业平均指数刚刚触及45900.00关口，最新报45900.01，日内跌0.36%                  。]]></title>
-            <guid>4432686</guid>
-            <pubDate>Tue, 14 Oct 2025 14:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指跌幅收窄至不足1%，此前一度跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnuy7181343.d.html</link>
-            <guid>4432685</guid>
-            <pubDate>Tue, 14 Oct 2025 14:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财政部长哈达德：将与卢拉和议员一起找到26年预算的解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnve4229775.d.html</link>
-            <guid>4432684</guid>
-            <pubDate>Tue, 14 Oct 2025 14:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储鲍曼：将很快公布压力测试机制调整】美联储监管副主席鲍曼表示，她计划很快公布对压力测试机制的进一步调整，这一举措预计将受到华尔街银行的欢迎。鲍曼周二称：“我们正在逐步推出改善压力测试流程的提案，预计将在未来一周左右推出新一轮方案。”美联储此前承诺，将允许华尔街银行提前了解部分压力测试模型，以平滑每年资本要求的变化。银行业长期呼吁修改与资本要求相关的部分，认为这些规则过于繁重，限制了业务运作。鲍曼补充称，美国版“巴塞尔协议Ⅲ最终方案”的新提案目前正与联邦存款保险公司及货币监理署协商中。监管机构已基本放弃两年前提出的旧版本，计划最早于2026年第一季度公布新版方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnve4229663.d.html</link>
-            <guid>4432683</guid>
-            <pubDate>Tue, 14 Oct 2025 14:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席执行官表示，30%至40%的股息支付率仍然合适，目前接近该区间的下限。]]></title>
-            <guid>4432682</guid>
-            <pubDate>Tue, 14 Oct 2025 14:24:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席执行官预计，该行信用卡业务将推动回报率提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-14/detail-inftwnve4229573.d.html</link>
-            <guid>4432681</guid>
-            <pubDate>Tue, 14 Oct 2025 14:24:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

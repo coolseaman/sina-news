@@ -4,11 +4,356 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 15 Oct 2025 15:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 16:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国贸易代表格里尔将参加参议院共和党午餐会。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaiy3192104.d.html</link>
+            <guid>4434838</guid>
+            <pubDate>Wed, 15 Oct 2025 16:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷债券因美国加大援助的报道而上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakc3163029.d.html</link>
+            <guid>4434837</guid>
+            <pubDate>Wed, 15 Oct 2025 16:17:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品监督管理局（FDA）：已报告射频微针设备在某些使用情况下出现严重并发症。]]></title>
+            <guid>4434836</guid>
+            <pubDate>Wed, 15 Oct 2025 16:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：将为阿根廷经济提供总计400亿美元的资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaiy3191446.d.html</link>
+            <guid>4434835</guid>
+            <pubDate>Wed, 15 Oct 2025 16:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国方面称，联邦网络遭“重大网络威胁”攻击，攻击者利用了F5产品中的漏洞。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakc3162331.d.html</link>
+            <guid>4434834</guid>
+            <pubDate>Wed, 15 Oct 2025 16:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：如果日本央行采取适当的货币政策，那么日元将找到自身的合理水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakf7825940.d.html</link>
+            <guid>4434833</guid>
+            <pubDate>Wed, 15 Oct 2025 16:11:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲寻求战略自主与北约义务平衡】10月15日，北约在布鲁塞尔召开各成员国防长会。根据会前的新闻发布会消息，此次会议将北约防空系统整合，以及各国加大在防空部署方面的军费投入列为重点讨论议题。值得注意的是，就在北约防长会议结束后，欧盟成员国防长也将召开会议，讨论欧盟版的“防务准备路线图”。舆论认为，欧洲正试图在“战略自主”与“履行北约义务”之间找到平衡点。但在美国的强势主导下，这种努力显得越来越困难。即便欧盟出台了所谓“路线图”，也难以真正跳出美国设定的安全框架。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakf7825827.d.html</link>
+            <guid>4434832</guid>
+            <pubDate>Wed, 15 Oct 2025 16:11:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯在2025年向匈牙利供应了60亿立方米天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaka1679535.d.html</link>
+            <guid>4434831</guid>
+            <pubDate>Wed, 15 Oct 2025 16:10:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟将讨论2.5万亿欧元公共招标对本土企业的优惠待遇问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakf7825486.d.html</link>
+            <guid>4434830</guid>
+            <pubDate>Wed, 15 Oct 2025 16:09:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部长贝森特：国际货币基金组织（IMF）需要回归提供流动性和后盾支持、在国家陷入困境时进行干预的核心使命。]]></title>
+            <guid>4434829</guid>
+            <pubDate>Wed, 15 Oct 2025 16:08:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta：在其整个基础设施中，ARM的Neoverse架构将使该公司实现每瓦性能相当的水平。]]></title>
+            <guid>4434828</guid>
+            <pubDate>Wed, 15 Oct 2025 16:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta：人工智能排名与推荐系统将借助ARM基于Neoverse的 数据中心平台，以实现相较于x86系统更低的功耗。]]></title>
+            <guid>4434827</guid>
+            <pubDate>Wed, 15 Oct 2025 16:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta：ARM及其合作伙伴宣布达成多年期战略合作伙伴关系，以提升人工智能效率。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaka1679150.d.html</link>
+            <guid>4434826</guid>
+            <pubDate>Wed, 15 Oct 2025 16:07:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：与韩国在投资问题上的分歧可以解决，讨论可在未来10天内结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakf7825288.d.html</link>
+            <guid>4434825</guid>
+            <pubDate>Wed, 15 Oct 2025 16:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：不主张美联储缩减资产负债表或放弃充足准备金制度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaiy3190304.d.html</link>
+            <guid>4434824</guid>
+            <pubDate>Wed, 15 Oct 2025 16:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：不担心阿根廷带来的系统性经济风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakc3161561.d.html</link>
+            <guid>4434823</guid>
+            <pubDate>Wed, 15 Oct 2025 16:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：对阿根廷的支持就像是美国在拉美地区施加影响力的经济“门罗主义”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaka1679041.d.html</link>
+            <guid>4434822</guid>
+            <pubDate>Wed, 15 Oct 2025 16:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：我们正在为阿根廷打造一个规模达200亿美元的私营部门融资机制，该机制将与货币互换协议并行，并投资于阿根廷债务。]]></title>
+            <guid>4434821</guid>
+            <pubDate>Wed, 15 Oct 2025 16:07:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：阿根廷货币互换额度将由美国外汇平准基金持有的特别提款权（兑换成美元）提供支持。]]></title>
+            <guid>4434820</guid>
+            <pubDate>Wed, 15 Oct 2025 16:07:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：米莱所在政党在选举中获胜将增强他否决不良政策的能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakf7825136.d.html</link>
+            <guid>4434819</guid>
+            <pubDate>Wed, 15 Oct 2025 16:06:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：任何购买俄罗斯能源的人都是在资助对乌克兰人民的攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakc3161426.d.html</link>
+            <guid>4434818</guid>
+            <pubDate>Wed, 15 Oct 2025 16:06:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：如果最高法院裁定《国际紧急经济权力法》关税不合法，特朗普政府可转向其他关税授权途径。]]></title>
+            <guid>4434817</guid>
+            <pubDate>Wed, 15 Oct 2025 16:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：美国财政部今晨在公开市场购入阿根廷比索。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaiy3190104.d.html</link>
+            <guid>4434816</guid>
+            <pubDate>Wed, 15 Oct 2025 16:06:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：国际货币基金组织应出售其在马里兰州的高尔夫球场。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaka1678844.d.html</link>
+            <guid>4434815</guid>
+            <pubDate>Wed, 15 Oct 2025 16:06:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：美联储应像使用抗生素一样谨慎使用量化宽松政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakc3161327.d.html</link>
+            <guid>4434814</guid>
+            <pubDate>Wed, 15 Oct 2025 16:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：量化宽松政策改革是下一任美联储主席人选的重要考量因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakf7824976.d.html</link>
+            <guid>4434813</guid>
+            <pubDate>Wed, 15 Oct 2025 16:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国全国广播公司新闻（NBC NEWS）在有线网络分拆前裁员150人。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakf7824847.d.html</link>
+            <guid>4434812</guid>
+            <pubDate>Wed, 15 Oct 2025 16:05:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟将讨论2.5万亿欧元公开招标的保护主义问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaka1678402.d.html</link>
+            <guid>4434811</guid>
+            <pubDate>Wed, 15 Oct 2025 16:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部长：乌克兰将继续打击俄罗斯炼油厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzakc3160931.d.html</link>
+            <guid>4434810</guid>
+            <pubDate>Wed, 15 Oct 2025 16:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车：有望到2030年部署3.5万个由通用汽车能源部门投资建设的公共快速充电桩。]]></title>
+            <guid>4434809</guid>
+            <pubDate>Wed, 15 Oct 2025 16:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta ：将投资15亿美元在得克萨斯州建设一座数据中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-16/detail-inftzaka1677446.d.html</link>
+            <guid>4434808</guid>
+            <pubDate>Wed, 15 Oct 2025 16:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯经济部：截至10月13日，俄罗斯年度通胀率为8.08%，一周前修正后为8.04%。]]></title>
+            <guid>4434807</guid>
+            <pubDate>Wed, 15 Oct 2025 16:01:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委维勒鲁瓦：全球经济意外地具有韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzakf7823588.d.html</link>
+            <guid>4434806</guid>
+            <pubDate>Wed, 15 Oct 2025 15:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部长：如果盟国提供资金，乌克兰可以制造2000万架无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaka1676724.d.html</link>
+            <guid>4434805</guid>
+            <pubDate>Wed, 15 Oct 2025 15:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【茅台集团总经理王莉：茅台1935酒渠道存销比已回复到健康水平】茅台集团党委副书记、总经理，茅台酒股份公司党委副书记、代总经理王莉15日在山东青岛主持召开茅台酱香系列酒营销座谈会。据王莉介绍，根据各方反馈，茅台酱香酒6至8月市场保持基本稳定，9月各产品终端动销环比都有明显回升。特别是茅台1935酒，终端动销同比去年有显著增长，渠道存销比已回复到健康水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaiy3187863.d.html</link>
+            <guid>4434804</guid>
+            <pubDate>Wed, 15 Oct 2025 15:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝森特称将在12月向特朗普提供有三到四人的美联储主席候选人名单】美国财政部长斯科特·贝森特表示，他将在12月向总统特朗普提交下一任美联储主席候选人名单。“很可能是在感恩节之后的12月，我们会向总统提交三到四名候选人供他面试，”贝森特周三表示。贝森特说，他已将自己面试过的11名候选人缩减到5名。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaka1676448.d.html</link>
+            <guid>4434803</guid>
+            <pubDate>Wed, 15 Oct 2025 15:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[声明显示：哥伦比亚液化天然气再气化终端在维护工作后遭遇自动停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzakf7822916.d.html</link>
+            <guid>4434802</guid>
+            <pubDate>Wed, 15 Oct 2025 15:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数涨幅降至不到0.3%，纳斯达克100指数涨0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaiy3187022.d.html</link>
+            <guid>4434801</guid>
+            <pubDate>Wed, 15 Oct 2025 15:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷总统米莱：美债掉期为阿根廷提供了偿还债务的融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaka1675597.d.html</link>
+            <guid>4434800</guid>
+            <pubDate>Wed, 15 Oct 2025 15:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[嫌疑人的律师称，意大利最高法院撤销了对“北溪”管道遭破坏案嫌疑人的引渡令，并表示此案需要重新审理。]]></title>
+            <guid>4434799</guid>
+            <pubDate>Wed, 15 Oct 2025 15:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷总统米莱：美国将保证支持（阿根廷）到2027年。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaka1675163.d.html</link>
+            <guid>4434798</guid>
+            <pubDate>Wed, 15 Oct 2025 15:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷总统米莱：我们将改善国会的构成。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzakf7822320.d.html</link>
+            <guid>4434797</guid>
+            <pubDate>Wed, 15 Oct 2025 15:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲主要股指收盘涨跌不一】10月15日，欧洲主要股指收盘涨跌不一，欧洲斯托克50指数涨0.89%，英国富时100指数跌0.35%，法国CAC40指数涨1.99%，德国DAX30指数跌0.27%，富时意大利MIB指数跌0.40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzakf7822278.d.html</link>
+            <guid>4434796</guid>
+            <pubDate>Wed, 15 Oct 2025 15:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利最高法院称，“北溪”管道遭破坏案嫌疑人在反对从意大利引渡至德国的法律上诉中胜诉。]]></title>
+            <guid>4434795</guid>
+            <pubDate>Wed, 15 Oct 2025 15:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅同西班牙外交大臣阿尔瓦雷斯会谈】中共中央政治局委员、外交部长王毅15日在杭州同西班牙外交大臣阿尔瓦雷斯举行会谈。王毅表示，今年是中西建立全面战略伙伴关系20周年，中方愿同西方一道，认真落实两国领导人重要共识，坚定相互理解、相互支持。中方愿延长对西免签政策，欢迎更多西班牙朋友来华参访。双方应密切多边协作，携手构建更加公正合理的全球治理体系。阿尔瓦雷斯表示，费利佩六世国王将对中国进行国事访问，这是西中关系发展史上的里程碑。欧中坚持对话与合作符合双方利益，西班牙愿为此发挥建设性作用。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaiy3185291.d.html</link>
+            <guid>4434794</guid>
+            <pubDate>Wed, 15 Oct 2025 15:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[信件显示，美国参议员坎特韦尔敦促对特朗普政府发布的将政府停摆归咎于民主党人的机场视频展开调查。]]></title>
+            <guid>4434793</guid>
+            <pubDate>Wed, 15 Oct 2025 15:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国蒙达尔纪市长：法中地方合作促进双边友好】蒙达尔纪市长伯努瓦·迪容15日表示，法中城市等各层面关系友好、交往密切，进一步释放两国地方合作巨大潜力，有助于增进两国人民民心相通。 在同中国人民外交学会组织的中方代表团座谈时，伯努瓦·迪容表示，蒙达尔纪森林中学开设了中文课程，蒙达尔纪与中国的共同记忆和传统友谊由年轻一代接续传承。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaiy3185108.d.html</link>
+            <guid>4434792</guid>
+            <pubDate>Wed, 15 Oct 2025 15:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗说国际原子能机构未履行义务致合作无法开展】伊朗原子能组织主席伊斯拉米15日说，伊朗与国际原子能机构的合作须符合伊朗法律，由于该机构尚未履行伊朗相关法律规定的义务，双方合作无法开展。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftzaka1673421.d.html</link>
+            <guid>4434791</guid>
+            <pubDate>Wed, 15 Oct 2025 15:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖四个月期国债，得标利率3.810%，投标倍数2.87。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7950570.d.html</link>
+            <guid>4434790</guid>
+            <pubDate>Wed, 15 Oct 2025 15:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列9月CPI同比增长2.5%，8月同比增长2.9%（路透社预测为2.9%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3286656.d.html</link>
+            <guid>4434789</guid>
+            <pubDate>Wed, 15 Oct 2025 15:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列统计局数据显示，9月份CPI环比下降0.6%，8月份为0.7%（路透社预测为-0.3%）。]]></title>
+            <guid>4434788</guid>
+            <pubDate>Wed, 15 Oct 2025 15:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：巴西国债谈判贷款由巴西财政部担保。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3312310.d.html</link>
+            <guid>4434787</guid>
+            <pubDate>Wed, 15 Oct 2025 15:28:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行策略师：过去四周欧洲股票基金吸引了18.8亿美元资金流入，其中工业板块流入规模最大，达到10亿美元。欧洲股票基金今年迄今累计流入资金达472.2亿美元。]]></title>
+            <guid>4434786</guid>
+            <pubDate>Wed, 15 Oct 2025 15:24:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰多州将实施紧急停电】当地时间15日，乌克兰能源公司DTEK发布紧急停电通知，基辅市、基辅州、第聂伯罗彼得罗夫斯克州及敖德萨州将实施紧急停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1800256.d.html</link>
+            <guid>4434785</guid>
+            <pubDate>Wed, 15 Oct 2025 15:23:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国法官称准备批准力拓就蒙古矿山案达成的1.3875亿美元和解协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3285425.d.html</link>
+            <guid>4434784</guid>
+            <pubDate>Wed, 15 Oct 2025 15:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰能源部表示，在俄罗斯此前发动袭击后，乌克兰已在全国范围内实施紧急停电措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1799913.d.html</link>
+            <guid>4434783</guid>
+            <pubDate>Wed, 15 Oct 2025 15:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【玉木雄一郎有望成为首相候选人】据日本媒体报道，日本原计划10月21日召开临时国会，以选出首相石破茂的继任者，但在野党以正在进行党际磋商为由，拒绝了该提议。执政党和在野党将就首相指名选举时间继续进行讨论。自民党总裁高市早苗10月15日下午与三位在野党党首会面。在野党方面，立宪民主党主张尽快实现政权更替，对支持玉木雄一郎作为统一候选人持积极态度；国民民主党则强调，只有在宪法、外交与安全政策等根本立场一致的前提下才会合作；维新会则更倾向于以“政策共识”为核心的灵活联盟。三党能否达成共识，将直接决定首相选举的结果走向。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3311118.d.html</link>
+            <guid>4434782</guid>
+            <pubDate>Wed, 15 Oct 2025 15:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯央行：央行调查显示，2025年和2026年平均关键利率预期上调至19.2%。]]></title>
+            <guid>4434781</guid>
+            <pubDate>Wed, 15 Oct 2025 15:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世粮署：援助资金减少致近1400万人极度饥饿】联合国世界粮食计划署15日说，由于援助资金大幅减少，世粮署在6个国家的运转受影响，接近1400万人将陷入“紧急”粮食不安全状态。世粮署在最新报告中说，世粮署的资金状况“从未如此艰巨”，今年预期获得资金64亿美元，同比将减少大约四成，去年获得资金大约为100亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3284890.d.html</link>
+            <guid>4434780</guid>
+            <pubDate>Wed, 15 Oct 2025 15:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【诺和诺德签署21亿美元许可协议】10月15日，丹麦制药商诺和诺德和美国生物技术公司Omeros宣布，双方已签署一项价值高达21亿美元的许可协议，诺和诺德将获得Omeros正在研发的一款用于治疗罕见血液和肾脏疾病的药物。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3284510.d.html</link>
+            <guid>4434779</guid>
+            <pubDate>Wed, 15 Oct 2025 15:18:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【印度靛蓝航空将新开德里至广州直飞航线】10月15日，据白云机场消息，印度靛蓝航空宣布，自11月10日起新开“德里-广州”每日直飞航线，航班计划由空客A320客机执飞，每日一班。此前，印度靛蓝航空宣布将于10月26日恢复加尔各答-广州航线。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3284418.d.html</link>
@@ -240,354 +585,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3276026.d.html</link>
             <guid>4434738</guid>
             <pubDate>Wed, 15 Oct 2025 14:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丹麦数据中心与工作站液体冷却解决方案Asetek（ASKTF）周三宣布与某家回头客达成液冷解决方案大额订单，推动其在哥本哈根纳斯达克股价暴涨19%。这份最低采购量3500万美元的协议，提升了公司对液冷业务的营收预期。]]></title>
-            <guid>4434737</guid>
-            <pubDate>Wed, 15 Oct 2025 14:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管理委员会委员纳格尔：德国经济正在改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3275945.d.html</link>
-            <guid>4434736</guid>
-            <pubDate>Wed, 15 Oct 2025 14:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比利时与荷兰将联合采购新型导弹防御系统】比利时国防大臣西奥·弗兰肯当地时间10月15日表示，比利时即将与荷兰签署一项协议，两国将共同采购新型导弹防御系统。据了解，此次采购是比利时新战略防御愿景的一部分，该愿景于今年早些时候提出，旨在构建一个多层次的防空网络。弗兰肯当天还表示，比利时最近对多架无人机飞越军事基地展开调查，并将尽快配备更多无人机探测和拦截系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3275791.d.html</link>
-            <guid>4434735</guid>
-            <pubDate>Wed, 15 Oct 2025 14:33:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储米兰称贸易不确定性加剧 呼吁加快降息步伐】美联储理事米兰周三表示，近期贸易紧张局势加剧了经济增长前景的不确定性，使决策者尽快降息显得更加重要。米兰在CNBC主办的一场活动上说：“现在下行风险比一周前更大，我认为我们有责任在政策上反映这一点。”他指出，贸易政策不确定性带来了“新的尾部风险”。米兰补充称：“我不会说我现在希望的利率水平比一周或一个月前更低。然而，随着风险平衡的变化，我认为尽快让政策回到更中性的位置变得更加迫切。”米兰此前表示，希望到今年年底前再下调基准利率1.25个百分点。而根据美联储19名官员的最新预测中值，2025年还将有两次各25个基点的降息。米兰周三称，今年再降息两次“看起来是现实的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1789159.d.html</link>
-            <guid>4434734</guid>
-            <pubDate>Wed, 15 Oct 2025 14:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管理委员会委员纳格尔：非常相信法国会找到解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7939222.d.html</link>
-            <guid>4434733</guid>
-            <pubDate>Wed, 15 Oct 2025 14:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管理委员会委员纳格尔：法国知道他们必须就预算达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3275480.d.html</link>
-            <guid>4434732</guid>
-            <pubDate>Wed, 15 Oct 2025 14:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【飞猪：双11预售开启45分钟，下定金商品件数已超去年首日】10月15日晚，据飞猪消息，飞猪双11全球旅行节预售开启45分钟，下定金的活动商品件数已超过去年首日。飞猪双11已于今晚8点正式开启预售，20日晚8点起可支付尾款，届时现货也将全量开售。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7939154.d.html</link>
-            <guid>4434731</guid>
-            <pubDate>Wed, 15 Oct 2025 14:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周三早盘，油田上游公司Sable Offshore（SOC）股价重挫18.5%，此前该公司遭遇司法挫折：加州法官阻止其重启圣伊内斯石油管道。]]></title>
-            <guid>4434730</guid>
-            <pubDate>Wed, 15 Oct 2025 14:31:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管理委员会委员纳格尔：目前的信息没有提供采取行动的理由。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3275039.d.html</link>
-            <guid>4434729</guid>
-            <pubDate>Wed, 15 Oct 2025 14:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管理委员会委员纳格尔：服务业通胀黏性意味着不可掉以轻心。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3299281.d.html</link>
-            <guid>4434728</guid>
-            <pubDate>Wed, 15 Oct 2025 14:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津港集团与中船集团武汉船机公司签署合作框架协议】据天津港集团官微，10月15日，天津港集团党委副书记、总裁焦广军带队走访中船集团武汉船机公司，与该公司党委副书记、总经理程立兵座谈交流并共同见证天津津港产业发展有限公司与青岛海西重机有限责任公司签署合作框架协议。双方将聚焦港口机械设备制造、海洋工程装备研发以及智能化信息系统推广应用等核心领域开展全方位合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7938651.d.html</link>
-            <guid>4434727</guid>
-            <pubDate>Wed, 15 Oct 2025 14:29:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管理委员会委员纳格尔：现在给出下一步利率行动的迹象还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1787888.d.html</link>
-            <guid>4434726</guid>
-            <pubDate>Wed, 15 Oct 2025 14:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周三早盘，可再生燃料技术开发公司Gevo（GEVO）股价上涨4.7%，此前该公司获得美国能源部14.6亿美元贷款承诺延期，用于可持续航空燃料项目。延期使Gevo能探索项目调整方案，包括建设低成本航空燃料生产设施，以符合能源政策要求。]]></title>
-            <guid>4434725</guid>
-            <pubDate>Wed, 15 Oct 2025 14:28:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD股价延续涨势，最新涨幅达7.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7938403.d.html</link>
-            <guid>4434724</guid>
-            <pubDate>Wed, 15 Oct 2025 14:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：金价上涨有助于提高印央行的储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1787542.d.html</link>
-            <guid>4434723</guid>
-            <pubDate>Wed, 15 Oct 2025 14:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗首都传出爆炸声 官方称系油罐车爆炸】阿富汗首都喀布尔15日15时（北京时间18时30分）许传出爆炸声，从市中心可见高耸的浓烟。 阿富汗政府发言人扎比乌拉·穆贾希德当天在社交媒体上发文说：“喀布尔市附近一辆油罐车发生爆炸并引发火灾，无需担忧。”他未提供更多细节。 爆炸发生后，从喀布尔市中心可见高达数十米的浓烟。爆炸现场附近一家中资机构人员告诉记者，其住所窗户玻璃被震碎。爆炸引发部分市民恐慌。 此外，有消息称喀布尔当天还有另外一处地点发生爆炸，但阿官方对此尚未证实。 近期，阿富汗和巴基斯坦边境地区不断发生小规模武装冲突。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1787400.d.html</link>
-            <guid>4434722</guid>
-            <pubDate>Wed, 15 Oct 2025 14:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：我们希望在印度推广央行数字货币，而非加密货币或稳定币。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3274393.d.html</link>
-            <guid>4434721</guid>
-            <pubDate>Wed, 15 Oct 2025 14:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：除非其他国家也采用央行数字货币，否则我们在跨境支付方面将看不到好处。]]></title>
-            <guid>4434720</guid>
-            <pubDate>Wed, 15 Oct 2025 14:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：印度无需央行数字货币或稳定币用于本地支付。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3273889.d.html</link>
-            <guid>4434719</guid>
-            <pubDate>Wed, 15 Oct 2025 14:24:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中航工业预测：到2029年中国民用直升机机队规模将超过1700架】中国航空工业集团组织中国航空工业民机系统工程研究中心15日在2025中国直升机发展论坛上发布《民用直升机中国市场预测年报（2025-2034）》，对未来10年中国民用直升机市场作出最新预测。通过综合分析，年报预测到2029年中国民用直升机机队规模将超过1700架，在无人机、eVTOL等新质低空装备的替代影响下，2030年之后直升机机队增速将放缓，预计2034年机队规模将突破2000架。（国是直通车）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7937039.d.html</link>
-            <guid>4434718</guid>
-            <pubDate>Wed, 15 Oct 2025 14:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，印度航空最新一轮飞机订单谈判涉及80 - 100架宽体客机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3297178.d.html</link>
-            <guid>4434717</guid>
-            <pubDate>Wed, 15 Oct 2025 14:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广交会采购商挤爆机器人专区】第138届广交会今天开幕，参展企业超3.2万家，创新高。学习能力极强的陪伴型机器人、利用AI技术识别人体筋膜结构的按摩机器人、能爬楼梯的四足机器狗等机器人都吸引了大量采购商围观，除了这些机器人受到大家青睐，外骨骼穿戴设备、灵巧手等展位前也是人山人海。有参展商表示：“很多人直接买机器人了。”记者在展位上看到，不少采购商都“穿上”外骨骼机器人在现场爬楼梯，“省力30%-40%”。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3273138.d.html</link>
-            <guid>4434716</guid>
-            <pubDate>Wed, 15 Oct 2025 14:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国出错牌了？业内专家：美国政府威胁停买的“中国油”或为“废弃食用油”】美方近日以威胁“不买中国食用油”来报复“中国不买美国大豆”。不过业内专家表示，美方情急之下可能闹出乌龙，其所谓“不买中国食用油”，可能指的是“不买中国废弃食用油”。相关专家透露，中国是全球大豆油料和食用油的第一大消费国，也是全球第一大进口国，很少对外出口食用油。与此形成对比的是，美国是中国废弃食用油的第一大出口市场。2024年，美国购买的中国废弃食用油约100多万吨，价值达10亿多美元。上述专家进一步表示，废弃食用油经回收处理后可作为生物柴油等再生能源原料。当前，随着全球绿色发展不断提高，废弃食用油在国内、国际市场均供不应求。美国即便不从中国购买，那么中国废弃食用油也不愁卖，美国以此为牌对中国进行威胁实际上起不到任何效果。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1785807.d.html</link>
-            <guid>4434715</guid>
-            <pubDate>Wed, 15 Oct 2025 14:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌干达计划从渣打和花旗借入3.09亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3273035.d.html</link>
-            <guid>4434714</guid>
-            <pubDate>Wed, 15 Oct 2025 14:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：可能有人会说，金价中包含了地缘政治风险溢价，但我没看到这会带来经济后果。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7936593.d.html</link>
-            <guid>4434713</guid>
-            <pubDate>Wed, 15 Oct 2025 14:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，印度航空正在与空客公司和波音公司进行谈判，拟订购多达300架飞机，此前的谈判涉及的订单数量最多为230架。]]></title>
-            <guid>4434712</guid>
-            <pubDate>Wed, 15 Oct 2025 14:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：不在乎黄金价格创历史新高 。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3296564.d.html</link>
-            <guid>4434711</guid>
-            <pubDate>Wed, 15 Oct 2025 14:18:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：预测显示美国的投资将大幅增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1785253.d.html</link>
-            <guid>4434710</guid>
-            <pubDate>Wed, 15 Oct 2025 14:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：解雇库克是律师需要解决的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3272508.d.html</link>
-            <guid>4434709</guid>
-            <pubDate>Wed, 15 Oct 2025 14:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厄瓜多尔最大城市发生汽车炸弹袭击 致1死30伤】当地时间14日傍晚，厄瓜多尔最大城市瓜亚基尔金融中心的一栋建筑物和一家购物中心附近发生汽车炸弹袭击，造成1人死亡，30人受伤。袭击发生在厄瓜多尔总统诺沃亚家族办公室旁，厄瓜多尔内政部长约翰· 雷姆伯格宣布这是一起“恐怖袭击”。现场画面显示，爆炸瞬间大楼内烟雾弥漫。厄瓜多尔政府正在对爆炸事件展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7936155.d.html</link>
-            <guid>4434708</guid>
-            <pubDate>Wed, 15 Oct 2025 14:17:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：尚未就1月31日之后继续留任美联储一事进行过讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1784964.d.html</link>
-            <guid>4434707</guid>
-            <pubDate>Wed, 15 Oct 2025 14:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利首席执行官泰德·皮克表示，已评估过非有机增长机会，但决定推进内部建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7936093.d.html</link>
-            <guid>4434706</guid>
-            <pubDate>Wed, 15 Oct 2025 14:17:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：印度的灵活通胀目标制框架成效显著。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7936033.d.html</link>
-            <guid>4434705</guid>
-            <pubDate>Wed, 15 Oct 2025 14:16:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三花智控：公司未获得机器人大额订单】三花智控公告，近日公司关注到网络媒体上有大量关于公司获得机器人大额订单的传言。经核实，该传言不属实。公司也不存在应披露而未披露的重大事项。2025年10月15日公司亦未接受任何媒体的采访。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3296075.d.html</link>
-            <guid>4434704</guid>
-            <pubDate>Wed, 15 Oct 2025 14:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：许多前白宫经济顾问委员会（CEA）主席都曾在美联储任职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3272237.d.html</link>
-            <guid>4434703</guid>
-            <pubDate>Wed, 15 Oct 2025 14:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：美联储能够且将会在保持独立性方面做得更好。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1784724.d.html</link>
-            <guid>4434702</guid>
-            <pubDate>Wed, 15 Oct 2025 14:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌干达提议为项目借用13.4亿美元世界银行贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3295931.d.html</link>
-            <guid>4434701</guid>
-            <pubDate>Wed, 15 Oct 2025 14:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利首席执行官泰德·皮克表示，可能会以一种策略性的方式，略微加快股票回购的节奏。]]></title>
-            <guid>4434700</guid>
-            <pubDate>Wed, 15 Oct 2025 14:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利首席执行官泰德・皮克表示：股息具有神圣不可侵犯的地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3272112.d.html</link>
-            <guid>4434699</guid>
-            <pubDate>Wed, 15 Oct 2025 14:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：我还认为，为了保持美联储的独立性，它必须被视为非政治性的，避免任务范围过度扩大到气候、种族政治等领域。]]></title>
-            <guid>4434698</guid>
-            <pubDate>Wed, 15 Oct 2025 14:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：预计核心个人消费支出（PCE）通胀率约在一年半后降至 2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1784509.d.html</link>
-            <guid>4434697</guid>
-            <pubDate>Wed, 15 Oct 2025 14:15:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：6.8%的增长率远低于我们所期望的增长水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3295531.d.html</link>
-            <guid>4434696</guid>
-            <pubDate>Wed, 15 Oct 2025 14:14:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：如果政策放宽，预计届时失业率将略有下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1784260.d.html</link>
-            <guid>4434695</guid>
-            <pubDate>Wed, 15 Oct 2025 14:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼日利亚9月CPI同比上涨18.02%，预期为19.0%。三年来首次降至20%以下。]]></title>
-            <guid>4434694</guid>
-            <pubDate>Wed, 15 Oct 2025 14:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线冲高20美元，现报4211美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3295291.d.html</link>
-            <guid>4434693</guid>
-            <pubDate>Wed, 15 Oct 2025 14:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：目前在替代数据中未发现任何对核心预测产生怀疑的因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1784025.d.html</link>
-            <guid>4434692</guid>
-            <pubDate>Wed, 15 Oct 2025 14:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：良好指标显示产能利用率正在提高。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1783908.d.html</link>
-            <guid>4434691</guid>
-            <pubDate>Wed, 15 Oct 2025 14:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家数据局：选取有潜力的数创企业 强化算力资源支持】国家数据局举行新闻发布会，相关负责人表示，要进一步健全数字经济创新型企业也就是数创企业的源头发现机制，强化对数创企业的算力资源支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaa3295110.d.html</link>
-            <guid>4434690</guid>
-            <pubDate>Wed, 15 Oct 2025 14:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：印度市场相当有深度、广度，市场应自行决定（资产价格等）水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1783743.d.html</link>
-            <guid>4434689</guid>
-            <pubDate>Wed, 15 Oct 2025 14:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：印度市场规模庞大、覆盖面广，应由市场自身决定卢比的合理水平。印度宏观经济基本面非常强劲。]]></title>
-            <guid>4434688</guid>
-            <pubDate>Wed, 15 Oct 2025 14:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事米兰：有望能在10月会议上掌握所需数据，若未能如愿，将依赖经济展望。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3271462.d.html</link>
-            <guid>4434687</guid>
-            <pubDate>Wed, 15 Oct 2025 14:11:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长：卢比的升值幅度不及其他货币。从某种意义上说，印度卢比正在经历一次修正。我们只想确保卢比双向有序波动。]]></title>
-            <guid>4434686</guid>
-            <pubDate>Wed, 15 Oct 2025 14:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股涨幅扩大，道琼斯指数涨0.90%，标普500指数涨1.17%，纳斯达克综合指数涨1.37%。]]></title>
-            <guid>4434685</guid>
-            <pubDate>Wed, 15 Oct 2025 14:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国稀土类股一度下跌16%，创下6月17日以来最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3271128.d.html</link>
-            <guid>4434684</guid>
-            <pubDate>Wed, 15 Oct 2025 14:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄防长：俄白防务合作是维护地区稳定的关键】当地时间10月15日，俄罗斯国防部通报，俄罗斯与白俄罗斯联合部务会会议在莫斯科举行。俄罗斯国防部长别洛乌索夫与白俄罗斯国防部长赫列宁发表讲话，总结了过去一年双方联合行动的成果，并确定了有潜力的合作领域。别洛乌索夫表示，面对北约的公开敌对活动，俄白防务合作是维护地区稳定的关键因素。赫列宁表示，白俄两国国防部门领导人在评估挑战和威胁方面有着共同的立场。别洛乌索夫在讲话中说，在特别军事行动背景下，保障俄白联盟国家军事安全与增强军事技术潜力尤为重要。两国防务合作是维持地区稳定的关键因素，旨在应对北约在东部翼侧的前沿军事部署、强化演习及边境侦察活动，参与北约东翼演习的北约部队总数约为6万人。别洛乌索夫表示，全球安全架构持续恶化。由于西方的破坏性活动，拥核国家间建设性对话的基础遭到破坏。《新削减战略武器条约》将于2026年2月5日到期。为防止核武库失控增长，俄罗斯总统普京宣布，俄罗斯准备在美国遵守条约的前提下，继续遵守《削减战略武器条约》的核心数量限制一年。赫列宁在讲话中表示，白俄罗斯与俄罗斯国防部门领导人在评估挑战和威胁方面有着共同的立场。两国正在完善联合军事系统，今年成功举行了俄白武装部队“西方-2025”联合战略演习，俄白之间的军事合作在两国关系中占有特殊地位。此外，俄白两国国防部长15日已批准了《白俄罗斯共和国与俄罗斯联邦2026-2030年军事领域战略合作计划》。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywai7934664.d.html</link>
-            <guid>4434683</guid>
-            <pubDate>Wed, 15 Oct 2025 14:10:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰：外来务工人员数量减少不会对工资产生上行压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3270876.d.html</link>
-            <guid>4434682</guid>
-            <pubDate>Wed, 15 Oct 2025 14:09:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“熊出没”频发 日本遭熊袭击死亡人数创新高】日本媒体15日报道，日本近期熊袭人事件频发，本财年已致7人死亡，创有统计以来新高。日本政府提醒民众注意“熊出没”相关信息，提高警惕、加强防范。日本环境省发布的数据显示，今年4月本财年开始以来，日本已有7人遭熊袭击死亡，创2006财年开始相关统计以来新高。遇难者分别来自岩手县、北海道、宫城县、秋田县和长野县。数据同时显示，今年4月至9月，日本累计有108人遭熊袭击，为历年来最严重情况，仅9月就有39人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywaf3270612.d.html</link>
-            <guid>4434681</guid>
-            <pubDate>Wed, 15 Oct 2025 14:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[米兰 ：预计一年后通胀将大幅回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1782008.d.html</link>
-            <guid>4434680</guid>
-            <pubDate>Wed, 15 Oct 2025 14:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达持仓概念股集体上涨，Recursion Pharmaceuticals涨超12%，文远知行涨超7%，CoreWeave涨超4%。]]></title>
-            <guid>4434679</guid>
-            <pubDate>Wed, 15 Oct 2025 14:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：印度主要用卢布支付俄罗斯石油费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-15/detail-inftywae1781765.d.html</link>
-            <guid>4434678</guid>
-            <pubDate>Wed, 15 Oct 2025 14:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

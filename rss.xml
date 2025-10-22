@@ -4,11 +4,546 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 22 Oct 2025 21:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 22:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[马斯克：特斯拉产能将在24个月内达到年化300万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9843201.d.html</link>
+            <guid>4448181</guid>
+            <pubDate>Wed, 22 Oct 2025 22:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚总统佩特罗：美国将让哥伦比亚协助打击毒品走私活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9842909.d.html</link>
+            <guid>4448180</guid>
+            <pubDate>Wed, 22 Oct 2025 22:10:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台10月23日06时解除台风黄色预警。]]></title>
+            <guid>4448179</guid>
+            <pubDate>Wed, 22 Oct 2025 22:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：我们不是要取代英伟达。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8331257.d.html</link>
+            <guid>4448178</guid>
+            <pubDate>Wed, 22 Oct 2025 22:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院在第12次投票中未能通过共和党提出的旨在结束政府停摆的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8331211.d.html</link>
+            <guid>4448177</guid>
+            <pubDate>Wed, 22 Oct 2025 22:06:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：台积电、三星将参与特斯拉人工智能5号芯片（AI 5）的设计工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2723731.d.html</link>
+            <guid>4448176</guid>
+            <pubDate>Wed, 22 Oct 2025 22:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约期金突破4130美元/盎司，日内涨1.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7387308.d.html</link>
+            <guid>4448175</guid>
+            <pubDate>Wed, 22 Oct 2025 22:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：将同时聚焦台积电和三星（协助设计）AI5芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9842094.d.html</link>
+            <guid>4448174</guid>
+            <pubDate>Wed, 22 Oct 2025 22:03:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国原油期货上涨1.5美元，至每桶59.97美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7387225.d.html</link>
+            <guid>4448173</guid>
+            <pubDate>Wed, 22 Oct 2025 22:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CME“美联储观察”：美联储10月降息25个基点的概率为97.3%，维持利率不变的概率为2.7%。]]></title>
+            <guid>4448172</guid>
+            <pubDate>Wed, 22 Oct 2025 22:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金突破4110美元/盎司，日内涨0.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9841986.d.html</link>
+            <guid>4448171</guid>
+            <pubDate>Wed, 22 Oct 2025 22:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟与埃及加强合作，达成新的援助、贸易和移民方面的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8330719.d.html</link>
+            <guid>4448170</guid>
+            <pubDate>Wed, 22 Oct 2025 22:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际油价涨2.5%，消息面上，美国对俄罗斯石油企业实施制裁措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2723372.d.html</link>
+            <guid>4448169</guid>
+            <pubDate>Wed, 22 Oct 2025 22:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国北卡罗来纳州由共和党掌控的立法机构于周三通过了一项新的国会选区划分方案，旨在确保该党在美国内华达州众议院中再获得一个席位。这进一步表明了特朗普的策略，即利用党派因素重新划分选区，以帮助共和党在明年的中期选举中继续掌控国会。]]></title>
+            <guid>4448168</guid>
+            <pubDate>Wed, 22 Oct 2025 22:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金失守4100美元/盎司，日内涨0.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2723233.d.html</link>
+            <guid>4448167</guid>
+            <pubDate>Wed, 22 Oct 2025 22:00:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约期金失守4120美元/盎司，日内涨1.45%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8330521.d.html</link>
+            <guid>4448166</guid>
+            <pubDate>Wed, 22 Oct 2025 22:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间周三，新泽西州对亚马逊公司提起了诉讼，指控该公司非法拒绝为有残疾或怀孕的仓库员工提供工作上的便利条件，并解雇了一些提出此类要求的员工。]]></title>
+            <guid>4448165</guid>
+            <pubDate>Wed, 22 Oct 2025 21:59:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台10月23日06时继续发布大风黄色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9841632.d.html</link>
+            <guid>4448164</guid>
+            <pubDate>Wed, 22 Oct 2025 21:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：公司在全面自动驾驶技术部署上采取谨慎态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2723010.d.html</link>
+            <guid>4448163</guid>
+            <pubDate>Wed, 22 Oct 2025 21:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院再次未能获得足够的票数以结束政府停摆。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9841438.d.html</link>
+            <guid>4448162</guid>
+            <pubDate>Wed, 22 Oct 2025 21:54:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：预计到今年年底将在8至10个大都市地区运营无人驾驶出租车。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7386608.d.html</link>
+            <guid>4448161</guid>
+            <pubDate>Wed, 22 Oct 2025 21:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉首席财务官：2026年资本支出将有所增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9841406.d.html</link>
+            <guid>4448160</guid>
+            <pubDate>Wed, 22 Oct 2025 21:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：预计到今年年底，奥斯汀大部分地区的自动驾驶车辆将无需安全驾驶员。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7386575.d.html</link>
+            <guid>4448159</guid>
+            <pubDate>Wed, 22 Oct 2025 21:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉首席财务官：在上海扩建工厂，供应非美国需求以规避关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8330122.d.html</link>
+            <guid>4448158</guid>
+            <pubDate>Wed, 22 Oct 2025 21:52:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉首席财务官：为人工智能领域的人才提高了股票激励方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722799.d.html</link>
+            <guid>4448157</guid>
+            <pubDate>Wed, 22 Oct 2025 21:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉首席财务官：能源存储业务面临来自竞争加剧和关税方面的不利因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7386442.d.html</link>
+            <guid>4448156</guid>
+            <pubDate>Wed, 22 Oct 2025 21:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉：关税影响已超4亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8330039.d.html</link>
+            <guid>4448155</guid>
+            <pubDate>Wed, 22 Oct 2025 21:49:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉首席财务官：正与欧盟监管机构商讨FSD的审批。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8330001.d.html</link>
+            <guid>4448154</guid>
+            <pubDate>Wed, 22 Oct 2025 21:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：特斯拉电池组有潜力提高任何电网的能源输出。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8329969.d.html</link>
+            <guid>4448153</guid>
+            <pubDate>Wed, 22 Oct 2025 21:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉首席财务官表示已就监管积分签订新合同。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722680.d.html</link>
+            <guid>4448152</guid>
+            <pubDate>Wed, 22 Oct 2025 21:48:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：可能就关税案上诉至最高法院。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722672.d.html</link>
+            <guid>4448151</guid>
+            <pubDate>Wed, 22 Oct 2025 21:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：不希望普京控制整个乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722652.d.html</link>
+            <guid>4448150</guid>
+            <pubDate>Wed, 22 Oct 2025 21:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：第三季度欧洲、中东和非洲地区（EMEA）的交付量增长了25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7386339.d.html</link>
+            <guid>4448149</guid>
+            <pubDate>Wed, 22 Oct 2025 21:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：认为普京现在愿意就乌克兰问题进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722624.d.html</link>
+            <guid>4448148</guid>
+            <pubDate>Wed, 22 Oct 2025 21:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：特斯拉的Optimus机器人有可能成为史上最伟大的产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8329895.d.html</link>
+            <guid>4448147</guid>
+            <pubDate>Wed, 22 Oct 2025 21:46:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：擎天柱机器人和自动驾驶技术将打造一个没有贫困的世界。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722598.d.html</link>
+            <guid>4448146</guid>
+            <pubDate>Wed, 22 Oct 2025 21:46:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在季度财报电话会议期间的盘后交易中，特斯拉股价下跌3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722577.d.html</link>
+            <guid>4448145</guid>
+            <pubDate>Wed, 22 Oct 2025 21:45:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：没有向乌克兰出售任何武器，而是向北约出售。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7386254.d.html</link>
+            <guid>4448144</guid>
+            <pubDate>Wed, 22 Oct 2025 21:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长吕特：我正在努力争取，以确保我们能够结束俄乌冲突，而特朗普也表示赞同。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9841093.d.html</link>
+            <guid>4448143</guid>
+            <pubDate>Wed, 22 Oct 2025 21:45:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：可能在（明年）第一季度推出擎天柱V3。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9841059.d.html</link>
+            <guid>4448142</guid>
+            <pubDate>Wed, 22 Oct 2025 21:44:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：普京曾向我提及过有关核武器的事宜，称要通过核武器来缓和局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7386124.d.html</link>
+            <guid>4448141</guid>
+            <pubDate>Wed, 22 Oct 2025 21:42:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：或许能就核问题（与俄罗斯）达成协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8329695.d.html</link>
+            <guid>4448140</guid>
+            <pubDate>Wed, 22 Oct 2025 21:41:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：公司已开启全面自动驾驶及无人驾驶出租车业务的规模化发展之路。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8329631.d.html</link>
+            <guid>4448138</guid>
+            <pubDate>Wed, 22 Oct 2025 21:40:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：对扩大特斯拉的产量有信心。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722310.d.html</link>
+            <guid>4448137</guid>
+            <pubDate>Wed, 22 Oct 2025 21:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：希望扩大产量，但没有时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7385988.d.html</link>
+            <guid>4448136</guid>
+            <pubDate>Wed, 22 Oct 2025 21:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克开启特斯拉电话会议，会议重点聚焦人工智能。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9840796.d.html</link>
+            <guid>4448135</guid>
+            <pubDate>Wed, 22 Oct 2025 21:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：将迅速采取措施降低牛肉价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9840766.d.html</link>
+            <guid>4448134</guid>
+            <pubDate>Wed, 22 Oct 2025 21:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉第三季度利润逊于预期 创纪录销量难掩成本和政策压力】特斯拉第三季度利润不及华尔街预期，虽然电动车销量创下纪录新高，但该公司正面临来自联邦政策变化和成本上升的压力。特斯拉周三盘后公布财报，第三季度经调整后的每股收益为0.5美元，低于分析师平均预估0.54美元。营收为281亿美元，高于预估。特斯拉股票在盘后交易下跌约1.5%。特斯拉重申“难以衡量”全球贸易与财政政策变化对公司业务和运营的影响。特斯拉称，公司业绩取决于更广泛的经济环境，以及在自动驾驶和提升关键产品产能方面的进展。特斯拉称，贸易、关税和财政政策变化带来短期不确定性，公司正在加大对机器人等未来业务的投资。本月早些时候，特斯拉报告第三季度电动车销量创纪录，主要得益于美国消费者在9月30日7,500美元电动车购车税收抵免到期前抢购。分析师预计特斯拉的汽车交付量将连续第二年下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7385919.d.html</link>
+            <guid>4448133</guid>
+            <pubDate>Wed, 22 Oct 2025 21:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：西班牙并不团结。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722142.d.html</link>
+            <guid>4448131</guid>
+            <pubDate>Wed, 22 Oct 2025 21:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：将采取措施帮助牧场主。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8329470.d.html</link>
+            <guid>4448130</guid>
+            <pubDate>Wed, 22 Oct 2025 21:36:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长吕特：目前并没有关于俄罗斯与乌克兰问题的和平解决方案，除了特朗普所说的“就目前状况停止行动”这一说法。]]></title>
+            <guid>4448129</guid>
+            <pubDate>Wed, 22 Oct 2025 21:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我并未授权乌克兰深入俄罗斯境内发动打击。他们使用的是欧洲国家的导弹，而非美国的，我对此无法控制。我能掌控美国的导弹，而这些导弹并没有深入俄罗斯境内实施打击。]]></title>
+            <guid>4448128</guid>
+            <pubDate>Wed, 22 Oct 2025 21:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长吕特：目前并不存在有关北约、俄罗斯与乌克兰之间实现和平的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8329424.d.html</link>
+            <guid>4448127</guid>
+            <pubDate>Wed, 22 Oct 2025 21:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：美国可能对哥伦比亚采取非常严肃的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8329413.d.html</link>
+            <guid>4448126</guid>
+            <pubDate>Wed, 22 Oct 2025 21:33:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：截至今日，停止向哥伦比亚的所有付款。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2722055.d.html</link>
+            <guid>4448125</guid>
+            <pubDate>Wed, 22 Oct 2025 21:33:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普边境事务主管Tom Homan：美国移民及海关执法局（ICE）预计到今年年底将驱逐超过60万名无证移民。]]></title>
+            <guid>4448124</guid>
+            <pubDate>Wed, 22 Oct 2025 21:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：欧洲人希望看到这一切（俄乌冲突）结束，但他们对乌克兰的支持却是坚定不移的。]]></title>
+            <guid>4448123</guid>
+            <pubDate>Wed, 22 Oct 2025 21:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长吕特：目前在乌克兰，首先必须达成停火协议，并维持目前的局势稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9840623.d.html</link>
+            <guid>4448122</guid>
+            <pubDate>Wed, 22 Oct 2025 21:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国司法部宣布与弗吉尼亚大学达成和解协议】当地时间10月22日，美国司法部宣布，特朗普政府已与弗吉尼亚大学达成和解协议，政府将暂停对该校的调查。司法部表示，根据协议，该校将遵守司法部关于不参与“非法种族歧视”的指导方针，并将在2028年之前每季度向司法部提供相关信息和数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9840525.d.html</link>
+            <guid>4448121</guid>
+            <pubDate>Wed, 22 Oct 2025 21:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普证实将拆除白宫东翼建筑。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721904.d.html</link>
+            <guid>4448120</guid>
+            <pubDate>Wed, 22 Oct 2025 21:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：制裁有望让普京“通情达理”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9840442.d.html</link>
+            <guid>4448119</guid>
+            <pubDate>Wed, 22 Oct 2025 21:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普就取消与普京的会面表示：看起来我们无法达成目标，但未来我们还会再次会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9840426.d.html</link>
+            <guid>4448118</guid>
+            <pubDate>Wed, 22 Oct 2025 21:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：新白宫的宴会厅是由我以及捐赠者出资建造的，我们还与军方合作完成了这项工程。]]></title>
+            <guid>4448117</guid>
+            <pubDate>Wed, 22 Oct 2025 21:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：不知道制裁是否会推动普京（做决策）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7385527.d.html</link>
+            <guid>4448116</guid>
+            <pubDate>Wed, 22 Oct 2025 21:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国政府停摆接下来该如何结束 共和党党内意见分歧】极端保守的美国众议院自由党团成员和至少一位有影响力的共和党委员会主席正在推动一项长期权宜支出法案，以作为其结束美国政府停摆方案的一部分。他们的行动与众议院议长迈克·约翰逊及拨款委员会成员的意见相左，后者表示，对于10月1日开启的财年，他们希望就各项单独支出法案展开谈判。这一做法可能需要再通过一项短期法案，以便给议员留出足够时间敲定综合性立法。共和党目前在支持一项将政府资金维持至11月21日的短期法案上仍保持一致，该计划在参议院已多次遭到民主党阻挠。但共和党议员承认，这一期限已近在眼前，需尽快制定新的方案，以便在此之后为政府提供资金。共和党迄今仍保持统一立场，将持续数周的僵局归咎于民主党，但其内部在长期战略问题上缺乏共识，可能会让关门问题更加难以解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7385454.d.html</link>
+            <guid>4448114</guid>
+            <pubDate>Wed, 22 Oct 2025 21:28:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：白宫新宴会厅耗资约3亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721654.d.html</link>
+            <guid>4448113</guid>
+            <pubDate>Wed, 22 Oct 2025 21:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我对俄罗斯和乌克兰之间正在发生的事情感到不满。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9839968.d.html</link>
+            <guid>4448112</guid>
+            <pubDate>Wed, 22 Oct 2025 21:27:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长吕特：不对“战斧”导弹发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8328728.d.html</link>
+            <guid>4448111</guid>
+            <pubDate>Wed, 22 Oct 2025 21:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长吕特：各国希望提供何种武器系统，决定权在各国自己，北约对此不持立场。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9839896.d.html</link>
+            <guid>4448110</guid>
+            <pubDate>Wed, 22 Oct 2025 21:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：与普京会谈不会有任何结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9839767.d.html</link>
+            <guid>4448109</guid>
+            <pubDate>Wed, 22 Oct 2025 21:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普表示，每当他与普京交谈时，对话氛围都不错，但没有取得实质性进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721451.d.html</link>
+            <guid>4448108</guid>
+            <pubDate>Wed, 22 Oct 2025 21:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：当他们（走私毒品的人）登陆时，将会发生非常严重的事情，我们必须这么做，以保障国家安全。]]></title>
+            <guid>4448107</guid>
+            <pubDate>Wed, 22 Oct 2025 21:23:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我们会对那些企图在陆地上走私毒品的人进行打击。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9839653.d.html</link>
+            <guid>4448106</guid>
+            <pubDate>Wed, 22 Oct 2025 21:21:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈缉毒打击行动：可能会回到国会，解释我们正在做的事情。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721302.d.html</link>
+            <guid>4448105</guid>
+            <pubDate>Wed, 22 Oct 2025 21:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈毒品打击行动：拥有合法授权。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721245.d.html</link>
+            <guid>4448103</guid>
+            <pubDate>Wed, 22 Oct 2025 21:20:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈缉毒打击行动：如果我们采取陆地行动，可能会征求国会意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7384931.d.html</link>
+            <guid>4448102</guid>
+            <pubDate>Wed, 22 Oct 2025 21:20:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：在某个时候，政府停摆的局面终将因公众的理性诉求而得到解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721224.d.html</link>
+            <guid>4448101</guid>
+            <pubDate>Wed, 22 Oct 2025 21:19:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收跌0.26%，报15206点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721177.d.html</link>
+            <guid>4448100</guid>
+            <pubDate>Wed, 22 Oct 2025 21:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：政府停摆并未影响我们的工作安排。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8328276.d.html</link>
+            <guid>4448099</guid>
+            <pubDate>Wed, 22 Oct 2025 21:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：“战斧”导弹的问题在于，要熟练掌握其使用方法需要6个月到1年的时间。他们（乌克兰）唯一能做的就是（由我们）发射这些导弹，但我们不会这么做。]]></title>
+            <guid>4448098</guid>
+            <pubDate>Wed, 22 Oct 2025 21:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我们希望看到俄罗斯和乌克兰能够遵循已形成的方针，然后各自回国。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721136.d.html</link>
+            <guid>4448097</guid>
+            <pubDate>Wed, 22 Oct 2025 21:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我认为双方都希望和平。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2721124.d.html</link>
+            <guid>4448096</guid>
+            <pubDate>Wed, 22 Oct 2025 21:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：目前尚未确定俄乌冲突何时能够结束的具体时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8328211.d.html</link>
+            <guid>4448095</guid>
+            <pubDate>Wed, 22 Oct 2025 21:17:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：希望制裁不会持续太久。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7384800.d.html</link>
+            <guid>4448094</guid>
+            <pubDate>Wed, 22 Oct 2025 21:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：“战斧” 导弹的使用起来很难，我们不会向其他国家传授相关技术。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7384797.d.html</link>
+            <guid>4448093</guid>
+            <pubDate>Wed, 22 Oct 2025 21:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：未来可能与普京会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8328108.d.html</link>
+            <guid>4448091</guid>
+            <pubDate>Wed, 22 Oct 2025 21:15:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：与普京举行会晤感觉不太合适，所以取消了这次会晤。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7384709.d.html</link>
+            <guid>4448090</guid>
+            <pubDate>Wed, 22 Oct 2025 21:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我认为是时候制裁俄罗斯了。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2720987.d.html</link>
+            <guid>4448089</guid>
+            <pubDate>Wed, 22 Oct 2025 21:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：在乌克兰和俄罗斯方面进展顺利。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8328046.d.html</link>
+            <guid>4448088</guid>
+            <pubDate>Wed, 22 Oct 2025 21:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：取消与普京的会晤，（因为）感觉不对劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2720962.d.html</link>
+            <guid>4448087</guid>
+            <pubDate>Wed, 22 Oct 2025 21:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：下周将访问马来西亚、韩国和日本。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7384638.d.html</link>
+            <guid>4448086</guid>
+            <pubDate>Wed, 22 Oct 2025 21:14:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[北约秘书长吕特：中东问题之后的下一个重大事件一定是俄乌问题。]]></title>
             <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2720881.d.html</link>
@@ -61,515 +596,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8327649.d.html</link>
             <guid>4448074</guid>
             <pubDate>Wed, 22 Oct 2025 21:09:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[海地选举委员会负责人表示，在临时政府于2月任期结束前，海地不会举行大选。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9838851.d.html</link>
-            <guid>4448073</guid>
-            <pubDate>Wed, 22 Oct 2025 21:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院：默克利参议员的发言时长为22小时37分钟，发言始于2025年10月21日下午6点21分，终于2025年10月22日下午4点58分，随后结束发言。]]></title>
-            <guid>4448071</guid>
-            <pubDate>Wed, 22 Oct 2025 21:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部表示，美国将继续致力于通过和平方式解决乌克兰冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7384114.d.html</link>
-            <guid>4448070</guid>
-            <pubDate>Wed, 22 Oct 2025 21:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国将增加对阿根廷牛肉的关税配额，阿根廷牛肉进口配额提高至8万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8327334.d.html</link>
-            <guid>4448068</guid>
-            <pubDate>Wed, 22 Oct 2025 21:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[华纳兄弟探索公司将开始向（收购）竞标方共享财务数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7384020.d.html</link>
-            <guid>4448067</guid>
-            <pubDate>Wed, 22 Oct 2025 21:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周三（10月22日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报7.1256元，较周二纽约尾盘涨12点，日内整体交投于7.1299-7.1239元区间。]]></title>
-            <guid>4448066</guid>
-            <pubDate>Wed, 22 Oct 2025 21:01:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[麦当劳将季度现金分红提高5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8326902.d.html</link>
-            <guid>4448061</guid>
-            <pubDate>Wed, 22 Oct 2025 21:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔玛调整商品销售团队，裁减部分岗位。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7383696.d.html</link>
-            <guid>4448060</guid>
-            <pubDate>Wed, 22 Oct 2025 21:00:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普告诉盟友，马姆达尼在纽约市长竞选中将无法被击败。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7383670.d.html</link>
-            <guid>4448059</guid>
-            <pubDate>Wed, 22 Oct 2025 21:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：美国财政部对俄罗斯主要石油公司实施制裁，并呼吁莫斯科立即同意停火。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7383587.d.html</link>
-            <guid>4448058</guid>
-            <pubDate>Wed, 22 Oct 2025 20:58:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈德逊技术公司赢得美国国防后勤局合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9837815.d.html</link>
-            <guid>4448053</guid>
-            <pubDate>Wed, 22 Oct 2025 20:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：国务卿鲁比奥国务卿将于10月26日至30日前往吉隆坡、东京和庆州。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9837762.d.html</link>
-            <guid>4448050</guid>
-            <pubDate>Wed, 22 Oct 2025 20:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿鲁比奥将访问以色列、马来西亚、日本和韩国。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9837757.d.html</link>
-            <guid>4448049</guid>
-            <pubDate>Wed, 22 Oct 2025 20:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿鲁比奥将于10月22日至25日前往以色列。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8326522.d.html</link>
-            <guid>4448048</guid>
-            <pubDate>Wed, 22 Oct 2025 20:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部：如有必要，美国准备对俄罗斯采取进一步行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8326453.d.html</link>
-            <guid>4448045</guid>
-            <pubDate>Wed, 22 Oct 2025 20:49:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部：外国资产控制办公室（OFAC）正在制裁俄罗斯石油公司和卢克石油公司的多家子公司。]]></title>
-            <guid>4448044</guid>
-            <pubDate>Wed, 22 Oct 2025 20:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部：将对与俄罗斯相关的石油（企业）实施制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8326341.d.html</link>
-            <guid>4448039</guid>
-            <pubDate>Wed, 22 Oct 2025 20:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部就俄罗斯石油制裁发表声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2719350.d.html</link>
-            <guid>4448038</guid>
-            <pubDate>Wed, 22 Oct 2025 20:44:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国要求莫斯科同意立即停火。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkva8326283.d.html</link>
-            <guid>4448037</guid>
-            <pubDate>Wed, 22 Oct 2025 20:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美元指数22日下跌】衡量美元对六种主要货币的美元指数当天下跌0.04%，在汇市尾市收于98.896。 截至纽约汇市尾市，1欧元兑换1.1609美元，高于前一交易日的1.1605美元；1英镑兑换1.3356美元，低于前一交易日的1.3373美元。 1美元兑换151.88日元，低于前一交易日的151.91日元；1美元兑换0.7960瑞士法郎，低于前一交易日的0.7961瑞士法郎；1美元兑换1.3988加元，低于前一交易日的1.4018加元；1美元兑换9.4046瑞典克朗，低于前一交易日的9.4189瑞典克朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuy9837502.d.html</link>
-            <guid>4448036</guid>
-            <pubDate>Wed, 22 Oct 2025 20:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国在最新一轮俄罗斯制裁中瞄准了俄罗斯石油公司和卢克石油公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkuv2719300.d.html</link>
-            <guid>4448034</guid>
-            <pubDate>Wed, 22 Oct 2025 20:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国方面称，12名曾被也门胡塞武装扣留在其驻地内的国际联合国工作人员已于周三从该武装组织控制的首都安全撤离。]]></title>
-            <guid>4448029</guid>
-            <pubDate>Wed, 22 Oct 2025 20:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴黎检察官办公室周三表示，法国前总统尼古拉·萨科齐在本周开始服刑的巴黎圣纳塞监狱内遭一名囚犯发出死亡威胁，此事引发了相关调查。]]></title>
-            <guid>4448027</guid>
-            <pubDate>Wed, 22 Oct 2025 20:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普否认美国允许乌克兰使用远程导弹的报道】美国总统特朗普在Truth Social上发帖称，《华尔街日报》有关该国解除对乌克兰使用部分远程导弹关键限制的报道是“假新闻”。特朗普写道：“不管这些导弹来自哪里，或者乌克兰怎么用，美国都与此无关”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvkux7382437.d.html</link>
-            <guid>4448018</guid>
-            <pubDate>Wed, 22 Oct 2025 20:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【匈牙利外长：俄美元首布达佩斯峰会筹备工作仍在进行】当地时间10月22日，匈牙利外长西雅尔多访问美国华盛顿，并与美国国务卿鲁比奥举行会谈。随后，西雅尔多在社交媒体发文表示，美国并没有放弃举办布达佩斯峰会。西雅尔多称，筹备工作正在进行中，唯一的问题在于时机，而不是意图。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9967855.d.html</link>
-            <guid>4448016</guid>
-            <pubDate>Wed, 22 Oct 2025 20:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据显示，美国国债规模首次达到38万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8456623.d.html</link>
-            <guid>4448015</guid>
-            <pubDate>Wed, 22 Oct 2025 20:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际油价22日上涨】截至当天收盘，纽约商品交易所12月交货的轻质原油期货价格上涨1.26美元，收于每桶58.50美元，涨幅为2.2%；12月交货的伦敦布伦特原油期货价格上涨1.27美元，收于每桶62.59美元，涨幅为2.07%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenx2849472.d.html</link>
-            <guid>4448014</guid>
-            <pubDate>Wed, 22 Oct 2025 20:33:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：持续发展并扩充产品线，聚焦成本、规模以及通过人工智能软件驱动的服务实现未来货币化机遇。]]></title>
-            <guid>4448012</guid>
-            <pubDate>Wed, 22 Oct 2025 20:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大总理卡尼将公布一份聚焦于移民、人才战略以及气候竞争力的预算方案，详细内容预计将于周三晚些时候在演讲中公布。]]></title>
-            <guid>4448010</guid>
-            <pubDate>Wed, 22 Oct 2025 20:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国车企提交文件呼吁特朗普政府不要对工业机器人、工业机械征收新关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenz7513002.d.html</link>
-            <guid>4448009</guid>
-            <pubDate>Wed, 22 Oct 2025 20:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯车里雅宾斯克州一工厂发生爆炸 致4死多伤】俄罗斯车里雅宾斯克州州长捷克斯列尔称，当地时间22日深夜，该州科佩伊斯克市一家工厂发生爆炸。初步统计显示，爆炸造成4人死亡，另有数人受伤。据悉，爆炸导致厂房屋顶坍塌并引发火灾。目前救援人员、医疗团队和调查人员已抵达现场展开工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9967498.d.html</link>
-            <guid>4448008</guid>
-            <pubDate>Wed, 22 Oct 2025 20:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：难以衡量全球贸易和财政政策调整对汽车及能源供应链、成本结构以及耐用品和相关服务需求的影响。]]></title>
-            <guid>4448007</guid>
-            <pubDate>Wed, 22 Oct 2025 20:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：进行审慎投资，为汽车、能源及其他未来业务的增长做好布局，实际结果将取决于多种因素。]]></title>
-            <guid>4448006</guid>
-            <pubDate>Wed, 22 Oct 2025 20:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：影响因素包括更广泛的宏观经济环境、自动驾驶研发的加速速度以及工厂的生产爬坡情况。]]></title>
-            <guid>4448005</guid>
-            <pubDate>Wed, 22 Oct 2025 20:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moderna：预计2025年财务指引不会受到任何影响，也预计2028年实现盈亏平衡的预期不会改变。]]></title>
-            <guid>4448004</guid>
-            <pubDate>Wed, 22 Oct 2025 20:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五角大楼宣布成立新的记者团】据《华盛顿邮报》当地时间10月22日报道，美国国防部宣布成立新的记者团，主要成员来自传统保守媒体。美国防部尚未公布具体媒体组成等细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9967059.d.html</link>
-            <guid>4447999</guid>
-            <pubDate>Wed, 22 Oct 2025 20:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：Cybercab、特斯拉半挂式电动卡车（Tesla Semi）和Megapack 3均按计划将于2026年开始量产，为迎接量产，擎天柱（Optimus）的第一代生产线正在安装中。]]></title>
-            <guid>4447998</guid>
-            <pubDate>Wed, 22 Oct 2025 20:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：华尔街日报关于美国批准乌克兰可使用远程导弹深入俄罗斯境内打击的报道是假新闻。]]></title>
-            <guid>4447997</guid>
-            <pubDate>Wed, 22 Oct 2025 20:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：实现了最高季度储能部署量，这得益于上海超级工厂的持续增产以及Powerwall部署量再创季度新高。]]></title>
-            <guid>4447995</guid>
-            <pubDate>Wed, 22 Oct 2025 20:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：拥有充足流动性，可为产品规划、长期产能扩张计划及其他费用提供资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenx2848923.d.html</link>
-            <guid>4447993</guid>
-            <pubDate>Wed, 22 Oct 2025 20:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国秘书长希望以色列遵守国际法院咨询意见】联合国秘书长古特雷斯的副发言人哈克22日表示，古特雷斯希望以色列遵守联合国国际法院当天就以色列对巴勒斯坦被占领土的责任所发布的咨询意见。哈克在当天的记者会上说，古特雷斯认为，国际法院这项咨询意见是在联合国竭尽全力增加对加沙地带人道主义援助之际作出的，对于联合国应对加沙民众所处悲惨处境至关重要。古特雷斯希望以色列遵守这项重要的咨询意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9966904.d.html</link>
-            <guid>4447992</guid>
-            <pubDate>Wed, 22 Oct 2025 20:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【霍尼韦尔宣布新业务架构】霍尼韦尔宣布新业务架构，为航空航天业务分拆做准备。航空航天业务分拆计划仍按原计划推进，预计于2026年下半年完成。分拆后，公司将聚焦三大核心业务板块，比拉勒・哈穆德（Billal Hammoud）将继续担任楼宇自动化业务总裁兼首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenz7512571.d.html</link>
-            <guid>4447991</guid>
-            <pubDate>Wed, 22 Oct 2025 20:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[房利美任命首席运营官阿克瓦博阿为临时首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455609.d.html</link>
-            <guid>4447989</guid>
-            <pubDate>Wed, 22 Oct 2025 20:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：营收受到车辆交付量增加、能源生成与存储业务增长、服务及其他业务增长、监管补贴收入减少、一次性FSD收入同比减少等因素的影响 。]]></title>
-            <guid>4447983</guid>
-            <pubDate>Wed, 22 Oct 2025 20:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：季度末现金、现金等价物及投资总额为416亿美元，较上一季度增加49亿美元，这一增长主要源于自由现金流的增加。]]></title>
-            <guid>4447982</guid>
-            <pubDate>Wed, 22 Oct 2025 20:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团：（弗雷泽当选董事会主席）举措体现董事会意图，即在花旗延续增长势头之际确保领导层的连续性 。]]></title>
-            <guid>4447981</guid>
-            <pubDate>Wed, 22 Oct 2025 20:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空预计，随着波音公司持续提高产量，2025年飞机交付量将达53至58架。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455502.d.html</link>
-            <guid>4447979</guid>
-            <pubDate>Wed, 22 Oct 2025 20:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：金价上涨对我们有很大帮助。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenz7512369.d.html</link>
-            <guid>4447978</guid>
-            <pubDate>Wed, 22 Oct 2025 20:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团授予弗雷泽一笔一次性股权奖励，包括授予日价值达2500万美元的受限股票以及105.5万份股票期权。]]></title>
-            <guid>4447977</guid>
-            <pubDate>Wed, 22 Oct 2025 20:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[简・弗雷泽当选花旗集团董事会主席。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9966674.d.html</link>
-            <guid>4447976</guid>
-            <pubDate>Wed, 22 Oct 2025 20:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国放宽对乌克兰使用西方远程导弹的限制】据《华尔街日报》当地时间10月22日报道，美国官员当日表示，特朗普政府已解除了一项关键限制，允许乌克兰使用西方盟友提供的部分远程导弹，这将增强乌克兰对俄罗斯境内目标的打击能力。乌克兰武装部队总参谋部21日晚发表声明说，乌军对俄罗斯布良斯克一家化工厂进行“大规模空中打击”，这家化工厂是俄方生产火药和火箭弹燃料的“关键设施”。乌军在行动中使用“风暴之影”巡航导弹突破了俄方防空系统。“风暴之影”巡航导弹由欧洲导弹集团制造。该型导弹由战机发射，其射程超过250公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455430.d.html</link>
-            <guid>4447975</guid>
-            <pubDate>Wed, 22 Oct 2025 20:15:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芝加哥期权交易所（CBOE）美国期权交易所已撤销针对迈阿密证券交易所翡翠期权（MIAX Emerald Options）的自助救济措施。]]></title>
-            <guid>4447974</guid>
-            <pubDate>Wed, 22 Oct 2025 20:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芝加哥期权交易所（CBOE）美国期权交易所已撤销针对迈阿密国际证券交易所珍珠期权（MIAX Pearl Options）的自助救济措施。]]></title>
-            <guid>4447973</guid>
-            <pubDate>Wed, 22 Oct 2025 20:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芝加哥期权交易所（CBOE）美国期权交易所已撤销针对迈阿密国际证券交易所（MIAX）期权的自助措施。]]></title>
-            <guid>4447972</guid>
-            <pubDate>Wed, 22 Oct 2025 20:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：美国经济看起来表现良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenz7512253.d.html</link>
-            <guid>4447970</guid>
-            <pubDate>Wed, 22 Oct 2025 20:13:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM首席财务官：人工智能客户正从人工智能试验阶段过渡到规模化应用阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455381.d.html</link>
-            <guid>4447967</guid>
-            <pubDate>Wed, 22 Oct 2025 20:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BEYOND MEAT股价在盘后下跌15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenx2848531.d.html</link>
-            <guid>4447966</guid>
-            <pubDate>Wed, 22 Oct 2025 20:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芝加哥期权交易所（CBOE）美国期权交易所已撤销针对迈阿密国际证券交易所蓝宝石期权（MIAX Sapphire Options）的自助救济措施。]]></title>
-            <guid>4447965</guid>
-            <pubDate>Wed, 22 Oct 2025 20:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：能源价格已下跌，预计下个月或再下个月消费者物价指数（CPI）数据将开始下降。]]></title>
-            <guid>4447964</guid>
-            <pubDate>Wed, 22 Oct 2025 20:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM股价盘后下跌4%，此前发布第三季度财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455340.d.html</link>
-            <guid>4447963</guid>
-            <pubDate>Wed, 22 Oct 2025 20:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：我认为房价是一个滞后的指标。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455323.d.html</link>
-            <guid>4447961</guid>
-            <pubDate>Wed, 22 Oct 2025 20:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM首席执行官：人工智能业务订单规模目前已超95亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455304.d.html</link>
-            <guid>4447959</guid>
-            <pubDate>Wed, 22 Oct 2025 20:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大最新预算将包含移民计划和人才战略。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenx2848461.d.html</link>
-            <guid>4447956</guid>
-            <pubDate>Wed, 22 Oct 2025 20:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大总理卡尼将于周三晚些时候在演讲中公布新的预算细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9966506.d.html</link>
-            <guid>4447955</guid>
-            <pubDate>Wed, 22 Oct 2025 20:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：强势美元政策并不意味着不会出现短期波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455272.d.html</link>
-            <guid>4447954</guid>
-            <pubDate>Wed, 22 Oct 2025 20:10:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IBM三季度营收163.3亿美元，分析师预期161亿美元。IBM美股盘后跌超4%。]]></title>
-            <guid>4447953</guid>
-            <pubDate>Wed, 22 Oct 2025 20:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：国库券标售表现前所未有地稳健。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenx2848410.d.html</link>
-            <guid>4447952</guid>
-            <pubDate>Wed, 22 Oct 2025 20:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI：该项目预计将创造超4000个建筑领域的技术岗位。Vantage和甲骨文公司将创造超1000个长期就业岗位，并间接带动数千个就业岗位。]]></title>
-            <guid>4447951</guid>
-            <pubDate>Wed, 22 Oct 2025 20:09:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI、甲骨文与万提奇数据中心公司（Vantage Data Centers）宣布将在威斯康星州选址建造数据中心。]]></title>
-            <guid>4447946</guid>
-            <pubDate>Wed, 22 Oct 2025 20:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：美国正在敦促欧洲盟友、七国集团（G7）成员国以及加拿大和澳大利亚加入推动对俄罗斯实施制裁的行动。]]></title>
-            <guid>4447945</guid>
-            <pubDate>Wed, 22 Oct 2025 20:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部和内政部计划评估扩大联邦土地上的养牛规模，以此作为重建国内牛群计划的一部分。]]></title>
-            <guid>4447944</guid>
-            <pubDate>Wed, 22 Oct 2025 20:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：将宣布对俄罗斯实施大规模制裁，制裁将是重大且有力的。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9966433.d.html</link>
-            <guid>4447943</guid>
-            <pubDate>Wed, 22 Oct 2025 20:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：内华达州的磷酸铁锂（LFP）生产线将于2026年第一季度开始投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455191.d.html</link>
-            <guid>4447942</guid>
-            <pubDate>Wed, 22 Oct 2025 20:06:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉股价盘后下跌2%，第三季度调整后每股收益低于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenz7511999.d.html</link>
-            <guid>4447941</guid>
-            <pubDate>Wed, 22 Oct 2025 20:06:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉公司：擎天柱（Optimus）的第一代生产线正在安装，以筹备大规模量产。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenx2848291.d.html</link>
-            <guid>4447940</guid>
-            <pubDate>Wed, 22 Oct 2025 20:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：普京并未以诚恳的态度出现在谈判桌上。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455144.d.html</link>
-            <guid>4447939</guid>
-            <pubDate>Wed, 22 Oct 2025 20:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉第三季度汽车监管积分收入为4.17亿美元，市场预估为3.815亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9966364.d.html</link>
-            <guid>4447938</guid>
-            <pubDate>Wed, 22 Oct 2025 20:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉公司第三季度毛利率为18.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9966355.d.html</link>
-            <guid>4447937</guid>
-            <pubDate>Wed, 22 Oct 2025 20:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：将与特朗普一同前往日本，然后参加在韩国举行的亚太经合组织（APEC）会议。]]></title>
-            <guid>4447936</guid>
-            <pubDate>Wed, 22 Oct 2025 20:04:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部长贝森特：我将与特朗普一同前往日本，与日本新任首相会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9966348.d.html</link>
-            <guid>4447935</guid>
-            <pubDate>Wed, 22 Oct 2025 20:04:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一名白宫官员周三表示，作为建造特朗普总统提议的新宴会厅计划的一部分，白宫东翼的全部建筑将被拆除。]]></title>
-            <guid>4447934</guid>
-            <pubDate>Wed, 22 Oct 2025 20:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉第三季度营收281.0亿美元，预估263.6亿美元。第三季度经营利润16.2亿美元，预估16.5亿美元。]]></title>
-            <guid>4447933</guid>
-            <pubDate>Wed, 22 Oct 2025 20:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：已批准拨款2500万美元，以帮助阿拉斯加从本月早些时候遭遇的那场严重台风灾害中恢复过来。]]></title>
-            <guid>4447932</guid>
-            <pubDate>Wed, 22 Oct 2025 20:02:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【周三热门中概股多数收跌】热门中概股周三多数收跌，纳斯达克中国金龙指数跌0.9%。阿里、拼多多微跌，网易跌超4%，京东、百度跌超1%，富途跌超2%，小鹏跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvenz7511894.d.html</link>
-            <guid>4447931</guid>
-            <pubDate>Wed, 22 Oct 2025 20:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股三大股指收跌 奈飞跌超10%】周三美股三大股指收跌，道指跌0.71%，纳指跌0.93%，标普跌0.53%。奈飞跌超10%，苹果跌超1%，亚马逊跌超1%，特斯拉、微软、谷歌微涨，英伟达微跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepe8455030.d.html</link>
-            <guid>4447929</guid>
-            <pubDate>Wed, 22 Oct 2025 20:01:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：向利奇湖奥吉布瓦族部落拨款26万美元用于公共援助。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-23/detail-infuvepa9966213.d.html</link>
-            <guid>4447928</guid>
-            <pubDate>Wed, 22 Oct 2025 20:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：我刚刚与内布拉斯加州的州长吉姆·皮伦进行了交谈，向他说明我已经批准了1500万美元的资金用于应对他们所遭受的严重风暴造成的损失。]]></title>
-            <guid>4447927</guid>
-            <pubDate>Wed, 22 Oct 2025 19:59:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：我刚刚与密苏里州的州长迈克·凯霍进行了交谈，我告诉他，鉴于今年早些时候发生的强风暴、大风、大冰雹、山洪暴发和龙卷风灾害，我将拨出250万美元的个人援助资金。]]></title>
-            <guid>4447926</guid>
-            <pubDate>Wed, 22 Oct 2025 19:59:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国官员表示，尽管与哈马斯达成停火协议后援助有所增加，但以色列仍需“做更多工作”来帮助加沙。]]></title>
-            <guid>4447925</guid>
-            <pubDate>Wed, 22 Oct 2025 19:58:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯车里雅宾斯克州州长通报称，该州科佩伊斯克市某企业发生爆炸事故，目前初步确认已有4人死亡，另有数人受伤。]]></title>
-            <guid>4447924</guid>
-            <pubDate>Wed, 22 Oct 2025 19:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部长赫格塞思：美国军方在东太平洋对一艘船只发动袭击，击毙了两名被指为毒品走私犯的人员。此次行动扩大了特朗普政府在反毒品行动中动用军事力量的范围。]]></title>
-            <guid>4447922</guid>
-            <pubDate>Wed, 22 Oct 2025 19:54:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

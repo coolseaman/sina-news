@@ -6,6 +6,457 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4451277,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzw8786988.d.html",
+            "title": "日本考虑设立国家情报机构。",
+            "date_modified": "2025-10-23T22:16:44.000Z"
+        },
+        {
+            "id": 4451276,
+            "content_html": "",
+            "title": "美国联邦航空管理局（FAA）表示，空中交通管制员人员短缺问题正在影响纽约、华盛顿、纽瓦克和休斯敦的航班。",
+            "date_modified": "2025-10-23T22:16:25.000Z"
+        },
+        {
+            "id": 4451275,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzy7275631.d.html",
+            "title": "【美国银行业准备金下降 为美联储结束QT提供依据】美国的银行系统准备金是美联储决定继续缩减资产负债表的一个关键因素，根据美联储周四发布的数据，截至10月22日的一周内，银行准备金下降了约590亿美元，降至2.93万亿美元。这是自1月1日当周以来的最低水平。摩根大通、美国银行以及道明证券和Wrightson的策略师都预计，美联储将在本月停止缩减其约6.6万亿美元的资产负债表。",
+            "date_modified": "2025-10-23T22:15:38.000Z"
+        },
+        {
+            "id": 4451274,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzt1680396.d.html",
+            "title": "【飞行追踪数据显示美国B-1B轰炸机曾靠近委内瑞拉海岸】当地时间10月23日，根据飞行追踪数据显示，当日至少有一架美国B-1B轰炸机靠近委内瑞拉沿岸。这是美国军机一周内第二次进行此类武力展示。",
+            "date_modified": "2025-10-23T22:15:06.000Z"
+        },
+        {
+            "id": 4451273,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzv6344052.d.html",
+            "title": "以色列国防军：加沙地带周边地区响起了警报声，相关细节正在审查中。",
+            "date_modified": "2025-10-23T22:14:25.000Z"
+        },
+        {
+            "id": 4451272,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzv6344043.d.html",
+            "title": "加沙地带响起警报声。",
+            "date_modified": "2025-10-23T22:14:10.000Z"
+        },
+        {
+            "id": 4451271,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzt1679687.d.html",
+            "title": "纽蒙特：将继续削减成本，以减少与价格相关的开支。",
+            "date_modified": "2025-10-23T22:08:42.000Z"
+        },
+        {
+            "id": 4451270,
+            "content_html": "",
+            "title": "据CME“美联储观察”：美联储10月降息25个基点的概率为98.3%，维持利率不变的概率为1.7%。",
+            "date_modified": "2025-10-23T22:02:00.000Z"
+        },
+        {
+            "id": 4451269,
+            "content_html": "",
+            "title": "澳大利亚政府：目前尚未确认检测结果，在野生动物中发现与H5型禽流感相符的迹象并不意外。",
+            "date_modified": "2025-10-23T22:01:06.000Z"
+        },
+        {
+            "id": 4451268,
+            "content_html": "",
+            "title": "澳大利亚10月标准普尔全球制造业采购经理人指数（PMI）初值为49.7（9月为51.4）。",
+            "date_modified": "2025-10-23T22:00:38.000Z"
+        },
+        {
+            "id": 4451267,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzv6342476.d.html",
+            "title": "现货黄金失守4130美元/盎司，日内涨0.08%。",
+            "date_modified": "2025-10-23T22:00:38.000Z"
+        },
+        {
+            "id": 4451266,
+            "content_html": "",
+            "title": "澳大利亚10月标普全球综合采购经理人指数（PMI）初值为52.6（9月为52.4）。",
+            "date_modified": "2025-10-23T22:00:34.000Z"
+        },
+        {
+            "id": 4451265,
+            "content_html": "",
+            "title": "澳大利亚10月标普全球服务业采购经理人指数（PMI）初值为53.1（9月为52.4）。",
+            "date_modified": "2025-10-23T22:00:30.000Z"
+        },
+        {
+            "id": 4451264,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzt1678727.d.html",
+            "title": "澳大利亚政府：澳大利亚亚南极岛屿的海象出现疑似H5禽流感症状。",
+            "date_modified": "2025-10-23T22:00:20.000Z"
+        },
+        {
+            "id": 4451263,
+            "content_html": "",
+            "title": "纽蒙特公司在电话会议中表示，预计2026年黄金产量将接近2025年产量指引区间的下限。",
+            "date_modified": "2025-10-23T21:55:55.000Z"
+        },
+        {
+            "id": 4451262,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzt1678355.d.html",
+            "title": "英特尔首席执行官：对14A技术更有信心。",
+            "date_modified": "2025-10-23T21:53:02.000Z"
+        },
+        {
+            "id": 4451261,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzv6341929.d.html",
+            "title": "比利时首相：必须设立流动性安全网，且应以现金担保的形式存在。",
+            "date_modified": "2025-10-23T21:51:42.000Z"
+        },
+        {
+            "id": 4451260,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzy7273729.d.html",
+            "title": "英特尔CFO：18A制程的良品率要到2027年才能达到“行业可接受水平”。",
+            "date_modified": "2025-10-23T21:51:26.000Z"
+        },
+        {
+            "id": 4451259,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzt1677916.d.html",
+            "title": "欧盟理事会主席科斯塔：计划在年底前与南方共同市场达成贸易协议。",
+            "date_modified": "2025-10-23T21:47:58.000Z"
+        },
+        {
+            "id": 4451258,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzw8784478.d.html",
+            "title": "欧盟理事会主席科斯塔：尚未就南方共同市场贸易协议做出任何决定。",
+            "date_modified": "2025-10-23T21:46:25.000Z"
+        },
+        {
+            "id": 4451257,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzy7273220.d.html",
+            "title": "【谷歌将向Anthropic供应最高100万枚专用AI芯片 交易额或达数百亿美元】Alphabet旗下的谷歌将向Anthropic提供多达100万枚专用人工智能(AI)芯片，交易金额高达数百亿美元，这将进一步深化谷歌与这家快速成长的人工智能初创企业之间的合作关系。这项于周四宣布的交易将显著提升Anthropic的算力，同时巩固谷歌作为主要投资方和关键AI基础设施供应商的地位。谷歌在声明中表示，这批由谷歌自主设计、用于加速机器学习任务的TPU芯片预计将于2026年部署，届时将上线超过1吉瓦的算力。这项交易的规模在当前AI硬件竞赛中名列前茅，凸显出开发前沿AI系统所需的训练与推理算力成本正在大幅攀升。",
+            "date_modified": "2025-10-23T21:46:07.000Z"
+        },
+        {
+            "id": 4451256,
+            "content_html": "",
+            "title": "瑞银：将沃尔玛的目标股价从每股110美元上调至122美元，维持对沃尔玛的“买入”评级。",
+            "date_modified": "2025-10-23T21:45:20.000Z"
+        },
+        {
+            "id": 4451255,
+            "content_html": "",
+            "title": "塔吉特：受影响的员工除了将获得离职补偿方案以及其他服务与支持外，在明年1月3日之前还将继续领取工资和福利。",
+            "date_modified": "2025-10-23T21:44:58.000Z"
+        },
+        {
+            "id": 4451254,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzt1677568.d.html",
+            "title": "塔吉特：领导岗位受影响的比例约为普通员工的3倍。",
+            "date_modified": "2025-10-23T21:44:53.000Z"
+        },
+        {
+            "id": 4451253,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzt1677562.d.html",
+            "title": "亚马逊：亚马逊云科技（AWS）与新加坡网络安全局签署新合作协议。",
+            "date_modified": "2025-10-23T21:44:44.000Z"
+        },
+        {
+            "id": 4451252,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzy7273134.d.html",
+            "title": "塔吉特：公司架构调整，包括裁撤约1800个非一线岗位。",
+            "date_modified": "2025-10-23T21:44:25.000Z"
+        },
+        {
+            "id": 4451251,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzy7273117.d.html",
+            "title": "塔吉特：门店或供应链岗位均未受（裁员）影响。",
+            "date_modified": "2025-10-23T21:44:09.000Z"
+        },
+        {
+            "id": 4451250,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzy7273063.d.html",
+            "title": "英特尔计划在明年偿还所有到期债务。",
+            "date_modified": "2025-10-23T21:42:48.000Z"
+        },
+        {
+            "id": 4451249,
+            "content_html": "",
+            "title": "欧盟理事会主席科斯塔：与欧洲央行和欧元集团主席的讨论表明，赔偿贷款提案符合欧洲及国际法律要求。",
+            "date_modified": "2025-10-23T21:40:41.000Z"
+        },
+        {
+            "id": 4451248,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzw8784047.d.html",
+            "title": "欧盟理事会主席科斯塔：欧盟峰会的讨论表明为乌克兰提供重建贷款是可行的。",
+            "date_modified": "2025-10-23T21:38:57.000Z"
+        },
+        {
+            "id": 4451247,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxtzy7272804.d.html",
+            "title": "欧盟理事会主席科斯塔：关于冻结（俄罗斯）资产计划的最终决定预计将于12月公布。",
+            "date_modified": "2025-10-23T21:38:20.000Z"
+        },
+        {
+            "id": 4451246,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1807827.d.html",
+            "title": "比利时首相：最大的问题是如何确保在出现问题时能立即有资金可用。",
+            "date_modified": "2025-10-23T21:35:48.000Z"
+        },
+        {
+            "id": 4451245,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6471488.d.html",
+            "title": "欧盟委员会主席冯德莱恩：支持具有雄心且务实的气候行动。",
+            "date_modified": "2025-10-23T21:35:11.000Z"
+        },
+        {
+            "id": 4451244,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6471459.d.html",
+            "title": "比利时首相：我准备好与欧盟委员会展开对话。",
+            "date_modified": "2025-10-23T21:34:52.000Z"
+        },
+        {
+            "id": 4451243,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7403212.d.html",
+            "title": "法国总统马克龙：欧盟委员会就欧盟与南方共同市场贸易协定提出的保护建议方向正确。",
+            "date_modified": "2025-10-23T21:34:46.000Z"
+        },
+        {
+            "id": 4451242,
+            "content_html": "",
+            "title": "德国总理默茨谈俄罗斯被冻结资产：我认为所有欧盟国家都会参与；这很复杂，因为采取这样的举措没有现成的方案可循。",
+            "date_modified": "2025-10-23T21:32:32.000Z"
+        },
+        {
+            "id": 4451241,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8914145.d.html",
+            "title": "法国总统马克龙：美国对俄罗斯的制裁是一个转折点。",
+            "date_modified": "2025-10-23T21:32:14.000Z"
+        },
+        {
+            "id": 4451240,
+            "content_html": "",
+            "title": "英特尔CFO：预计2025年资本支出将超过270亿美元，而2024年的资本支出为170亿美元。",
+            "date_modified": "2025-10-23T21:31:42.000Z"
+        },
+        {
+            "id": 4451239,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402898.d.html",
+            "title": "福特公司首席执行官：第三季度保修成本减少了1.5亿美元。",
+            "date_modified": "2025-10-23T21:31:30.000Z"
+        },
+        {
+            "id": 4451238,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8914096.d.html",
+            "title": "德国总理默茨谈立陶宛/俄罗斯战机事件：这是进一步的挑衅，我们将做出适度反应。",
+            "date_modified": "2025-10-23T21:31:01.000Z"
+        },
+        {
+            "id": 4451237,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402875.d.html",
+            "title": "法国总统马克龙：南方共同市场的协议仍在制定中，尚未最终确定。",
+            "date_modified": "2025-10-23T21:30:45.000Z"
+        },
+        {
+            "id": 4451236,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6471223.d.html",
+            "title": "美国贸易代表格里尔将访问马来西亚、日本和韩国。",
+            "date_modified": "2025-10-23T21:29:37.000Z"
+        },
+        {
+            "id": 4451235,
+            "content_html": "",
+            "title": "比利时首相：比利时绝不会接受任何一笔赔款资金归还给俄罗斯。要解决这一问题，必须要有明确的法律依据以及切实可靠的具体保障措施。",
+            "date_modified": "2025-10-23T21:29:00.000Z"
+        },
+        {
+            "id": 4451234,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402716.d.html",
+            "title": "欧盟委员会主席冯德莱恩：就俄罗斯资产计划进行了良好的讨论。",
+            "date_modified": "2025-10-23T21:28:20.000Z"
+        },
+        {
+            "id": 4451233,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1807426.d.html",
+            "title": "比利时首相：担保必须非常、非常可靠。",
+            "date_modified": "2025-10-23T21:27:53.000Z"
+        },
+        {
+            "id": 4451232,
+            "content_html": "",
+            "title": "德国总理默茨谈冻结（俄罗斯）资产：如果我是比利时首相，我也会提及同样的问题，我们必须找到解决方案。",
+            "date_modified": "2025-10-23T21:27:40.000Z"
+        },
+        {
+            "id": 4451231,
+            "content_html": "",
+            "title": "德国总理默茨：泽连斯基向我介绍了德国如何在冬季帮助能源供应的方案，我们必须对此进行评估。",
+            "date_modified": "2025-10-23T21:25:14.000Z"
+        },
+        {
+            "id": 4451230,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8913716.d.html",
+            "title": "英特尔预计2025年个人电脑市场将达2.9亿台销量。",
+            "date_modified": "2025-10-23T21:25:00.000Z"
+        },
+        {
+            "id": 4451229,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402484.d.html",
+            "title": "福特CFO：预计2026年的关税净影响与2025年类似。",
+            "date_modified": "2025-10-23T21:24:32.000Z"
+        },
+        {
+            "id": 4451228,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8913689.d.html",
+            "title": "德国总理默茨：欧盟27国领导人已就南方共同市场贸易协定达成一致。",
+            "date_modified": "2025-10-23T21:24:19.000Z"
+        },
+        {
+            "id": 4451227,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402460.d.html",
+            "title": "英特尔在第三季度偿还了43亿美元的债务。",
+            "date_modified": "2025-10-23T21:24:05.000Z"
+        },
+        {
+            "id": 4451226,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402431.d.html",
+            "title": "英特尔CFO：乐观预期CPU市场将在2026年保持增长。",
+            "date_modified": "2025-10-23T21:23:33.000Z"
+        },
+        {
+            "id": 4451225,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402405.d.html",
+            "title": "德国总理默茨：有关乌克兰十二点计划的报道并不属实。",
+            "date_modified": "2025-10-23T21:23:12.000Z"
+        },
+        {
+            "id": 4451224,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402384.d.html",
+            "title": "英特尔预计英伟达的投资事宜将在第四季度末完成。",
+            "date_modified": "2025-10-23T21:23:04.000Z"
+        },
+        {
+            "id": 4451223,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402353.d.html",
+            "title": "欧盟委员会主席冯德莱恩：将提出赔偿贷款相关方案。",
+            "date_modified": "2025-10-23T21:22:45.000Z"
+        },
+        {
+            "id": 4451222,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402343.d.html",
+            "title": "比利时首相谈赔偿贷款想法的合法性：目前尚不清楚，这是一个需要解决的问题。",
+            "date_modified": "2025-10-23T21:22:41.000Z"
+        },
+        {
+            "id": 4451221,
+            "content_html": "",
+            "title": "英特尔首席执行官：英特尔代工已做好准备，将利用市场对晶圆产能和先进封装材料的需求。",
+            "date_modified": "2025-10-23T21:20:53.000Z"
+        },
+        {
+            "id": 4451220,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402207.d.html",
+            "title": "市场资讯：通用汽车与斯特兰蒂斯集团将失去加拿大关税豁免的部分权益。",
+            "date_modified": "2025-10-23T21:20:33.000Z"
+        },
+        {
+            "id": 4451219,
+            "content_html": "",
+            "title": "德国总理默茨：预计俄罗斯天然气工业股份公司（Rosneft）在德国的业务将获得豁免制裁的待遇。",
+            "date_modified": "2025-10-23T21:19:51.000Z"
+        },
+        {
+            "id": 4451218,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6470630.d.html",
+            "title": "德国总理默茨：欧盟委员会的简化措施远远不够，我们需要欧盟真正的文化变革。",
+            "date_modified": "2025-10-23T21:19:07.000Z"
+        },
+        {
+            "id": 4451217,
+            "content_html": "",
+            "title": "德国总理默茨：将与美国人讨论有关俄罗斯石油公司（Rosneft）在德国的业务所受制裁的相关事宜。",
+            "date_modified": "2025-10-23T21:18:55.000Z"
+        },
+        {
+            "id": 4451216,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7402062.d.html",
+            "title": "特朗普计划将美国几乎全部海岸线区域开放用于海上石油开采。",
+            "date_modified": "2025-10-23T21:18:34.000Z"
+        },
+        {
+            "id": 4451215,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8913245.d.html",
+            "title": "英特尔首席执行官：只有在需求能够支撑的情况下才会扩大产能。",
+            "date_modified": "2025-10-23T21:18:08.000Z"
+        },
+        {
+            "id": 4451214,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8913213.d.html",
+            "title": "英特尔首席执行官：晶圆制造领域的机遇正日益凸显。",
+            "date_modified": "2025-10-23T21:17:48.000Z"
+        },
+        {
+            "id": 4451213,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7401938.d.html",
+            "title": "德国总理默茨：我们将于2月12日举行一场仅聚焦竞争力问题的欧盟特别峰会。",
+            "date_modified": "2025-10-23T21:17:24.000Z"
+        },
+        {
+            "id": 4451212,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7401859.d.html",
+            "title": "德国总理默茨：讨论了反胁迫工具，但尚未做出决定。",
+            "date_modified": "2025-10-23T21:16:56.000Z"
+        },
+        {
+            "id": 4451211,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7401837.d.html",
+            "title": "比利时首相：比利时不希望冻结的俄罗斯海外资产返还给俄罗斯。",
+            "date_modified": "2025-10-23T21:16:43.000Z"
+        },
+        {
             "id": 4451210,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8912944.d.html",
@@ -228,462 +679,6 @@
             "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7399996.d.html",
             "title": "Anthropic公司确认与谷歌云达成价值数十亿美元合作协议。",
             "date_modified": "2025-10-23T20:34:06.000Z"
-        },
-        {
-            "id": 4451165,
-            "content_html": "",
-            "title": "美国至10月17日当周外国央行持有美国国债 47.54亿美元，前值-310.32亿美元。",
-            "date_modified": "2025-10-23T20:32:19.000Z"
-        },
-        {
-            "id": 4451163,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1804606.d.html",
-            "title": "人工智能公司Anthropic确认与谷歌云达成合作协议。",
-            "date_modified": "2025-10-23T20:31:09.000Z"
-        },
-        {
-            "id": 4451160,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1804547.d.html",
-            "title": "截至10月22日当周美联储贴现窗口贷款增加73.5亿美元，此前为60.2亿美元。",
-            "date_modified": "2025-10-23T20:30:38.000Z"
-        },
-        {
-            "id": 4451159,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1804481.d.html",
-            "title": "福特公司首席执行官：预计在供应商火灾事件过后，明年将恢复大部分损失的产量。",
-            "date_modified": "2025-10-23T20:29:44.000Z"
-        },
-        {
-            "id": 4451158,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1804425.d.html",
-            "title": "英特尔美股盘后涨超8%。",
-            "date_modified": "2025-10-23T20:29:24.000Z"
-        },
-        {
-            "id": 4451153,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6468007.d.html",
-            "title": "福特公司首席执行官：关税影响目前已“降至较为合理的水平”。",
-            "date_modified": "2025-10-23T20:26:10.000Z"
-        },
-        {
-            "id": 4451152,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7399188.d.html",
-            "title": "【特朗普称将取消向旧金山派出国民警卫队的计划】当地时间10月23日，美国总统特朗普发文表示，22日晚他与旧金山市长丹尼尔·卢里进行了电话交谈，并表示他将取消向旧金山派出国民警卫队的计划。",
-            "date_modified": "2025-10-23T20:25:41.000Z"
-        },
-        {
-            "id": 4451150,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8910385.d.html",
-            "title": "福特汽车盘后涨幅扩大至3%。",
-            "date_modified": "2025-10-23T20:25:15.000Z"
-        },
-        {
-            "id": 4451149,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1804274.d.html",
-            "title": "特朗普：认为不会要求对贩毒集团宣战。",
-            "date_modified": "2025-10-23T20:24:48.000Z"
-        },
-        {
-            "id": 4451147,
-            "content_html": "",
-            "title": "美国法官定于11月13日举行听证会，讨论前联邦调查局（FBI）局长詹姆斯·科米提出的撤销其刑事诉讼的请求。",
-            "date_modified": "2025-10-23T20:22:29.000Z"
-        },
-        {
-            "id": 4451146,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8910143.d.html",
-            "title": "福特股价盘后转正，抹去高达5.6%的跌幅。",
-            "date_modified": "2025-10-23T20:21:28.000Z"
-        },
-        {
-            "id": 4451145,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7398898.d.html",
-            "title": "【委内瑞拉防长：美中情局任何破坏企图都将失败】当地时间23日，委内瑞拉国防部长帕德里诺·洛佩斯表示，任何来自美国中情局的破坏国家稳定的行动都将以失败告终。洛佩斯说，玻利瓦尔国家武装力量（委内瑞拉军队）和民兵正在全国范围内开展“独立海岸200”防御军事演习，所有部队均已进入战备状态，执行总统马杜罗的指令。他表示，演习旨在实现国家与人民在政治、军事和警察领域的融合，保障公民生命安全和宪法权利。他强调，民兵和国民警卫队的参与使国家防御“坚不可摧”。",
-            "date_modified": "2025-10-23T20:21:04.000Z"
-        },
-        {
-            "id": 4451143,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8910074.d.html",
-            "title": "【美法官承认使用人工智能导致法院裁决出错】当地时间10月23日，两名联邦法官在回应美国参议院司法委员会主席查克·格拉斯利的质询时承认，被格拉斯利批评“漏洞百出”的法院命令是工作人员使用人工智能协助协助起草的。在格拉斯利办公室当日发布的信函中，密西西比州法官亨利·温盖特和新泽西州法官朱利安·泽维尔·尼尔斯表示，这两起案件的裁决在发布前并未经过各自法庭的常规审查程序。两位法官表示已采取措施改进裁决的审查方式。",
-            "date_modified": "2025-10-23T20:20:02.000Z"
-        },
-        {
-            "id": 4451141,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909996.d.html",
-            "title": "特朗普：赦免币安创始人赵长鹏是应许多人的要求。",
-            "date_modified": "2025-10-23T20:17:34.000Z"
-        },
-        {
-            "id": 4451140,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7398751.d.html",
-            "title": "特朗普：接下来将重点打击毒品交易活动，可能会向国会提出相关议案以推动行动。",
-            "date_modified": "2025-10-23T20:17:15.000Z"
-        },
-        {
-            "id": 4451138,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7398592.d.html",
-            "title": "【美元指数23日上涨】衡量美元对六种主要货币的美元指数当天上涨0.04%，在汇市尾市收于98.936。截至纽约汇市尾市，1欧元兑换1.1618美元，高于前一交易日的1.1609美元；1英镑兑换1.3323美元，低于前一交易日的1.3356美元。1美元兑换152.53日元，高于前一交易日的151.88日元；1美元兑换0.7952瑞士法郎，低于前一交易日的0.7960瑞士法郎；1美元兑换1.3989加元，高于前一交易日的1.3988加元；1美元兑换9.3909瑞典克朗，低于前一交易日的9.4046瑞典克朗。",
-            "date_modified": "2025-10-23T20:15:02.000Z"
-        },
-        {
-            "id": 4451135,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6467409.d.html",
-            "title": "特朗普：以色列不会对约旦河西岸采取任何行动。",
-            "date_modified": "2025-10-23T20:13:06.000Z"
-        },
-        {
-            "id": 4451134,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1803701.d.html",
-            "title": "塔吉特将对总部团队裁员8% 裁减1800个职位。",
-            "date_modified": "2025-10-23T20:13:02.000Z"
-        },
-        {
-            "id": 4451133,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7398502.d.html",
-            "title": "【国际油价23日上涨】截至当天收盘，纽约商品交易所12月交货的轻质原油期货价格上涨3.29美元，收于每桶61.79美元，涨幅为5.62%；12月交货的伦敦布伦特原油期货价格上涨3.40美元，收于每桶65.99美元，涨幅为5.43%。",
-            "date_modified": "2025-10-23T20:12:07.000Z"
-        },
-        {
-            "id": 4451131,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1803604.d.html",
-            "title": "特朗普：很快将对委内瑞拉展开地面军事行动。",
-            "date_modified": "2025-10-23T20:11:18.000Z"
-        },
-        {
-            "id": 4451130,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6467292.d.html",
-            "title": "塔吉特将裁员约1000人。",
-            "date_modified": "2025-10-23T20:11:04.000Z"
-        },
-        {
-            "id": 4451129,
-            "content_html": "",
-            "title": "福特汽车：计划明年将F系列卡车的产量提高5万辆，以弥补供应商火灾造成的损失，并在密歇根州和肯塔基州新增1000个工作岗位。德尔福工厂将生产45000辆，其中5000辆将在肯塔基州制造。",
-            "date_modified": "2025-10-23T20:10:48.000Z"
-        },
-        {
-            "id": 4451125,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6467199.d.html",
-            "title": "财报及前景展望公布后，盘后交易中福特汽车股价下跌3.81%，报11.87美元。",
-            "date_modified": "2025-10-23T20:08:52.000Z"
-        },
-        {
-            "id": 4451124,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6467180.d.html",
-            "title": "【热门中概股周四多数收涨】周四热门中概股多数收涨，纳斯达克中国金龙指数涨1.66%。阿里涨超3%，拼多多涨超2%，网易涨超1%，京东涨超2%，百度涨超2%，理想涨超1%，富途涨超3%，小鹏涨超1%。",
-            "date_modified": "2025-10-23T20:08:31.000Z"
-        },
-        {
-            "id": 4451122,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909488.d.html",
-            "title": "福特汽车：第三季度调整后每股收益0.45美元，预估0.36美元。",
-            "date_modified": "2025-10-23T20:06:21.000Z"
-        },
-        {
-            "id": 4451121,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909483.d.html",
-            "title": "福特汽车：下调全年调整后息税前利润预期。",
-            "date_modified": "2025-10-23T20:06:12.000Z"
-        },
-        {
-            "id": 4451120,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909471.d.html",
-            "title": "福特汽车：预计全年调整后自由现金流20亿美元至30亿美元。",
-            "date_modified": "2025-10-23T20:05:55.000Z"
-        },
-        {
-            "id": 4451119,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7398251.d.html",
-            "title": "福特汽车：仍然预测全年资本支出大约90亿美元，预估87.8亿美元。",
-            "date_modified": "2025-10-23T20:05:46.000Z"
-        },
-        {
-            "id": 4451118,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909456.d.html",
-            "title": "福特汽车：第三季度营收505.3亿美元，市场估430.8亿美元。",
-            "date_modified": "2025-10-23T20:05:26.000Z"
-        },
-        {
-            "id": 4451117,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909437.d.html",
-            "title": "【美股三大股指收涨】周四美股三大股指收涨，道指涨0.31%，纳指涨0.89%，标普涨0.58%。英伟达涨超1%，亚马逊涨超1%，特斯拉涨超2%，甲骨文涨超2%，苹果、谷歌、Meta微涨。",
-            "date_modified": "2025-10-23T20:04:45.000Z"
-        },
-        {
-            "id": 4451116,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6466914.d.html",
-            "title": "特朗普就B-1轰炸机飞近委内瑞拉的报道表态：报道内容不准确。",
-            "date_modified": "2025-10-23T20:02:59.000Z"
-        },
-        {
-            "id": 4451115,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909354.d.html",
-            "title": "英特尔：预计第四季度经调整毛利率36.5％，预估37％。",
-            "date_modified": "2025-10-23T20:02:48.000Z"
-        },
-        {
-            "id": 4451114,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptv1803202.d.html",
-            "title": "英特尔：预计第四季度调整后每股收益0.080美元，预估0.10美元。",
-            "date_modified": "2025-10-23T20:02:39.000Z"
-        },
-        {
-            "id": 4451113,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909344.d.html",
-            "title": "美股盘后英特尔股价上涨3%。",
-            "date_modified": "2025-10-23T20:02:22.000Z"
-        },
-        {
-            "id": 4451112,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909319.d.html",
-            "title": "英特尔：第三季度经调整毛利率40％，预估36.1％。",
-            "date_modified": "2025-10-23T20:02:03.000Z"
-        },
-        {
-            "id": 4451111,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7398099.d.html",
-            "title": "英特尔：第三季度调整后运营利润率11.2％，预估3.07％。",
-            "date_modified": "2025-10-23T20:01:54.000Z"
-        },
-        {
-            "id": 4451110,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7398094.d.html",
-            "title": "英特尔：第三季度营收136.5亿美元，同比+2.8%。",
-            "date_modified": "2025-10-23T20:01:32.000Z"
-        },
-        {
-            "id": 4451109,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909301.d.html",
-            "title": "英特尔预计第四季度营收在128亿美元至138亿美元之间。",
-            "date_modified": "2025-10-23T20:01:19.000Z"
-        },
-        {
-            "id": 4451108,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxptx6466833.d.html",
-            "title": "拉斯维加斯金沙集团股价大涨12%，创2022年5月以来最大涨幅。",
-            "date_modified": "2025-10-23T20:01:05.000Z"
-        },
-        {
-            "id": 4451107,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909282.d.html",
-            "title": "葛兰素史克上涨4.1%，用于治疗多发性骨髓瘤的药物BLENREP获FDA批准。",
-            "date_modified": "2025-10-23T20:00:50.000Z"
-        },
-        {
-            "id": 4451106,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909234.d.html",
-            "title": "罗珀公司（Roper）股价跌至2023年6月以来最低水平。",
-            "date_modified": "2025-10-23T19:58:47.000Z"
-        },
-        {
-            "id": 4451105,
-            "content_html": "",
-            "title": "金伯利-克拉克公司（Kimberly-Clark）股价跌至2024年2月以来最低水平。",
-            "date_modified": "2025-10-23T19:57:50.000Z"
-        },
-        {
-            "id": 4451104,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8909168.d.html",
-            "title": "高乐氏公司（Clorox）股价跌至2023年11月以来最低水平。",
-            "date_modified": "2025-10-23T19:56:46.000Z"
-        },
-        {
-            "id": 4451103,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7397951.d.html",
-            "title": "【美参议院否决一项“停摆”期间向军人支付工资的法案】当地时间10月23日，美国参议院否决了一项法案，该法案旨在为政府“停摆”期间必须工作的现役军人和其他必要联邦雇员支付工资。据悉，参议院以54票赞成、45票反对的投票结果，否决了由威斯康星州共和党参议员罗恩·约翰逊提出的这一法案。该法案需要60票才能通过。",
-            "date_modified": "2025-10-23T19:56:41.000Z"
-        },
-        {
-            "id": 4451102,
-            "content_html": "",
-            "title": "特许通信公司（Charter Communications）股价跌至2024年4月以来最低水平。",
-            "date_modified": "2025-10-23T19:55:46.000Z"
-        },
-        {
-            "id": 4451101,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7397889.d.html",
-            "title": "【俄代表团：欧盟欲通过制裁削弱俄经济是徒劳】当地时间23日，俄罗斯常驻欧盟代表团就欧盟对俄制裁发表声明。声明表示，欧盟通过一轮又一轮“无休止的制裁”削弱俄罗斯经济、损害俄罗斯民众福祉的企图是徒劳的。",
-            "date_modified": "2025-10-23T19:54:13.000Z"
-        },
-        {
-            "id": 4451100,
-            "content_html": "",
-            "title": "据俄罗斯通讯社援引国防部消息，俄罗斯苏-30 战斗机在俄罗斯加里宁格勒州进行了训练飞行，未侵犯任何其他国家的边界。",
-            "date_modified": "2025-10-23T19:52:05.000Z"
-        },
-        {
-            "id": 4451099,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7397769.d.html",
-            "title": "【立陶宛称两架俄罗斯飞机短暂进入其领空】当地时间10月23日，立陶宛国防部表示，两架俄罗斯飞机23日晚进入该国领空，因此动员两架北约部署在该国的西班牙战斗机紧急升空，并在该空域巡逻。立陶宛国防部称，两架俄罗斯飞机进入立陶宛领空约790米，飞行约18秒，可能是在加里宁格勒飞地进行演习。俄方对此暂无回应。（央视新闻）",
-            "date_modified": "2025-10-23T19:50:27.000Z"
-        },
-        {
-            "id": 4451097,
-            "content_html": "",
-            "title": "地产服务和投资公司世邦魏理仕（CBRE）股价创下2004年6月首次公开募股以来的历史新高。",
-            "date_modified": "2025-10-23T19:49:25.000Z"
-        },
-        {
-            "id": 4451095,
-            "content_html": "",
-            "title": "KLA公司（KLA Corporation）股价创1980年KLA Instruments首次公开募股以来的最高水平。",
-            "date_modified": "2025-10-23T19:46:44.000Z"
-        },
-        {
-            "id": 4451092,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7397626.d.html",
-            "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模创下7.398万亿美元纪录。",
-            "date_modified": "2025-10-23T19:46:04.000Z"
-        },
-        {
-            "id": 4451091,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8908811.d.html",
-            "title": "CrowdStrike公司股价创2019年6月首次公开募股以来的最高水平。",
-            "date_modified": "2025-10-23T19:45:29.000Z"
-        },
-        {
-            "id": 4451089,
-            "content_html": "",
-            "title": "美国官员称，美国此举（B-1轰炸机抵近委内瑞拉）是在最近进行“攻击演示”后向马杜罗施压。",
-            "date_modified": "2025-10-23T19:44:58.000Z"
-        },
-        {
-            "id": 4451088,
-            "content_html": "",
-            "title": "雷神技术公司（Raytheon Technologies）股价创下1975年采用联合技术公司名称以来的历史最高水平。",
-            "date_modified": "2025-10-23T19:44:32.000Z"
-        },
-        {
-            "id": 4451087,
-            "content_html": "",
-            "title": "乌克兰总统助理伊琳娜·穆德拉：乌克兰的长期目标是将俄罗斯冻结资产中的3000亿美元全部转移至乌克兰。",
-            "date_modified": "2025-10-23T19:44:01.000Z"
-        },
-        {
-            "id": 4451086,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8908751.d.html",
-            "title": "美国银行CTO：大量人工智能能力有待开发以实现应用。",
-            "date_modified": "2025-10-23T19:43:37.000Z"
-        },
-        {
-            "id": 4451084,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8908716.d.html",
-            "title": "3M公司(MMM)股价创2021年6月以来最高水平。",
-            "date_modified": "2025-10-23T19:43:07.000Z"
-        },
-        {
-            "id": 4451083,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8908706.d.html",
-            "title": "美国银行CTO：人工智能能够承担繁重的工作任务。",
-            "date_modified": "2025-10-23T19:42:58.000Z"
-        },
-        {
-            "id": 4451082,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7397475.d.html",
-            "title": "美国官员称，两架B-1轰炸机从得州基地起飞，停留在国际空域。",
-            "date_modified": "2025-10-23T19:42:14.000Z"
-        },
-        {
-            "id": 4451081,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8908691.d.html",
-            "title": "麦克森公司(McKesson)股价创下1983年以来的历史最高水平。",
-            "date_modified": "2025-10-23T19:42:11.000Z"
-        },
-        {
-            "id": 4451080,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7397468.d.html",
-            "title": "美国官员称，美国周四派遣B-1轰炸机飞近委内瑞拉。",
-            "date_modified": "2025-10-23T19:42:03.000Z"
-        },
-        {
-            "id": 4451079,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8908622.d.html",
-            "title": "HCA医疗保健公司股价创下2011年3月首次公开募股以来的最高水平。",
-            "date_modified": "2025-10-23T19:40:41.000Z"
-        },
-        {
-            "id": 4451078,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpty8908557.d.html",
-            "title": "特朗普：接到了英伟达CEO黄仁勋关于旧金山的电话。",
-            "date_modified": "2025-10-23T19:39:39.000Z"
-        },
-        {
-            "id": 4451077,
-            "content_html": "",
-            "title": "通用汽车（General Motors，GM）股价创下2010年11月重新以“通用汽车”名义首次公开募股时以来的最高水平。",
-            "date_modified": "2025-10-23T19:39:36.000Z"
-        },
-        {
-            "id": 4451076,
-            "content_html": "",
-            "title": "华纳兄弟探索公司(Warner Bros. Discovery,WBD)股价攀升至2022年4月以来最高水平。",
-            "date_modified": "2025-10-23T19:37:45.000Z"
-        },
-        {
-            "id": 4451073,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7397195.d.html",
-            "title": "穆迪：伊利诺伊州评级上调得益于该州财务指标已实现和预期中的改善。",
-            "date_modified": "2025-10-23T19:35:47.000Z"
-        },
-        {
-            "id": 4451072,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-10-24/detail-infuxpua7397173.d.html",
-            "title": "穆迪评级：将伊利诺伊州的信用评级上调至“A2”，前景稳定。",
-            "date_modified": "2025-10-23T19:35:03.000Z"
         }
     ]
 }

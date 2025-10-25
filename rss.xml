@@ -4,11 +4,42 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 25 Oct 2025 21:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 22:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：10月26日05时47分在台湾海峡（北纬23.40度，东经118.50度）发生3.5级地震，震源深度10千米。]]></title>
+            <guid>4455203</guid>
+            <pubDate>Sat, 25 Oct 2025 22:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰贸易部长：已与欧盟贸易事务对应官员会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvehha1321431.d.html</link>
+            <guid>4455202</guid>
+            <pubDate>Sat, 25 Oct 2025 21:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[声明：欧盟与新西兰达成共识，将减少非关税壁垒。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvehha1321428.d.html</link>
+            <guid>4455201</guid>
+            <pubDate>Sat, 25 Oct 2025 21:58:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列在加沙炸死一名杰哈德成员】以色列国防军25日宣布，当天对加沙地带中部努赛赖特难民营发动“精准打击”，打死一名“即将（对以军）发动袭击”的巴勒斯坦伊斯兰圣战组织（杰哈德）武装人员。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvehfw5100951.d.html</link>
+            <guid>4455200</guid>
+            <pubDate>Sat, 25 Oct 2025 21:31:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西方多国就乌克兰问题发表联合声明】当地时间25日，加拿大总理办公室发布了关于乌克兰问题的联合声明。据了解，乌克兰联合加拿大、英国、法国、德国、意大利等14国，以及欧盟和欧洲理事会等17方共同发表了此声明。
+声明称，各方渴望乌克兰享有公正、持久的和平。各方坚决支持立即停火，并以现有接触线为谈判的起点。各方始终坚持国际边界不得以武力改变的原则。
+声明称，各方正在制定措施，充分利用俄罗斯已冻结的主权资产，来确保乌克兰获得所需的资源。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-10-26/detail-infvczxz6787015.d.html</link>
+            <guid>4455199</guid>
+            <pubDate>Sat, 25 Oct 2025 21:17:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税】当地时间10月25日，美国总统特朗普在社交媒体“真实社交”上再度指责加拿大发布“伪造”的美国前总统里根讲话视频，称其“使用剪辑后的音视频误导公众”，并表示此举属于“欺诈行为”。
 特朗普援引里根基金会声明称，加方未获授权使用或编辑里根讲话内容，基金会正研究法律应对方案。他表示，加拿大此举意在通过虚假宣传影响美国最高法院对关税问题的裁决。
@@ -571,36 +602,6 @@
             <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvceuh7214196.d.html</link>
             <guid>4454959</guid>
             <pubDate>Sat, 25 Oct 2025 11:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫官员威胁或逮捕伊利诺伊州州长】当地时间10月24日，美国福克斯新闻主持人采访白宫办公厅副主任斯蒂芬·米勒时问，伊利诺伊州州长普里茨克是否可能被逮捕，米勒回答称，包括普里茨克在内的任何州级或地方级官员，只要妨碍联邦执法人员的行动，都可能因构成妨碍司法公正、窝藏非法移民以及阻碍移民法执行等罪名而被捕。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvceuk5702374.d.html</link>
-            <guid>4454958</guid>
-            <pubDate>Sat, 25 Oct 2025 11:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港创新科技及工业局：推动电动汽车产业链在港发展】由粤港澳大湾区院士联盟（GBAAA）主办的2025电动汽车革命新征程国际论坛在香港举行。香港特区政府署理创新科技及工业局常任秘书长葛明会上表示，本届特区政府以产业为导向，推出一系列的政策措施推动香港的科研优势转化为经济发展优势，电动汽车已超越了传统的交通工具，成为集成软硬件、数据与服务的智能移动平台，更带动半导体、动力电池、智能充电和智慧出行等相关产业的发展，创造新的经济增长点，将推动更多电动汽车产业链企业来港发展。中国科学院院士、香港理工大学校长滕锦光表示，香港汇聚顶尖科研与国际资本，但仍需补强“科研—转化—产业化”衔接，可依托北部都会区创科平台加速落地。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvceum7250680.d.html</link>
-            <guid>4454957</guid>
-            <pubDate>Sat, 25 Oct 2025 11:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2025年前三季度德国遣返人数显著上升】综合德国媒体25日报道，2025年前三季度德国被遣返出境的人数明显增加。据统计，共有17651人被遣返，比去年同期的14706人上升约五分之一。据《新奥斯纳布吕克报》报道，该数据来自德国联邦政府对联邦议院左翼党议会党团问询的答复。报道指出，多数被遣返者前往土耳其(1614人)和格鲁吉亚(1379人)，其中约五分之一(3095人)为儿童或青少年。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvceuq1914326.d.html</link>
-            <guid>4454956</guid>
-            <pubDate>Sat, 25 Oct 2025 11:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【康斯特：目前传感器尚未直接对外销售贡献营收】关于传感器的自研进展及量产计划，康斯特(300445)10月24日在业绩说明会上表示，传感器项目计划今年结项，目前除微压传感器在收尾测试外，其他量程段传感器已陆续小批量生产。今年整体计划生产1万只，用途主要为自用替代外采、部分用于测试和新产品开发。明年不会完全替代公司的整体传感器用量，因需逐步测试自研传感器稳定参数，以及消化外购传感器库存，未来除自研无法覆盖的量程或型号外，外购占比将极低。目前传感器尚未直接对外销售贡献营收，计划明年年末才会有相关产品上市，压力变送器同步研发中。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvceuh7210823.d.html</link>
-            <guid>4454955</guid>
-            <pubDate>Sat, 25 Oct 2025 10:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国政府发言人：泰国总理周日在马来西亚与特朗普举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-10-25/detail-infvceuk5699531.d.html</link>
-            <guid>4454954</guid>
-            <pubDate>Sat, 25 Oct 2025 10:58:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

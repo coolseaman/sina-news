@@ -4,16 +4,295 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 03 Nov 2025 16:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 17:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国国债价格跌幅扩大，10年期美债收益率则突破上周顶部。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmm1067195.d.html</link>
-            <guid>4475180</guid>
-            <pubDate>Mon, 03 Nov 2025 16:21:39 GMT</pubDate>
+            <title><![CDATA[美联储戴利：美联储的分歧没有比以前更大，甚至都不会用“分歧”这个词。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2090730.d.html</link>
+            <guid>4475231</guid>
+            <pubDate>Mon, 03 Nov 2025 17:16:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：需要做出权衡风险的决策.]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0943672.d.html</link>
+            <guid>4475230</guid>
+            <pubDate>Mon, 03 Nov 2025 17:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：今年降息50个基点将使美联储处于更有利地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5134603.d.html</link>
+            <guid>4475229</guid>
+            <pubDate>Mon, 03 Nov 2025 17:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：对12月的决策持开放态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579443.d.html</link>
+            <guid>4475228</guid>
+            <pubDate>Mon, 03 Nov 2025 17:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：需保持政策适度从紧。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579431.d.html</link>
+            <guid>4475227</guid>
+            <pubDate>Mon, 03 Nov 2025 17:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：劳动力市场已明显走软。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5134549.d.html</link>
+            <guid>4475226</guid>
+            <pubDate>Mon, 03 Nov 2025 17:14:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国司法部：11月份食品援助福利的50%资金已到位。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5134523.d.html</link>
+            <guid>4475225</guid>
+            <pubDate>Mon, 03 Nov 2025 17:13:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：通胀率仍高于目标水平，需要将其降下来。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579389.d.html</link>
+            <guid>4475224</guid>
+            <pubDate>Mon, 03 Nov 2025 17:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：降息是恰当的，支持降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579367.d.html</link>
+            <guid>4475223</guid>
+            <pubDate>Mon, 03 Nov 2025 17:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普政府：在法官裁决要求食品援助计划继续实施后，SNAP（补充营养援助计划）将获得部分资金。]]></title>
+            <guid>4475222</guid>
+            <pubDate>Mon, 03 Nov 2025 17:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法庭文件显示，美国农业部将动用应急资金部分支付11月份的SNAP食品券福利。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5134084.d.html</link>
+            <guid>4475221</guid>
+            <pubDate>Mon, 03 Nov 2025 17:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amkor股价上涨16%，创7月份以来最大盘中涨幅，英伟达CEO黄仁勋在接受福克斯新闻采访时提到该公司。]]></title>
+            <guid>4475220</guid>
+            <pubDate>Mon, 03 Nov 2025 17:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收跌0.10%，沪铜收跌0.10%，沪铝收涨0.42%，沪锌收涨0.82%，沪铅收涨0.20%，沪镍收跌0.23%，沪锡收跌0.25%。氧化铝夜盘收涨0.33%，铝合金收跌0.18%。不锈钢夜盘收跌0.59%。]]></title>
+            <guid>4475219</guid>
+            <pubDate>Mon, 03 Nov 2025 17:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：美国团队下周将访问乌克兰，就无人机协议进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2090018.d.html</link>
+            <guid>4475218</guid>
+            <pubDate>Mon, 03 Nov 2025 17:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利交通部：10月份特斯拉在意大利的新车注册量同比下降47.11%。今年1 - 10月，特斯拉新车在意大利的注册量较2024年同期下降了32.89%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5133508.d.html</link>
+            <guid>4475217</guid>
+            <pubDate>Mon, 03 Nov 2025 17:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰天然气进口仍需7.5亿美元资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2089833.d.html</link>
+            <guid>4475216</guid>
+            <pubDate>Mon, 03 Nov 2025 17:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta：允许Facebook群组管理员选择将其群组从私密状态转为公开状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2089666.d.html</link>
+            <guid>4475215</guid>
+            <pubDate>Mon, 03 Nov 2025 17:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国大约24个州起诉总统特朗普的政府，指控其对公职人员限制（前总统拜登出台的）学生贷款的免除政策。]]></title>
+            <guid>4475214</guid>
+            <pubDate>Mon, 03 Nov 2025 17:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LAMBDA：战略合作意味着英伟达将在未来多年进行大规模人工智能基础设施部署。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0578422.d.html</link>
+            <guid>4475213</guid>
+            <pubDate>Mon, 03 Nov 2025 17:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：海上无人机、火炮系统均在乌克兰可出口武器之列。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0942202.d.html</link>
+            <guid>4475212</guid>
+            <pubDate>Mon, 03 Nov 2025 17:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰今年将在柏林和哥本哈根设立武器出口和联合生产办事处。俄罗斯正在波克罗夫斯克以北的多布罗皮利亚附近集结部队。美国代表团将于下周访问乌克兰，就无人机交易进行谈判。]]></title>
+            <guid>4475211</guid>
+            <pubDate>Mon, 03 Nov 2025 17:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：在通话中与冯德莱恩就乌克兰能源问题进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmf2220228.d.html</link>
+            <guid>4475210</guid>
+            <pubDate>Mon, 03 Nov 2025 17:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：欧盟将向乌克兰提供额外资金用于天然气进口。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmf2220225.d.html</link>
+            <guid>4475209</guid>
+            <pubDate>Mon, 03 Nov 2025 17:00:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘期货收盘】国际铜夜盘收跌0.10%，沪铜收跌0.10%，沪铝收涨0.42%，沪锌收涨0.82%，沪铅收涨0.20%，沪镍收跌0.23%，沪锡收跌0.25%。氧化铝夜盘收跌0.18%，铝合金收涨0.33%。不锈钢夜盘收跌0.59%。]]></title>
+            <guid>4475208</guid>
+            <pubDate>Mon, 03 Nov 2025 17:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会草案文本显示，尽管乌克兰在根本性改革方面取得了一些进展，但仍需进一步努力。]]></title>
+            <guid>4475207</guid>
+            <pubDate>Mon, 03 Nov 2025 16:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会草案文本显示，乌克兰近期出现的负面趋势，包括对专业反腐机构和民间社会的压力不断增大，必须得到果断扭转。]]></title>
+            <guid>4475206</guid>
+            <pubDate>Mon, 03 Nov 2025 16:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英债收益率普遍涨约3个基点】周一（11月3日）欧市尾盘，英国10年期国债收益率上涨2.7个基点，报4.436%，全天震荡上行，交投区间为4.399%-4.445%，10月22日以来低位企稳——持稳于4.4%附近。两年期英债收益率反弹2.5个基点，报3.796%。30年期英债收益率涨3.0个基点，50年期英债收益率涨3.6个基点。2/10年期英债收益率利差涨0.333个基点，报+63.998个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmm1072408.d.html</link>
+            <guid>4475205</guid>
+            <pubDate>Mon, 03 Nov 2025 16:56:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会草案文本显示，过去一年来，乌克兰在加入欧盟的道路上持续展现出非凡的决心。]]></title>
+            <guid>4475204</guid>
+            <pubDate>Mon, 03 Nov 2025 16:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会草案文本显示，未来的欧盟入盟条约应包含更有力的保障措施，以防止（申请国）在民主承诺方面出现倒退。]]></title>
+            <guid>4475203</guid>
+            <pubDate>Mon, 03 Nov 2025 16:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国西北部列车脱轨事故致相关线路交通中断】当地时间11月3日，一辆从英国格拉斯哥开往伦敦的列车在英格兰北部地区发生脱轨事故。英国交通部长亚历山大表示，事故未造成人员伤亡。当地救援部门表示，事发现场的“重大事故状态”已经解除。铁路运营商表示，预计相关线路的交通中断将持续数日。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmi0708644.d.html</link>
+            <guid>4475202</guid>
+            <pubDate>Mon, 03 Nov 2025 16:54:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列移交45具巴勒斯坦被扣押人员遗体】当地时间11月3日，巴勒斯坦加沙地带卫生部门表示，以色列当天向加沙方面移交了45具巴勒斯坦被扣押人员遗体，目前以方移交的巴方被扣押人员遗体总数达到270具。巴勒斯坦伊斯兰抵抗运动（哈马斯）11月2日发表声明称，当天又向以色列移交了3具以方被扣押人员遗体。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmf2219702.d.html</link>
+            <guid>4475201</guid>
+            <pubDate>Mon, 03 Nov 2025 16:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺和诺德发言人：对生物技术公司Metsera的收购要约彰显了公司在美国投资的决心。]]></title>
+            <guid>4475200</guid>
+            <pubDate>Mon, 03 Nov 2025 16:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[作为 Lambda 公司与微软合作协议的一部分，Lambda 将部署由英伟达提供技术支持的人工智能基础设施。]]></title>
+            <guid>4475199</guid>
+            <pubDate>Mon, 03 Nov 2025 16:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺和诺德：辉瑞声称诺和诺德打算通过我们的要约来抑制创新，这“是虚假且毫无根据的”。]]></title>
+            <guid>4475198</guid>
+            <pubDate>Mon, 03 Nov 2025 16:49:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦罗布斯塔咖啡期货上涨3%，至每吨4676美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczkz5262195.d.html</link>
+            <guid>4475197</guid>
+            <pubDate>Mon, 03 Nov 2025 16:48:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软与 Lambda 公司达成价值数十亿美元的人工智能基础设施协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmi0706797.d.html</link>
+            <guid>4475196</guid>
+            <pubDate>Mon, 03 Nov 2025 16:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：三星集团和日本电力公司Erex将成立储能合资公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmi0706723.d.html</link>
+            <guid>4475195</guid>
+            <pubDate>Mon, 03 Nov 2025 16:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉欧洲市场销量再度大幅下滑 保持数季度以来低迷态势】特斯拉今年在欧洲多个市场销售严重下滑。迄今跌幅最明显的是瑞典。据该国汽车制造商协会数据，上月登记上牌的特斯拉新车仅133辆，同比暴跌89%。在挪威和荷兰，销量约减半；西班牙的销量跌幅接近三分之一。法国是个例外，特斯拉10月在当地的新车注册量同比增长2.4%。不过，这一增长是建立在极低基数之上的，2024年10月销量曾同比下滑47%。今年前10个月，特斯拉在法国的累计注册量同比减少30%。
+特斯拉第三季度全球销量创下新高，主要是由于美国消费者赶在9月30日电动车税收抵免政策到期之前集中购车。而在欧洲，由于产品线老化、以及马斯克的政治立场（包括其在特朗普政府中的角色）引发争议，特斯拉的销量已连续多个季度低迷。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczkz5261622.d.html</link>
+            <guid>4475194</guid>
+            <pubDate>Mon, 03 Nov 2025 16:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【匈牙利总理称反对为乌克兰提供资金】当地时间11月3日，匈牙利总理欧尔班在社交媒体表示，据英国《经济学人》杂志分析，如果俄乌冲突持续，乌克兰未来四年需要投入4000亿美元，以购买武器，进行重建等。这就是欧盟希望动用俄罗斯被冻结资产，向乌克兰提供贷款的原因。欧尔班说，匈牙利坚决反对欧盟的计划。无论从政治、经济还是道德层面，匈牙利都没有理由为乌克兰提供资金。未来四年，匈牙利将致力于用资金支持匈牙利家庭、企业和退休人员，而不是资助乌克兰。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczkz5261372.d.html</link>
+            <guid>4475193</guid>
+            <pubDate>Mon, 03 Nov 2025 16:43:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司MSCI北欧国家指数微幅下跌，报355.62点。在十个板块中，北欧电信服务板块跌幅最大。潘多拉跌4.8%，在一众北欧个股里表现最差。]]></title>
+            <guid>4475192</guid>
+            <pubDate>Mon, 03 Nov 2025 16:39:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大工业部长Joly：加拿大针对（欧洲汽车制造商）斯泰兰蒂斯Stellantis启动纠纷解决程序。]]></title>
+            <guid>4475191</guid>
+            <pubDate>Mon, 03 Nov 2025 16:39:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【政府停摆影响航空安全 美国交通部长称如有必要将关闭全国领空】随着美国政府停摆步入第二个月，交通部长肖恩·达菲表示，如果官员们认定航空出行存在危险，那么他将关闭美国领空。“如果我们认为不安全，我们会关闭整个空域，”达菲周一接受CNBC采访时表示。他指出，美国目前还没有到那一步，但政府停摆确实令航空系统面临更大风险。由于自10月1日政府停摆以来空中交通管制人员短缺问题日益严重，美国联邦航空管理局(FAA)上周不得不放缓许多机场的空中交通。空管人员继续在无薪工作。FAA在社交媒体发帖表示，周五最繁忙的30处设施中有一半人手不足。FAA补充表示，当天处理纽约地区航班的设施有近80%的空管人员缺勤。根据航班追踪网站FlightAware的数据，周五美国有超过6200个航班延误，近500个航班取消。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmm1069160.d.html</link>
+            <guid>4475190</guid>
+            <pubDate>Mon, 03 Nov 2025 16:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[葡萄牙汽车协会（ACAP）数据显示，10 月葡萄牙特斯拉汽车新注册量同比下降 58.7%，1-10 月累计下降 21.4%。]]></title>
+            <guid>4475189</guid>
+            <pubDate>Mon, 03 Nov 2025 16:36:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田汽车北美公司：10月电动化车辆销量达93,670辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmf2215438.d.html</link>
+            <guid>4475188</guid>
+            <pubDate>Mon, 03 Nov 2025 16:33:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田汽车北美公司：10月销量207,910辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-04/detail-infwczmf2215275.d.html</link>
+            <guid>4475187</guid>
+            <pubDate>Mon, 03 Nov 2025 16:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖三个月期国债，得标利率3.815%，投标倍数2.62。拍卖六个月期国债，得标利率3.700%，投标倍数2.92。]]></title>
+            <guid>4475186</guid>
+            <pubDate>Mon, 03 Nov 2025 16:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦证券交易所集团（LSEG）数据及企业文件显示，美国得克萨斯州弗里波特液化天然气（LNG）出口工厂于周六关停后，有望在周一接收更多天然气。]]></title>
+            <guid>4475185</guid>
+            <pubDate>Mon, 03 Nov 2025 16:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收涨0.63%，报24110.63点，成分股德国莱茵金属RHM初步收涨超3.7%，和西门子能源、大众涨超2%领跑。法国股指初步收跌0.20%，意大利股指初步收涨0.15%、银行指数涨0.28%，英国股指初步收跌0.18%。]]></title>
+            <guid>4475184</guid>
+            <pubDate>Mon, 03 Nov 2025 16:30:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨0.04%，报572.10点。欧元区STOXX 50指数初步收涨0.22%，报5674.50点。富时泛欧绩优300指数初步收涨0.05%，报2275.75点。]]></title>
+            <guid>4475183</guid>
+            <pubDate>Mon, 03 Nov 2025 16:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼发言人：尽管此前的僵局导致了目前的信号中断，但我们已要求 YouTube TV 在选举日当天恢复美国广播公司（ABC）的信号传输。]]></title>
+            <guid>4475182</guid>
+            <pubDate>Mon, 03 Nov 2025 16:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。]]></title>
+            <guid>4475181</guid>
+            <pubDate>Mon, 03 Nov 2025 16:24:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【政府“停摆”逼近历史纪录 美民生经济双重承压】美国联邦政府“停摆”11月3日进入第34天，距离打破2018年年底至2019年年初“停摆”35天的历史纪录仅“一步之遥”。此次“停摆”造成的破坏性影响直指民航、食品、医疗等领域并持续扩大，民生与经济双重承压。（央视新闻）]]></title>
@@ -286,291 +565,6 @@
             <title><![CDATA[据报道，石油输出国组织及其盟友(OPEC+)将在12月增产13.7万桶/日，但因担忧供应过剩计划于第一季度暂停进一步增产，保留必要时调整产量的灵活性。]]></title>
             <guid>4475130</guid>
             <pubDate>Mon, 03 Nov 2025 15:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议长约翰逊：必须重新核算向SNAP（补充营养协助计划）受助者支付的部分款项。]]></title>
-            <guid>4475129</guid>
-            <pubDate>Mon, 03 Nov 2025 15:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，金伯利-克拉克（KMB）下跌12.7%，Kenvue（KVUE）大涨15.9%，此前金伯利-克拉克宣布同意以487亿美元现金加股票收购Kenvue，将组建一家年收入约320亿美元的消费品巨头，目标实现约19亿美元成本协同效应。交易预计于2026年下半年完成。]]></title>
-            <guid>4475128</guid>
-            <pubDate>Mon, 03 Nov 2025 15:27:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议长约翰逊：SNAP（补充营养协助计划）资金存在法律障碍。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczkz5247549.d.html</link>
-            <guid>4475127</guid>
-            <pubDate>Mon, 03 Nov 2025 15:26:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议长约翰逊：已经在上周末与总统特朗普讨论过和食品补贴相关的SNAP。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2202515.d.html</link>
-            <guid>4475126</guid>
-            <pubDate>Mon, 03 Nov 2025 15:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马自达北美业务部：10月汽车总销量达25161辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0691139.d.html</link>
-            <guid>4475125</guid>
-            <pubDate>Mon, 03 Nov 2025 15:24:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国政府：预计将在2026年实施能源补贴，从而提振重工业】德国经济部长Katherina Reiche预计，政府将在明年1月1日推出新的机制，到2029年为止为能源密集型行业补贴电费。该官员表示，与欧盟委员会就“工业电价”的谈判已进入最后阶段，该措施的成本可能高达50亿欧元（折合58亿美元）。计划中的工业电价被视为改善德国钢铁业竞争力的“一个重要基石”，该行业一直受到能源成本上涨的困扰。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2201964.d.html</link>
-            <guid>4475124</guid>
-            <pubDate>Mon, 03 Nov 2025 15:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼泊尔中部发生雪崩造成至少7人遇难】尼泊尔警方3日说，位于该国中东部的亚隆里峰大本营当天发生雪崩，造成至少5名外国登山者和两名尼方向导遇难。尼泊尔多拉卡县警察局长马哈托表示，一支由5名外国登山者和10名尼泊尔向导组成的登山队当天在位于该县的亚隆里峰大本营遭遇雪崩。救援人员已找到7具尸体，其中包括来自美国、意大利和加拿大的5名登山者及两名尼泊尔向导，另有4人受伤、4人失踪。截至10月31日，尼泊尔已批准1450名登山者在今年9月至11月的秋季登山季攀登尼境内的59座山峰。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1055240.d.html</link>
-            <guid>4475123</guid>
-            <pubDate>Mon, 03 Nov 2025 15:20:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔·哈撒韦B：瑞银将其目标价从593美元上调至595美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0690406.d.html</link>
-            <guid>4475122</guid>
-            <pubDate>Mon, 03 Nov 2025 15:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔·哈撒韦：瑞银将其目标价从890002美元上调至892758美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0690211.d.html</link>
-            <guid>4475121</guid>
-            <pubDate>Mon, 03 Nov 2025 15:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生态环境部：中方将协同推进降碳、减污、扩绿、增长 与各方一道积极推进应对气候变化多边进程】第九届气候行动部长级会议（MoCA）于当地时间10月31日至11月1日在加拿大多伦多召开。生态环境部部长黄润秋指出，联合国气候变化贝伦大会对于开启下一个十年全球气候行动与合作至关重要，希望各方支持巴西将贝伦大会办成一届遵循原则、讲求公平、倡导正义、稳妥务实、促进合作的缔约方大会。中方将以碳达峰碳中和为牵引，落实全球治理倡议，协同推进降碳、减污、扩绿、增长，与各方一道积极推进应对气候变化多边进程，共同构建公平合理、合作共赢的全球环境与气候治理体系。]]></title>
-            <guid>4475120</guid>
-            <pubDate>Mon, 03 Nov 2025 15:17:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：消费者支出是经济增长势头的关键驱动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1054331.d.html</link>
-            <guid>4475119</guid>
-            <pubDate>Mon, 03 Nov 2025 15:15:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：经济总体相当强劲，但特定行业存在疲软现象。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2201183.d.html</link>
-            <guid>4475118</guid>
-            <pubDate>Mon, 03 Nov 2025 15:15:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数触及三周低位 因各型船需求下降】波罗的海干散货运价指数周一触及逾三年低位，因各型船需求低迷。波罗的海干散货运价指数较前一交易日下跌21点或1.1%，报1945点，为自10月10日以来的最低水平。海岬型船运价指数下跌41点，或1.4%，至2888点。海岬型船日均获利下跌333美元，至23955美元。巴拿马型船运价指数下滑20点或1.1%，为连续第六个交易日下跌，至1801点。巴拿马型船日均获利下滑182美元，至16207美元。超灵便型散货船运价指数下滑6点或0.5%，报1320点。灵便型船运价指数下滑6点，报841点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1054190.d.html</link>
-            <guid>4475117</guid>
-            <pubDate>Mon, 03 Nov 2025 15:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：最好让利率随通胀一起下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2201026.d.html</link>
-            <guid>4475116</guid>
-            <pubDate>Mon, 03 Nov 2025 15:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：我对通胀方面的情况“感到担忧”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1054054.d.html</link>
-            <guid>4475115</guid>
-            <pubDate>Mon, 03 Nov 2025 15:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：在转型时期很难把握好时机。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2200951.d.html</link>
-            <guid>4475114</guid>
-            <pubDate>Mon, 03 Nov 2025 15:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Ripple针对美国市场推出新数字资产现货大宗经纪平台】Ripple已针对美国市场推出全新的数字资产现货大宗经纪平台，将其机构服务扩展至涵盖数十种主要加密货币的场外现货交易，其中包括XRP及其自有稳定币RLUSD。 此次上线标志着Ripple Prime在美国的首次重大扩张。此前该公司以12.5亿美元收购了多资产经纪商Hidden Road，该交易于4月首次披露并于上月完成。Ripple随后将其牌照技术与Hidden Road的基础设施整合，构建了集数字资产、外汇、衍生品和固定收益于一体的统一清算、融资与执行平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2200824.d.html</link>
-            <guid>4475113</guid>
-            <pubDate>Mon, 03 Nov 2025 15:12:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：经济中出现低招聘、低裁员的情况很不寻常。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1053698.d.html</link>
-            <guid>4475112</guid>
-            <pubDate>Mon, 03 Nov 2025 15:11:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：招聘率较低，这是经济最薄弱的因素之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0689549.d.html</link>
-            <guid>4475111</guid>
-            <pubDate>Mon, 03 Nov 2025 15:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：对裁员数据持谨慎态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0689520.d.html</link>
-            <guid>4475110</guid>
-            <pubDate>Mon, 03 Nov 2025 15:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国制造业活动连续第八个月萎缩 因产出下降且需求疲软】受产出下降和需求疲软影响，美国10月份制造业活动连续第八个月萎缩。根据周一公布的数据，美国供应管理学会(ISM)的制造业指数下降0.4，至48.7。该指数低于50意味着行业活动收缩，今年大部分时间制造业指数都在一个狭窄区间内波动。报告显示，ISM产出指标下降2.8点，至48.2，为过去三个月中第二次跌破50这一荣枯分水岭。产出疲软使制造业就业持续承压。ISM就业指标连续第九个月萎缩，尽管下滑速度略低于9月。与此同时，通胀压力持续缓解。衡量原材料支付价格的指标下降3.9，至58，为今年年初以来最低水平。自4月（美国宣布对等关税）以来，该指标已累计下降近12点。由于美国政府关门导致官方数据停止发布，经济学家和政策制定者越来越依赖ISM这类私人机构发布的数据来寻找经济和就业市场线索。调查显示，美国制造商整体情绪低迷，他们仍面临贸易政策不确定性带来的压力。在采购原材料时，制造商也在重新适应不断变化的供应链。ISM供应商交货指数升至四个月高点，显示交货周期拉长。ISM报告还显示，10月新订单指标连续第二个月下降，尽管降幅有所放缓。衡量需求的另一个指标积压订单也继续收缩。制造商库存出现一年以来最大幅度下降。客户库存水平仍维持在较低位，表明未来订单可能有回升空间，从而支持生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2200688.d.html</link>
-            <guid>4475109</guid>
-            <pubDate>Mon, 03 Nov 2025 15:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：在参加下次美联储利率设定会议前尚未做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0689418.d.html</link>
-            <guid>4475108</guid>
-            <pubDate>Mon, 03 Nov 2025 15:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase：在 Osmosis 网络上，买卖以及法定货币提现/存款操作不受影响。]]></title>
-            <guid>4475107</guid>
-            <pubDate>Mon, 03 Nov 2025 15:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase：知悉部分用户在Osmosis网络上可能遇到收发延迟的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczkz5244406.d.html</link>
-            <guid>4475106</guid>
-            <pubDate>Mon, 03 Nov 2025 15:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，安森美半导体公司(ON Semiconductor,ON)股价上涨1%，此前该公司报告第三季度利润和销售额超出分析师预期。安森美半导体调整后每股收益为63美分，营收为15.5亿美元，优于FactSet调查分析师预测的59美分和15.2亿美元。]]></title>
-            <guid>4475105</guid>
-            <pubDate>Mon, 03 Nov 2025 15:09:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股走低，截至目前，道琼斯指数跌0.42%，标普500指数跌0.03%，纳斯达克综合指数涨0.43%】美股走低，截至目前，道琼斯指数跌0.42%，标普500指数跌0.03%，纳斯达克综合指数涨0.43%。]]></title>
-            <guid>4475104</guid>
-            <pubDate>Mon, 03 Nov 2025 15:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰军方：俄罗斯军队并未完全控制波克罗夫斯克的任何一个区。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2200523.d.html</link>
-            <guid>4475103</guid>
-            <pubDate>Mon, 03 Nov 2025 15:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：当经济处于转型期时，保持谨慎很重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2200458.d.html</link>
-            <guid>4475102</guid>
-            <pubDate>Mon, 03 Nov 2025 15:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：一些关键就业市场指标一直相当稳定。就业市场仍存在担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1053202.d.html</link>
-            <guid>4475101</guid>
-            <pubDate>Mon, 03 Nov 2025 15:08:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，数据中心公司Iren股价飙升18.5%，此前该公司宣布与微软达成协议，将在五年内向这家软件和云计算提供商提供价值97亿美元的Nvidia GB300 GPU访问权限。]]></title>
-            <guid>4475100</guid>
-            <pubDate>Mon, 03 Nov 2025 15:08:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：相比就业市场风险，更担忧通胀问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1053092.d.html</link>
-            <guid>4475099</guid>
-            <pubDate>Mon, 03 Nov 2025 15:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【文远知行自动驾驶车队全方位赋能全运会，最新自动驾驶中巴首发亮相】11月3日，随着第十五届全国运动会（全运会）暨全国第十二届残疾人运动会和第九届特殊奥林匹克运动会的临近，本届赛事自动驾驶场景应用启动仪式在广州天河体育中心南广场隆重举行。启动仪式上，全球领先的自动驾驶科技公司文远知行WeRide宣布，将为本届赛事提供全方位的自动驾驶出行和环卫服务。同时，文远知行联合广州公交集团、广汽领程打造的全球首款L4级中运量城市公交车型在启动仪式上首发亮相，并将投入赛事接驳服务中。（文远知行）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1053085.d.html</link>
-            <guid>4475098</guid>
-            <pubDate>Mon, 03 Nov 2025 15:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：降息门槛高于前两次美联储会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1052994.d.html</link>
-            <guid>4475097</guid>
-            <pubDate>Mon, 03 Nov 2025 15:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：通胀数据仍令人担忧，我尚未决定在下次美联储会议上采取何种行动。]]></title>
-            <guid>4475096</guid>
-            <pubDate>Mon, 03 Nov 2025 15:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：我对提前大幅降息感到不安。 随着通胀下降，利率应该下调。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczkz5243908.d.html</link>
-            <guid>4475095</guid>
-            <pubDate>Mon, 03 Nov 2025 15:07:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元汇率下跌 0.1%，报 1.15195 美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2200108.d.html</link>
-            <guid>4475094</guid>
-            <pubDate>Mon, 03 Nov 2025 15:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数据公布后，美元指数回吐涨幅，最新上涨0.07%，报99.873。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0688849.d.html</link>
-            <guid>4475093</guid>
-            <pubDate>Mon, 03 Nov 2025 15:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：我认为利率最终稳定的水平将远低于当前水平。]]></title>
-            <guid>4475092</guid>
-            <pubDate>Mon, 03 Nov 2025 15:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：经济实现“软着陆”仍有可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0688767.d.html</link>
-            <guid>4475091</guid>
-            <pubDate>Mon, 03 Nov 2025 15:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储古尔斯比：我认为利率最终稳定的水平将远低于当前水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczkz5243514.d.html</link>
-            <guid>4475090</guid>
-            <pubDate>Mon, 03 Nov 2025 15:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥央行调查：私营部门分析师预计基准利率到2025年底将维持在7.00%，与上一次调查结果相同。]]></title>
-            <guid>4475089</guid>
-            <pubDate>Mon, 03 Nov 2025 15:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥央行调查：私营部门分析师预计基准利率在2026年末将维持在6.50%，与上一次调查结果持平。]]></title>
-            <guid>4475088</guid>
-            <pubDate>Mon, 03 Nov 2025 15:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率短线从4.11%一线跳水至4.09%下方，日内整体涨幅收窄至不足2个基点。]]></title>
-            <guid>4475087</guid>
-            <pubDate>Mon, 03 Nov 2025 15:02:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥央行调查：私营部门分析师预计2026年底整体通胀率为3.81%，前次调查预测为3.80%。]]></title>
-            <guid>4475086</guid>
-            <pubDate>Mon, 03 Nov 2025 15:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约期金突破4040美元/盎司，日内涨1.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2199140.d.html</link>
-            <guid>4475085</guid>
-            <pubDate>Mon, 03 Nov 2025 15:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10月份ISM制造业指数降至48.7；预估为49.5。]]></title>
-            <guid>4475084</guid>
-            <pubDate>Mon, 03 Nov 2025 15:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：花旗集团称，到2030年人工智能行业营收将达9750亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmi0687906.d.html</link>
-            <guid>4475083</guid>
-            <pubDate>Mon, 03 Nov 2025 15:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夜盘期货收盘】苯乙烯连续跌2.38%，甲醇连续跌2.09%，乙二醇连续跌1.90%，纯碱连续跌1.32%，玻璃连续跌1.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmm1051251.d.html</link>
-            <guid>4475082</guid>
-            <pubDate>Mon, 03 Nov 2025 15:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟碳税涨穿每吨80欧元整数位心理关口，至81.75欧元，逼近1月30日顶部82.68欧元。11月3日稍早，德国政府针对能源密集型行业宣布新的支持措施。]]></title>
-            <guid>4475081</guid>
-            <pubDate>Mon, 03 Nov 2025 14:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道琼斯指数转跌，最新跌幅为0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-03/detail-infwczmf2199036.d.html</link>
-            <guid>4475080</guid>
-            <pubDate>Mon, 03 Nov 2025 14:58:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

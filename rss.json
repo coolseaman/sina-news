@@ -6,6 +6,408 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4475441,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1971632.d.html",
+            "title": "美国地质调查局：俄罗斯奥泽尔诺夫斯基区东北偏东124公里处发生5.4级地震。",
+            "date_modified": "2025-11-03T20:21:00.000Z"
+        },
+        {
+            "id": 4475440,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1971495.d.html",
+            "title": "美国联邦航空管理局：达拉斯爱田机场因人员配备问题实施地面停飞。",
+            "date_modified": "2025-11-03T20:17:11.000Z"
+        },
+        {
+            "id": 4475439,
+            "content_html": "",
+            "title": "巴西财政部长哈达德：为“转型与融合基金”（TFFF）筹集100亿美元公共资源将是一项巨大成就。",
+            "date_modified": "2025-11-03T20:13:49.000Z"
+        },
+        {
+            "id": 4475438,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5019240.d.html",
+            "title": "【图恩称共和党票数不足以终结参议院冗长辩论程序】美国参议院多数党领袖图恩表示，目前共和党在参议院的票数不足以终结冗长辩论规则。他已就此事与特朗普总统进行了深入交谈。",
+            "date_modified": "2025-11-03T20:11:32.000Z"
+        },
+        {
+            "id": 4475437,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0460000.d.html",
+            "title": "紧急警报称：美国弗吉尼亚大学夏洛茨维尔校区香农图书馆出现 “持枪袭击者”。",
+            "date_modified": "2025-11-03T20:10:20.000Z"
+        },
+        {
+            "id": 4475436,
+            "content_html": "",
+            "title": "巴西财政部长哈达德：我们已经有一些国家表示将加入转型金融促进基金（TFFF），就像印度尼西亚那样。",
+            "date_modified": "2025-11-03T20:08:45.000Z"
+        },
+        {
+            "id": 4475435,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0459963.d.html",
+            "title": "巴西财政部长哈达德：我们将启动第四次生态投资拍卖。",
+            "date_modified": "2025-11-03T20:08:05.000Z"
+        },
+        {
+            "id": 4475434,
+            "content_html": "",
+            "title": "美国财政部：在2025年7-9月，财政部私人持有净可流通债券借款实际规模为1.058万亿美元，季度末现金余额为8910亿美元。",
+            "date_modified": "2025-11-03T20:05:22.000Z"
+        },
+        {
+            "id": 4475433,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1971092.d.html",
+            "title": "美国财政部预计明年1-3月净借款规模为5780亿美元。",
+            "date_modified": "2025-11-03T20:04:09.000Z"
+        },
+        {
+            "id": 4475432,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5018916.d.html",
+            "title": "穆迪：上调阿斯麦控股评级至A1（之前为A2），前景展望稳定。",
+            "date_modified": "2025-11-03T20:03:38.000Z"
+        },
+        {
+            "id": 4475431,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0827798.d.html",
+            "title": "美国财政部预计第四季度借款5690亿美元。",
+            "date_modified": "2025-11-03T20:01:48.000Z"
+        },
+        {
+            "id": 4475430,
+            "content_html": "",
+            "title": "美国联邦政府停摆已持续至11月3日，共34天，成为历史上持续时间第二长的停摆事件，仅比2018-2019年创下的35天最长停摆纪录少一天。",
+            "date_modified": "2025-11-03T20:01:25.000Z"
+        },
+        {
+            "id": 4475429,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0459712.d.html",
+            "title": "美国参议院共和党领袖图恩：已经与特朗普详细讨论了阻挠议事的问题。",
+            "date_modified": "2025-11-03T20:00:00.000Z"
+        },
+        {
+            "id": 4475428,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0827647.d.html",
+            "title": "美国参议院共和党领袖图恩：结束阻挠议事的投票票数不足。",
+            "date_modified": "2025-11-03T19:59:44.000Z"
+        },
+        {
+            "id": 4475427,
+            "content_html": "",
+            "title": "泽连斯基：与欧盟委员会主席冯德莱恩进行了一次愉快的交谈。明天，欧盟扩大计划中的2025年度报告将会发布。我们讨论了乌克兰在加入欧盟的道路上所取得的进展，而且我们完全有理由期待一个积极的结果。",
+            "date_modified": "2025-11-03T19:59:16.000Z"
+        },
+        {
+            "id": 4475426,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5018564.d.html",
+            "title": "美国地质调查局：俄罗斯奥泽尔诺夫斯基区以东138公里处发生5.5级地震。",
+            "date_modified": "2025-11-03T19:58:15.000Z"
+        },
+        {
+            "id": 4475425,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5018337.d.html",
+            "title": "布伦特原油期货结算价报每桶64.89美元，上涨12美分，涨幅0.19%。",
+            "date_modified": "2025-11-03T19:53:25.000Z"
+        },
+        {
+            "id": 4475424,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0459504.d.html",
+            "title": "阿根廷政府：10月税收收入达16.166万亿比索。",
+            "date_modified": "2025-11-03T19:52:20.000Z"
+        },
+        {
+            "id": 4475423,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1970704.d.html",
+            "title": "美联储理事库克：就当前情况而言，这一切终将过去。",
+            "date_modified": "2025-11-03T19:52:10.000Z"
+        },
+        {
+            "id": 4475422,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0459467.d.html",
+            "title": "美联储理事库克：将执行国会赋予的任务，捍卫美联储的双重使命。",
+            "date_modified": "2025-11-03T19:51:53.000Z"
+        },
+        {
+            "id": 4475421,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5018207.d.html",
+            "title": "美联储理事库克： 美联储的独立性是值得追求的目标。",
+            "date_modified": "2025-11-03T19:51:45.000Z"
+        },
+        {
+            "id": 4475420,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1970635.d.html",
+            "title": "美联储理事库克：如果所涉及的原则是值得坚守的，你就得学会不在乎外界的质疑。",
+            "date_modified": "2025-11-03T19:50:56.000Z"
+        },
+        {
+            "id": 4475419,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5018091.d.html",
+            "title": "美联储理事库克：公共服务值得承受随之而来的审查。",
+            "date_modified": "2025-11-03T19:50:04.000Z"
+        },
+        {
+            "id": 4475418,
+            "content_html": "",
+            "title": "美国航空公司组织称，自政府停摆开始以来，超320万名美国航空公司乘客因空中交通管制人员配备问题遭遇航班延误或取消。",
+            "date_modified": "2025-11-03T19:49:05.000Z"
+        },
+        {
+            "id": 4475417,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0827065.d.html",
+            "title": "美联储理事库克：美联储目前的两大使命相互冲突，正密切关注两方面的风险。",
+            "date_modified": "2025-11-03T19:48:58.000Z"
+        },
+        {
+            "id": 4475416,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0826936.d.html",
+            "title": "美联储理事库克：担心劳动力市场，因为它可能会迅速恶化。",
+            "date_modified": "2025-11-03T19:46:44.000Z"
+        },
+        {
+            "id": 4475415,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0826904.d.html",
+            "title": "美联储理事库克：如果通胀被证明更具持续性，将准备好采取行动。",
+            "date_modified": "2025-11-03T19:46:08.000Z"
+        },
+        {
+            "id": 4475414,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0826877.d.html",
+            "title": "美联储理事库克：还通过纽约联邦储备银行及其他调查密切关注通胀预期情况。",
+            "date_modified": "2025-11-03T19:45:39.000Z"
+        },
+        {
+            "id": 4475413,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0459216.d.html",
+            "title": "美联储理事库克：密切关注关税影响，以了解企业和家庭的反应。",
+            "date_modified": "2025-11-03T19:45:11.000Z"
+        },
+        {
+            "id": 4475412,
+            "content_html": "",
+            "title": "德国总理默茨邀请叙利亚政权领导人沙拉阿前往德国，商讨将有犯罪记录的叙利亚公民驱逐出境的事宜。",
+            "date_modified": "2025-11-03T19:44:23.000Z"
+        },
+        {
+            "id": 4475411,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1970215.d.html",
+            "title": "【巴勒斯坦前领导人阿拉法特故居在战火中被损毁】近日，在遍地废墟的加沙城，巴勒斯坦前领导人阿拉法特的故居，也在以色列的袭击中遭到破坏。阿拉法特故居位于加沙城，距离港口不远。如今这座建筑已经是残垣断壁。残存的墙壁上，还有阿拉法特的石刻。阿拉法特2004年去世后，这里变成了博物馆。在朝向街道的大门上，贴着一张有阿拉法特照片的海报。",
+            "date_modified": "2025-11-03T19:41:25.000Z"
+        },
+        {
+            "id": 4475410,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5017149.d.html",
+            "title": "美联储理事库克：对于12月的利率决策而言，及时行动并使用最新的实时数据至关重要。",
+            "date_modified": "2025-11-03T19:39:17.000Z"
+        },
+        {
+            "id": 4475408,
+            "content_html": "",
+            "title": "美联储理事库克：资产估值处于高位与风险溢价较低之间存在矛盾，但政策仍然具有紧缩性。",
+            "date_modified": "2025-11-03T19:38:43.000Z"
+        },
+        {
+            "id": 4475407,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0825717.d.html",
+            "title": "美联储理事库克：希望确保监管要求得到最大程度的落实。",
+            "date_modified": "2025-11-03T19:36:00.000Z"
+        },
+        {
+            "id": 4475406,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5016627.d.html",
+            "title": "美国地质调查局：日本山田町以东136公里处发生5.2级地震。",
+            "date_modified": "2025-11-03T19:35:22.000Z"
+        },
+        {
+            "id": 4475405,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0825542.d.html",
+            "title": "美联储理事库克：目前失业率有所上升，这确实值得我们担忧。",
+            "date_modified": "2025-11-03T19:34:34.000Z"
+        },
+        {
+            "id": 4475404,
+            "content_html": "",
+            "title": "美联储理事库克：根据众多实时消息来源，招聘正在放缓，无需等待就业报告来证实这一点。",
+            "date_modified": "2025-11-03T19:33:56.000Z"
+        },
+        {
+            "id": 4475403,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1969247.d.html",
+            "title": "【分析师预测：英伟达市值有望达8.5万亿美元】在成为首家市值突破5万亿美元的公司之后，至少一位分析师预测，英伟达市值有望再增长数万亿美元。Loop Capital Markets周一将英伟达目标股价从250美元上调至350美元，为华尔街当前最高预测。这一新目标相较于英伟达最新收盘价202.49美元高出逾70%，对应的市值将超过8.5万亿美元。当前市场对英伟达的平均目标价为231美元。。",
+            "date_modified": "2025-11-03T19:31:44.000Z"
+        },
+        {
+            "id": 4475402,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0825023.d.html",
+            "title": "美国原油期货收于每桶61.05美元，上涨7美分，涨幅0.11%。",
+            "date_modified": "2025-11-03T19:31:05.000Z"
+        },
+        {
+            "id": 4475401,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0457968.d.html",
+            "title": "美联储理事库克：希望联邦债务的走势在不久的将来会有所改变。",
+            "date_modified": "2025-11-03T19:30:59.000Z"
+        },
+        {
+            "id": 4475400,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1969102.d.html",
+            "title": "【冯德莱恩：欧盟将向乌克兰提供紧急能源援助】当地时间11月3日，欧盟委员会主席冯德莱恩在社交媒体发文表示，当天，她与乌克兰总统泽连斯基进行通话。她表示，欧盟将向乌克兰提供紧急能源援助，以帮助其度过冬季。",
+            "date_modified": "2025-11-03T19:30:07.000Z"
+        },
+        {
+            "id": 4475399,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0457823.d.html",
+            "title": "美联储理事库克：对于任何像私人信贷这样快速增长的事物，我都会感到担忧。",
+            "date_modified": "2025-11-03T19:29:12.000Z"
+        },
+        {
+            "id": 4475398,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0457791.d.html",
+            "title": "美联储理事库克：金融稳定面临的风险“无处不在”。",
+            "date_modified": "2025-11-03T19:28:23.000Z"
+        },
+        {
+            "id": 4475397,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0457780.d.html",
+            "title": "日本近海发生5.2级地震。",
+            "date_modified": "2025-11-03T19:28:09.000Z"
+        },
+        {
+            "id": 4475396,
+            "content_html": "",
+            "title": "美联储理事库克：如果人工智能能够提高生产率，从长远来看，它应该会对通胀产生积极影响，但采用的速度很关键。",
+            "date_modified": "2025-11-03T19:27:08.000Z"
+        },
+        {
+            "id": 4475394,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5015730.d.html",
+            "title": "美联储理事库克：生成式人工智能有可能彻底改变生产力水平。",
+            "date_modified": "2025-11-03T19:26:28.000Z"
+        },
+        {
+            "id": 4475391,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0824710.d.html",
+            "title": "美联储理事库克：人工智能可能会对劳动力市场造成重大负面影响。",
+            "date_modified": "2025-11-03T19:25:45.000Z"
+        },
+        {
+            "id": 4475390,
+            "content_html": "",
+            "title": "美联储理事库克：生成式人工智能可能会成为推动生产率增长的关键因素，不过目前仍不清楚其具体影响如何。",
+            "date_modified": "2025-11-03T19:25:22.000Z"
+        },
+        {
+            "id": 4475389,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyv5015636.d.html",
+            "title": "美联储理事库克：就正在进行的法律案件进一步置评“不合适” 。",
+            "date_modified": "2025-11-03T19:24:23.000Z"
+        },
+        {
+            "id": 4475388,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1968870.d.html",
+            "title": "美联储理事库克：随着政府停摆持续，评估经济状况将变得更加困难。",
+            "date_modified": "2025-11-03T19:23:40.000Z"
+        },
+        {
+            "id": 4475386,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1968834.d.html",
+            "title": "美联储理事库克：私人数据存在一个局限性，即它是以目前发布延迟的政府数据为基准的。",
+            "date_modified": "2025-11-03T19:22:55.000Z"
+        },
+        {
+            "id": 4475384,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1968815.d.html",
+            "title": "美联储理事库克：美联储会使用大量的替代数据，所有这些数据都值得纳入考量。",
+            "date_modified": "2025-11-03T19:22:30.000Z"
+        },
+        {
+            "id": 4475382,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0457580.d.html",
+            "title": "【联合国：苏丹超2100万人处于严重粮食不安全状态】当地时间11月3日，联合国发布最新报告，显示苏丹面临严峻的粮食危机，超过2100万人处于严重粮食不安全状态，全国有22个地区面临饥荒风险。",
+            "date_modified": "2025-11-03T19:22:10.000Z"
+        },
+        {
+            "id": 4475380,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzc0457527.d.html",
+            "title": "美联储理事库克：我们并未看到劳动力市场出现大规模的薪资下调现象。",
+            "date_modified": "2025-11-03T19:20:51.000Z"
+        },
+        {
+            "id": 4475379,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemyz1968728.d.html",
+            "title": "美联储理事库克：美联储政策始终是一种平衡之举。",
+            "date_modified": "2025-11-03T19:20:30.000Z"
+        },
+        {
+            "id": 4475378,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwemzf0824429.d.html",
+            "title": "美联储理事库克：联邦政府目前所处的状况是其各项职责存在冲突。",
+            "date_modified": "2025-11-03T19:20:20.000Z"
+        },
+        {
+            "id": 4475375,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0588182.d.html",
+            "title": "美联储理事库克：将继续代表美国人民履行宣誓职责。",
+            "date_modified": "2025-11-03T19:18:11.000Z"
+        },
+        {
+            "id": 4475374,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0588119.d.html",
+            "title": "美联储理事库克：不会进一步置评特朗普试图解雇一事。",
+            "date_modified": "2025-11-03T19:17:41.000Z"
+        },
+        {
+            "id": 4475373,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0588092.d.html",
+            "title": "美联储理事库克：感激在与政府的法律纠纷期间人们给予的支持。",
+            "date_modified": "2025-11-03T19:17:33.000Z"
+        },
+        {
             "id": 4475368,
             "content_html": "",
             "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1205元，较上周五夜盘收盘跌5点。成交量452.59亿美元。",
@@ -275,405 +677,6 @@
             "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0949531.d.html",
             "title": "【加沙问题部长级会议呼吁维护加沙和平进程】当地时间11月3日，加沙问题部长级会议在土耳其伊斯坦布尔召开。土耳其外长费丹主持会议，阿联酋、卡塔尔、沙特、约旦、巴基斯坦以及印尼代表与会。费丹在会后表示，任何借口都不能成为阻碍加沙地带和平进程的理由，任何破坏停火、破坏和平的行为都不应被容忍。费丹说，关于向加沙地带部署“国际稳定部队”的多边磋商仍在进行，有意参与的国家普遍认为，应在联合国安理会通过相关决议、明确部队职责后，再决定是否派遣人员。费丹还表示，巴勒斯坦伊斯兰抵抗运动（哈马斯）已表示愿将加沙地带治理权移交给巴勒斯坦联合委员会。各方也一致认为，如设立“国际稳定部队”，相关进程应与巴方协调进行。（央视新闻）",
             "date_modified": "2025-11-03T18:17:33.000Z"
-        },
-        {
-            "id": 4475297,
-            "content_html": "",
-            "title": "周一（11月3日），美联储隔夜逆回购协议（RRP）使用规模为237.92亿美元，上个交易日报518.02亿美元。",
-            "date_modified": "2025-11-03T18:16:18.000Z"
-        },
-        {
-            "id": 4475294,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5140162.d.html",
-            "title": "【伊拉克总理称国际联盟计划于2026年9月前撤军】当地时间11月3日晚，据伊拉克总理媒体办公室声明，伊拉克总理苏达尼表示，极端组织对伊拉克的威胁已显著降低，以打击极端组织“伊斯兰国”为任务的国际联盟计划在2026年9月前从伊拉克撤出。苏达尼表示，伊拉克承诺将所有武器置于国家控制之下，但只要美国主导的国际联盟部队仍驻留在该国，这一目标就无法实现。苏达尼还表示，伊拉克和叙利亚正开展协调合作，共同应对极端组织威胁。（央视新闻）",
-            "date_modified": "2025-11-03T18:12:50.000Z"
-        },
-        {
-            "id": 4475288,
-            "content_html": "",
-            "title": "美联储戴利：劳动力市场疲软正在加剧，以牺牲数百万个就业岗位为代价将通胀率降至2%将是不幸的。",
-            "date_modified": "2025-11-03T18:05:16.000Z"
-        },
-        {
-            "id": 4475286,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2093902.d.html",
-            "title": "美国钢铁公司：预计该项目的建设将带来250个工作岗位。",
-            "date_modified": "2025-11-03T18:03:31.000Z"
-        },
-        {
-            "id": 4475285,
-            "content_html": "",
-            "title": "BNSF报告称，德克萨斯州蒂格附近发生列车脱轨事故，导致主线铁路中断；表示预计重新开放时间尚未确定。",
-            "date_modified": "2025-11-03T18:03:21.000Z"
-        },
-        {
-            "id": 4475284,
-            "content_html": "",
-            "title": "美国钢铁公司将向阿拉巴马州工厂投资 7500 万美元，安装一条新的优质螺纹钢生产线，以推动美国制造业发展。",
-            "date_modified": "2025-11-03T18:03:06.000Z"
-        },
-        {
-            "id": 4475281,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0582534.d.html",
-            "title": "【台风“海鸥”登陆菲律宾南莱特省】据菲律宾国家气象局消息，当地时间11月4日0时，今年第25号台风“海鸥”在菲律宾南莱特省西拉戈镇登陆，登陆强度为台风级别。",
-            "date_modified": "2025-11-03T18:01:51.000Z"
-        },
-        {
-            "id": 4475279,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0582442.d.html",
-            "title": "美联储戴利：美联储正试图平衡政策利率以降低通货膨胀。",
-            "date_modified": "2025-11-03T18:00:55.000Z"
-        },
-        {
-            "id": 4475276,
-            "content_html": "",
-            "title": "美联储戴利：鉴于劳动力市场走软，支出数据目前面临更多脆弱性。经济形势良好，但也更为脆弱。",
-            "date_modified": "2025-11-03T17:57:35.000Z"
-        },
-        {
-            "id": 4475275,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2093510.d.html",
-            "title": "意大利10月预算赤字197亿欧元。",
-            "date_modified": "2025-11-03T17:57:12.000Z"
-        },
-        {
-            "id": 4475273,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0582275.d.html",
-            "title": "【几内亚总统敦布亚宣布参加12月总统选举】当地时间11月3日，几内亚总统马马迪·敦布亚正式宣布，将参加该国12月28日举行的总统选举。2021年9月，几内亚时任总统孔戴被军方推翻，敦布亚领导成立的过渡政府执政至今。敦布亚今年9月27日晚通过国家电视台颁布行政令，正式确定于12月28日举行总统选举。（央视新闻）",
-            "date_modified": "2025-11-03T17:56:46.000Z"
-        },
-        {
-            "id": 4475272,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5138476.d.html",
-            "title": "【金佰利将以400亿美元收购泰诺生产商科赴 特朗普曾警示泰诺风险】金佰利同意以约400亿美元收购陷入困境的泰诺制造商科赴，此举将使这家舒洁纸巾生产商跻身消费健康行业前列。\n金佰利将以每股21.01美元的对价收购科赴，较科赴上周五收盘价溢价46%。两家公司表示，按企业价值计算，这笔交易对科赴的估值约487亿美元。这笔交易令金佰利面临法律和政治风险。科赴2023年自强生分拆以来，财务状况一直不佳，目前正因其最大产品泰诺的安全性问题与特朗普政府陷入愈演愈烈的交锋。今年以来，科赴股价累计下跌近33%。\n金佰利表示，合并后公司收入将达到320亿美元，规模将超越联合利华，成为仅次于宝洁的第二大健康和保健产品销售商。\n金佰利股价在纽约暴跌14%，创下自2000年以来最大单日跌幅。与此同时，科赴股价开盘飙升20%，至17.18美元，仍低于发行价。",
-            "date_modified": "2025-11-03T17:56:25.000Z"
-        },
-        {
-            "id": 4475271,
-            "content_html": "",
-            "title": "LME期铜收跌32美元，报10855美元/吨。\nLME期铝收涨18美元，报2902美元/吨。\nLME期锌收涨44美元，报3100美元/吨。\nLME期铅收涨10美元，报2027美元/吨。\nLME期镍收跌84美元，报15142美元/吨。\nLME期锡收跌39美元，报36047美元/吨。\nLME期钴收平，报48570美元/吨。",
-            "date_modified": "2025-11-03T17:52:29.000Z"
-        },
-        {
-            "id": 4475269,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0582004.d.html",
-            "title": "美联储戴利：对经济韧性感到惊喜和欣慰。",
-            "date_modified": "2025-11-03T17:50:56.000Z"
-        },
-        {
-            "id": 4475268,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2093208.d.html",
-            "title": "墨西哥10月非制造业指数50.4。",
-            "date_modified": "2025-11-03T17:50:43.000Z"
-        },
-        {
-            "id": 4475267,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2093198.d.html",
-            "title": "纽约州总检察长詹姆斯：起诉美国教育部 “将公共服务贷款减免计划武器化”。",
-            "date_modified": "2025-11-03T17:50:25.000Z"
-        },
-        {
-            "id": 4475266,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0947071.d.html",
-            "title": "墨西哥 10 月制造业指数为 47.2。",
-            "date_modified": "2025-11-03T17:49:59.000Z"
-        },
-        {
-            "id": 4475258,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2092854.d.html",
-            "title": "美联储戴利：如果等到就业市场报告来告诉你劳动力市场是否疲软，那你就已经落后了。",
-            "date_modified": "2025-11-03T17:45:16.000Z"
-        },
-        {
-            "id": 4475257,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0946525.d.html",
-            "title": "【美国季度纸箱销量创十年来同期最低 恐预示假日零售情况疲软】美国纸箱销量持续放缓，进一步加剧外界对今年假日季零售疲软的担忧。根据行业组织美国瓦楞纸箱协会周五公布的数据，第三季度瓦楞纸箱出货量跌至2015年以来历年同期最低水平，延续了前一季度的低迷趋势。近几周，多家包装企业警告称，经济不确定性正压制零售商与消费者的支出意愿。瓦楞纸箱主要用于商品运输包装和门店陈列布置，其出货量常被视为食品和消费品需求的先行指标。每年这个时段对纸箱行业至关重要，出货量通常在10月达到高峰，以配合零售商为假日季做准备。彭博行业研究对纸箱厂商的调查显示，10月订单持平或低于正常水平。与此同时，美国消费者信心指数降至五个月低点，制造业活动连续第八个月下滑。包装公司Packaging Corp of America的总裁Thomas Hassfurther上月表示：“显然，当前的经济并没有为我们带来太多提振。不断反复的关税政策以及其他一系列问题确实对经营造成了影响。”",
-            "date_modified": "2025-11-03T17:42:29.000Z"
-        },
-        {
-            "id": 4475256,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0581321.d.html",
-            "title": "美联储戴利：我将疲软区域视为领先指标。",
-            "date_modified": "2025-11-03T17:41:52.000Z"
-        },
-        {
-            "id": 4475255,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2092482.d.html",
-            "title": "加拿大政府：加拿大和巴基斯坦同意为加拿大油菜籽出口至巴基斯坦提供便利。",
-            "date_modified": "2025-11-03T17:41:43.000Z"
-        },
-        {
-            "id": 4475251,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5136792.d.html",
-            "title": "周一（11月3日），韩元兑美元最终涨0.07%，报1430.56韩元。",
-            "date_modified": "2025-11-03T17:36:37.000Z"
-        },
-        {
-            "id": 4475249,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0945160.d.html",
-            "title": "【股票交易员领跑今年华尔街奖金榜 奖金池料增14%创十年新高】根据Options Group的一份最新报告，各家银行发放今年的奖金时，股票交易员预计将成为大赢家，奖金总额将比去年高近14%。\n该招聘机构的报告显示，此番涨幅将使该业务奖金达到十年来的最高水平，而全球固定收益交易员的平均涨幅仅为2.9%。投行人员的奖金增幅预计约为12%，也是十年来的最佳。\n“股票和投行业务无疑是大赢家，”Options Group首席执行官Michael Karp在接受采访时表示。“银行深知，必须要犒赏员工，”他强调，称需要确保“私募股权、私人信贷以及所有这些寻求在美国扩张的二三线机构不会挖走他们的人才。” \n 该报告与纽约州审计长Thomas DiNapoli上月的预测相符。后者表示，随着纽约证券交易所130家会员公司的利润有望创下历史新高，华尔街奖金池可能将刷新纪录。",
-            "date_modified": "2025-11-03T17:33:08.000Z"
-        },
-        {
-            "id": 4475247,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5135617.d.html",
-            "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
-            "date_modified": "2025-11-03T17:30:32.000Z"
-        },
-        {
-            "id": 4475246,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2091363.d.html",
-            "title": "Point72成立新的证券部门，该公司资产管理规模已经激增至420亿美元。",
-            "date_modified": "2025-11-03T17:30:15.000Z"
-        },
-        {
-            "id": 4475245,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2091353.d.html",
-            "title": "【以军称打死一名黎真主党精锐部队指挥官】当地时间11月3日晚间，以色列国防军发布战报称，当天早些时候，在黎巴嫩南部奈拜提耶地区，以军袭击并打死黎真主党精锐拉德万部队的指挥官穆罕默德·阿里·哈迪德。以军称其曾策划多起针对以色列的袭击，并试图重建黎真主党军事基础设施。此外，以军战报称还打死另一名黎真主党成员，并称此人被发现时正在收集以军情报。以军称，黎真主党这些行为违反以黎之间的谅解协议。黎真主党对此暂无回应。（央视新闻）",
-            "date_modified": "2025-11-03T17:30:09.000Z"
-        },
-        {
-            "id": 4475244,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2091326.d.html",
-            "title": "【欧元区主权债收益率普遍涨超2个基点】周一（11月3日）欧市尾盘，德国10年期国债收益率涨3.4个基点，报2.667%，日内交投于2.634%-2.667%区间，全天处于上涨状态，持续震荡上行。\n两年期德债收益率涨2.9个基点，报1.998%，“跳空高开”之后，在北京时间15:59（欧股开盘前一分钟）微幅回落至1.973%刷新日低，18:30之前持续低位震荡，之后持续走高，00:59达到1.998%；30年期德债收益率涨4.0个基点，报3.251%。\n2/10年期德债收益率利差涨0.413个基点，报+66.687个基点。",
-            "date_modified": "2025-11-03T17:28:56.000Z"
-        },
-        {
-            "id": 4475240,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2091163.d.html",
-            "title": "美联储戴利：将权衡风险，目前通胀率仍维持在3%左右。",
-            "date_modified": "2025-11-03T17:23:49.000Z"
-        },
-        {
-            "id": 4475239,
-            "content_html": "",
-            "title": "美联储戴利：我们掌握的信息比过去少了，但仍能根据需要做出决策。劳动力市场看起来并未处于危境边缘。",
-            "date_modified": "2025-11-03T17:23:32.000Z"
-        },
-        {
-            "id": 4475238,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0944059.d.html",
-            "title": "美联储戴利：展望未来需要与人交流。",
-            "date_modified": "2025-11-03T17:20:52.000Z"
-        },
-        {
-            "id": 4475237,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5135011.d.html",
-            "title": "美联储戴利：政府数据并非我们获取的唯一数据。",
-            "date_modified": "2025-11-03T17:20:41.000Z"
-        },
-        {
-            "id": 4475236,
-            "content_html": "",
-            "title": "欧元兑美元上涨0.02%，报1.1535美元。 英镑兑美元汇率下跌0.15%，报1.3150美元。",
-            "date_modified": "2025-11-03T17:18:08.000Z"
-        },
-        {
-            "id": 4475235,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579624.d.html",
-            "title": "美元指数下跌，最新报99.76，跌幅0.04%。",
-            "date_modified": "2025-11-03T17:17:45.000Z"
-        },
-        {
-            "id": 4475234,
-            "content_html": "",
-            "title": "美联储戴利：每个人都应该希望联邦公开市场委员会（FOMC）展开辩论并存在不同意见。",
-            "date_modified": "2025-11-03T17:17:25.000Z"
-        },
-        {
-            "id": 4475233,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579558.d.html",
-            "title": "美联储戴利：当世界局势不明朗时，通常会出现意见分歧。",
-            "date_modified": "2025-11-03T17:16:57.000Z"
-        },
-        {
-            "id": 4475232,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0943754.d.html",
-            "title": "美联储戴利：需要在不损害就业的前提下继续抑制通胀。",
-            "date_modified": "2025-11-03T17:16:46.000Z"
-        },
-        {
-            "id": 4475231,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2090730.d.html",
-            "title": "美联储戴利：美联储的分歧没有比以前更大，甚至都不会用“分歧”这个词。",
-            "date_modified": "2025-11-03T17:16:18.000Z"
-        },
-        {
-            "id": 4475230,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0943672.d.html",
-            "title": "美联储戴利：需要做出权衡风险的决策.",
-            "date_modified": "2025-11-03T17:15:34.000Z"
-        },
-        {
-            "id": 4475229,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5134603.d.html",
-            "title": "美联储戴利：今年降息50个基点将使美联储处于更有利地位。",
-            "date_modified": "2025-11-03T17:14:58.000Z"
-        },
-        {
-            "id": 4475228,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579443.d.html",
-            "title": "美联储戴利：对12月的决策持开放态度。",
-            "date_modified": "2025-11-03T17:14:47.000Z"
-        },
-        {
-            "id": 4475227,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579431.d.html",
-            "title": "美联储戴利：需保持政策适度从紧。",
-            "date_modified": "2025-11-03T17:14:34.000Z"
-        },
-        {
-            "id": 4475226,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5134549.d.html",
-            "title": "美联储戴利：劳动力市场已明显走软。",
-            "date_modified": "2025-11-03T17:14:13.000Z"
-        },
-        {
-            "id": 4475225,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5134523.d.html",
-            "title": "美国司法部：11月份食品援助福利的50%资金已到位。",
-            "date_modified": "2025-11-03T17:13:56.000Z"
-        },
-        {
-            "id": 4475224,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579389.d.html",
-            "title": "美联储戴利：通胀率仍高于目标水平，需要将其降下来。",
-            "date_modified": "2025-11-03T17:13:44.000Z"
-        },
-        {
-            "id": 4475223,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0579367.d.html",
-            "title": "美联储戴利：降息是恰当的，支持降息。",
-            "date_modified": "2025-11-03T17:13:32.000Z"
-        },
-        {
-            "id": 4475222,
-            "content_html": "",
-            "title": "特朗普政府：在法官裁决要求食品援助计划继续实施后，SNAP（补充营养援助计划）将获得部分资金。",
-            "date_modified": "2025-11-03T17:10:30.000Z"
-        },
-        {
-            "id": 4475221,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5134084.d.html",
-            "title": "法庭文件显示，美国农业部将动用应急资金部分支付11月份的SNAP食品券福利。",
-            "date_modified": "2025-11-03T17:09:36.000Z"
-        },
-        {
-            "id": 4475220,
-            "content_html": "",
-            "title": "Amkor股价上涨16%，创7月份以来最大盘中涨幅，英伟达CEO黄仁勋在接受福克斯新闻采访时提到该公司。",
-            "date_modified": "2025-11-03T17:07:03.000Z"
-        },
-        {
-            "id": 4475219,
-            "content_html": "",
-            "title": "国际铜夜盘收跌0.10%，沪铜收跌0.10%，沪铝收涨0.42%，沪锌收涨0.82%，沪铅收涨0.20%，沪镍收跌0.23%，沪锡收跌0.25%。氧化铝夜盘收涨0.33%，铝合金收跌0.18%。不锈钢夜盘收跌0.59%。",
-            "date_modified": "2025-11-03T17:05:34.000Z"
-        },
-        {
-            "id": 4475218,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2090018.d.html",
-            "title": "乌克兰总统泽连斯基：美国团队下周将访问乌克兰，就无人机协议进行谈判。",
-            "date_modified": "2025-11-03T17:05:25.000Z"
-        },
-        {
-            "id": 4475217,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefsx5133508.d.html",
-            "title": "意大利交通部：10月份特斯拉在意大利的新车注册量同比下降47.11%。今年1 - 10月，特斯拉新车在意大利的注册量较2024年同期下降了32.89%。",
-            "date_modified": "2025-11-03T17:04:17.000Z"
-        },
-        {
-            "id": 4475216,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2089833.d.html",
-            "title": "乌克兰总统泽连斯基：乌克兰天然气进口仍需7.5亿美元资金。",
-            "date_modified": "2025-11-03T17:04:06.000Z"
-        },
-        {
-            "id": 4475215,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftc2089666.d.html",
-            "title": "Meta：允许Facebook群组管理员选择将其群组从私密状态转为公开状态。",
-            "date_modified": "2025-11-03T17:02:55.000Z"
-        },
-        {
-            "id": 4475214,
-            "content_html": "",
-            "title": "美国大约24个州起诉总统特朗普的政府，指控其对公职人员限制（前总统拜登出台的）学生贷款的免除政策。",
-            "date_modified": "2025-11-03T17:02:39.000Z"
-        },
-        {
-            "id": 4475213,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infweftf0578422.d.html",
-            "title": "LAMBDA：战略合作意味着英伟达将在未来多年进行大规模人工智能基础设施部署。",
-            "date_modified": "2025-11-03T17:02:32.000Z"
-        },
-        {
-            "id": 4475212,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwefti0942202.d.html",
-            "title": "乌克兰总统泽连斯基：海上无人机、火炮系统均在乌克兰可出口武器之列。",
-            "date_modified": "2025-11-03T17:02:09.000Z"
-        },
-        {
-            "id": 4475211,
-            "content_html": "",
-            "title": "乌克兰总统泽连斯基：乌克兰今年将在柏林和哥本哈根设立武器出口和联合生产办事处。俄罗斯正在波克罗夫斯克以北的多布罗皮利亚附近集结部队。美国代表团将于下周访问乌克兰，就无人机交易进行谈判。",
-            "date_modified": "2025-11-03T17:01:41.000Z"
-        },
-        {
-            "id": 4475210,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwczmf2220228.d.html",
-            "title": "乌克兰总统泽连斯基：在通话中与冯德莱恩就乌克兰能源问题进行了讨论。",
-            "date_modified": "2025-11-03T17:01:03.000Z"
-        },
-        {
-            "id": 4475209,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-04/detail-infwczmf2220225.d.html",
-            "title": "乌克兰总统泽连斯基：欧盟将向乌克兰提供额外资金用于天然气进口。",
-            "date_modified": "2025-11-03T17:00:30.000Z"
         }
     ]
 }

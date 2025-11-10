@@ -4,11 +4,269 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 10 Nov 2025 16:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 17:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[乌克兰国家电力公司表示，乌克兰明日全天将执行停电计划，停电轮次为2至3.5轮。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5022688.d.html</link>
+            <guid>4490410</guid>
+            <pubDate>Mon, 10 Nov 2025 17:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[众议院少数党领袖杰弗里斯：有理由对共和党“深表怀疑”。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2708931.d.html</link>
+            <guid>4490409</guid>
+            <pubDate>Mon, 10 Nov 2025 17:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一名美国官员称，特朗普政府决心切断伊朗对真主党的资金支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1197672.d.html</link>
+            <guid>4490408</guid>
+            <pubDate>Mon, 10 Nov 2025 17:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国军方指挥官称，在特朗普促成的停火协议达成后，泰国已停止与柬埔寨的有关协议谈判。]]></title>
+            <guid>4490407</guid>
+            <pubDate>Mon, 10 Nov 2025 17:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[众议院少数党领袖杰弗里斯：舒默工作卓有成效，应当留任。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1197511.d.html</link>
+            <guid>4490406</guid>
+            <pubDate>Mon, 10 Nov 2025 17:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[众议院少数党领袖杰弗里斯：将继续努力争取延长《平价医疗法案》税收抵免。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5022199.d.html</link>
+            <guid>4490405</guid>
+            <pubDate>Mon, 10 Nov 2025 17:10:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：面向电视的Gemini功能将在未来几周内开始向谷歌电视流媒体设备推出。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2708556.d.html</link>
+            <guid>4490404</guid>
+            <pubDate>Mon, 10 Nov 2025 17:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“停摆”闹剧持续 美对乌武器交付或受阻】美国政府持续“停摆”带来的冲击日益加剧。有消息称，“停摆”还影响到美对乌克兰的武器交付，这可能会影响乌军前线的武器供应。美国国务院消息人士表示，由于政府“停摆”，美国国务院向国会通报军售的部门仅维持25%人力运作，包括“阿姆拉姆”空空导弹、“海马斯”火箭炮系统在内的大批对欧军售项目积压，受影响的武器出口总额超50亿美元。尽管该消息人士未明确提及乌克兰，但美国对乌克兰出口的武器通常通过北约成员国转运。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1196961.d.html</link>
+            <guid>4490403</guid>
+            <pubDate>Mon, 10 Nov 2025 17:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑瑞郎短线走低，日内整体涨幅收窄至不足0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1196896.d.html</link>
+            <guid>4490402</guid>
+            <pubDate>Mon, 10 Nov 2025 17:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士据称即将与美国达成15%的关税协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2554630.d.html</link>
+            <guid>4490401</guid>
+            <pubDate>Mon, 10 Nov 2025 17:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国科研团队提出原子量子计算新架构 实现单个原子快速精准操控】从中国科学院精密测量科学与技术创新研究院获悉，该院詹明生、许鹏团队在中性原子量子计算领域取得重要进展。该团队创新性提出并在实验中验证了一种基于光纤阵列的原子量子计算新架构，解决了原子量子计算难以同时实现高并行、高速率和高稳定性寻址操控的难题。相关成果发表在《自然-通讯》上。研究团队负责人研究员许鹏介绍道，在原型系统中，团队在光纤阵列形成的光阱里稳定囚禁了10个单原子，首次在二维原子阵列中展示了高保真的“任意单比特门”并行操控，并清晰观测到两原子的里德堡阻塞效应——这是实现高保真两比特门的关键物理基础。“该架构可以通过复制通道来扩大规模，并且兼容集成光子芯片，为迈向大规模中性原子量子计算提供了新的路径。”许鹏说。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1196350.d.html</link>
+            <guid>4490400</guid>
+            <pubDate>Mon, 10 Nov 2025 17:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统辛鲍姆的关税方案遭到了党派和商界的反对。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2554357.d.html</link>
+            <guid>4490399</guid>
+            <pubDate>Mon, 10 Nov 2025 17:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西电信服务商Oi股价下跌29%，此前法院宣布其破产。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2554188.d.html</link>
+            <guid>4490398</guid>
+            <pubDate>Mon, 10 Nov 2025 17:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨0.25%，沪铜收涨0.20%，沪铝收涨0.12%，沪锌收涨0.46%，沪铅收涨0.20%，沪镍收平，沪锡收涨0.31%。氧化铝夜盘收涨0.68%，铝合金收涨0.14%。不锈钢夜盘收跌0.28%。]]></title>
+            <guid>4490397</guid>
+            <pubDate>Mon, 10 Nov 2025 17:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司：取消受限股票单位和留任奖金，以便为国际机械师和航空航天工作者协会（IAM）的员工提前提供更多现金。]]></title>
+            <guid>4490396</guid>
+            <pubDate>Mon, 10 Nov 2025 17:01:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘期货收盘】国际铜夜盘收涨0.25%，沪铜收涨0.20%，沪铝收涨0.12%，沪锌收涨0.46%，沪铅收涨0.20%，沪镍收平，沪锡收涨0.31%。氧化铝夜盘收涨0.68%，铝合金收涨0.14%。不锈钢夜盘收跌0.04%。]]></title>
+            <guid>4490395</guid>
+            <pubDate>Mon, 10 Nov 2025 17:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国前总统萨科齐：真相终将大白。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2553870.d.html</link>
+            <guid>4490394</guid>
+            <pubDate>Mon, 10 Nov 2025 16:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副国务卿克里斯托弗·兰道：美国将在玻利维亚与多边贷款机构的谈判中提供支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1195216.d.html</link>
+            <guid>4490393</guid>
+            <pubDate>Mon, 10 Nov 2025 16:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国众议院议长约翰逊表示，他不会承诺就《平价医疗法案》补贴问题举行投票。]]></title>
+            <guid>4490392</guid>
+            <pubDate>Mon, 10 Nov 2025 16:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院议长约翰逊告知共和党人，有望在周三就临时拨款法案进行投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5019150.d.html</link>
+            <guid>4490391</guid>
+            <pubDate>Mon, 10 Nov 2025 16:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[匈牙利经济部长：美国金融保障措施可能包括互换合作、贷款安排、开发银行贷款、基础设施融资。]]></title>
+            <guid>4490390</guid>
+            <pubDate>Mon, 10 Nov 2025 16:49:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩释放了自2015年起被羁押的利比亚领导人卡扎菲之子。此人在缴纳了90万美元保释金后获释。]]></title>
+            <guid>4490389</guid>
+            <pubDate>Mon, 10 Nov 2025 16:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司：此前报价中的其他所有内容保持不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1192876.d.html</link>
+            <guid>4490388</guid>
+            <pubDate>Mon, 10 Nov 2025 16:46:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司：平均基本工资将从每年7.5万美元上涨至10.9万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1192838.d.html</link>
+            <guid>4490387</guid>
+            <pubDate>Mon, 10 Nov 2025 16:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司：加薪措施将在11月27日的工资单中体现出来。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2703964.d.html</link>
+            <guid>4490386</guid>
+            <pubDate>Mon, 10 Nov 2025 16:46:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司：重返工作岗位的第一天将是11月17日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5018448.d.html</link>
+            <guid>4490385</guid>
+            <pubDate>Mon, 10 Nov 2025 16:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司：将提供6000美元的协议批准奖金。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1192643.d.html</link>
+            <guid>4490384</guid>
+            <pubDate>Mon, 10 Nov 2025 16:45:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际奥委会主席考文垂：真切感受到顶尖的中国科技水平】10日，国际奥委会主席考文垂在深圳参访奥林匹克全球合作伙伴TCL时表示，“我真切感受到了顶尖的中国科技水平。” 她高度评价国际奥委会的中国合作伙伴，称“他们在科技水平和可持续发展上都走在世界前列，与奥林匹克秉持共同的可持续发展理念。”]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2703609.d.html</link>
+            <guid>4490383</guid>
+            <pubDate>Mon, 10 Nov 2025 16:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖图恩：将争取在参议院就《平价医疗法案》达成协议，并推动该协议提交至众议院。]]></title>
+            <guid>4490382</guid>
+            <pubDate>Mon, 10 Nov 2025 16:42:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖图恩：白宫参与了参议院拨款法案的制定工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1191801.d.html</link>
+            <guid>4490381</guid>
+            <pubDate>Mon, 10 Nov 2025 16:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖图恩：我预计特朗普将会签署参议院的临时拨款法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2702928.d.html</link>
+            <guid>4490380</guid>
+            <pubDate>Mon, 10 Nov 2025 16:40:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员桑德斯、布卢门撒尔要求（特朗普政府）就高电价问题作出答复。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1191476.d.html</link>
+            <guid>4490379</guid>
+            <pubDate>Mon, 10 Nov 2025 16:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦证券交易所集团裁减3000名工程师]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2702549.d.html</link>
+            <guid>4490378</guid>
+            <pubDate>Mon, 10 Nov 2025 16:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖图恩：期待尽快审议更多拨款法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1191244.d.html</link>
+            <guid>4490377</guid>
+            <pubDate>Mon, 10 Nov 2025 16:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟计划简化数据与人工智能相关法规，以助力企业发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2550515.d.html</link>
+            <guid>4490376</guid>
+            <pubDate>Mon, 10 Nov 2025 16:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[吉利德首席财务官表示，公司将继续积极开展业务拓展，包括授权合作和并购。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1190647.d.html</link>
+            <guid>4490375</guid>
+            <pubDate>Mon, 10 Nov 2025 16:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖图恩表示，希望临时拨款法案投票能在数小时内进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2701775.d.html</link>
+            <guid>4490374</guid>
+            <pubDate>Mon, 10 Nov 2025 16:34:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖六个月期国债，得标利率3.78%，投标倍数2.83。拍卖三个月期国债，得标利率3.69%，投标倍数2.95。]]></title>
+            <guid>4490373</guid>
+            <pubDate>Mon, 10 Nov 2025 16:32:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国最新分析：到2035年，每年排放到大气中的致全球变暖气体总量将比2019年水平减少12%，此前预估为减少10%。]]></title>
+            <guid>4490372</guid>
+            <pubDate>Mon, 10 Nov 2025 16:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大、挪威、澳大利亚等国以最强烈的措辞谴责所有暴行，并要求立即停止暴力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1189881.d.html</link>
+            <guid>4490371</guid>
+            <pubDate>Mon, 10 Nov 2025 16:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大、挪威、澳大利亚等国在声明中表示，他们对有关苏丹境内针对平民的系统性持续暴力行为的报道深感震惊。]]></title>
+            <guid>4490370</guid>
+            <pubDate>Mon, 10 Nov 2025 16:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其参与有关哈马斯武装分子在加沙地带藏身情况的谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1189667.d.html</link>
+            <guid>4490369</guid>
+            <pubDate>Mon, 10 Nov 2025 16:28:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟议会委员会支持2040年减排90%的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5015866.d.html</link>
+            <guid>4490368</guid>
+            <pubDate>Mon, 10 Nov 2025 16:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据高盛集团分析师称，全球18%的劳动力有可能被人工智能所取代。他们还估计，生成式人工智能能够取代或补充全球多达3亿个全职工作岗位。]]></title>
+            <guid>4490367</guid>
+            <pubDate>Mon, 10 Nov 2025 16:27:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯：联邦安全委员会副主席梅德韦杰夫就西北联邦管区多个地区的安全问题召开会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2549052.d.html</link>
+            <guid>4490366</guid>
+            <pubDate>Mon, 10 Nov 2025 16:26:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[巴里克黄金公司称，美国政府停摆正在延误雷科迪克项目的进出口银行融资。]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2548795.d.html</link>
@@ -331,253 +589,6 @@
             <title><![CDATA[尽管美联储近期降息，但国债收益率曲线自10月下旬以来全面上升，30年期抵押贷款利率小幅走高，这对金融服务控股公司Rocket Companies（RKT）等贷款机构构成阻力。]]></title>
             <guid>4490310</guid>
             <pubDate>Mon, 10 Nov 2025 15:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，美国连锁牛排馆餐馆公司得州公路酒吧（Texas Roadhouse，TXRH）股价下跌2.1%，此前该公司宣布将在11月11日退伍军人日假日期间向退伍军人和现役军人发放免费餐券，兑换有效期至2026年5月31日，此举是其年度退伍军人日计划的一部分。]]></title>
-            <guid>4490308</guid>
-            <pubDate>Mon, 10 Nov 2025 15:47:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空股价下跌1.7%，达美航空下跌1%，联合航空下跌1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhn2541936.d.html</link>
-            <guid>4490307</guid>
-            <pubDate>Mon, 10 Nov 2025 15:46:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：从向美国低收入和中等收入公民发放的2000美元款项中剩余的所有资金，以及从外国大量流入我国的关税收入（数额巨大）都将被用于大幅削减国家债务。]]></title>
-            <guid>4490306</guid>
-            <pubDate>Mon, 10 Nov 2025 15:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国严重欺诈办公室就西非石油合同问题起诉嘉能可前员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2693053.d.html</link>
-            <guid>4490305</guid>
-            <pubDate>Mon, 10 Nov 2025 15:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国人权事务负责人表示，目前举行缅甸选举“令人难以置信”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht5008337.d.html</link>
-            <guid>4490304</guid>
-            <pubDate>Mon, 10 Nov 2025 15:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[棒约翰复牌，股价上涨约10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhn2541546.d.html</link>
-            <guid>4490303</guid>
-            <pubDate>Mon, 10 Nov 2025 15:43:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国严重欺诈办公室对6名嘉能可前员工提起指控。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht1181593.d.html</link>
-            <guid>4490302</guid>
-            <pubDate>Mon, 10 Nov 2025 15:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒称俄或本周内控制库皮扬斯克】俄乌围绕哈尔科夫州库皮扬斯克的战斗仍在继续。据多家俄罗斯媒体11月10日报道称，俄军或将在本周内取得库皮扬斯克的控制权。乌方则表示，围绕库皮扬斯克的战斗仍在激烈进行。 库皮扬斯克位于奥斯基河河畔，为驻扎在该河东岸的乌军提供补给。库皮扬斯克地处交通和物流要道，位于连接哈尔科夫州两条公路的交汇处，取得该市的控制权将有助于俄军继续向西推进。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht5007957.d.html</link>
-            <guid>4490301</guid>
-            <pubDate>Mon, 10 Nov 2025 15:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，默沙东（MRK）下跌0.4%。该公司报告其每日一次PCSK9抑制剂恩利昔单抗(enlicitide)在他汀类药物基础上进一步降低低密度脂蛋白高达60%，疗效与注射剂相当，可能拓宽强化降脂治疗的可及性。]]></title>
-            <guid>4490300</guid>
-            <pubDate>Mon, 10 Nov 2025 15:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase全球公司：在宇宙网络（Cosmos Network）上，买卖交易以及法币提现/存款操作不受影响。]]></title>
-            <guid>4490299</guid>
-            <pubDate>Mon, 10 Nov 2025 15:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase全球公司：知悉部分用户在宇宙网络（Cosmos Network）上可能遇到收发延迟问题。]]></title>
-            <guid>4490298</guid>
-            <pubDate>Mon, 10 Nov 2025 15:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理内塔尼亚胡：加沙终将被解除武装——要么通过简单的方式，要么通过艰难的方式。]]></title>
-            <guid>4490297</guid>
-            <pubDate>Mon, 10 Nov 2025 15:40:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理内塔尼亚胡：决心将仍在加沙的4名人质接回；正不懈努力，争取将他们全部接回。]]></title>
-            <guid>4490296</guid>
-            <pubDate>Mon, 10 Nov 2025 15:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在关键美国经济报告因政府停摆延迟发布、且美联储12月政策动向前景仍不确定的背景下，美国国债收益率几无变动。分析师指出，投资者正通过iShares 20+年期国债ETF（TLT）等工具追踪市场。]]></title>
-            <guid>4490295</guid>
-            <pubDate>Mon, 10 Nov 2025 15:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联合航空公司和达美航空公司向空乘人员提供额外报酬，以鼓励他们执飞更多航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht5007387.d.html</link>
-            <guid>4490294</guid>
-            <pubDate>Mon, 10 Nov 2025 15:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛表示周一发表研报，在治理改革和人工智能相关优异表现推动下，美国投资者正增持日本资产，爱德万测试（Advantest，TYO:6857）、东京电子（Tokyo Electron，TYO:8035）和软银集团（SoftBank Group，TYO:9984）等芯片股带动日经指数上涨。]]></title>
-            <guid>4490293</guid>
-            <pubDate>Mon, 10 Nov 2025 15:37:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑欧元触及美国交易时段高位，欧元兑美元当日尾盘下跌0.11%，报1.1552美元。]]></title>
-            <guid>4490292</guid>
-            <pubDate>Mon, 10 Nov 2025 15:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：两名特斯拉高管离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2691938.d.html</link>
-            <guid>4490291</guid>
-            <pubDate>Mon, 10 Nov 2025 15:36:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，黄金生产商纽蒙特矿业公司（NEM）股价上涨4.3%。鉴于美元走软和政府停摆不确定性持续，黄金价格上涨并维持在4000美元/盎司上方。在金价高企的情况下，纽蒙特等生产商受到关注。]]></title>
-            <guid>4490290</guid>
-            <pubDate>Mon, 10 Nov 2025 15:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[棒约翰接近以每股65美元的价格被私有化收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2691670.d.html</link>
-            <guid>4490289</guid>
-            <pubDate>Mon, 10 Nov 2025 15:35:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，特斯拉（TSLA）股价上涨3.5%，此前该公司确认印度裔管西德汉特·阿瓦斯蒂(Siddhant Awasthi)在领导Cybertruck产能爬坡和Model 3项目后离职。该公司正持续推进产品和组织架构调整。]]></title>
-            <guid>4490288</guid>
-            <pubDate>Mon, 10 Nov 2025 15:34:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普的律师致信要求英国广播公司（BBC）在11月14日前撤回《全景》纪录片，否则将面临法律诉讼。]]></title>
-            <guid>4490287</guid>
-            <pubDate>Mon, 10 Nov 2025 15:34:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：上一届政府浪费了数十亿美元，试图修复那些陈旧的 烂摊子。他们根本不知道自己在做什么！我会尽快把你们（美国人民）的钱送过去，一刻也不会耽误！至于其他所有人，立即回去上班。]]></title>
-            <guid>4490286</guid>
-            <pubDate>Mon, 10 Nov 2025 15:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股策略师警告称，随着成本上升和应用落地不及预期，人工智能(AI)可能引发市场回调，并指出微软（MSFT）和英伟达（NVDA）等龙头股存在集中度风险。不过这些股票目前表现良好：美股周一早盘，微软上涨1.5%，英伟达大涨4.5%。]]></title>
-            <guid>4490285</guid>
-            <pubDate>Mon, 10 Nov 2025 15:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：所有空中交通管制员必须立即返回工作岗位，立刻！任何不这样做的人将会受到严厉的惩罚。对于那些作为伟大爱国者、在“民主党停摆骗局”期间没有请假休息的空中交通管制员，我将提议每人获得10000美元的特别奖金，以表彰他们为我们的国家所做出的杰出贡献。而对于那些除了抱怨之外什么都没做、还擅自请假的人员，尽管大家都知道他们很快就会全额领到工资，我对此并不满意。你们没有挺身而出帮助美国抵御这场虚假的民主党攻击，这场攻击只是旨在伤害我们的国家。你们的记录中至少会有一个负面的评价，至少在我的心目中是这样。如果你们想在不久的将来离职，请毫不犹豫地这么做，无需支付任何款项或获得任何离职补偿！你们很快就会被真正的爱国者所取代，他们将更出色地操作我们正在订购的世界上最先进的全新设备。]]></title>
-            <guid>4490284</guid>
-            <pubDate>Mon, 10 Nov 2025 15:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[内塔尼亚胡：很快我们就会知道 “未来党” 在以色列议会是否有未来。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2690524.d.html</link>
-            <guid>4490283</guid>
-            <pubDate>Mon, 10 Nov 2025 15:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：所有空中交通管制员必须立即复工，否则将被扣薪。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht1179258.d.html</link>
-            <guid>4490282</guid>
-            <pubDate>Mon, 10 Nov 2025 15:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在第三季度营收未达预期后，普洛弗拉克控股（ProFrac Holding）股价势将创下近三个月来最糟糕的单日表现，最新下跌13.5%。]]></title>
-            <guid>4490281</guid>
-            <pubDate>Mon, 10 Nov 2025 15:28:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ByHeart公司召回两个批次产品的婴儿配方奶粉，此前这些产品已导致10个州13名婴儿因肉毒杆菌感染就医；美国联邦机构敦促处理受影响产品并警惕相关症状。ByHeart是美国当下仅有的五家婴儿配方奶粉制造商之一。]]></title>
-            <guid>4490280</guid>
-            <pubDate>Mon, 10 Nov 2025 15:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全美超1400架次航班延误 近1600架次航班取消】当地时间11月10日，据航班跟踪网站FlightAware统计，截至美国东部时间当日8时30分，已有1440架次进出美国及美国境内的航班延误，另有1595架次航班被取消。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2689981.d.html</link>
-            <guid>4490279</guid>
-            <pubDate>Mon, 10 Nov 2025 15:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【曹操出行积极布局中东市场，与阿布扎比投资办公室签署合作备忘录】在阿布扎比DRIFTx国际展会上，多家中国Robotaxi企业亮相，曹操出行、文远知行、小鹏等展示了各自在Robotaxi领域的技术成果。其中，曹操出行与阿布扎比投资办公室（Abu Dhabi Investment Office, ADIO）达成合作，双方签署合作备忘录。根据协议，阿布扎比投资办公室将协助曹操出行在当地设立办事处与运营中心，作为其中东发展的战略支点，为后续自动驾驶车辆测试、技术本土化、供应链建设与生态协作奠定基础。双方共同推广以电动及换电车辆为核心的可持续交通解决方案，将曹操出行在中国市场经过大规模验证的高效换电网络与运营体系，融入阿布扎比绿色能源生态系统。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht1178715.d.html</link>
-            <guid>4490278</guid>
-            <pubDate>Mon, 10 Nov 2025 15:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际奥委会表示，尚未就跨性别运动员的奥运会参赛资格作出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht1178544.d.html</link>
-            <guid>4490277</guid>
-            <pubDate>Mon, 10 Nov 2025 15:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，台积电（TSM）上涨3.1%，博通（AVGO）上涨2.5%。分析师指出，这两家公司持续受益人工智能供应链需求：在人工智能需求韧性支撑下，台积电10月销售额同比增长16.9%受到关注，博通则扩展了定制人工智能加速器业务——凸显出基础设施支出的持续性。]]></title>
-            <guid>4490276</guid>
-            <pubDate>Mon, 10 Nov 2025 15:24:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利将礼来公司目标价从1069美元上调至1090美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht5004798.d.html</link>
-            <guid>4490275</guid>
-            <pubDate>Mon, 10 Nov 2025 15:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[政府间气候变化专门委员会主任称，全球温升突破1.5℃“几乎不可避免”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht1178314.d.html</link>
-            <guid>4490274</guid>
-            <pubDate>Mon, 10 Nov 2025 15:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，嘉年华集团（CCL）上涨1%。在一名18岁女性乘客在嘉年华地平线号(Horizon)上死亡后，美国联邦调查局启动调查；嘉年华集团（CCL）表示正配合当局工作，该船只已按计划返回迈阿密港。]]></title>
-            <guid>4490273</guid>
-            <pubDate>Mon, 10 Nov 2025 15:21:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源部长赖特表示，能源部贷款项目办公室的最大用途将是为核电站提供支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2689084.d.html</link>
-            <guid>4490272</guid>
-            <pubDate>Mon, 10 Nov 2025 15:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普政府告知美国最高法院，其仍在寻求叫停一项法官指令，该指令要求政府本月为4200万美国人全额提供食品援助。]]></title>
-            <guid>4490271</guid>
-            <pubDate>Mon, 10 Nov 2025 15:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，特斯拉（TSLA）上涨2.9%。在埃隆·马斯克创纪录薪酬方案获批准后，该公司重申了超越汽车领域、向机器人技术与自动驾驶进军的雄心，而投资者正在权衡其宏伟目标与领导层稳定性。]]></title>
-            <guid>4490270</guid>
-            <pubDate>Mon, 10 Nov 2025 15:19:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通过“中间商”买车无法按约提车？阿维塔回应】阿维塔科技11月10日发布声明称，今日，阿维塔收到消费者投诉，称其通过“中间商”购买了车辆，但无法按约提车，可能遭受损失。经初步核查，涉事“中间商”与阿维塔不存在任何合作关系，其行为不仅严重损害了消费者的权益，也对阿维塔的合法权益造成了严重影响。目前公安机关已介入调查，该“中间商”或因涉嫌犯罪，被公安机关依法控制。阿维塔将持续关注事态发展，积极配合公安机关调查，切实维护消费者和自身合法权益。请消费者通过正规渠道购买阿维塔产品及服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhn2537058.d.html</link>
-            <guid>4490269</guid>
-            <pubDate>Mon, 10 Nov 2025 15:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股周一早盘，安进（AMGN）股价上涨0.9%，此前该公司报告VESALIUS-CV研究显示，其药物瑞百安®（Repatha®，通用名依洛尤单抗注射液）使无既往事件的高危患者首发主要心血管事件减少25%，首发心肌梗死减少36，这支持了PCSK9抑制剂的更广泛应用。]]></title>
-            <guid>4490268</guid>
-            <pubDate>Mon, 10 Nov 2025 15:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光电转换效率超27% 钙钛矿太阳能电池研制成功】记者从中国科学院半导体研究所获悉，该所游经碧研究员领导的科研团队近期研制出光电转换效率为27.2%的钙钛矿太阳能电池原型器件。器件在1个标准太阳光和最大功率输出点条件下持续运行1529小时后，仍可保持初始效率的86.3%。此外，器件在1个标准太阳光与85℃光热耦合加速老化条件下，持续运行1000小时后仍能维持初始效率的82.8%。相关成果近日在国际学术期刊《科学》发表。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhn2536954.d.html</link>
-            <guid>4490267</guid>
-            <pubDate>Mon, 10 Nov 2025 15:17:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒称俄军即将取得红军城控制权】根据俄罗斯国防部发布的消息，俄军正持续推进在顿涅茨克地区红军城、乌称波克罗夫斯克的军事行动，逐步打击城内被合围的乌军。乌方则表示，乌军仍在持续击退俄军进攻。另据美国媒体近日援引城内乌军的消息说，俄军即将获得红军城的控制权。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2688473.d.html</link>
-            <guid>4490266</guid>
-            <pubDate>Mon, 10 Nov 2025 15:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院议长约翰逊：认为已获得足够票数通过临时拨款法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht5002945.d.html</link>
-            <guid>4490265</guid>
-            <pubDate>Mon, 10 Nov 2025 15:13:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度警方：德里爆炸案发生在行驶中的汽车内。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht1176756.d.html</link>
-            <guid>4490264</guid>
-            <pubDate>Mon, 10 Nov 2025 15:12:50 GMT</pubDate>
         </item>
     </channel>
 </rss>

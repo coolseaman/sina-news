@@ -4,11 +4,548 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 10 Nov 2025 03:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 04:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【锂业股陆港上涨 花旗上调赣锋锂业与天齐锂业评级因看好未来电池需求】锂业股在内地、香港两地上涨。花旗将赣锋锂业与天齐锂业的A股和H股都上调评级至买入，称在实际电池需求强劲的背景下，锂化合物和锂辉石的价格风险偏向上行。天齐锂业港股上涨6%，A股上涨2.6%；赣锋锂业港股上涨4.9%，A股上涨3.3%。周一早盘广期所碳酸锂期货上涨逾6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuy2960482.d.html</link>
+            <guid>4489184</guid>
+            <pubDate>Mon, 10 Nov 2025 04:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三菱商事将向文莱液化天然气项目投资2.6亿美元，目标于2030年启动该项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuy2960252.d.html</link>
+            <guid>4489183</guid>
+            <pubDate>Mon, 10 Nov 2025 04:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：更加确信在未来几年将有强劲的潜在电池需求】花旗分析师Jack Shang等人在报告中表示，更加确信在未来几年将有强劲的潜在电池需求；预测到2026年，电池需求将同比增长31%。枧下窝矿的复产不太可能改变去库存格局，预计2025年11月锂库存将减少约1.5万吨。更看好赣锋锂业，因其具有更高的超额收益潜力，公司未来Goulamina项目将提升其成本竞争力，且其电池业务表现正在改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7744013.d.html</link>
+            <guid>4489182</guid>
+            <pubDate>Mon, 10 Nov 2025 04:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄新社报道，俄罗斯防空系统一夜之间摧毁71架乌克兰无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuy2959473.d.html</link>
+            <guid>4489181</guid>
+            <pubDate>Mon, 10 Nov 2025 04:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：暂停对美船舶收取船舶特别港务费等 为期1年】自2025年11月10日13时01分起，与美方暂停实施对华海事、物流和造船业301调查最终措施同步暂停实施《交通运输部关于对美船舶收取船舶特别港务费的公告》（交通运输部公告2025年第54号）、《交通运输部办公厅关于印发〈对美船舶收取船舶特别港务费实施办法〉的通知》（交办水〔2025〕59号）、《交通运输部关于启动航运业、造船业及相关产业链供应链安全和发展利益受影响情况调查的公告》（交通运输部公告2025年第55号）1年。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuy2959401.d.html</link>
+            <guid>4489180</guid>
+            <pubDate>Mon, 10 Nov 2025 04:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院将于周一复会，继续就结束政府停摆的法案努力。]]></title>
+            <guid>4489179</guid>
+            <pubDate>Mon, 10 Nov 2025 04:20:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国成功发射卫星互联网低轨卫星】北京时间2025年11月10日10时41分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨13组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvvc3140431.d.html</link>
+            <guid>4489178</guid>
+            <pubDate>Mon, 10 Nov 2025 04:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英诺激光：激光高速分板设备预计全年订单超9000万元】英诺激光近日在业绩说明会上表示，针对消费电子、半导体、算力等行业的PCB/FPC高工艺需求，公司用固体纳秒和超快激光技术取代传统机械加工方式，开发了一系列激光器和激光设备，可应用于切割、钻孔、开窗等工艺。激光高速分板设备取代了铣刀，可提供低损耗、高精度、高效率、高可靠性的加工方式，已实现批量交付，预计全年订单超9000万元。激光超精密钻孔设备搭载超快激光器，可实现30-70µm微孔径的稳定加工，钻孔效率最高≥10000孔/秒,首批打样效果得到客户认可。激光高速冲切设备可实现FPC的钻孔、分板、开窗等加工需求，正在进行工艺优化和市场拓展。（人民财讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuv1539491.d.html</link>
+            <guid>4489177</guid>
+            <pubDate>Mon, 10 Nov 2025 04:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国参议员将于周一返回，继续就终止政府停摆的法案进行审议。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvvc3140260.d.html</link>
+            <guid>4489176</guid>
+            <pubDate>Mon, 10 Nov 2025 04:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创业板指跌超2％，资金却独宠它？揭秘红利低波ETF（512890）背后的“长钱”暗流】11月10日，A股三大指数早盘集体收跌，创业板指高开低走，跌幅超过2％。在此背景下，红利低波ETF（512890）逆势涨0.58％报1.224元，半日换手率1.40％，成交额达3.62亿元，居同类标的ETF首位。资金流向方面，红利低波ETF（512890）持续受到资金青睐。近5个交易日净流入5.7亿元，近20个交易日净流入40.2亿元，近60个交易日净流入33.8亿元。截至2025年11月7日，该基金流通规模为258.14亿元。资金流入呈现“长钱主导”特征，险资、产业资本及地方国资持续增持银行股。机构观点方面，华泰证券建议维持“哑铃型”配置策略，认为三季报后市场关注点将转向明年盈利预期。配置上短期可关注科技板块的修复机会与红利资产，同时留意电新、化工等景气逻辑明确的低位品种。国信证券指出，市场热点预计仍将快速轮动，当前行情或正为新一轮上涨蓄势。配置上短期可关注存储芯片产业链的涨价逻辑和煤炭板块的利好催化，中长期建议关注“十五五”规划相关领域及红利资产。投资者可将红利低波ETF（512890）作为应对市场波动的稳健收益工具，并通过定投等方式分散入场。无股票账户的投资者也可通过其场外联接基金进行配置（A类份额：007466；C类份额：007467；I类份额：022678；Y类份额：022951）。]]></title>
+            <guid>4489175</guid>
+            <pubDate>Mon, 10 Nov 2025 04:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一汽奥迪与浙江德奥汽车集团签署战略合作备忘录】据“一汽大众”公众号消息，11月7日，一汽奥迪销售有限责任公司与浙江德奥汽车集团有限公司在杭州签署战略合作协议，双方将围绕经销商渠道建设、深化新媒体合作、汽车生态营造等领域达成战略合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7742572.d.html</link>
+            <guid>4489174</guid>
+            <pubDate>Mon, 10 Nov 2025 04:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奇德新材：致力于拓展与各机器人厂商的合作机会 并已为多家主机厂提供碳纤维轻量化解决方案】奇德新材11月10日在互动平台表示，公司深耕轻量化新材料领域，具备适配机器人产业的碳纤维复合材料技术与产品基础，公司始终对行业前沿动态保持积极关注与探索。公司的连续性碳纤维复合材料在轻量化、高强度及高外观品质方面具有显著优势，能够针对性满足机器人结构件的轻量化需求。我们持续致力于拓展与各机器人厂商的合作机会，并已为多家主机厂提供碳纤维轻量化解决方案。]]></title>
+            <guid>4489173</guid>
+            <pubDate>Mon, 10 Nov 2025 04:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汇绿生态：公司鄂州基地近期投产项目包含了400G/800G高速率光模块产品】汇绿生态11月10日在互动平台表示，公司鄂州基地近期投产的为“年产150万只光通信器件生产基地建设项目”，本项目包含了400G/800G高速率光模块产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvvc3139594.d.html</link>
+            <guid>4489171</guid>
+            <pubDate>Mon, 10 Nov 2025 04:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国对北溪天然气管道爆炸案的调查有可能分裂对乌克兰的支持，柏林方面认为乌克兰应对此负责。（华尔街日报）]]></title>
+            <guid>4489170</guid>
+            <pubDate>Mon, 10 Nov 2025 04:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长城汽车成立智科汽车研发新公司】企查查APP显示，近日，大连长城智科汽车研发有限公司成立，经营范围包含：新材料技术研发；汽车零部件研发；新能源汽车整车销售；汽车销售；动漫游戏开发等。企查查股权穿透显示，该公司由长城汽车全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuv1538502.d.html</link>
+            <guid>4489169</guid>
+            <pubDate>Mon, 10 Nov 2025 04:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳大利亚 Ionic 稀土公司签署美国回收厂初步协议】Ionic Rare Earths周一表示，该公司已与美国战略金属公司（US Strategic Metals）签署了一份不具约束力的谅解备忘录，将建立一座回收设施，生产稀土氧化物。两家公司在一份联合声明中表示，密苏里州的回收设施预计将生产大量的钕和镨(NdPr) 以及重稀土，包括镝、铽、钐、钆和钬。声明称，该协议的重点是快速生产高纯度、分离的磁性稀土氧化物，并有可能扩展到包括从一系列战略性采购的混合稀土碳酸盐中生产各种磁性和重稀土。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7742096.d.html</link>
+            <guid>4489168</guid>
+            <pubDate>Mon, 10 Nov 2025 04:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏州天脉导热散热产品智能制造甪直基地开工建设】11月10日上午，苏州天脉导热散热产品智能制造甪直基地建设项目举行开工仪式，该项目投资总额17亿元，将引入行业内先进的智能化机器设备建成导热散热产品智能制造基地。公司拟通过本项目扩充高端均温板产品产能，提升智能制造水平，以满足市场需求。项目建成后公司将新增年产3000万PCS高端均温板的生产能力，具有良好的经济效益。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7741826.d.html</link>
+            <guid>4489167</guid>
+            <pubDate>Mon, 10 Nov 2025 04:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【康诺思腾完成约2亿美元超募融资 获港投公司领投】11月10日，我国创新型手术机器人公司康诺思腾宣布，其已完成新一轮约2亿美元超募融资，资金将主要用于加速商业化进程，并推动新一代产品研发与临床注册。公司本轮融资获得了香港投资管理有限公司、一家全球战略投资者以及一家全球顶级主权基金的投资，同时也获得了启明创投、道合投资、高榕创投、险峰等投资者的持续支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7741759.d.html</link>
+            <guid>4489166</guid>
+            <pubDate>Mon, 10 Nov 2025 04:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大华继显：联想集团短期利润料获提振，但面临长期存储芯片成本压力 维持对该股的买入评级】大华继显的分析师在一份研报中表示，在强劲的个人电脑销售和基础设施业务盈利能力改善的推动下，预计联想集团2026财年第二财季的调整后净利润将同比增长7.4%。不过，这些分析师也表示，在海外竞争加剧的情况下，强劲个人电脑销售的积极效应可能会被疲软智能手机销售的不利影响部分抵消，而由于人工智能(AI)服务器采用仍受供应瓶颈的制约，基础设施业务部门的增长可能已放缓。得益于成本控制，近期利润应会保持稳定，不过，不断上涨的存储芯片价格可能因供应短缺而持续至2026年底，应会给长期盈利能力带来压力，因为联想集团不太可能将全部成本转嫁给消费者。大华继显维持对该股的买入评级和12.70港元的目标价。]]></title>
+            <guid>4489165</guid>
+            <pubDate>Mon, 10 Nov 2025 04:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，华沙警告基辅将接受德国调查后，乌克兰将破坏活动嫌疑人从波兰秘密带走。 消息人士称，德国警方利用公路收费数据和嫌疑人妻子的酒店预订信息追踪到破坏行动的疑似指挥官。]]></title>
+            <guid>4489164</guid>
+            <pubDate>Mon, 10 Nov 2025 04:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，德国通过人脸识别软件识别出乌克兰北溪管道破坏活动嫌疑人。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7740277.d.html</link>
+            <guid>4489163</guid>
+            <pubDate>Mon, 10 Nov 2025 04:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美参议院推进法案以结束政府停摆】当地时间11月9日深夜，北京时间今天（11月10日）中午，美国国会参议院就一项旨在重启联邦政府、结束已持续40天政府“停摆”的议案取得进展。在一项程序性投票中，参议员们以60票赞成、40票反对的表决结果，结束“冗长辩论（即阻挠议事）”，推进了一项此前已由众议院通过的法案——但该法案后续将被修改，以为联邦政府提供资金至明年1月30日，并包含三项全年拨款法案的打包方案。如果参议院最终正式表决并通过了这一修正案，整个方案仍需经众议院批准，并送交总统特朗普签署才可生效，这一过程可能需要几天时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7739436.d.html</link>
+            <guid>4489162</guid>
+            <pubDate>Mon, 10 Nov 2025 04:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因政府停摆50亿美元美国武器延迟出口北约】当地时间11月9日，据美国Axios新闻网站报道，美国国务院透露，价值超50亿美元的美国武器出口（用于支持北约及乌克兰）因政府“停摆”而延迟。 报道援引美国务院发言人的声明称，“民主党人正在阻挠关键武器销售，包括向我们的北约盟友销售武器，这损害了美国的工业基础，并将我们和我们伙伴的安全置于危险境地”。报道指出，美国向北约出售的武器通常会被转移至乌克兰。 此前，俄罗斯外长拉夫罗夫曾指出，任何包括援乌武器的货物都将成为俄罗斯的合法打击目标。克里姆林宫方面也表示，西方向乌克兰持续提供武器无助于推动谈判进程，并将带来负面后果。（今日俄罗斯）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvvc3136631.d.html</link>
+            <guid>4489161</guid>
+            <pubDate>Mon, 10 Nov 2025 04:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国能源监管委员会就电价发表评论，泰国监管机构建议1-4月期间的电价在3.94-4.58泰铢之间。]]></title>
+            <guid>4489160</guid>
+            <pubDate>Mon, 10 Nov 2025 04:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本神户制钢所下调财年净销售额预测，低于市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuv1534783.d.html</link>
+            <guid>4489159</guid>
+            <pubDate>Mon, 10 Nov 2025 04:04:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IDC：第三季度中国平板电脑市场出货量为849万台 同比增长10.9%】近日，国际数据公司（IDC）发布了2025年第三季度中国平板电脑市场季度跟踪报告。IDC数据显示，2025年第三季度中国平板电脑市场出货量为849万台，同比增长10.9%。其中消费市场出货量同比增长12.3%，尽管“国补”收紧导致市场增速较上半年有所放缓，产品迭代上新对市场需求形成了有效刺激；商用市场需求则延续疲软态势，出货量规模同比下滑4.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7738405.d.html</link>
+            <guid>4489158</guid>
+            <pubDate>Mon, 10 Nov 2025 04:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：11月3日—11月9日国家铁路运输货物8166万吨，环比增长3.94%】据交通运输部，11月3日—11月9日，全国物流保通保畅运行数据：国家铁路运输货物8166万吨，环比增长3.94%；全国高速公路货车通行5638.3万辆，环比下降2.06%；监测港口完成货物吞吐量26852.7万吨，环比下降5.34%，完成集装箱吞吐量680.9万标箱，环比增长0.58%；民航保障航班11.8万班（其中货运航班5612班，包括国际货运航班3771班，国内货运航班1841班），环比下降0.67%；邮政快递揽收量约42.2亿件，环比下降1.42%；投递量约42.05亿件，环比下降2.32%。]]></title>
+            <guid>4489157</guid>
+            <pubDate>Mon, 10 Nov 2025 04:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【菲律宾8月份外国直接投资同比下降40.5%】菲律宾8月份外国直接投资净流入4.94亿美元，同比下降40.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7737668.d.html</link>
+            <guid>4489156</guid>
+            <pubDate>Mon, 10 Nov 2025 04:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股午评：恒生指数涨0.61%，恒生科技指数涨0.12%】港股午间收盘，恒生指数涨0.61%，恒生科技指数涨0.12%。港股科技ETF（159751）涨0.09%，恒生港股通ETF（159318）涨0.7%。板块方面，客运航空公司、水务板块涨幅靠前；通信设备板块跌幅靠前。个股方面，和嘉控股大涨超58%；中国中免涨13.0%，长城汽车涨7.87%，泡泡玛特涨6.74%，蜜雪集团涨6.33%，中国国航涨6.31%，中国东方航空股份涨5.12%，赣锋锂业涨4.84%，华住集团-S涨4.67%，山东黄金涨4.15%，海天味业涨4.11%，比亚迪股份涨4.09%；敏实集团跌6.4%，丘钛科技跌7.17%；沪上阿姨涨16.57%，趣致集团涨13.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuv1533153.d.html</link>
+            <guid>4489155</guid>
+            <pubDate>Mon, 10 Nov 2025 04:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国监管机构建议电价在3.94-4.58泰铢之间。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7737496.d.html</link>
+            <guid>4489154</guid>
+            <pubDate>Mon, 10 Nov 2025 04:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[越南VN指数下跌1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuv1532822.d.html</link>
+            <guid>4489153</guid>
+            <pubDate>Mon, 10 Nov 2025 03:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：微降统一企业中国目标价至9港元 对公司明年前景保持谨慎】高盛发表研究报告指，统一企业中国第三季收入大致平稳，当中食品业务增长低至中个位数；饮料业务跌低至中个位数；及代工生产业务持续按年增长三位数的百分比。管理层表示，公司于10月仍在进行饮料产品去库存的工作，而面条的表现保持在正常轨道。虽然消费疲弱且竞争激烈，公司对第四季仍持谨慎乐观的态度，并维持集团今年全年销售增长6至8%的目标，同时相信第四季持续的毛利率扩张和开支比率更具可见性。展望未来，由于竞争持续激烈，该行对公司明年前景保持谨慎，预计销售增长6%，将目标价由9.3港元降至9港元，维持“中性”评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvvc3134645.d.html</link>
+            <guid>4489152</guid>
+            <pubDate>Mon, 10 Nov 2025 03:59:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【岚图泰山11月18日上市】正在冲刺港股上市的岚图汽车再迎新品。华系旗舰SUV岚图泰山将于11月18日正式上市。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7737211.d.html</link>
+            <guid>4489151</guid>
+            <pubDate>Mon, 10 Nov 2025 03:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【165所内地高校招收香港DSE考生】香港特区政府教育局欢迎国家教育部公布参与2026／2027学年内地高校招收香港中学文凭考试学生计划（文凭试收生计划）的内地高等院校数目将增加至165所。院校分布内地21个省／直辖市及两个自治区，并接受2026年香港中学文凭考试（文凭试）考生报名。 教育局发言人今日（10日）表示，参与文凭试收生计划的内地高等院校依据文凭试成绩择优录取香港学生，免却同学参与内地联招考试的需要。2026／2027学年参与计划的院校较去年大幅增加二十所，首次有来自内蒙古自治区的院校。参与计划的165所高校提供各有特色的课程，特区政府鼓励香港学生透过计划到内地升学，把握机会认识国家最新的社会、经济和文化面貌，以规划往后的发展路途。教育局会继续与内地商讨，邀请更多内地知名学府参与计划，为学生提供更多元的升学途径以及连系国家发展的机会。]]></title>
+            <guid>4489150</guid>
+            <pubDate>Mon, 10 Nov 2025 03:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方汇理将太古广场二座的租约延长至2034年】太古地产在电邮声明中表示，东方汇理将延长其在太古广场的租约至2034年。这包括太古广场二座的四层楼，办公室面积共约85,000平方英尺，是该行亚太区域总部。双方战略伙伴关系已持续二十余年。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuv1532505.d.html</link>
+            <guid>4489149</guid>
+            <pubDate>Mon, 10 Nov 2025 03:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行App迎来关停潮】“银行App迎来关停潮”进入热搜引发网友热烈讨论。据中国新闻周刊报道，今年以来，银行开始“断舍离”，多家银行宣布关停旗下部分App，主要集中于信用卡与直销银行两个领域。业内人士表示，早年银行推独立App是为了抢用户、冲活跃度，结果很多App下载量高、日活低，用户用完一次就再也不打开了。随着流量红利消退，银行数字化转型进入“存量竞争”阶段。银行App的“野蛮生长”不仅造成资源浪费，还带来数据孤岛、隐私泄露、合规成本高等问题。此外，在经济结构转型与居民消费意愿走弱的背景下，信用卡行业正步入存量收缩周期，这也带动部分银行信用卡App的关停。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7736989.d.html</link>
+            <guid>4489148</guid>
+            <pubDate>Mon, 10 Nov 2025 03:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长发集团成立光电科创产业投资中心 出资额10亿】天眼查工商信息显示，近日，长春长发星耀光电科创产业投资中心（有限合伙）成立，执行事务合伙人为长春长发私募基金管理有限公司，出资额10亿人民币，经营范围为以自有资金从事投资活动、创业投资。合伙人信息显示，该投资中心由长发金融控股（长春）有限公司、长春市产业投资集团有限公司、长春长发私募基金管理有限公司共同出资。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7736734.d.html</link>
+            <guid>4489146</guid>
+            <pubDate>Mon, 10 Nov 2025 03:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东启动防风Ⅳ级应急响应】从广东省防汛防旱防风总指挥部获悉，据广东气象部门监测预报，今年第26号台风“凤凰”已进入南海，且未来几天将对广东省海域造成较大影响。根据《广东省防汛防旱防风防冻应急预案》和省防总有关规定，省防总已于11月10日10时启动防风Ⅳ级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7736302.d.html</link>
+            <guid>4489145</guid>
+            <pubDate>Mon, 10 Nov 2025 03:53:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院推进政府拨款法案以结束政府停摆后，纳斯达克期货最新上涨1.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvvc3133034.d.html</link>
+            <guid>4489144</guid>
+            <pubDate>Mon, 10 Nov 2025 03:51:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【政府“停摆”40天 美国会参议院通过临时拨款法案】当地时间11月9日，美国国会参议院通过一项旨在结束政府“停摆”的临时拨款法案。该法案将为政府提供资金直至2026年1月30日。美东时间11月9日是本次美国政府自10月1日“停摆”以来的第40天。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvvc3132914.d.html</link>
+            <guid>4489143</guid>
+            <pubDate>Mon, 10 Nov 2025 03:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【创业慧康：公司股票将于11月10日起停牌】创业慧康公告，公司第一大股东、持股5%以上股东葛航先生正与杭州更好智投管理咨询合伙企业（有限合伙）筹划控制权相关事宜，该事项可能导致公司将由无实际控制人状态变更为有实际控制人状态。经公司向深圳证券交易所申请，公司股票自2025年11月10日（星期一）开市起停牌，预计停牌时间不超过2个交易日。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7735447.d.html</link>
+            <guid>4489142</guid>
+            <pubDate>Mon, 10 Nov 2025 03:50:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：通胀上升也存在削弱需求的风险，这会促使企业削减成本，并阻碍它们提高工资。]]></title>
+            <guid>4489141</guid>
+            <pubDate>Mon, 10 Nov 2025 03:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：日本企业在提高价格和工资方面变得更加积极，这可能会影响家庭情绪和通胀预期。]]></title>
+            <guid>4489140</guid>
+            <pubDate>Mon, 10 Nov 2025 03:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院已获得足够票数推进结束政府停摆的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuu7735063.d.html</link>
+            <guid>4489139</guid>
+            <pubDate>Mon, 10 Nov 2025 03:49:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国贸易代表办公室：11月10日起，暂停对华海事、物流和造船行业301调查限制措施】当地时间11月9日，美国贸易代表办公室（USTR）发布公告，宣布暂停针对中国海事、物流及造船业的301调查相关措施。美国贸易代表办公室表示，该行动将暂停一年，暂停期自美国东部时间2025年11月10日凌晨12时01分起生效。（界面新闻）]]></title>
+            <guid>4489137</guid>
+            <pubDate>Mon, 10 Nov 2025 03:48:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：我所关注的风险包括美国经济前景，比如关税对经济和物价的影响可能比预期更大，以及人工智能驱动的投资增长预期发生变化等情况。]]></title>
+            <guid>4489136</guid>
+            <pubDate>Mon, 10 Nov 2025 03:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据报道，反对推进重新开放政府法案的美国民主党参议员誓言将继续为降低医疗成本而斗争，他们表示，仅承诺就延长《平价医疗法案》强化补贴进行投票不足以让他们支持该法案。]]></title>
+            <guid>4489135</guid>
+            <pubDate>Mon, 10 Nov 2025 03:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：消费可能会横盘整理，但随着通胀缓和，将恢复温和上升趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwvuy2948741.d.html</link>
+            <guid>4489134</guid>
+            <pubDate>Mon, 10 Nov 2025 03:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：受关税影响，日本企业利润可能会走弱，但随着海外经济复苏、实际工资上涨带动消费增加，之后企业利润将得到改善。]]></title>
+            <guid>4489133</guid>
+            <pubDate>Mon, 10 Nov 2025 03:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华润等在成都成立医药产业股权投资基金 出资额10亿】天眼查工商信息显示，近日，华润（成都）医药产业股权投资基金合伙企业（有限合伙）成立，执行事务合伙人为华润医药科技（成都）合伙企业（有限合伙），出资额10亿人民币，经营范围为创业投资。合伙人信息显示，该基金由成都市重大产业化项目二期股权投资基金有限公司、博雅生物（300294）、东阿阿胶（000423）、华润双鹤（600062）、江中药业（600750）等共同出资。据媒体报道，今年7月，华润系旗下多家上市公司发布公告称，将与上海复星医药产业发展有限公司、成都国企等共同投资设立华润医药（成都）创新投资基金合伙企业（有限合伙），将聚焦医药健康主责主业和战略新兴产业。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7865160.d.html</link>
+            <guid>4489131</guid>
+            <pubDate>Mon, 10 Nov 2025 03:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：海外经济基本情景预期不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3079013.d.html</link>
+            <guid>4489130</guid>
+            <pubDate>Mon, 10 Nov 2025 03:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：中长期通胀预期总体正逐步向 2%攀升。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1659448.d.html</link>
+            <guid>4489129</guid>
+            <pubDate>Mon, 10 Nov 2025 03:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：服务消费在呈温和增长趋势后陷入停滞。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7864840.d.html</link>
+            <guid>4489128</guid>
+            <pubDate>Mon, 10 Nov 2025 03:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：消费仍保持坚挺，但由于食品价格上涨，非耐用品需求正在减弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3262116.d.html</link>
+            <guid>4489127</guid>
+            <pubDate>Mon, 10 Nov 2025 03:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：尽管受到美国关税影响且前景不明，但企业仍有资本支出意愿。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7864655.d.html</link>
+            <guid>4489126</guid>
+            <pubDate>Mon, 10 Nov 2025 03:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：正密切关注美国经济及关税带来的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7864586.d.html</link>
+            <guid>4489125</guid>
+            <pubDate>Mon, 10 Nov 2025 03:42:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洁美科技：江西柔震后续将重点开发和生产复合铜箔、PCB载体铜箔类产品】洁美科技11月10日在互动平台表示，江西柔震后续将重点开发和生产复合铜箔、PCB载体铜箔类产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3078326.d.html</link>
+            <guid>4489124</guid>
+            <pubDate>Mon, 10 Nov 2025 03:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【茂莱光学向不特定对象发行可转债申请获证监会同意注册批复】茂莱光学向不特定对象发行可转债申请审核状态变更为注册生效。本次发行保荐机构为中国国际金融股份有限公司。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7864266.d.html</link>
+            <guid>4489123</guid>
+            <pubDate>Mon, 10 Nov 2025 03:41:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子  ：日本央行将仔细评估新增数据与相关信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3078096.d.html</link>
+            <guid>4489122</guid>
+            <pubDate>Mon, 10 Nov 2025 03:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本央行中川顺子：若经济展望达成，将启动加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7864132.d.html</link>
+            <guid>4489121</guid>
+            <pubDate>Mon, 10 Nov 2025 03:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[奥拉电动汽车股价在盘前交易中下跌 2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3261260.d.html</link>
+            <guid>4489120</guid>
+            <pubDate>Mon, 10 Nov 2025 03:40:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼央行着眼时机调整印尼盾面值。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7863798.d.html</link>
+            <guid>4489119</guid>
+            <pubDate>Mon, 10 Nov 2025 03:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国前总统尹锡悦被追加起诉，涉嫌诱使朝鲜进攻】据总台记者当地时间10日获悉，特检组以“一般利敌”以及滥用职权等嫌疑起诉韩国前总统尹锡悦，特检组指尹锡悦在总统任上曾同韩国军方高层等合谋，试图“诱使朝鲜对韩国发动进攻”。目前关于尹锡悦发动紧急戒严涉嫌触犯内乱罪等案件正在持续审理之中，一审结果有望在明年初公布。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3260972.d.html</link>
+            <guid>4489118</guid>
+            <pubDate>Mon, 10 Nov 2025 03:39:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【唐人神：2025年10月生猪销量61.92万头，同比增长24.49%】唐人神公告，2025年10月生猪销量61.92万头，同比上升24.49%，环比上升50.69%。销售收入合计8.28亿元，同比下降17.91%，环比增长29.49%。2025年1-10月累计生猪销量438.14万头，同比上升33.22%；销售收入72.23亿元，同比上升21.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3260913.d.html</link>
+            <guid>4489117</guid>
+            <pubDate>Mon, 10 Nov 2025 03:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度尼西亚银行（央行）正择机推进印尼盾面额调整工作，注重各项准备就绪。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3077244.d.html</link>
+            <guid>4489116</guid>
+            <pubDate>Mon, 10 Nov 2025 03:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【常宝股份：公司CBS3油管成功应用于国家首口万米级科学探索井】据常宝股份消息，近日，中国首口万米级科学探索井——深地塔科1井在新疆塔克拉玛干沙漠腹地成功完成钻探任务。作为项目关键供应商，公司自主研发的超厚壁CBS3高强抗硫油管入井作业期间，全程以标准扭矩曲线与清晰拐点验证了产品性能的稳定性，确保油管在极端工况下实现零故障运行。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3076856.d.html</link>
+            <guid>4489115</guid>
+            <pubDate>Mon, 10 Nov 2025 03:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【隆基绿能：目前公司BC组件产能处于爬坡阶段，到年底预计将形成50GW产能】11月10日，隆基绿能董事长、总经理钟宝申在公司业绩说明会上表示，公司BC组件的量产主流功率区间为650-655W，TOPCon组件的主流功率约为630W。目前公司BC组件产能处于爬坡阶段，到年底预计将形成50GW产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3076621.d.html</link>
+            <guid>4489114</guid>
+            <pubDate>Mon, 10 Nov 2025 03:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【MasterAgent自主生成174米AI数字画卷亮相十五运会开幕式】11月9日晚，十五运会开幕式在广州举行，MasterAgent自主生成174米AI数字画卷亮相。作为本届全运会开幕式指定AI Agent技术主服务商，深元人工智能依托自主研发的全球首个L4级智能体母体系统MasterAgent，采用“一键生成多智能体集群”的创新模式，首次将 Agent技术深度融入国家级赛事艺术创作环节。此外，全国产化MasterAgent已落地金融、法律、医疗等多领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3260035.d.html</link>
+            <guid>4489113</guid>
+            <pubDate>Mon, 10 Nov 2025 03:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【里昂预计百度收入与利润本季起有望逐渐改善】里昂研报指出，百度-SW(09888.HK)第三季业绩可能因AI搜寻转型加速而表现疲弱，预计其核心总收入、调整后息税前利润(EBIT)将分别按年减少7%、69%，至各246亿及20亿人民币(下同)。线上营销收入或按年减少20%。随着AI搜寻转型于2025年第四季度达到高峰，AI相关收入(云端、AI代理、数位人、robotaxi及晶片)将持续成长，贡献超过百度核心收入的40%，收入与利润应从2025年第四季度开始逐渐改善。里昂表示，因AI搜寻转型加速，预计其核心线上营销收入在2025年第三季度，将按年减少20%至150亿元；百度云端收入按年增长20%至59亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3075850.d.html</link>
+            <guid>4489112</guid>
+            <pubDate>Mon, 10 Nov 2025 03:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【隆基绿能：目前公司具备小规模HIBC量产线】11月10日，隆基绿能董事长、总经理钟宝申在公司业绩说明会上表示，目前公司具备小规模HIBC量产线。HIBC组件产品在2382mm*1134mm尺寸下可实现功率700W+，量产组件效率可达到25.9%，主要面向全球高端分布式应用场景，在欧洲分布式市场具备良好的溢价水平，后续也将逐步推向国内工商业市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3075362.d.html</link>
+            <guid>4489111</guid>
+            <pubDate>Mon, 10 Nov 2025 03:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度尼西亚国有种植企业棕榈公司：1-9月毛棕榈油产量达150万吨，同比增长5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1655728.d.html</link>
+            <guid>4489110</guid>
+            <pubDate>Mon, 10 Nov 2025 03:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2025年德国国际农机展开幕 参展中国企业受关注】当地时间11月9日，由德国农业协会主办的2025年德国国际农业机械展览会(汉诺威农机展)在德国汉诺威会展中心开幕。参展中国企业受到业内人士关注。 今年展会以“触摸智慧高效”为主题，将集中展示农业机械、数字技术以及智慧农业系统等创新成果。来自50多个国家和地区的大约2800家参展商参展，其中68.5%的展商来自德国以外地区，创历史纪录。 此次有近300家中国企业参展，在所有参展国家中排名第三。记者现场看到，参展企业既包括中联重科等中国装备制造行业的龙头企业，也有一批具有创新能力的中小企业参展，集中展示了中国制造在智能化、绿色化和高端化方向的最新进展。 （中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3258237.d.html</link>
+            <guid>4489109</guid>
+            <pubDate>Mon, 10 Nov 2025 03:35:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国指标股指上涨3% 受AI和减税乐观情绪提振】韩国股市周一大涨逾 3%，芯片制造商因AI乐观情绪上扬，金融股因减税预期而走强，支撑大盘。韩国指标股指一度上涨3%至4,072.89点，英伟达首席执行官黄仁勋周六表示，对其最先进的Blackwell芯片的需求 "非常强劲"，此言令市场对AI的乐观情绪再度升温。"他的言论缓解了投资者最近围绕人工智能行业的担忧，"未来资产证券分析师Seo Sang-young说。韩国执政党共同民主党发言人周日表示，股息收入的税收规则需要 "合理"，韩国总统秘书室室长姜勳植则表示，有必要对提出的各种意见做出回应，暗示削减股息收入税。韩国政府在 9 月公布的年度税法修订案中建议对股息收入单独征税，最高税率为 35%，该修订案已提交议会批准。在指数权重股中，三星电子上涨 2.15%，SK 海力士上涨 5.6%。电池制造商 LG新能源下跌 0.11%。金融板块上涨 3.94%，证券板块上涨 4.74%。在总计926档有交易的股票中，有786档上涨。外资在KOSPI买超 498 亿韩元（3503 万美元）。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7859129.d.html</link>
+            <guid>4489108</guid>
+            <pubDate>Mon, 10 Nov 2025 03:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞穗银行将长期最优惠利率从 2.4% 提高到 2.45%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7858015.d.html</link>
+            <guid>4489107</guid>
+            <pubDate>Mon, 10 Nov 2025 03:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY向上触及154，日内涨0.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3254806.d.html</link>
+            <guid>4489106</guid>
+            <pubDate>Mon, 10 Nov 2025 03:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股指期货早盘收盘】沪深300股指期货（IF）主力合约跌0.42%，上证50股指期货（IH）主力合约跌0.21%，中证500股指期货（IC）主力合约跌0.70%，中证1000股指期货（IM）主力合约跌0.50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3071173.d.html</link>
+            <guid>4489105</guid>
+            <pubDate>Mon, 10 Nov 2025 03:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国债期货早盘收盘】2年期国债期货（TS）主力合约跌0.01%，5年期国债期货（TF）主力合约持平，10年期国债期货（T）主力合约持平，30年期国债期货（TL）主力合约涨0.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3071091.d.html</link>
+            <guid>4489104</guid>
+            <pubDate>Mon, 10 Nov 2025 03:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股午评：创业板指半日跌超2%，算力硬件股领跌，化工、大消费等顺周期方向走强】A股三大指数早盘集体下挫，截至午盘，上证指数跌0.03%，深成指跌0.59%，创业板指跌2.13%，北证50跌0.46%。沪深京三市半日成交额14544亿元，较上日放量1883亿元。全市场超2900只个股飘红。板块题材方面，乳业、免税店、白酒等大消费、化学化工、有色金属、硅能源、流感板块涨幅居前；CPO、铜缆高速连接等算力硬件股、人形机器人、电源设备板块跌幅居前。盘面上，乳业、免税店、白酒等大消费板块集体走强，中国中免、东百集团、三元股份等股涨停，舍得酒业、泸州老窖、古井贡酒跟涨。化工板块延续活跃，磷化工、氟化工方向领涨，澄星股份3连板，孚日股份、天际股份、深圳新星等股涨停。硅能源板块同样表现强势，弘元绿能2连板，亿晶光电、国晟科技、大为股份涨停。另一方面，CPO、铜缆高速连接等算力硬件股集体走弱，新易盛、生益科技、胜宏科技、工业富联、中际旭创跌幅居前。人形机器人概念股同样表现不佳，浙江荣泰盘中跌停，拓普集团、三花智控、蓝思科技领跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1651316.d.html</link>
+            <guid>4489103</guid>
+            <pubDate>Mon, 10 Nov 2025 03:31:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ETF午评：旅游ETF领涨5.19%，科创信息ETF领跌4.16%】ETF午间收盘涨跌不一，旅游ETF（159766）领涨5.19%，旅游ETF（562510）涨4.74%，酒ETF（512690）涨3.29%，科创信息ETF（588260）领跌4.16%，通信ETF（515880）跌4.14%，5G通信ETF（515050）跌4.04%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3070694.d.html</link>
+            <guid>4489102</guid>
+            <pubDate>Mon, 10 Nov 2025 03:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ETF两市成交额2764.36亿元】截至目前，ETF两市成交额报2764.36亿元，分类型来看，股票型ETF成交额741.68亿元，债券型ETF成交额1415.61亿元，货币型ETF成交额144.76亿元，商品型ETF成交额61.45亿元，QDII型ETF成交额233.08亿元。其中，成交额最高的非货币型ETF分别是易方达中证香港证券投资主题(港股通)ETF（513090）、华夏中证a500ETF（512050）、国泰中证a500ETF（159338），成交额分别为60.20亿元、35.77亿元、32.26亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3070522.d.html</link>
+            <guid>4489101</guid>
+            <pubDate>Mon, 10 Nov 2025 03:30:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商品期货早盘收盘】碳酸锂连续涨6.10%，玻璃连续跌3.18%，白银连续涨2.22%，集运指数欧线期货连续跌1.90%，苹果连续涨1.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7856870.d.html</link>
+            <guid>4489100</guid>
+            <pubDate>Mon, 10 Nov 2025 03:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国超2700个航班取消 另有上万航班延误】当地时间9日，航班追踪网站FlightAware的数据显示 ，截至美国东部时间当日22时，美国境内单日航班取消数量超过2700架次，延误航班超过10000架次，创下自美国政府“停摆”以来单日最糟糕的纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3254185.d.html</link>
+            <guid>4489099</guid>
+            <pubDate>Mon, 10 Nov 2025 03:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百洋医药在广东成立新公司，注册资本5000万】企查查APP显示，近日，百洋医药（广东）有限公司成立，法定代表人为王廷伟，注册资本为5000万元，经营范围包含：第二类医疗器械租赁；市场营销策划；专用设备修理；家用电器销售；第三类医疗器械经营等。企查查股权穿透显示，该公司由百洋医药全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3253384.d.html</link>
+            <guid>4489098</guid>
+            <pubDate>Mon, 10 Nov 2025 03:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【万华化学、国电电力合资成立清洁能源公司 注册资本7.2亿】天眼查工商信息显示，近日，万华绿能（东明）清洁能源有限公司成立，法定代表人为孙伟，注册资本7.2亿人民币，经营范围含发电业务、输电业务、供（配）电业务，风力发电技术服务，太阳能发电技术服务，储能技术服务，合同能源管理，集中式快速充电站，新兴能源技术研发等。股东信息显示，该公司由万华化学（600309）、国电电力（600795）旗下国家能源集团山东电力有限公司各持股50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7855707.d.html</link>
+            <guid>4489097</guid>
+            <pubDate>Mon, 10 Nov 2025 03:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰总理：希望银行更快地落实新西兰储备银行的降息措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7855269.d.html</link>
+            <guid>4489096</guid>
+            <pubDate>Mon, 10 Nov 2025 03:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑新西兰元汇率触及12年高位，因市场寄望美国政府停摆问题解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7854980.d.html</link>
+            <guid>4489095</guid>
+            <pubDate>Mon, 10 Nov 2025 03:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【预制菜概念走强 惠发食品等涨停】预制菜概念走强，惠发食品、浙江东日、巴比食品、国光连锁涨停，家家悦、中百集团、宝立食品、宏辉果蔬等涨幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3067783.d.html</link>
+            <guid>4489094</guid>
+            <pubDate>Mon, 10 Nov 2025 03:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波音扩建南卡罗来纳州工厂以提高787飞机产量】波音近日表示，已开始扩建其位于南卡罗来纳州北查尔斯顿的工厂，以提高其787喷气式飞机的产量。到2026年，波音将能把787飞机的月产量从目前的约7架提高到10架。随着国际旅游的蓬勃发展，航空公司更新运力，对宽体飞机的需求急剧加快。波音公司已经积压了近1000架787的订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1648220.d.html</link>
+            <guid>4489093</guid>
+            <pubDate>Mon, 10 Nov 2025 03:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【信用修复新政明年落地，广发卡温馨提示：“付费洗白”不可信】近日，中国人民银行宣布，将研究制定支持个人修复信用的政策措施，并计划于明年初正式实施。根据新政，对于特定情形下已结清的违约记录，将不在征信系统中对外展示。这一重大利好消息引发社会各界广泛关注，广发信用卡在此提醒公众，信用修复全程无需额外付费，消费者如需进行信用修复，可通过官方合规渠道免费办理，谨防“有偿修复”骗局。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7854297.d.html</link>
+            <guid>4489092</guid>
+            <pubDate>Mon, 10 Nov 2025 03:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股通ETF扩容正式生效 南方东英恒生港美科技ETF成交活跃】11月10日，港股通ETF扩容正式生效，6只港股上市ETF获新纳入互联互通范围。截至10点50分，南方东英富时东西股票精选ETF（南方东西精选）涨0.49%，南方东英MSCI港股通精选ETF（南方港股通）涨0.64%，工银南方东英标普中国新经济行业ETF（工银南方中国）涨0.22%，南方东英恒生港美科技ETF（科技南方港美）涨0.16%，招商恒生科技指数ETF（招商恒生科技）表现平稳，南方东英恒生生物科技ETF（南方恒生生科）跌0.11%。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3066790.d.html</link>
+            <guid>4489091</guid>
+            <pubDate>Mon, 10 Nov 2025 03:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【方大炭素：电池材料领域前沿布局已有显著进展】方大炭素近日在互动平台回答投资者提问时表示，公司在电池材料领域的前沿布局已取得显著进展，锂电硅碳负极、钠电硬碳负极及氧化物固态电解质等关键核心材料，在实验室阶段均已实现技术突破。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3066556.d.html</link>
+            <guid>4489090</guid>
+            <pubDate>Mon, 10 Nov 2025 03:21:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【隆基绿能回应收储：公司目前没有直接参与硅料环节的具体经营】就近期行业内备受关注的硅料收储计划，11月10日，隆基绿能董事长、总经理钟宝申在公司业绩说明会上回应表示，公司目前没有直接参与硅料环节的具体经营。钟宝申表示，公司目前的主营业务涉及单晶硅片、电池组件、分布式光伏解决方案、地面光伏解决方案、氢能装备等业务板块，形成支撑全球零碳发展的“绿电”+“绿氢”产品和解决方案能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3066464.d.html</link>
+            <guid>4489089</guid>
+            <pubDate>Mon, 10 Nov 2025 03:21:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[韩国综合股价指数上涨 3%，达到 4072.89 点。]]></title>
             <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1645332.d.html</link>
@@ -56,552 +593,6 @@
             <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1643448.d.html</link>
             <guid>4489081</guid>
             <pubDate>Mon, 10 Nov 2025 03:13:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本岩手县以东海域发生5.3级地震】据日本气象厅消息，当地时间10日12时左右，日本岩手县以东海域发生5.3级地震，最大震感为震度3，震源深度10公里。本次地震没有引发海啸的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7850170.d.html</link>
-            <guid>4489080</guid>
-            <pubDate>Mon, 10 Nov 2025 03:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【双杰电气等成立新材料科技公司，含智能机器人业务】企查查APP显示，北京北杰新材料科技有限公司成立，法定代表人为任东强，注册资本为1000万元，经营范围包含：新材料技术研发；环保咨询服务；智能机器人的研发；智能机器人销售；电器辅件销售等。企查查股权穿透显示，该公司由双杰电气全资子公司北京北杰新能源有限公司、北京连续玄武岩纤维科技有限公司共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7849979.d.html</link>
-            <guid>4489079</guid>
-            <pubDate>Mon, 10 Nov 2025 03:12:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【风范股份成立新公司，含风力发电机组销售业务】企查查APP显示，近日，风范新能源（赤峰）有限公司成立，法定代表人为孔立军，注册资本为5000万元，经营范围包含：风力发电技术服务；陆上风力发电机组销售；风力发电机组及零部件销售；海上风力发电机组销售等。企查查股权穿透显示，该公司由风范股份间接全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7849883.d.html</link>
-            <guid>4489078</guid>
-            <pubDate>Mon, 10 Nov 2025 03:12:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔专业版实时数据，截至11月10日11时10分，影片《鬼灭之刃：无限城篇 第一章 猗窝座再袭》预售总票房突破1亿。]]></title>
-            <guid>4489077</guid>
-            <pubDate>Mon, 10 Nov 2025 03:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国家粮油信息中心，根据油厂压榨情况监测，10月全国主要油厂大豆压榨量在860万吨左右，较9月下降较多。当前油厂开机率有所恢复，大豆周度压榨量保持在200万吨左右，预计11月全月国内主要油厂大豆压榨量在870万吨左右。]]></title>
-            <guid>4489076</guid>
-            <pubDate>Mon, 10 Nov 2025 03:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【寿险市场迎来新主体 富泽人寿获批保险许可证】金融监管总局官网信息显示，富泽人寿保险股份有限公司近日获得保险许可证，该公司住所位于山东省济南市，业务范围包括人寿保险、健康保险、意外伤害保险等各类人身保险业务，上述业务的再保险业务，国家法律、法规允许的保险资金运用业务，以及经国务院保险监督管理机构批准的其他业务。该许可证批准日期为6月10日，发证日期为11月7日，发证机关为金融监管总局山东监管局。富泽人寿注册资本170亿元，股东包括济南金投控股集团有限公司、中国保险保障基金有限责任公司、中国人保资产管理有限公司、济南政金通达投资集团有限公司，持股比例分别为49.7059%、35.2941%、11.4706%和3.5294%。据记者了解，富泽人寿的成立是为化解相关保险机构风险而作的一个重要安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3061989.d.html</link>
-            <guid>4489075</guid>
-            <pubDate>Mon, 10 Nov 2025 03:11:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高争民爆直线拉升涨超3%，工信部日前修订发布《民用爆炸物品销售许可实施办法》。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7849436.d.html</link>
-            <guid>4489074</guid>
-            <pubDate>Mon, 10 Nov 2025 03:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心（EMSC）通报：土耳其西部发生 4.7 级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7849270.d.html</link>
-            <guid>4489073</guid>
-            <pubDate>Mon, 10 Nov 2025 03:10:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【社保基金会理事长刘昆会见新加坡淡马锡公司执行董事兼首席执行长狄澜先生一行】据全国社保基金理事会官网，10月30日下午，社保基金会理事长刘昆会见了新加坡淡马锡公司(Temasek)执行董事兼首席执行长狄澜(Dilhan Pillay Sandrasegara)先生一行，双方就中国经济形势等议题进行了交流。会谈中，刘昆理事长对狄澜先生一行来访表示欢迎，对淡马锡公司长期投资中国表示赞赏，并介绍了社保基金会投资运营管理相关情况。狄澜先生介绍了淡马锡公司在华投资情况及未来展业规划，并就中国经济形势、人民币基金潜在投资机遇等议题分享了观点。刘昆理事长对狄澜先生的分享表示感谢，希望双方继续保持交流和沟通。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3061073.d.html</link>
-            <guid>4489072</guid>
-            <pubDate>Mon, 10 Nov 2025 03:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本田中国10月汽车销量同比下降20.6%至59,886辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3059871.d.html</link>
-            <guid>4489071</guid>
-            <pubDate>Mon, 10 Nov 2025 03:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近30年来全球央行黄金持有量首次超过美债】观察黄金市场变化时，注意到一个现象：美元在各国央行储备中的占比出现下滑趋势，而黄金则被越来越多国家重新配置。最新统计显示，自1996年以来，黄金首次在各国央行储备中的占比超过了美债。黄金价格从年初到现在整体上涨近50%，相较十年前上涨约300%。各国央行增持黄金，是出于对全球储备安全共识的打破，黄金成为降低美元储备风险的必然选择。同时，新兴经济体的央行已成为购金的主要力量，黄金成为更可依赖的储备选项。2025年第二季度，全球央行黄金储备总值首次超过其持有的美债规模。黄金正在替代美债，成为各国眼中的优势避险资产。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3059386.d.html</link>
-            <guid>4489070</guid>
-            <pubDate>Mon, 10 Nov 2025 03:07:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电网设备板块震荡走弱，良信股份触及跌停】电网设备板块震荡走弱，良信股份触及跌停，洛凯股份、灿能电力、中恒电气、中能电气等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1639780.d.html</link>
-            <guid>4489069</guid>
-            <pubDate>Mon, 10 Nov 2025 03:07:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美银：上调百济神州H股目标价至242.87港元 重申“买入”评级】美银证券发表研究报告指，百济神州第三季产品收入13.95亿美元，按年增长40.4%；总收入14.12亿美元，按年增长41%，主要受百悦泽(Brukinsa)按年增长51%推动。期内净利润1.25亿美元，按年扭亏转盈。管理层将全年收入指引由50至53亿美元，升至51至53亿美元。基于首三季表现，该行轻微下调销售开支等开支预测，并将2025至27年每股盈利预测分别上调55.2%、0.6%及0.4%；美股目标价由389美元升至402.2美元，H股目标价由234.9港元升至242.87港元，重申“买入”评级，基于其强劲的全球商业表现及稳定的研发管线进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7847425.d.html</link>
-            <guid>4489068</guid>
-            <pubDate>Mon, 10 Nov 2025 03:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本丸红株式会社：参与澳大利亚关键矿产和稀土原料生产项目开发。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3058275.d.html</link>
-            <guid>4489067</guid>
-            <pubDate>Mon, 10 Nov 2025 03:05:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周日美国航班延误数量超万次，为停摆开始以来航空业最糟糕的一天 。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1638396.d.html</link>
-            <guid>4489065</guid>
-            <pubDate>Mon, 10 Nov 2025 03:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【教育部：严禁强制中小学师生参与与教育教学无关活动，抵御非教育教学事务过度侵扰】近日，教育部印发了《关于进一步减轻中小学教师非教育教学负担若干措施的通知》（以下简称《通知》）。教育部教师工作司负责人就相关问题回答了记者提问。
-
-《通知》紧扣教师非教育教学负担的关键环节和突出问题，提出了一系列针对性、操作性强的具体举措，主要内容可概括为3个方面。
-
-第一，严控外部干预。以刚性约束为学校和教师划界，严禁强制师生参与与教育教学无关活动，抵御非教育教学事务过度侵扰。建立审核与清单制度，通过涉校涉师发文审核机制、社会事务进校园“白名单”和督查检查评比考核事项清单管理，从源头过滤无关任务。严禁转嫁与变相摊派，对基层困惑的各类涉师负担问题进行明确规范，如教师假期值班、社会考试监考、校园外开展活动、社会调研、教师培训等予以规范，严控借调借用教师，保障教师从事主责主业。
-
-第二，优化内部治理。聚焦教育系统内部，通过技术赋能与规范流程为教师松绑。推进数据共享与平台整合，升级全国教师管理信息系统，推动“一网统管”“基层一表通”，实现数据一次采集、多方共享，大力纠治重复填报、多头报送问题。严格管理面向教师的政务应用程序，定期清理涉师政务APP，严禁强制打卡、积分排名等，杜绝“指尖上的形式主义”。健全课后服务保障，严禁随意扩大范围，保障教师课后服务合理待遇，明确不得与教师职称评定、评优评先等硬性挂钩，维护教师合法权益。
-
-第三，强化监督问责。压实主体责任，健全教师减负监测核查机制，强化多部门协同治理，发现一起查处一起，保持教师减负高压态势。建立立体监测网络，将减负纳入督导评估、责任督学及网络巡查范围，设立监测点和监测员队伍，并鼓励第三方参与。畅通问题反馈渠道，建立省市县三级监督举报平台，强化“接诉即办”和问题整改闭环管理，对问题频发地区下发督办单、约谈通报。推动多部门协同治理，强调发挥党委教育工作领导小组作用，将教师减负与整治形式主义为基层减负、整治群众身边不正之风等工作统筹推进，协同纪检监察、网信、公安等部门强化监督和舆情引导。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1638253.d.html</link>
-            <guid>4489064</guid>
-            <pubDate>Mon, 10 Nov 2025 03:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国民主党国会议员罗·卡纳表示，参议员查克·舒默“已不再有效，应该被替换”，呼吁参议院更换领导层。]]></title>
-            <guid>4489063</guid>
-            <pubDate>Mon, 10 Nov 2025 03:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【十四届全国政协教科卫体委员会原副主任杨小伟严重违纪违法被开除党籍和公职】十四届全国政协教科卫体委员会原副主任杨小伟严重违纪违法被开除党籍和公职。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3242622.d.html</link>
-            <guid>4489062</guid>
-            <pubDate>Mon, 10 Nov 2025 03:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【锂电电解液板块早盘涨幅居前】11月10日上午，锂电电解液概念走强。截至10点55分，板块上涨5.10%，天际股份涨停，华盛锂电涨超18%，海科新源涨超10%，多氟多、天赐材料等个股涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7845036.d.html</link>
-            <guid>4489061</guid>
-            <pubDate>Mon, 10 Nov 2025 03:02:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【隔夜shibor报1.4790%，上涨15.20个基点】隔夜shibor报1.4790%，上涨15.20个基点；7天shibor报1.4780%，上涨5.60个基点；14天shibor报1.4920%，上涨2.20个基点；1月shibor报1.5250%，下跌0.10个基点；3月shibor报1.5800%，下跌0.40个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1636282.d.html</link>
-            <guid>4489060</guid>
-            <pubDate>Mon, 10 Nov 2025 03:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国家林草局原党组成员、副局长李春良严重违纪违法被开除党籍。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1636046.d.html</link>
-            <guid>4489059</guid>
-            <pubDate>Mon, 10 Nov 2025 03:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百度旗下基金入股Popi AI关联公司 后者为AI动画创作工具研发商】天眼查工商信息显示，近日，Popi AI关联公司上海次元模因科技有限公司发生工商变更，新增百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）为股东，注册资本由100万人民币增至约108.7万人民币，同时部分高管发生变更。上海次元模因科技有限公司成立于今年9月，法定代表人为宁少锋，经营范围包括电影摄制服务、动漫游戏开发、广告制作等。股东信息显示，该公司现由宁少锋及上述新增股东共同持股。公开资料显示，该公司致力于通过 AI技术降低动画创作门槛，为内容创作者提供更便捷、高效的创作工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3242008.d.html</link>
-            <guid>4489058</guid>
-            <pubDate>Mon, 10 Nov 2025 03:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国参议院正等待得克萨斯州共和党参议员科宁打破冗长辩论，推进结束政府停摆的程序性投票。该投票需 60 票赞成，目前赞成票为 59 票，其中民主党 8 票赞成，肯塔基州共和党参议员保罗是唯一投反对票的共和党人。]]></title>
-            <guid>4489057</guid>
-            <pubDate>Mon, 10 Nov 2025 03:01:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民进中央原副主席、陕西省政协原副主席刘宽忍严重职务违法被开除公职】民进中央原副主席、陕西省政协原副主席刘宽忍严重职务违法被开除公职。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3241885.d.html</link>
-            <guid>4489056</guid>
-            <pubDate>Mon, 10 Nov 2025 03:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国股指开盘时上涨 0.3%，至 1306.97 点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3054891.d.html</link>
-            <guid>4489055</guid>
-            <pubDate>Mon, 10 Nov 2025 03:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼10月份消费者信心升至121.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3241351.d.html</link>
-            <guid>4489054</guid>
-            <pubDate>Mon, 10 Nov 2025 02:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海金嘉商务广场部分资产二拍流拍 起拍价3.82亿元】上海嘉定区金嘉商务广场项目部分资产第二次拍卖流拍。据法拍网信息，位于上海嘉定区天祝路789弄1号楼202等91套、2号、3_11号全幢、12号、12号地下1层车位（机械）302-316的不动产，今日结束拍卖，被拍标的物所在物业名称为“金嘉商务广场”。截至今日上午10:00拍卖结束，报名人数为0，本次拍卖流拍。公告显示，被拍标的物评估价68246万元，本次起拍价38217万元，以此计，本次起拍价约为评估价56折。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3241264.d.html</link>
-            <guid>4489053</guid>
-            <pubDate>Mon, 10 Nov 2025 02:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股建筑材料板块震荡拉升，濮耐股份、四川金顶、耀皮玻璃等多股涨停，顾地科技、海南瑞泽、三峡新材、亚泰集团等跟涨；住建部此前就国家标准《超高性能混凝土试验方法（征求意见稿）》公开征求意见。]]></title>
-            <guid>4489052</guid>
-            <pubDate>Mon, 10 Nov 2025 02:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【即梦发布青年导演合作计划 提供总额百万现金资助】即梦AI联合抖音、抖音精选发布 “即梦AI青年导演合作计划”，首期七部AI短片入选。据了解，入选导演可免费使用即梦AI的各项先进技术工具；二是百万现金资助，为创作提供资金支持；三是千万流量扶持，在抖音、抖音精选等平台为优秀作品提供亿级曝光机会。（科创板日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3241171.d.html</link>
-            <guid>4489051</guid>
-            <pubDate>Mon, 10 Nov 2025 02:58:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京一在建工地外立面发生火灾，无人员伤亡】北京市经开区消防救援支队发布警情通报：11月10日上午9时13分，开发区消防救援支队指挥中心接报位于建安街8号一个在建工地外立面发生火灾的警情，迅速调派力量到场处置，目前火已熄灭，无人员被困、伤亡。具体火灾原因正在进一步调查中。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3054130.d.html</link>
-            <guid>4489050</guid>
-            <pubDate>Mon, 10 Nov 2025 02:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国中证白酒指数上涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3240965.d.html</link>
-            <guid>4489049</guid>
-            <pubDate>Mon, 10 Nov 2025 02:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10月鸡蛋批发价同比降超26%】记者从农业农村部了解到，10月份全国鸡蛋供应充裕，环比价格小幅下降。据商户介绍，由于鸡蛋储存商的鸡蛋存量仍然较大，并随时准备出库，对现在的蛋价形成制约，因此11月份第一周鸡蛋价格延续下降走势，周降幅在4%左右。据了解，这两年，鸡蛋主要产区现代化规模养鸡场增加较快，使得鸡蛋市场供应大于需求的局面得以较长时间的维持。据农业农村部监测，10月份全国鸡蛋批发价为每公斤7.63元，环比下降5.22%，同比下降26.56%。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7843540.d.html</link>
-            <guid>4489048</guid>
-            <pubDate>Mon, 10 Nov 2025 02:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华锦股份：公司业绩不会触发退市风险警示】华锦股份11月7日在业绩说明会表示，关于公司是否会被ST，根据相关规定，公司业绩不会触发退市风险警示。公司连续亏损的原因，与国际油价的波动有关，但并非唯一原因。除了油价因素外，还包括石化行业下游需求不足、供大于求、新能源汽车替代加速等多方面因素。公司已经意识到这些问题，并在积极采取措施应对，如优化采购策略、开拓新渠道、提升营销运营水平等，以降低原料波动带来的不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1634400.d.html</link>
-            <guid>4489047</guid>
-            <pubDate>Mon, 10 Nov 2025 02:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉Model Y L上线交流外供电功能】11月10日，特斯拉宣布，Model Y L上线交流外供电功能。即日起，用户将Model Y L车辆升级至2025.32.300及以上软件版本，及手机App升级至4.50.5及以上版本后，即可通过专用“交流外供电适配器”配件实现对外供电功能。此功能目前仅限Model Y L车型使用。近日开始交付的Model Y L车辆将随车一并交付交流外供电适配器。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7843125.d.html</link>
-            <guid>4489046</guid>
-            <pubDate>Mon, 10 Nov 2025 02:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州市增城区沙村地铁站北侧宅地底价成交】11月10日，广州市增城区迎来一宗宅地出让。该地块位于增城区新塘镇地铁13号线沙村站北侧，地块出让面积45164.66㎡，规划建筑面积112911㎡，容积率2.5，起始价8.05亿元。最终广州市增城区东进城市开发投资有限公司以底价8.05亿元竞得地块，成交楼面价7130元/㎡，溢价率0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7842660.d.html</link>
-            <guid>4489045</guid>
-            <pubDate>Mon, 10 Nov 2025 02:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白酒股持续拉升，泸州老窖等股涨超5%】白酒股持续拉升，泸州老窖、迎驾贡酒、古井贡酒涨超5%，山西汾酒、舍得酒业涨超4%，贵州茅台、五粮液纷纷上扬。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3239905.d.html</link>
-            <guid>4489044</guid>
-            <pubDate>Mon, 10 Nov 2025 02:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股新消费概念盘初走强，沪上阿姨涨超10%，泡泡玛特回升涨超6%，卫龙美味、奈雪的茶、茶百道、蜜雪集团等个股跟涨。]]></title>
-            <guid>4489043</guid>
-            <pubDate>Mon, 10 Nov 2025 02:53:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首届中埃投资论坛在开罗举行】首届中埃投资论坛9日在埃及首都开罗举行，吸引200多家中埃企业参加。论坛旨在搭建对接交流平台，共同挖掘投资合作新增长点。 埃及投资和外贸部长哈桑·哈提卜在论坛上表示，埃及致力于将两国在投资和贸易领域的合作提升到更广阔的领域。“我们将努力吸引更多中国企业来埃及投资，扩大联合生产出口基地，从而实现平衡的贸易和投资关系，以支持本地制造业发展，提升产品附加值。”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7842065.d.html</link>
-            <guid>4489042</guid>
-            <pubDate>Mon, 10 Nov 2025 02:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【住建部就国家标准《超高性能混凝土试验方法（征求意见稿）》公开征求意见】根据《国家标准化管理委员会关于下达2023年第三批推荐性国家标准计划及相关标准外文版计划的通知》，中国建筑科学研究院有限公司等单位起草了国家标准《超高性能混凝土试验方法（征求意见稿）》。近日，住房城乡建设部就国家标准《超高性能混凝土试验方法（征求意见稿）》公开征求意见。意见反馈截止时间为2025年12月5日。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7841639.d.html</link>
-            <guid>4489041</guid>
-            <pubDate>Mon, 10 Nov 2025 02:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碳酸锂连续主力合约日内涨6%，现报86160.00元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3238085.d.html</link>
-            <guid>4489040</guid>
-            <pubDate>Mon, 10 Nov 2025 02:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股新消费概念盘初走强，沪上阿姨(02589.HK)涨超10%，泡泡玛特(09992.HK)回升涨超6%，卫龙美味(09985.HK)、奈雪的茶(02150.HK)、茶百道(02555.HK)、蜜雪集团(02097.HK)等个股跟涨。]]></title>
-            <guid>4489039</guid>
-            <pubDate>Mon, 10 Nov 2025 02:49:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：铝冶炼商创新实业集团有限公司已开始评估投资者对其香港首次公开募股(IPO)的兴趣。]]></title>
-            <guid>4489038</guid>
-            <pubDate>Mon, 10 Nov 2025 02:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国参议院民主党人已到场支持这项避免政府停摆的协议，但目前仍在等待四位共和党人兑现支持。]]></title>
-            <guid>4489037</guid>
-            <pubDate>Mon, 10 Nov 2025 02:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股泡泡玛特涨超6%，现报217.4港元】 港股泡泡玛特涨超6%，现报217.4港元。公司产能规模逐步提升，管理层预期第四季销售将有更强劲表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7839936.d.html</link>
-            <guid>4489036</guid>
-            <pubDate>Mon, 10 Nov 2025 02:47:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【教育部部署做好深化中小学教师减负工作】近日，教育部印发《关于进一步减轻中小学教师非教育教学负担若干措施的通知》（以下简称《通知》），对深化中小学教师减负工作作出系统部署。
-
-《通知》立足教师减负工作实际，聚焦关键环节和突出问题，从严格规范发文审核、清单管理督查检查、优化社会事务进校园“白名单”制度、严控借调借用教师、精简数据填报、完善课后服务保障、健全监测核查及强化部门工作协同等方面提出8条措施，为各地推进教师减负工作提供明确指引，推动教师减负工作制度化、规范化、长效化。
-
-《通知》突出系统治理、标本兼治、精准管理，着力破解教师负担过重的结构性矛盾和深层次问题。强化量化管控，明确“白名单”事项总量、进校园活动频次等具体指标，提升政策可操作性。坚持系统施策，从事前源头把关、事中规范管理到事后监测问责，构建全链条治理机制。推进协同治理，建立涵盖教育督导、网络巡查、举报受理、监督员队伍、第三方监测等多维度监督体系，加强与纪检监察、网信、公安等部门的协同联动，凝聚工作合力。
-
-《通知》要求，要推动发挥各地党委教育工作领导小组对教师减负工作的统筹协调作用，将教师减负治理与整治形式主义为基层减负重点工作统筹推进。要强化监督指导，对执行不力、问题突出的地区和单位进行约谈通报，严肃追责问责。各地教育行政部门要结合实际精准施策，确保减负措施落到实处、取得实效，切实维护教师职业尊严和合法权益，为加快建设教育强国提供坚强师资保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3049041.d.html</link>
-            <guid>4489035</guid>
-            <pubDate>Mon, 10 Nov 2025 02:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【次新股旺山旺水-B盘中跌超20%】11月10日，旺山旺水-B延续下跌走势，开盘报66港元/股，盘中跌超20%，最低报52.25港元/股。截至10时27分，旺山旺水-B跌16.64%，报55.1港元/股，总市值约92.35亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1629426.d.html</link>
-            <guid>4489034</guid>
-            <pubDate>Mon, 10 Nov 2025 02:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【供需偏紧 磷化工、氟化工板块多股涨停】截至11月10日10点27分，万得氟化工指数、万得磷化工指数均超4%。氟化工板块中，深圳新星、鲁西化工涨停，永太科技、多氟多、湖北宜化等涨幅居前。磷化工板块中，粤桂股份、澄星股份涨停，清水源、云天化、云图控股、川发龙蟒涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3236677.d.html</link>
-            <guid>4489033</guid>
-            <pubDate>Mon, 10 Nov 2025 02:45:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【零售、美容护理等大消费板块集体走强，依依股份涨停】零售、美容护理等大消费板块集体走强，依依股份、东百集团涨停，中国中免此前涨停，王府井、拉芳家化、爱美客跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3048661.d.html</link>
-            <guid>4489032</guid>
-            <pubDate>Mon, 10 Nov 2025 02:45:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国农业发展银行增资至2260亿 增幅13%】天眼查工商信息显示，近日，中国农业发展银行发生工商变更，注册资本由2000亿人民币增至2260亿人民币，增幅13%。中国农业发展银行成立于1994年10月，法定代表人为湛东升，经营范围包括办理粮食、棉花、油料、食糖、猪肉、化肥等重要农产品收购、储备、调控和调销贷款等。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1629164.d.html</link>
-            <guid>4489031</guid>
-            <pubDate>Mon, 10 Nov 2025 02:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【化纤概念持续走强，新乡化纤涨停】化纤概念持续走强，新乡化纤涨停，恒逸石化、新凤鸣、蒙泰高新、蓝丰生化、华峰化学等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7839225.d.html</link>
-            <guid>4489030</guid>
-            <pubDate>Mon, 10 Nov 2025 02:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾调整大米进口关税 2026年生效】据报道，菲律宾总统星期天（11月9日）发布行政命令，从2026年1月1日起，国际大米价格每下降5%，进口关税将上调5个百分点；国际大米价格每上涨5%，进口关税将下调5个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3236492.d.html</link>
-            <guid>4489029</guid>
-            <pubDate>Mon, 10 Nov 2025 02:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美容护理板块持续走强，依依股份涨停】美容护理板块持续走强，依依股份涨停，名臣健康、爱美客、拉芳家化、锦盛新材、两面针等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3236126.d.html</link>
-            <guid>4489028</guid>
-            <pubDate>Mon, 10 Nov 2025 02:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人形机器人板块震荡走弱，浙江荣泰触及跌停，胜宏科技、汉宇集团、力星股份、蓝思科技、三花智控、杭州柯林等跟跌。]]></title>
-            <guid>4489027</guid>
-            <pubDate>Mon, 10 Nov 2025 02:44:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ETF两市成交额超2000亿元】截至目前，ETF两市成交额超2000亿元，报2023.31亿元，分类型来看，股票型ETF成交额552.3亿元，债券型ETF成交额1008.29亿元，货币型ETF成交额100.01亿元，商品型ETF成交额48.71亿元，QDII型ETF成交额186.55亿元。其中，成交额最高的非货币型ETF分别是易方达中证香港证券投资主题(港股通)ETF（513090）、广发中证香港创新药(qdii-ETF)（513120）、华夏中证a500ETF（512050），成交额分别为39.44亿元、27.11亿元、23.61亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1628573.d.html</link>
-            <guid>4489026</guid>
-            <pubDate>Mon, 10 Nov 2025 02:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议员安娜・保利娜・卢纳：约翰逊议长已告知我，一旦我们返回国会且政府重新运作，禁止内幕交易的法案将在委员会启动审议修改程序。]]></title>
-            <guid>4489025</guid>
-            <pubDate>Mon, 10 Nov 2025 02:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南向资金净买入额达20亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7837479.d.html</link>
-            <guid>4489024</guid>
-            <pubDate>Mon, 10 Nov 2025 02:42:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【创业板指跌幅扩大至2％】创业板指跌幅扩大至2％，算力硬件、人形机器人概念股领跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7837054.d.html</link>
-            <guid>4489023</guid>
-            <pubDate>Mon, 10 Nov 2025 02:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股券商股短线走高，东北证券涨超4%，湘财股份涨超3%，东兴证券、华泰证券、广发证券、中信建投等个股跟涨。]]></title>
-            <guid>4489022</guid>
-            <pubDate>Mon, 10 Nov 2025 02:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华泰证券：看好统一企业中国经营维持稳健 微降目标价至11.69港元】华泰证券发表研报指，统一企业中国2025年首三季度净利润为20.1亿元，按年增长23.1%， 对应2025第三季度净利润7.3亿元，按年增长8.4%。该行看好公司经营维持稳健，分红比例高企，股息率具备吸引力。展望来看，该行预计统一2026年国内采购部分的原物料价格有望维持稳定，公司整体成本压力预计可控。综合考虑外部消费环境与行业竞争态势，该行小幅下调盈利预测，预计公司2025至2027年归母净利润为22.4亿、24.2亿和25.4亿元，分别按年增长21.2%、7.8%及5%，对应每股盈利为0.52元、0.56元及0.59元。参考可比公司2026年平均市盈率19倍，给予其2026年市盈率19倍，对应目标价11.69港元(前次目标价11.8港元，对应2025年20倍市盈率)，维持“买入”评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7836242.d.html</link>
-            <guid>4489021</guid>
-            <pubDate>Mon, 10 Nov 2025 02:40:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 国光连锁盘中涨停，涨幅9.98%，成交额超6亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1626001.d.html</link>
-            <guid>4489020</guid>
-            <pubDate>Mon, 10 Nov 2025 02:39:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 亚马逊：将低成本电子商务服务Amazon Bazaar（Haul）扩展到了另外14个市场，在全球销售10美元连衣裙和5美元配饰等超廉价商品。]]></title>
-            <guid>4489019</guid>
-            <pubDate>Mon, 10 Nov 2025 02:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩元兑美元汇率上涨0.5%，至1454.10韩元兑1美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7835558.d.html</link>
-            <guid>4489018</guid>
-            <pubDate>Mon, 10 Nov 2025 02:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福建投资集团等成立医疗产业创业投资合伙企业】企查查APP显示，近日，厦门福创大博医疗产业创业投资合伙企业（有限合伙）成立，出资额3亿元，经营范围为创业投资（限投资未上市企业）。企查查股权穿透显示，该合伙企业由福建省投资开发集团有限责任公司、广西大博商通创业投资有限公司等共同出资。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1625276.d.html</link>
-            <guid>4489017</guid>
-            <pubDate>Mon, 10 Nov 2025 02:38:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国中免A股触及涨停】中国中免A股触及涨停，成交额53.32亿元。H股现涨超11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1625146.d.html</link>
-            <guid>4489016</guid>
-            <pubDate>Mon, 10 Nov 2025 02:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电池板块高开低走，宁德时代跌超3%，厦钨新能跌超7%，欣旺达跌超6%，当升科技、珠海冠宇等个股走弱；芳源股份20cm涨停。]]></title>
-            <guid>4489015</guid>
-            <pubDate>Mon, 10 Nov 2025 02:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国一重、电气风电成立新能源公司，含输电业务】企查查APP显示，近日，龙江盛风新能源有限公司成立，法定代表人为黄晓勇，注册资本为1.58亿元，经营范围包含：风力发电技术服务；新能源原动设备销售；建设工程施工；发电业务、输电业务、供（配）电业务等。企查查股权穿透显示，该公司由一重上电（齐齐哈尔市）新能源有限公司全资持股，后者由中国一重、电气风电共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3044472.d.html</link>
-            <guid>4489014</guid>
-            <pubDate>Mon, 10 Nov 2025 02:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鸿蒙智行：智界R7累计交付突破100000台。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7833847.d.html</link>
-            <guid>4489013</guid>
-            <pubDate>Mon, 10 Nov 2025 02:37:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚海事局：预计将对倾覆移民船只的幸存者展开为期7天的搜寻。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7833531.d.html</link>
-            <guid>4489012</guid>
-            <pubDate>Mon, 10 Nov 2025 02:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国参议员穆尔科斯基在离开参议院会场时表示，议员们仍不确定能否就今晚的两党协议达成时间安排。至少目前，已有多人动身返乡。]]></title>
-            <guid>4489011</guid>
-            <pubDate>Mon, 10 Nov 2025 02:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国3年期公司债收益率下跌2个基点至3.266%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3230160.d.html</link>
-            <guid>4489010</guid>
-            <pubDate>Mon, 10 Nov 2025 02:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股食品饮料板块震荡走高，欢乐家直线拉升触及20cm涨停，庄园牧场、惠发食品、好想你、盖世食品等个股跟涨。]]></title>
-            <guid>4489009</guid>
-            <pubDate>Mon, 10 Nov 2025 02:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纵横股份等在浙江成立低空产业公司】企查查APP显示，近日，浙江鉴水纵横低空产业有限公司成立，法定代表人为任斌，注册资本为3000万元，经营范围包含：智能无人飞行器制造；智能机器人的研发；智能无人飞行器销售；电子产品销售等。企查查股权穿透显示，该公司由纵横股份全资子公司浙江大鹏纵横无人机科技有限公司、浙江空域融合低空产业发展有限公司共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3042258.d.html</link>
-            <guid>4489008</guid>
-            <pubDate>Mon, 10 Nov 2025 02:34:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【闪存价格集体暴涨！科创半导体ETF涨超3%，规模最大的芯片ETF盘中获资金净申购】今日存储芯片板块强势反弹，神工股份20CM涨停，京仪装备涨超12%，带动科创半导体涨3.5%，同标的规模最大的芯片ETF微跌0.3%，盘中获得资金净申购2000万份。①英伟达首席执行官黄仁勋周六表示，英伟达的三家AI存储芯片供应商——SK海力士、三星电子和美光科技——都已提升了“巨大的产能”以支持英伟达。由于AI需求依然强劲，他已向台积电要求增加芯片供应。②据媒体报道，闪迪已经将11月份的NAND闪存报价提高了50％，业内同行立即暂停发货，并重新评估报价。本月伊始，日本全面限购内存、SSD、机械硬盘。③闪迪截至2025年10月3日季度业绩显示：季度营收、毛利率超预期，预计供不应求持续至2026年底；存储芯片涨价带动芯存诚邦、晶存科技业绩预计翻倍；华虹半导体第三季毛利率及第四季指引均好过预期。相关产品，及截至发稿涨跌幅：聚焦科创板的半导体国产替代设备+材料：科创半导体ETF(588170)，+3.55%，近20日合计净流入10.46亿元，成份股涵盖中微公司（刻蚀设备）、拓荆科技（薄膜沉积设备）、华海清科（CMP设备）、沪硅产业（300mm硅片）、天岳先进（碳化硅衬底）。全市场规模最大的芯片行业ETF：芯片ETF(159995)，-0.23%，最新规模高达289.78亿元，覆盖芯片全产业链，权重股包括中芯国际、寒武纪、长电科技、北方华创等龙头股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1622728.d.html</link>
-            <guid>4489007</guid>
-            <pubDate>Mon, 10 Nov 2025 02:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李斌在蔚来电池科技公司职位发生变更 由董事长变更为董事】天眼查工商信息显示，近日，蔚来电池科技（安徽）有限公司发生工商变更，李斌由董事长变更为董事，曾澍湘卸任法定代表人、董事兼总经理，由何旭接任。该公司成立于2022年10月，注册资本20亿人民币，经营范围含电池制造、电池销售、电子专用材料研发、石墨及碳素制品销售、新型膜材料销售、汽车零部件及配件制造、新能源汽车电附件销售、智能输配电及控制设备销售、资源再生利用技术研发、人工智能应用软件开发等。股东信息显示，该公司由蔚来控股有限公司全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3228304.d.html</link>
-            <guid>4489004</guid>
-            <pubDate>Mon, 10 Nov 2025 02:32:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南玻A：青海高纯晶硅项目正按计划推进试生产工作】南玻A在互动平台上回答投资者提问时表示，目前公司青海高纯晶硅产品主要应用于太阳能光伏领域，该项目正按计划推进试生产工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1621834.d.html</link>
-            <guid>4489003</guid>
-            <pubDate>Mon, 10 Nov 2025 02:32:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东证指数在早盘收盘时上涨 0.3%，达到 3307.39 点 ；日本日经指数在早盘收盘时上涨 1%，达到 50766.89 点。]]></title>
-            <guid>4489002</guid>
-            <pubDate>Mon, 10 Nov 2025 02:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Mysteel数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨3050元/吨，中间价报83900元/吨。]]></title>
-            <guid>4489001</guid>
-            <pubDate>Mon, 10 Nov 2025 02:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股免税概念震荡走高，东百集团涨停，中国中免涨超7%，春秋航空、珠免集团、中百集团、王府井等个股跟涨。]]></title>
-            <guid>4489000</guid>
-            <pubDate>Mon, 10 Nov 2025 02:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花旗：对均胜电子开展30日上行催化剂观察 目标价27港元】花旗发表报告，对均胜电子开展30日上行催化剂观察，因其风险回报具吸引力。另外，特斯拉Optimus第三代机器人预计将于明年初亮相，考虑到均胜电子现有的汽车零件合作关系，以及丰富的机器人零件产品线，该行预期公司具备良好条件可争取更多Optimus零组件订单。该行预期均胜电子净利润率持续扩张，由今年第二季及第三季的2.3%及2.7%，估算第四季可升至3.1%；予其目标价27港元及“买入”评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7829946.d.html</link>
-            <guid>4488999</guid>
-            <pubDate>Mon, 10 Nov 2025 02:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百亿私募数量暴增至113家 单月新增18家】私募行业迎来显著的变化，百亿私募数量暴增。私募排排网数据显示，截10月底，百亿私募数量一举突破至113家。仅10月新晋百亿私募达到18家。其中，喜岳投资、上海信璞私募、平方和投资、大道投资、利位私募、上海孝庸私募、纽达投资、超量子基金、元康私募和诚旸投资等10家私募，都是首次踏入百亿阵营的“新面孔”；望正资产、宽投资产、远信投资、赫富投资、旌安投资、梅山保税港区凌顶投资、磐松资产和上海新方程私募等8家私募，则是再次回归百亿阵营的“熟面孔”。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3227076.d.html</link>
-            <guid>4488998</guid>
-            <pubDate>Mon, 10 Nov 2025 02:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股中国中免(01880.HK)涨超10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1620159.d.html</link>
-            <guid>4488997</guid>
-            <pubDate>Mon, 10 Nov 2025 02:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚海事局：另一艘载有约230名乘客的移民船只状况不明。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7828837.d.html</link>
-            <guid>4488996</guid>
-            <pubDate>Mon, 10 Nov 2025 02:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【培育钻石概念走强 沃尔德涨超7%】培育钻石概念走强，沃尔德涨超7%，英诺激光、晶盛机电、四方达、恒盛能源、曼卡龙等涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3225781.d.html</link>
-            <guid>4488995</guid>
-            <pubDate>Mon, 10 Nov 2025 02:29:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【聚杰微纤：肌动科技针对仿生驱动纤维产品所开展的应用研发正有序推进中 尚未量产】聚杰微纤10日在互动平台上回答投资者提问时表示，公司子公司肌动科技针对仿生驱动纤维产品所开展的应用研发工作，处于有序推进的进程中。与此同时，相关产品的量产工作同样在稳步推进。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3225757.d.html</link>
-            <guid>4488994</guid>
-            <pubDate>Mon, 10 Nov 2025 02:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚海事局：搭载移民的沉没船只上约有70人。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3225403.d.html</link>
-            <guid>4488992</guid>
-            <pubDate>Mon, 10 Nov 2025 02:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【维信诺一字涨停 合肥国资拟入主】11月10日早盘，维信诺开盘便封住涨停一字板，股价达9.32元/股，涨幅至10.04%。11月9日晚，维信诺公告称，公司拟向合肥建曙投资有限公司定向发行4.19亿股股票，发行价格为7.01元/股，募集资金总额不超过29.37亿元，扣除发行费用后拟全部用于补充流动资金及偿还公司债务。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3225302.d.html</link>
-            <guid>4488991</guid>
-            <pubDate>Mon, 10 Nov 2025 02:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ETF两市成交额超1500亿元】截至目前，ETF两市成交额超1500亿元，报1504.47亿元，分类型来看，股票型ETF成交额473.7亿元，债券型ETF成交额624.36亿元，货币型ETF成交额87.20亿元，商品型ETF成交额42.47亿元，QDII型ETF成交额166.89亿元。其中，成交额最高的非货币型ETF分别是易方达中证香港证券投资主题(港股通)ETF（513090）、广发中证香港创新药(qdii-ETF)（513120）、恒生科技（513130），成交额分别为29.63亿元、24.64亿元、18.67亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpf3225174.d.html</link>
-            <guid>4488990</guid>
-            <pubDate>Mon, 10 Nov 2025 02:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大和升华虹半导体评级至“买入”，上调目标价至110港元】大和近日发表报告指，华虹半导体(01347.HK)第三季净利润逊预期，受所得税及少数股权影响，但其他关键指标均好过该行预期。该行认为公司将受惠于下游需求增长，因而提高公司的议价能力及业务灵活性，推动产品组合、平均售价及利润率改善。此外，该行相信公司作为AI协同晶片的晶圆供应商，将受惠于明年AI发展势头持续。该行将华虹半导体(01347.HK)的投资评级，由“持有”上调至“买入”，目标价由42港元上调至110港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3038898.d.html</link>
-            <guid>4488989</guid>
-            <pubDate>Mon, 10 Nov 2025 02:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乐舒适登陆港股 上市首日涨超30%】11月10日，乐舒适正式登陆港交所。高开33%后，乐舒适继续走高，最高涨至36.8港元，之后震荡回落。截至10时13分，该股报34.46港元，涨31.53%，成交额为9.07亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnx1619258.d.html</link>
-            <guid>4488988</guid>
-            <pubDate>Mon, 10 Nov 2025 02:28:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩总统特使姜勋植本周将访问阿联酋促进防务合作】据韩国总统办公室负责人10日透露，总统室秘书室长（幕僚长）姜勋植本周将作为“战略经济合作总统特使”访问阿联酋，与阿方探讨两国防务产业合作方案。据推测，考虑到阿联酋是韩国主要防务出口对象国，姜勋植将同阿方高级别人士就阿方采购韩制武器等两国合作事宜进行讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrpa3038567.d.html</link>
-            <guid>4488987</guid>
-            <pubDate>Mon, 10 Nov 2025 02:28:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【岚图汽车第30万辆整车岚图泰山正式下线】11月10日，岚图汽车第30万辆整车岚图泰山正式下线，标志着岚图成为国内首个达成30万辆的央国企高端新能源品牌，这也是东风汽车冲刺年度新能源100万销量目标的关键一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2025-11-10/detail-infwwrnw7826793.d.html</link>
-            <guid>4488986</guid>
-            <pubDate>Mon, 10 Nov 2025 02:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华东地区首架AS700载人飞艇正式交付】被誉为“空中白鲸”的“祥云”AS700载人飞艇近日飞抵浙江省绍兴市越城区鉴水科技城，标志着华东地区首架AS700载人飞艇正式交付。AS700载人飞艇由中国航空工业集团特种飞行器研究所自主研制，是我国首个按适航规范研制、拥有完全自主知识产权的载人飞艇。它总长50米，最大航程700千米，可搭载10人。该飞艇凭借“低空慢飞、安全可靠”的特点，可在100—300米的最佳观景高度，让游客俯瞰祖国河山大好风光。（央视新闻）]]></title>
-            <guid>4488985</guid>
-            <pubDate>Mon, 10 Nov 2025 02:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -6,6 +6,464 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4490480,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2582660.d.html",
+            "title": "纽约期金突破4120美元/盎司，日内涨2.75%。",
+            "date_modified": "2025-11-10T18:27:18.000Z"
+        },
+        {
+            "id": 4490479,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2582609.d.html",
+            "title": "叙利亚政权领导人离开白宫。",
+            "date_modified": "2025-11-10T18:25:30.000Z"
+        },
+        {
+            "id": 4490478,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2582591.d.html",
+            "title": "泽连斯基：腐败行为必须受到惩处。",
+            "date_modified": "2025-11-10T18:24:53.000Z"
+        },
+        {
+            "id": 4490477,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1071355.d.html",
+            "title": "泽连斯基：任何参与腐败阴谋的人都将被追究责任。",
+            "date_modified": "2025-11-10T18:24:48.000Z"
+        },
+        {
+            "id": 4490476,
+            "content_html": "",
+            "title": "泽连斯基：乌克兰国家核能发电公司（Energoatom）提供了乌克兰大部分电力，必须杜绝腐败现象。",
+            "date_modified": "2025-11-10T18:24:45.000Z"
+        },
+        {
+            "id": 4490475,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4896872.d.html",
+            "title": "【加拿大失去“麻疹消除国”地位】加拿大公共卫生署10日发表声明确认，由于境内麻疹疫情持续传播超过一年，泛美卫生组织已正式通知加拿大，该国失去“麻疹消除国”地位。",
+            "date_modified": "2025-11-10T18:22:05.000Z"
+        },
+        {
+            "id": 4490474,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqk2430218.d.html",
+            "title": "美国和叙利亚两国领导人之间的会议结束。",
+            "date_modified": "2025-11-10T18:21:44.000Z"
+        },
+        {
+            "id": 4490473,
+            "content_html": "",
+            "title": "泽连斯基就乌克兰国家原子能公司腐败丑闻作出回应：针对腐败问题必须作出判决，政府官员应与NABU（乌克兰国家反贪局）开展合作以取得成效。",
+            "date_modified": "2025-11-10T18:20:53.000Z"
+        },
+        {
+            "id": 4490472,
+            "content_html": "",
+            "title": "摩根士丹利将闪迪（Sandisk）目标股价从每股230.00美元上调至263.00美元。",
+            "date_modified": "2025-11-10T18:19:55.000Z"
+        },
+        {
+            "id": 4490471,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4896623.d.html",
+            "title": "现货黄金突破4110美元/盎司，日内涨2.72%。",
+            "date_modified": "2025-11-10T18:18:34.000Z"
+        },
+        {
+            "id": 4490470,
+            "content_html": "",
+            "title": "周一（11月10日），美联储隔夜逆回购协议（RRP）使用规模为71.52亿美元，上个交易日报49.03亿美元。",
+            "date_modified": "2025-11-10T18:17:24.000Z"
+        },
+        {
+            "id": 4490469,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1070911.d.html",
+            "title": "美国将取消更年期激素治疗相关警示。",
+            "date_modified": "2025-11-10T18:16:20.000Z"
+        },
+        {
+            "id": 4490468,
+            "content_html": "",
+            "title": "智利铜业委员会（Cochilco）：智利科亚瓦西（Collahuasi）铜矿9月铜产量同比下降26%，至3.8万吨。",
+            "date_modified": "2025-11-10T18:14:42.000Z"
+        },
+        {
+            "id": 4490467,
+            "content_html": "",
+            "title": "智利铜业委员会（Cochilco）：智利埃斯孔迪达（Escondida）铜矿9月铜产量增长16.8%，至11.86万吨。",
+            "date_modified": "2025-11-10T18:14:17.000Z"
+        },
+        {
+            "id": 4490466,
+            "content_html": "",
+            "title": "景林资产第三季度在文远知行上新建重仓，增持亚朵、阿里巴巴和拼多多并清仓大全新能源。",
+            "date_modified": "2025-11-10T18:14:01.000Z"
+        },
+        {
+            "id": 4490465,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4896341.d.html",
+            "title": "德国将于2026年将对乌克兰的援助提高至115亿欧元。",
+            "date_modified": "2025-11-10T18:13:32.000Z"
+        },
+        {
+            "id": 4490463,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1070682.d.html",
+            "title": "【以总理拒绝为2023年10月7日事件成立国家调查委员会】当地时间10日，以色列议会就调查2023年10月7日事件举行特别辩论，以总理内塔尼亚胡再次拒绝反对派提出的成立国家调查委员会的要求，称不会同意建立“一半民众不接受”的调查机制。",
+            "date_modified": "2025-11-10T18:10:29.000Z"
+        },
+        {
+            "id": 4490462,
+            "content_html": "",
+            "title": "智利铜业委员会（Cochilco）：智利国家铜业公司（Codelco）9月铜产量同比下降7.2%，至11.56万吨。",
+            "date_modified": "2025-11-10T18:09:21.000Z"
+        },
+        {
+            "id": 4490461,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2581814.d.html",
+            "title": "Fair Isaac涨超2%。",
+            "date_modified": "2025-11-10T18:08:09.000Z"
+        },
+        {
+            "id": 4490460,
+            "content_html": "",
+            "title": "美国联邦住房金融局局长普尔特：目前正在审查与费埃哲公司（Fair Isaac）就实施其新信用评分系统达成的潜在协议。",
+            "date_modified": "2025-11-10T18:06:38.000Z"
+        },
+        {
+            "id": 4490459,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqk2429259.d.html",
+            "title": "英伟达拉丁美洲企业部门负责人：英伟达计划在墨西哥开展新投资。",
+            "date_modified": "2025-11-10T18:06:32.000Z"
+        },
+        {
+            "id": 4490458,
+            "content_html": "",
+            "title": "三年期美国国债拍卖结束后，三年期美债收益率回吐涨幅；最新上涨2.4个基点，至3.59%。",
+            "date_modified": "2025-11-10T18:04:23.000Z"
+        },
+        {
+            "id": 4490457,
+            "content_html": "",
+            "title": "谷歌旗下自动驾驶技术公司Waymo：史蒂夫·菲勒将在未来几周加入Waymo，担任新任首席财务官。",
+            "date_modified": "2025-11-10T18:04:19.000Z"
+        },
+        {
+            "id": 4490456,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2581644.d.html",
+            "title": "声明显示：加拿大邮政向加拿大政府提交其拟议的转型计划。",
+            "date_modified": "2025-11-10T18:03:22.000Z"
+        },
+        {
+            "id": 4490455,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1070350.d.html",
+            "title": "美国财政部：暂停实施制裁措施，但涉及俄罗斯和伊朗的某些交易除外。",
+            "date_modified": "2025-11-10T18:02:44.000Z"
+        },
+        {
+            "id": 4490454,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1070342.d.html",
+            "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%，投标倍数2.85。",
+            "date_modified": "2025-11-10T18:02:23.000Z"
+        },
+        {
+            "id": 4490453,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4895467.d.html",
+            "title": "美国国务卿鲁比奥暂停了与叙利亚有关的《凯撒法案》制裁措施。",
+            "date_modified": "2025-11-10T17:59:55.000Z"
+        },
+        {
+            "id": 4490452,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1070224.d.html",
+            "title": "礼来制药一度上涨6.2%，触及历史新高。",
+            "date_modified": "2025-11-10T17:58:08.000Z"
+        },
+        {
+            "id": 4490451,
+            "content_html": "",
+            "title": "特朗普：对民主党人来说，一切都关乎“权力”，不惜一切代价也要获取权力。他们会利用并践踏任何人和任何事物，只为达到获取更多选票的目的。",
+            "date_modified": "2025-11-10T17:57:43.000Z"
+        },
+        {
+            "id": 4490450,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2581434.d.html",
+            "title": "工会声明：巴西国家石油公司工会成员批准举行潜在罢工。",
+            "date_modified": "2025-11-10T17:57:03.000Z"
+        },
+        {
+            "id": 4490449,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1070124.d.html",
+            "title": "标普500指数涨1.3%，升至盘中高点。",
+            "date_modified": "2025-11-10T17:54:50.000Z"
+        },
+        {
+            "id": 4490448,
+            "content_html": "",
+            "title": "美国航空表示，本周末因空中交通管制人员配备问题导致的航班延误和取消影响了25万名乘客。",
+            "date_modified": "2025-11-10T17:52:44.000Z"
+        },
+        {
+            "id": 4490446,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1069954.d.html",
+            "title": "美国航空：联合运营模式导致约1400个航班取消。",
+            "date_modified": "2025-11-10T17:50:40.000Z"
+        },
+        {
+            "id": 4490445,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqk2428315.d.html",
+            "title": "市场资讯：美国航空将削减未来航班运力。",
+            "date_modified": "2025-11-10T17:50:19.000Z"
+        },
+        {
+            "id": 4490444,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4894901.d.html",
+            "title": "美国航空：我们绝不会在安全问题上做出任何妥协。",
+            "date_modified": "2025-11-10T17:49:36.000Z"
+        },
+        {
+            "id": 4490443,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4894883.d.html",
+            "title": "美国航空：我们的空中交通管制员理应获得应有的报酬。",
+            "date_modified": "2025-11-10T17:49:18.000Z"
+        },
+        {
+            "id": 4490442,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqk2428232.d.html",
+            "title": "加拿大总理卡尼表示，他将于周四公布更多重大项目。",
+            "date_modified": "2025-11-10T17:48:44.000Z"
+        },
+        {
+            "id": 4490441,
+            "content_html": "",
+            "title": "泽连斯基：与塞尔维亚议会主席安娜·布纳比奇进行了会面，交谈的主要内容是关于欧洲一体化进程，这是我们两国的共同战略目标。我们还讨论了地区安全方面的国家间合作与伙伴关系。",
+            "date_modified": "2025-11-10T17:48:09.000Z"
+        },
+        {
+            "id": 4490440,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2581064.d.html",
+            "title": "巴西财长哈达德：我们今年的基本财政收支结果将非常接近财政目标区间的中间值。",
+            "date_modified": "2025-11-10T17:47:34.000Z"
+        },
+        {
+            "id": 4490439,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4894708.d.html",
+            "title": "【以总理称将以强硬手段执行加沙和以黎停火协议】当地时间10日，以色列总理内塔尼亚胡在议会讲话中表示，以色列将以“铁腕手段”确保加沙停火协议和与黎巴嫩的停火协议得到执行，但同时指出，这一政策的前提是协议仍然有效。",
+            "date_modified": "2025-11-10T17:46:49.000Z"
+        },
+        {
+            "id": 4490438,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1069740.d.html",
+            "title": "现货白银日内涨4%，现报50.26美元/盎司。",
+            "date_modified": "2025-11-10T17:46:09.000Z"
+        },
+        {
+            "id": 4490437,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1069627.d.html",
+            "title": "摩根大通将赣锋锂业A股评级上调至中性。",
+            "date_modified": "2025-11-10T17:43:35.000Z"
+        },
+        {
+            "id": 4490436,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4894516.d.html",
+            "title": "摩根大通将天齐锂业A股评级上调至中性。",
+            "date_modified": "2025-11-10T17:43:27.000Z"
+        },
+        {
+            "id": 4490435,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1069067.d.html",
+            "title": "巴菲特：与我所知的任何企业相比，伯克希尔遭遇毁灭性灾难的可能性更小。",
+            "date_modified": "2025-11-10T17:39:48.000Z"
+        },
+        {
+            "id": 4490434,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqk2427197.d.html",
+            "title": "巴菲特：伯克希尔旗下业务的前景略好于平均水平。",
+            "date_modified": "2025-11-10T17:37:29.000Z"
+        },
+        {
+            "id": 4490433,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1068898.d.html",
+            "title": "巴西财长哈达德：我们必须保持收支平衡，削减税收支出，并避免浪费。",
+            "date_modified": "2025-11-10T17:37:14.000Z"
+        },
+        {
+            "id": 4490432,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqk2427150.d.html",
+            "title": "【伦敦金库10月白银流入数量创九年新高 缓解供应紧张】伦敦金库持有的白银在10月份激增，创至少九年来最大增幅，缓解了此前极端的供应紧张局面。伦敦金库在10月新增近5400万盎司白银，相当于超过100辆伦敦双层巴士的重量。今年早些时候，由于关税担忧引发大量白银流向纽约，伦敦库存一度跌至历史最低水平。10月初，印度需求激增，加上白银ETF买盘涌入，市场供应不足，导致伦敦现货白银基准价格较其他市场最高溢价3美元/盎司。这为交易员创造了一个极具吸引力的套利机会，他们可以迅速从美国等地的金库里取出金属，然后空运到伦敦。",
+            "date_modified": "2025-11-10T17:37:02.000Z"
+        },
+        {
+            "id": 4490431,
+            "content_html": "",
+            "title": "法庭文件显示，参与刷卡手续费诉讼的商家预计，与Visa和万事达卡拟达成的和解协议将使商家在2031年前节省超过380亿美元的刷卡手续费。",
+            "date_modified": "2025-11-10T17:36:56.000Z"
+        },
+        {
+            "id": 4490430,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqk2427110.d.html",
+            "title": "巴菲特：我们公司的股价将会波动不定。",
+            "date_modified": "2025-11-10T17:36:34.000Z"
+        },
+        {
+            "id": 4490429,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2579922.d.html",
+            "title": "巴菲特：我需要加快向三家基金会进行生前捐赠的节奏。",
+            "date_modified": "2025-11-10T17:35:38.000Z"
+        },
+        {
+            "id": 4490428,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1068350.d.html",
+            "title": "巴菲特：我的孩子们和伯克希尔的董事们一样，都百分百支持格雷格。",
+            "date_modified": "2025-11-10T17:34:13.000Z"
+        },
+        {
+            "id": 4490427,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2579538.d.html",
+            "title": "巴西财长哈达德：很多人都表达了自己的观点，但决定利率水平的是巴西央行。",
+            "date_modified": "2025-11-10T17:33:56.000Z"
+        },
+        {
+            "id": 4490426,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4893270.d.html",
+            "title": "巴菲特：我的孩子们都已超过了正常的退休年龄。",
+            "date_modified": "2025-11-10T17:33:09.000Z"
+        },
+        {
+            "id": 4490425,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr4893246.d.html",
+            "title": "巴西财长哈达德：我认为有降息空间。",
+            "date_modified": "2025-11-10T17:32:55.000Z"
+        },
+        {
+            "id": 4490424,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1067914.d.html",
+            "title": "欧盟议员委员会支持新的2040年气候目标。",
+            "date_modified": "2025-11-10T17:31:33.000Z"
+        },
+        {
+            "id": 4490423,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1067873.d.html",
+            "title": "巴菲特：我将不再撰写伯克希尔的年报，也不会在年会上没完没了地发言。",
+            "date_modified": "2025-11-10T17:30:52.000Z"
+        },
+        {
+            "id": 4490422,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1067866.d.html",
+            "title": "巴菲特：我将通过每年的感恩节致辞继续与你们以及我的孩子们谈论伯克希尔的情况。",
+            "date_modified": "2025-11-10T17:30:27.000Z"
+        },
+        {
+            "id": 4490421,
+            "content_html": "",
+            "title": "巴菲特：加快向我子女基金会进行生前赠予，绝不意味着我对伯克希尔·哈撒韦公司前景的看法有任何改变。",
+            "date_modified": "2025-11-10T17:30:15.000Z"
+        },
+        {
+            "id": 4490420,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqk2426360.d.html",
+            "title": "巴菲特：我要保持沉默。",
+            "date_modified": "2025-11-10T17:29:52.000Z"
+        },
+        {
+            "id": 4490419,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1067836.d.html",
+            "title": "巴菲特：在伯克希尔的股东对格雷格感到放心之前，我希望保留大量的“A”类股票。",
+            "date_modified": "2025-11-10T17:29:35.000Z"
+        },
+        {
+            "id": 4490418,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1067765.d.html",
+            "title": "伯克希尔·哈撒韦：巴菲特将不再撰写年度报告。",
+            "date_modified": "2025-11-10T17:28:07.000Z"
+        },
+        {
+            "id": 4490417,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqp2578911.d.html",
+            "title": "伯克希尔·哈撒韦：巴菲特将1800股A类股票转换为270万股B类股票用于捐赠。",
+            "date_modified": "2025-11-10T17:26:26.000Z"
+        },
+        {
+            "id": 4490416,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwycqr1067663.d.html",
+            "title": "瑞士政府拒绝对有关即将与美国达成新关税协议的报道置评。",
+            "date_modified": "2025-11-10T17:26:13.000Z"
+        },
+        {
+            "id": 4490415,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2709586.d.html",
+            "title": "美国众议院少数党领袖杰弗里斯：参议院民主党人过去7周展开了 “英勇斗争”。",
+            "date_modified": "2025-11-10T17:23:50.000Z"
+        },
+        {
+            "id": 4490414,
+            "content_html": "",
+            "title": "巴西财政部长哈达德：我预计德国将在年底前宣布对转型金融追踪基金（TFFF）的投资。",
+            "date_modified": "2025-11-10T17:22:59.000Z"
+        },
+        {
+            "id": 4490413,
+            "content_html": "",
+            "title": "美国交通部长达菲：我同意美国总统特朗普的意见，空中交通管制员必须按时上班！对于那些在停飞期间一直坚守岗位的工作人员——感谢你们的爱国精神以及为保障我们天空安全所做出的不懈努力。我将与国会合作，以表彰你们的这份奉献精神。",
+            "date_modified": "2025-11-10T17:21:56.000Z"
+        },
+        {
+            "id": 4490412,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2556266.d.html",
+            "title": "新德里电视台：涉新德里爆炸案车辆的车主已被捕。",
+            "date_modified": "2025-11-10T17:18:00.000Z"
+        },
+        {
+            "id": 4490411,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2556250.d.html",
+            "title": "欧洲议会发言人表示：关于新的欧盟气候目标的全体大会投票预计将于11月13日举行。",
+            "date_modified": "2025-11-10T17:17:49.000Z"
+        },
+        {
             "id": 4490410,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5022688.d.html",
@@ -220,471 +678,6 @@
             "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1191476.d.html",
             "title": "美国参议员桑德斯、布卢门撒尔要求（特朗普政府）就高电价问题作出答复。",
             "date_modified": "2025-11-10T16:39:42.000Z"
-        },
-        {
-            "id": 4490378,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2702549.d.html",
-            "title": "伦敦证券交易所集团裁减3000名工程师",
-            "date_modified": "2025-11-10T16:38:38.000Z"
-        },
-        {
-            "id": 4490377,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1191244.d.html",
-            "title": "美国参议院多数党领袖图恩：期待尽快审议更多拨款法案。",
-            "date_modified": "2025-11-10T16:38:15.000Z"
-        },
-        {
-            "id": 4490376,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2550515.d.html",
-            "title": "欧盟计划简化数据与人工智能相关法规，以助力企业发展。",
-            "date_modified": "2025-11-10T16:37:43.000Z"
-        },
-        {
-            "id": 4490375,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1190647.d.html",
-            "title": "吉利德首席财务官表示，公司将继续积极开展业务拓展，包括授权合作和并购。",
-            "date_modified": "2025-11-10T16:35:07.000Z"
-        },
-        {
-            "id": 4490374,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2701775.d.html",
-            "title": "美国参议院多数党领袖图恩表示，希望临时拨款法案投票能在数小时内进行。",
-            "date_modified": "2025-11-10T16:34:35.000Z"
-        },
-        {
-            "id": 4490373,
-            "content_html": "",
-            "title": "美国财政部拍卖六个月期国债，得标利率3.78%，投标倍数2.83。拍卖三个月期国债，得标利率3.69%，投标倍数2.95。",
-            "date_modified": "2025-11-10T16:32:30.000Z"
-        },
-        {
-            "id": 4490372,
-            "content_html": "",
-            "title": "联合国最新分析：到2035年，每年排放到大气中的致全球变暖气体总量将比2019年水平减少12%，此前预估为减少10%。",
-            "date_modified": "2025-11-10T16:32:17.000Z"
-        },
-        {
-            "id": 4490371,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1189881.d.html",
-            "title": "加拿大、挪威、澳大利亚等国以最强烈的措辞谴责所有暴行，并要求立即停止暴力。",
-            "date_modified": "2025-11-10T16:29:46.000Z"
-        },
-        {
-            "id": 4490370,
-            "content_html": "",
-            "title": "加拿大、挪威、澳大利亚等国在声明中表示，他们对有关苏丹境内针对平民的系统性持续暴力行为的报道深感震惊。",
-            "date_modified": "2025-11-10T16:28:57.000Z"
-        },
-        {
-            "id": 4490369,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1189667.d.html",
-            "title": "土耳其参与有关哈马斯武装分子在加沙地带藏身情况的谈判。",
-            "date_modified": "2025-11-10T16:28:25.000Z"
-        },
-        {
-            "id": 4490368,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5015866.d.html",
-            "title": "欧盟议会委员会支持2040年减排90%的目标。",
-            "date_modified": "2025-11-10T16:27:50.000Z"
-        },
-        {
-            "id": 4490367,
-            "content_html": "",
-            "title": "据高盛集团分析师称，全球18%的劳动力有可能被人工智能所取代。他们还估计，生成式人工智能能够取代或补充全球多达3亿个全职工作岗位。",
-            "date_modified": "2025-11-10T16:27:13.000Z"
-        },
-        {
-            "id": 4490366,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2549052.d.html",
-            "title": "俄罗斯：联邦安全委员会副主席梅德韦杰夫就西北联邦管区多个地区的安全问题召开会议。",
-            "date_modified": "2025-11-10T16:26:27.000Z"
-        },
-        {
-            "id": 4490364,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2548795.d.html",
-            "title": "巴里克黄金公司称，美国政府停摆正在延误雷科迪克项目的进出口银行融资。",
-            "date_modified": "2025-11-10T16:24:06.000Z"
-        },
-        {
-            "id": 4490363,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2700179.d.html",
-            "title": "【美国政府停摆期间实施飞行限制，私人飞机被禁止进入多座美国机场】受美国政府停摆影响，当局实施飞行限制，私人飞机及其他通用航空飞行器已被禁止进入洛杉矶国际机场、亚特兰大哈茨菲尔德·杰克逊国际机场、罗纳德・里根华盛顿国家机场等美国主要机场。截至周一纽约时间上午10点，美国联邦航空管理局（FAA）全国空域系统状态页面显示，约12个航空枢纽对通用航空飞行器实施了限制，其中还包括芝加哥奥黑尔国际机场和西雅图-塔科马国际机场。",
-            "date_modified": "2025-11-10T16:23:56.000Z"
-        },
-        {
-            "id": 4490362,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2699751.d.html",
-            "title": "【力高新能源技术股份有限公司启动上市辅导】据证监会官网显示，力高新能源技术股份有限公司于2025年11月10日正式启动上市辅导，中信建投证券担任辅导机构。",
-            "date_modified": "2025-11-10T16:21:47.000Z"
-        },
-        {
-            "id": 4490361,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2699743.d.html",
-            "title": "【湖南星邦智能装备股份有限公司启动上市辅导】据证监会官网显示，湖南星邦智能装备股份有限公司于2025年11月10日正式启动上市辅导，华泰联合证券有限责任公司担任辅导机构。",
-            "date_modified": "2025-11-10T16:21:45.000Z"
-        },
-        {
-            "id": 4490360,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1188345.d.html",
-            "title": "乌克兰能源部长表示，她致力于确保调查的透明度。",
-            "date_modified": "2025-11-10T16:21:01.000Z"
-        },
-        {
-            "id": 4490359,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2548322.d.html",
-            "title": "乌克兰能源部长表示，她不了解能源领域反腐调查的具体细节。",
-            "date_modified": "2025-11-10T16:20:54.000Z"
-        },
-        {
-            "id": 4490358,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1188305.d.html",
-            "title": "【联通智网科技股份有限公司启动上市辅导】据证监会官网显示，联通智网科技股份有限公司于2025年11月10日正式启动上市辅导，中国国际金融担任辅导机构。",
-            "date_modified": "2025-11-10T16:20:48.000Z"
-        },
-        {
-            "id": 4490357,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1187859.d.html",
-            "title": "吉利德首席财务官表示，公司有超过10个艾滋病（HIV）治疗项目正在研发中。",
-            "date_modified": "2025-11-10T16:18:26.000Z"
-        },
-        {
-            "id": 4490356,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1187833.d.html",
-            "title": "白宫官员：参议院的行动是一个积极进展，我们期待看到其推进。",
-            "date_modified": "2025-11-10T16:18:20.000Z"
-        },
-        {
-            "id": 4490355,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2547705.d.html",
-            "title": "美联储官员米兰：自9月以来的所有数据都指向降息方向。",
-            "date_modified": "2025-11-10T16:17:07.000Z"
-        },
-        {
-            "id": 4490354,
-            "content_html": "",
-            "title": "特朗普：康奈尔大学妥协，将支付6000万美元与特朗普政府达成协议，以恢复联邦资金 —— 此前该校因公平、多样性与包容性（DEI）相关不当做法失去该资金。",
-            "date_modified": "2025-11-10T16:16:56.000Z"
-        },
-        {
-            "id": 4490353,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2547519.d.html",
-            "title": "美联储官员米兰：坚持降息路径是正确之举。",
-            "date_modified": "2025-11-10T16:16:05.000Z"
-        },
-        {
-            "id": 4490352,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1187341.d.html",
-            "title": "【欧盟若不用俄资产援乌或债务激增】欧盟委员会在一份文件中警告，除非成员国同意动用俄罗斯遭冻结资产向乌克兰提供贷款，否则欧盟各国将面临赤字和债务激增的局面。在10月下旬的欧盟峰会上，围绕是否动用俄被冻结资产向乌克兰提供贷款，欧盟成员国发生激烈争论，未能达成一致。相关议题预计将在12月中旬的会议上再次讨论。",
-            "date_modified": "2025-11-10T16:15:40.000Z"
-        },
-        {
-            "id": 4490351,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2547350.d.html",
-            "title": "加拿大竞争局：关注算法定价工具对多户租赁住房市场竞争的潜在影响。",
-            "date_modified": "2025-11-10T16:14:39.000Z"
-        },
-        {
-            "id": 4490350,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1187140.d.html",
-            "title": "棒约翰股价一度上涨19%。",
-            "date_modified": "2025-11-10T16:14:33.000Z"
-        },
-        {
-            "id": 4490349,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1187021.d.html",
-            "title": "印度总理莫迪：向在德里爆炸案中失去亲人的人们表示哀悼。",
-            "date_modified": "2025-11-10T16:13:57.000Z"
-        },
-        {
-            "id": 4490348,
-            "content_html": "",
-            "title": "加拿大竞争局：未发现证据可认定RealPage或Yardi存在滥用市场支配地位或进行反竞争合作的行为。",
-            "date_modified": "2025-11-10T16:13:43.000Z"
-        },
-        {
-            "id": 4490347,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5013798.d.html",
-            "title": "美联储官员米兰：失业率正逐步上升，劳动力市场正在走软。",
-            "date_modified": "2025-11-10T16:13:24.000Z"
-        },
-        {
-            "id": 4490346,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5013779.d.html",
-            "title": "美联储官员米兰：我们尚未实现充分就业。",
-            "date_modified": "2025-11-10T16:13:18.000Z"
-        },
-        {
-            "id": 4490345,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5013659.d.html",
-            "title": "泛美卫生组织主任表示，加拿大已失去无麻疹传播国家的地位。",
-            "date_modified": "2025-11-10T16:12:45.000Z"
-        },
-        {
-            "id": 4490344,
-            "content_html": "",
-            "title": "吉利德首席财务官表示，医疗保险改革对艾滋病业务造成约9亿美元的不利影响，对整体业务造成12亿美元的不利影响。",
-            "date_modified": "2025-11-10T16:12:22.000Z"
-        },
-        {
-            "id": 4490343,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1186614.d.html",
-            "title": "【存储产业链上下游迎“超级周期”】近日，海外头部存储厂商闪迪（SanDisk）宣布调涨闪存合约价格，引起业界广泛关注。据了解，此次闪迪调涨幅度高达50%。 中关村物联网产业联盟副秘书长袁帅对记者表示：“海内外头部存储厂商年内已经多次调高产品价格。AI技术的迅猛发展，是推动存储市场需求高涨的根本动力。人工智能服务器和终端产品等对存储器数量和性能提出了更高要求，存储产业链上下游迎来‘超级周期’。” 对于本轮存储产品价格上调，苏商银行特约研究员付一夫在接受记者采访时表示：“与传统消费电子产品对存储产品的需求不同，人工智能技术的蓬勃发展对存储产品的存储速度、容量与功耗都提出更高要求，因此，高端存储产品的需求呈现井喷式增长。”(证券日报)",
-            "date_modified": "2025-11-10T16:11:53.000Z"
-        },
-        {
-            "id": 4490342,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2546816.d.html",
-            "title": "美联储官员米兰：资产负债表问题与货币政策问题相互独立。",
-            "date_modified": "2025-11-10T16:11:39.000Z"
-        },
-        {
-            "id": 4490341,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5013399.d.html",
-            "title": "【多部大IP电影上映在即 全年票房有望冲击500亿元】灯塔专业版数据显示，截至11月10日，2025年电影市场总票房已经达到了450.18亿元。接下来的一个多月时间内，还将有4部引进片上映，有望助力全年票房突破500亿元。具体来看，这4部影片分别为《疯狂动物城2》《惊天魔盗团3》《鬼灭之刃：无限城篇第一章猗窝座再袭》（以下简称《鬼灭之刃：无限城篇》）和《阿凡达：火与烬》，4部影片均是在国内及全球市场得到验证的知名IP，具备坚实的观众基础。(证券日报)",
-            "date_modified": "2025-11-10T16:11:31.000Z"
-        },
-        {
-            "id": 4490340,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht5013364.d.html",
-            "title": "【期货市场品种数量将增至164个】近日，证监会同意广州期货交易所铂、钯期货和期权注册。这预示着又将有4个期货及期权品种推出，全市场品种数量将增至164个。业内人士认为，铂、钯作为重要的铂族金属，在新能源领域扮演着不可替代的角色。该类期货和期权工具的推出，将为相关产业提供良好的风险管理工具，对服务实体企业意义重大。（证券日报）",
-            "date_modified": "2025-11-10T16:11:22.000Z"
-        },
-        {
-            "id": 4490339,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2697598.d.html",
-            "title": "俄罗斯10月主要出口商外汇销售环比增长68%，至82亿美元。",
-            "date_modified": "2025-11-10T16:10:39.000Z"
-        },
-        {
-            "id": 4490338,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2546569.d.html",
-            "title": "叙利亚政权领导人艾哈迈德·沙拉在白宫与特朗普举行了会面。",
-            "date_modified": "2025-11-10T16:10:21.000Z"
-        },
-        {
-            "id": 4490337,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1186145.d.html",
-            "title": "吉利德首席财务官在电话会议中表示，预计该公司艾滋病业务今年将增长5%。",
-            "date_modified": "2025-11-10T16:09:23.000Z"
-        },
-        {
-            "id": 4490336,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2697275.d.html",
-            "title": "棒约翰股价在停牌后恢复交易，最新涨幅达11.9%。",
-            "date_modified": "2025-11-10T16:08:54.000Z"
-        },
-        {
-            "id": 4490335,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2697173.d.html",
-            "title": "美国众议院自由党团主席哈里斯：临时拨款法案大概率会投赞成票。",
-            "date_modified": "2025-11-10T16:08:29.000Z"
-        },
-        {
-            "id": 4490334,
-            "content_html": "",
-            "title": "美国卫生与公众服务部（HHS）：美国食品药品监督管理局（FDA）还批准了两种新药，以扩大更年期症状的治疗选择。",
-            "date_modified": "2025-11-10T16:07:53.000Z"
-        },
-        {
-            "id": 4490333,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1185712.d.html",
-            "title": "美联储官员米兰：12月降息50个基点较为合适，至少降息25个基点。",
-            "date_modified": "2025-11-10T16:07:40.000Z"
-        },
-        {
-            "id": 4490332,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2696714.d.html",
-            "title": "美联储官员米兰：核心PCE通胀率更接近2%的目标。",
-            "date_modified": "2025-11-10T16:06:40.000Z"
-        },
-        {
-            "id": 4490331,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1185424.d.html",
-            "title": "Spotify由涨转跌。",
-            "date_modified": "2025-11-10T16:06:18.000Z"
-        },
-        {
-            "id": 4490330,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2545470.d.html",
-            "title": "美联储官员米兰：我的一些同事正在关注滞后性通胀数据。",
-            "date_modified": "2025-11-10T16:05:05.000Z"
-        },
-        {
-            "id": 4490329,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2696225.d.html",
-            "title": "美联储官员米兰：通胀正在下降。",
-            "date_modified": "2025-11-10T16:04:28.000Z"
-        },
-        {
-            "id": 4490328,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1184905.d.html",
-            "title": "美联储官员米兰：通胀数据已过时。",
-            "date_modified": "2025-11-10T16:04:15.000Z"
-        },
-        {
-            "id": 4490327,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2695941.d.html",
-            "title": "美联储官员米兰：逐步采取更鸽派立场是合理的。",
-            "date_modified": "2025-11-10T16:03:47.000Z"
-        },
-        {
-            "id": 4490326,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2545098.d.html",
-            "title": "美联储官员米兰：9月以来的数据表明，美联储应比其9月的立场更加鸽派。",
-            "date_modified": "2025-11-10T16:03:36.000Z"
-        },
-        {
-            "id": 4490325,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhn2544701.d.html",
-            "title": "美联储官员米兰：政府停摆可能结束对前景影响不大。",
-            "date_modified": "2025-11-10T16:02:22.000Z"
-        },
-        {
-            "id": 4490324,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxhr2695256.d.html",
-            "title": "标普500指数涨幅缩小至0.7%，纳斯达克100指数上涨1.4%。",
-            "date_modified": "2025-11-10T16:02:10.000Z"
-        },
-        {
-            "id": 4490323,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1183632.d.html",
-            "title": "以色列再次对加沙城以东地区进行炮击。",
-            "date_modified": "2025-11-10T16:01:03.000Z"
-        },
-        {
-            "id": 4490322,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-11/detail-infwxxht1183527.d.html",
-            "title": "【泽连斯基接受采访两度停电】乌克兰总统泽连斯基11月9日在首都基辅的马林斯基宫接受英国《卫报》专访。采访开始后不久，马林斯基宫就两度“陷入黑暗”。泽连斯基说，这样的情况时有发生。而俄罗斯外交部无任所大使罗季翁·米罗什尼克称，泽连斯基在采访时“故意关灯”，是企图借此“从欧洲支持者那里获取资金援助”。乌克兰国家电力公司11月9日表示，由于俄军持续袭击能源设施，乌克兰多数地区11月10日全天限电。",
-            "date_modified": "2025-11-10T16:00:39.000Z"
-        },
-        {
-            "id": 4490321,
-            "content_html": "",
-            "title": "美国食品药品监督管理局（FDA）：提议从加框警告中删除有关心血管疾病、乳腺癌和疑似痴呆症的风险声明。",
-            "date_modified": "2025-11-10T15:58:57.000Z"
-        },
-        {
-            "id": 4490320,
-            "content_html": "",
-            "title": "美国食品药品监督管理局（FDA）要求对与安全性信息相关的标签进行更改，以阐明绝经激素疗法的获益/风险考量。",
-            "date_modified": "2025-11-10T15:58:20.000Z"
-        },
-        {
-            "id": 4490319,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2694227.d.html",
-            "title": "叙利亚政权领导人沙阿已抵达白宫，随后将与美国总统特朗普举行双边会谈。",
-            "date_modified": "2025-11-10T15:56:29.000Z"
-        },
-        {
-            "id": 4490318,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht5009971.d.html",
-            "title": "【印度新德里汽车爆炸事件已致10人死亡】据印度媒体报道，印度首都新德里红堡地铁站附近10日晚发生一起汽车爆炸事件，已造成至少10人死亡、多人受伤。爆炸发生后，新德里、孟买等城市提升警戒级别。",
-            "date_modified": "2025-11-10T15:55:27.000Z"
-        },
-        {
-            "id": 4490317,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht1182810.d.html",
-            "title": "印度内政部长：很快将抵达新德里的爆炸现场，还将前往医院。",
-            "date_modified": "2025-11-10T15:54:59.000Z"
-        },
-        {
-            "id": 4490316,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2693985.d.html",
-            "title": "印度内政部长：正在调查该事件，探讨所有可能性。",
-            "date_modified": "2025-11-10T15:54:19.000Z"
-        },
-        {
-            "id": 4490315,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxht5009787.d.html",
-            "title": "印度内政部长：新德里发生一起汽车爆炸事件。",
-            "date_modified": "2025-11-10T15:54:09.000Z"
-        },
-        {
-            "id": 4490314,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2693839.d.html",
-            "title": "【前10个月广西对东盟11国进出口增长12.1%】今年以来，广西与东盟经贸往来不断加深，双边贸易规模始终保持较快增速。据南宁海关统计，2025年前10个月，广西外贸进出口6503.5亿元，外贸出口3812.8亿元，增长18.3%；进口2690.7亿元，增长4.4%。其中广西对东盟进出口3447.4亿元，同比增长12.1%。锂电池、电子信息产业产品、汽车及汽车零配件等优势工业产品出口和金属矿砂、大豆等大宗商品进口表现亮眼。",
-            "date_modified": "2025-11-10T15:52:58.000Z"
-        },
-        {
-            "id": 4490313,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2693760.d.html",
-            "title": "美国空中交通管制员工会称政府停摆必须结束：够了，到此为止。",
-            "date_modified": "2025-11-10T15:52:20.000Z"
-        },
-        {
-            "id": 4490312,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2693643.d.html",
-            "title": "英国严重欺诈办公室（SFO）：（嘉能可案）审判定于2027年10月4日举行。",
-            "date_modified": "2025-11-10T15:51:15.000Z"
-        },
-        {
-            "id": 4490311,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2025-11-10/detail-infwxxhr2693579.d.html",
-            "title": "声明显示：卡塔尔能源公司与日本三井物产签署为期20年的尿素供应协议。",
-            "date_modified": "2025-11-10T15:50:30.000Z"
-        },
-        {
-            "id": 4490310,
-            "content_html": "",
-            "title": "尽管美联储近期降息，但国债收益率曲线自10月下旬以来全面上升，30年期抵押贷款利率小幅走高，这对金融服务控股公司Rocket Companies（RKT）等贷款机构构成阻力。",
-            "date_modified": "2025-11-10T15:48:30.000Z"
         }
     ]
 }

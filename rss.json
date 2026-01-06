@@ -6,11 +6,498 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
-            "id": 4597110,
+            "id": 4597183,
             "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5260422.d.html",
-            "title": "英伟达CEO黄仁勋：新款芯片能效较前代提升 10 倍。",
-            "date_modified": "2026-01-06T18:30:38.000Z"
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6775331.d.html",
+            "title": "英国首相斯塔默：英美关系是世界上最亲密的关系之一。",
+            "date_modified": "2026-01-06T19:14:17.000Z"
+        },
+        {
+            "id": 4597182,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmaya5579999.d.html",
+            "title": "WTI原油日内跌2%，现报57.15美元/桶。",
+            "date_modified": "2026-01-06T19:14:09.000Z"
+        },
+        {
+            "id": 4597181,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6775274.d.html",
+            "title": "英国首相斯塔默：关于格陵兰岛的问题，我的立场已经非常明确了。",
+            "date_modified": "2026-01-06T19:13:13.000Z"
+        },
+        {
+            "id": 4597180,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8046447.d.html",
+            "title": "美国特使库什纳：特朗普对安全保障感到满意。",
+            "date_modified": "2026-01-06T19:12:34.000Z"
+        },
+        {
+            "id": 4597179,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8046420.d.html",
+            "title": "美国财长贝森特将于周四在明尼苏达经济俱乐部发表讲话。",
+            "date_modified": "2026-01-06T19:12:14.000Z"
+        },
+        {
+            "id": 4597178,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6775190.d.html",
+            "title": "美国特使库什纳：（乌克兰）安全保障相关事宜已由特朗普与泽连斯基在海湖庄园敲定。",
+            "date_modified": "2026-01-06T19:12:00.000Z"
+        },
+        {
+            "id": 4597177,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5263895.d.html",
+            "title": "美国副总统万斯：如果哈马斯不解除武装就会有（严重）后果。",
+            "date_modified": "2026-01-06T19:11:08.000Z"
+        },
+        {
+            "id": 4597176,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5263841.d.html",
+            "title": "美国副总统万斯：特朗普的加沙和平计划正在发挥作用。",
+            "date_modified": "2026-01-06T19:10:38.000Z"
+        },
+        {
+            "id": 4597175,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6775029.d.html",
+            "title": "特朗普女婿库什纳谈乌克兰安全保障：今天是一个非常重要的里程碑。",
+            "date_modified": "2026-01-06T19:10:24.000Z"
+        },
+        {
+            "id": 4597174,
+            "content_html": "",
+            "title": "美国参议员格雷厄姆：特朗普和美国之所以掌控委内瑞拉，是有充分理由的。我们正在与马杜罗政权合作，以期达成一项能够重建国家并最终通过选票实现政权更迭的协议。只要委内瑞拉现任领导层与特朗普政府携手合作，就没有理由派遣大量美军来实现这一目标。",
+            "date_modified": "2026-01-06T19:10:01.000Z"
+        },
+        {
+            "id": 4597173,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774960.d.html",
+            "title": "泽连斯基表示，意愿联盟提供的安全保障应与美国提供的安全保障同时发挥作用。",
+            "date_modified": "2026-01-06T19:09:27.000Z"
+        },
+        {
+            "id": 4597172,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774820.d.html",
+            "title": "美国副总统万斯：委内瑞拉领导人将不得不与美国合作。",
+            "date_modified": "2026-01-06T19:07:50.000Z"
+        },
+        {
+            "id": 4597171,
+            "content_html": "",
+            "title": "马克龙：美国传递的信息是连贯一致的，而且他们今天出席此次会议这一事实就证明了这一点。",
+            "date_modified": "2026-01-06T19:07:38.000Z"
+        },
+        {
+            "id": 4597170,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774756.d.html",
+            "title": "亚马逊公司和联合健康集团股价上涨推动道指上涨近500点。",
+            "date_modified": "2026-01-06T19:07:30.000Z"
+        },
+        {
+            "id": 4597169,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5263487.d.html",
+            "title": "马克龙：美国人民希望我们做得更多，而我们也能做到。",
+            "date_modified": "2026-01-06T19:07:06.000Z"
+        },
+        {
+            "id": 4597168,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5263447.d.html",
+            "title": "马克龙谈乌克兰局势：我们有美国的支持。",
+            "date_modified": "2026-01-06T19:06:32.000Z"
+        },
+        {
+            "id": 4597167,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5263397.d.html",
+            "title": "马克龙谈乌克兰局势：美国已阐明其参与情况，特别是在前线监测方面。",
+            "date_modified": "2026-01-06T19:06:17.000Z"
+        },
+        {
+            "id": 4597166,
+            "content_html": "",
+            "title": "法国总统马克龙：美国对安全保障的支持对许多国家非常重要，在过去几周里美国的立场发生了变化。",
+            "date_modified": "2026-01-06T19:05:44.000Z"
+        },
+        {
+            "id": 4597165,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774558.d.html",
+            "title": "德国总理默茨：德国军队可以加入多国部队，但不能进入乌克兰境内。",
+            "date_modified": "2026-01-06T19:05:40.000Z"
+        },
+        {
+            "id": 4597164,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774546.d.html",
+            "title": "法国总统马克龙：在委内瑞拉，外交有其自身的途径和方式。",
+            "date_modified": "2026-01-06T19:05:26.000Z"
+        },
+        {
+            "id": 4597163,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5263318.d.html",
+            "title": "特朗普对美国众议院共和党人说：你们有很多真知灼见，你们必须好好利用它们。",
+            "date_modified": "2026-01-06T19:05:08.000Z"
+        },
+        {
+            "id": 4597162,
+            "content_html": "",
+            "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9830元，较周一夜盘收盘涨36点。成交量419.48亿美元。",
+            "date_modified": "2026-01-06T19:03:53.000Z"
+        },
+        {
+            "id": 4597161,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8045227.d.html",
+            "title": "【委内瑞拉国民警卫队称已在全国范围内部署兵力】当地时间6日，委内瑞拉国民警卫队称，已在全国范围内部署兵力，同时，国家警察局也在外部动荡状态下加强安保。其中，委快速反应部队在首都综合防卫区蒂乌纳堡垒和卡洛塔基地周边等战略要地加强部署。国防部长洛佩斯指示维持人民-军队-警察联合体凝聚力，以应对任何威胁。",
+            "date_modified": "2026-01-06T19:03:04.000Z"
+        },
+        {
+            "id": 4597160,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5263117.d.html",
+            "title": "苹果公司iPhone Air设计师跳槽至AI初创公司Hark。",
+            "date_modified": "2026-01-06T19:02:18.000Z"
+        },
+        {
+            "id": 4597159,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774250.d.html",
+            "title": "美国特使维特科夫：我们讨论了土地选项，我们将继续这些讨论。",
+            "date_modified": "2026-01-06T19:01:34.000Z"
+        },
+        {
+            "id": 4597158,
+            "content_html": "",
+            "title": "道指涨1.00%，现报49468.781点；纳指涨0.60%，现报23536.477点；标普500指数涨0.61%，现报6944.120点。",
+            "date_modified": "2026-01-06T19:01:28.000Z"
+        },
+        {
+            "id": 4597157,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8044981.d.html",
+            "title": "美国特使维特科夫：我们准备好采取一切必要措施来实现和平。",
+            "date_modified": "2026-01-06T19:01:23.000Z"
+        },
+        {
+            "id": 4597156,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5262971.d.html",
+            "title": "美国特使维特科夫：我们准备好采取一切必要措施与欧洲同事合作。",
+            "date_modified": "2026-01-06T19:00:51.000Z"
+        },
+        {
+            "id": 4597155,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774177.d.html",
+            "title": "美国特使维特科夫：我们已取得了很大进展。",
+            "date_modified": "2026-01-06T19:00:42.000Z"
+        },
+        {
+            "id": 4597154,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774169.d.html",
+            "title": "美国股市涨幅扩大，道琼斯工业平均指数上涨1.00%。",
+            "date_modified": "2026-01-06T19:00:33.000Z"
+        },
+        {
+            "id": 4597153,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8044830.d.html",
+            "title": "恒指期货夜盘收跌0.15%，报26679.28点，低水31.17点。",
+            "date_modified": "2026-01-06T19:00:02.000Z"
+        },
+        {
+            "id": 4597152,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5262931.d.html",
+            "title": "美国特使维特科夫：我们认为，强劲的经济与这些安全协议相互关联且直接相互作用。",
+            "date_modified": "2026-01-06T18:59:59.000Z"
+        },
+        {
+            "id": 4597151,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774140.d.html",
+            "title": "巴西副总统：全球人工智能发展的限制因素将是能源，而巴西拥有丰富的可再生能源。",
+            "date_modified": "2026-01-06T18:59:55.000Z"
+        },
+        {
+            "id": 4597150,
+            "content_html": "",
+            "title": "美国特使维特科夫：我们即将完成一项繁荣协议，其力度之强，是任何经历过冲突的国家前所未见的。",
+            "date_modified": "2026-01-06T18:59:49.000Z"
+        },
+        {
+            "id": 4597149,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8044808.d.html",
+            "title": "【格陵兰岛自治政府总理：格陵兰岛不容侵占 感谢欧洲多国支持】6日，丹麦自治领地格陵兰岛自治政府总理延斯-弗雷德里克·尼尔森在社交媒体上对法国、德国、意大利等七国当天发表联合声明，明确支持格陵兰岛表示感谢。他呼吁美国通过相互尊重的外交和政治渠道开展对话，并强调任何对话都必须建立在国际法和领土完整原则基础之上。（央视新闻）",
+            "date_modified": "2026-01-06T18:59:36.000Z"
+        },
+        {
+            "id": 4597148,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmaya5578203.d.html",
+            "title": "巴西副总统：我们还希望在稀土、大型科技和数据中心等非关税问题上与美国取得进展。",
+            "date_modified": "2026-01-06T18:59:22.000Z"
+        },
+        {
+            "id": 4597147,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774112.d.html",
+            "title": "美国特使维特科夫：我们认为在乌克兰安全协议方面，我们的工作基本已完成。",
+            "date_modified": "2026-01-06T18:59:14.000Z"
+        },
+        {
+            "id": 4597146,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5262897.d.html",
+            "title": "德国总理默茨：美国愿为乌克兰安全提供 “兜底保障”。",
+            "date_modified": "2026-01-06T18:59:10.000Z"
+        },
+        {
+            "id": 4597145,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774087.d.html",
+            "title": "法院裁决：巴西最高法院大法官莫赖斯驳回博索纳罗前往医院治疗的请求。",
+            "date_modified": "2026-01-06T18:58:41.000Z"
+        },
+        {
+            "id": 4597144,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774067.d.html",
+            "title": "德国总理默茨：乌克兰的重建与安全保障密切相关，经济实力不可或缺。",
+            "date_modified": "2026-01-06T18:58:24.000Z"
+        },
+        {
+            "id": 4597143,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6774037.d.html",
+            "title": "巴西副总统：巴西总统卢拉与特美国总统特朗普关系良好。",
+            "date_modified": "2026-01-06T18:57:56.000Z"
+        },
+        {
+            "id": 4597142,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6773966.d.html",
+            "title": "巴西副总统：但我们希望委内瑞拉能够复苏并实现增长。",
+            "date_modified": "2026-01-06T18:57:07.000Z"
+        },
+        {
+            "id": 4597141,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6773959.d.html",
+            "title": "德国总理默茨：德国将继续向乌克兰提供支持。",
+            "date_modified": "2026-01-06T18:56:59.000Z"
+        },
+        {
+            "id": 4597140,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5262743.d.html",
+            "title": "巴西副总统：就与巴西的外贸而言，委内瑞拉并非那么重要。",
+            "date_modified": "2026-01-06T18:56:47.000Z"
+        },
+        {
+            "id": 4597139,
+            "content_html": "",
+            "title": "巴西副总统：20世纪70年代，委内瑞拉的国内生产总值（GDP）占南美地区的比重超过12%，如今这一比例降至2%。",
+            "date_modified": "2026-01-06T18:56:35.000Z"
+        },
+        {
+            "id": 4597138,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5262658.d.html",
+            "title": "道明银行首席执行官：代币化存款拥有最大机遇，道明银行将立即重点关注这一领域。",
+            "date_modified": "2026-01-06T18:55:12.000Z"
+        },
+        {
+            "id": 4597137,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6773856.d.html",
+            "title": "巴西副总统：委内瑞拉拥有大量石油储备，但增加石油产量对市场的影响不会一蹴而就。",
+            "date_modified": "2026-01-06T18:55:01.000Z"
+        },
+        {
+            "id": 4597136,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6773781.d.html",
+            "title": "巴西副总统：赤道边缘地区的石油开采还需要一些时间才能实现产出。",
+            "date_modified": "2026-01-06T18:53:59.000Z"
+        },
+        {
+            "id": 4597135,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5262542.d.html",
+            "title": "巴西副总统： 得益于盐下油田资源，巴西的石油出口量有望实现增长。",
+            "date_modified": "2026-01-06T18:53:32.000Z"
+        },
+        {
+            "id": 4597134,
+            "content_html": "",
+            "title": "英国首相斯塔默：我们将继续对俄罗斯施压，包括对支持俄罗斯的石油贸易商和影子船队运营商采取进一步措施。有关普京住所遇袭的说法“毫无根据”。只有普京愿意做出妥协，我们才能达成和平协议。",
+            "date_modified": "2026-01-06T18:51:32.000Z"
+        },
+        {
+            "id": 4597133,
+            "content_html": "",
+            "title": "  英国首相斯塔默：该声明确立了英国、法国及盟国部队可在乌克兰境内开展行动的法律框架。我们比以往任何时候都更接近乌克兰的和平，但最艰难的阶段仍在前方。停火后，英国和法国将在乌克兰建立军事中心。我们将参与由美国牵头的对任何停火协议的监督与核查工作。",
+            "date_modified": "2026-01-06T18:49:42.000Z"
+        },
+        {
+            "id": 4597132,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8043803.d.html",
+            "title": "乌克兰总统泽连斯基：乌克兰代表团将留在巴黎进行进一步磋商。",
+            "date_modified": "2026-01-06T18:46:18.000Z"
+        },
+        {
+            "id": 4597131,
+            "content_html": "",
+            "title": "乌克兰总统泽连斯基：乌克兰期待相关安全保障协议尽快签署。就领土问题讨论了一些想法。",
+            "date_modified": "2026-01-06T18:45:57.000Z"
+        },
+        {
+            "id": 4597130,
+            "content_html": "",
+            "title": "乌克兰总统泽连斯基：已就停火监督与美国进行了具体讨论。意愿联盟已确定哪些国家将参与威慑力量，以及行动的模式。",
+            "date_modified": "2026-01-06T18:44:18.000Z"
+        },
+        {
+            "id": 4597129,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5261543.d.html",
+            "title": "【哥伦比亚就特朗普言论向美国发出外交照会】当地时间6日，哥伦比亚外交部长比利亚维森西奥表示，哥伦比亚政府已经向美国发出外交照会，反对美国总统特朗普有关哥伦比亚总统佩特罗的言论。比利亚维森西奥还批评了美国对委内瑞拉采取的行动。特朗普4日对佩特罗发出威胁，称对哥伦比亚发动行动“听起来不错”。（央视新闻）",
+            "date_modified": "2026-01-06T18:42:22.000Z"
+        },
+        {
+            "id": 4597128,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmaya5576809.d.html",
+            "title": "美国特使维特科夫：我们将于周二晚间和周三继续与乌克兰代表团进行会谈。",
+            "date_modified": "2026-01-06T18:41:20.000Z"
+        },
+        {
+            "id": 4597127,
+            "content_html": "",
+            "title": "美国特使维特科夫：认同联盟的观点，即持久的安全保障和强有力的繁荣承诺对乌克兰实现持久和平至关重要。",
+            "date_modified": "2026-01-06T18:40:59.000Z"
+        },
+        {
+            "id": 4597126,
+            "content_html": "",
+            "title": "美国特使维特科夫：在多个关键工作领域取得了重大进展，包括我们的双边安全保障框架和一项繁荣计划。",
+            "date_modified": "2026-01-06T18:40:46.000Z"
+        },
+        {
+            "id": 4597125,
+            "content_html": "",
+            "title": "法国总统马克龙：这些安全保障措施确保乌克兰不会被迫投降，且未来任何和平协议都不会遭到破坏。",
+            "date_modified": "2026-01-06T18:40:34.000Z"
+        },
+        {
+            "id": 4597124,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6772542.d.html",
+            "title": "巴西副总统：我们希望与印度、墨西哥和加拿大扩大特惠关税安排。",
+            "date_modified": "2026-01-06T18:40:26.000Z"
+        },
+        {
+            "id": 4597123,
+            "content_html": "",
+            "title": "美国特使维特科夫：我们对“意愿联盟”巴黎会议上各方采取的协作方式与合作关系感到鼓舞。",
+            "date_modified": "2026-01-06T18:40:19.000Z"
+        },
+        {
+            "id": 4597122,
+            "content_html": "",
+            "title": "巴西副总统：我们有充分的理由期待南方共同市场与阿拉伯联合酋长国之间能够达成自由贸易协定。",
+            "date_modified": "2026-01-06T18:39:15.000Z"
+        },
+        {
+            "id": 4597121,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8043048.d.html",
+            "title": "巴西副总统：与美国的谈判将加速推进，工作仍在继续。",
+            "date_modified": "2026-01-06T18:37:54.000Z"
+        },
+        {
+            "id": 4597120,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6772326.d.html",
+            "title": "英伟达CEO黄仁勋：公司在Groq（技术许可）协议中聘请（对方的）工程师。",
+            "date_modified": "2026-01-06T18:37:39.000Z"
+        },
+        {
+            "id": 4597119,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6772135.d.html",
+            "title": "巴西副总统：南方共同市场与欧盟的协议强化了多边主义和自由贸易。",
+            "date_modified": "2026-01-06T18:36:06.000Z"
+        },
+        {
+            "id": 4597118,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmaya5576228.d.html",
+            "title": "法国总统马克龙：周二的会议达成了关于乌克兰安全保障的《巴黎宣言》。",
+            "date_modified": "2026-01-06T18:35:55.000Z"
+        },
+        {
+            "id": 4597117,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5260903.d.html",
+            "title": "巴西副总统：在战争、冲突和地缘政治不稳定时期，达成协议非常重要。",
+            "date_modified": "2026-01-06T18:35:52.000Z"
+        },
+        {
+            "id": 4597116,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8042747.d.html",
+            "title": "巴西副总统：南方共同市场与欧盟的协议进展顺利，我们持乐观态度。",
+            "date_modified": "2026-01-06T18:35:25.000Z"
+        },
+        {
+            "id": 4597115,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmaya5575964.d.html",
+            "title": "美国特使将在乌克兰意愿联盟会议上发言。",
+            "date_modified": "2026-01-06T18:34:09.000Z"
+        },
+        {
+            "id": 4597114,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8042371.d.html",
+            "title": "法国、英国、乌克兰签署关于未来在乌克兰部署多国部队的意向声明。",
+            "date_modified": "2026-01-06T18:32:58.000Z"
+        },
+        {
+            "id": 4597113,
+            "content_html": "",
+            "title": "捷克总理：政府不会从财政预算中拨款支持由捷克主导的对乌弹药援助计划，但该计划若能获得其他国家资助，仍可继续推进。",
+            "date_modified": "2026-01-06T18:32:35.000Z"
+        },
+        {
+            "id": 4597112,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5260537.d.html",
+            "title": "英伟达CEO黄仁勋：我们真希望能拥有更多能源。",
+            "date_modified": "2026-01-06T18:32:07.000Z"
+        },
+        {
+            "id": 4597111,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8042185.d.html",
+            "title": "英伟达CEO黄仁勋：新款芯片的性能比上一代高出10倍。",
+            "date_modified": "2026-01-06T18:31:35.000Z"
         },
         {
             "id": 4597109,
@@ -187,495 +674,6 @@
             "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6768214.d.html",
             "title": "现货白银日内涨6%，现报81.19美元/盎司。",
             "date_modified": "2026-01-06T17:54:09.000Z"
-        },
-        {
-            "id": 4597078,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8038148.d.html",
-            "title": "纽约期银日内涨6%，现报81.26美元/盎司。",
-            "date_modified": "2026-01-06T17:53:49.000Z"
-        },
-        {
-            "id": 4597077,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6768179.d.html",
-            "title": "现货白银突破81美元/盎司，日内涨5.78%。",
-            "date_modified": "2026-01-06T17:53:33.000Z"
-        },
-        {
-            "id": 4597076,
-            "content_html": "",
-            "title": "加拿大丰业银行首席执行官：该行在委内瑞拉无直接风险敞口，委内瑞拉正在发生的变化可能是积极的，有利于经济增长。随着委内瑞拉原油进入市场，凸显了加拿大建设输油管道的必要性。",
-            "date_modified": "2026-01-06T17:53:27.000Z"
-        },
-        {
-            "id": 4597075,
-            "content_html": "",
-            "title": "LME期铜收涨246美元，报13238美元/吨。LME期铝收涨44美元，报3129美元/吨。LME期锌收涨56美元，报3251美元/吨。LME期铅收涨52美元，报2076美元/吨。LME期镍收涨1521美元，报18524美元/吨。LME期锡收涨2060美元，报44526美元/吨。LME期钴收涨1455美元，报56290美元/吨。",
-            "date_modified": "2026-01-06T17:52:15.000Z"
-        },
-        {
-            "id": 4597074,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmaya5571223.d.html",
-            "title": "西班牙首相桑切斯：计划与各政党讨论西班牙将如何为乌克兰的安全保障作出贡献。",
-            "date_modified": "2026-01-06T17:51:18.000Z"
-        },
-        {
-            "id": 4597073,
-            "content_html": "",
-            "title": "  加拿大丰业银行首席执行官：该行在 2025 年第四季度创下业绩纪录后，暂不承诺 2026 年实现更高收益；2026 年最初几个月的业绩 “开局表现与去年四季度持平”。",
-            "date_modified": "2026-01-06T17:51:11.000Z"
-        },
-        {
-            "id": 4597072,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6767788.d.html",
-            "title": "比特币跌破92000美元，日内跌2.10%。",
-            "date_modified": "2026-01-06T17:48:27.000Z"
-        },
-        {
-            "id": 4597071,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5256124.d.html",
-            "title": "【城堡证券：看好“一月效应”引发美股反弹】根据城堡证券（Citadel Securities）的观点，“一月效应”可能会为美股提供支撑。早期的资本流入以及市场反弹范围的扩大，为美股全面上涨奠定了基础。来自退休金缴款、年终奖金以及全权委托理财的资金正流向被动风险资产。这一趋势符合季节性规律——自1985年以来，纳斯达克100指数在1月份上涨的概率约为70%。目前，散户活跃度依然处于高位，个人投资者约占期权结算公司（OCC）客户成交量的60%。同时，机构客户也开始偏向风险资产，尤其是能源、公用事业和材料等板块。",
-            "date_modified": "2026-01-06T17:44:43.000Z"
-        },
-        {
-            "id": 4597070,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6766833.d.html",
-            "title": "布伦特原油日内跌1%，现报61.14美元/桶。",
-            "date_modified": "2026-01-06T17:39:59.000Z"
-        },
-        {
-            "id": 4597069,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8035987.d.html",
-            "title": "周二（1月6日），韩元兑美元最终跌0.16%，报1447.45韩元。",
-            "date_modified": "2026-01-06T17:37:49.000Z"
-        },
-        {
-            "id": 4597068,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8035963.d.html",
-            "title": "北欧各国外长：准备在与美国及其他北约盟友协商后进一步增加对北极安全的投资。",
-            "date_modified": "2026-01-06T17:37:35.000Z"
-        },
-        {
-            "id": 4597067,
-            "content_html": "",
-            "title": "北欧各国外长：我们支持北约增加在该地区的存在并提高警戒级别。集体重申有关丹麦和格陵兰的事务应由丹麦和格陵兰自行决定。我们都已采取措施加强该地区的威慑与防御能力。",
-            "date_modified": "2026-01-06T17:37:17.000Z"
-        },
-        {
-            "id": 4597066,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8035707.d.html",
-            "title": "巴西国家石油公司：钻井液泄漏已立即得到控制并隔离。",
-            "date_modified": "2026-01-06T17:35:15.000Z"
-        },
-        {
-            "id": 4597064,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6766226.d.html",
-            "title": "【摩根士丹利申请发行加密货币ETF 加入华尔街布局行列】摩根士丹利提交比特币和Solana交易所交易基金（ETF）发行申请，标志着该公司在美国加密货币ETF爆发式增长并进入主流视野两年后，首次进军这一热门基金领域。该公司周二为一只Bitcoin Trust和一只Solana Trust提交了申请文件，这两只信托产品将持有相应的加密货币。其中，Solana产品将把部分资产用于质押（staking），即允许所持代币用于支持区块链网络运行，从而获取奖励。文件显示，上述信托将由摩根士丹利投资管理公司担任发起方。上述文件提交之际，华尔街传统金融机构正在深化其在数字资产领域的布局。高盛集团、摩根大通和花旗集团等多家机构已在面向机构客户的加密货币业务领域加大布局，推出交易业务，试点托管、结算和代币化项目。彭博汇编的数据显示，逾1500亿美元资金配置于约130只美国基金。其中很大一部分资金配置在比特币相关产品中。这些产品中，许多是在2024年1月推出，很快大获成功。",
-            "date_modified": "2026-01-06T17:32:59.000Z"
-        },
-        {
-            "id": 4597063,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6766116.d.html",
-            "title": "据英国《金融时报》：根据乌克兰问题草案，美方将负责停火监督工作。",
-            "date_modified": "2026-01-06T17:31:19.000Z"
-        },
-        {
-            "id": 4597062,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6765906.d.html",
-            "title": "【峰会声明草案：美国将承诺在乌克兰未来再遭俄罗斯袭击时提供支持】据乌克兰主要盟友正在磋商的一份声明草案，美国总统唐纳德·特朗普政府将同意，未来俄罗斯如果袭击乌克兰，美国将向乌克兰提供支持。根据媒体看到的协议文本，该计划仍可能有变，且需要华盛顿的批准。计划包含具有约束力的安全保障，是乌克兰政府作为和平协议的一部分所紧迫寻求的，其中也包括美国提出的对欧洲牵头军事力量的支持。草案显示，欧洲和加拿大领导人周二在巴黎与特朗普特使会晤，推动一项计划，内容包括监督俄乌停火、支持基辅的军事力量，并组建一支多国部队以保障停火。草案指出：“这些要素将由欧洲牵头、美国参与，包括美国的情报和后勤等能力，以及美国承诺在部队遭受攻击时予以支援。”",
-            "date_modified": "2026-01-06T17:28:08.000Z"
-        },
-        {
-            "id": 4597061,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5254611.d.html",
-            "title": "【南非总统：“完全反对”美对委军事行动】南非总统拉马福萨6日表示，南非“完全反对”美国对委内瑞拉的军事行动，呼吁立即释放委内瑞拉总统马杜罗及其妻子。拉马福萨当天在约翰内斯堡索韦托区参加活动时说，美方行动严重侵犯委内瑞拉“主权和领土完整”，南非对此表示严重关切。拉马福萨说，南非始终支持《联合国宪章》和国际法，反对任何破坏主权国家独立和安全的行为。他呼吁联合国安理会切实履行维护国际和平与安全的职责，就当前局势采取果断行动。（新华社）",
-            "date_modified": "2026-01-06T17:26:18.000Z"
-        },
-        {
-            "id": 4597060,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8034303.d.html",
-            "title": "WTI原油期货跌幅扩大至1%，报57.728美元/桶。",
-            "date_modified": "2026-01-06T17:20:13.000Z"
-        },
-        {
-            "id": 4597059,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6765553.d.html",
-            "title": "纽约期银突破81美元/盎司，日内涨5.68%。",
-            "date_modified": "2026-01-06T17:20:11.000Z"
-        },
-        {
-            "id": 4597058,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6765498.d.html",
-            "title": "【叙利亚北部武装冲突升级致多人伤亡】当地时间6日，叙利亚库尔德武装主导的“叙利亚民主力量”与叙过渡政府部队在叙北部阿勒颇省首府阿勒颇市的武装冲突升级，造成包括平民在内的多人伤亡。（央视新闻）",
-            "date_modified": "2026-01-06T17:19:31.000Z"
-        },
-        {
-            "id": 4597057,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5254097.d.html",
-            "title": "Meta聘请微软Mahoney为首席法务官。（Axios）",
-            "date_modified": "2026-01-06T17:16:46.000Z"
-        },
-        {
-            "id": 4597056,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6765182.d.html",
-            "title": "【德债收益率跌约3个基点】周二（1月6日）欧市尾盘，德国10年期国债收益率跌2.8个基点，报2.842%，日内交投于2.892%-2.834%区间，北京时间17:00出现一波跳水行情，后续低位窄幅震荡。两年期德债收益率跌2.8个基点，报2.100%，日内交投于2.137%-2.095%区间；30年期德债收益率跌2.7个基点，报3.480%。2/10年期德债收益率利差跌0.066个基点，报+74.025个基点。",
-            "date_modified": "2026-01-06T17:14:34.000Z"
-        },
-        {
-            "id": 4597055,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmaya5567245.d.html",
-            "title": "【英伟达CFO预测营收将比去年10月所作展望更为乐观】英伟达首席财务官Colette Kress表示，在强劲需求推动下，公司去年10月做出的乐观营收预测只会更加亮眼。Kress周二在摩根大通举办的一场活动上表示，自发布该展望以来，客户兴趣度进一步上升。英伟达去年10月预计，到2026年底，现有及未来数据中心芯片带来的营收规模将达到约5000亿美元。她说：“实际数字肯定比这5000亿美元更大”。",
-            "date_modified": "2026-01-06T17:14:19.000Z"
-        },
-        {
-            "id": 4597054,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5253795.d.html",
-            "title": "【也门亚丁市传出激烈枪声】当地时间6日晚，国际社会承认的也门政府所在地亚丁市传出激烈枪声。一名安全部门消息人士表示，一架来历不明的无人机已被击落，目前防空系统仍在对另外三架无人机进行处置。（央视）",
-            "date_modified": "2026-01-06T17:12:25.000Z"
-        },
-        {
-            "id": 4597053,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6764984.d.html",
-            "title": "现货铂金涨幅扩大，最新上涨逾7%，报每盎司2435.20美元。",
-            "date_modified": "2026-01-06T17:12:12.000Z"
-        },
-        {
-            "id": 4597052,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8033307.d.html",
-            "title": "钯金期货日内涨7%，现报1890.00美元/盎司。",
-            "date_modified": "2026-01-06T17:10:12.000Z"
-        },
-        {
-            "id": 4597051,
-            "content_html": "",
-            "title": "西门子与英伟达扩大合作，共同打造工业人工智能操作系统。英伟达将提供人工智能基础设施、模拟库、模型、框架和蓝图，西门子将投入工业人工智能专家、领先的硬件和软件。",
-            "date_modified": "2026-01-06T17:09:40.000Z"
-        },
-        {
-            "id": 4597050,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5253471.d.html",
-            "title": "【石头科技演示爬楼梯扫地设备】扫地机器人生产商石头科技（Roborock）展示了一款名为Saros Rover的概念设备，这是一款配有两条“腿”、能够爬楼梯的家用扫地机器人。Saros Rover结合了人工智能（AI）、多种运动传感器和3D空间信息进行导航，其双腿可独立升降，从而实现跨越阶梯和在不平整地面行驶。该设备目前尚未确定上市日期。对于石头科技等公司而言，要实现家庭机器人的普及，仍需面临高昂价格、提升移动能力及电池续航等挑战。",
-            "date_modified": "2026-01-06T17:08:22.000Z"
-        },
-        {
-            "id": 4597048,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6764631.d.html",
-            "title": "欧盟消息人士：意大利将在周五举行的欧盟会议上投票支持与南方共同市场达成贸易协定。",
-            "date_modified": "2026-01-06T17:07:51.000Z"
-        },
-        {
-            "id": 4597046,
-            "content_html": "",
-            "title": "恩智浦半导体：宣布推出新的eIQ代理AI框架，新工具可在边缘设备上直接实现自主代理智能。",
-            "date_modified": "2026-01-06T17:03:43.000Z"
-        },
-        {
-            "id": 4597045,
-            "content_html": "",
-            "title": "【夜盘期货收盘】国际铜夜盘收涨0.84%，沪铜收涨1.26%，沪铝收涨2.55%，沪锌收涨1.04%，沪铅收涨1.28%，沪镍收涨8.00%，沪锡收涨4.81%。氧化铝夜盘收涨4.14%，铝合金收涨1.68%。不锈钢夜盘收涨4.08%。",
-            "date_modified": "2026-01-06T17:00:03.000Z"
-        },
-        {
-            "id": 4597044,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6894539.d.html",
-            "title": "【委内瑞拉要求美国法官承认无权审理马杜罗案】委内瑞拉公共检察官Tarek William Saab呼吁审理尼古拉斯·马杜罗及其妻子西莉亚·弗洛雷斯一案的美国法官承认“缺乏管辖权”。Saab在委内瑞拉官方电视台表示：“我呼吁该法官尊重国际法，并承认其法庭缺乏管辖权，无法审理像委内瑞拉这样国家的领导人——一位享有外交豁免权的国家元首。”Saab要求“立即释放”马杜罗和弗洛雷斯，并声称他们1月3日的被捕“无效”，违反了《世界人权宣言》和美国宪法。",
-            "date_modified": "2026-01-06T16:59:32.000Z"
-        },
-        {
-            "id": 4597043,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5383236.d.html",
-            "title": "【高盛警告：美国电网到2030年将面临电力短缺】高盛集团分析师表示，随着数据中心需求激增，到2030年，几乎所有美国电网都将缺乏关键的备用容量。电网通常将备用率（Reserve Margin）目标设定在至少 15%——即高峰需求与煤炭、天然气、核能及可再生能源电厂可用发电量之间的差额。高盛美国电力与公用事业股票研究主管卡莉·达文波特（Carly Davenport）指出，对于今年晚些时候将在36个州举行的州长选举，不断上涨的公用事业账单可能会成为一个关键议题。",
-            "date_modified": "2026-01-06T16:58:10.000Z"
-        },
-        {
-            "id": 4597042,
-            "content_html": "",
-            "title": "市场消息：壳牌公司签署协议，从雪佛龙旗下子公司收购安哥拉近海两个石油区块 35% 的股权。",
-            "date_modified": "2026-01-06T16:53:00.000Z"
-        },
-        {
-            "id": 4597041,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6893175.d.html",
-            "title": "【意西希三国主权债收益率跌约3个基点】周二（1月6日）欧市尾盘，法国10年期国债收益率跌1.7个基点，报3.555%。意大利10年期国债收益率跌3.2个基点，报3.536%。西班牙10年期国债收益率跌2.8个基点，报3.272%。希腊10年期国债收益率跌3.0个基点，报3.418%。",
-            "date_modified": "2026-01-06T16:47:01.000Z"
-        },
-        {
-            "id": 4597040,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5380202.d.html",
-            "title": "【英债收益率至多跌超2个基点】周二（1月6日）欧市尾盘，英国10年期国债收益率跌2.2个基点，报4.484%。两年期英债收益率跌1.8个基点，报3.702%。30年期英债收益率跌1.6个基点，50年期英债收益率跌1.7个基点。2/10年期英债收益率利差跌0.308个基点，报+78.142个基点。",
-            "date_modified": "2026-01-06T16:39:19.000Z"
-        },
-        {
-            "id": 4597039,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6891239.d.html",
-            "title": "【古巴委内瑞拉55名军人阵亡】据当地媒体1月6日援引古巴与委内瑞拉官方声明报道，美国1月3日对委内瑞拉发动军事侵略，古巴和委内瑞拉有55名军人阵亡。有统计显示其中古巴阵亡32人，委内瑞拉伤亡约在23至48人之间，总伤亡人数约为55至80人。1月6日，古巴媒体公布了阵亡32人的名单。（CCTV国际时讯）",
-            "date_modified": "2026-01-06T16:38:39.000Z"
-        },
-        {
-            "id": 4597038,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6890899.d.html",
-            "title": "  爱尔兰财政部首席经济学家表示：2025 年企业税收收入增长的驱动因素为出口前置。",
-            "date_modified": "2026-01-06T16:37:13.000Z"
-        },
-        {
-            "id": 4597037,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8159700.d.html",
-            "title": "英伟达CFO： 90% 的客户均采用了英伟达旗下的某种网络技术。",
-            "date_modified": "2026-01-06T16:36:53.000Z"
-        },
-        {
-            "id": 4597036,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6890610.d.html",
-            "title": "沪镍主力合约触及涨停，涨幅8%，报147720元/吨。",
-            "date_modified": "2026-01-06T16:36:13.000Z"
-        },
-        {
-            "id": 4597035,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8159187.d.html",
-            "title": "伦镍涨超10%，创2022年以来最大盘中涨幅。",
-            "date_modified": "2026-01-06T16:34:36.000Z"
-        },
-        {
-            "id": 4597034,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5692316.d.html",
-            "title": "不锈钢连续主力合约日内涨4%，现报13895.00元。",
-            "date_modified": "2026-01-06T16:33:18.000Z"
-        },
-        {
-            "id": 4597033,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5692314.d.html",
-            "title": "美国总统特朗普对众议院共和党人表示：如果我们在中期选举中失利，我将被弹劾。",
-            "date_modified": "2026-01-06T16:33:18.000Z"
-        },
-        {
-            "id": 4597032,
-            "content_html": "",
-            "title": "LME三个月期镍涨幅扩大至10%，触及每吨18735美元，为2024年6月以来的最高水平。",
-            "date_modified": "2026-01-06T16:32:54.000Z"
-        },
-        {
-            "id": 4597031,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5692164.d.html",
-            "title": "美国财政部拍卖六周期国债，得标利率3.560%，投标倍数2.89。",
-            "date_modified": "2026-01-06T16:32:33.000Z"
-        },
-        {
-            "id": 4597030,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5378507.d.html",
-            "title": "百事公司宣布与西门子和英伟达开展业界首个人工智能和数字孪生合作。",
-            "date_modified": "2026-01-06T16:32:16.000Z"
-        },
-        {
-            "id": 4597028,
-            "content_html": "",
-            "title": "  爱尔兰 2025 年税收收入达 1074 亿欧元，高于 10 月预测值 1063 亿欧元（不计苹果公司补缴税款，同比增长 8.9%)。\n爱尔兰2025年企业税收收入为329亿欧元，高于10月份预计的321亿欧元（同比增长17.2%），不含苹果补缴税款。\n爱尔兰2025年所得税收入同比增长4.3%，达366亿欧元；增值税收入同比增长5.1%，达229亿欧元，与10月的预估相符。",
-            "date_modified": "2026-01-06T16:31:31.000Z"
-        },
-        {
-            "id": 4597027,
-            "content_html": "",
-            "title": "爱尔兰2025年总获批支出总额将增长5.5%，达1090亿欧元，其中资本支出将增长12.7%。",
-            "date_modified": "2026-01-06T16:30:45.000Z"
-        },
-        {
-            "id": 4597026,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8158463.d.html",
-            "title": "【英国股市涨超1.4%】德国DAX 30指数初步收涨0.11%，报24895.06点。法国股指初步收涨0.35%，意大利股指初步收跌0.04%、银行指数跌0.79%，英国股指初步收涨1.47%。",
-            "date_modified": "2026-01-06T16:30:28.000Z"
-        },
-        {
-            "id": 4597025,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5378135.d.html",
-            "title": "【欧洲股市继续创收盘历史新高】欧洲STOXX 600指数初步收涨0.65%，报605.68点。欧元区STOXX 50指数初步收涨0.16%，报5933.07点。富时泛欧绩优300指数初步收涨0.64%，报2414.67点。",
-            "date_modified": "2026-01-06T16:30:25.000Z"
-        },
-        {
-            "id": 4597024,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5378111.d.html",
-            "title": "英伟达CFO： 市场需求持续增长，需求较此前预测的5000亿美元有所增长。",
-            "date_modified": "2026-01-06T16:30:19.000Z"
-        },
-        {
-            "id": 4597023,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5377925.d.html",
-            "title": "【爱尔兰总理：加征关税将损害世界经济】爱尔兰总理米哈尔·马丁于1月4日下午乘机抵达北京首都国际机场，开启为期5天的访华行程。此访是爱尔兰总理时隔14年再次访华。1月5日，爱尔兰总理马丁出席媒体见面会表示，“我们反对关税，我们认为关税最终将损害世界经济。”（央视新闻）",
-            "date_modified": "2026-01-06T16:29:19.000Z"
-        },
-        {
-            "id": 4597022,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5377786.d.html",
-            "title": "美国总统特朗普：（就会晤石油企业一事）你们都清楚此举的用意。",
-            "date_modified": "2026-01-06T16:28:39.000Z"
-        },
-        {
-            "id": 4597021,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5377625.d.html",
-            "title": "美国总统特朗普：有很多石油要开采，钻探将进一步降低油价。还将与石油公司会面。",
-            "date_modified": "2026-01-06T16:27:44.000Z"
-        },
-        {
-            "id": 4597020,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5691533.d.html",
-            "title": "道琼斯指数盘中创历史新高，最新上涨0.4%。",
-            "date_modified": "2026-01-06T16:27:22.000Z"
-        },
-        {
-            "id": 4597019,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5377453.d.html",
-            "title": "  美国总统特朗普：未来数日将与 14 家企业会面。",
-            "date_modified": "2026-01-06T16:26:56.000Z"
-        },
-        {
-            "id": 4597018,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8157994.d.html",
-            "title": "特朗普重申将与健康保险公司会面。",
-            "date_modified": "2026-01-06T16:26:14.000Z"
-        },
-        {
-            "id": 4597017,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5691387.d.html",
-            "title": "惠誉：从更长的时间跨度来看，委内瑞拉石油供应的恢复可能会影响油价。",
-            "date_modified": "2026-01-06T16:26:02.000Z"
-        },
-        {
-            "id": 4597016,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5377230.d.html",
-            "title": "AMD首席执行官苏姿丰：所有人都应该明白，AI并非炒作。",
-            "date_modified": "2026-01-06T16:25:33.000Z"
-        },
-        {
-            "id": 4597015,
-            "content_html": "",
-            "title": "惠誉：若马杜罗下台或军事冲突升级导致委内瑞拉出现政治动荡，周边国家的安全和宏观层面挑战可能会增加。",
-            "date_modified": "2026-01-06T16:25:14.000Z"
-        },
-        {
-            "id": 4597014,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6888353.d.html",
-            "title": "英伟达CEO黄仁勋： 公司已与客户就 2027 年数据中心相关事宜展开磋商。",
-            "date_modified": "2026-01-06T16:24:54.000Z"
-        },
-        {
-            "id": 4597013,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6888312.d.html",
-            "title": "费城证交所半导体指数创下历史新高，最新上涨2.5%。",
-            "date_modified": "2026-01-06T16:24:36.000Z"
-        },
-        {
-            "id": 4597012,
-            "content_html": "",
-            "title": "惠誉：美国罢免委内瑞拉领导人马杜罗的即时和长期结果极不确定，但可能会产生地缘政治影响。",
-            "date_modified": "2026-01-06T16:24:17.000Z"
-        },
-        {
-            "id": 4597011,
-            "content_html": "",
-            "title": "英伟达CEO黄仁勋： 随着Vera Rubin芯片正式投产，公司对供应链的稳定性满怀信心。",
-            "date_modified": "2026-01-06T16:23:12.000Z"
-        },
-        {
-            "id": 4597010,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5691083.d.html",
-            "title": "惠誉：美国在委内瑞拉的行动凸显其在西半球的野心。",
-            "date_modified": "2026-01-06T16:22:37.000Z"
-        },
-        {
-            "id": 4597009,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8157598.d.html",
-            "title": "【美国最高法院确定周五为意见发布日，或就特朗普关税是否合法做裁决】美国最高法院将周五列为意见发布日，意味着当天高院可能就总统特朗普的全球关税政策是否合法做出裁决。最高法院从不提前说明哪些裁决已准备好发布，只表示在大法官于华盛顿时间上午10点开庭时，已听取辩论的案件都有可能公布裁决。鉴于关税案此前已进入加速处理通道，因此周五可能发布裁决。",
-            "date_modified": "2026-01-06T16:22:07.000Z"
-        },
-        {
-            "id": 4597008,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5376614.d.html",
-            "title": "  古巴、委内瑞拉方面称，55 名军事人员在美方针对马杜罗的突袭行动中身亡。",
-            "date_modified": "2026-01-06T16:21:41.000Z"
-        },
-        {
-            "id": 4597007,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8157237.d.html",
-            "title": "【大摩预计今年第四季度金价升至4800美元】摩根士丹利预计，到今年第四季度，黄金价格将达到每盎司4800美元的新高，包括利率下降、美联储领导层更迭以及各国央行和基金的购买行为均推动金价上涨。大摩补充称，在基本金属中，更看好铝和铜，相信受惠于供应挑战和不断增长的需求。",
-            "date_modified": "2026-01-06T16:19:29.000Z"
-        },
-        {
-            "id": 4597006,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5375943.d.html",
-            "title": "AMD首席执行官苏姿丰： 公司在商用笔记本电脑领域的市场份额占比偏低。",
-            "date_modified": "2026-01-06T16:18:08.000Z"
-        },
-        {
-            "id": 4597005,
-            "content_html": "",
-            "title": "  非洲联盟和平与安全理事会：理事会以最强烈的措辞，严厉谴责以色列单方面承认所谓 “索马里兰共和国” 的行径，并呼吁立即撤销该项决定。",
-            "date_modified": "2026-01-06T16:17:21.000Z"
-        },
-        {
-            "id": 4597004,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6886348.d.html",
-            "title": "AMD首席执行官苏姿丰： MI455 正推动相关性能迈向顶尖水准。",
-            "date_modified": "2026-01-06T16:13:38.000Z"
-        },
-        {
-            "id": 4597003,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6886063.d.html",
-            "title": "市场消息： 也门亚丁市马西克宫总统府附近传出枪声。",
-            "date_modified": "2026-01-06T16:12:08.000Z"
         }
     ]
 }

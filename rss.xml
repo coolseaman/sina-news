@@ -4,13 +4,224 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 06 Jan 2026 16:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 17:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国总统特朗普：有很多石油要开采，还将与石油公司会面。]]></title>
+            <title><![CDATA[WTI原油期货跌幅扩大至1%，报57.728美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8034303.d.html</link>
+            <guid>4597060</guid>
+            <pubDate>Tue, 06 Jan 2026 17:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约期银突破81美元/盎司，日内涨5.68%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6765553.d.html</link>
+            <guid>4597059</guid>
+            <pubDate>Tue, 06 Jan 2026 17:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚北部武装冲突升级致多人伤亡】当地时间6日，叙利亚库尔德武装主导的“叙利亚民主力量”与叙过渡政府部队在叙北部阿勒颇省首府阿勒颇市的武装冲突升级，造成包括平民在内的多人伤亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6765498.d.html</link>
+            <guid>4597058</guid>
+            <pubDate>Tue, 06 Jan 2026 17:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta聘请微软Mahoney为首席法务官。（Axios）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5254097.d.html</link>
+            <guid>4597057</guid>
+            <pubDate>Tue, 06 Jan 2026 17:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德债收益率跌约3个基点】周二（1月6日）欧市尾盘，德国10年期国债收益率跌2.8个基点，报2.842%，日内交投于2.892%-2.834%区间，北京时间17:00出现一波跳水行情，后续低位窄幅震荡。两年期德债收益率跌2.8个基点，报2.100%，日内交投于2.137%-2.095%区间；30年期德债收益率跌2.7个基点，报3.480%。2/10年期德债收益率利差跌0.066个基点，报+74.025个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6765182.d.html</link>
+            <guid>4597056</guid>
+            <pubDate>Tue, 06 Jan 2026 17:14:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达CFO预测营收将比去年10月所作展望更为乐观】英伟达首席财务官Colette Kress表示，在强劲需求推动下，公司去年10月做出的乐观营收预测只会更加亮眼。Kress周二在摩根大通举办的一场活动上表示，自发布该展望以来，客户兴趣度进一步上升。英伟达去年10月预计，到2026年底，现有及未来数据中心芯片带来的营收规模将达到约5000亿美元。她说：“实际数字肯定比这5000亿美元更大”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmaya5567245.d.html</link>
+            <guid>4597055</guid>
+            <pubDate>Tue, 06 Jan 2026 17:14:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地居民说，国际社会承认的也门政府所在地亚丁市6日晚传出激烈枪声。（新华国际）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5253795.d.html</link>
+            <guid>4597054</guid>
+            <pubDate>Tue, 06 Jan 2026 17:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货铂金涨幅扩大，最新上涨逾7%，报每盎司2435.20美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6764984.d.html</link>
+            <guid>4597053</guid>
+            <pubDate>Tue, 06 Jan 2026 17:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[钯金期货日内涨7%，现报1890.00美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayi8033307.d.html</link>
+            <guid>4597052</guid>
+            <pubDate>Tue, 06 Jan 2026 17:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西门子与英伟达扩大合作，共同打造工业人工智能操作系统。英伟达将提供人工智能基础设施、模拟库、模型、框架和蓝图，西门子将投入工业人工智能专家、领先的硬件和软件。]]></title>
+            <guid>4597051</guid>
+            <pubDate>Tue, 06 Jan 2026 17:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【石头科技演示爬楼梯扫地设备】扫地机器人生产商石头科技（Roborock）展示了一款名为Saros Rover的概念设备，这是一款配有两条“腿”、能够爬楼梯的家用扫地机器人。Saros Rover结合了人工智能（AI）、多种运动传感器和3D空间信息进行导航，其双腿可独立升降，从而实现跨越阶梯和在不平整地面行驶。该设备目前尚未确定上市日期。对于石头科技等公司而言，要实现家庭机器人的普及，仍需面临高昂价格、提升移动能力及电池续航等挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayf5253471.d.html</link>
+            <guid>4597050</guid>
+            <pubDate>Tue, 06 Jan 2026 17:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟消息人士：意大利将在周五举行的欧盟会议上投票支持与南方共同市场达成贸易协定。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfmayc6764631.d.html</link>
+            <guid>4597048</guid>
+            <pubDate>Tue, 06 Jan 2026 17:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恩智浦半导体：宣布推出新的eIQ代理AI框架，新工具可在边缘设备上直接实现自主代理智能。]]></title>
+            <guid>4597046</guid>
+            <pubDate>Tue, 06 Jan 2026 17:03:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【夜盘期货收盘】国际铜夜盘收涨0.84%，沪铜收涨1.26%，沪铝收涨2.55%，沪锌收涨1.04%，沪铅收涨1.28%，沪镍收涨8.00%，沪锡收涨4.81%。氧化铝夜盘收涨4.14%，铝合金收涨1.68%。不锈钢夜盘收涨4.08%。]]></title>
+            <guid>4597045</guid>
+            <pubDate>Tue, 06 Jan 2026 17:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【委内瑞拉要求美国法官承认无权审理马杜罗案】委内瑞拉公共检察官Tarek William Saab呼吁审理尼古拉斯·马杜罗及其妻子西莉亚·弗洛雷斯一案的美国法官承认“缺乏管辖权”。Saab在委内瑞拉官方电视台表示：“我呼吁该法官尊重国际法，并承认其法庭缺乏管辖权，无法审理像委内瑞拉这样国家的领导人——一位享有外交豁免权的国家元首。”Saab要求“立即释放”马杜罗和弗洛雷斯，并声称他们1月3日的被捕“无效”，违反了《世界人权宣言》和美国宪法。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6894539.d.html</link>
+            <guid>4597044</guid>
+            <pubDate>Tue, 06 Jan 2026 16:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛警告：美国电网到2030年将面临电力短缺】高盛集团分析师表示，随着数据中心需求激增，到2030年，几乎所有美国电网都将缺乏关键的备用容量。电网通常将备用率（Reserve Margin）目标设定在至少 15%——即高峰需求与煤炭、天然气、核能及可再生能源电厂可用发电量之间的差额。高盛美国电力与公用事业股票研究主管卡莉·达文波特（Carly Davenport）指出，对于今年晚些时候将在36个州举行的州长选举，不断上涨的公用事业账单可能会成为一个关键议题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5383236.d.html</link>
+            <guid>4597043</guid>
+            <pubDate>Tue, 06 Jan 2026 16:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：壳牌公司签署协议，从雪佛龙旗下子公司收购安哥拉近海两个石油区块 35% 的股权。]]></title>
+            <guid>4597042</guid>
+            <pubDate>Tue, 06 Jan 2026 16:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意西希三国主权债收益率跌约3个基点】周二（1月6日）欧市尾盘，法国10年期国债收益率跌1.7个基点，报3.555%。意大利10年期国债收益率跌3.2个基点，报3.536%。西班牙10年期国债收益率跌2.8个基点，报3.272%。希腊10年期国债收益率跌3.0个基点，报3.418%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6893175.d.html</link>
+            <guid>4597041</guid>
+            <pubDate>Tue, 06 Jan 2026 16:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英债收益率至多跌超2个基点】周二（1月6日）欧市尾盘，英国10年期国债收益率跌2.2个基点，报4.484%。两年期英债收益率跌1.8个基点，报3.702%。30年期英债收益率跌1.6个基点，50年期英债收益率跌1.7个基点。2/10年期英债收益率利差跌0.308个基点，报+78.142个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5380202.d.html</link>
+            <guid>4597040</guid>
+            <pubDate>Tue, 06 Jan 2026 16:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古巴委内瑞拉55名军人阵亡】据当地媒体1月6日援引古巴与委内瑞拉官方声明报道，美国1月3日对委内瑞拉发动军事侵略，古巴和委内瑞拉有55名军人阵亡。有统计显示其中古巴阵亡32人，委内瑞拉伤亡约在23至48人之间，总伤亡人数约为55至80人。1月6日，古巴媒体公布了阵亡32人的名单。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6891239.d.html</link>
+            <guid>4597039</guid>
+            <pubDate>Tue, 06 Jan 2026 16:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰财政部首席经济学家表示：2025 年企业税收收入增长的驱动因素为出口前置。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6890899.d.html</link>
+            <guid>4597038</guid>
+            <pubDate>Tue, 06 Jan 2026 16:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达CFO： 90% 的客户均采用了英伟达旗下的某种网络技术。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8159700.d.html</link>
+            <guid>4597037</guid>
+            <pubDate>Tue, 06 Jan 2026 16:36:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪镍主力合约触及涨停，涨幅8%，报147720元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6890610.d.html</link>
+            <guid>4597036</guid>
+            <pubDate>Tue, 06 Jan 2026 16:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦镍涨超10%，创2022年以来最大盘中涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8159187.d.html</link>
+            <guid>4597035</guid>
+            <pubDate>Tue, 06 Jan 2026 16:34:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[不锈钢连续主力合约日内涨4%，现报13895.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5692316.d.html</link>
+            <guid>4597034</guid>
+            <pubDate>Tue, 06 Jan 2026 16:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普对众议院共和党人表示：如果我们在中期选举中失利，我将被弹劾。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5692314.d.html</link>
+            <guid>4597033</guid>
+            <pubDate>Tue, 06 Jan 2026 16:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME三个月期镍涨幅扩大至10%，触及每吨18735美元，为2024年6月以来的最高水平。]]></title>
+            <guid>4597032</guid>
+            <pubDate>Tue, 06 Jan 2026 16:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖六周期国债，得标利率3.560%，投标倍数2.89。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwse5692164.d.html</link>
+            <guid>4597031</guid>
+            <pubDate>Tue, 06 Jan 2026 16:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[百事公司宣布与西门子和英伟达开展业界首个人工智能和数字孪生合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5378507.d.html</link>
+            <guid>4597030</guid>
+            <pubDate>Tue, 06 Jan 2026 16:32:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  爱尔兰 2025 年税收收入达 1074 亿欧元，高于 10 月预测值 1063 亿欧元（不计苹果公司补缴税款，同比增长 8.9%)。
+爱尔兰2025年企业税收收入为329亿欧元，高于10月份预计的321亿欧元（同比增长17.2%），不含苹果补缴税款。
+爱尔兰2025年所得税收入同比增长4.3%，达366亿欧元；增值税收入同比增长5.1%，达229亿欧元，与10月的预估相符。]]></title>
+            <guid>4597028</guid>
+            <pubDate>Tue, 06 Jan 2026 16:31:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱尔兰2025年总获批支出总额将增长5.5%，达1090亿欧元，其中资本支出将增长12.7%。]]></title>
+            <guid>4597027</guid>
+            <pubDate>Tue, 06 Jan 2026 16:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国股市涨超1.4%】德国DAX 30指数初步收涨0.11%，报24895.06点。法国股指初步收涨0.35%，意大利股指初步收跌0.04%、银行指数跌0.79%，英国股指初步收涨1.47%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsm8158463.d.html</link>
+            <guid>4597026</guid>
+            <pubDate>Tue, 06 Jan 2026 16:30:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲股市继续创收盘历史新高】欧洲STOXX 600指数初步收涨0.65%，报605.68点。欧元区STOXX 50指数初步收涨0.16%，报5933.07点。富时泛欧绩优300指数初步收涨0.64%，报2414.67点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5378135.d.html</link>
+            <guid>4597025</guid>
+            <pubDate>Tue, 06 Jan 2026 16:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达CFO： 市场需求持续增长，需求较此前预测的5000亿美元有所增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5378111.d.html</link>
+            <guid>4597024</guid>
+            <pubDate>Tue, 06 Jan 2026 16:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爱尔兰总理：加征关税将损害世界经济】爱尔兰总理米哈尔·马丁于1月4日下午乘机抵达北京首都国际机场，开启为期5天的访华行程。此访是爱尔兰总理时隔14年再次访华。1月5日，爱尔兰总理马丁出席媒体见面会表示，“我们反对关税，我们认为关税最终将损害世界经济。”（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5377925.d.html</link>
+            <guid>4597023</guid>
+            <pubDate>Tue, 06 Jan 2026 16:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：（就会晤石油企业一事）你们都清楚此举的用意。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5377786.d.html</link>
+            <guid>4597022</guid>
+            <pubDate>Tue, 06 Jan 2026 16:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统特朗普：有很多石油要开采，钻探将进一步降低油价。还将与石油公司会面。]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsi5377625.d.html</link>
             <guid>4597021</guid>
             <pubDate>Tue, 06 Jan 2026 16:27:44 GMT</pubDate>
@@ -112,12 +323,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6886348.d.html</link>
             <guid>4597004</guid>
             <pubDate>Tue, 06 Jan 2026 16:13:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 也门亚丁市马西克宫总统府附近传出枪声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-07/detail-inhfkwsf6886063.d.html</link>
-            <guid>4597003</guid>
-            <pubDate>Tue, 06 Jan 2026 16:12:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[AMD首席执行官苏姿丰： 人工智能的潜力挖掘尚处于初期阶段。]]></title>
@@ -384,205 +589,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsi5366871.d.html</link>
             <guid>4596934</guid>
             <pubDate>Tue, 06 Jan 2026 15:26:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据GLOBO：医生称博索纳罗头部受轻伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsm8146559.d.html</link>
-            <guid>4596933</guid>
-            <pubDate>Tue, 06 Jan 2026 15:26:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：（谈委内瑞拉突袭行动）我们投入了大量地面部队力量。多名古巴士兵在委内瑞拉突袭中被杀。委内瑞拉的电力被切断。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6878022.d.html</link>
-            <guid>4596931</guid>
-            <pubDate>Tue, 06 Jan 2026 15:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约期银日内涨5%，现报80.50美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6877987.d.html</link>
-            <guid>4596930</guid>
-            <pubDate>Tue, 06 Jan 2026 15:26:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锡连续主力合约日内涨5%，现报357920.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsi5366597.d.html</link>
-            <guid>4596925</guid>
-            <pubDate>Tue, 06 Jan 2026 15:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货跌幅扩大，因天气预报称天气温和且供暖需求下降，价格下跌超 5%，至 10 周低点。]]></title>
-            <guid>4596922</guid>
-            <pubDate>Tue, 06 Jan 2026 15:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：AI初创公司Lmarena 完成 1.5 亿美元融资，估值达 17 亿美元。]]></title>
-            <guid>4596920</guid>
-            <pubDate>Tue, 06 Jan 2026 15:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[玻利维亚12月CPI同比上涨20.4%，环比上涨0.59%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6877177.d.html</link>
-            <guid>4596919</guid>
-            <pubDate>Tue, 06 Jan 2026 15:19:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：我完全支持美国众议院议长约翰逊。（对众议院共和党人说）我真希望你们能给我解释一下，公众到底是怎么想的。因为我们的政策是正确的。]]></title>
-            <guid>4596917</guid>
-            <pubDate>Tue, 06 Jan 2026 15:19:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据Punchbowl：美国众议院议员将于明日上午11:30（北京时间周四00:30）举行委内瑞拉问题简报会。]]></title>
-            <guid>4596914</guid>
-            <pubDate>Tue, 06 Jan 2026 15:17:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达发布自动驾驶技术平台后，网约车公司股价应声上涨。  Uber涨 5.6%，Lyft涨 3.2%，Grab涨 4%。]]></title>
-            <guid>4596913</guid>
-            <pubDate>Tue, 06 Jan 2026 15:15:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉股价下跌3.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsi5365326.d.html</link>
-            <guid>4596912</guid>
-            <pubDate>Tue, 06 Jan 2026 15:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国批准部分涉俄政府交易，有效期至 4 月 9 日。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwse5677914.d.html</link>
-            <guid>4596911</guid>
-            <pubDate>Tue, 06 Jan 2026 15:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 美国总统特朗普： 我不在乎那几个我不待见的共和党人在不在场，我压根不在乎。两天前我们过得非常顺利。我们的总统任期很成功。]]></title>
-            <guid>4596910</guid>
-            <pubDate>Tue, 06 Jan 2026 15:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普： 将于今年赢得一场 “史诗级” 的中期选举胜利。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6876169.d.html</link>
-            <guid>4596908</guid>
-            <pubDate>Tue, 06 Jan 2026 15:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国财政部发布经修订的涉俄通用许可证。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6876104.d.html</link>
-            <guid>4596906</guid>
-            <pubDate>Tue, 06 Jan 2026 15:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国总统唐纳德・特朗普在众议院共和党人闭门会议上发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsi5364823.d.html</link>
-            <guid>4596905</guid>
-            <pubDate>Tue, 06 Jan 2026 15:11:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  官方数据显示，截至 1 月 4 日，欧盟 2025/26 年度油菜籽进口量为 185 万吨，上年同期为 323 万吨。]]></title>
-            <guid>4596904</guid>
-            <pubDate>Tue, 06 Jan 2026 15:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[镍连续主力合约日内涨7%，现报146390.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsm8143755.d.html</link>
-            <guid>4596901</guid>
-            <pubDate>Tue, 06 Jan 2026 15:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[闪迪（SanDisk） 股价上涨 23%，创 10 个月来最大日内涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsm8143599.d.html</link>
-            <guid>4596900</guid>
-            <pubDate>Tue, 06 Jan 2026 15:09:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosus在12月29日-1月2日当周按均价53.4137欧元回购股票77.4742万，合计将近0.414亿欧元（折合0.641亿美元）。Naspers同期按均价1115.6887南非兰特回购股票19.0342万，合计超2.123亿兰特（折合0.128亿美元）。]]></title>
-            <guid>4596899</guid>
-            <pubDate>Tue, 06 Jan 2026 15:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  官方数据显示，截至 1 月 4 日，欧盟 2025/26 年度大麦出口量为 529 万吨，上年同期为 234 万吨。]]></title>
-            <guid>4596898</guid>
-            <pubDate>Tue, 06 Jan 2026 15:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油日内跌1%，现报57.73美元/桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwse5676795.d.html</link>
-            <guid>4596897</guid>
-            <pubDate>Tue, 06 Jan 2026 15:07:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  官方数据显示，截至 1 月 4 日，欧盟 2025/26 年度软质小麦出口量为 1118 万吨，上年同期为 1135 万吨。]]></title>
-            <guid>4596896</guid>
-            <pubDate>Tue, 06 Jan 2026 15:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[钯金期货日内涨5%，现报1855.00美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsm8143191.d.html</link>
-            <guid>4596893</guid>
-            <pubDate>Tue, 06 Jan 2026 15:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普称加州现已成为欺诈调查的目标】美国总统特朗普表示，针对加利福尼亚州的“欺诈调查”已经开始。特朗普在Truth Social发帖作出上述表态。特朗普未提供更多细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwse5676502.d.html</link>
-            <guid>4596891</guid>
-            <pubDate>Tue, 06 Jan 2026 15:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锡连续主力合约日内涨4%，现报354560.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwse5676492.d.html</link>
-            <guid>4596890</guid>
-            <pubDate>Tue, 06 Jan 2026 15:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数和纳斯达克指数涨幅扩大，道琼斯指数转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6875312.d.html</link>
-            <guid>4596889</guid>
-            <pubDate>Tue, 06 Jan 2026 15:05:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦镍日内大涨6.00%，现报18319.00美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6875276.d.html</link>
-            <guid>4596888</guid>
-            <pubDate>Tue, 06 Jan 2026 15:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哥伦比亚外交部长：若美国发动军事入侵，哥伦比亚军队应捍卫国家领土和主权。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsm8142716.d.html</link>
-            <guid>4596887</guid>
-            <pubDate>Tue, 06 Jan 2026 15:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  土耳其央行：药品涨价将影响 1 月通胀数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsm8142331.d.html</link>
-            <guid>4596886</guid>
-            <pubDate>Tue, 06 Jan 2026 15:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马里总统：坚定支持一个中国原则】马里总统戈伊塔6日表示，马里和中国秉持相近价值理念，在尊重主权和领土完整、不干涉内政、反对将人权问题工具化和政治化等关键问题上立场高度一致，马方将继续坚定支持一个中国原则。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6874536.d.html</link>
-            <guid>4596885</guid>
-            <pubDate>Tue, 06 Jan 2026 15:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金突破4490美元/盎司，日内涨0.93%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsm8141906.d.html</link>
-            <guid>4596884</guid>
-            <pubDate>Tue, 06 Jan 2026 15:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夜盘期货收盘】焦煤连续涨5.61%，玻璃连续涨4.53%，纯碱连续涨4.15%，焦炭连续涨4.14%，乙二醇连续涨2.16%，铁矿石连续涨2.14%。]]></title>
-            <guid>4596883</guid>
-            <pubDate>Tue, 06 Jan 2026 15:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白银连续主力合约日内涨5%，现报19845.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsf6874249.d.html</link>
-            <guid>4596882</guid>
-            <pubDate>Tue, 06 Jan 2026 14:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨5%，现报80.41美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-06/detail-inhfkwsi5363014.d.html</link>
-            <guid>4596881</guid>
-            <pubDate>Tue, 06 Jan 2026 14:59:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

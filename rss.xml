@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 11 Jan 2026 20:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 21:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊朗政府多举措应对局势，强化安全与供应】据央视报道，1月11日，伊朗总统佩泽希齐扬表示，伊朗政府正在聚焦民众诉求，确保各类供应稳定。11日下午，总台记者在伊朗首都德黑兰观察到，伊朗政府已采取多举措应对局势，强化安全与供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfyswz8670446.d.html</link>
+            <guid>4606525</guid>
+            <pubDate>Sun, 11 Jan 2026 20:32:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【古巴外长要求美国停止非法拘留马杜罗】古巴外交部长罗德里格斯11日要求美国停止非法拘留委内瑞拉总统马杜罗。罗德里格斯在社交媒体上表示，委内瑞拉合法总统马杜罗及其妻子已被美方非法扣押8天。古巴敦促美国政府立即停止这种非法拘留，尊重马杜罗的豁免权，并终止这场“司法和媒体的闹剧”，切实保障二人的生命安全与健康权益。他呼吁国际社会共同支持这一正当诉求，以维护国际法权威，并保障马杜罗夫妇的生命权等各项基本权利。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-12/detail-inhfysxh0277984.d.html</link>
@@ -581,12 +587,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-11/detail-inhfxzzi9016829.d.html</link>
             <guid>4606362</guid>
             <pubDate>Sun, 11 Jan 2026 13:43:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军称袭击了真主党在黎巴嫩南部的武器储存地点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-11/detail-inhfxzzi9015255.d.html</link>
-            <guid>4606361</guid>
-            <pubDate>Sun, 11 Jan 2026 13:34:41 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -6,6 +6,248 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4609274,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaei5188709.d.html",
+            "title": "【1月13日美股成交额前20：Alphabet市值突破4万亿美元】周一美股成交额第4名谷歌A类股（GOOGL）收高1%，成交111.32亿美元，市值突破4万亿美元。据报道，苹果将与谷歌达成合作，为其今年晚些时候推出的Siri等产品的人工智能功能提供技术支持。这项为期多年的合作将借助谷歌的Gemini模型和云技术，助力苹果开发未来的基础模型。",
+            "date_modified": "2026-01-12T22:15:45.000Z"
+        },
+        {
+            "id": 4609273,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacz6275881.d.html",
+            "title": "美国亚利桑那州州长撤回对数据中心税收减免政策的支持。",
+            "date_modified": "2026-01-12T22:15:25.000Z"
+        },
+        {
+            "id": 4609272,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacz6275763.d.html",
+            "title": "特朗普：纽约应立即终止拥堵收费。",
+            "date_modified": "2026-01-12T22:14:17.000Z"
+        },
+        {
+            "id": 4609271,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7786944.d.html",
+            "title": "特朗普：曼哈顿对拥堵收费是一场灾难。",
+            "date_modified": "2026-01-12T22:14:03.000Z"
+        },
+        {
+            "id": 4609270,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaei5188493.d.html",
+            "title": "澳大利亚驻美国大使在与特朗普发生冲突后将离任。",
+            "date_modified": "2026-01-12T22:13:47.000Z"
+        },
+        {
+            "id": 4609269,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaec9451008.d.html",
+            "title": "宏碁：相关诉讼旨在为蜂窝通信公司使用受六项美国专利保护的宏碁技术寻求赔偿。",
+            "date_modified": "2026-01-12T22:12:54.000Z"
+        },
+        {
+            "id": 4609268,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7786848.d.html",
+            "title": "宏碁已分别对美国电话电报公司、威瑞森和T-Mobile提起专利侵权诉讼。",
+            "date_modified": "2026-01-12T22:12:47.000Z"
+        },
+        {
+            "id": 4609267,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacz6275602.d.html",
+            "title": "Travere Therapeutics股价盘后下跌20%。",
+            "date_modified": "2026-01-12T22:12:12.000Z"
+        },
+        {
+            "id": 4609266,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7786562.d.html",
+            "title": "乌克兰基辅响起防空警报。",
+            "date_modified": "2026-01-12T22:10:25.000Z"
+        },
+        {
+            "id": 4609265,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7786399.d.html",
+            "title": "美国参议员沃伦：与特朗普的通话全程围绕成本问题展开。",
+            "date_modified": "2026-01-12T22:08:55.000Z"
+        },
+        {
+            "id": 4609264,
+            "content_html": "",
+            "title": "美国国务院：伊朗各地抗议活动不断升级。安全措施升级、道路封闭、公共交通中断和网络封锁仍在持续。航空公司继续限制或取消往返伊朗的航班，部分航空公司已暂停服务至1月16日（周五）。美国公民应做好网络持续中断的准备，并提前规划备用通讯方式。如安全允许，请考虑经陆路前往亚美尼亚或土耳其离开伊朗。",
+            "date_modified": "2026-01-12T22:08:27.000Z"
+        },
+        {
+            "id": 4609263,
+            "content_html": "",
+            "title": "奥斯特德公司：美国联邦法院批准，允许“革命风电场”（Revolution Wind）恢复建设。",
+            "date_modified": "2026-01-12T22:07:59.000Z"
+        },
+        {
+            "id": 4609262,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaei5187733.d.html",
+            "title": "美国参议员沃伦：已与特朗普探讨降低成本的相关途径。",
+            "date_modified": "2026-01-12T22:07:02.000Z"
+        },
+        {
+            "id": 4609261,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7785773.d.html",
+            "title": "【伊朗多地民众举行大规模集会 谴责骚乱事件】当地时间12日，伊朗在包括首都德黑兰、马什哈德、伊斯法罕等多个城市举行大规模集会，旨在声讨制造近期伊朗骚乱的恐怖分子，以及美国和以色列针对伊朗的一系列干涉活动。12日下午两点，数十万德黑兰民众手持伊朗国旗，高呼反美、反以口号，聚集在伊朗首都德黑兰市中心地带。伊朗民众表示，美国和以色列利用恐怖分子在伊朗制造骚乱，证明其不是所谓的“和平缔造者”，而是为了削弱和分裂伊朗，谋求自身利益。（央视新闻）",
+            "date_modified": "2026-01-12T22:04:18.000Z"
+        },
+        {
+            "id": 4609260,
+            "content_html": "",
+            "title": "据CME“美联储观察”：美联储1月维持利率不变的概率为95.0%，降息25个基点的概率为5.0%。",
+            "date_modified": "2026-01-12T22:02:28.000Z"
+        },
+        {
+            "id": 4609259,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacz6274202.d.html",
+            "title": "花旗集团宣布每股派发股息60美分。",
+            "date_modified": "2026-01-12T22:02:06.000Z"
+        },
+        {
+            "id": 4609258,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacz6273670.d.html",
+            "title": "市场资讯：美国已发布新的警报，建议美国公民离开伊朗或就地避难。",
+            "date_modified": "2026-01-12T21:58:15.000Z"
+        },
+        {
+            "id": 4609257,
+            "content_html": "",
+            "title": "惠誉评级：认为美联储的独立性以及在实现低且稳定通胀方面的过往表现是支撑美国主权信用评级的关键因素。",
+            "date_modified": "2026-01-12T21:57:36.000Z"
+        },
+        {
+            "id": 4609256,
+            "content_html": "",
+            "title": "惠誉表示，在评估美国主权信用评级时，将继续监测其治理状况的演变，包括“制度性制衡机制”。",
+            "date_modified": "2026-01-12T21:57:27.000Z"
+        },
+        {
+            "id": 4609255,
+            "content_html": "",
+            "title": "俄罗斯联邦安全会议副主席梅德韦杰夫：特朗普得抓紧时间了。据未经证实的消息称，几天后可能会举行一次突如其来的全民公投，格陵兰岛的55000名居民将有机会投票决定是否加入俄罗斯。然后一切就都结束了。",
+            "date_modified": "2026-01-12T21:56:42.000Z"
+        },
+        {
+            "id": 4609254,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7784640.d.html",
+            "title": "日本综合商社三井物产拟为船舶、飞机发行数字证券。",
+            "date_modified": "2026-01-12T21:55:59.000Z"
+        },
+        {
+            "id": 4609253,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaec9448286.d.html",
+            "title": "【委内政部长：重开委美使馆旨在保障马杜罗夫妇安全】委内瑞拉内政部长卡韦略12日表示，推动委内瑞拉与美国重新开放双方大使馆的主要目的是保障委内瑞拉总统马杜罗及其妻子的安全。",
+            "date_modified": "2026-01-12T21:53:55.000Z"
+        },
+        {
+            "id": 4609252,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7784024.d.html",
+            "title": "乌克兰总理表示，乌克兰将基洛沃格勒州的国有锂矿项目授予多布拉锂业控股公司。",
+            "date_modified": "2026-01-12T21:51:13.000Z"
+        },
+        {
+            "id": 4609250,
+            "content_html": "",
+            "title": "特朗普：立即生效，任何与伊朗有业务往来的国家，其与美国开展的任何业务都将被征收25%的关税。",
+            "date_modified": "2026-01-12T21:47:10.000Z"
+        },
+        {
+            "id": 4609249,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaei5184329.d.html",
+            "title": "诺斯罗普·格鲁曼公司：该份合同价值2.33亿美元，涵盖制造验证和鉴定阶段。",
+            "date_modified": "2026-01-12T21:46:55.000Z"
+        },
+        {
+            "id": 4609248,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacz6272087.d.html",
+            "title": "诺斯罗普·格鲁曼公司：将为美国海军制造并交付新型先进轻型鱼雷。",
+            "date_modified": "2026-01-12T21:45:39.000Z"
+        },
+        {
+            "id": 4609247,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7783008.d.html",
+            "title": "【纽约期金涨约2.3%，一度刷新历史高位至4640美元上方】周一（1月12日）纽约尾盘，现货黄金涨1.84%，报4592.13美元/盎司，亚太盘初显著拉升至4600美元，随后持续走高，北京时间00:18刷新历史高位至4630.21美元。COMEX黄金期货涨2.28%，报4603.30美元/盎司，00:16也刷新盘中历史高位至4640.50美元。",
+            "date_modified": "2026-01-12T21:41:59.000Z"
+        },
+        {
+            "id": 4609246,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaec9445907.d.html",
+            "title": "【周二（1月13日）重点关注财经事件和经济数据】\n① 07:50 日本11月贸易帐\n② 19:00 美国12月NFIB小型企业信心指数\n③ 21:30 美国12月季调后CPI\n④ 23:00 美国10月新屋销售总数年化；美联储穆萨莱姆讲话\n⑤ 次日01:00 EIA公布月度短期能源展望报告 \n⑥ 次日05:30 美国至1月9日当周API原油库存",
+            "date_modified": "2026-01-12T21:38:12.000Z"
+        },
+        {
+            "id": 4609245,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaec9445800.d.html",
+            "title": "赛默飞世尔将与英伟达合作开发基于人工智能的实验室自动化方案。",
+            "date_modified": "2026-01-12T21:37:19.000Z"
+        },
+        {
+            "id": 4609244,
+            "content_html": "",
+            "title": "德国外交部长：德国对美国退出多个国际组织一事感到遗憾，多边合作比以往任何时候都更加重要。",
+            "date_modified": "2026-01-12T21:33:00.000Z"
+        },
+        {
+            "id": 4609243,
+            "content_html": "",
+            "title": "德国外交部长：我们讨论了格陵兰岛相关事宜，这是北约联盟需要保护自身利益的一个问题。",
+            "date_modified": "2026-01-12T21:30:45.000Z"
+        },
+        {
+            "id": 4609242,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacz6270525.d.html",
+            "title": "德国外交部长：盟国重申了对北约第五条的承诺，向俄罗斯发出明确警告。",
+            "date_modified": "2026-01-12T21:29:45.000Z"
+        },
+        {
+            "id": 4609241,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaei5181963.d.html",
+            "title": "【委内瑞拉代总统任命两名部长级官员】当地时间12日，委内瑞拉代总统罗德里格斯通过社交媒体公布，任命胡安·埃斯卡罗纳为人民政权总统府部长，任命阿尼巴尔·科罗纳多为人民政权生态部部长。",
+            "date_modified": "2026-01-12T21:29:02.000Z"
+        },
+        {
+            "id": 4609240,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcacx7781604.d.html",
+            "title": "花旗将Okta公司纳入潜在利好催化剂观察名单。",
+            "date_modified": "2026-01-12T21:28:39.000Z"
+        },
+        {
+            "id": 4609239,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhcaec9444467.d.html",
+            "title": "德国外交部长：各方已达成共识，将恪守《北大西洋公约》第五条相关条款。",
+            "date_modified": "2026-01-12T21:28:02.000Z"
+        },
+        {
+            "id": 4609237,
+            "content_html": "",
+            "title": "德国外交部长：我们与美国的伙伴关系十分牢固，我们对在乌克兰实现公正和平的共同承诺坚定不移。",
+            "date_modified": "2026-01-12T21:20:55.000Z"
+        },
+        {
             "id": 4609236,
             "content_html": "",
             "title": "美国国防部长赫格塞思对洛克希德・马丁公司的 F-35 项目予以赞扬，以此向那些按时按预算交付任务的企业释放支持信号；同时，他敦促五角大楼简化合同流程、鼓励技术竞争、加速武器研发进程。",
@@ -429,248 +671,6 @@
             "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6388620.d.html",
             "title": "【特朗普施压美联储引发担忧 债券巨头称利率或反而上行】品浩(Pimco)、PGIM和DWS Group等大型债券投资机构的基金经理警告称，美国总统唐纳德·特朗普挑战美联储独立性，与其压低利率的目标背道而驰。他们表示，特朗普政府的行动使美联储抗击通胀的信誉受到威胁，给金融市场注入一种新的重大风险。而只要这种风险不消除，交易员很可能会让美国国债收益率维持在本来应有水平之上，进而抬高抵押贷款、企业贷款以及其他形式信贷的成本。",
             "date_modified": "2026-01-12T20:09:00.000Z"
-        },
-        {
-            "id": 4609172,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6388552.d.html",
-            "title": "【委内瑞拉防长呼吁保持团结 重申军方支持委代总统领导】当地时间12日，委内瑞拉国防部长洛佩斯发表声明，呼吁在当前局势下保持国家团结与冷静。洛佩斯表示，避免国内发生流血冲突和防止军方分裂始终是其首要目标，他重申军方支持代总统罗德里格斯的领导，强调“没有团结，就不会有自由与独立”。",
-            "date_modified": "2026-01-12T20:08:18.000Z"
-        },
-        {
-            "id": 4609171,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwm5300026.d.html",
-            "title": "美国众议院共和党领导层计划于周三晚间就下一份拨款方案发起投票。",
-            "date_modified": "2026-01-12T20:06:40.000Z"
-        },
-        {
-            "id": 4609170,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavvz7899329.d.html",
-            "title": "【伊朗外长：伊朗做好了应对一切可能的准备】伊朗外交部长阿拉格齐12日接受卡塔尔半岛电视台采访时表示，伊朗做好了应对一切可能的准备，希望美国作出“智慧的选择”。如果美国选择军事手段，伊朗也做好了准备。阿拉格齐表示，与以色列今年6月突袭伊朗引发“12日战争”相比，伊朗这次“军事准备充足、范围广”。",
-            "date_modified": "2026-01-12T20:04:42.000Z"
-        },
-        {
-            "id": 4609169,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavvz7899179.d.html",
-            "title": "ROKU股价迅速上涨触及4.6%的盘中高点。",
-            "date_modified": "2026-01-12T20:03:20.000Z"
-        },
-        {
-            "id": 4609168,
-            "content_html": "",
-            "title": "诺和诺德产品与产品组合战略执行副总裁：到本十年末，口服减肥药市场规模可能占到整体市场的三分之一以上。",
-            "date_modified": "2026-01-12T20:02:36.000Z"
-        },
-        {
-            "id": 4609167,
-            "content_html": "",
-            "title": "诺和诺德产品与产品组合战略执行副总裁：口服减肥药市场相较于注射类减肥药市场，规模比原先预想的更大。",
-            "date_modified": "2026-01-12T20:02:06.000Z"
-        },
-        {
-            "id": 4609166,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6387605.d.html",
-            "title": "美国监管机构：大型银行贷款信用风险仍处于温和水平。",
-            "date_modified": "2026-01-12T20:00:52.000Z"
-        },
-        {
-            "id": 4609165,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavvz7898741.d.html",
-            "title": "【嫦娥六号玄武岩为揭示月球地质演化历史提供关键线索】记者从中国科学院地质与地球物理研究所获悉，该研究所科研团队通过对嫦娥六号采集的月球背面样品的高精度钾同位素分析，首次揭示了南极-艾特肯盆地撞击事件导致月幔中等挥发性元素丢失，为理解大型撞击对月球演化的影响，以及揭示月球二分性的成因提供了重要依据。相关研究成果北京时间1月13日在国际学术期刊《美国国家科学院院刊》在线发表。（央视新闻）",
-            "date_modified": "2026-01-12T20:00:20.000Z"
-        },
-        {
-            "id": 4609164,
-            "content_html": "",
-            "title": "布伦特原油期货结算价报每桶 63.87 美元，上涨 0.53 美元，涨幅 0.84%。",
-            "date_modified": "2026-01-12T19:58:37.000Z"
-        },
-        {
-            "id": 4609163,
-            "content_html": "",
-            "title": "美国弗吉尼亚州一名高级联邦检察官因与特朗普政府在是否负责重新起诉詹姆斯·科米的问题上存在分歧而被解雇。",
-            "date_modified": "2026-01-12T19:56:27.000Z"
-        },
-        {
-            "id": 4609162,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavvz7898299.d.html",
-            "title": "【白宫：外交是美国应对伊朗局势的“首选”方案】美国白宫新闻秘书莱维特12日接受媒体采访时说，面对当前伊朗局势，美国总统特朗普认为外交是“首选”方案。莱维特说，特朗普“一直强调外交是首选”，但是，如果他认为有必要，“会毫不犹豫地动用美国军队”。",
-            "date_modified": "2026-01-12T19:55:15.000Z"
-        },
-        {
-            "id": 4609161,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6386887.d.html",
-            "title": "美国参议员DAVE MCCORMICK认为鲍威尔未犯刑事罪行。",
-            "date_modified": "2026-01-12T19:52:47.000Z"
-        },
-        {
-            "id": 4609160,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwf9561089.d.html",
-            "title": "英国科技大臣：英国将实施一项法律，将未经同意制作私密照片的行为定为刑事犯罪。",
-            "date_modified": "2026-01-12T19:51:23.000Z"
-        },
-        {
-            "id": 4609159,
-            "content_html": "",
-            "title": "以色列：将警察调查部门从总检察长办公室剥离出来的法案在第一次审议中以57票赞成、47票反对获得通过。",
-            "date_modified": "2026-01-12T19:49:44.000Z"
-        },
-        {
-            "id": 4609158,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavvz7897628.d.html",
-            "title": "意大利钢铁厂向全球最大的钢铁制造企业安赛乐米塔尔索赔70亿欧元损失。",
-            "date_modified": "2026-01-12T19:49:05.000Z"
-        },
-        {
-            "id": 4609157,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavvz7897147.d.html",
-            "title": "  法国驻伊朗大使馆非核心工作人员已撤离伊朗。",
-            "date_modified": "2026-01-12T19:44:52.000Z"
-        },
-        {
-            "id": 4609156,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwf9560399.d.html",
-            "title": "吉利德科学股价最新报122.99美元，涨幅1.6%。",
-            "date_modified": "2026-01-12T19:44:45.000Z"
-        },
-        {
-            "id": 4609155,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwm5297754.d.html",
-            "title": "辉瑞首席执行官：辉瑞与特朗普政府洽谈优先审评券相关事宜。",
-            "date_modified": "2026-01-12T19:44:11.000Z"
-        },
-        {
-            "id": 4609154,
-            "content_html": "",
-            "title": "吉利德高管表示，很高兴宣布，自1月1日起，CVS健康集团已确认对HIV暴露前预防用药Yezugo进行医保覆盖。",
-            "date_modified": "2026-01-12T19:40:43.000Z"
-        },
-        {
-            "id": 4609153,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwm5297472.d.html",
-            "title": "【新兴市场ETF资金流入规模创逾一年来最大】投资者上周继续涌入新兴市场股票和债券交易所交易基金（ETF）。这是此类ETF连续第12周录得资金流入。数据显示，截至1月9日当周，投资于多个新兴市场国家或特定国家的美国上市新兴市场ETF合计录得资金流入39.7亿美元，高于前一周的10.9亿美元，单周资金流入创逾一年来最大。股票ETF流入39.6亿美元，债券ETF流入770万美元，总资产从4427亿美元增至4526亿美元。MSCI新兴市场指数上周涨1.6%，至1452.35点。",
-            "date_modified": "2026-01-12T19:39:51.000Z"
-        },
-        {
-            "id": 4609152,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwm5297404.d.html",
-            "title": "尽管特朗普曾誓言切断供应，但美国仍允许墨西哥向古巴提供石油。",
-            "date_modified": "2026-01-12T19:38:44.000Z"
-        },
-        {
-            "id": 4609151,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwf9559825.d.html",
-            "title": "辉瑞首席执行官：药企高管应主动与特朗普接触。",
-            "date_modified": "2026-01-12T19:36:56.000Z"
-        },
-        {
-            "id": 4609150,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6385346.d.html",
-            "title": "辉瑞首席执行官：白宫方面心态乐观，不确定性 “已成为过去”。",
-            "date_modified": "2026-01-12T19:36:45.000Z"
-        },
-        {
-            "id": 4609149,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwm5297172.d.html",
-            "title": "辉瑞：白宫愿为降低进口药价提供协助。",
-            "date_modified": "2026-01-12T19:36:37.000Z"
-        },
-        {
-            "id": 4609148,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6385127.d.html",
-            "title": "【匈牙利外长：英法若向乌派兵 北约或面临与俄直接冲突】匈牙利外长西雅尔多12日表示，如果英国和法国派遣军队到乌克兰，将给北约带来与俄罗斯发生直接冲突的严重风险。作为乌克兰的邻国，匈牙利存在被拖入战争的可能性。",
-            "date_modified": "2026-01-12T19:34:22.000Z"
-        },
-        {
-            "id": 4609147,
-            "content_html": "",
-            "title": "由美国参议员Coons牵头的跨党派议员代表团将赴格陵兰岛，会晤丹麦高层官员及商界领袖。",
-            "date_modified": "2026-01-12T19:33:08.000Z"
-        },
-        {
-            "id": 4609146,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavvz7896171.d.html",
-            "title": "辉瑞：新GLP-1减肥药物相关研究是重大投入，彰显公司信心。",
-            "date_modified": "2026-01-12T19:32:10.000Z"
-        },
-        {
-            "id": 4609145,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6384906.d.html",
-            "title": "美国原油期货结算价报每桶59.50美元，上涨38美分，涨幅0.64%。",
-            "date_modified": "2026-01-12T19:31:21.000Z"
-        },
-        {
-            "id": 4609144,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6384899.d.html",
-            "title": "布伦特原油突破64美元/桶，日内涨1.06%。",
-            "date_modified": "2026-01-12T19:31:11.000Z"
-        },
-        {
-            "id": 4609143,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwm5296627.d.html",
-            "title": "  国际货币基金组织（IMF）与世界银行理事会上周均召开会议，讨论委内瑞拉相关事宜。",
-            "date_modified": "2026-01-12T19:30:49.000Z"
-        },
-        {
-            "id": 4609142,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6384858.d.html",
-            "title": "辉瑞首席执行官：对公司现有产品组合 “非常满意”。",
-            "date_modified": "2026-01-12T19:30:37.000Z"
-        },
-        {
-            "id": 4609141,
-            "content_html": "",
-            "title": "吉利德公司高管表示，去年年底，抗HIV药物Lenacapavir首次在撒哈拉以南非洲国家投入使用，而同年该药已在美国上市。",
-            "date_modified": "2026-01-12T19:30:07.000Z"
-        },
-        {
-            "id": 4609140,
-            "content_html": "",
-            "title": "美国联邦通信委员会修改设备解锁规则，该机构称这些规则每年让Verizon公司损失“数亿美元” 。",
-            "date_modified": "2026-01-12T19:28:27.000Z"
-        },
-        {
-            "id": 4609139,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavwc6384634.d.html",
-            "title": "吉利德股价攀升至1.3%的盘中高点。",
-            "date_modified": "2026-01-12T19:26:15.000Z"
-        },
-        {
-            "id": 4609138,
-            "content_html": "",
-            "title": "吉利德高管在摩根大通医疗健康大会上表示，自去年年中推出以来，HIV暴露前预防用药Yeztugo已达到2025年1.5亿美元的销售指引目标。",
-            "date_modified": "2026-01-12T19:25:36.000Z"
-        },
-        {
-            "id": 4609135,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-01-13/detail-inhhavvz7895642.d.html",
-            "title": "【德国财长：面对美欧裂痕，欧洲不可天真】德国财政部长Lars Klingbeil表示，美国与欧洲之间的裂痕正在扩大，并警告称欧洲地区绝不能对这种关系的转变视而不见。在华盛顿参加由美国财政部长贝森特主持的国际财长会议前，该官员表示：“我们看到分歧正在扩大。如果欧洲和美国渐行渐远，这对世界来说不是件好事。”",
-            "date_modified": "2026-01-12T19:22:56.000Z"
         }
     ]
 }

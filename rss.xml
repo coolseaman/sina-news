@@ -4,11 +4,573 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Wed, 14 Jan 2026 13:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 14:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[蓝思科技在互动平台表示，目前已为国内外多家头部机器人客户批量交付人形机器人、四足机器人整机和头部模组、关节模组、灵巧手、结构件等，组装出货规模位居行业前列。]]></title>
+            <guid>4613189</guid>
+            <pubDate>Wed, 14 Jan 2026 14:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货跌超7.00%，现报3.179美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8128353.d.html</link>
+            <guid>4613188</guid>
+            <pubDate>Wed, 14 Jan 2026 14:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卡塔尔称美军撤离基地是预防性措施】当地时间1月14日，卡塔尔国际媒体办公室就有关美国从卡塔尔乌代德空军基地撤离人员的媒体报道发布声明称，相关举措是为应对当前地区紧张局势而采取的预防性措施。声明强调，卡塔尔将继续采取一切必要措施，确保其公民和居民的安全与福祉，以及保护关键基础设施和军事设施，这是卡方的首要任务。声明还指出，如果局势有任何最新进展，将通过官方指定渠道及时对外通报。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnp3865708.d.html</link>
+            <guid>4613187</guid>
+            <pubDate>Wed, 14 Jan 2026 14:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官表示正在关注当前局势，但未对该集团与国家未来的业务计划发表评论。]]></title>
+            <guid>4613186</guid>
+            <pubDate>Wed, 14 Jan 2026 14:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣Reeves被问及美国立场U形反转时称：我们根据以往经验来判断美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4792101.d.html</link>
+            <guid>4613185</guid>
+            <pubDate>Wed, 14 Jan 2026 14:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LME三个月期镍触及每吨18,900美元，为2024年6月以来最高，最新上涨6.7%。]]></title>
+            <guid>4613184</guid>
+            <pubDate>Wed, 14 Jan 2026 14:22:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银将特斯拉公司目标价从247美元上调至307美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnp3865264.d.html</link>
+            <guid>4613183</guid>
+            <pubDate>Wed, 14 Jan 2026 14:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银将英特尔旗下自动驾驶技术公司Mobileye Global公司目标价从17美元下调至13美元。]]></title>
+            <guid>4613182</guid>
+            <pubDate>Wed, 14 Jan 2026 14:21:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行首席财务官表示预计贷款将实现中个位数增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4791667.d.html</link>
+            <guid>4613181</guid>
+            <pubDate>Wed, 14 Jan 2026 14:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：“以色列一直试图把美国拖入战争，替它打仗。但令人惊讶的是，这次他们竟然公开承认了这一点。在我们街头血流成河之际，以色列却公然沾沾自喜地宣称‘武装抗议者持有实弹’，并称‘这就是数百人死亡的原因’。特朗普总统现在应该清楚地知道该去哪里才能制止杀戮。”]]></title>
+            <guid>4613180</guid>
+            <pubDate>Wed, 14 Jan 2026 14:20:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[镍连续主力合约日内涨7%，现报150900.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4791358.d.html</link>
+            <guid>4613179</guid>
+            <pubDate>Wed, 14 Jan 2026 14:20:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美韩财长周一就外汇市场、经济议题进行了讨论】美国财政部在一份声明中表示，美国财长贝森特周一与韩国经济副总理兼企划财政部长具润哲举行会谈，双方就关键矿产以及加强美韩经济联系的途径进行了讨论。根据周二发布的声明，双方还谈及了韩元近期贬值的问题。声明称：“贝森特部长强调，外汇市场出现过度波动并不受欢迎，并重申韩国强劲的经济表现，尤其是在支撑美国经济的关键产业领域，使其成为美国在亚洲的重要合作伙伴。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4791134.d.html</link>
+            <guid>4613178</guid>
+            <pubDate>Wed, 14 Jan 2026 14:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官梅森表示，在向投资者出售25%的墨西哥国民银行（Banamex）股份后，花旗仍在筹备该银行的首次公开募股（IPO）事宜。]]></title>
+            <guid>4613177</guid>
+            <pubDate>Wed, 14 Jan 2026 14:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国严重欺诈办公室（SFO）：开展了一项涉及突击搜查和逮捕行动的重大行动，并宣布对“居家房产投资信托公司”（Home REIT）的前管理层展开一项新的贿赂和欺诈调查。 疑似犯罪涉案金额估计达3亿英镑。]]></title>
+            <guid>4613176</guid>
+            <pubDate>Wed, 14 Jan 2026 14:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南自贸港外贸经营主体备案数量超10万家】从海口海关获悉，自2025年12月18日海南自由贸易港全岛封关运作启动以来，海关报关单位备案咨询与申请量稳步上升，外贸经营主体规模持续扩大。据海口海关统计，2025年12月18日至2026年1月10日，海南外贸经营主体备案数量增速明显，共备案4709家。2025年，海南新增外贸经营主体3.1万家，同比增加41.7%。目前，海南外贸经营主体超过10万家。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4790280.d.html</link>
+            <guid>4613175</guid>
+            <pubDate>Wed, 14 Jan 2026 14:16:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【易点天下：股价严重异常波动，1月15日起停牌核查】易点天下公告称，公司股票于2025年12月31日至2026年1月14日连续9个交易日收盘价涨幅偏离值累计超100%，属于严重异常波动。为维护投资者利益，经申请，公司股票自2026年1月15日开市起停牌，预计不超3个交易日，待核查结束并披露相关公告后复牌。经核实，公司目前无应披露未披露的重大事项，生产经营正常，控股股东等在异常波动期间无买卖公司股票行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6964653.d.html</link>
+            <guid>4613174</guid>
+            <pubDate>Wed, 14 Jan 2026 14:16:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【债市“科技板”年度成绩单出炉 2025年科创债发行规模超7000亿元】记者获悉，中国银行间市场交易商协会自2025年5月7日推出科技创新债券、构建债市“科技板”以来，围绕“扩主体、拓用途、减信披、活机制、优评级、加增信”六个方面提升债券市场与科技创新的适配性。2025年，银行间市场非金融企业科创债发行规模超7000亿元。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8125173.d.html</link>
+            <guid>4613173</guid>
+            <pubDate>Wed, 14 Jan 2026 14:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普定于今天签署命令禁止学校购买全脂牛奶。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnp3862539.d.html</link>
+            <guid>4613172</guid>
+            <pubDate>Wed, 14 Jan 2026 14:15:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美国将从1月21日开始暂停对75个国家的所有签证办理程序】据福克斯新闻报道，美国国务院将暂停对75个国家的所有签证办理，以加强对被认为可能成为“公共负担”申请人的审查。据一份国务院内部备忘录显示，在国务院重新评估签证审查和背景核查程序期间，领事官员将依据现行法律拒绝相关签证申请。受影响的国家包括索马里、俄罗斯、阿富汗、巴西、伊朗、伊拉克、埃及、尼日利亚、泰国、也门等。此次暂停措施将于1月21日开始，并将无限期持续，直至国务院完成对签证办理流程的重新评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnp3862424.d.html</link>
+            <guid>4613171</guid>
+            <pubDate>Wed, 14 Jan 2026 14:15:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受美国财长贝森特讲话影响，韩元兑美元上涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6964319.d.html</link>
+            <guid>4613170</guid>
+            <pubDate>Wed, 14 Jan 2026 14:15:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼财政部长克林拜尔：欧盟国家必须避免成为大国的棋子。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8124790.d.html</link>
+            <guid>4613169</guid>
+            <pubDate>Wed, 14 Jan 2026 14:14:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海长宁：2026年将加快重大项目建设 全年计划投资额超80亿元】从正在召开的上海市长宁区十七届人大八次会议上获悉，2026年，长宁区将加快重大项目建设，全年计划安排重大工程正式项目29项，其中新开工8项，建成13项，另安排预备项目9项，全年计划投资额80.8亿元。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnp3862154.d.html</link>
+            <guid>4613168</guid>
+            <pubDate>Wed, 14 Jan 2026 14:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格陵兰政府：目的是培养在北极独特条件下开展行动的能力，并加强北约在北极地区的影响力，以维护欧洲和跨大西洋地区的安全利益。]]></title>
+            <guid>4613167</guid>
+            <pubDate>Wed, 14 Jan 2026 14:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格陵兰政府：从今天起，格陵兰境内及周边的军事存在将增加——这是与北约盟友密切合作的结果。]]></title>
+            <guid>4613166</guid>
+            <pubDate>Wed, 14 Jan 2026 14:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格陵兰政府：丹麦武装部队加强在格陵兰的存在，并与盟友紧密合作继续在当地开展军事演习。]]></title>
+            <guid>4613165</guid>
+            <pubDate>Wed, 14 Jan 2026 14:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼财政部长克林拜尔：美国政府正在远离欧洲。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8124210.d.html</link>
+            <guid>4613164</guid>
+            <pubDate>Wed, 14 Jan 2026 14:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼财政部长克林拜尔：贸易政策越来越多地被用作武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4789161.d.html</link>
+            <guid>4613163</guid>
+            <pubDate>Wed, 14 Jan 2026 14:12:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国副总理兼财政部长克林拜尔：旧的大西洋联盟正在解体。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8123693.d.html</link>
+            <guid>4613162</guid>
+            <pubDate>Wed, 14 Jan 2026 14:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基总统在会见乌克兰新任国防部长后表示，动员工作需要进行“更广泛的变革”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4788821.d.html</link>
+            <guid>4613161</guid>
+            <pubDate>Wed, 14 Jan 2026 14:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京商报：适度提高融资保证金比例有利于降风险】沪深北交易所将融资保证金比例提高至最高100%，直接降低了投资者通过融资业务购买股票的杠杆率。投资者需要投入更多的自有资金才能进行相同规模的交易，从而降低投资风险，并进一步提高融资业务的安全区间。降低杠杆率后，投资者在进行交易时会更加谨慎，盲目性的交易将会减少，这有助于减少证券市场的非理性波动，使股票价格更真实地反映公司的基本面和市场的供求关系。从风险防控的角度来看，当前适度提升融资保证金比例，是监管层面的一种防患于未然。今年以来A股市场在政策利好和经济复苏预期下，呈现快速回暖迹象，市场情绪持续升温，部分两融标的短期内股价快速飙涨，对应的投资风险也有所放大。此时适度收紧杠杆，有助于防止部分投资者在市场乐观时过度使用杠杆、盲目追高，避免潜在的非理性泡沫积聚。（北京商报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnp3860985.d.html</link>
+            <guid>4613160</guid>
+            <pubDate>Wed, 14 Jan 2026 14:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海尓碰瓷海尔 1688平台现山寨海尔产品】有不少“海尓”字样电器产品在阿里巴巴1688平台销售。该平台一家网店客服称，其售卖的“海尓燃气热水器”是“海尔”产品且获得授权。但海尔智家相关工作人员证实，相关产品为“山寨产品”。此前亦有媒体报道称，消费者在阿里巴巴1688平台上的店铺购买“海尔”冰箱，收货后发现是“先科”品牌，只因网店实际标注的是“海尓”。 (中新网)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4788785.d.html</link>
+            <guid>4613159</guid>
+            <pubDate>Wed, 14 Jan 2026 14:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受美国签证数据影响巴西雷亚尔跌至盘中低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6963266.d.html</link>
+            <guid>4613158</guid>
+            <pubDate>Wed, 14 Jan 2026 14:11:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特和英国财政大臣里夫斯讨论了重要的矿产合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4788469.d.html</link>
+            <guid>4613157</guid>
+            <pubDate>Wed, 14 Jan 2026 14:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国的签证程序冻结从1月21日开始无限期地持续。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4788241.d.html</link>
+            <guid>4613156</guid>
+            <pubDate>Wed, 14 Jan 2026 14:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝森特周一与英国财政大臣里夫斯会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8122465.d.html</link>
+            <guid>4613155</guid>
+            <pubDate>Wed, 14 Jan 2026 14:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国冻结了俄罗斯、巴西和伊朗的签证处理。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6962482.d.html</link>
+            <guid>4613154</guid>
+            <pubDate>Wed, 14 Jan 2026 14:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：在 Kaggle 平台推出社区基准指标。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6962202.d.html</link>
+            <guid>4613153</guid>
+            <pubDate>Wed, 14 Jan 2026 14:08:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国暂停对75个国家的所有签证审批。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8121742.d.html</link>
+            <guid>4613152</guid>
+            <pubDate>Wed, 14 Jan 2026 14:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩元兑美元短线从1476韩元飙升至1470上方，涨超0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4787550.d.html</link>
+            <guid>4613151</guid>
+            <pubDate>Wed, 14 Jan 2026 14:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[安哥拉央行将基准利率下调至17.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4787509.d.html</link>
+            <guid>4613150</guid>
+            <pubDate>Wed, 14 Jan 2026 14:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，巴西亿万富翁乔斯利·巴蒂斯塔周五在加拉加斯会见了委内瑞拉临时总统德尔西·罗德里格斯，并在会晤前后分别在华盛顿会见了美国官员。]]></title>
+            <guid>4613149</guid>
+            <pubDate>Wed, 14 Jan 2026 14:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界气象组织：2025年是有记录以来最热年份之一】当地时间14日，世界气象组织确认2025年是有记录以来最热的三年之一，延续了全球异常高温的趋势。世界气象组织表示，过去11年是有记录以来最热的11年，海洋升温的趋势仍在持续，2023年至2025年三年平均气温较前工业化时代高出1.48℃。该组织秘书长塞莱丝特·绍洛指出，由于大气中温室气体的积累，2025年成为全球有记录以来最热的年份之一。陆地和海洋温度升高加剧热浪、暴雨等极端天气，凸显早期预警系统重要性。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6961809.d.html</link>
+            <guid>4613148</guid>
+            <pubDate>Wed, 14 Jan 2026 14:07:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官表示，美国经济在地缘政治风险中保持韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6961696.d.html</link>
+            <guid>4613147</guid>
+            <pubDate>Wed, 14 Jan 2026 14:07:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国本田：2026年，美国本田预计总销量将达到150万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6961449.d.html</link>
+            <guid>4613146</guid>
+            <pubDate>Wed, 14 Jan 2026 14:06:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官表示，该行在债务资本市场中仍位居前三。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6961189.d.html</link>
+            <guid>4613145</guid>
+            <pubDate>Wed, 14 Jan 2026 14:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：（与韩国同行会晤）外汇市场过度波动不可取。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4786504.d.html</link>
+            <guid>4613144</guid>
+            <pubDate>Wed, 14 Jan 2026 14:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官梅森预计，并购业务将保持发展势头，同时，波音、玛氏以及库珀先生公司等几笔大型标志性交易也即将完成。]]></title>
+            <guid>4613143</guid>
+            <pubDate>Wed, 14 Jan 2026 14:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特：韩元贬值与韩国的基本面不符。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8119481.d.html</link>
+            <guid>4613142</guid>
+            <pubDate>Wed, 14 Jan 2026 14:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长贝森特重申了韩国强劲的经济表现。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4785485.d.html</link>
+            <guid>4613141</guid>
+            <pubDate>Wed, 14 Jan 2026 14:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软对Anthropic人工智能的投入有望达到5亿美元】据一位知情人士透露，微软已悄然跻身Anthropic的顶级客户行列，近期其每年用于采购Anthropic人工智能技术、为自家产品提供支持的开支，有望达到近5亿美元。与此同时，微软正更积极地向云服务客户推广Anthropic的人工智能模型，这或将为双方带来更多营收。 两位微软员工表示，为推进这一布局，微软近期告知旗下Azure云业务部门的部分销售人员，向云服务客户销售Anthropic人工智能模型，将与销售微软自研软件一样，计入他们的销售业绩考核指标。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8118985.d.html</link>
+            <guid>4613140</guid>
+            <pubDate>Wed, 14 Jan 2026 14:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国发布会议讨论贝森特-韩国同行会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnp3856124.d.html</link>
+            <guid>4613139</guid>
+            <pubDate>Wed, 14 Jan 2026 14:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软对Anthropic AI方面的投入预计将达到5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6958963.d.html</link>
+            <guid>4613138</guid>
+            <pubDate>Wed, 14 Jan 2026 14:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格芯将收购新思科技的处理器IP解决方案部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8116672.d.html</link>
+            <guid>4613136</guid>
+            <pubDate>Wed, 14 Jan 2026 14:01:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以总理专机降落希腊后返回以色列】总台记者获悉，当地时间14日，以色列总理专机“锡安之翼”在降落希腊克里特岛后，就又迅速掉头返回以色列。相关消息人士称，这是以色列空军进行的一次“撤离演习”。不过，相关消息均未得到以色列官方证实。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8116327.d.html</link>
+            <guid>4613135</guid>
+            <pubDate>Wed, 14 Jan 2026 14:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货跌超6.00%，现报3.213美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4782923.d.html</link>
+            <guid>4613134</guid>
+            <pubDate>Wed, 14 Jan 2026 14:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔表示，其将继续实施所有必要措施，以保障本国公民和居民的安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4782915.d.html</link>
+            <guid>4613133</guid>
+            <pubDate>Wed, 14 Jan 2026 14:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官表示，下一任美联储主席秉持同样的独立性承诺至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6957371.d.html</link>
+            <guid>4613132</guid>
+            <pubDate>Wed, 14 Jan 2026 14:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【龚正与本市各民主党派市委会、市工商联负责人和无党派人士代表座谈，就《政府工作报告》听取意见建议】上海市委副书记、市长龚正今天（1月14日）主持召开座谈会，听取本市各民主党派市委会、市工商联负责人和无党派人士代表对2026年《政府工作报告》（征求意见稿）和政府工作的意见和建议。]]></title>
+            <guid>4613131</guid>
+            <pubDate>Wed, 14 Jan 2026 14:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官表示，美联储主席和美联储的独立性至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6957055.d.html</link>
+            <guid>4613130</guid>
+            <pubDate>Wed, 14 Jan 2026 14:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华发股份：与融创文旅就收购协议结算等未尽事宜进行协商】华发股份公告称，全资子公司珠海华发于2023年1月收购深圳融华置地投资有限公司51%股权，融创文旅选择行使回购权但提出附带条件。根据收购协议，融创文旅需在规定时间内取得融资机构同意或提供借款，并支付回购款项。然而，双方未就前提条件达成一致。后续将协商解决收购协议的其他未尽事宜，公司将依法履行信息披露义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6957004.d.html</link>
+            <guid>4613129</guid>
+            <pubDate>Wed, 14 Jan 2026 13:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储数据显示，1月13日，美国联邦基金有效利率为3.64%，交易量为920亿美元；1月12日该利率为3.64%，交易量为930亿美元。]]></title>
+            <guid>4613128</guid>
+            <pubDate>Wed, 14 Jan 2026 13:59:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦镍日内大涨6.00%，现报18659.50美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4782253.d.html</link>
+            <guid>4613127</guid>
+            <pubDate>Wed, 14 Jan 2026 13:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[镍连续主力合约日内涨6%，现报149500.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6956748.d.html</link>
+            <guid>4613126</guid>
+            <pubDate>Wed, 14 Jan 2026 13:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官表示，信用卡客户的支出增长了5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6956649.d.html</link>
+            <guid>4613125</guid>
+            <pubDate>Wed, 14 Jan 2026 13:59:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官梅森表示，美国消费者一直表现出韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8114617.d.html</link>
+            <guid>4613124</guid>
+            <pubDate>Wed, 14 Jan 2026 13:57:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[镍连续主力合约日内涨5%，现报148090.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnp3851961.d.html</link>
+            <guid>4613123</guid>
+            <pubDate>Wed, 14 Jan 2026 13:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国共和党人士：鲍威尔可能缺席一年两度的国会听证会】据外媒援引一位重要的共和党议员称，由于美国司法部已向美联储送达传票，威胁要对美联储主席鲍威尔提起刑事诉讼。鲍威尔可能会缺席原定的下一次国会听证会。根据1978年对设立美联储的相关法律所作的修订，美联储主席被要求每年两次在国会听证会上作证，就货币政策和经济形势发表看法。按照惯例，美联储主席通常会分别出席参议院银行委员会和众议院金融服务委员会的听证会。众议院金融服务委员会主席、共和党众议员弗伦奇·希尔表示，“我预计鲍威尔主席不会在二月份出席众议院和参议院的听证会，因为大陪审团指控他作伪证。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6956190.d.html</link>
+            <guid>4613122</guid>
+            <pubDate>Wed, 14 Jan 2026 13:57:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行首席财务官表示，预计总净坏账冲销将持续保持稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4781596.d.html</link>
+            <guid>4613121</guid>
+            <pubDate>Wed, 14 Jan 2026 13:57:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港海关联合缉毒行动侦破183宗毒品案件】香港海关14日表示，去年10月1日至12月31日于香港国际机场进行大型缉毒行动，重点打击不法分子利用航空渠道贩毒。行动期间，香港海关联同内地及海外执法机构共侦破183宗毒品案件，检获约1.4吨怀疑毒品，拘捕62名怀疑涉案人士。 据介绍，行动中，香港海关与16个内地及海外执法机关合作，通过紧密的实时情报交流和联合评估，更有效追踪及拦截航空贩毒活动。香港海关表示，一直致力于打击入口、中转或出口的贩毒活动，将继续因应贩毒趋势的改变而作调配及部署，深化与海外执法机构合作，打击跨境贩毒活动。 根据香港《危险药物条例》，贩运危险药物属严重罪行，一经定罪，最高可被判罚款500万港元及终身监禁。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8114327.d.html</link>
+            <guid>4613120</guid>
+            <pubDate>Wed, 14 Jan 2026 13:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦镍日内大涨4.00%，现报18301.20美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6955856.d.html</link>
+            <guid>4613119</guid>
+            <pubDate>Wed, 14 Jan 2026 13:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[镍连续主力合约日内涨4%，现报146710.00元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8114046.d.html</link>
+            <guid>4613118</guid>
+            <pubDate>Wed, 14 Jan 2026 13:56:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行首席财务官表示，预计第一季度销售和交易业务活动将呈现季节性强劲态势。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6955816.d.html</link>
+            <guid>4613117</guid>
+            <pubDate>Wed, 14 Jan 2026 13:56:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官梅森预计，2026年员工数量将继续下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnr6955791.d.html</link>
+            <guid>4613116</guid>
+            <pubDate>Wed, 14 Jan 2026 13:56:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：期待与特朗普在可负担性问题上开展合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxni8113782.d.html</link>
+            <guid>4613115</guid>
+            <pubDate>Wed, 14 Jan 2026 13:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国债收益率在滞后数据公布之际延续跌势】美国国债收益率下滑，因美国政府公布了因去年秋季长时间停摆而推迟的数据。11月份生产者价格涨幅从10月份的0.1%加速至0.2%。经济学家此前预计11月份的增幅为0.3%。同样在11月份，零售额增长0.6%，高于0.4%的平均预期，而10月份为下降0.1%。明天，周度首次申请失业救济人数预计将从208,000人增至215,000人。一些分析师表示，地缘政治紧张局势以及总统特朗普对美联储主席鲍威尔的抨击帮助提振了对美国国债的需求。10年期国债收益率为4.156%，2年期国债收益率为3.518%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhxnf4780853.d.html</link>
+            <guid>4613114</guid>
+            <pubDate>Wed, 14 Jan 2026 13:54:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国国家知识产权局局长申长雨在京会见韩国知识产权部部长金容善一行】近日，中国国家知识产权局局长申长雨在京会见来访的韩国知识产权部部长金容善一行。申长雨表示，在两国元首的战略引领下，中国国家知识产权局和韩国知识产权部保持紧密合作关系，开展了广泛交流，取得了丰硕成果。双方将按照新签署的合作谅解备忘录，进一步加强中韩两国知识产权交流合作，为两国科技创新和经济发展作出更大贡献。金容善高度赞赏中国在知识产权领域，特别是知识产权全球化方面取得的成就。他表示，多年来，双方合作持续深化，取得积极成效。期待未来与中方继续加强对话交流，进一步拓展合作领域，取得更多成果。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8244177.d.html</link>
+            <guid>4613113</guid>
+            <pubDate>Wed, 14 Jan 2026 13:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【能源成本上涨 美国批发通胀略有上升】美国批发通胀在11月环比小幅回升，主要受能源成本上涨推动，而服务价格保持不变。美国劳工统计局数据显示，11月生产者价格指数（PPI）环比上涨0.2%。该报告包含了10月批发价格的首次估算数据，但由于长达43天的联邦政府停摆而被推迟发布。从同比来看，整体PPI上涨3%。剔除食品和能源后的核心PPI环比持平，同比同样上涨3%。此前，周二公布的报告显示，12月核心CPI低于预期，表明价格涨势正在降温。最新的PPI数据进一步显示，企业在将更高的进口关税和其他成本转嫁给消费者方面仍较为克制，担心过度提价会抑制销量。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8244138.d.html</link>
+            <guid>4613112</guid>
+            <pubDate>Wed, 14 Jan 2026 13:53:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官梅森表示，银行无法支持利率上限政策，这将影响信贷可得性。]]></title>
+            <guid>4613111</guid>
+            <pubDate>Wed, 14 Jan 2026 13:53:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行首席财务官表示，我们预计贷款和存款增长将带来良好的核心净利息收入表现，此外，大规模固定资产重新定价也将使这一表现受益。]]></title>
+            <guid>4613109</guid>
+            <pubDate>Wed, 14 Jan 2026 13:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官梅森表示，信用卡利率上限将对经济产生有害影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7085740.d.html</link>
+            <guid>4613108</guid>
+            <pubDate>Wed, 14 Jan 2026 13:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官梅森表示，银行无法支持利率上限政策，这将影响信贷可得性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3981055.d.html</link>
+            <guid>4613107</guid>
+            <pubDate>Wed, 14 Jan 2026 13:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团首席财务官马克·梅森表示，信用卡的可负担性是一个重要问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7085685.d.html</link>
+            <guid>4613106</guid>
+            <pubDate>Wed, 14 Jan 2026 13:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丹麦军方开始向格陵兰岛增派力量】丹麦广播公司14日报道说，丹麦军方已开始向格陵兰岛运送军事物资并派出先遣分队，为后续可能的更大规模兵力部署做准备。此次派出的先遣分队，其任务包括提前打通后勤通道、完善驻扎条件，为后续主力部队的进驻提供保障。先遣分队中包括来自丹麦陆军的士兵，以加强丹麦在格陵兰岛的军事存在。报道表示，此举发生在美国总统特朗普“接管格陵兰岛”的言论持续升温、对丹麦在当地的防务能力提出批评之际。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7085501.d.html</link>
+            <guid>4613105</guid>
+            <pubDate>Wed, 14 Jan 2026 13:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧佩克月报：俄罗斯2025年原油日产量同比下降约0.7% 总体维持稳定】俄罗斯石油产量去年小幅下降。欧佩克周三公布的月度数据显示，俄罗斯2025年原油日产量同比下降约0.7%，至912.9万桶。尽管乌克兰无人机持续袭击俄罗斯能源基础设施、且国际油价走低，但俄罗斯仍基本维持了原油产量稳定。石油和天然气合计约占俄罗斯联邦预算税收收入的四分之一。数据显示，2025年国际油价累计下跌逾18%，为自2020年以来的最大年度跌幅，主要受供应过剩担忧加剧影响。具体来看，俄罗斯12月原油产量环比减少7.3万桶/日，降至930.4万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4910227.d.html</link>
+            <guid>4613104</guid>
+            <pubDate>Wed, 14 Jan 2026 13:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【驻日美军基地工作人员涉嫌走私毒品被捕】驻日美军基地近期又曝出涉毒丑闻，一名基地工作人员因涉嫌利用军方邮政系统从美国走私毒品被捕。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7084663.d.html</link>
+            <guid>4613103</guid>
+            <pubDate>Wed, 14 Jan 2026 13:49:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大皇家银行：美加贸易政策转变被视为加拿大钢铁行业前景的关键】加拿大皇家银行分析师James McGarragle称，加拿大钢铁行业将取决于美加之间正在形成的贸易政策的结构性重整。该分析师在一份报告中表示，真正的转折点将来自预计在下半年实施的与CUSMA相关的关税减免，这可能会收窄加拿大对美国巨大的价格折让，目前该折让幅度估计约为40%。McGarragle表示，加拿大政府最近的保护措施已见成效，他并指出，这些措施“应有助于在短期内稳定加拿大钢铁市场“。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7084611.d.html</link>
+            <guid>4613102</guid>
+            <pubDate>Wed, 14 Jan 2026 13:49:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天普股份：收到上交所问询函，要求说明本次换届涉及人员安排的主要考虑】天普股份公告，公司于2026年1月14日收到上海证券交易所出具的《关于对宁波市天普橡胶科技股份有限公司董事、高级管理人员换届事项的问询函》。前期公司多次披露公告称，中昊芯英没有在未来12个月内改变上市公司主营业务或者对上市公司主营业务做出重大调整的明确计划，无资产注入计划。但本次当选相关人员除总经理范建海外，均无天普股份原有汽车零部件业务相关履历。问询函要求相关方充分说明本次换届涉及人员安排的主要考虑，对上市公司原有业务的经营管理规划，相关人员是否具备任职能力；相关安排是否有利于上市公司主营业务发展，是否符合上市公司利益；相关方对上市公司主营业务的计划是否已发生重大变化，相关安排是否与前期已披露内容存在冲突等。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4909767.d.html</link>
+            <guid>4613101</guid>
+            <pubDate>Wed, 14 Jan 2026 13:48:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日媒：日本立宪民主党和公明党讨论整合成立新政党，若实现或改变选举格局】据日本《朝日新闻》1月14日报道，多名消息人士透露，日本立宪民主党和公明党已开始讨论将两党整合成立新政党。两党高层15日将就此举行磋商。报道称，在众议院选举即将举行的背景下，如果这两个“中道”政党实现整合，将有可能改变选举格局。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4909704.d.html</link>
+            <guid>4613100</guid>
+            <pubDate>Wed, 14 Jan 2026 13:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧佩克+12月产量较计划减少78万桶/日】欧佩克+12月产量较计划少78万桶/日，俄罗斯低于目标27万桶/日，哈萨克斯坦超出8万桶/日。12月，欧佩克+国家的原油产量较计划水平低78.3万桶/日，实际产量为3744万桶/日，而计划产量为3822万桶/日（已计入此前未充分减产的补偿调整）。根据欧佩克发布的报告，成员国在12月的原油产量为2317万桶/日，比配额水平低6.1万桶/日。其中，伊拉克产量比其配额低3.4万桶/日，实际产量为412万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4909561.d.html</link>
+            <guid>4613099</guid>
+            <pubDate>Wed, 14 Jan 2026 13:47:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宏力达：拟使用超募资金3.41亿元收购中腾微网（北京）科技有限公司50.9323%股权】宏力达公告，拟使用超募资金3.41亿元收购中腾微网（北京）科技有限公司50.9323%股权。交易完成后，公司合计持有中腾微网60.0053%股权，中腾微网将被纳入公司合并报表范围内。本次交易不构成关联交易，不构成重大资产重组，已提交董事会审议通过，尚需提交股东会审议。]]></title>
+            <guid>4613098</guid>
+            <pubDate>Wed, 14 Jan 2026 13:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天普股份：公司无开展人工智能相关业务的计划】天普股份发布异动公告，2026年1月12日、1月13日公司股价连续跌停，1月14日公司股价开盘跌停，收盘涨停。鉴于近期公司股票价格短期波动较大，敬请广大投资者注意二级市场交易风险，理性决策，审慎投资。截至目前，公司及天普欣才均没有人工智能相关的技术或研发人员储备，并无开展人工智能相关业务的计划。敬请广大投资者注意上述相关信息对二级市场交易的风险。市场传言，公司已与股东中昊芯英签订框架性合作协议，开展人工智能相关业务。经公司自查，截至目前，公司无开展人工智能相关业务的计划；并与股东中昊芯英确认，截至目前，公司未与股东中昊芯英签订任何框架性合作协议或类似协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3977868.d.html</link>
+            <guid>4613096</guid>
+            <pubDate>Wed, 14 Jan 2026 13:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗议会通过关于集会和游行规范法案纲要】当地时间14日，伊朗伊斯兰议会投票通过关于集会和游行规范法案的纲要。在当天举行的伊斯兰议会公开会议上，与会代表以215票赞成、0票反对、1票弃权的表决结果，通过关于集会和游行规范法案的纲要。伊朗伊斯兰议会委员会发言人莫尔塔扎·马哈茂迪说，相关法律框架将合法与非法抗议活动区分开来。在设置合法地点后，“执法部门和安全部队识别将依法识别任何超出范围的集会、抗议和非法行为”。（央视新闻）]]></title>
+            <guid>4613095</guid>
+            <pubDate>Wed, 14 Jan 2026 13:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克：二手资料显示，委内瑞拉12月原油产量下降6万桶/日，至89.6万桶/日。沙特12月原油产量增加2.7万桶/日，至1007.8万桶/日。伊拉克12月原油产量增加5.5万桶/日，至411.9万桶/日。]]></title>
+            <guid>4613094</guid>
+            <pubDate>Wed, 14 Jan 2026 13:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克称，当被要求生成图像时，格罗克（Grok）将拒绝生成任何非法内容。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7082492.d.html</link>
+            <guid>4613093</guid>
+            <pubDate>Wed, 14 Jan 2026 13:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国零售销售额超出预期 汽车销售和假日销售均表现强劲】据机构分析，受汽车销量反弹和假日购物季强劲增长的推动，美国11月份零售销售额增幅超过预期。美国商务部周三公布的数据显示，美国11月零售销售额环比增长0.6%，此前10月份的降幅向下修正为-0.1%。剔除汽车销售额后，核心零售销售额增长0.5%。13个类别中有10个类别实现了增长，包括体育用品和爱好商店、建材零售商以及服装店。此前一个月，由于联邦政府对电动汽车的税收优惠政策到期，汽车销量受到抑制，但上个月汽车销量有所反弹。加油站收入的增长也促进了整体增长。数据显示，尽管消费者仍对可负担性和就业前景存有顾虑，但他们仍抓住了购物季的促销机会，预计这些压力在未来几个月仍将成为许多中低收入家庭关注的重点。此外，富裕的美国人则继续支撑整体消费水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4907722.d.html</link>
+            <guid>4613092</guid>
+            <pubDate>Wed, 14 Jan 2026 13:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行首席执行官布莱恩·莫伊尼汉表示，消费者健康状况良好预示着2026年经济增长将持续改善。]]></title>
+            <guid>4613091</guid>
+            <pubDate>Wed, 14 Jan 2026 13:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国驻卡塔尔大使馆提醒在卡中国公民加强安全防范】当地时间14日，中国驻卡塔尔大使馆发布领事提醒，称地区紧张局势持续升级，使馆提醒在卡中国公民和中资企业密切关注有关新闻报道，加强安全防范。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4907341.d.html</link>
+            <guid>4613090</guid>
+            <pubDate>Wed, 14 Jan 2026 13:40:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【广州：持续放大“以旧换新”等政策撬动效应，加大优质商品和服务供给】1月14日，广州市委财经委员会召开会议。市委书记、市委财经委员会主任冯忠华强调，要推动消费提质升级，持续放大“以旧换新”等政策撬动效应，加大优质商品和服务供给，积极培育消费新业态新模式新场景，抓住春节等节点开展系列促消费活动，切实把消费流量转化为经济增量。要推动外贸外资保稳增效，主动应对外部环境变化，抢时间、抢订单、抢出口，支持企业开拓“一带一路”、东盟等国际市场，吸引更多外资企业投资。]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4906470.d.html</link>
@@ -26,575 +588,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4906127.d.html</link>
             <guid>4613087</guid>
             <pubDate>Wed, 14 Jan 2026 13:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧佩克石油月报：2027年需求将保持稳定增长】石油输出国组织（欧佩克）1月14日发布月度石油市场报告称，尽管期货市场持续承压，12月所有主要原油基准的远期曲线仍维持逆价差格局，表明实物原油市场基本面支撑强劲且全球供需短期前景向好。欧佩克报告称，2026年全球经济增长率预计为3.1%，与上月评估持平。这种稳定扩张预计将在2027年进一步加速至3.2%。欧佩克报告显示，2026年全球石油需求增长预测维持在140万桶/日，与上月评估持平。2027年全球石油需求预计同比增长约130万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8236790.d.html</link>
-            <guid>4613086</guid>
-            <pubDate>Wed, 14 Jan 2026 13:37:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州：培育壮大低空经济、智能驾驶、人工智能等新增长点】1月14日，广州市委财经委员会召开会议。市委书记、市委财经委员会主任冯忠华强调，要推动工业稳盘挖潜，坚持生产、销售两端协同发力，全力服务重点企业扩大生产、抢占市场，推动汽车、电子、医药等重点行业平稳增长，培育壮大低空经济、智能驾驶、人工智能等新增长点，筑牢经济稳增长底盘。要推动服务业扩能提质，分类施策支持平台企业发展，促进金融业稳健增长，以“好房子”建设推动房地产市场平稳健康发展，推动批发业稳存量拓增量，更好发挥服务业重要支撑作用。要推动投资扩量增效，发挥好专项债、新型政策性金融工具等作用，持续推动工业、城市更新、基础设施等领域投资加力扩量，大力激发民间投资活力，推动项目建设加快形成更多实物工作量。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7080029.d.html</link>
-            <guid>4613085</guid>
-            <pubDate>Wed, 14 Jan 2026 13:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路透社14日援引美国官员的话报道说，鉴于中东地区紧张局势加剧，美国正从其在中东的多个主要基地撤出部分人员。（新华社）]]></title>
-            <guid>4613084</guid>
-            <pubDate>Wed, 14 Jan 2026 13:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南2025年绿电交易首破百亿千瓦时】记者1月14日从海南电力交易中心获悉，2025年海南省“绿电+绿证”交易电量达147.27亿千瓦时，首次突破百亿千瓦时，较2024年14.88亿千瓦时的交易规模增长8.9倍。绿色电力，简称绿电，是指生产过程中二氧化碳排放量趋近于零的电能，主要来源于太阳能、风能等可再生能源；绿证作为可再生能源电力消费的唯一凭证，每张对应1000千瓦时绿色电力。2025年达成的百亿级绿电交易电量，折算后相当于减少标煤燃烧约589万吨，减少二氧化碳排放约1468万吨。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4905084.d.html</link>
-            <guid>4613083</guid>
-            <pubDate>Wed, 14 Jan 2026 13:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国第三季度经常项目逆差2264亿美元】美国经济分析局1月14日公布数据显示，美国第三季度经常项目逆差2264亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4904886.d.html</link>
-            <guid>4613082</guid>
-            <pubDate>Wed, 14 Jan 2026 13:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行表示将主要利率维持在4.00%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8235425.d.html</link>
-            <guid>4613081</guid>
-            <pubDate>Wed, 14 Jan 2026 13:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧佩克月报四大看点一览】1. 欧佩克日产量：11月修正为2845.9万桶，12月为2856.4万桶，较上月增加10.5万桶。2. 中国石油制品净进口（变化）：11月为增加111万桶/日至1341万桶/日，10月为减少19万桶/日。3. 印度石油制品净进口（变化）：11月为增加8万桶/日至503万桶/日，10月为增加27万桶/日。4. 美国石油制品净进口（变化）：12月为增加2万桶/日至-333万桶/日，11月为减少59万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4904430.d.html</link>
-            <guid>4613080</guid>
-            <pubDate>Wed, 14 Jan 2026 13:33:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院美国与马拉维签署为期5年9.36亿美元的卫生谅解备忘录。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4904369.d.html</link>
-            <guid>4613079</guid>
-            <pubDate>Wed, 14 Jan 2026 13:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国数据公布后，德国10年期国债收益率<DE10YT=RR>变动不大，最新报2.81%，下跌0.5个基点。]]></title>
-            <guid>4613078</guid>
-            <pubDate>Wed, 14 Jan 2026 13:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国经济数据公布后，现货黄金<XAU=>维持涨势，最新报每盎司4631.21美元，上涨0.9%。]]></title>
-            <guid>4613077</guid>
-            <pubDate>Wed, 14 Jan 2026 13:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新华百货：“股份转让事宜涉及后期向公司注入半导体等相关资产”传闻不实】新华百货公告，今日公司关注到有个别投资者在相关媒体平台发表不实言论及传闻，针对公司控股股东协议转让部分股份事宜，将涉及后期向公司注入半导体、集成电路、芯片等相关资产，引发公司股票市场波动。经公司与控股股东及控股股东股权受让各方及厦门联芯美企业管理合伙企业沟通核实，不存在市场传闻所述事项，敬请广大投资者注意市场交易风险，审慎决策，理性投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7078450.d.html</link>
-            <guid>4613076</guid>
-            <pubDate>Wed, 14 Jan 2026 13:32:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国11月生产者价格指数同比上涨3%；预期上涨2.7%。]]></title>
-            <guid>4613075</guid>
-            <pubDate>Wed, 14 Jan 2026 13:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总理：应严肃对待美国总统特朗普有关格陵兰岛的言论。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8234090.d.html</link>
-            <guid>4613074</guid>
-            <pubDate>Wed, 14 Jan 2026 13:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国零售销售月率高于预期】美国11月零售销售月率录得0.6%，为7月以来新高，市场预期为0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7077900.d.html</link>
-            <guid>4613073</guid>
-            <pubDate>Wed, 14 Jan 2026 13:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国第三季度经常帐 -2264亿美元，预期-2384亿美元，前值由-2513亿美元修正为-2492亿美元。]]></title>
-            <guid>4613072</guid>
-            <pubDate>Wed, 14 Jan 2026 13:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国11月零售销售月率 0.6%，预期0.4%，前值0.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8233896.d.html</link>
-            <guid>4613071</guid>
-            <pubDate>Wed, 14 Jan 2026 13:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土库曼斯坦外交部报告了伊朗货船“罗纳”号在里海遇险的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8233702.d.html</link>
-            <guid>4613070</guid>
-            <pubDate>Wed, 14 Jan 2026 13:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世运电路：公司为T客户主要PCB供应商】有投资者问世运电路(603920)，公司电子产品有供货给特斯拉人形机器人吗？世运电路在互动平台表示，公司作为T客户主要PCB供应商，为其提供涵盖电动车三电领域关键零部件产品、辅助驾驶及自动驾驶相关产品，同时基于技术同源发展进入其人形机器人供应链。公司的PCB产品已基本覆盖人形机器人大脑中央控制系统、视觉感知系统、关节驱动系统、运动控制单元、灵巧手及电源管理系统等全系电子电路需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4903026.d.html</link>
-            <guid>4613069</guid>
-            <pubDate>Wed, 14 Jan 2026 13:29:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【孩子王：已推出KidsGPT及多个AI智能营销工具】孩子王在互动平台表示，公司高度重视AI人工智能技术发展，自主研发了母婴童垂直领域首个AI大模型—KidsGPT智能顾问，并基于KidsGPT大模型孵化了“哆啦”“漩涡”等AI营销工具，自2025年4月推出至2025年9月30日止，“漩涡”智能短视频生产分发平台已生产超过30万条短视频，相关内容在社交平台播放量累计超6400万次。同时，公司孵化了AI育儿顾问、AI智能选品、AI订货专家、AI社群员工、AI财务数字员工、AI门店数字导购等多个AI智能体，全面提升了用户体验和运营效率。鉴于公司AI业务尚处于初步发展阶段，在公司业务中占比较小，对公司业绩不构成重大影响，敬请投资者注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8233510.d.html</link>
-            <guid>4613068</guid>
-            <pubDate>Wed, 14 Jan 2026 13:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部亚洲司司长刘劲松会见蒙古驻华大使恩赫包勒德】2026年1月14日，外交部亚洲司司长刘劲松会见蒙古驻华大使恩赫包勒德，就双边关系和共同关心的问题友好、深入交换意见。刘劲松表示，去年9月习近平主席会见来华出席上海合作组织峰会和纪念中国人民抗日战争暨世界反法西斯战争胜利80周年活动的呼日勒苏赫总统，为两国关系把舵定向，注入新动力。新一年里，中方工作层愿和蒙方伙伴一道努力，落实好领导人重要共识，巩固战略互信，加强务实合作，支持彼此核心利益，推动中蒙全面战略伙伴关系迈向新台阶。恩赫包勒德表示，蒙中互为重要近邻，发展对华友好关系是蒙古外交政策的优先方针。蒙方坚定支持一个中国原则。今年是蒙古和中国的马年，相信在双方共同努力下，蒙中关系将马到功成，取得更大发展和成就。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4902376.d.html</link>
-            <guid>4613067</guid>
-            <pubDate>Wed, 14 Jan 2026 13:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[玻璃连续主力合约日内跌1%，现报1081.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4902302.d.html</link>
-            <guid>4613066</guid>
-            <pubDate>Wed, 14 Jan 2026 13:27:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U23亚洲杯小组赛最后一轮，中国U23男足0-0战平泰国U23男足，历史首次晋级该项赛事淘汰赛！（央视新闻）]]></title>
-            <guid>4613065</guid>
-            <pubDate>Wed, 14 Jan 2026 13:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈焊华通：股东恒通投资拟减持不超过3%】哈焊华通公告，持股5%以上股东常州恒通投资发展有限公司持有公司股份4706.82万股，占25.89%，计划通过集中竞价和大宗交易方式减持不超过545.44万股，不超过公司总股本3%，其中任意连续90日内大宗交易减持不超2%，集中竞价减持不超1%，减持期为本次减持计划预披露公告发布之日起15个交易日后的三个月内，减持价格按届时市场价确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4902143.d.html</link>
-            <guid>4613064</guid>
-            <pubDate>Wed, 14 Jan 2026 13:26:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石油输出国组织（OPEC）援引二手资料称，12月欧佩克原油日产量增加10.5万桶，达到2856万桶。]]></title>
-            <guid>4613063</guid>
-            <pubDate>Wed, 14 Jan 2026 13:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉萨地区生产总值首破千亿元】记者1月14日从拉萨市第十二届人民代表大会第六次会议上获悉，2025年西藏拉萨市地区生产总值首次突破千亿元大关。2025年，拉萨市投资和消费实现稳健增长。全市60个重点项目全部开工建设，预计固定资产投资同比增长5%以上；社会消费品零售总额达553亿元，同比增长5%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3970029.d.html</link>
-            <guid>4613062</guid>
-            <pubDate>Wed, 14 Jan 2026 13:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【LME期锡涨超11%】伦敦金属交易所(LME)三个月期铜涨0.32%，报13199.0美元/吨；伦敦金属交易所(LME)三个月期锡涨11.10%，报54600.0美元/吨；伦敦金属交易所(LME)三个月期镍涨3.30%，报18180.0美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7076425.d.html</link>
-            <guid>4613061</guid>
-            <pubDate>Wed, 14 Jan 2026 13:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[盘前花旗股价上涨1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7076341.d.html</link>
-            <guid>4613060</guid>
-            <pubDate>Wed, 14 Jan 2026 13:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗高级将领：伊朗处于最高战备状态】伊朗伊斯兰革命卫队航空航天部队司令马吉德·穆萨维14日说，伊朗当前处于最高战备状态，导弹储备量自2025年以来有所增加。 穆萨维当天在接受伊朗塔斯尼姆通讯社采访时表示，在2025年6月以色列和伊朗的激烈冲突中受损的设施已完成修复，伊斯兰革命卫队航空航天部队在多个领域的产出水平已超过去年6月时的水平。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7076086.d.html</link>
-            <guid>4613059</guid>
-            <pubDate>Wed, 14 Jan 2026 13:25:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[燃料油连续主力合约日内涨4%，现报2655.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4901385.d.html</link>
-            <guid>4613058</guid>
-            <pubDate>Wed, 14 Jan 2026 13:24:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克预计2027年非欧佩克产油国的石油供应量将每日增长61万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8231522.d.html</link>
-            <guid>4613057</guid>
-            <pubDate>Wed, 14 Jan 2026 13:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团股价走势逆转，在震荡的盘前交易中最新上涨0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3968780.d.html</link>
-            <guid>4613056</guid>
-            <pubDate>Wed, 14 Jan 2026 13:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：北约应要求丹麦立即将俄罗斯人驱逐出去。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7075323.d.html</link>
-            <guid>4613055</guid>
-            <pubDate>Wed, 14 Jan 2026 13:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞联银行对黄金“非常看好” 预测将突破5000美元】瑞联银行建议客户增加黄金配置，并预测这种贵金属将在火热涨势的基础上继续走强，升破5,000美元。“我们仍然非常看好黄金，”该公司外汇策略主管Peter Kinsella表示。“我们已为今年年底前至少升至5,000—5,200美元的走势做好布局。从更长期来看，运行轨迹肯定更高。”他表示，该公司目前对黄金的配置比例为7%，并可能提高这一仓位，同时称理想的投资组合权重应在7%—15%之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3968643.d.html</link>
-            <guid>4613054</guid>
-            <pubDate>Wed, 14 Jan 2026 13:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锡连续主力合约日内触及涨停，现报440880.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4900630.d.html</link>
-            <guid>4613053</guid>
-            <pubDate>Wed, 14 Jan 2026 13:22:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克维持2026年欧元区经济增长预测在1.2%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8230653.d.html</link>
-            <guid>4613052</guid>
-            <pubDate>Wed, 14 Jan 2026 13:20:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克：2026年全球对欧佩克+原油的需求平均为4300万桶/日，2027年为4360万桶/日。欧佩克+12月份的原油总产量平均为4283万桶/日，较11月份减少了23.8万桶/日。]]></title>
-            <guid>4613051</guid>
-            <pubDate>Wed, 14 Jan 2026 13:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克预测2027年美国经济增长率为2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4900013.d.html</link>
-            <guid>4613050</guid>
-            <pubDate>Wed, 14 Jan 2026 13:20:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【子公司陷入合同诈骗案 天地在线公告：已报案】1月14日，北京全时天地在线网络信息股份有限公司（简称天地在线）公告称，公司控股子公司北京全时分享科技有限公司（简称全时分享）于2025年7月、2025年8月与客户签署3份《推广服务合作合同》。合同约定由全时分享为客户提供营销策划及执行服务。全时分享在上述营销服务执行过程中发现客户方项目对接人员谢偲帆及其同伙涉嫌合同诈骗，涉案金额5508.53万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4899971.d.html</link>
-            <guid>4613049</guid>
-            <pubDate>Wed, 14 Jan 2026 13:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克维持2026年全球经济增长预测在3.1%不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4899671.d.html</link>
-            <guid>4613048</guid>
-            <pubDate>Wed, 14 Jan 2026 13:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海纳尔：上海纳隽、上海百鸢材料科技中心就股份锁定作出承诺】上海纳尔公告，上海纳隽材料科技中心（有限合伙）及上海百鸢材料科技中心（有限合伙）就本次发行股份及支付现金购买资产项下的股份发行作出承诺，若持续拥有标的资产的时间不足12个月，则以该等资产认购的上市公司股份自股份发行结束之日起36个月内不得转让；已满12个月的，则自股份发行结束之日起12个月内不得转让。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3967310.d.html</link>
-            <guid>4613047</guid>
-            <pubDate>Wed, 14 Jan 2026 13:19:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克预测2027年全球经济增长率为3.2%]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8229892.d.html</link>
-            <guid>4613046</guid>
-            <pubDate>Wed, 14 Jan 2026 13:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国外交部长巴罗：正在研究向伊朗发送欧洲通信卫星公司终端设备的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7073721.d.html</link>
-            <guid>4613045</guid>
-            <pubDate>Wed, 14 Jan 2026 13:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行股价在盘前交易中逆转走势，最新下跌1.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7073582.d.html</link>
-            <guid>4613044</guid>
-            <pubDate>Wed, 14 Jan 2026 13:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克预计到2027年全球石油需求将以每日134万桶的速度增长 。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3966794.d.html</link>
-            <guid>4613043</guid>
-            <pubDate>Wed, 14 Jan 2026 13:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克维持2026年全球石油需求增长预测在每日138万桶不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8229152.d.html</link>
-            <guid>4613042</guid>
-            <pubDate>Wed, 14 Jan 2026 13:16:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳尔股份：拟发行股份及支付现金购买资产并募集配套资金】纳尔股份公告，公司计划发行股份及支付现金购买杨建堂、上海纳隽材料科技中心（有限合伙）、上海百鸢材料科技中心（有限合伙）、苏州浚迈思元壹号创业投资合伙企业（有限合伙）持有的南通纳尔材料科技有限公司33.5542%股权，并募集配套资金。本次交易尚需取得相关审批机关的批准或核准。截至本预案摘要签署日，与本次交易相关的审计、评估工作尚未完成，相关数据尚未经审计和评估机构进行审计和评估。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4898516.d.html</link>
-            <guid>4613041</guid>
-            <pubDate>Wed, 14 Jan 2026 13:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国官员：鉴于地区紧张局势升级，美国正作为预防措施从其在中东的主要军事基地撤离部分人员。]]></title>
-            <guid>4613040</guid>
-            <pubDate>Wed, 14 Jan 2026 13:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AI热潮推高美国电价美国电价或持续上涨】随着人工智能加速落地，美国各地的数据中心建设进入快车道。但与此同时，电价上涨也正成为美国民众最直接的生活痛点。当地时间13日，美国微软公司宣布启动“社区优先”计划，承诺不将数据中心的用电成本转嫁给当地居民。专家指出，“数据中心热潮”是美国电价上涨主要驱动因素。预计2026年美国电价或持续上涨。近期，特朗普也敦促科技公司承担AI用电成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7072882.d.html</link>
-            <guid>4613039</guid>
-            <pubDate>Wed, 14 Jan 2026 13:16:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[霍尼韦尔称量子计算初创公司Quantinuum将申请首次公开募股（IPO）后，该公司盘前股价上涨2.1% 。]]></title>
-            <guid>4613038</guid>
-            <pubDate>Wed, 14 Jan 2026 13:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝拉1号油轮抵达英国水域 此前在大西洋被美国扣押】一艘悬挂俄罗斯国旗的油轮抵达英国领海。此前几天，该油轮在大西洋被美国军队扣押。英国交通部在一份声明中表示：“贝拉1号昨天进入英国水域，补充了包括船员食物和水在内的必需品，之后将继续其航程。”这艘油轮在大西洋上被美国海岸警卫队船只跟踪，最终在国际水域被扣押。行业数据库显示，该船此前曾悬挂假国旗，之后改挂俄罗斯国旗——这意味着它在俄罗斯注册。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7072500.d.html</link>
-            <guid>4613037</guid>
-            <pubDate>Wed, 14 Jan 2026 13:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST阳光：控股股东拟4.34亿元转让19.97%股份，实控人将变更】*ST阳光公告称，2026年1月14日，控股股东京基集团拟以4.34亿元向刘丹协议转让1.50亿股（占总股本19.97%），交易单价2.9元/股。若转让完成，刘丹将持有2.25亿股（占总股本29.97%），成为公司控股股东、实控人。刘丹承诺自收购完成起36个月内，不转让上述股份，不质押本次受让的股份。本次转让尚需深交所合规确认及股份过户登记，存在不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3965894.d.html</link>
-            <guid>4613036</guid>
-            <pubDate>Wed, 14 Jan 2026 13:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗议会通过关于集会和游行规范法案纲要】据伊朗伊斯兰共和国通讯社1月14日报道，伊朗伊斯兰议会投票通过关于集会和游行规范法案的纲要。报道说，在当天举行的伊斯兰议会公开会议上，与会代表以215票赞成、0票反对、1票弃权的表决结果，通过关于集会和游行规范法案的纲要。据报道，伊朗伊斯兰议会委员会发言人莫尔塔扎·马哈茂迪说，相关法律框架将合法与非法抗议活动区分开来。在设置合法地点后，“执法部门和安全部队识别将依法识别任何超出范围的集会、抗议和非法行为”。近期，伊朗多地发生抗议活动，其间出现骚乱，造成人员伤亡。连日来，美国总统特朗普多次威胁军事干涉伊朗局势。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7072396.d.html</link>
-            <guid>4613035</guid>
-            <pubDate>Wed, 14 Jan 2026 13:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧佩克：2025年俄罗斯石油产量微降0.7%】欧佩克周三发布的月度数据显示，俄罗斯去年原油日产量下降约 0.7%，降至 912.9 万桶。尽管乌克兰对俄罗斯能源基础设施发动无人机袭击，且原油价格走低，但俄罗斯仍基本维持了原油产量的稳定。石油和天然气相关收入约占俄罗斯联邦预算税收的四分之一。俄罗斯是欧佩克 +成员国。该联盟本月早些时候已决定维持现有产量水平不变。受市场对供应过剩的担忧加剧影响，2025 年原油价格跌幅超过 18%，创下 2020 年以来的最大年度跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8228338.d.html</link>
-            <guid>4613034</guid>
-            <pubDate>Wed, 14 Jan 2026 13:14:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克数据显示，2025年俄罗斯石油产量微降0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8228006.d.html</link>
-            <guid>4613033</guid>
-            <pubDate>Wed, 14 Jan 2026 13:13:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈萨克斯坦就油轮遇袭事件发表声明】当地时间14日，哈萨克斯坦外交部就黑海海域里海管道联盟海上终端附近发生的袭击事件发表正式声明，重申哈萨克斯坦并非任何武装冲突的当事方，始终为加强全球及欧洲能源安全作出重要贡献，并严格遵守国际规范，确保能源供应的连续性和稳定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7071901.d.html</link>
-            <guid>4613032</guid>
-            <pubDate>Wed, 14 Jan 2026 13:13:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锡连续主力合约日内涨9%，现报436680.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7071856.d.html</link>
-            <guid>4613031</guid>
-            <pubDate>Wed, 14 Jan 2026 13:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伦锡日内涨超10.00%，现报54265.00美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4897264.d.html</link>
-            <guid>4613030</guid>
-            <pubDate>Wed, 14 Jan 2026 13:12:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锡连续主力合约日内涨8%，现报432780.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4896701.d.html</link>
-            <guid>4613029</guid>
-            <pubDate>Wed, 14 Jan 2026 13:11:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经纬恒润：持股5%以上股东兼董事减持97万股计划届满】经纬恒润公告称，持股5%以上股东兼董事曹旭明减持计划时间区间已届满。减持前，曹旭明直接持股13,807,449股，占比11.5101%。2025年9月16日，其披露拟减持不超1,000,000股，即不超公司股份总数的0.8336%。2025年10月31日至2026年1月6日，曹旭明通过集中竞价及大宗交易合计减持970,000股，占比0.8086%，减持总金额86,346,078元，未完成减持30,000股，当前持股比例降至10.7015%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4896650.d.html</link>
-            <guid>4613028</guid>
-            <pubDate>Wed, 14 Jan 2026 13:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰：德米特罗·纳塔卢哈在最高拉达批准后成为国家财产基金负责人。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4896516.d.html</link>
-            <guid>4613027</guid>
-            <pubDate>Wed, 14 Jan 2026 13:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团：目标是在 2026 年实现 60%的效率比率和正运营杠杆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4896424.d.html</link>
-            <guid>4613026</guid>
-            <pubDate>Wed, 14 Jan 2026 13:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公积金贷款利率接近历史低点，还有下调空间吗】上海易居房地产研究院副院长严跃进指出，当前首套房贷利率已接近历史低位，继续下调的空间相对有限。从整体降息环境和公积金制度政策导向看，继续下调并非没有可能，但并不迫切，后续更可能取决于宏观利率环境和房地产市场修复进展。
-
-从银行的视角来看，娄飞鹏则认为，利差持续收窄意味着商业按揭贷款利率仍面临下行压力，尤其在公积金贷款额度相对充足的城市，部分购房者可能优先使用公积金贷款，从而对商业房贷形成分流，压缩银行利息收入空间。
-
-不过，业内普遍认为未来住房按揭贷款利率有望下行。东方金诚首席宏观分析师王青预计，2026年央行将降息2次，降息幅度为20~30个基点，初步判断上半年和下半年各一次。同时，从推动房地产市场止跌回稳的角度出发，2026年亦存在通过单独引导5年期以上LPR较大幅度下行，对居民房贷实施定向降息的可能性。
-
-瑞银投资银行高级中国经济学家张宁则指出，从政策逻辑看，若未来政策利率进一步下调20个基点，按揭贷款利率存在下调30~40个基点的可能性。但他也强调，利率调整仍需在稳定银行息差和防范金融风险之间取得平衡，相关政策仍处于讨论和论证阶段。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4896153.d.html</link>
-            <guid>4613025</guid>
-            <pubDate>Wed, 14 Jan 2026 13:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【岩山科技：目前AMD技术团队正在协助RockAI进行NPU的Yan架构大模型适配 尚未签正式商业性质合同】岩山科技在互动平台表示，2025年7月，RockAI与全球知名芯片厂商AMD签署了合作备忘录，目前AMD技术团队正在协助RockAI进行NPU的Yan架构大模型适配，RockAI与AMD尚未签署正式商业性质合同。]]></title>
-            <guid>4613024</guid>
-            <pubDate>Wed, 14 Jan 2026 13:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST柯利达：股价异常波动，提示多项风险及业绩下滑情况】ST柯利达公告称，公司股票连续三个交易日内日收盘价格涨幅偏离值累计超12%，属异常波动。2026年1月10日披露，控股股东柯利达集团股东拟转让100%股权，若完成，间接控股股东将变更为英众智能，实控人将变更。2025年三季报显示，公司营收11.89亿元，同比降30.48%；净利润-9884.87万元，同比降683.61%。此外，还提示了控制权变更、业绩下滑、内控整改、股份质押及股价过高等风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4895603.d.html</link>
-            <guid>4613023</guid>
-            <pubDate>Wed, 14 Jan 2026 13:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  智利国家铜业公司为其价值 13 亿美元的 RT 项目寻求智利环境部门批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4895576.d.html</link>
-            <guid>4613022</guid>
-            <pubDate>Wed, 14 Jan 2026 13:08:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团第四季度利润下滑后，盘前股价下跌0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4895030.d.html</link>
-            <guid>4613021</guid>
-            <pubDate>Wed, 14 Jan 2026 13:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储官员卡什卡利：1月没有降息动力】美联储官员卡什卡利：美国明尼阿波利斯联邦储备银行行长尼尔・T・卡什卡里表示，过去一年特朗普政府针对美联储采取的一系列行动，“本质上是围绕货币政策展开”。在美国司法部主导的一项刑事调查启动后，卡什卡里公开表态支持美联储主席鲍威尔。卡什卡里在接受采访时表示：“过去一年间，这一系列矛盾的不断升级，本质上就是围绕货币政策的博弈。我认为主席的这番表态准确地道出了问题的核心。”他还指出，当前正是向公众与美国民众阐释 “为何美联储的独立性对美国经济的稳健运行与活力至关重要” 的契机。面对此次调查，金融市场反应相对平稳。卡什卡里认为，这在一定程度上是因为两党议员已联名表态支持鲍威尔，认可美联储应拥有不受政治干预、自主制定利率政策的权力，这让市场吃下了一颗 “定心丸”。这位明尼阿波利斯联储行长还提到，过去一年间最高法院曾多次释放信号，表明其对美联储的定位与其他独立机构有所不同。此前，最高法院曾赋予特朗普政府对其他独立机构更大的管控权限。“我认为 1 月没有任何降息的动力，” 他表示，不过他补充称，今年晚些时候仍有可能存在降息空间，只是 “现在就讨论这个还为时过早”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7069508.d.html</link>
-            <guid>4613020</guid>
-            <pubDate>Wed, 14 Jan 2026 13:06:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国天然气期货跌超5.00%，现报3.247美元/百万英热。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3962520.d.html</link>
-            <guid>4613019</guid>
-            <pubDate>Wed, 14 Jan 2026 13:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热尼尔/奎斯特民调：卢拉将在巴西总统大选决选中以45%的得票率获胜，弗拉维奥·博索纳罗得票率为38%]]></title>
-            <guid>4613018</guid>
-            <pubDate>Wed, 14 Jan 2026 13:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储官员卡什卡利表示，由于通胀高企，他对降息持谨慎态度，并补充称，特朗普的关税措施随着时间推移将继续推高物价。]]></title>
-            <guid>4613017</guid>
-            <pubDate>Wed, 14 Jan 2026 13:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广期所：对部分客户采取限制开仓监管措施】据广期所，近期，1组2名客户未按规定申报实际控制关系，在碳酸锂期货相关合约开仓交易数量超过交易所规定的交易限额。根据《广州期货交易所风险管理办法》第三十条等有关规定，交易所决定对上述客户采取限制开仓3个月的监管措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7069024.d.html</link>
-            <guid>4613016</guid>
-            <pubDate>Wed, 14 Jan 2026 13:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【博纳影业：AI协作工具“博乐圆桌”已上线】博纳影业1月14日在互动平台表示，AI协作工具“博乐圆桌”已上线。目前所涉产品收入占比较低，请投资者注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4894501.d.html</link>
-            <guid>4613015</guid>
-            <pubDate>Wed, 14 Jan 2026 13:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【容百科技：延期回复上海证券交易所《问询函》，股票继续停牌1日】容百科技公告，公司于2026年1月13日收到上海证券交易所科创板公司管理部下发的《关于宁波容百新能源科技股份有限公司与宁德时代签署日常经营合同事项的问询函》。收到《问询函》后，公司积极组织管理层及相关方按照要求逐项认真准备答复工作，鉴于《问询函》涉及的部分事项需要进一步落实，公司股票于2026年1月15日将继续停牌1日。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7068921.d.html</link>
-            <guid>4613014</guid>
-            <pubDate>Wed, 14 Jan 2026 13:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰方面表示，密切关注特朗普对美联储的调查情况，并正在考虑出售美元债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4894396.d.html</link>
-            <guid>4613013</guid>
-            <pubDate>Wed, 14 Jan 2026 13:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储官员卡什卡利表示：“如果货币政策真的如此紧缩，我们就不应看到经济表现出如此强的韧性。”]]></title>
-            <guid>4613012</guid>
-            <pubDate>Wed, 14 Jan 2026 13:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[明尼阿波利斯联邦储备银行行长尼尔·卡什卡利在一次采访中为美联储主席杰罗姆·鲍威尔进行了辩护。]]></title>
-            <guid>4613011</guid>
-            <pubDate>Wed, 14 Jan 2026 13:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储的KASHKARI：下一任美联储主席的信誉“最重要”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8223294.d.html</link>
-            <guid>4613010</guid>
-            <pubDate>Wed, 14 Jan 2026 13:03:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波罗的海干散货指数跌2.61%，至1566点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4893238.d.html</link>
-            <guid>4613009</guid>
-            <pubDate>Wed, 14 Jan 2026 13:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储的KASHKARI：多年的高通胀非常令人担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8222984.d.html</link>
-            <guid>4613008</guid>
-            <pubDate>Wed, 14 Jan 2026 13:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储官员卡什卡利还表示，本月应维持利率稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhter3960205.d.html</link>
-            <guid>4613007</guid>
-            <pubDate>Wed, 14 Jan 2026 13:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗集团首席执行官：承诺于 2026 年实现 10% 至 11% 的有形普通股股东权益回报率目标。]]></title>
-            <guid>4613006</guid>
-            <pubDate>Wed, 14 Jan 2026 13:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗集团首席执行官：2025 年是取得重大进展的一年  。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7067443.d.html</link>
-            <guid>4613005</guid>
-            <pubDate>Wed, 14 Jan 2026 13:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锡连续主力合约日内涨7%，现报428880.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4892761.d.html</link>
-            <guid>4613004</guid>
-            <pubDate>Wed, 14 Jan 2026 13:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团第四季度每股收益1.19美元，而路孚特IBES预估为1.67美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4892738.d.html</link>
-            <guid>4613003</guid>
-            <pubDate>Wed, 14 Jan 2026 13:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团第四季度运营费用为138亿美元，第四季度营收199亿美元，而路孚特IBES预估为209.26亿美元。]]></title>
-            <guid>4613002</guid>
-            <pubDate>Wed, 14 Jan 2026 13:01:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团第四季度固定收益、外汇及大宗商品部门销售与交易营收为 34.6 亿美元，市场预期值为 32.9 亿美元。]]></title>
-            <guid>4613001</guid>
-            <pubDate>Wed, 14 Jan 2026 13:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[镍连续主力合约日内涨3%，现报145310.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7067129.d.html</link>
-            <guid>4613000</guid>
-            <pubDate>Wed, 14 Jan 2026 13:01:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金EXODUSPOINT聘请外汇资深人士BARIS TEMELKURAN。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4892572.d.html</link>
-            <guid>4612999</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储的KASHKARI：通胀高于目标水平还有两到三年时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4892523.d.html</link>
-            <guid>4612998</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：纽伯格・伯曼集团拟以 70 亿美元估值入股瑞安公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4892445.d.html</link>
-            <guid>4612997</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[镍连续主力合约日内涨2%，现报143820.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtem8222106.d.html</link>
-            <guid>4612996</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  机器人技术初创企业斯基尔德人工智能公司（SKILD AI）在新一轮融资中估值突破 140 亿美元。]]></title>
-            <guid>4612995</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨6%，现报92.14美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7066870.d.html</link>
-            <guid>4612994</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白银连续主力合约日内涨6%，现报23640.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4892342.d.html</link>
-            <guid>4612993</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内期货夜盘开盘】锡连续涨6.01%，白银连续涨5.55%，铂连续涨3.67%，碳酸锂连续跌3.53%，燃料油连续涨3.06%，菜籽连续涨2.07%，尿素连续涨2.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7066784.d.html</link>
-            <guid>4612992</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锡连续主力合约日内涨6%，现报424700.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtet7066780.d.html</link>
-            <guid>4612991</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[燃料油连续主力合约日内涨3%，现报2630.00元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-14/detail-inhhhtei4892282.d.html</link>
-            <guid>4612990</guid>
-            <pubDate>Wed, 14 Jan 2026 13:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

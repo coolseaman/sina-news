@@ -4,11 +4,426 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 15 Jan 2026 17:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jan 2026 18:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[白宫：特朗普就美联储人事任命事宜处于决策阶段。]]></title>
+            <guid>4615802</guid>
+            <pubDate>Thu, 15 Jan 2026 18:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普预计信用卡公司会降低成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5982290.d.html</link>
+            <guid>4615801</guid>
+            <pubDate>Thu, 15 Jan 2026 18:35:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普网站将很快正式上线。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2996284.d.html</link>
+            <guid>4615800</guid>
+            <pubDate>Thu, 15 Jan 2026 18:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：EG集团下周将启动一个程序，聘请银行家为其在美国进行首次公开募股（IPO）做准备，此次IPO预计该集团估值在80亿至90亿美元之间。]]></title>
+            <guid>4615799</guid>
+            <pubDate>Thu, 15 Jan 2026 18:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织：工作人员将于1月22日至28日访问斯里兰卡，与有关部门讨论迪特瓦飓风造成的损失规模和范围。]]></title>
+            <guid>4615798</guid>
+            <pubDate>Thu, 15 Jan 2026 18:32:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特： 特朗普尚未与瓦尔兹通话，但已做好通话准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4470635.d.html</link>
+            <guid>4615797</guid>
+            <pubDate>Thu, 15 Jan 2026 18:32:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普取消选举是开玩笑。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4470548.d.html</link>
+            <guid>4615796</guid>
+            <pubDate>Thu, 15 Jan 2026 18:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储施密德：12月消费者物价指数（CPI）显示通胀率接近3% 。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4470515.d.html</link>
+            <guid>4615795</guid>
+            <pubDate>Thu, 15 Jan 2026 18:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储施密德：降息可能会加剧通胀，且对就业的帮助不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5981711.d.html</link>
+            <guid>4615794</guid>
+            <pubDate>Thu, 15 Jan 2026 18:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储施密德：倾向于维持货币政策适度从紧。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7258265.d.html</link>
+            <guid>4615793</guid>
+            <pubDate>Thu, 15 Jan 2026 18:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储施密德：在通胀问题上不容自满。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2995626.d.html</link>
+            <guid>4615792</guid>
+            <pubDate>Thu, 15 Jan 2026 18:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储施密德：税收政策和放松监管有望推动投资、支出和需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7258222.d.html</link>
+            <guid>4615791</guid>
+            <pubDate>Thu, 15 Jan 2026 18:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储施密德：劳动力市场压力具有结构性，降息无法解决这些问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2995590.d.html</link>
+            <guid>4615790</guid>
+            <pubDate>Thu, 15 Jan 2026 18:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储施密德：几乎没有理由降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5981620.d.html</link>
+            <guid>4615789</guid>
+            <pubDate>Thu, 15 Jan 2026 18:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储施密德：当前货币政策的限制性并不强，经济展现出活力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2995525.d.html</link>
+            <guid>4615788</guid>
+            <pubDate>Thu, 15 Jan 2026 18:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上期所原油期货2510合约夜盘收跌2.34%，报441.80元人民币/桶。沪金夜盘收涨0.06%，沪银收涨1.40%。]]></title>
+            <guid>4615787</guid>
+            <pubDate>Thu, 15 Jan 2026 18:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：叛乱法案是特朗普可以使用的工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4470223.d.html</link>
+            <guid>4615786</guid>
+            <pubDate>Thu, 15 Jan 2026 18:28:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：针对伊朗的所有选项均未排除。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4470157.d.html</link>
+            <guid>4615785</guid>
+            <pubDate>Thu, 15 Jan 2026 18:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普希望有一天在委内瑞拉看到选举。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7257926.d.html</link>
+            <guid>4615784</guid>
+            <pubDate>Thu, 15 Jan 2026 18:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7257866.d.html</link>
+            <guid>4615783</guid>
+            <pubDate>Thu, 15 Jan 2026 18:27:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：特朗普对马查多在委内瑞拉所获支持情况作出了现实评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4470045.d.html</link>
+            <guid>4615782</guid>
+            <pubDate>Thu, 15 Jan 2026 18:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：伊朗暂停了800起处决。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2995109.d.html</link>
+            <guid>4615781</guid>
+            <pubDate>Thu, 15 Jan 2026 18:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：白宫不会容忍政府内部泄密。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5980712.d.html</link>
+            <guid>4615780</guid>
+            <pubDate>Thu, 15 Jan 2026 18:24:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普预计与委内瑞拉的合作将继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7257234.d.html</link>
+            <guid>4615779</guid>
+            <pubDate>Thu, 15 Jan 2026 18:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普喜欢他在委内瑞拉看到的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4469335.d.html</link>
+            <guid>4615778</guid>
+            <pubDate>Thu, 15 Jan 2026 18:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：委内瑞拉的RODRIGUEZ一直很合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4469282.d.html</link>
+            <guid>4615777</guid>
+            <pubDate>Thu, 15 Jan 2026 18:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普将与MACHADO会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2994452.d.html</link>
+            <guid>4615776</guid>
+            <pubDate>Thu, 15 Jan 2026 18:23:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：预计通胀将在年内有所改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7257032.d.html</link>
+            <guid>4615775</guid>
+            <pubDate>Thu, 15 Jan 2026 18:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：存在很多不确定因素，我们的目标两方面均面临风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7256999.d.html</link>
+            <guid>4615774</guid>
+            <pubDate>Thu, 15 Jan 2026 18:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：劳动力市场正在企稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7256936.d.html</link>
+            <guid>4615773</guid>
+            <pubDate>Thu, 15 Jan 2026 18:22:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军总参谋长视察反导阵地 强调始终保持应对威胁】当地时间15日晚间，以军发布通告表示，以色列国防军总参谋长扎米尔当天视察了以军“箭式”反导阵地，并检查部队战备情况。扎米尔表示，以军始终保持随时保卫国家的准备，并将根据态势评估调整战备。在视察中，扎米尔参加了模拟遭遇导弹袭击的演练，并要求防空体系必须在各种可能情景下持续强化作战准备和即时反应能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5980272.d.html</link>
+            <guid>4615772</guid>
+            <pubDate>Thu, 15 Jan 2026 18:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：对经济增长的预测是稳健的。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4468668.d.html</link>
+            <guid>4615771</guid>
+            <pubDate>Thu, 15 Jan 2026 18:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：美联储的职责是服务于美国民众。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4468558.d.html</link>
+            <guid>4615770</guid>
+            <pubDate>Thu, 15 Jan 2026 18:19:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2026年米兰冬残奥会开闭幕式主题创意公布】当地时间1月15日，米兰冬奥组委在意大利威尼斯对外发布2026年米兰-科尔蒂纳丹佩佐冬残奥会开闭幕式的主题、创意理念及首批参演艺术家阵容。米兰冬残奥会将于2026年3月6日至15日在意大利多个城市举行。开幕式将于2026年3月6日在维罗纳圆形竞技场举行。主题“生命律动”（Life in Motion）意在展现生命的变化，通过人与环境之间全新的和谐共处，重新定义“残障”的概念。闭幕式将于3月15日在科尔蒂纳丹佩佐奥林匹克冰场举行。主题为“意大利的记忆”（Italian Souvenir），以记忆为载体，传递美、情感与共同体验。在经历数日精彩比赛与突破极限之后，闭幕式将带领运动员、志愿者和观众踏上一段视觉与感官之旅，重温赛事中的动人瞬间。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4468477.d.html</link>
+            <guid>4615769</guid>
+            <pubDate>Thu, 15 Jan 2026 18:18:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普将在达沃斯演讲中列出住房领域的举措。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2993593.d.html</link>
+            <guid>4615768</guid>
+            <pubDate>Thu, 15 Jan 2026 18:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫新闻秘书莱维特：特朗普将在达沃斯演讲中概述住房计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5979590.d.html</link>
+            <guid>4615767</guid>
+            <pubDate>Thu, 15 Jan 2026 18:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（1月15日），美联储隔夜逆回购协议（RRP）使用规模为20.03亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5979302.d.html</link>
+            <guid>4615766</guid>
+            <pubDate>Thu, 15 Jan 2026 18:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界粮食计划署：苏丹援助粮食储备将于3月底耗尽】当地时间15日，世界粮食计划署发表声明称，该机构在苏丹的援助粮食储备预计将于今年3月底耗尽。若无法获得额外资金支持，数百万苏丹人将面临严峻饥饿风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2992763.d.html</link>
+            <guid>4615765</guid>
+            <pubDate>Thu, 15 Jan 2026 18:14:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军称袭击了真主党在黎巴嫩南部的基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2992671.d.html</link>
+            <guid>4615764</guid>
+            <pubDate>Thu, 15 Jan 2026 18:13:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：内塔尼亚胡周三请求特朗普推迟对伊朗的攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7255031.d.html</link>
+            <guid>4615763</guid>
+            <pubDate>Thu, 15 Jan 2026 18:12:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴文能源公司股价下跌3.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5978279.d.html</link>
+            <guid>4615762</guid>
+            <pubDate>Thu, 15 Jan 2026 18:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部发言人：俄中免签政策为双边关系发展注入持久动力】俄罗斯外交部发言人扎哈罗娃15日表示，俄中免签政策推动两国跨境旅游发展，有助于进一步增进俄中人文交往，为双边关系发展注入持久动力。扎哈罗娃当天在例行记者会上回答新华社记者提问时说，随着免签政策的实施，俄中两国跨境旅游稳步发展，游客人数显著增加。俄方欢迎中国和其他国家游客赴俄旅行，俄罗斯有完备的旅行接待条件，并正在为外国游客营造舒适的旅游环境，包括不断开发新的旅游路线、发展相关产业、打造现代化基础设施等。中国公民可通过俄驻华使领馆官方网站查询赴俄旅行的实用信息。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4467053.d.html</link>
+            <guid>4615761</guid>
+            <pubDate>Thu, 15 Jan 2026 18:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛CEO称该银行正在探索预测市场的机会】高盛集团正在关注预测市场的机会，这将使这家投资银行能够从快速增长的、针对现实世界事件进行投注的领域中获益。该公司首席执行官大卫·所罗门称预测市场“极为有趣”，并表示在过去两周内，他亲自会见了两家最大预测市场公司的领导人。所罗门周四在该银行公布第四季度财报后与分析师的通话中说：“我们这有一个团队会花时间与他们沟通并研究此事。”华尔街主流公司进军预测市场可能会提升这个监管宽松但蓬勃发展的金融领域的合法性和交易量。一些做市商公司已经加入混战。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4466840.d.html</link>
+            <guid>4615760</guid>
+            <pubDate>Thu, 15 Jan 2026 18:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲半导体概念股普遍收涨，ASM国际涨11.24%，BE半导体实业公司涨7.52%，阿斯麦控股涨6.01%，爱思强涨5.70%。]]></title>
+            <guid>4615759</guid>
+            <pubDate>Thu, 15 Jan 2026 18:07:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国环保署（EPA）：美国12月产生了13.2亿加仑乙醇（D6）混合信用额度，11月为11.4亿加仑。]]></title>
+            <guid>4615758</guid>
+            <pubDate>Thu, 15 Jan 2026 18:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国环保署（EPA）：美国12月产生了6.7亿加仑生物柴油（D4）混合积分，11月为6.13亿加仑。]]></title>
+            <guid>4615757</guid>
+            <pubDate>Thu, 15 Jan 2026 18:03:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙首相桑切斯：我们将设立一只主权基金，以在2026年后延续“欧盟下一代”基金的推动作用。]]></title>
+            <guid>4615756</guid>
+            <pubDate>Thu, 15 Jan 2026 18:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netflix表示，一次性付费套餐包含部分索尼电影和电视节目库内容，预计将于2029年初在全球范围内全面上线。]]></title>
+            <guid>4615755</guid>
+            <pubDate>Thu, 15 Jan 2026 18:02:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【应丹麦请求芬兰将向格陵兰岛派遣军事人员】芬兰政府15日宣布，应丹麦方面请求，芬兰将向格陵兰岛派遣军事人员。芬兰国防部当天发表声明说，丹麦及格陵兰岛方面决定在该岛开展由多国共同参与的军事演训活动。芬兰将派遣两名联络官前往格陵兰岛，以熟悉当地条件并评估未来可能开展进一步行动的方案。声明说，芬兰是北极安全防御领域的积极参与者。随着北约盟国提升在北极地区的军事存在，芬兰的安全也将得到加强。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzi2989460.d.html</link>
+            <guid>4615754</guid>
+            <pubDate>Thu, 15 Jan 2026 18:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netflix与索尼影业达成全球协议，将在影片院线上映期结束后获得其影片的流媒体播放权。]]></title>
+            <guid>4615753</guid>
+            <pubDate>Thu, 15 Jan 2026 18:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：美国经季节性调整的未偿商业票据在 1 月 14 日当周减少 15 亿美元。]]></title>
+            <guid>4615752</guid>
+            <pubDate>Thu, 15 Jan 2026 18:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：1月14日当周，美国未经季节性调整的外国金融商业票据未偿余额增加185亿美元。]]></title>
+            <guid>4615751</guid>
+            <pubDate>Thu, 15 Jan 2026 18:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储：美国1月14日当周未经季节性调整的未到期商业票据规模增加446亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7251846.d.html</link>
+            <guid>4615750</guid>
+            <pubDate>Thu, 15 Jan 2026 18:00:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[派拉蒙高管曾试图游说法国总统马克龙及法国官员采取行动，以反对奈飞与华纳的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4464943.d.html</link>
+            <guid>4615749</guid>
+            <pubDate>Thu, 15 Jan 2026 17:58:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：派拉蒙高管本周早些时候与法国总统马克龙及法国政府官员举行了会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5976001.d.html</link>
+            <guid>4615748</guid>
+            <pubDate>Thu, 15 Jan 2026 17:57:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔金：很难对过去三个月的数据做出判断。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4464685.d.html</link>
+            <guid>4615747</guid>
+            <pubDate>Thu, 15 Jan 2026 17:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储巴尔金：当前美国经济的两大驱动力为人工智能与高收入群体。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4464493.d.html</link>
+            <guid>4615746</guid>
+            <pubDate>Thu, 15 Jan 2026 17:55:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LME金属期货收盘涨跌不一】LME期铜收跌82美元，报13106美元/吨。LME期铝收跌18美元，报3168美元/吨。LME期锌收涨38美元，报3314美元/吨。LME期铅收涨21美元，报2100美元/吨。LME期镍收跌125美元，报18569美元/吨。LME期锡收跌1431美元，报52031美元/吨。LME期钴收平，报56290美元/吨。]]></title>
+            <guid>4615745</guid>
+            <pubDate>Thu, 15 Jan 2026 17:52:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周四（1月15日），韩元兑美元最终跌0.27%，报1468.62韩元。北京时间12:57，韩元一度跌至1473.39，意味着1月14日美国财长贝森特“口头干预”带来的涨幅回吐过半。]]></title>
+            <guid>4615744</guid>
+            <pubDate>Thu, 15 Jan 2026 17:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【短中期英债收益率反弹超4个基点，脱离最近13个月最低位】周四（1月15日）欧市尾盘，英国10年期国债收益率涨4.8个基点，报4.388%，1月14日跌至4.336%（创2024年12月12日以来新低）之后有所反弹。两年期英债收益率涨4.4个基点，报3.670%。30年期英债收益率涨3.4个基点，50年期英债收益率涨3.6个基点。2/10年期英债收益率利差跌1.801个基点，报+71.928个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5974010.d.html</link>
+            <guid>4615743</guid>
+            <pubDate>Thu, 15 Jan 2026 17:46:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基：在与国际货币基金组织总裁格奥尔基耶娃讨论了制定一项新计划，该计划将为2026年至2029年提供延期融资。]]></title>
+            <guid>4615741</guid>
+            <pubDate>Thu, 15 Jan 2026 17:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泽连斯基：在与国际货币基金组织总裁克里斯塔利娜·格奥尔基耶娃会晤期间，我感谢他们对乌克兰的关注以及帮助增强我们经济和韧性的各项计划。]]></title>
+            <guid>4615740</guid>
+            <pubDate>Thu, 15 Jan 2026 17:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：公司已参与脑机接口（BCI）初创公司Merge Labs的种子轮融资。]]></title>
+            <guid>4615739</guid>
+            <pubDate>Thu, 15 Jan 2026 17:37:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：将滚动式审查提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4461245.d.html</link>
+            <guid>4615738</guid>
+            <pubDate>Thu, 15 Jan 2026 17:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：提交提案的截止日期为2026年6月。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5972441.d.html</link>
+            <guid>4615737</guid>
+            <pubDate>Thu, 15 Jan 2026 17:36:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：针对人工智能供应链关键环节的美国本土制造项目发布提案征集请求。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4461175.d.html</link>
+            <guid>4615736</guid>
+            <pubDate>Thu, 15 Jan 2026 17:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长：我们致力于确保乌克兰能够持续获得其最终实现持久和平所需的关键支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7247171.d.html</link>
+            <guid>4615735</guid>
+            <pubDate>Thu, 15 Jan 2026 17:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科特拉能源据悉正考虑与戴文能源合并，打造一笔石油行业重磅交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4461133.d.html</link>
+            <guid>4615734</guid>
+            <pubDate>Thu, 15 Jan 2026 17:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长：就俄罗斯的袭击以及乌克兰的能源状况与乌克兰总统泽连斯基进行了交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7246998.d.html</link>
+            <guid>4615733</guid>
+            <pubDate>Thu, 15 Jan 2026 17:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果股价迅速扩大跌幅至盘中低点，下跌0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzc7246590.d.html</link>
+            <guid>4615732</guid>
+            <pubDate>Thu, 15 Jan 2026 17:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军空袭加沙地带中部 造成6人死亡】当地时间15日，总台记者获悉，以军空袭加沙地带中部代尔拜拉赫难民营，造成6人死亡。有消息称，死者中包括一名哈马斯下属武装派别卡桑旅的军事领导人，卡桑旅方面尚未对此作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4460547.d.html</link>
+            <guid>4615731</guid>
+            <pubDate>Thu, 15 Jan 2026 17:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克强调反对利用该国领土作为对伊朗发动袭击的跳板】当地时间15日，伊拉克武装部队总司令发言人萨巴赫·努曼发表声明称，伊拉克政府明确拒绝利用该国领土、领空或领海作为针对任何国家的军事行动跳板，也反对将伊拉克卷入任何不符合伊拉克人民利益的冲突之中。声明呼吁有关各方保持克制，把对话置于优先位置，避免局势升级，并依据国际法原则和《联合国宪章》，通过和平外交手段解决争端，以防止地区紧张与动荡进一步加剧。同一天，伊拉克国民议会最大党团“协调框架联盟”发表声明重申上述立场，明确反对利用伊拉克领土作为对任何国家，尤其是对伊朗发动袭击的跳板。声明指出，这种行为将明显侵犯伊拉克主权，并把国家拖入不利于自身安全和人民利益的冲突之中。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzm5971689.d.html</link>
+            <guid>4615730</guid>
+            <pubDate>Thu, 15 Jan 2026 17:30:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国食品药品监督管理局（FDA）延长对礼来公司口服减肥药的审评时间。]]></title>
             <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmnzp4459153.d.html</link>
@@ -164,415 +579,6 @@
             <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6093194.d.html</link>
             <guid>4615701</guid>
             <pubDate>Thu, 15 Jan 2026 16:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指收盘集体上涨】欧洲主要股指收盘集体上涨，欧洲斯托克(Eurostoxx)50指数涨0.60%，英国富时100指数涨0.49%，法国CAC40指数跌0.21%，德国DAX30指数涨0.20%，富时意大利MIB指数涨0.44%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtf7365388.d.html</link>
-            <guid>4615700</guid>
-            <pubDate>Thu, 15 Jan 2026 16:40:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[明晟公司MSCI北欧国家指数涨0.4%，连续第四个交易日走高，报388.49点，创3月3日以来收盘新高。在十个板块中，北欧工业板块涨幅最大。Atlas Copco AB涨5.0%，在一众北欧个股里领跑。]]></title>
-            <guid>4615699</guid>
-            <pubDate>Thu, 15 Jan 2026 16:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，美国将在3月初敲定2026年生物燃料配额，并取消进口惩罚措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtm3101390.d.html</link>
-            <guid>4615698</guid>
-            <pubDate>Thu, 15 Jan 2026 16:34:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖四周期国债，得标利率3.595%，投标倍数2.92。拍卖八周期国债，得标利率3.6%，投标倍数2.71。]]></title>
-            <guid>4615697</guid>
-            <pubDate>Thu, 15 Jan 2026 16:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特据悉正与比亚迪就混合动力汽车电池展开谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtf7363129.d.html</link>
-            <guid>4615696</guid>
-            <pubDate>Thu, 15 Jan 2026 16:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普医保计划瞄准药房福利管理公司的付款。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6090655.d.html</link>
-            <guid>4615695</guid>
-            <pubDate>Thu, 15 Jan 2026 16:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普医保计划将要求保险公司公布拒赔申请占比，以及赔付支出、管理费用分别占营收的比例。]]></title>
-            <guid>4615694</guid>
-            <pubDate>Thu, 15 Jan 2026 16:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普医保计划将要求保险公司公布费率和保险范围对比情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6090283.d.html</link>
-            <guid>4615693</guid>
-            <pubDate>Thu, 15 Jan 2026 16:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普提议的费用分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6090215.d.html</link>
-            <guid>4615692</guid>
-            <pubDate>Thu, 15 Jan 2026 16:26:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普的医疗保健计划将包含一项保险费用分摊减免计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtm3099352.d.html</link>
-            <guid>4615691</guid>
-            <pubDate>Thu, 15 Jan 2026 16:25:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：特朗普呼吁国会通过一项法律，将其最惠国药品价格政策编入法典。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtm3098885.d.html</link>
-            <guid>4615690</guid>
-            <pubDate>Thu, 15 Jan 2026 16:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦住房金融局局长普尔特：周三与多家抵押贷款及相关公司的负责人进行了愉快的交流；他们称此次会议“非常成功”。]]></title>
-            <guid>4615689</guid>
-            <pubDate>Thu, 15 Jan 2026 16:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。]]></title>
-            <guid>4615688</guid>
-            <pubDate>Thu, 15 Jan 2026 16:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟委员会批准八国 “欧洲防务安全融资机制” 国防贷款计划】欧盟委员会一份声明显示，该委员会批准了八个成员国在 1500 亿欧元 “欧洲防务安全融资机制” 国防贷款计划框架下的本国国防计划，并已向欧洲理事会提交提案，申请批准相关财政援助。获批国家包括比利时、保加利亚、丹麦、西班牙、克罗地亚、塞浦路斯、葡萄牙和罗马尼亚。相关资金额度已于 9 月初步确定。欧洲理事会需在四周内通过相关执行决议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6089212.d.html</link>
-            <guid>4615687</guid>
-            <pubDate>Thu, 15 Jan 2026 16:21:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏保时龙科技股份有限公司启动上市辅导】据证监会官网显示，江苏保时龙科技股份有限公司于2026年1月15日正式启动上市辅导，东吴证券担任辅导机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtr4577934.d.html</link>
-            <guid>4615686</guid>
-            <pubDate>Thu, 15 Jan 2026 16:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中煤（北京）环保股份有限公司启动上市辅导】据证监会官网显示，中煤（北京）环保股份有限公司于2026年1月15日正式启动上市辅导，天风证券担任辅导机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6089135.d.html</link>
-            <guid>4615685</guid>
-            <pubDate>Thu, 15 Jan 2026 16:21:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏长晶科技股份有限公司启动上市辅导】据证监会官网显示，江苏长晶科技股份有限公司于2026年1月15日正式启动上市辅导，华泰联合证券有限责任公司担任辅导机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtm3098372.d.html</link>
-            <guid>4615684</guid>
-            <pubDate>Thu, 15 Jan 2026 16:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国移民与海关执法局副局长宣布离职】当地时间1月15日，美国移民与海关执法局（ICE）副局长麦迪逊·希恩宣布于当日离职。今年28岁的希恩于2025年3月9日经由国土安全部长诺姆提名出任ICE副局长，成为该局二号人物。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6088904.d.html</link>
-            <guid>4615683</guid>
-            <pubDate>Thu, 15 Jan 2026 16:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：俄罗斯支持加强联合国的核心作用】当地时间1月15日，俄罗斯总统普京在克里姆林宫接受新任外国驻俄大使递交国书后表示，当前国际局势正在恶化，多个国家的主权受到侵犯。他强调，俄罗斯将始终秉持审慎的外交方针，并致力于推动建立多极化世界秩序。普京重申，俄罗斯有意愿与所有伙伴保持互利关系。普京表示，俄罗斯将继续坚定不移地在乌克兰实现其目标，并指出乌克兰危机是多年来西方国家无视俄罗斯安全利益、违背其公开承诺，推动北约东扩直至俄罗斯边境的直接后果。普京表示，俄罗斯支持加强联合国的核心作用，并指出《联合国宪章》的各项要求如今比以往任何时候都更加重要。普京说，俄罗斯希望恢复与韩国的关系。同时强调，俄罗斯愿意与欧洲各国恢复必要水平的关系。（央视新闻）]]></title>
-            <guid>4615682</guid>
-            <pubDate>Thu, 15 Jan 2026 16:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[表格显示：印度信实工业12月俄罗斯石油进口量降至近两年来最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtr4576731.d.html</link>
-            <guid>4615681</guid>
-            <pubDate>Thu, 15 Jan 2026 16:17:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[表格显示：印度纳亚拉能源公司连续第五个月在12月仅购买俄罗斯石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtm3097264.d.html</link>
-            <guid>4615680</guid>
-            <pubDate>Thu, 15 Jan 2026 16:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：摩根大通已组建一个新的量化交易与研究小组，旨在加快其在电子交易领域的发展，并抵御非银行对手的竞争。]]></title>
-            <guid>4615679</guid>
-            <pubDate>Thu, 15 Jan 2026 16:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际货币基金组织总裁亲赴基辅 乌克兰81亿美元新贷款获批在即】国际货币基金组织总裁格奥尔基耶娃于周四抵达基辅，目前乌克兰即将获得这家总部位于华盛顿的机构提供的新一轮贷款方案。乌克兰政府一直依靠国际援助来支撑其财政，在获得了2023年公布的156亿美元旧方案中的大部分资金后，目前正在寻求第二笔总额为81亿美元的贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtr4576016.d.html</link>
-            <guid>4615678</guid>
-            <pubDate>Thu, 15 Jan 2026 16:14:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普在移民与海关执法局（ICE）人员遇袭后威胁要向明尼苏达州部署军队。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtf7358990.d.html</link>
-            <guid>4615677</guid>
-            <pubDate>Thu, 15 Jan 2026 16:13:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国贸易代表格里尔：美国与洪都拉斯打算尽快启动双边互惠贸易协定谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtr4575726.d.html</link>
-            <guid>4615676</guid>
-            <pubDate>Thu, 15 Jan 2026 16:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会批准8项国防贷款融资计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6085984.d.html</link>
-            <guid>4615675</guid>
-            <pubDate>Thu, 15 Jan 2026 16:10:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[房利美（Fannie Mae）的场外交易股票下跌6.7%，房地美（Freddie Mac）下跌7.7%。]]></title>
-            <guid>4615674</guid>
-            <pubDate>Thu, 15 Jan 2026 16:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外长致信联合国秘书长 谴责美方煽动和威胁性言论】伊朗外长阿拉格齐15日就近期伊朗发生的骚乱致信联合国秘书长古特雷斯，谴责美国官员的煽动和威胁性言论。根据伊朗外交部当天发表的声明，阿拉格齐在信中说，近期伊朗多地发生的骚乱是“恐怖分子”借机将民众因经济问题举行的和平抗议演变为武装骚乱。阿拉格齐表示，美国前任及现任官员发表的不负责任的挑衅性言论，直接煽动了伊朗境内的暴力与恐怖主义行为。美方还不断威胁使用武力，严重违反《联合国宪章》及国际法原则。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6085221.d.html</link>
-            <guid>4615673</guid>
-            <pubDate>Thu, 15 Jan 2026 16:08:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国际货币基金组织：阿根廷当局为重建外汇储备持续采取行动，我们对此深感鼓舞。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtr4573548.d.html</link>
-            <guid>4615672</guid>
-            <pubDate>Thu, 15 Jan 2026 16:07:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[气象学家称，1 月大部分时间干燥的天气可能会影响阿根廷的玉米产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6084727.d.html</link>
-            <guid>4615671</guid>
-            <pubDate>Thu, 15 Jan 2026 16:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织表示，预计将于2月对阿根廷项目进行第二次审查，届时将讨论任何豁免事宜。]]></title>
-            <guid>4615670</guid>
-            <pubDate>Thu, 15 Jan 2026 16:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：阿根廷的行动有望改善其全面、持久地进入国际资本市场的前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtr4573303.d.html</link>
-            <guid>4615669</guid>
-            <pubDate>Thu, 15 Jan 2026 16:06:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普提出的方案拟终止药品福利管理机构向中间商支付回扣的行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6084354.d.html</link>
-            <guid>4615668</guid>
-            <pubDate>Thu, 15 Jan 2026 16:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特朗普要求降低保险保费，同时要求保险公司承担相应责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6084239.d.html</link>
-            <guid>4615667</guid>
-            <pubDate>Thu, 15 Jan 2026 16:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示，特朗普要求国会通过其医保方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6084102.d.html</link>
-            <guid>4615666</guid>
-            <pubDate>Thu, 15 Jan 2026 16:05:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普计划要求国会将降低药品成本的协议编入法典。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtf7355870.d.html</link>
-            <guid>4615665</guid>
-            <pubDate>Thu, 15 Jan 2026 16:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织：与委内瑞拉重新接触将由代表多数投票权的国际货币基金组织成员国决定。]]></title>
-            <guid>4615664</guid>
-            <pubDate>Thu, 15 Jan 2026 16:04:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织表示，将评估大多数投票国是否双边承认委内瑞拉合法政府；自2019年以来，该组织未与委内瑞拉进行任何接触。]]></title>
-            <guid>4615663</guid>
-            <pubDate>Thu, 15 Jan 2026 16:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石油行业消息人士称，委内瑞拉国有石油公司委内瑞拉国家石油公司（PDVSA）的欧洲合作伙伴，包括雷普索尔（Repsol）和莫雷尔-普罗（Maurel & Prom），正在申请美国许可证和授权，以便出口委内瑞拉石油。]]></title>
-            <guid>4615662</guid>
-            <pubDate>Thu, 15 Jan 2026 16:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【离岸人民币兑美元升破6.97】离岸人民币兑美元升破6.97，日内涨0.1254%，现报6.9626。]]></title>
-            <guid>4615661</guid>
-            <pubDate>Thu, 15 Jan 2026 16:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OpenAI寻求美国供应商 推动机器人与AI设备计划】OpenAI正寻求加强其在美国的硬件供应链，并寻找合作伙伴以进军消费级设备、机器人和云数据中心领域。这是该公司计划在未来几年进行的重大产品扩张的一部分。这家ChatGPT的开发商已向在美国进行生产的公司发出了提案请求（RFP），征集包括硅芯片、电机、包装材料以及数据中心冷却设备在内的组件。这些请求并未指明OpenAI打算投入的具体金额或时间表。OpenAI首席全球事务官克里斯·莱哈恩（Chris Lehane）表示，“AI是国家再工业化的催化剂”，公司需要“将供应链带回国内”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtr4572299.d.html</link>
-            <guid>4615660</guid>
-            <pubDate>Thu, 15 Jan 2026 16:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在岸人民币兑美元升破6.97】在岸人民币兑美元升破6.97，日内涨0.1133%，现报6.9660。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6083394.d.html</link>
-            <guid>4615659</guid>
-            <pubDate>Thu, 15 Jan 2026 16:03:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2025年房地美（Freddie Mac）多户住宅业务发放量突破770亿美元，同比增长17%。]]></title>
-            <guid>4615658</guid>
-            <pubDate>Thu, 15 Jan 2026 16:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫发布了有关特朗普医疗保健计划的情况说明书。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6083204.d.html</link>
-            <guid>4615657</guid>
-            <pubDate>Thu, 15 Jan 2026 16:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织称阿根廷经济开局强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtf7354948.d.html</link>
-            <guid>4615656</guid>
-            <pubDate>Thu, 15 Jan 2026 16:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部：俄将回应无视其在北极地区利益的行为】俄罗斯外交部发言人扎哈罗娃15日在例行记者会上表示，任何无视俄在北极地区利益的行为都将产生深远影响，俄方将对此作出回应。扎哈罗娃在评论有关北约国家正讨论设立名为“北约哨兵”的联合特遣部队消息时说，该计划应被视为西方国家试图对北极地区强加其秩序的又一次挑衅。扎哈罗娃说，对于俄罗斯这个北极地区面积最大的国家来说，北极过去是、现在仍然是一个具有特殊战略意义的地区。俄将继续坚定捍卫其北极地位，奉行强化北极地区国家主权方针，其首要任务是加强在北极的防务能力和北极航道的基础设施建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6083082.d.html</link>
-            <guid>4615655</guid>
-            <pubDate>Thu, 15 Jan 2026 16:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达（NVDA）的强势表现以及加拿大皇家银行对应用材料公司（AMAT）的评级上调，支撑了科技股的领导地位，因为投资者重新转向人工智能受益股。英伟达周四早盘上涨2.5%。]]></title>
-            <guid>4615654</guid>
-            <pubDate>Thu, 15 Jan 2026 16:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI为既定的机器人和AI设备计划寻找美国供应商。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-16/detail-inhhmhtp6082510.d.html</link>
-            <guid>4615653</guid>
-            <pubDate>Thu, 15 Jan 2026 16:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格陵兰总理称选择丹麦 重申该岛不愿被美国所有】格陵兰总理Jens-Frederik Nielsen在哥本哈根对媒体讲话时重申，该岛不希望被美国所有。“我们选择的是今天我们所知道的格陵兰，作为丹麦王国的一部分,”他在与居住在丹麦的格陵兰人举行的活动上表示。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtr4571052.d.html</link>
-            <guid>4615652</guid>
-            <pubDate>Thu, 15 Jan 2026 15:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Kobeissi Letter：2025年，日本的黄金储备达到了创纪录的1200亿美元，较上年增长了60%。]]></title>
-            <guid>4615651</guid>
-            <pubDate>Thu, 15 Jan 2026 15:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：欧盟对美国科技公司非常不公平。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtm3090613.d.html</link>
-            <guid>4615650</guid>
-            <pubDate>Thu, 15 Jan 2026 15:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰乌特勒支市发生爆炸 至少1人受伤】据荷兰媒体报道，当地时间15日下午3时30分左右，乌特勒支市中心一栋建筑物发生爆炸，至少一人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtp6081677.d.html</link>
-            <guid>4615649</guid>
-            <pubDate>Thu, 15 Jan 2026 15:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔玛（WMT）周四早盘上涨0.4%。分析师指出，尽管整体通胀趋于稳定，但高昂的食品杂货和餐饮成本仍然是消费者和沃尔玛（WMT）等零售商面临的不利因素。]]></title>
-            <guid>4615647</guid>
-            <pubDate>Thu, 15 Jan 2026 15:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：戴姆勒卡车公司与约翰·科克里尔防务公司将向法国军队供应7000辆卡车。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtp6080750.d.html</link>
-            <guid>4615646</guid>
-            <pubDate>Thu, 15 Jan 2026 15:52:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行（WFC）周四早盘基本持平。该公司第四季度财报因6.12亿美元的遣散费而未能达到预期，导致周三该股收跌4.6%。公司管理层表示未来将采取进一步的效率措施。]]></title>
-            <guid>4615645</guid>
-            <pubDate>Thu, 15 Jan 2026 15:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[希腊雅典证交所综合指数收涨1.28%，报2247.69点，继续逼近2010年1月11日收盘位2315.31点和2009年12月2日收盘位2433.24点。自2022年10月份开始，希腊股市持续走强，迄今累计涨幅达到将近183.48%。]]></title>
-            <guid>4615644</guid>
-            <pubDate>Thu, 15 Jan 2026 15:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄称乌境内所有外国军队都被视为合法打击目标】当地时间1月15日，俄罗斯外交部发言人扎哈罗娃在当日的简报会上表示，任何驻扎在乌克兰境内的外国军事部队都被视为俄罗斯武装部队的合法打击目标。她强调，相关国家关于组建此类部队的声明，旨在破坏乌克兰问题的解决进程。扎哈罗娃还表示，西方并不希望看到俄乌冲突结束与和平。欧洲在军事和财政上持续向基辅提供支持。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtf7351607.d.html</link>
-            <guid>4615643</guid>
-            <pubDate>Thu, 15 Jan 2026 15:49:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国参议员Wyden将纽约梅隆银行纳入爱泼斯坦案调查范围】新闻稿显示，美国参议院财政委员会民主党人Ron Wyden扩大了对杰弗里·爱泼斯坦关系网络的调查，开始调查爱泼斯坦与纽约梅隆银行之间的客户关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtp6080196.d.html</link>
-            <guid>4615642</guid>
-            <pubDate>Thu, 15 Jan 2026 15:49:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国财政部宣布对伊朗实施新制裁】当地时间1月15日，美国财政部宣布对伊朗多个个人和实体以及与伊朗关联的多个外国公司实施制裁。伊朗最高国家安全委员会秘书拉里贾尼被列入制裁名单。此外，美国财政部方面还指定了18名个人和实体，称他们涉及伊朗石油和石化产品出口相关领域。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtp6080013.d.html</link>
-            <guid>4615641</guid>
-            <pubDate>Thu, 15 Jan 2026 15:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全美大学生体育协会（National Collegiate Athletic Association,NCAA）对美国商品期货交易委员会（CFTC）施压，呼吁暂停大学体育预测市场。分析师称此举加大了对博彩生态系统的监管审查力度，而这正是DraftKings（DKNG）等公开上市运营商的背景。]]></title>
-            <guid>4615640</guid>
-            <pubDate>Thu, 15 Jan 2026 15:48:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[表格显示，12月中东石油在印度石油进口中的占比升至38个月以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtr4568720.d.html</link>
-            <guid>4615639</guid>
-            <pubDate>Thu, 15 Jan 2026 15:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：寻求加大对伊朗的制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtr4568482.d.html</link>
-            <guid>4615638</guid>
-            <pubDate>Thu, 15 Jan 2026 15:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛首席执行官：鉴于当前并购交易面临更有利的监管环境，企业正更积极地开展并购活动。]]></title>
-            <guid>4615637</guid>
-            <pubDate>Thu, 15 Jan 2026 15:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普：泄露美对委发动军事袭击计划的“泄密者”已被抓到】据美联社等美媒14日报道，美国总统特朗普表示，泄露了美国对委内瑞拉发动军事袭击计划的“泄密者”已被抓到。 当地时间1月14日，特朗普在白宫椭圆形办公室对记者说：“那名泄密者已被找到，现在就在监狱里。”按照他的说法，此人泄露了对委内瑞拉动武的计划，是“非常恶劣的泄密者”，相关调查仍在持续进行，“所以可能还有其他人”。 “我们正在追查他们，但泄密者已被找到，泄密者现在就在监狱里，而且很可能要坐很长时间的牢，”特朗普说道。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtr4568210.d.html</link>
-            <guid>4615636</guid>
-            <pubDate>Thu, 15 Jan 2026 15:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股减肥药板块承压，礼来跌超5%，公司减肥药被FDA列入审查名单，推迟至2026年4月10日做出决定；诺和诺德跌超4%，辉瑞、安进跌超1%。]]></title>
-            <guid>4615635</guid>
-            <pubDate>Thu, 15 Jan 2026 15:44:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报告：AI推动半导体行业营收在2026年首次突破1万亿美元】据Omdia最新市场分析显示，全球半导体营收将在2026年突破1万亿美元，这将是该行业的一个历史性里程碑。这一增长主要得益于内存和逻辑集成电路营收的快速增长，而这又是由人工智能市场的巨大需求所驱动的。Omdia对2025年半导体营收的预测值大幅上调至同比增长20.3%，这反映了2025年第三季度业绩强于预期，并预计第四季度将保持强劲增长。DRAM和NAND闪存集成电路的营收增长将继续保持空前水平，这主要得益于逻辑集成电路的强劲扩张，预计2026年市场同比增长将达到30.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtr4567688.d.html</link>
-            <guid>4615634</guid>
-            <pubDate>Thu, 15 Jan 2026 15:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国元证券：董事会会议审议通过《关于调整公司自营业务规模的议案》】国元证券公告，公司董事会会议审议通过《关于调整公司自营业务规模的议案》，同意公司对自营业务规模进行调整。具体内容为，自营权益类证券及其衍生品的合计额不超过公司净资本的80%；自营非权益类证券及其衍生品的合计额不超过公司净资本的400%。授权公司经营管理层在符合监管要求的前提下，结合市场情况及业务发展需要，对自营业务规模及实际使用资金进行分配和调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtp6078606.d.html</link>
-            <guid>4615633</guid>
-            <pubDate>Thu, 15 Jan 2026 15:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总理斯维里登科：和IMF总裁格奥尔基耶娃讨论了IMF下一个计划的准备工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtp6078262.d.html</link>
-            <guid>4615632</guid>
-            <pubDate>Thu, 15 Jan 2026 15:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团（C）周四早盘上涨4.8%。该公司本周将裁员约1000人，因为首席执行官范洁恩(Jane Fraser)正在推行一种注重结果的文化，并推进一项最终可能裁员多达20000人的重组计划。]]></title>
-            <guid>4615631</guid>
-            <pubDate>Thu, 15 Jan 2026 15:40:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：将继续与美国就北极安全问题展开合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtr4566691.d.html</link>
-            <guid>4615630</guid>
-            <pubDate>Thu, 15 Jan 2026 15:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会主席冯德莱恩：正与格陵兰岛政府讨论投资事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtp6077559.d.html</link>
-            <guid>4615629</guid>
-            <pubDate>Thu, 15 Jan 2026 15:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【SK On提出硅负极全固态电池商业化关键方案】SK On宣布，已与延世大学郑允锡（音）、金正勋（音）教授团队共同开发出适用于硅负极的新型材料粘合材料“PPMA”（电子导电高分子）。据介绍，该材料兼具导电性与强粘接性，能有效改善硅负极全固态电池的结构稳定性问题。SK On已将新型粘合剂应用于硅负极全固态电池，并在接近实际使用条件的压力环境下实现稳定运行。目前，SK On正加快推进全固态电池的量产准备工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-01-15/detail-inhhmhtr4566080.d.html</link>
-            <guid>4615628</guid>
-            <pubDate>Thu, 15 Jan 2026 15:37:25 GMT</pubDate>
         </item>
     </channel>
 </rss>

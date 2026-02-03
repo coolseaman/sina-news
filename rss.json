@@ -6,6 +6,402 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4660199,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6813667.d.html",
+            "title": "美国政府一名官员表示，美国财政部已颁发许可证，授权向委内瑞拉供应美国稀释剂。",
+            "date_modified": "2026-02-03T22:28:09.000Z"
+        },
+        {
+            "id": 4660198,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6812628.d.html",
+            "title": "刚果反政府武装领导人宣称对基桑加尼机场的无人机袭击事件负责。",
+            "date_modified": "2026-02-03T22:23:19.000Z"
+        },
+        {
+            "id": 4660197,
+            "content_html": "",
+            "title": "美国稀土公司提交招股说明书，涉及出售股东不时发售及转售最多7630万股普通股事宜。",
+            "date_modified": "2026-02-03T22:22:35.000Z"
+        },
+        {
+            "id": 4660196,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3217924.d.html",
+            "title": "美方：韩美两国外长商定在核电、核潜艇、造船及美国投资领域开展合作。",
+            "date_modified": "2026-02-03T22:22:17.000Z"
+        },
+        {
+            "id": 4660195,
+            "content_html": "",
+            "title": "美国法官签发临时限制令，约束俄勒冈州波特兰移民与海关执法局（ICE）办公点针对和平抗议者及记者的执法手段。",
+            "date_modified": "2026-02-03T22:21:41.000Z"
+        },
+        {
+            "id": 4660194,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3217411.d.html",
+            "title": "AMD CEO：预计未来3至5年公司营收增速将超35%。",
+            "date_modified": "2026-02-03T22:19:17.000Z"
+        },
+        {
+            "id": 4660193,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9994556.d.html",
+            "title": "哥伦比亚总统佩特罗：哥伦比亚两天内查获了15吨可卡因。",
+            "date_modified": "2026-02-03T22:18:55.000Z"
+        },
+        {
+            "id": 4660192,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3217246.d.html",
+            "title": "【南非发生枪击事件致6名莱索托公民死亡】南非警方3日说，南非豪登省迈耶顿镇附近当天发生枪击事件，致6人死亡，多人受伤。",
+            "date_modified": "2026-02-03T22:18:14.000Z"
+        },
+        {
+            "id": 4660191,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6811713.d.html",
+            "title": "OpenAI就ChatGPT问题发表声明：所有受影响的服务现已完全恢复。",
+            "date_modified": "2026-02-03T22:17:40.000Z"
+        },
+        {
+            "id": 4660190,
+            "content_html": "",
+            "title": "AMD高管：由于客户准备情况，第二财季营收中包含约15亿美元原应在第一财季交付的延迟发货订单。",
+            "date_modified": "2026-02-03T22:17:20.000Z"
+        },
+        {
+            "id": 4660189,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3217084.d.html",
+            "title": "【以总理会美特使 要求对伊朗“行动自由”】以色列总理内塔尼亚胡3日在耶路撒冷会见美国总统特使威特科夫。据以色列媒体报道，以色列正向美国要求在伊朗问题上“行动自由”。",
+            "date_modified": "2026-02-03T22:16:52.000Z"
+        },
+        {
+            "id": 4660188,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3216879.d.html",
+            "title": "AMD CEO：微软新一代Xbox游戏机如期推进2027年上市计划。",
+            "date_modified": "2026-02-03T22:15:16.000Z"
+        },
+        {
+            "id": 4660187,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6811241.d.html",
+            "title": "哥伦比亚总统佩特罗：我们可在数日内为委内瑞拉提供能源支持。",
+            "date_modified": "2026-02-03T22:14:54.000Z"
+        },
+        {
+            "id": 4660186,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsx3913007.d.html",
+            "title": "AMD CEO：将于2027年如期推出MI500人工智能芯片。",
+            "date_modified": "2026-02-03T22:14:16.000Z"
+        },
+        {
+            "id": 4660185,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3216663.d.html",
+            "title": "AMD CEO：预计2027年人工智能业务收入将达数百亿美元。",
+            "date_modified": "2026-02-03T22:14:05.000Z"
+        },
+        {
+            "id": 4660184,
+            "content_html": "",
+            "title": "AMD CEO：未来三到五年内，公司有能力使数据中心业务部门的营收实现每年超过60%的增长。",
+            "date_modified": "2026-02-03T22:13:25.000Z"
+        },
+        {
+            "id": 4660183,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3216437.d.html",
+            "title": "AMD CEO：公司正与多家公司就大规模、多年期的芯片部署展开谈判。",
+            "date_modified": "2026-02-03T22:12:51.000Z"
+        },
+        {
+            "id": 4660182,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6810826.d.html",
+            "title": "AMD CEO：预计未来三年数据中心业务年收入将增长60%。",
+            "date_modified": "2026-02-03T22:12:31.000Z"
+        },
+        {
+            "id": 4660181,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3216273.d.html",
+            "title": "AMD CEO：人工智能业务正在加速发展。",
+            "date_modified": "2026-02-03T22:11:52.000Z"
+        },
+        {
+            "id": 4660180,
+            "content_html": "",
+            "title": "AMD CEO：十大人工智能公司中有八家使用Instinct芯片来驱动生产工作负载。",
+            "date_modified": "2026-02-03T22:11:30.000Z"
+        },
+        {
+            "id": 4660179,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9993355.d.html",
+            "title": "武田制药与京都大学终止为期十年的诱导多能干细胞合作研究项目。",
+            "date_modified": "2026-02-03T22:11:12.000Z"
+        },
+        {
+            "id": 4660178,
+            "content_html": "",
+            "title": "AMD CEO：超大规模数据中心运营企业正在扩大基础设施，以满足人工智能领域不断增长的云服务需求",
+            "date_modified": "2026-02-03T22:10:15.000Z"
+        },
+        {
+            "id": 4660177,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6810409.d.html",
+            "title": "AMD CEO：数据中心、游戏和个人电脑领域的需求均加速增长。",
+            "date_modified": "2026-02-03T22:09:59.000Z"
+        },
+        {
+            "id": 4660176,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsx3912234.d.html",
+            "title": "美国众议院银行业委员会民主党人要求推迟美联储提名人沃什的相关听证会。",
+            "date_modified": "2026-02-03T22:09:42.000Z"
+        },
+        {
+            "id": 4660175,
+            "content_html": "",
+            "title": "AMD CEO：第四季度面向云服务和企业客户的服务器中央处理器（CPU）销售额创历史新高。",
+            "date_modified": "2026-02-03T22:08:48.000Z"
+        },
+        {
+            "id": 4660174,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9992855.d.html",
+            "title": "AMD CEO：第四季度CPU销售额占服务器总收入的一半以上。",
+            "date_modified": "2026-02-03T22:08:35.000Z"
+        },
+        {
+            "id": 4660173,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9992567.d.html",
+            "title": "AMD CEO：服务器CPU需求“非常强劲”。",
+            "date_modified": "2026-02-03T22:07:21.000Z"
+        },
+        {
+            "id": 4660172,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6809806.d.html",
+            "title": "哥伦比亚总统佩特罗： 与特朗普探讨委内瑞拉局势重启之策。",
+            "date_modified": "2026-02-03T22:06:53.000Z"
+        },
+        {
+            "id": 4660171,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsx3911657.d.html",
+            "title": "哥伦比亚总统佩特罗：美方应解除对委内瑞拉的制裁。",
+            "date_modified": "2026-02-03T22:06:46.000Z"
+        },
+        {
+            "id": 4660170,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6809734.d.html",
+            "title": "【2月4日美股成交额前20：黄仁勋称英伟达将参与OpenAI的下一轮融资】周二美股成交额第1名英伟达收跌2.84%，成交363.81亿美元。至此英伟达已连续第三个交易日下跌。昨日有报道称英伟达计划向OpenAI投入1000亿美元的计划已陷入停滞，因公司内部对OpenAI的商业模式和长期竞争态势产生严重疑虑。不过英伟达CEO黄仁勋周二表示，公司对OpenAI的投资计划仍“按部就班推进”。“此事完全不存在争议，相关说法纯属无稽之谈，” 黄仁勋称，“我们十分乐意与OpenAI合作。”黄仁勋同时表示，英伟达将参与OpenAI的下一轮融资。他称这轮融资将成为“历史上规模最大的私人融资”。",
+            "date_modified": "2026-02-03T22:06:36.000Z"
+        },
+        {
+            "id": 4660169,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3215204.d.html",
+            "title": "AMD：年末数据中心 CPU 市场份额刷新历史纪录。",
+            "date_modified": "2026-02-03T22:06:29.000Z"
+        },
+        {
+            "id": 4660168,
+            "content_html": "",
+            "title": "美国国务院：国务卿鲁比奥与印度外交部长讨论了在关键矿物勘探、开采和加工领域实现双边合作制度化的事宜。",
+            "date_modified": "2026-02-03T22:05:53.000Z"
+        },
+        {
+            "id": 4660167,
+            "content_html": "",
+            "title": "据CME“美联储观察”：美联储到3月维持利率不变的概率为91.1%，降息25个基点的概率为8.9%。",
+            "date_modified": "2026-02-03T22:03:29.000Z"
+        },
+        {
+            "id": 4660166,
+            "content_html": "",
+            "title": "周二（2月3日）纽约尾盘，现货黄金涨5.96%，报4939.38美元/盎司，亚太盘初以来持续走高，北京时间14:00过后持续高位窄幅震荡，00:39达到4993.63美元。COMEX黄金期货涨6.94%，报4975.30美元/盎司，00:39刷新日高至5018.10美元。",
+            "date_modified": "2026-02-03T22:02:35.000Z"
+        },
+        {
+            "id": 4660165,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9991256.d.html",
+            "title": "哥伦比亚总统佩特罗：与特朗普的会面 “富有成效”。",
+            "date_modified": "2026-02-03T22:01:48.000Z"
+        },
+        {
+            "id": 4660164,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3213957.d.html",
+            "title": "Take-Two高管：谷歌的Genie并非一款游戏引擎。",
+            "date_modified": "2026-02-03T22:01:18.000Z"
+        },
+        {
+            "id": 4660163,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3213273.d.html",
+            "title": "特朗普重申对医疗保险公司的批评。",
+            "date_modified": "2026-02-03T21:56:50.000Z"
+        },
+        {
+            "id": 4660162,
+            "content_html": "",
+            "title": "特朗普谈爱泼斯坦事件：说实话，大家也得把精力放回治理国家上来。这说到底是民主党那边的问题，跟共和党毫无关系。",
+            "date_modified": "2026-02-03T21:56:18.000Z"
+        },
+        {
+            "id": 4660161,
+            "content_html": "",
+            "title": "超微电脑公司（Super Micro Computer Inc）：预计财年净销售额至少达到400亿美元。",
+            "date_modified": "2026-02-03T21:52:38.000Z"
+        },
+        {
+            "id": 4660160,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3212603.d.html",
+            "title": "超微电脑（Super Micro Computer）盘后股价上涨7.8%。",
+            "date_modified": "2026-02-03T21:52:31.000Z"
+        },
+        {
+            "id": 4660159,
+            "content_html": "",
+            "title": "  特朗普：如果某个州无法正常开展选举工作，我认为我身后的这些人（联邦政府）应当出面采取措施。",
+            "date_modified": "2026-02-03T21:52:13.000Z"
+        },
+        {
+            "id": 4660158,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsx3908717.d.html",
+            "title": "特朗普：将与哥伦比亚总统佩德罗合作打击委内瑞拉境内的恐怖组织。",
+            "date_modified": "2026-02-03T21:51:39.000Z"
+        },
+        {
+            "id": 4660157,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsx3908576.d.html",
+            "title": "特朗普：数百万桶委内瑞拉石油正运往休斯顿。",
+            "date_modified": "2026-02-03T21:51:06.000Z"
+        },
+        {
+            "id": 4660156,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3211637.d.html",
+            "title": "特朗普：联邦政府应介入选举事宜。",
+            "date_modified": "2026-02-03T21:47:13.000Z"
+        },
+        {
+            "id": 4660155,
+            "content_html": "",
+            "title": "特朗普：我们不希望与伊朗再次发生“午夜之锤”（Midnight Hammer） 行动。",
+            "date_modified": "2026-02-03T21:47:02.000Z"
+        },
+        {
+            "id": 4660154,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6805629.d.html",
+            "title": "特朗普：希望普京能结束冲突。",
+            "date_modified": "2026-02-03T21:45:25.000Z"
+        },
+        {
+            "id": 4660153,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9988517.d.html",
+            "title": "特朗普：普京信守承诺，遵守了为期一周不打击乌克兰的协议。",
+            "date_modified": "2026-02-03T21:45:13.000Z"
+        },
+        {
+            "id": 4660152,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9988417.d.html",
+            "title": "【希腊海警船与偷渡船相撞 至少4人死亡】据希腊国家广播电视公司报道，希腊海岸警卫队一艘船3日晚在希腊东部的希俄斯岛附近海域与一艘载有非法移民的偷渡船相撞，造成至少4人死亡。",
+            "date_modified": "2026-02-03T21:44:39.000Z"
+        },
+        {
+            "id": 4660151,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9988342.d.html",
+            "title": "特朗普：认为哥伦比亚总统表现 “非常出色”。",
+            "date_modified": "2026-02-03T21:44:19.000Z"
+        },
+        {
+            "id": 4660150,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsv6805321.d.html",
+            "title": "特朗普：与哥伦比亚总统举行了非常好的会晤。",
+            "date_modified": "2026-02-03T21:43:40.000Z"
+        },
+        {
+            "id": 4660149,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9988115.d.html",
+            "title": "特朗普：与伊朗的谈判仍在继续。",
+            "date_modified": "2026-02-03T21:43:13.000Z"
+        },
+        {
+            "id": 4660148,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9988076.d.html",
+            "title": "特朗普：与伊朗的会谈不止一次。",
+            "date_modified": "2026-02-03T21:43:01.000Z"
+        },
+        {
+            "id": 4660146,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9987809.d.html",
+            "title": "特朗普签署拨款法案，结束美国政府部分停摆局面。",
+            "date_modified": "2026-02-03T21:40:58.000Z"
+        },
+        {
+            "id": 4660145,
+            "content_html": "",
+            "title": "OpenAI CEO奥特曼：迪伦・斯坎迪纳罗将牵头统筹团队，开展大模型相关高风险的预防与应对工作。",
+            "date_modified": "2026-02-03T21:40:21.000Z"
+        },
+        {
+            "id": 4660144,
+            "content_html": "",
+            "title": "OpenAI CEO奥特曼：欢迎迪伦・斯坎迪纳罗加入OpenAI，担任公司安全准备负责人一职。",
+            "date_modified": "2026-02-03T21:39:35.000Z"
+        },
+        {
+            "id": 4660143,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9987387.d.html",
+            "title": "OpenAI CEO奥特曼：很快将着手研发超高性能大模型。",
+            "date_modified": "2026-02-03T21:37:52.000Z"
+        },
+        {
+            "id": 4660142,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwss3209664.d.html",
+            "title": "【AMD发布当期展望 AI回报未达部分投资者预期】AMD当期展望令人失望，显示其在AI领域的进展并未达到部分投资者此前的预期。该公司周二在声明中表示，第一季度销售额预计约98亿美元。数据显示，分析师预估均值位93.9亿美元，但有些预测超过100亿美元。这一展望令原本希望看到AI计算支出能带来更大回报的投资者感到失望。在这个利润丰厚的市场中，AMD仍在追赶英伟达，但这家芯片制造商曾表示，将于今年下半年推出的一款更强大的新设计有望为其带来优势。业绩发布后，AMD股价盘后跌逾5%。截至周二收盘，该股今年以来累计上涨13%。",
+            "date_modified": "2026-02-03T21:36:06.000Z"
+        },
+        {
+            "id": 4660141,
+            "content_html": "",
+            "title": "美国石油协会（API）数据显示，上周，美国API原油库存 -1107.9万桶，之前一周 +24.7万桶。",
+            "date_modified": "2026-02-03T21:35:14.000Z"
+        },
+        {
+            "id": 4660140,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwst9986266.d.html",
+            "title": "AMD： 预计第一季度旧款 MI308 芯片将带来 1 亿美元销售额。",
+            "date_modified": "2026-02-03T21:34:44.000Z"
+        },
+        {
             "id": 4660139,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqwsx3904813.d.html",
@@ -285,405 +681,6 @@
             "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3325852.d.html",
             "title": "载有俄罗斯代表团的飞机已降落在阿布扎比。",
             "date_modified": "2026-02-03T20:50:30.000Z"
-        },
-        {
-            "id": 4660097,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0103009.d.html",
-            "title": "NScale暂无潜在上市时间表。",
-            "date_modified": "2026-02-03T20:50:14.000Z"
-        },
-        {
-            "id": 4660096,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0102791.d.html",
-            "title": "特朗普发布了白宫宴会厅效果图。",
-            "date_modified": "2026-02-03T20:48:53.000Z"
-        },
-        {
-            "id": 4660095,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0102634.d.html",
-            "title": "哥伦比亚总统佩特罗称，与特朗普会面后喜欢“坦率的美国佬”。",
-            "date_modified": "2026-02-03T20:47:37.000Z"
-        },
-        {
-            "id": 4660094,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4024549.d.html",
-            "title": "宕机监测网站Downdetector显示，美国数千名用户无法访问ChatGPT。",
-            "date_modified": "2026-02-03T20:47:18.000Z"
-        },
-        {
-            "id": 4660093,
-            "content_html": "",
-            "title": "希腊海岸警卫队称，在爱琴海发生海岸警卫队船只与移民船相撞事故后，至少5名移民死亡。",
-            "date_modified": "2026-02-03T20:47:11.000Z"
-        },
-        {
-            "id": 4660092,
-            "content_html": "",
-            "title": "复杂光学与电子制造服务提供商Fabrinet(FN)周二尾盘重挫11.8%，尽管该公司公布了强劲的第二财季业绩，但其股票仍遭到获利了结。",
-            "date_modified": "2026-02-03T20:46:03.000Z"
-        },
-        {
-            "id": 4660091,
-            "content_html": "",
-            "title": "德意志银行：沃什领导的美联储在未来 5-7 年内可能仍会积极购买国债，因为它可能会转向持有更高比例的短期债务。",
-            "date_modified": "2026-02-03T20:44:35.000Z"
-        },
-        {
-            "id": 4660090,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0102291.d.html",
-            "title": "市场资讯：美国稀土公司获30亿美元潜在资金，助力加速推进各项规划。",
-            "date_modified": "2026-02-03T20:44:17.000Z"
-        },
-        {
-            "id": 4660089,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6922287.d.html",
-            "title": "【伊朗外交部称正在磋商与美国谈判地点】当地时间2月3日，伊朗外交部发言人巴加埃就伊朗与美国举行谈判的协调进程表示，“谈判计划已制定，预计将在未来几天举行。目前正在进行磋商以确定谈判地点，一旦确定，将立即公布”。巴加埃称，“原则上，会谈的地点和时间并非复杂问题；土耳其、阿曼以及该地区其他一些国家都已表示愿意主办会谈，这对我们来说非常宝贵”。",
-            "date_modified": "2026-02-03T20:43:37.000Z"
-        },
-        {
-            "id": 4660088,
-            "content_html": "",
-            "title": "ATI公司周二尾盘上涨4.7%，此前该公司公布了强劲的第四财季业绩，并上调2026财年每股收益指引。",
-            "date_modified": "2026-02-03T20:43:21.000Z"
-        },
-        {
-            "id": 4660087,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0102128.d.html",
-            "title": "OpenAI：ChatGPT目前出现服务故障。",
-            "date_modified": "2026-02-03T20:42:59.000Z"
-        },
-        {
-            "id": 4660086,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6922178.d.html",
-            "title": "WTI原油日内涨3%，现报64.01美元/桶。",
-            "date_modified": "2026-02-03T20:42:54.000Z"
-        },
-        {
-            "id": 4660085,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6922103.d.html",
-            "title": "【美军：击落一架伊朗无人机 护送一艘美国油轮】美军中央司令部发言人蒂姆·霍金斯3日说，美军当天在阿拉伯海击落伊朗一架无人机，并称该无人机当时正“挑衅性”接近美军“亚伯拉罕·林肯”号航空母舰。美军当天还护送一艘遭伊方船只逼近的美国油轮。",
-            "date_modified": "2026-02-03T20:42:18.000Z"
-        },
-        {
-            "id": 4660084,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3324825.d.html",
-            "title": "消息人士称，获英伟达支持的NScale聘请高盛和摩根大通负责其首次公开募股。",
-            "date_modified": "2026-02-03T20:41:59.000Z"
-        },
-        {
-            "id": 4660083,
-            "content_html": "",
-            "title": "市场资讯：美国法官驳回马斯克的动议，该动议旨在驳回美国证券交易委员会（SEC）就其延迟披露不断增加的推特股份一事提起的诉讼。",
-            "date_modified": "2026-02-03T20:41:40.000Z"
-        },
-        {
-            "id": 4660082,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3324797.d.html",
-            "title": "WTI原油突破64美元/桶，日内涨2.99%。",
-            "date_modified": "2026-02-03T20:41:33.000Z"
-        },
-        {
-            "id": 4660081,
-            "content_html": "",
-            "title": "半导体自动测试设备供应商泰瑞达(Teradyne,TER)周二股价创历史新高。受到AI驱动增长，该公司报告了强劲的第四季度业绩。美股周二尾盘，该股大涨逾12%。",
-            "date_modified": "2026-02-03T20:41:29.000Z"
-        },
-        {
-            "id": 4660080,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3324758.d.html",
-            "title": "法庭文件显示：美国多个州就谷歌搜索案提起上诉。",
-            "date_modified": "2026-02-03T20:41:13.000Z"
-        },
-        {
-            "id": 4660079,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4023636.d.html",
-            "title": "OpenAI就ChatGPT问题表态：我们正在着手实施缓解措施。",
-            "date_modified": "2026-02-03T20:39:00.000Z"
-        },
-        {
-            "id": 4660078,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0101703.d.html",
-            "title": "马斯克：法国对X平台的调查是一场 “政治攻击”。",
-            "date_modified": "2026-02-03T20:38:43.000Z"
-        },
-        {
-            "id": 4660077,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0101661.d.html",
-            "title": "【巴黎网络犯罪小组搜查X公司办公室，传唤马斯克】法国警方周二突袭了马斯克旗下社交媒体网络X公司的办公室，检察官下令马斯克接受质询。法国这一举动可能会进一步加剧欧洲和美国在科技公司和言论自由问题上的紧张关系。英国隐私监管机构也启动了一项正式调查，调查马斯克的人工智能聊天机器人Grok处理个人数据以及可能生成有害的性化图像和视频内容的问题。",
-            "date_modified": "2026-02-03T20:38:26.000Z"
-        },
-        {
-            "id": 4660076,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0101486.d.html",
-            "title": "OpenAI：ChatGPT用户面临错误率上升问题。",
-            "date_modified": "2026-02-03T20:36:50.000Z"
-        },
-        {
-            "id": 4660075,
-            "content_html": "",
-            "title": "哥伦比亚总统佩特罗称已请求特朗普调解与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
-            "date_modified": "2026-02-03T20:36:32.000Z"
-        },
-        {
-            "id": 4660074,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4023162.d.html",
-            "title": "【Centerview联合创始人称AI变革真实存在 但推进节奏或不及预期】Centerview Partners联合创始人Blair Effron表示，尽管人工智能的崛起将对经济产生巨大影响，但相关变化可能不会像许多人预期的那样迅速到来。“增长的斜率和速度可能会比人们想象的要慢，但是真实存在的，”Effron表示。",
-            "date_modified": "2026-02-03T20:34:49.000Z"
-        },
-        {
-            "id": 4660073,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3323891.d.html",
-            "title": "布伦特原油突破68美元/桶，日内涨2.56%。",
-            "date_modified": "2026-02-03T20:34:01.000Z"
-        },
-        {
-            "id": 4660072,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4023023.d.html",
-            "title": "宕机检测平台：用户反馈显示OpenAI出现服务故障。",
-            "date_modified": "2026-02-03T20:33:32.000Z"
-        },
-        {
-            "id": 4660071,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6921099.d.html",
-            "title": "哥伦比亚总统佩特罗称已请求特朗普协助抓捕居住在国外的主要毒贩。",
-            "date_modified": "2026-02-03T20:33:15.000Z"
-        },
-        {
-            "id": 4660070,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6920862.d.html",
-            "title": "阿波罗全球管理公司联合创始人哈里斯：体育球队是抗通胀投资标的。",
-            "date_modified": "2026-02-03T20:31:27.000Z"
-        },
-        {
-            "id": 4660069,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4022677.d.html",
-            "title": "伊朗表示，土耳其、阿曼以及该地区其他几个国家均已表示愿意主办会谈。",
-            "date_modified": "2026-02-03T20:30:49.000Z"
-        },
-        {
-            "id": 4660068,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6920779.d.html",
-            "title": "伊朗表示，会谈的地点和时间并非复杂问题，不应被用作“媒体炒作的借口”。",
-            "date_modified": "2026-02-03T20:30:38.000Z"
-        },
-        {
-            "id": 4660067,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0100475.d.html",
-            "title": "哥伦比亚总统佩特罗表示，未与特朗普讨论可卡因作物喷洒灭除问题。",
-            "date_modified": "2026-02-03T20:29:06.000Z"
-        },
-        {
-            "id": 4660066,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3323259.d.html",
-            "title": "伊朗表示，感谢所有为推动创造外交进程形成条件作出努力的友好国家。",
-            "date_modified": "2026-02-03T20:28:33.000Z"
-        },
-        {
-            "id": 4660065,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4022413.d.html",
-            "title": "伊朗表示，已做好未来几天与美国举行谈判的规划。",
-            "date_modified": "2026-02-03T20:27:43.000Z"
-        },
-        {
-            "id": 4660064,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0100123.d.html",
-            "title": "阿波罗全球管理公司联合创始人哈里斯：向个人投资者开放私募资产不会有好结果。",
-            "date_modified": "2026-02-03T20:25:43.000Z"
-        },
-        {
-            "id": 4660063,
-            "content_html": "",
-            "title": "阿波罗全球管理公司联合创始人哈里斯：任命沃什为美联储主席将消除市场不确定性，他是美联储主席的稳健人选。",
-            "date_modified": "2026-02-03T20:24:14.000Z"
-        },
-        {
-            "id": 4660062,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0099902.d.html",
-            "title": "阿波罗全球管理公司联合创始人哈里斯：数字基础设施是最具吸引力的投资资产类别之一。",
-            "date_modified": "2026-02-03T20:23:17.000Z"
-        },
-        {
-            "id": 4660061,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3322657.d.html",
-            "title": "哥伦比亚总统佩特罗表示，他和特朗普曾讨论过出口委内瑞拉天然气一事。",
-            "date_modified": "2026-02-03T20:22:42.000Z"
-        },
-        {
-            "id": 4660060,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0099784.d.html",
-            "title": "伊朗外交部发言人表示，有关与美国举行会谈地点的磋商正在进行中。",
-            "date_modified": "2026-02-03T20:21:36.000Z"
-        },
-        {
-            "id": 4660059,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6919907.d.html",
-            "title": "印度外交部长：与美国财长贝森特就推进印美经济伙伴关系和战略合作进行了讨论。",
-            "date_modified": "2026-02-03T20:18:34.000Z"
-        },
-        {
-            "id": 4660058,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6919723.d.html",
-            "title": "印度外交部长：今日在华盛顿特区会见了美国财政部部长。",
-            "date_modified": "2026-02-03T20:16:52.000Z"
-        },
-        {
-            "id": 4660057,
-            "content_html": "",
-            "title": "西班牙桑坦德银行董事长：一直在关注美国的机遇，但韦伯斯特银行在商业银行领域与桑坦德银行文化契合。",
-            "date_modified": "2026-02-03T20:16:13.000Z"
-        },
-        {
-            "id": 4660056,
-            "content_html": "",
-            "title": "西班牙桑坦德银行董事长：该行不会停止在美国全国范围内推广OpenBank业务，但将把其他产品的推广进度放缓一年。",
-            "date_modified": "2026-02-03T20:15:51.000Z"
-        },
-        {
-            "id": 4660055,
-            "content_html": "",
-            "title": "美国交通部：批准森特尼尔中游石油运输仓储公司在得克萨斯州建设深水石油出口港项目的相关许可。",
-            "date_modified": "2026-02-03T20:12:54.000Z"
-        },
-        {
-            "id": 4660054,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0099271.d.html",
-            "title": "【持续超3小时 以总理与美特使会晤讨论伊朗问题】当地时间2月3日，以色列总理内塔尼亚胡与来访的美国中东问题特使威特科夫会晤。据了解，会谈持续三个多小时，美国驻以色列大使赫卡比，以色列国防部长卡茨 、以军总参谋长扎米尔、情报和特勤局（摩萨德）局长巴尔内亚、以色列军事情报局负责人、空军司令等人也参与了会谈。以色列总理办公室发表声明称，内塔尼亚胡在会晤中向美方表示“伊朗已反复证明其不可信，无法遵守任何承诺”。",
-            "date_modified": "2026-02-03T20:11:58.000Z"
-        },
-        {
-            "id": 4660053,
-            "content_html": "",
-            "title": "五角大楼：美国国务院批准向沙特阿拉伯出售价值30亿美元的F-15战斗机维护及相关设备。",
-            "date_modified": "2026-02-03T20:11:14.000Z"
-        },
-        {
-            "id": 4660052,
-            "content_html": "",
-            "title": "【北京2026年土地首拍，中铁投首次摘得北京涉宅地块】2月3日，北京2026年首场土拍正式开启，三宗宅地总出让金额达57.62亿元。此次出让的地块分别位于石景山区、通州区及顺义区。其中，顺义区新国展三期SY00-2301-0003、0004、0005地块由中国铁工投资集团摘得。此次成功拿地，意味着该企业首次进入北京商品住宅用地市场，也成为本次土拍的一大看点。同日，北京发布2026年第一轮拟供商品住宅用地清单，共涉及5宗地，土地面积约16公顷，建筑规模约24万平方米，上述用地拟于近期供应。",
-            "date_modified": "2026-02-03T20:10:40.000Z"
-        },
-        {
-            "id": 4660051,
-            "content_html": "",
-            "title": "英国竞争与市场管理局（CMA）就针对谷歌母公司Alphabet的措施征求反馈意见，截止日期为2月25日。",
-            "date_modified": "2026-02-03T20:10:04.000Z"
-        },
-        {
-            "id": 4660050,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3321959.d.html",
-            "title": "谷歌同意就手机数据处理相关的集体诉讼达成和解。",
-            "date_modified": "2026-02-03T20:09:36.000Z"
-        },
-        {
-            "id": 4660049,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3321858.d.html",
-            "title": "瑞穗将谷歌母公司Alphabet目标价从365美元上调至400美元。",
-            "date_modified": "2026-02-03T20:07:41.000Z"
-        },
-        {
-            "id": 4660048,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4021117.d.html",
-            "title": "伯恩斯坦将谷歌母公司Alphabet目标价从305美元上调至335美元。",
-            "date_modified": "2026-02-03T20:07:29.000Z"
-        },
-        {
-            "id": 4660047,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0098936.d.html",
-            "title": "【美国军方称已向尼日利亚派遣一支部队】当地时间2月3日，美国非洲司令部司令达格文·安德森表示，美国已向尼日利亚派遣了一小支部队。安德森没有提供有关此次任务规模和范围的更多细节。",
-            "date_modified": "2026-02-03T20:06:17.000Z"
-        },
-        {
-            "id": 4660046,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4021001.d.html",
-            "title": "美国能源部：美国将与通用材料公司合作开发汉福德核设施。",
-            "date_modified": "2026-02-03T20:06:04.000Z"
-        },
-        {
-            "id": 4660045,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3321697.d.html",
-            "title": "【Alphabet计划在印度大举扩张】谷歌母公司Alphabet正计划大幅扩大其在印度的业务，有可能在印度科技中心班加罗尔新建数百万平方英尺的办公空间。该公司已经在该市怀特菲尔德科技走廊的一个开发项目Alembic City租下了一座办公楼，并购买了另外两座办公楼的期权，总面积达 。第一座塔楼预计将在未来几个月内对员工开放，其余两座塔楼的施工将于明年结束。如果Alphabet占用了所有空间，那么这座综合大楼可容纳多达20000名额外员工，这将使该公司在印度的足迹扩大一倍多。Alphabet目前在印度拥有约1.4万名员工，全球员工总数约为190000人。",
-            "date_modified": "2026-02-03T20:05:28.000Z"
-        },
-        {
-            "id": 4660044,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskx6918919.d.html",
-            "title": "西班牙桑坦德银行董事长：未来三年，银行没有进一步进行小规模收购的计划。",
-            "date_modified": "2026-02-03T20:03:19.000Z"
-        },
-        {
-            "id": 4660043,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0098597.d.html",
-            "title": "奈飞CEO萨兰多斯：（与华纳兄弟的）交易将推动行业发展。",
-            "date_modified": "2026-02-03T20:02:17.000Z"
-        },
-        {
-            "id": 4660042,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0098553.d.html",
-            "title": "奈飞CEO萨兰多斯：我们将为消费者提供更多内容，且价格更低。",
-            "date_modified": "2026-02-03T20:01:51.000Z"
-        },
-        {
-            "id": 4660041,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskw0098532.d.html",
-            "title": "奈飞CEO萨兰多斯：与华纳兄弟的合作交易将助力其保持竞争力。",
-            "date_modified": "2026-02-03T20:01:41.000Z"
-        },
-        {
-            "id": 4660040,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqskz4020017.d.html",
-            "title": "【美媒：伊朗要求更改伊美谈判地点和形式】据美国阿克西奥斯新闻网站3日报道，伊朗已要求更改6日与美国谈判的地点和形式，将谈判地点从土耳其伊斯坦布尔市改为海湾国家阿曼，并希望会谈以双边形式举行。 报道以两名知情人士为消息源说，已有多个国家获邀参与谈判，但伊朗方面现在希望谈判只有伊朗和美国双方参加，而非有多个阿拉伯和伊斯兰国家作为观察员出席。",
-            "date_modified": "2026-02-03T19:56:51.000Z"
-        },
-        {
-            "id": 4660039,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-04/detail-inhkqsku3320800.d.html",
-            "title": "惠誉将纽约曼哈顿大学评级下调至“BBB-”，展望为负面。",
-            "date_modified": "2026-02-03T19:55:41.000Z"
         }
     ]
 }

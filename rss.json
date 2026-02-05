@@ -6,8 +6,299 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4666168,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqx2556264.d.html",
+            "title": "【美国一列载有危险化学品的列车脱轨】美国东部时间2月5日上午，一列载有危险化学品的货运列车在康涅狄格州曼斯菲尔德镇脱轨，部分车厢滑入附近一条河中。",
+            "date_modified": "2026-02-05T20:32:42.000Z"
+        },
+        {
+            "id": 4666167,
+            "content_html": "",
+            "title": "奥莱利汽车公司(O'Reilly Automotive,ORLY)周四尾盘下跌3.9%。尽管销售额保持稳定，但该汽车每股收益低于预期，且仍面临利润率压力。",
+            "date_modified": "2026-02-05T20:30:15.000Z"
+        },
+        {
+            "id": 4666166,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1711464.d.html",
+            "title": "【多人感染诺如病毒 芬兰女子冰球队比赛推迟】米兰冬奥会冰球项目5日开赛。米兰冬奥组委当天宣布，由于诺如病毒的影响，原定于5日进行的芬兰队与加拿大队之间的女子冰球比赛被推迟至12日进行。",
+            "date_modified": "2026-02-05T20:27:52.000Z"
+        },
+        {
+            "id": 4666165,
+            "content_html": "",
+            "title": "美国财政部长贝森特谈伊朗：我们人为地制造了伊朗的美元短缺。这件事很快就结束了。我认为，事情的转折点出现在去年12月，当时伊朗最大的银行之一在挤兑事件后倒闭。伊朗央行不得不印钞。伊朗货币暴跌，通货膨胀飙升。",
+            "date_modified": "2026-02-05T20:23:55.000Z"
+        },
+        {
+            "id": 4666164,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8487811.d.html",
+            "title": "比特币跌破64000美元，日内跌13.12%。",
+            "date_modified": "2026-02-05T20:22:56.000Z"
+        },
+        {
+            "id": 4666163,
+            "content_html": "",
+            "title": "比特币跌幅扩大，一度短暂跌破6.4万美元，最新报64328美元，跌幅达11.5%。",
+            "date_modified": "2026-02-05T20:20:19.000Z"
+        },
+        {
+            "id": 4666162,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1710083.d.html",
+            "title": "【加拿大宣布电动汽车新战略 将与中国合作】加拿大总理马克·卡尼5日宣布一项电动汽车新战略，包括重启购车补贴，并表示将与中国合作推动加拿大本土生产和出口电动汽车。 根据加拿大总理府发布的声明，加拿大将充分利用现有和新增的贸易协定，包括近期与中国达成的电动汽车合作协议，以促进该领域的大规模投资，实现加拿大汽车出口市场多元化，并将加拿大打造成为全球电动汽车领域的领导者之一。",
+            "date_modified": "2026-02-05T20:19:58.000Z"
+        },
+        {
+            "id": 4666161,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1710007.d.html",
+            "title": "美国投资公司协会（ICI）：美国货币市场基金资产升至7.8万亿美元。",
+            "date_modified": "2026-02-05T20:19:42.000Z"
+        },
+        {
+            "id": 4666160,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5452799.d.html",
+            "title": "以太坊跌破1900美元，日内跌11.85%。",
+            "date_modified": "2026-02-05T20:17:16.000Z"
+        },
+        {
+            "id": 4666159,
+            "content_html": "",
+            "title": "花旗集团将洛克希德-马丁公司目标价从592.00美元上调至673.00美元，将洛克希德-马丁公司评级维持在中性。",
+            "date_modified": "2026-02-05T20:17:11.000Z"
+        },
+        {
+            "id": 4666158,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5452683.d.html",
+            "title": "阿根廷取消对221类美国进口产品的关税。",
+            "date_modified": "2026-02-05T20:16:31.000Z"
+        },
+        {
+            "id": 4666157,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1709338.d.html",
+            "title": "比特币跌破65000美元，日内跌11.82%。",
+            "date_modified": "2026-02-05T20:16:16.000Z"
+        },
+        {
+            "id": 4666156,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8486450.d.html",
+            "title": "【斯塔默向爱泼斯坦案受害者道歉】英国首相斯塔默5日就执政党工党原重要人物曼德尔森牵涉爱泼斯坦案引发的风波发表讲话，称他先前轻信曼德尔森的“谎言”并任命其为驻美大使，就此向爱泼斯坦案受害者道歉。",
+            "date_modified": "2026-02-05T20:15:51.000Z"
+        },
+        {
+            "id": 4666155,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8486098.d.html",
+            "title": "美国将取消对1675种阿根廷产品征收的互惠关税。",
+            "date_modified": "2026-02-05T20:14:08.000Z"
+        },
+        {
+            "id": 4666154,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8485749.d.html",
+            "title": "美国将对10万吨阿根廷牛肉给予优惠准入待遇。",
+            "date_modified": "2026-02-05T20:12:23.000Z"
+        },
+        {
+            "id": 4666153,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1708269.d.html",
+            "title": "阿根廷：美国将重新审查钢铁和铝的关税政策。",
+            "date_modified": "2026-02-05T20:10:54.000Z"
+        },
+        {
+            "id": 4666152,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5451683.d.html",
+            "title": "【美伊核问题谈判在即 白宫：外交手段仍是首选】当地时间2月5日，美国白宫新闻秘书莱维特在简报会上回应有关原定于土耳其举行、后改至阿曼的美伊核问题会谈安排时表示，美国总统特朗普始终将外交作为处理国际事务的“首要选项”。",
+            "date_modified": "2026-02-05T20:09:02.000Z"
+        },
+        {
+            "id": 4666151,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1707624.d.html",
+            "title": "比特币跌幅扩大，现跌至65000美元以下。",
+            "date_modified": "2026-02-05T20:06:56.000Z"
+        },
+        {
+            "id": 4666150,
+            "content_html": "",
+            "title": "奥地利卫生与食品安全局：达能再次召回奥地利境内特定生产批次的爱他美（Aptamil）和美乐宝（Milumil）产品。",
+            "date_modified": "2026-02-05T20:04:10.000Z"
+        },
+        {
+            "id": 4666149,
+            "content_html": "",
+            "title": "美国国防部：美国国务院批准向伊拉克出售用于车辆及货物快速检查系统（VACIS XPL）客运车辆扫描系统的合同物流服务，潜在交易金额达9000万美元。",
+            "date_modified": "2026-02-05T20:04:03.000Z"
+        },
+        {
+            "id": 4666148,
+            "content_html": "",
+            "title": "美国密歇根州总检察长批评底特律爱迪生公司为甲骨文、OpenAI数据中心供电的相关计划，要求重新审核相关合同的批准流程。",
+            "date_modified": "2026-02-05T20:03:58.000Z"
+        },
+        {
+            "id": 4666147,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8484236.d.html",
+            "title": "【俄国防部：俄“联盟-2.1b”号火箭搭载军用卫星从普列谢茨克发射场发射升空】俄罗斯国防部发布消息表示，俄罗斯空天军从普列谢茨克发射场发射了携带军用无人机的“联盟-2.1b”号火箭。消息显示：“莫斯科时间2月5日21时59分，俄空天军部队战勤班从位于阿尔汉格尔斯克州的普列谢茨克国家试验航天发射场成功发射了一枚‘联盟-2.1b’号运载火箭，火箭搭载了俄国防部的卫星。”此次发射是俄罗斯在2026年进行的第一次发射任务。",
+            "date_modified": "2026-02-05T20:03:16.000Z"
+        },
+        {
+            "id": 4666146,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5450843.d.html",
+            "title": "委内瑞拉议会一读通过特赦法案。",
+            "date_modified": "2026-02-05T20:01:30.000Z"
+        },
+        {
+            "id": 4666145,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqx2551955.d.html",
+            "title": "白宫：（谈伊朗问题）特朗普除了外交手段还有很多选择。",
+            "date_modified": "2026-02-05T19:55:28.000Z"
+        },
+        {
+            "id": 4666144,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8482531.d.html",
+            "title": "白宫表示，特朗普希望看看能否（与伊朗）达成一项协议。",
+            "date_modified": "2026-02-05T19:54:59.000Z"
+        },
+        {
+            "id": 4666143,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8482489.d.html",
+            "title": "白宫表示，周五与伊朗的会谈将聚焦外交途径。",
+            "date_modified": "2026-02-05T19:54:45.000Z"
+        },
+        {
+            "id": 4666142,
+            "content_html": "",
+            "title": "比特币跌幅超过10%，触及2024年10月以来的最低水平，最新价格为65139美元。",
+            "date_modified": "2026-02-05T19:54:37.000Z"
+        },
+        {
+            "id": 4666141,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8482337.d.html",
+            "title": "白宫新闻秘书莱维特：对韩国的关税没有时间表。",
+            "date_modified": "2026-02-05T19:53:56.000Z"
+        },
+        {
+            "id": 4666140,
+            "content_html": "",
+            "title": "马斯克谈美国政治：政治通常带有很强的党派色彩，人们在政治中往往丧失客观性，比如他们很难看到对方阵营的优点，或者己方阵营的缺点。最让我惊讶的是，如果你和人们分属不同的党派，你往往根本无法与他们讲道理。他们只会坚信自己党派所做的一切都是好的，而其他党派所做的一切都是坏的。",
+            "date_modified": "2026-02-05T19:53:41.000Z"
+        },
+        {
+            "id": 4666139,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1704010.d.html",
+            "title": "白宫新闻秘书莱维特：特朗普要求哈佛大学支付10亿美元。",
+            "date_modified": "2026-02-05T19:49:44.000Z"
+        },
+        {
+            "id": 4666138,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5449046.d.html",
+            "title": "达能在奥地利和德国召回120批婴儿配方奶粉。",
+            "date_modified": "2026-02-05T19:48:31.000Z"
+        },
+        {
+            "id": 4666137,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5449021.d.html",
+            "title": "白宫新闻秘书莱维特：教育部部长麦克马洪将继续主导哈佛大学相关谈判。",
+            "date_modified": "2026-02-05T19:48:23.000Z"
+        },
+        {
+            "id": 4666136,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqx2550765.d.html",
+            "title": "白宫新闻秘书莱维特：行政官员希望与哈佛大学达成协议。",
+            "date_modified": "2026-02-05T19:47:34.000Z"
+        },
+        {
+            "id": 4666135,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1703155.d.html",
+            "title": "白宫新闻秘书莱维特：特朗普将与保险公司（负责人）会面。",
+            "date_modified": "2026-02-05T19:46:15.000Z"
+        },
+        {
+            "id": 4666134,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8480203.d.html",
+            "title": "白宫新闻秘书莱维特：白宫将参与国土安全部与民主党人的谈判。",
+            "date_modified": "2026-02-05T19:45:33.000Z"
+        },
+        {
+            "id": 4666133,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1702932.d.html",
+            "title": "布伦特原油期货结算价报每桶67.55美元，下跌1.91美元，跌幅2.75%。",
+            "date_modified": "2026-02-05T19:45:09.000Z"
+        },
+        {
+            "id": 4666132,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1702854.d.html",
+            "title": "白宫新闻秘书莱维特：（就得克萨斯州参议院选举）特朗普正密切关注各项竞选进程。",
+            "date_modified": "2026-02-05T19:44:39.000Z"
+        },
+        {
+            "id": 4666131,
+            "content_html": "",
+            "title": "工会要求英国石油公司（BP）位于印第安纳州惠廷市的炼油厂工人为罢工或停工做好准备。",
+            "date_modified": "2026-02-05T19:42:48.000Z"
+        },
+        {
+            "id": 4666130,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8478911.d.html",
+            "title": "  哥伦比亚就关税争端与厄瓜多尔展开磋商。",
+            "date_modified": "2026-02-05T19:40:12.000Z"
+        },
+        {
+            "id": 4666129,
+            "content_html": "",
+            "title": "壳牌CEO：由于哈萨克斯坦对公司提起的诉讼涉及金额可能高达数十亿美元，将暂停在哈萨克斯坦的投资。",
+            "date_modified": "2026-02-05T19:39:03.000Z"
+        },
+        {
+            "id": 4666128,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8478516.d.html",
+            "title": "白宫新闻秘书莱维特：（谈古巴）特朗普总是愿意进行外交努力。",
+            "date_modified": "2026-02-05T19:38:01.000Z"
+        },
+        {
+            "id": 4666127,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1701205.d.html",
+            "title": "白宫新闻秘书莱维特：重申外交是特朗普（对待伊朗问题）的首要选择。",
+            "date_modified": "2026-02-05T19:37:30.000Z"
+        },
+        {
+            "id": 4666126,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8478222.d.html",
+            "title": "白宫新闻秘书莱维特：威特科夫明天将前往阿曼参加伊朗会谈。",
+            "date_modified": "2026-02-05T19:36:44.000Z"
+        },
+        {
             "id": 4666125,
             "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5447325.d.html",
             "title": "白宫新闻秘书莱维特：美国将继续与俄罗斯讨论新的协议。",
             "date_modified": "2026-02-05T19:36:20.000Z"
         },
@@ -383,291 +674,6 @@
             "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1688453.d.html",
             "title": "【比特币暴跌至7万美元下方 回吐特朗普当选以来全部涨幅】受杠杆头寸平仓潮加剧、整体市场震荡影响，比特币价格暴跌至7万美元下方，此次抛售回吐了自特朗普当选总统后加密货币投机热潮带来的全部涨幅。该加密货币周四跌幅一度达10%，跌至65344美元，创 2024 年 10 月以来新低。自四个月前触及历史高点后，比特币已近乎腰斩，且跌势还蔓延至其他加密代币、相关ETF，以及持有大量加密货币的Strategy等相关企业。此次下跌标志着比特币在去年大部分时间里的暴涨行情戛然而止 —— 此前对加密货币持友好态度的特朗普重返白宫，推动投资者大举涌入这类加密代币，以及华尔街围绕其涌现的各类金融产品。本月以来，地缘政治紧张局势升级冲击全球金融市场、抑制风险投资行为，加密货币市场开始出现裂痕。这引发比特币自1月中旬起断崖式下跌，同时基金为应对赎回、平仓杠杆头寸而清算资产，进一步触发了自我强化的抛售循环。",
             "date_modified": "2026-02-05T18:41:59.000Z"
-        },
-        {
-            "id": 4666066,
-            "content_html": "",
-            "title": "德国总理默茨：我们与卡塔尔一样，对德黑兰局势深表关切。我呼吁伊朗领导人参与对话，停止核计划。",
-            "date_modified": "2026-02-05T18:35:11.000Z"
-        },
-        {
-            "id": 4666065,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8463711.d.html",
-            "title": "美国地质调查局：菲律宾迪纳加特岛以南 5 公里处发生 5.0 级地震。",
-            "date_modified": "2026-02-05T18:33:09.000Z"
-        },
-        {
-            "id": 4666064,
-            "content_html": "",
-            "title": "中国地震台网正式测定：02月06日02时06分在印尼爪哇岛南部海域（南纬8.95度，东经111.05度）发生5.7级地震，震源深度50千米。",
-            "date_modified": "2026-02-05T18:32:54.000Z"
-        },
-        {
-            "id": 4666063,
-            "content_html": "",
-            "title": "上期所原油期货夜盘收跌0.75%，报463.90元人民币/桶。沪金夜盘收跌1.48%，沪银收跌9.96%。",
-            "date_modified": "2026-02-05T18:30:02.000Z"
-        },
-        {
-            "id": 4666062,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8462978.d.html",
-            "title": "马斯克称太空探索技术公司（SpaceX）并未研发手机。",
-            "date_modified": "2026-02-05T18:29:25.000Z"
-        },
-        {
-            "id": 4666061,
-            "content_html": "",
-            "title": "伊朗方面表示：我们有责任不放过任何利用外交手段维护伊朗国家利益、确保地区和平与稳定的机会。",
-            "date_modified": "2026-02-05T18:28:17.000Z"
-        },
-        {
-            "id": 4666060,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8462688.d.html",
-            "title": "声明显示，伊朗的巴盖伊希望美方也能“以负责任、务实和严肃的态度”参与。",
-            "date_modified": "2026-02-05T18:27:56.000Z"
-        },
-        {
-            "id": 4666059,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1685360.d.html",
-            "title": "【伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书】总台记者当地时间2月5日晚获悉， 伊朗总统佩泽希齐扬当晚发布命令，任命海军少将阿里·沙姆哈尼（Ali Shamkhani）为伊朗国防委员会秘书。阿里·沙姆哈尼目前还担任伊朗最高领袖哈梅内伊的政治顾问。据了解，伊朗国防委员会于2025年8月3日正式成立，主要负责审查国防计划、提升伊朗武装部队的作战能力。该委员会由伊朗总统担任主席，并由伊朗武装部队以及一些相关部门的官员组成。（央视新闻）",
-            "date_modified": "2026-02-05T18:27:15.000Z"
-        },
-        {
-            "id": 4666058,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1685220.d.html",
-            "title": "【伦敦股市5日下跌】英国伦敦股市《金融时报》100种股票平均价格指数5日报收于10309.22点，较前一交易日下跌93.12点，跌幅为0.90%。欧洲三大股指当天全线下跌。当天伦敦股市成分股中位于涨幅前五位的个股分别为：伦敦证交所集团股价上涨5.80%，葛兰素史克公司股价上涨4.81%，软件公司赛奇股价上涨3.05%，市场征信服务商益博睿股价上涨2.95%，出版集团里德爱思唯尔股价上涨2.93%。当天伦敦股市成分股中位于跌幅前五位的个股分别为：嘉能可公司股价下跌7.03%，国民威斯敏斯特银行集团股价下跌6.02%，贵金属生产商弗雷斯尼洛股价下跌5.83%，劳埃德银行集团股价下跌5.58%，希克玛制药公司股价下跌4.90%。",
-            "date_modified": "2026-02-05T18:26:38.000Z"
-        },
-        {
-            "id": 4666057,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqt8462188.d.html",
-            "title": "伊朗外交部发言人：伊朗外长阿拉格齐前往阿曼马斯喀特，将与美国举行核谈判。",
-            "date_modified": "2026-02-05T18:25:40.000Z"
-        },
-        {
-            "id": 4666056,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqs1684790.d.html",
-            "title": "加拿大央行行长麦克勒姆：如果美联储政策变得更难预测，这将对我们所有人都产生影响。",
-            "date_modified": "2026-02-05T18:24:54.000Z"
-        },
-        {
-            "id": 4666055,
-            "content_html": "",
-            "title": "美国地质调查局：印度尼西亚特伦加莱克市西南偏南 105 公里处发生 5.8 级地震。",
-            "date_modified": "2026-02-05T18:24:45.000Z"
-        },
-        {
-            "id": 4666054,
-            "content_html": "",
-            "title": "加拿大央行行长麦克勒姆：在那种情况下，你会预期看到这对美国五年期国债利率产生一定影响。",
-            "date_modified": "2026-02-05T18:24:25.000Z"
-        },
-        {
-            "id": 4666053,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5435661.d.html",
-            "title": "加拿大央行行长麦克勒姆：美联储政策可预测性降低将对美国利率产生影响。",
-            "date_modified": "2026-02-05T18:23:54.000Z"
-        },
-        {
-            "id": 4666052,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5435631.d.html",
-            "title": "比特币跌幅扩大至10％。",
-            "date_modified": "2026-02-05T18:23:41.000Z"
-        },
-        {
-            "id": 4666051,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkveqv5435522.d.html",
-            "title": "唐宁街发言人：英国和美国将继续就查戈斯群岛空军基地协议的实施密切合作。",
-            "date_modified": "2026-02-05T18:22:58.000Z"
-        },
-        {
-            "id": 4666050,
-            "content_html": "",
-            "title": "唐宁街一位发言人表示，英国首相斯塔默与特朗普就达成协议以确保英美联军基地留在迪戈加西亚岛的重要性达成了共识，该基地对两国的共同安全利益仍至关重要。",
-            "date_modified": "2026-02-05T18:22:48.000Z"
-        },
-        {
-            "id": 4666049,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhu1815054.d.html",
-            "title": "加拿大央行行长麦克勒姆：期待与沃什合作。",
-            "date_modified": "2026-02-05T18:22:22.000Z"
-        },
-        {
-            "id": 4666048,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhu1815025.d.html",
-            "title": "加拿大央行行长麦克勒姆：沃什对金融市场和国际货币体系有深刻的了解。",
-            "date_modified": "2026-02-05T18:22:15.000Z"
-        },
-        {
-            "id": 4666047,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhv8591997.d.html",
-            "title": "加拿大央行行长对凯文·沃什被提名为美联储主席表示欢迎。",
-            "date_modified": "2026-02-05T18:21:13.000Z"
-        },
-        {
-            "id": 4666046,
-            "content_html": "",
-            "title": "加拿大央行行长：“我们不能因特朗普总统提出的每一项威胁而采取行动，否则我们将疲于奔命。”",
-            "date_modified": "2026-02-05T18:20:55.000Z"
-        },
-        {
-            "id": 4666045,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhv8591420.d.html",
-            "title": "比特币跌破66000美元，日内跌9.88%。",
-            "date_modified": "2026-02-05T18:18:15.000Z"
-        },
-        {
-            "id": 4666044,
-            "content_html": "",
-            "title": "特朗普：在我的执政期间，匈牙利与美国之间的关系达到了新的合作高度和显著成就，这在很大程度上要归功于欧尔班总理。我期待着继续与他密切合作，以便我们两国能够进一步推进这条通往成功与合作的伟大道路。",
-            "date_modified": "2026-02-05T18:17:47.000Z"
-        },
-        {
-            "id": 4666043,
-            "content_html": "",
-            "title": "周四（2月5日），美联储隔夜逆回购协议（RRP）使用规模为17.48亿美元（交易对手6家），上个交易日报24.14亿美元。",
-            "date_modified": "2026-02-05T18:16:32.000Z"
-        },
-        {
-            "id": 4666042,
-            "content_html": "",
-            "title": "加拿大央行行长麦克勒姆表示，人工智能带来的生产力提升意味着加拿大经济在不增加通胀压力的情况下可能实现更高增长。",
-            "date_modified": "2026-02-05T18:16:27.000Z"
-        },
-        {
-            "id": 4666041,
-            "content_html": "",
-            "title": "OpenAI首席执行官：GPT-5.3-Codex 正式发布！ 完成同等任务所需令牌量较 5.2-Codex 减少超一半，单令牌处理速度提升超 25%。",
-            "date_modified": "2026-02-05T18:16:05.000Z"
-        },
-        {
-            "id": 4666040,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhv8590360.d.html",
-            "title": "【乌谈判代表团团长发表乌美俄会谈成果公报：俄乌达成换俘协议】乌克兰谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫5日在其官方社交平台上发布了本轮乌美俄三方谈判成果公报。公报称，2月4日至5日，美国、乌克兰和俄罗斯代表团在阿联酋阿布扎比举行了第二次三方谈判，旨在推动结束俄乌冲突，讨论具有建设性，重点在于为实现持久和平创造条件。公报称，代表团达成了协议，根据协议，俄罗斯和乌克兰各自释放157名被俘人员，这是过去五个月来的首次交换。在为期两天的谈判中，代表团就其他未决问题进行了广泛讨论，包括实施停火的方法和监督停战行动。代表团同意向各自首都汇报，并在未来几周内继续三方谈判。（央视新闻）",
-            "date_modified": "2026-02-05T18:13:26.000Z"
-        },
-        {
-            "id": 4666039,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhz2666618.d.html",
-            "title": "德国地球科学研究中心（GFZ）：印度尼西亚爪哇岛以南发生6.05级地震。",
-            "date_modified": "2026-02-05T18:13:06.000Z"
-        },
-        {
-            "id": 4666038,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhv8590160.d.html",
-            "title": "摩根大通将礼来公司的目标股价从每股1150美元上调至1300美元。",
-            "date_modified": "2026-02-05T18:12:29.000Z"
-        },
-        {
-            "id": 4666037,
-            "content_html": "",
-            "title": "加拿大银行行长蒂夫·麦克勒姆表示，我们尚未真正看到加拿大企业开拓新市场，这无疑是我们正在期待的事情。",
-            "date_modified": "2026-02-05T18:12:21.000Z"
-        },
-        {
-            "id": 4666036,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhu1812575.d.html",
-            "title": "  墨西哥集团被责令叫停一条铁路线路的投资。",
-            "date_modified": "2026-02-05T18:10:54.000Z"
-        },
-        {
-            "id": 4666035,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhu1812210.d.html",
-            "title": "阿根廷外交部长表示，阿根廷与美国签署互惠贸易与投资协定。",
-            "date_modified": "2026-02-05T18:09:17.000Z"
-        },
-        {
-            "id": 4666034,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhv8589375.d.html",
-            "title": "FACTSET股价一度下跌10%。",
-            "date_modified": "2026-02-05T18:09:12.000Z"
-        },
-        {
-            "id": 4666033,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhx5563906.d.html",
-            "title": "  墨西哥相关机构称铁路行业缺乏有效竞争。",
-            "date_modified": "2026-02-05T18:08:40.000Z"
-        },
-        {
-            "id": 4666032,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhv8589069.d.html",
-            "title": "  墨西哥相关机构结束对铁路行业的初步审查。",
-            "date_modified": "2026-02-05T18:07:54.000Z"
-        },
-        {
-            "id": 4666031,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhu1811072.d.html",
-            "title": "市场消息：可口可乐公司董事长昆西出售337,824股公司股票。",
-            "date_modified": "2026-02-05T18:04:23.000Z"
-        },
-        {
-            "id": 4666030,
-            "content_html": "",
-            "title": "在政府发表有关美元购买的言论后，哥伦比亚比索收跌1.63%，至1美元兑3710比索。",
-            "date_modified": "2026-02-05T18:02:45.000Z"
-        },
-        {
-            "id": 4666029,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhz2664247.d.html",
-            "title": "特朗普：我在2022年支持维克托·欧尔班再次当选，很荣幸现在再次这么做。",
-            "date_modified": "2026-02-05T18:01:48.000Z"
-        },
-        {
-            "id": 4666028,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhz2664214.d.html",
-            "title": "OpenAI发布人工智能编程代理Codex新版本。",
-            "date_modified": "2026-02-05T18:01:42.000Z"
-        },
-        {
-            "id": 4666027,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhv8587318.d.html",
-            "title": "政府数据显示，巴西1月食糖出口量为202万吨，去年同期为206万吨。",
-            "date_modified": "2026-02-05T18:01:11.000Z"
-        },
-        {
-            "id": 4666026,
-            "content_html": "",
-            "title": "政府数据显示，巴西1月份纸浆出口量为190.6089万吨，去年同期为206.499万吨。",
-            "date_modified": "2026-02-05T18:01:07.000Z"
-        },
-        {
-            "id": 4666025,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-06/detail-inhkuyhv8587252.d.html",
-            "title": "【泽连斯基：下一次会谈很可能是在美国】泽连斯基：今天，我们的谈判团队提交了一份报告，内容是他们在阿联酋与美俄双方进行了两天的会谈。我希望基辅的团队能提交一份完整的报告：很多方面无法通过电话讨论。就我目前所知，下一次会谈计划在近期举行，很可能是在美国。",
-            "date_modified": "2026-02-05T18:01:00.000Z"
-        },
-        {
-            "id": 4666024,
-            "content_html": "",
-            "title": "政府数据显示，巴西1月份牛肉出口量为231,821吨，去年同期为180,300吨。",
-            "date_modified": "2026-02-05T18:00:38.000Z"
         }
     ]
 }

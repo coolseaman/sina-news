@@ -6,6 +6,557 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4698752,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7497984.d.html",
+            "title": "【朝鲜举行劳动党九大纪念阅兵式】据朝中社26日报道，朝鲜举行朝鲜劳动党第九次代表大会纪念阅兵式。 (新华社)",
+            "date_modified": "2026-02-25T22:32:25.000Z"
+        },
+        {
+            "id": 4698751,
+            "content_html": "",
+            "title": "国际货币基金组织（IMF）西半球事务主管奈杰尔·乔克表示，削减财政赤字将减少美国的经常账户赤字。",
+            "date_modified": "2026-02-25T22:29:59.000Z"
+        },
+        {
+            "id": 4698750,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4645088.d.html",
+            "title": "英伟达CEO黄仁勋：有信心在自主人工智能崛起的背景下，客户的现金流将实现增长。",
+            "date_modified": "2026-02-25T22:29:40.000Z"
+        },
+        {
+            "id": 4698749,
+            "content_html": "",
+            "title": "Salesforce首席执行官：已向Anthropic公司投资3.3亿美元，持股约1%。",
+            "date_modified": "2026-02-25T22:28:00.000Z"
+        },
+        {
+            "id": 4698748,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1746411.d.html",
+            "title": "英伟达CEO黄仁勋：对大客户现金流增长充满信心。",
+            "date_modified": "2026-02-25T22:27:02.000Z"
+        },
+        {
+            "id": 4698747,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7495886.d.html",
+            "title": " Salesforce首席执行官：旗下Slack每天处理10亿条信息。",
+            "date_modified": "2026-02-25T22:26:39.000Z"
+        },
+        {
+            "id": 4698746,
+            "content_html": "",
+            "title": "美国医疗保险和医疗补助服务中心（CMS）：相关举措包括推迟拨付明尼苏达州2.595亿美元的季度联邦医疗补助资金。",
+            "date_modified": "2026-02-25T22:26:06.000Z"
+        },
+        {
+            "id": 4698745,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0718291.d.html",
+            "title": "英伟达CEO黄仁勋：公司将利用格罗克（GROQ）的新技术拓展其产品线。",
+            "date_modified": "2026-02-25T22:25:39.000Z"
+        },
+        {
+            "id": 4698744,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7495396.d.html",
+            "title": "美国医疗保险和医疗补助服务中心（CMS）：明年可能推迟拨付超10亿美元联邦资金。",
+            "date_modified": "2026-02-25T22:25:22.000Z"
+        },
+        {
+            "id": 4698743,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0718140.d.html",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：美国商品通胀在一定程度上受到了关税的影响。",
+            "date_modified": "2026-02-25T22:25:16.000Z"
+        },
+        {
+            "id": 4698742,
+            "content_html": "",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：IMF相关研究在美国最高法院关税裁决之前就已完成。",
+            "date_modified": "2026-02-25T22:24:01.000Z"
+        },
+        {
+            "id": 4698741,
+            "content_html": "",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：我们并未就最高法院推翻特朗普部分关税的裁决发表意见。",
+            "date_modified": "2026-02-25T22:23:17.000Z"
+        },
+        {
+            "id": 4698740,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0717067.d.html",
+            "title": "英伟达：接近与OpenAI达成协议。",
+            "date_modified": "2026-02-25T22:22:38.000Z"
+        },
+        {
+            "id": 4698739,
+            "content_html": "",
+            "title": "国际货币基金组织总裁格奥尔基耶娃：要使美国公共债务走上下降轨道，需要采取坚决行动。",
+            "date_modified": "2026-02-25T22:19:53.000Z"
+        },
+        {
+            "id": 4698738,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0715808.d.html",
+            "title": "英伟达首席财务官：尖端芯片供应仍然紧张。",
+            "date_modified": "2026-02-25T22:19:37.000Z"
+        },
+        {
+            "id": 4698737,
+            "content_html": "",
+            "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：（如果）将美国联邦基金利率降至3.25%至3.5%，与美国经济恢复充分就业的情况相符。",
+            "date_modified": "2026-02-25T22:19:16.000Z"
+        },
+        {
+            "id": 4698736,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0715395.d.html",
+            "title": "英伟达首席财务官：自动驾驶出租车的兴起将推动更多计算需求。",
+            "date_modified": "2026-02-25T22:18:33.000Z"
+        },
+        {
+            "id": 4698735,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1743883.d.html",
+            "title": "市场资讯：日本金融厅计划减轻企业的公司治理合规负担。",
+            "date_modified": "2026-02-25T22:17:33.000Z"
+        },
+        {
+            "id": 4698734,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0714933.d.html",
+            "title": "派拉蒙首席执行官大卫·埃里森表示，“核心系列项目”将于2027年上线。",
+            "date_modified": "2026-02-25T22:17:15.000Z"
+        },
+        {
+            "id": 4698733,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0714786.d.html",
+            "title": "【黑客利用Anthropic的Claude窃取墨西哥海量政府数据】2月25日，以色列网络安全初创公司Gambit Security发布研究报告，一名黑客利用Anthropic公司的人工智能（AI）聊天机器人开展了一系列针对墨西哥政府机构的攻击，导致大量敏感的税务和选民信息被窃。据悉，这名身份不明的Claude用户编写了西班牙语提示词（Prompts），诱导聊天机器人扮演“精英黑客”的角色，从而寻找政府网络中的漏洞，编写利用这些漏洞的计算机脚本，确定了自动化窃取数据的方法。",
+            "date_modified": "2026-02-25T22:16:52.000Z"
+        },
+        {
+            "id": 4698732,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0714430.d.html",
+            "title": "英伟达首席财务官：自主智能系统催生了对扩大计算规模的迫切需求。",
+            "date_modified": "2026-02-25T22:15:51.000Z"
+        },
+        {
+            "id": 4698731,
+            "content_html": "",
+            "title": "美国纽约市表示，美国电话电报公司（AT&T）已就多元化提案相关诉讼与纽约市达成和解，并将把该提案纳入其委托投票文件。",
+            "date_modified": "2026-02-25T22:14:30.000Z"
+        },
+        {
+            "id": 4698729,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7490936.d.html",
+            "title": "英伟达CFO：网络业务在第四财季表现突出，纵向扩展和横向扩展技术需求创纪录。",
+            "date_modified": "2026-02-25T22:13:51.000Z"
+        },
+        {
+            "id": 4698728,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0713581.d.html",
+            "title": "【IMF预计2026年美国经济增长2.4%】IMF预计2026年美国经济增长2.4%，与1月《世界经济展望》预测一致。IMF称，受人口增长放缓影响，美国就业增速预计将不到疫情前水平的一半。美国核心PCE通胀将于2027年初达到2%。美联储政策公信力是极具价值的资产，应妥善维护，包括确保美联储货币政策决策保持独立。美国大幅财政调整及提高私人储蓄的政策，对降低经济脆弱性至关重要。关税向美国消费价格的传导可能低于预期，这将带来更前置的通货紧缩、经济活动更强，但贸易不确定性仍可能拖累经济表现。",
+            "date_modified": "2026-02-25T22:13:26.000Z"
+        },
+        {
+            "id": 4698727,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1742583.d.html",
+            "title": "美国副总统万斯：我们有证据显示，伊朗正试图重建核武器。",
+            "date_modified": "2026-02-25T22:10:57.000Z"
+        },
+        {
+            "id": 4698726,
+            "content_html": "",
+            "title": "智聘网（ZipRecruiter）：预计2026年招聘需求将遵循典型的季节性节奏，不过鉴于假期过后起点较低，招聘需求水平将较为低迷。",
+            "date_modified": "2026-02-25T22:10:27.000Z"
+        },
+        {
+            "id": 4698725,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7489555.d.html",
+            "title": "一名就社交媒体成瘾问题起诉Meta和YouTube的女子将在庭审中作证。",
+            "date_modified": "2026-02-25T22:10:00.000Z"
+        },
+        {
+            "id": 4698724,
+            "content_html": "",
+            "title": "英伟达首席财务官：Grace Blackwell系统在第四财季的数据中心营收中占比三分之二。",
+            "date_modified": "2026-02-25T22:09:32.000Z"
+        },
+        {
+            "id": 4698723,
+            "content_html": "",
+            "title": "根据美国证券交易委员会（SEC）文件披露， 科诺斯环球公司（KRONOS WORLDWIDE INC） 首席执行官詹姆斯·M·布赫将于2026年2月27日退休。",
+            "date_modified": "2026-02-25T22:09:22.000Z"
+        },
+        {
+            "id": 4698722,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0711709.d.html",
+            "title": "英伟达首席财务官：公司预计数据中心业务收入在2026年全年将实现环比增长。",
+            "date_modified": "2026-02-25T22:08:24.000Z"
+        },
+        {
+            "id": 4698720,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0711319.d.html",
+            "title": "美国副总统万斯谈古巴事件：听取了鲁比奥的简报，将由白宫处理。",
+            "date_modified": "2026-02-25T22:07:33.000Z"
+        },
+        {
+            "id": 4698719,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4639759.d.html",
+            "title": "C3.ai公司：计划将全球员工数量削减26%，该计划已基本完成。",
+            "date_modified": "2026-02-25T22:07:02.000Z"
+        },
+        {
+            "id": 4698718,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0710954.d.html",
+            "title": "美国副总统万斯：我们已给明尼苏达州州长60天时间做出回应。",
+            "date_modified": "2026-02-25T22:06:44.000Z"
+        },
+        {
+            "id": 4698717,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4639457.d.html",
+            "title": "英伟达首席财务官：自主式、实体人工智能应用开始推动财务业绩。",
+            "date_modified": "2026-02-25T22:05:52.000Z"
+        },
+        {
+            "id": 4698713,
+            "content_html": "",
+            "title": "【携程发布2025年Q4财报：国际OTA预订增60% 全年服务入境游客2000万人次】2月26日，携程集团（纳斯达克：TCOM；香港联交所：9961）公布2025年第四季度及全年未经审计财务业绩。财报显示，2025年全年国际OTA平台总预订同比增长约60%，全年服务入境旅客约2000万人次。 入境游成为强劲增长引擎。携程全年投入10亿元助力入境游生态建设，近7万家酒店、景点及旅行社首次从海外平台获取入境订单。平台推动超6000家景区首次面向国际市场开放，新增外籍可订票种6.3万个，国内头部景点95%票种已支持外籍预订。",
+            "date_modified": "2026-02-25T22:05:35.000Z"
+        },
+        {
+            "id": 4698712,
+            "content_html": "",
+            "title": "道富环球投资管理董事长戈尔茨坦买入130股特殊机会基金公司（Special Opportunities Fund Inc）股票。",
+            "date_modified": "2026-02-25T22:04:43.000Z"
+        },
+        {
+            "id": 4698711,
+            "content_html": "",
+            "title": "日本央行行长植田和男：政府和议会确保市场对日本中长期财政健康状况的信任至关重要。",
+            "date_modified": "2026-02-25T22:04:38.000Z"
+        },
+        {
+            "id": 4698709,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0709966.d.html",
+            "title": "携程集团：业务运营一切正常。",
+            "date_modified": "2026-02-25T22:04:29.000Z"
+        },
+        {
+            "id": 4698707,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4639013.d.html",
+            "title": "携程集团：第四季度营收154.3亿元人民币，同比+21%。",
+            "date_modified": "2026-02-25T22:04:17.000Z"
+        },
+        {
+            "id": 4698706,
+            "content_html": "",
+            "title": "日本央行行长植田和男：预计特朗普新关税措施不会对日本经济产生重大影响，但会密切关注事态发展。",
+            "date_modified": "2026-02-25T22:03:40.000Z"
+        },
+        {
+            "id": 4698705,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7486549.d.html",
+            "title": "日本央行行长植田和男：政府和议会确保市场对日本中长期财政健康状况的信任至关重要。",
+            "date_modified": "2026-02-25T22:03:13.000Z"
+        },
+        {
+            "id": 4698704,
+            "content_html": "",
+            "title": "日本央行行长植田和男：（当被问及市场上越来越多观点认为日本央行可能在4月加息时）日本央行将在3月和4月召开政策会议，届时将仔细研究可获取的信息并做出决策。",
+            "date_modified": "2026-02-25T22:02:23.000Z"
+        },
+        {
+            "id": 4698703,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7486203.d.html",
+            "title": "房地美：多户住宅贷款拖欠率从去年12月的0.44%降至今年1月的0.43%。",
+            "date_modified": "2026-02-25T22:02:18.000Z"
+        },
+        {
+            "id": 4698702,
+            "content_html": "",
+            "title": "据CME“美联储观察”：美联储3月维持利率不变的概率为98.0%，降息25个基点的概率为2%。",
+            "date_modified": "2026-02-25T22:01:41.000Z"
+        },
+        {
+            "id": 4698701,
+            "content_html": "",
+            "title": "日本央行行长植田和男：4月短观调查是重要的信息，但我们正在进行各种调查，所以并非一定要等到短观数据发布才能获得足够的数据。",
+            "date_modified": "2026-02-25T22:00:37.000Z"
+        },
+        {
+            "id": 4698699,
+            "content_html": "",
+            "title": "美国医疗保险和医疗补助服务中心主任奥兹：联邦政府将推迟向明尼苏达州支付2.59亿美元医疗补助计划（Medicaid）款项。",
+            "date_modified": "2026-02-25T22:00:21.000Z"
+        },
+        {
+            "id": 4698697,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4637733.d.html",
+            "title": "微软：搭载计算机使用能力的Copilot智能体可提供更多模型（更强范式）。",
+            "date_modified": "2026-02-25T21:59:06.000Z"
+        },
+        {
+            "id": 4698696,
+            "content_html": "",
+            "title": "日本央行行长植田和男：如果春季工资谈判的结果比预期更强劲，并促使企业迅速转嫁成本，那么我们有可能比预期更早实现物价目标。",
+            "date_modified": "2026-02-25T21:58:15.000Z"
+        },
+        {
+            "id": 4698695,
+            "content_html": "",
+            "title": "日本央行行长植田和男：与1月份相比，我们实现物价目标的预计时间没有变化，预计通胀将从当前的放缓态势中重新加速。",
+            "date_modified": "2026-02-25T21:58:06.000Z"
+        },
+        {
+            "id": 4698693,
+            "content_html": "",
+            "title": "日本央行行长植田和男：潜在通胀率尚未完全达到2%，将引导货币政策使潜在通胀率达到2%左右，且避免通胀率持续超过这一水平。",
+            "date_modified": "2026-02-25T21:56:26.000Z"
+        },
+        {
+            "id": 4698692,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0707018.d.html",
+            "title": "日本央行行长植田和男：我们认为在应对通胀过高风险方面并未落后于形势。",
+            "date_modified": "2026-02-25T21:56:17.000Z"
+        },
+        {
+            "id": 4698690,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7484110.d.html",
+            "title": "【英伟达第四季度营收超预期】英伟达第四季度营收681亿美元，环比增长20%，同比增长73%。2026财年全年营收2159亿美元，同比增长65%。GAAP与非GAAP毛利率分别为75.0%和75.2%。2026财年全年，GAAP与非GAAP毛利率分别为71.1%和71.3%。GAAP与非GAAP摊薄后每股收益分别为1.76美元和1.62美元。2026财年全年，GAAP与非GAAP摊薄后每股收益分别为4.90美元和4.77美元。2026财年期间，英伟达以股票回购+现金分红形式向股东返还411亿美元。截至第四季度末，公司仍有585亿美元股票回购额度未使用。",
+            "date_modified": "2026-02-25T21:55:58.000Z"
+        },
+        {
+            "id": 4698689,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0706693.d.html",
+            "title": "【冰岛预计于未来数月就是否启动加入欧盟程序举行公投】当地时间2月25日，冰岛总理克丽丝特伦·弗罗斯塔多蒂尔在波兰举行的新闻发布会上表示，冰岛将在未来数月内就是否启动加入欧盟程序举行公投。具体日期尚未确定，但将在几个月内进行。",
+            "date_modified": "2026-02-25T21:55:24.000Z"
+        },
+        {
+            "id": 4698687,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7483489.d.html",
+            "title": "【2月26日美股成交额前20：微软遭日本反垄断机构调查】周三美股成交额第3名微软收高2.98%，成交171.9亿美元。据报道，日本反垄断机构——日本公正交易委员会以涉嫌违反反垄断法为由，对微软日本分公司进行现场调查。该委员会认为，微软可能利用其在办公软件和操作系统领域的优势地位，在云服务市场展开不正当竞争。",
+            "date_modified": "2026-02-25T21:54:17.000Z"
+        },
+        {
+            "id": 4698686,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0706249.d.html",
+            "title": "派拉蒙天空舞：UFC赛事的广告需求强劲。",
+            "date_modified": "2026-02-25T21:54:13.000Z"
+        },
+        {
+            "id": 4698685,
+            "content_html": "",
+            "title": "日本央行行长植田和男：如果我们对经济和物价的预测更有可能成为现实，我们的基本立场是继续加息。",
+            "date_modified": "2026-02-25T21:53:55.000Z"
+        },
+        {
+            "id": 4698680,
+            "content_html": "",
+            "title": "英伟达：2026财年毛利率下降，受与H20库存过剩及采购义务相关的45亿美元费用影响。",
+            "date_modified": "2026-02-25T21:49:17.000Z"
+        },
+        {
+            "id": 4698679,
+            "content_html": "",
+            "title": "英伟达：根据新许可计划发货的任何H200产品，在进口到美国时将需缴纳25%的关税。",
+            "date_modified": "2026-02-25T21:49:02.000Z"
+        },
+        {
+            "id": 4698678,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1737514.d.html",
+            "title": "英伟达公司：截至目前，H200授权计划尚未产生任何收入。",
+            "date_modified": "2026-02-25T21:48:43.000Z"
+        },
+        {
+            "id": 4698677,
+            "content_html": "",
+            "title": "英伟达公司：2026年2月，美国政府授予公司一项许可，允许其向特定客户少量发货H200产品。",
+            "date_modified": "2026-02-25T21:48:26.000Z"
+        },
+        {
+            "id": 4698675,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1737379.d.html",
+            "title": "英伟达：2026财年资本支出为61亿美元。",
+            "date_modified": "2026-02-25T21:48:06.000Z"
+        },
+        {
+            "id": 4698674,
+            "content_html": "",
+            "title": "英伟达公司：目前我们的供应链主要集中在亚洲，但我们正在向美国和拉丁美洲拓展。",
+            "date_modified": "2026-02-25T21:47:29.000Z"
+        },
+        {
+            "id": 4698673,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4635045.d.html",
+            "title": "美国国务院：美国政府驻墨西哥工作人员的所有限制措施均已解除。",
+            "date_modified": "2026-02-25T21:46:31.000Z"
+        },
+        {
+            "id": 4698671,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0703215.d.html",
+            "title": "白宫经济顾问哈塞特就第二项协调法案中的减税政策表示：相关事宜正在讨论中。",
+            "date_modified": "2026-02-25T21:45:56.000Z"
+        },
+        {
+            "id": 4698668,
+            "content_html": "",
+            "title": "英伟达：正在敲定一项与OpenAI的投资及合作协议，但无法保证会与OpenAI达成协议。",
+            "date_modified": "2026-02-25T21:44:31.000Z"
+        },
+        {
+            "id": 4698667,
+            "content_html": "",
+            "title": "英伟达：预计2027财年的资本支出将较2026财年有所增加，以支持公司业务的未来增长。",
+            "date_modified": "2026-02-25T21:44:14.000Z"
+        },
+        {
+            "id": 4698663,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0701996.d.html",
+            "title": "白宫经济顾问哈塞特谈15%关税时间表：仍在推进中，尚未最终确定。",
+            "date_modified": "2026-02-25T21:42:21.000Z"
+        },
+        {
+            "id": 4698661,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1735777.d.html",
+            "title": "【美国拟有条件放松对古巴石油封锁】美国财政部外国资产控制办公室25日公布的一份解读指引显示，该机构将实施一项许可政策，允许把产自委内瑞拉的石油转售给古巴非政府部门。 负责执行美国对外经济制裁的外国资产控制办公室称，可能获得批准的交易必须用于“支持古巴民众、包括私营部门”，比如，用于古巴商业和人道主义用途的出口。这一许可政策不涵盖涉及与古巴军方或政府机构个人或实体的交易。",
+            "date_modified": "2026-02-25T21:41:13.000Z"
+        },
+        {
+            "id": 4698658,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1735520.d.html",
+            "title": "【塞纳河水位上涨】法国气象局23日发布公报说，该国自1月中旬以来已连续降雨40天，创下自1959年开展相关观测以来的“连续降雨天数”最多纪录。受此影响，塞纳河水位上涨。",
+            "date_modified": "2026-02-25T21:40:14.000Z"
+        },
+        {
+            "id": 4698656,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7478288.d.html",
+            "title": "Salesforce美股盘后股价跌幅扩大至5%。",
+            "date_modified": "2026-02-25T21:39:53.000Z"
+        },
+        {
+            "id": 4698655,
+            "content_html": "",
+            "title": "澳洲航空：悉尼至拉斯维加斯航班将于2026年12月29日起开始运营，运营至2027年3月12日。",
+            "date_modified": "2026-02-25T21:39:00.000Z"
+        },
+        {
+            "id": 4698654,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4633290.d.html",
+            "title": "谷歌：Intrinsic并入谷歌，以加速实体AI（物理AI）发展。",
+            "date_modified": "2026-02-25T21:38:51.000Z"
+        },
+        {
+            "id": 4698653,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7477764.d.html",
+            "title": "【英伟达预测第一季度销售额高于预期】芯片制造商英伟达周三预计第一季度营收将高于市场预期，在大规模人工智能投资受到广泛关注之际，该公司押注大科技公司在人工智能处理器上的支出将有增无减。该公司股价在盘后交易中上涨超过4%。",
+            "date_modified": "2026-02-25T21:38:28.000Z"
+        },
+        {
+            "id": 4698651,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0700044.d.html",
+            "title": "英伟达：数据中心营收由算力和人工智能需求加速驱动。",
+            "date_modified": "2026-02-25T21:37:09.000Z"
+        },
+        {
+            "id": 4698650,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7477073.d.html",
+            "title": "英伟达第一季度营收展望超出预期，股价盘后上涨4.1%。",
+            "date_modified": "2026-02-25T21:36:40.000Z"
+        },
+        {
+            "id": 4698649,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4632635.d.html",
+            "title": "英伟达首席财务官：由于渠道库存自然调整，第四季度游戏业务收入环比下降13%。",
+            "date_modified": "2026-02-25T21:36:18.000Z"
+        },
+        {
+            "id": 4698648,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7476835.d.html",
+            "title": "以太坊升破2100美元，日内涨13.81%。",
+            "date_modified": "2026-02-25T21:36:08.000Z"
+        },
+        {
+            "id": 4698647,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7476822.d.html",
+            "title": "【拉里·德沃埃·马尔克斯获任委内瑞拉代总检察长】在当地时间2月25日举行的例行会议上，委内瑞拉全国代表大会（议会）任命拉里·德沃埃·马尔克斯为代总检察长，并即刻接手该国公共检察机关的领导工作。当天早些时候，委内瑞拉全国代表大会（议会）主席豪尔赫·罗德里格斯表示，萨阿卜向议会递交辞呈，辞去总检察长职务。",
+            "date_modified": "2026-02-25T21:36:07.000Z"
+        },
+        {
+            "id": 4698646,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1734375.d.html",
+            "title": " 英伟达：第四季度游戏业务收入增长，由Blackwell芯片的强劲需求驱动。",
+            "date_modified": "2026-02-25T21:35:40.000Z"
+        },
+        {
+            "id": 4698645,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0699302.d.html",
+            "title": "英伟达：自ChatGPT出现以来，数据中心业务收入增长近13倍。",
+            "date_modified": "2026-02-25T21:35:18.000Z"
+        },
+        {
+            "id": 4698644,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0699161.d.html",
+            "title": "英伟达：第四季度数据中心业务中，超大规模云服务商收入占比略超50%。",
+            "date_modified": "2026-02-25T21:34:56.000Z"
+        },
+        {
+            "id": 4698643,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7476146.d.html",
+            "title": "英伟达：第四季度调整后每股收益为1.62美元，市场预估为1.53美元。",
+            "date_modified": "2026-02-25T21:34:21.000Z"
+        },
+        {
+            "id": 4698642,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatey1733995.d.html",
+            "title": "英伟达：预计第一季度销售额高于预期。",
+            "date_modified": "2026-02-25T21:34:08.000Z"
+        },
+        {
             "id": 4698641,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0698685.d.html",
@@ -120,554 +671,6 @@
             "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatew4627818.d.html",
             "title": "Zoom：第一季度调整后每股收益预期在1.40美元至1.42美元之间。",
             "date_modified": "2026-02-25T21:11:47.000Z"
-        },
-        {
-            "id": 4698611,
-            "content_html": "",
-            "title": "派拉蒙天舞：预计到2026年，派拉蒙+流媒体服务的潜在订阅用户将实现健康、加速的同比增长。",
-            "date_modified": "2026-02-25T21:11:35.000Z"
-        },
-        {
-            "id": 4698610,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0690682.d.html",
-            "title": "Zoom股价盘后下跌3%。",
-            "date_modified": "2026-02-25T21:11:23.000Z"
-        },
-        {
-            "id": 4698609,
-            "content_html": "",
-            "title": "Zoom：预计2027财年营收50.7亿-50.8亿美元，分析师预期50.3亿美元。",
-            "date_modified": "2026-02-25T21:10:40.000Z"
-        },
-        {
-            "id": 4698607,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0690335.d.html",
-            "title": "委内瑞拉议会任命拉里・德沃・马尔克斯为代理总检察长。",
-            "date_modified": "2026-02-25T21:10:23.000Z"
-        },
-        {
-            "id": 4698606,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0690132.d.html",
-            "title": "【伊朗外长抵达日内瓦 反驳美方“远程导弹”指认】伊朗外交部长阿拉格齐25日抵达瑞士日内瓦，准备次日与美国代表就伊朗核计划举行第三轮间接谈判。当天早些时候，阿拉格齐反驳了美方所谓伊朗正在研发能打到美国的远程导弹的说法。",
-            "date_modified": "2026-02-25T21:09:45.000Z"
-        },
-        {
-            "id": 4698605,
-            "content_html": "",
-            "title": "美国佛罗里达州总检察长乌特迈尔：已指示全州检察官办公室与联邦、州及执法部门合作伙伴共同开展对古巴船只事件的调查。",
-            "date_modified": "2026-02-25T21:08:27.000Z"
-        },
-        {
-            "id": 4698603,
-            "content_html": "",
-            "title": "Snowflake股价盘后上涨6%。该公司预计一季度产品营收12.6亿-12.7亿美元，分析师预期12.6亿美元。",
-            "date_modified": "2026-02-25T21:07:31.000Z"
-        },
-        {
-            "id": 4698602,
-            "content_html": "",
-            "title": "Circle Internet Group（CRCL）收涨35%，创去年6月5日以来最大单日涨幅。",
-            "date_modified": "2026-02-25T21:06:18.000Z"
-        },
-        {
-            "id": 4698601,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0688460.d.html",
-            "title": "  日本央行行长植田和男：将评估12月及此前加息所带来的影响。",
-            "date_modified": "2026-02-25T21:04:40.000Z"
-        },
-        {
-            "id": 4698600,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0688224.d.html",
-            "title": "Salesforce：第四季度调整后运营利润率34.2％。",
-            "date_modified": "2026-02-25T21:04:06.000Z"
-        },
-        {
-            "id": 4698599,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0687789.d.html",
-            "title": "Salesforce：预计季度营收高于预期。",
-            "date_modified": "2026-02-25T21:03:06.000Z"
-        },
-        {
-            "id": 4698598,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpateu7464960.d.html",
-            "title": "Salesforce：预计在2027财年下半年实现有机营收再度加速增长。",
-            "date_modified": "2026-02-25T21:02:59.000Z"
-        },
-        {
-            "id": 4698597,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0687682.d.html",
-            "title": "【塞尔维亚副总理兼内务部长达契奇病情危重 已入院治疗】总台记者当地时间2月25日晚获悉，塞尔维亚副总理兼内务部长达契奇因健康问题已入院接受治疗。初步信息显示，达契奇病情危重，已插管并使用呼吸机。（央视新闻）",
-            "date_modified": "2026-02-25T21:02:49.000Z"
-        },
-        {
-            "id": 4698596,
-            "content_html": "",
-            "title": "Salesforce盘后涨超4%。",
-            "date_modified": "2026-02-25T21:02:15.000Z"
-        },
-        {
-            "id": 4698595,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0687401.d.html",
-            "title": "Salesforce将股票回购授权额度提高至500亿美元。",
-            "date_modified": "2026-02-25T21:01:58.000Z"
-        },
-        {
-            "id": 4698594,
-            "content_html": "",
-            "title": "Salesforce预计第一季度营收110.3亿美元至110.8亿美元，预估109.9亿美元。",
-            "date_modified": "2026-02-25T21:01:34.000Z"
-        },
-        {
-            "id": 4698593,
-            "content_html": "",
-            "title": "芝加哥商品交易所集团（CME Group）股价下跌3.7%，创下2025年5月以来最大单日跌幅。",
-            "date_modified": "2026-02-25T21:01:08.000Z"
-        },
-        {
-            "id": 4698592,
-            "content_html": "",
-            "title": "美国联邦航空管理局发布指令，帮助飞行员应对有关波音737飞机飞行中出现过热情况的报告。",
-            "date_modified": "2026-02-25T21:00:44.000Z"
-        },
-        {
-            "id": 4698591,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0686816.d.html",
-            "title": "【美股三大股指收盘普涨】周三美股三大股指收盘普涨，道指涨0.64%，纳指涨1.26%，标普涨0.83%。英伟达涨超1%，苹果涨近1%，微软涨超2%，谷歌、亚马逊涨近1%，博通涨超2%，特斯拉涨超1%。",
-            "date_modified": "2026-02-25T21:00:17.000Z"
-        },
-        {
-            "id": 4698590,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0686726.d.html",
-            "title": "【纳斯达克中国金龙指数收跌0.47%】优品车跌8.05%，新东方跌5.29%，阿特斯跌5.08%，小牛电动跌3.49%，汽车之家跌3.06%。",
-            "date_modified": "2026-02-25T21:00:01.000Z"
-        },
-        {
-            "id": 4698589,
-            "content_html": "",
-            "title": "美国联邦贸易委员会（FTC）：相关条件包括不得将为年龄验证目的收集的信息用于任何其他用途，也不得披露此类信息。",
-            "date_modified": "2026-02-25T20:59:15.000Z"
-        },
-        {
-            "id": 4698588,
-            "content_html": "",
-            "title": "美国联邦贸易委员会（FTC）：如果网站运营方满足特定条件，将不会根据《儿童在线隐私保护法》（COPPA）规则对其采取执法行动。",
-            "date_modified": "2026-02-25T20:58:59.000Z"
-        },
-        {
-            "id": 4698587,
-            "content_html": "",
-            "title": "美国联邦贸易委员会（FTC）：发布《儿童在线隐私保护法》（COPPA）政策声明，以激励年龄验证技术发展。",
-            "date_modified": "2026-02-25T20:58:35.000Z"
-        },
-        {
-            "id": 4698585,
-            "content_html": "",
-            "title": "【美元指数25日下跌】美元指数25日下跌。衡量美元对六种主要货币的美元指数当天下跌0.15%，在汇市尾市收于97.700。截至纽约汇市尾市，1欧元兑换1.1805美元，高于前一交易日的1.1779美元；1英镑兑换1.3551美元，高于前一交易日的1.3502美元。1美元兑换156.44日元，高于前一交易日的155.78日元；1美元兑换0.7729瑞士法郎，低于前一交易日的0.7735瑞士法郎；1美元兑换1.3678加元，低于前一交易日的1.3704加元；1美元兑换9.0219瑞典克朗，低于前一交易日的9.0449瑞典克朗。",
-            "date_modified": "2026-02-25T20:53:14.000Z"
-        },
-        {
-            "id": 4698584,
-            "content_html": "",
-            "title": "迪士尼：从今日起，美国迪士尼+（Disney+）的订阅用户将能够观看美国广播公司（ABC）旗下电视台在八个本地市场的全天候直播节目。",
-            "date_modified": "2026-02-25T20:52:38.000Z"
-        },
-        {
-            "id": 4698583,
-            "content_html": "",
-            "title": "消息人士表示，对于原计划在农历新年前后发布的新模型，DeepSeek未向英伟达和AMD提供访问权限，以供芯片生产商进行性能优化，这一操作与大型模型发布前的行业常规做法相悖。",
-            "date_modified": "2026-02-25T20:50:52.000Z"
-        },
-        {
-            "id": 4698581,
-            "content_html": "",
-            "title": "埃德蒙·德·罗斯柴尔德集团：除管理层开展的工作和分析外，董事会已自行组织起来独立监测局势。",
-            "date_modified": "2026-02-25T20:49:15.000Z"
-        },
-        {
-            "id": 4698580,
-            "content_html": "",
-            "title": "埃德蒙·德·罗斯柴尔德集团：自美国司法部公布爱泼斯坦相关文件以来，公司董事会已采取措施保护其客户、员工和股东的利益。",
-            "date_modified": "2026-02-25T20:49:07.000Z"
-        },
-        {
-            "id": 4698578,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpatet0682848.d.html",
-            "title": "法国政府在能源法案的两次不信任投票中过关。",
-            "date_modified": "2026-02-25T20:48:16.000Z"
-        },
-        {
-            "id": 4698573,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0812403.d.html",
-            "title": "美国天然气价格因强劲的液化天然气出口流量及下周需求预期上升而上涨。",
-            "date_modified": "2026-02-25T20:44:29.000Z"
-        },
-        {
-            "id": 4698570,
-            "content_html": "",
-            "title": "瑞银将Axon Enterprise的目标股价从每股610.00美元下调至570.00美元。",
-            "date_modified": "2026-02-25T20:39:42.000Z"
-        },
-        {
-            "id": 4698568,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwy4753579.d.html",
-            "title": "瑞银维持对Axon Enterprise的“中性”评级。",
-            "date_modified": "2026-02-25T20:39:31.000Z"
-        },
-        {
-            "id": 4698567,
-            "content_html": "",
-            "title": "杰富瑞将达美乐披萨企业（Domino's Pizza Enterprises）的目标股价下调5%，至每股28.50澳元。",
-            "date_modified": "2026-02-25T20:39:03.000Z"
-        },
-        {
-            "id": 4698566,
-            "content_html": "",
-            "title": "道达尔能源旗下的法国电力集团（Engie）将以142亿美元收购英国电网公司（UK Power Networks）。",
-            "date_modified": "2026-02-25T20:35:08.000Z"
-        },
-        {
-            "id": 4698565,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwy4752754.d.html",
-            "title": "30年期美国国债收益率升至4.693%。",
-            "date_modified": "2026-02-25T20:34:34.000Z"
-        },
-        {
-            "id": 4698564,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7586361.d.html",
-            "title": "10年期美国国债收益率升至4.047%。",
-            "date_modified": "2026-02-25T20:34:22.000Z"
-        },
-        {
-            "id": 4698563,
-            "content_html": "",
-            "title": "市场资讯：尽管特朗普在国情咨文中做出承诺，但普通美国民众仍需为美国数据中心的建设热潮承担成本。",
-            "date_modified": "2026-02-25T20:34:15.000Z"
-        },
-        {
-            "id": 4698561,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0809062.d.html",
-            "title": "2年期美国国债收益率升至3.471%。",
-            "date_modified": "2026-02-25T20:34:08.000Z"
-        },
-        {
-            "id": 4698558,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7585875.d.html",
-            "title": "委内瑞拉国民议会称，总检察长塔雷克·萨博已向国民议会提交辞呈。",
-            "date_modified": "2026-02-25T20:32:49.000Z"
-        },
-        {
-            "id": 4698557,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0808641.d.html",
-            "title": "英伟达涨超2%，AMD跌超1.4%。",
-            "date_modified": "2026-02-25T20:32:44.000Z"
-        },
-        {
-            "id": 4698556,
-            "content_html": "",
-            "title": "北欧联合银行集团（Nordea Bank Abp）：将于2026年2月25日回购自身股票。",
-            "date_modified": "2026-02-25T20:31:13.000Z"
-        },
-        {
-            "id": 4698554,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwy4751524.d.html",
-            "title": "沙特阿拉伯将提供3.47亿美元用于缓解也门财政预算压力。",
-            "date_modified": "2026-02-25T20:26:18.000Z"
-        },
-        {
-            "id": 4698553,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwy4751523.d.html",
-            "title": "白宫经济顾问哈塞特详细解释了特朗普关于401 (k) 退休计划的两步方案。",
-            "date_modified": "2026-02-25T20:26:15.000Z"
-        },
-        {
-            "id": 4698552,
-            "content_html": "",
-            "title": "瑞银将家得宝（DJ Home Depot）的目标股价从每股430美元上调至450美元。",
-            "date_modified": "2026-02-25T20:26:05.000Z"
-        },
-        {
-            "id": 4698551,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanxa1853373.d.html",
-            "title": "瑞银维持对家得宝（Home Depot）股票的“买入”评级。",
-            "date_modified": "2026-02-25T20:25:58.000Z"
-        },
-        {
-            "id": 4698546,
-            "content_html": "",
-            "title": "白宫经济顾问哈塞特：特朗普将要求国会扩大储户配对储蓄计划（Saver's Match）的规模。",
-            "date_modified": "2026-02-25T20:24:28.000Z"
-        },
-        {
-            "id": 4698544,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7582965.d.html",
-            "title": "白宫经济顾问哈塞特：白宫将执行现行有关401 (k) 退休计划的法律。",
-            "date_modified": "2026-02-25T20:22:59.000Z"
-        },
-        {
-            "id": 4698542,
-            "content_html": "",
-            "title": "美国商品期货交易委员会在声明中表示，其有权监管预测市场中的非法交易行为。",
-            "date_modified": "2026-02-25T20:20:00.000Z"
-        },
-        {
-            "id": 4698541,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanxa1852530.d.html",
-            "title": "美国商品期货交易委员会在声明中表示，其有权监管预测市场中的非法交易行为。",
-            "date_modified": "2026-02-25T20:19:45.000Z"
-        },
-        {
-            "id": 4698539,
-            "content_html": "",
-            "title": "瑞银将普利莫里斯服务公司（DJ Primoris Services）的目标股价从每股165.00美元上调至176.00美元。",
-            "date_modified": "2026-02-25T20:19:18.000Z"
-        },
-        {
-            "id": 4698538,
-            "content_html": "",
-            "title": "委内瑞拉前总统马杜罗的律师称，美国财政部不会解除制裁，以允许委内瑞拉政府为马杜罗的刑事辩护提供资金。",
-            "date_modified": "2026-02-25T20:19:16.000Z"
-        },
-        {
-            "id": 4698537,
-            "content_html": "",
-            "title": "Blue Owl Capital Inc声明：“库瓦雷（Kuvare）的声明恰当地突出了库瓦雷与Blue Owl Capital Inc之间的完全独立性”。",
-            "date_modified": "2026-02-25T20:19:05.000Z"
-        },
-        {
-            "id": 4698536,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7581612.d.html",
-            "title": "【特朗普拟要求科技巨头签承诺 自行承担数据中心电力成本】美国总统特朗普下周将在白宫召集科技业高管签署承诺，保证其公司将承担高耗能数据中心的电力成本。一名白宫官员表示，来自亚马逊、Meta Platforms Inc.、微软以及谷歌母公司Alphabet在内的企业代表预计将出席3月4日与特朗普举行的活动。受邀名单还包括埃隆·马斯克旗下xAI、甲骨文以及OpenAI。尽管这些承诺将不具约束力，也缺乏法律效力，但政府官员认为，正式且公开的承诺有助于问责，并为担心数据中心快速扩张可能带来环境损害和电费上涨的消费者提供一定保证。",
-            "date_modified": "2026-02-25T20:18:40.000Z"
-        },
-        {
-            "id": 4698534,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0804212.d.html",
-            "title": "新西兰航空亏损幅度超出预期，启动战略评估。",
-            "date_modified": "2026-02-25T20:18:01.000Z"
-        },
-        {
-            "id": 4698532,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7580831.d.html",
-            "title": "美国众议员希门尼斯发表声明，要求对古方打死美籍快艇上4人事件展开调查。",
-            "date_modified": "2026-02-25T20:16:02.000Z"
-        },
-        {
-            "id": 4698527,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7579315.d.html",
-            "title": "Intrinsic公司将并入谷歌，以加速实体人工智能的未来发展。",
-            "date_modified": "2026-02-25T20:10:59.000Z"
-        },
-        {
-            "id": 4698526,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwy4749321.d.html",
-            "title": "美国商品期货交易委员会（CFTC）执法部门发布预测市场相关通告。",
-            "date_modified": "2026-02-25T20:10:05.000Z"
-        },
-        {
-            "id": 4698525,
-            "content_html": "",
-            "title": "美国参议院：以50票赞成、45票反对通过表决，确认行政日程第647号提名——约翰・德利尤出任国家运输安全委员会委员，任期至2026年12月31日。",
-            "date_modified": "2026-02-25T20:09:43.000Z"
-        },
-        {
-            "id": 4698524,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7578759.d.html",
-            "title": "美国众议员希门尼斯声称，古巴政府必须被扔进历史的垃圾堆。",
-            "date_modified": "2026-02-25T20:09:00.000Z"
-        },
-        {
-            "id": 4698523,
-            "content_html": "",
-            "title": "ForteLabs创始人Tiago Forte：Anthropic的创始人叫阿莫迪（Amodei），听着就像“敬爱神”？ 而他领导的公司叫Anthropic，本意是“以人为本”，结果却被用在军事打击里？ ChatGPT的创始人叫奥特曼（Altman），听着就像“人类的替代品”？ 他掌管的OpenAI，结果却完全封闭不开放？ 还有谷歌的Gemini，本意是“双子、双面”，出自一家曾经承诺“永不作恶”的公司？ 而整场全球人工智能军备竞赛，推手竟然是那群声称最担心AGI统治世界的人？ 要么是这个世界的编剧实在太俗套，要么就是它拥有绝顶的幽默感。",
-            "date_modified": "2026-02-25T20:08:36.000Z"
-        },
-        {
-            "id": 4698521,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanxa1850858.d.html",
-            "title": "【俄总统特别代表计划26日抵达日内瓦 与美代表团谈判】总台记者当地时间2月25日获悉，俄罗斯总统特别代表德米特里耶夫计划26日抵达瑞士日内瓦，同美国代表团进行谈判。（央视新闻）",
-            "date_modified": "2026-02-25T20:07:12.000Z"
-        },
-        {
-            "id": 4698517,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanxa1850467.d.html",
-            "title": "  美国航空：航站楼扩建将新增17个飞机登机口。",
-            "date_modified": "2026-02-25T20:04:36.000Z"
-        },
-        {
-            "id": 4698516,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwy4748123.d.html",
-            "title": " 美国航空：将向迈阿密航站楼扩建项目投资10亿美元。",
-            "date_modified": "2026-02-25T20:02:45.000Z"
-        },
-        {
-            "id": 4698513,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0798622.d.html",
-            "title": "【芝商所重启天然气期货交易 此前因技术故障短暂停盘】在因技术问题短暂停盘后，芝商所的主要天然气期货和期权合约已恢复交易。这是其约一个月内的第二次交易中断。芝商所称此次停盘持续约35分钟。当日正值3月美国天然气期货合约到期。该交易所Globex平台上的金属交易亦受到影响。芝商所表示，上述金属合约于美国中部时间下午1:45重开。1月27日，天然气期货创纪录飙升，芝商所旗下的纽约商业交易所在收盘时实施了非同寻常的2分钟交易暂停，导致结算价格出现偏差，令交易员感到困惑。竞争对手洲际交易所的天然气期货交易未受影响。MKS PAMP SA金属策略主管Nicky Shiels表示，在市场临近收盘时“突然冻结是个糟糕的时机。所有利用期货进行定价和对冲的人都会受到影响。”",
-            "date_modified": "2026-02-25T20:00:15.000Z"
-        },
-        {
-            "id": 4698512,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0798217.d.html",
-            "title": "美国航空：迈阿密机场D航站楼项目将于2027年动工。",
-            "date_modified": "2026-02-25T19:59:01.000Z"
-        },
-        {
-            "id": 4698511,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwy4747222.d.html",
-            "title": "【加拿大向古巴提供援助 “自主决策”未与美方磋商】加拿大外交部25日宣布，鉴于古巴当前形势，加拿大政府将拨款800万加元（约合584万美元），用于向古方提供紧急粮食和营养援助。 加拿大外交部长阿南德早些时候接受当地媒体采访时表示，这一决策属于加拿大“自主的对外政策”，她并未就此援助意向与美方进行讨论。",
-            "date_modified": "2026-02-25T19:58:30.000Z"
-        },
-        {
-            "id": 4698510,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanxa1849043.d.html",
-            "title": "美国联邦调查局突袭搜查洛杉矶联合学区办公室及学区总监住所。",
-            "date_modified": "2026-02-25T19:58:04.000Z"
-        },
-        {
-            "id": 4698509,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0797744.d.html",
-            "title": "芝加哥商品交易所（CME）出现故障后，黄金和白银期货交易已恢复。",
-            "date_modified": "2026-02-25T19:57:32.000Z"
-        },
-        {
-            "id": 4698508,
-            "content_html": "",
-            "title": "纽约商品交易所4月交割的西得州中质原油(WTI)期货价格下跌0.21美元，跌幅为0.32%，收于每桶65.42美元。",
-            "date_modified": "2026-02-25T19:55:56.000Z"
-        },
-        {
-            "id": 4698504,
-            "content_html": "",
-            "title": "芝商所（CME）已恢复金属期货交易，纽约期金现报5226美元/盎司，现货黄金报5206美元/盎司。",
-            "date_modified": "2026-02-25T19:52:47.000Z"
-        },
-        {
-            "id": 4698503,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanxa1847683.d.html",
-            "title": "【荷兰皇家航空：将暂停阿姆斯特丹至特拉维夫航班】总台记者当地时间25日获悉，荷兰皇家航空公司当天发布声明称，将自3月1日起暂停阿姆斯特丹至以色列特拉维夫航班。该公司表示，当前在商业和运营层面均不具备继续执行相关航班的条件。声明未进一步说明暂停航班的具体原因。（央视新闻）",
-            "date_modified": "2026-02-25T19:50:58.000Z"
-        },
-        {
-            "id": 4698502,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7571965.d.html",
-            "title": "  俄罗斯总统特使德米特里耶夫计划于周四抵达日内瓦，与美方进行谈判。",
-            "date_modified": "2026-02-25T19:48:52.000Z"
-        },
-        {
-            "id": 4698501,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0794270.d.html",
-            "title": "法国总理在有关能源计划的不信任投票中过关。",
-            "date_modified": "2026-02-25T19:47:38.000Z"
-        },
-        {
-            "id": 4698500,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanwv0792811.d.html",
-            "title": "布伦特原油期货结算价报每桶70.85美元，上涨8美分，涨幅0.11%。",
-            "date_modified": "2026-02-25T19:43:41.000Z"
-        },
-        {
-            "id": 4698499,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanxa1845748.d.html",
-            "title": "【约旦副首相与古特雷斯通电话 探讨合作及地区局势】约旦副首相兼外交与侨务大臣萨法迪25日同联合国秘书长古特雷斯通电话，双方就加强约旦与联合国及其机构合作进行了讨论，重点涉及推动对加沙地带的人道援助以及对难民的支持。",
-            "date_modified": "2026-02-25T19:41:59.000Z"
-        },
-        {
-            "id": 4698498,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7569418.d.html",
-            "title": "市场资讯：埃德蒙·德·罗斯柴尔德集团将调查首席执行官与爱泼斯坦的关联。",
-            "date_modified": "2026-02-25T19:41:43.000Z"
-        },
-        {
-            "id": 4698497,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7569347.d.html",
-            "title": "俄罗斯媒体报道称：下一轮俄乌问题三方会谈可能不在日内瓦举行。",
-            "date_modified": "2026-02-25T19:41:30.000Z"
-        },
-        {
-            "id": 4698496,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanxa1845323.d.html",
-            "title": "投票结果显示：法国政府在议会中挺过第二次不信任动议投票。",
-            "date_modified": "2026-02-25T19:39:38.000Z"
-        },
-        {
-            "id": 4698495,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7568617.d.html",
-            "title": "【美国议员要求英国就向苹果下达后门指令一事进行通报】美国众议院司法委员会主席吉姆・乔丹、外交委员会主席布莱恩・马斯特周三要求英国政府，就其向苹果公司下达指令、要求为用户加密数据开设后门一事向他们作出通报，以便更好地了解英方此举。两名议员去年曾警告称，此类指令可能导致用户加密数据被网络犯罪分子及威权政府利用。此前曾批评欧盟针对大型科技公司举措的乔丹与马斯特表示，公众应当知晓此事的事实真相。",
-            "date_modified": "2026-02-25T19:39:09.000Z"
-        },
-        {
-            "id": 4698494,
-            "content_html": "",
-            "title": "泽连斯基：在与特朗普通话后，乌克兰预计俄乌美三方将于3月举行的下一次三边会议将为推动会谈升至领导人层面创造机会；特朗普支持这一系列步骤。",
-            "date_modified": "2026-02-25T19:37:25.000Z"
-        },
-        {
-            "id": 4698493,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7567779.d.html",
-            "title": "美国议员希望英国就要求苹果公司开设后门一事进行情况通报。",
-            "date_modified": "2026-02-25T19:36:32.000Z"
-        },
-        {
-            "id": 4698492,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7567507.d.html",
-            "title": "美国法官驳回特朗普允许迅速将移民驱逐至其他替代国家的政策。",
-            "date_modified": "2026-02-25T19:35:42.000Z"
-        },
-        {
-            "id": 4698491,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-02-26/detail-inhpanww7567419.d.html",
-            "title": "新西兰航空：预计下半年盈利大致与上半年持平，或略低于上半年。",
-            "date_modified": "2026-02-25T19:35:25.000Z"
         }
     ]
 }

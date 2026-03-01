@@ -4,13 +4,535 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 01 Mar 2026 07:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 08:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【汇宇制药：修正2025年度业绩快报，确认公允价值变动收益为-1.73亿元】汇宇制药发布2025年度业绩快报更正公告，报告期内，公司被投资企业浙江同源康医药股份有限公司在香港交易所上市，公司直接持有的其股权在报告期内确认公允价值变动收益为-1.73亿元。除上述更正内容外，原公告其他内容不变，由此给投资者带来的不便，公司深表歉意，敬请广大投资者谅解。]]></title>
+            <guid>4707042</guid>
+            <pubDate>Sun, 01 Mar 2026 08:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息： 约旦的加油站遭到黑客攻击，导致全国各地的加油服务出现严重问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5497198.d.html</link>
+            <guid>4707041</guid>
+            <pubDate>Sun, 01 Mar 2026 08:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比利时称拦截了俄罗斯 “影子舰队” 油轮。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5496853.d.html</link>
+            <guid>4707040</guid>
+            <pubDate>Sun, 01 Mar 2026 08:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿曼海事安全中心：初步信息显示，20 名船员已撤离，4 人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6195374.d.html</link>
+            <guid>4707038</guid>
+            <pubDate>Sun, 01 Mar 2026 08:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哈里斯谈伊朗： 唐纳德·特朗普把我们拖入了一场美国人民不想要的战争。 国会必须立即采取行动。]]></title>
+            <guid>4707037</guid>
+            <pubDate>Sun, 01 Mar 2026 08:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿曼海事安全中心称，悬挂帕劳国旗的油轮“天窗号”（Skylight）在距阿曼穆桑达姆约5海里处遭到袭击。]]></title>
+            <guid>4707036</guid>
+            <pubDate>Sun, 01 Mar 2026 08:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及将每月提前购买3批液化天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5495594.d.html</link>
+            <guid>4707035</guid>
+            <pubDate>Sun, 01 Mar 2026 08:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔斯尼姆通讯社：伊朗警察情报负责人雷扎扬身亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5495294.d.html</link>
+            <guid>4707033</guid>
+            <pubDate>Sun, 01 Mar 2026 08:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋总统顾问对伊朗表示：你们的战争不是针对邻国的。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5494626.d.html</link>
+            <guid>4707032</guid>
+            <pubDate>Sun, 01 Mar 2026 08:23:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋总统顾问告诫伊朗：要理智行事。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5494458.d.html</link>
+            <guid>4707031</guid>
+            <pubDate>Sun, 01 Mar 2026 08:23:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特于周日（2 月 28 日）成功拦截伊朗发射的导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2271600.d.html</link>
+            <guid>4707030</guid>
+            <pubDate>Sun, 01 Mar 2026 08:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【艾迪药业：公司实际控制人之一、董事长傅和亮拟1000.00万元—1500.00万元增持股份】艾迪药业公告，公司实际控制人之一、董事长傅和亮拟自2026年3月2日起6个月内，通过上海证券交易所交易系统以集中竞价或大宗交易等方式增持公司A股股份，增持金额不低于人民币1000.00万元（含）且不超过人民币1500.00万元（含），资金来源为自有或自筹资金。]]></title>
+            <guid>4707029</guid>
+            <pubDate>Sun, 01 Mar 2026 08:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[警方称，巴基斯坦卡拉奇因伊朗最高领袖哈梅内伊去世相关事件引发抗议活动，至少9人死亡。]]></title>
+            <guid>4707028</guid>
+            <pubDate>Sun, 01 Mar 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门部署加强常态化防止返贫致贫就业帮扶】人力资源社会保障部、农业农村部近日召开视频会议，部署加强常态化防止返贫致贫就业帮扶，促进乡村全面振兴。“十四五”时期，是巩固拓展脱贫攻坚成果同乡村振兴有效衔接的过渡期，我国脱贫人口务工就业规模连续5年稳定在3000万人以上，守住了不发生规模性返贫致贫底线。今年是“十五五”开局之年，也是转入常态化精准帮扶的第一年，各地各部门将加快建立健全适应常态化帮扶的机制体系，坚持外出务工与就地就近就业双轮驱动，聚焦帮扶重点地区和重点群体，持续促进外出稳定就业，多渠道拓展县域就业空间，着力提高务工就业质量。同时，压实常态化就业帮扶工作责任，继续实行年度任务目标管理，加强部门协调，强化监测调度，确保不发生因失业导致规模性返贫致贫。（央视新闻）]]></title>
+            <guid>4707027</guid>
+            <pubDate>Sun, 01 Mar 2026 08:21:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗塔斯尼姆通讯社：德黑兰北部听到爆炸声。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2270333.d.html</link>
+            <guid>4707026</guid>
+            <pubDate>Sun, 01 Mar 2026 08:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方称，在过去一天里，空军进行了大规模打击行动，旨在开辟“通往德黑兰之路”。]]></title>
+            <guid>4707025</guid>
+            <pubDate>Sun, 01 Mar 2026 08:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特拉维夫再次响起空袭警报声。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2269017.d.html</link>
+            <guid>4707024</guid>
+            <pubDate>Sun, 01 Mar 2026 08:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军（IDF）：正在打击伊朗政权所属目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5491516.d.html</link>
+            <guid>4707023</guid>
+            <pubDate>Sun, 01 Mar 2026 08:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军开始对伊朗发动一系列空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2268502.d.html</link>
+            <guid>4707022</guid>
+            <pubDate>Sun, 01 Mar 2026 08:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据总台在伊朗记者消息，今天（3月1日），伊朗首都德黑兰发生爆炸。（CCTV国际时讯）]]></title>
+            <guid>4707021</guid>
+            <pubDate>Sun, 01 Mar 2026 08:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉：将Cybertruck双电机全轮驱动版售价提高至69,990美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6189944.d.html</link>
+            <guid>4707020</guid>
+            <pubDate>Sun, 01 Mar 2026 08:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【溢多利：子公司植酸酶产品获欧盟批准注册】溢多利公告称，公司全资子公司德国Victory Enzymes GmbH近日获欧盟委员会批准，其植酸酶产品可作为猪、家禽及部分鸟类饲料添加剂在欧盟市场使用，授权批准截止日期为2036年3月17日。此次获批丰富了公司在欧盟市场的产品矩阵，完善全球化布局，提升市场竞争力和品牌影响力。不过，产品未来销售情况存不确定性，投资者需注意风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2267442.d.html</link>
+            <guid>4707019</guid>
+            <pubDate>Sun, 01 Mar 2026 08:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【恒华科技：预中标6.30亿元风电EPC项目 最终中标尚存不确定性】恒华科技公告称，公司为“隆化县100MW风电项目设计采购施工总承包（EPC）”第一中标候选人，投标价格63,000.4994万元。项目规划风电装机容量100MW，工期296日历天。公示期为2026年2月28日 - 2026年3月3日。若中标并实施，将对公司未来业绩产生积极影响，但目前尚处公示阶段，最终能否中标存在不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5490182.d.html</link>
+            <guid>4707018</guid>
+            <pubDate>Sun, 01 Mar 2026 08:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中文在线：向香港联交所递交H股发行上市申请并刊发资料】中文在线公告称，公司于2026年2月27日向香港联交所递交发行境外上市股份（H股）并在香港联交所主板挂牌上市的申请，同日在香港联交所网站刊登申请资料。申请资料为草拟版本，可能更新修订。本次发行认购对象限于境外及境内合格投资者，公司不在境内刊登资料，提供香港联交所网站查询链接。本次发行并上市需获多部门批准，存在不确定性，公司将及时披露进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2267376.d.html</link>
+            <guid>4707017</guid>
+            <pubDate>Sun, 01 Mar 2026 08:14:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【永安药业：参股公司黄冈日化被全资子公司吸收合并完成】永安药业公告称，2025年11月，公司审议通过参股公司黄冈日化拟被其全资子公司天安日化吸收合并的议案。近日，天安日化、黄冈日化分别完成工商变更、注销登记手续，吸收合并完成。公司原对黄冈日化3000万元投资转变为对天安日化的投资，持股比例6.5217%不变。本次吸收合并有利于优化管理架构等，不会对公司财务状况、业务发展和盈利水平产生重大不利影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2267344.d.html</link>
+            <guid>4707016</guid>
+            <pubDate>Sun, 01 Mar 2026 08:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丽珠集团：多位董监高人员变动 刘大平任总裁】丽珠集团公告称，2月28日，陶德胜、徐国祥、司燕霞因退休，唐阳刚因工作调整，申请辞去相关职务，唐阳刚辞任后拟补选为副董事长。同日，公司董事会选举唐阳刚为副董事长，提名刘大平为执行董事候选人；聘任刘大平为总裁并担任公司授权代表，聘任陈志华、王胜分别为副总裁、财务负责人。截至公告披露日，陶德胜、徐国祥、唐阳刚、司燕霞分别持有733,800股、783,800股、344,963股、434,423股A股，刘大平、陈志华、王胜未持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9087630.d.html</link>
+            <guid>4707015</guid>
+            <pubDate>Sun, 01 Mar 2026 08:14:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特拉维夫多处建筑遭袭 相关区域实施严格管制】在2月28日伊朗方面宣布打击以色列后，记者在以色列特拉维夫看到，当地多处建筑在伊朗导弹袭击中受损。相关区域已实施严格管制，安保力量明显加强，人员出入受到限制。局势紧张态势仍在持续。目前以色列方面对于被伊朗导弹击中区域的拍摄管制仍然非常严格。记者在现场拍了差不多5分钟的时间，就立即有安全人员过来告知不允许拍摄。这种严格的信息管制也是以方为了应对冲突的紧急管制措施之一。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6189497.d.html</link>
+            <guid>4707014</guid>
+            <pubDate>Sun, 01 Mar 2026 08:14:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列国防军：伊朗最高领袖在以色列空军实施的大规模行动中被击毙】以色列国防军：伊朗最高领袖在以色列空军实施的大规模行动中被击毙。该行动基于以色列国防军准确的情报指导，当时他（哈梅内伊）正在德黑兰市中心的核心领导层建筑内，与多名其他高级官员在一起。此次清除行动，是以色列国防军在战争期间对恐怖轴心高级成员实施的一系列清除行动之一。哈梅内伊被清除，体现了以色列国防军与以色列国公民之间的承诺——打击并挫败任何企图在任何时间、任何地点伤害以色列的人。自1989年起担任伊朗恐怖政权最高领袖，哈梅内伊宣扬针对以色列国及整个西方世界的极端主义意识形态。他是企图摧毁以色列计划的策划者，被称为“伊朗章鱼之首”，其触角延伸至整个中东地区，直至以色列国边境。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9087545.d.html</link>
+            <guid>4707013</guid>
+            <pubDate>Sun, 01 Mar 2026 08:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【红棉股份：董事长郑坚雄因到法定退休年龄辞职】红棉股份公告，董事长郑坚雄因到达法定退休年龄，向公司董事会递交辞职报告，辞去公司第十一届董事会董事、董事长、董事会战略委员会委员、薪酬与考核委员会委员及提名委员会委员职务，同时不再担任公司法定代表人职务，辞职后不再担任公司或子公司任何职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9087420.d.html</link>
+            <guid>4707012</guid>
+            <pubDate>Sun, 01 Mar 2026 08:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东鹏饮料：部分行使超额配售权，稳定价格期间结束】东鹏饮料公告称，2026年公司同意整体协调人部分行使超额配售权，涉及3,865,800股H股，占全球发售初步可供认购发售股份总数的约9.45％，额外募集资金净额约9.49亿港元。本次发行有关全球发售的稳定价格期间于2月28日结束，稳定价格操作人在稳定价格期内采取了一系列行动，包括国际发售中超额配售、市场买入H股等。整体协调人尚未行使的超额配售权部分于2月28日失效，部分行使超额配售权及稳定价格期结束后，公司将继续遵守公众持股量规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2266893.d.html</link>
+            <guid>4707011</guid>
+            <pubDate>Sun, 01 Mar 2026 08:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乐普医疗：MWX401注射液获药物临床试验批准通知书】乐普医疗公告称，公司控股子公司上海民为生物技术有限公司收到国家药监局核准签发的《药物临床试验批准通知书》，其申报的MWX401注射液（化学药品1类）临床试验申请获批，适应症为治疗原发性高血压。该注射液是民为生物自主研发的小干扰RNA药物，拥有全球知识产权，非临床研究显示其降压效果良好且安全性佳。不过，该在研项目处于早期，后续临床试验、审评审批等存在不确定性，公司将推进研发并及时披露进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2266187.d.html</link>
+            <guid>4707010</guid>
+            <pubDate>Sun, 01 Mar 2026 08:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【康弘药业：八个药品入选国家集采药品接续采购名单】康弘药业公告称，公司参加国家组织集采药品协议期满品种接续采购投标工作，枸橼酸莫沙必利片、右佐匹克隆片等八个产品入选中选结果表和供应清单。此次集采于2026年3月实施，至2028年12月31日结束。其中，富马酸喹硫平片、玻璃酸钠滴眼液系首次参加集采接续工作，将丰富公司产品线。不过，产品采购合同签订及市场销售执行情况尚不确定，公司将跟进并及时披露。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9086334.d.html</link>
+            <guid>4707009</guid>
+            <pubDate>Sun, 01 Mar 2026 08:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【狮头股份：因财务资料过期，上交所中止审核公司重大资产重组】狮头股份3月1日公告，公司因发行股份及支付现金购买资产并募集配套资金暨关联交易事项所引用的经审计财务数据于2026年2月28日超过有效期限，已收到上海证券交易所中止审核的通知。公司表示，将进行加期审计并更新材料，待完成后申请恢复审核，本次中止审核不会对本次交易产生重大不利影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9086157.d.html</link>
+            <guid>4707008</guid>
+            <pubDate>Sun, 01 Mar 2026 08:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：该行动基于以色列国防军准确的情报指导，当时他（哈梅内伊）正在德黑兰市中心的核心领导层建筑内，与多名其他高级官员在一起。]]></title>
+            <guid>4707007</guid>
+            <pubDate>Sun, 01 Mar 2026 08:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌官员称俄方已同意美向乌提供的安全保障条款】乌克兰总统办公室主任、乌克兰谈判代表团成员布达诺夫在与记者交谈时表示，俄罗斯同意了美国向乌克兰提供的安全保障条款。他表示，俄方在过去的谈判中明确表示，俄罗斯方面赞成美国向乌克兰提供的安全保障。此外他表示，在领土问题上，各方都处于寻求“妥协”的阶段。俄罗斯方面尚未证实此消息。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2265398.d.html</link>
+            <guid>4707006</guid>
+            <pubDate>Sun, 01 Mar 2026 08:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方：伊朗最高领导人在以色列空军实施的大规模行动中被击毙。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5488106.d.html</link>
+            <guid>4707005</guid>
+            <pubDate>Sun, 01 Mar 2026 08:09:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国天楹：吉林辽源氢基能源一期项目计划6月底完成建设，三季度末调试出产品】3月1日，中国天楹在投资者关系活动中表示，吉林辽源氢基能源一体化标杆项目一期总体计划2026年6月底完成全部建设，7、8月份分步调试，三季度末调试出产品；目前中央集控室已基本建成，设备厂房电气设备全部到位，98台风机计划6月底完成安装，二氧化碳及氢气压缩机已全部到位，已收储秸秆约5万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5487477.d.html</link>
+            <guid>4707004</guid>
+            <pubDate>Sun, 01 Mar 2026 08:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杭州银行：张精科行长任职资格获监管核准】杭州银行(600926)3月1日公告，公司收到《国家金融监督管理总局浙江监管局关于张精科杭州银行行长任职资格的批复》，国家金融监督管理总局浙江监管局已核准张精科公司行长的任职资格。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9084375.d.html</link>
+            <guid>4707003</guid>
+            <pubDate>Sun, 01 Mar 2026 08:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及证券交易所消息：埃及主要指数早盘下跌5.44%。]]></title>
+            <guid>4707002</guid>
+            <pubDate>Sun, 01 Mar 2026 08:02:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《深圳经济特区河套深港科技创新合作区深圳园区条例》正式施行】2026年3月1日，《深圳经济特区河套深港科技创新合作区深圳园区条例》（以下简称《条例》）正式施行。《条例》于2025年12月26日经深圳市七届人大常委会第四十二次会议表决通过，是深圳运用经济特区立法权，将国家发展规划“施工图”转化为园区“法治说明书”的关键举措。针对深港协同创新机制、创新要素跨境流动等方面的堵点，《条例》共分八章六十四条，从人员、货物、资金、数据跨境监管等方面，推出一批突破性、引领性制度安排，为建设国际领先的科研枢纽提供坚实法治支撑。根据《条例》，河套深圳园区建立产业、机构、人员、货物等清单管理制度，实施“一线放开、二线管住、区内自由”的特殊监管体系。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5485271.d.html</link>
+            <guid>4707000</guid>
+            <pubDate>Sun, 01 Mar 2026 08:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗军方称对多处美军基地发动袭击】总台记者获悉，当地时间3月1日上午，伊朗空军战机分阶段对位于海湾国家以及伊拉克库尔德自治区的美军基地发动袭击。伊朗军方称，地区内所有敌方军事中心都在其空军战机的打击范围之内。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2261717.d.html</link>
+            <guid>4706999</guid>
+            <pubDate>Sun, 01 Mar 2026 07:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗发射弹道导弹后，约旦河谷地区拉响警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6184293.d.html</link>
+            <guid>4706998</guid>
+            <pubDate>Sun, 01 Mar 2026 07:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗贾姆卡兰清真寺的圆顶上升起了一面红旗。 伊朗官方媒体称，这面旗帜象征着为伊朗最高领袖兼总司令的鲜血复仇。]]></title>
+            <guid>4706996</guid>
+            <pubDate>Sun, 01 Mar 2026 07:57:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗伊斯兰革命卫队称摧毁美军MQ-9无人机】当地时间3月1日，伊朗伊斯兰革命卫队公共关系部宣布，革命卫队防空系统在伊朗南部地区，利用一体化防空网络控制下的防御系统，锁定并摧毁了一架美国军队的MQ-9无人机。MQ-9是首款专为高空长期监视而设计的攻击型无人机。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9081750.d.html</link>
+            <guid>4706995</guid>
+            <pubDate>Sun, 01 Mar 2026 07:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱立信宣布参与OCUDU生态系统基金会，以推动开放、安全且灵活的网络创新。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2259561.d.html</link>
+            <guid>4706994</guid>
+            <pubDate>Sun, 01 Mar 2026 07:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极氪2月同比增长70%】2月，极氪新车销量23,867辆，实现同环比双增长，同比增70%。9系豪华双旗舰9X、009累计销量近10万辆，据悉，随着供应链产能持续扩增，9X的Hyper版交付周期有望缩短至14周以内。极氪8X计划于今年二季度上市，市场普遍预计起售价43万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9080268.d.html</link>
+            <guid>4706993</guid>
+            <pubDate>Sun, 01 Mar 2026 07:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据阿曼国家通讯社：杜库姆港遭袭击，一名外籍工人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5482022.d.html</link>
+            <guid>4706992</guid>
+            <pubDate>Sun, 01 Mar 2026 07:50:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[政府数据显示，巴林1月消费者物价指数（CPI）同比上涨1.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5481625.d.html</link>
+            <guid>4706991</guid>
+            <pubDate>Sun, 01 Mar 2026 07:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[两名消息人士称，欧佩克+（OPEC+）周日可能会考虑将石油日产量提高超过13.7万桶。]]></title>
+            <guid>4706990</guid>
+            <pubDate>Sun, 01 Mar 2026 07:49:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：阿曼杜库姆商业港遭两架无人机袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2258563.d.html</link>
+            <guid>4706989</guid>
+            <pubDate>Sun, 01 Mar 2026 07:48:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗侨领：有序组织在伊同胞迅速撤离，保障安全和物资供应】近日，美国、以色列悍然对伊朗境内发动军事打击，导致地区局势骤然升级。伊朗多家媒体3月1日证实，伊朗最高领袖哈梅内伊在此次袭击中身亡。重庆市侨联海外顾问、伊朗华侨华人联合会执行会长马正华接受记者采访时表示，在征得中国驻伊朗大使馆同意后，华联会正在有序组织在伊同胞迅速撤离。“美国和以色列对伊朗发动联合军事打击后，伊朗华侨华人联合会第一时间与中国驻伊朗大使馆取得联系”，马正华表示，“鉴于当时局势尚未明朗，华联会第一时间告知当地华人华侨同胞就地避险，等待后续通知。2月28日晚些时候，在征得使馆的同意以后，我们就成立了临时的工作组”。马正华说，基于完善的信息台账，工作组在28日逐一与在伊同胞电话确认撤离意愿，“一部分同胞计划自行撤离，另一部分则需要华联会组织撤离”。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2257393.d.html</link>
+            <guid>4706988</guid>
+            <pubDate>Sun, 01 Mar 2026 07:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场分析：伊朗危机恐引发2022年以来最严重的天然气市场动荡】据报道，中东冲突的蔓延看来将在天然气市场引发自四年前俄乌冲突搅乱全球贸易以来最严重的供应中断。伊朗的邻国，如卡塔尔，是全球最重要的天然气生产国之一，该地区同时也是至关重要的供应通道，全球20%的液化天然气出口需经过霍尔木兹海峡这一能源运输的关键咽喉要道。船舶追踪数据显示，目前通过这条狭窄水道的液化天然气贸易已基本停滞。交易商透露，亚洲买家（其约四分之一的液化天然气购自全球第二大出口国卡塔尔）正纷纷联系供应商，询问是否有替代货源可用。与此同时，在供应商以色列关闭部分气田后，埃及正试图提前接收天然气运输。“霍尔木兹海峡的任何海军行动都将显著推高气价，卡塔尔液化天然气生产的任何动向也是如此，”伍德麦肯兹公司欧洲液化天然气及天然气业务总监汤姆·马泽克-曼瑟表示。冲突可能推高价格，印度、日本等地的交易商正为成本上涨做准备，而由于与原油基准挂钩，长期液化天然气合同也可能变得更加昂贵。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5479860.d.html</link>
+            <guid>4706987</guid>
+            <pubDate>Sun, 01 Mar 2026 07:45:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊朗击落美国MQ-“死神”无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2256490.d.html</link>
+            <guid>4706986</guid>
+            <pubDate>Sun, 01 Mar 2026 07:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗国防部称，伊朗向阿联酋发射了137枚导弹和209架无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5479079.d.html</link>
+            <guid>4706985</guid>
+            <pubDate>Sun, 01 Mar 2026 07:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国驻阿曼大使馆指示工作人员就地避险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5478792.d.html</link>
+            <guid>4706984</guid>
+            <pubDate>Sun, 01 Mar 2026 07:42:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海浦东机场多架航班已返航！中东机场改签排队数百米，中国旅客发声】当地时间2月28日美国、以色列对伊朗发动军事打击，地区局势瞬间紧张，中东多国紧急宜布关闭全部或部分领空，全球民航上演一场“紧急大避让”。 据了解，为保障飞行安全，包括以色列、伊朗、伊拉克、卡塔尔、科威特、巴林在内的多个国家已相继宣布关闭全部或部分领空，上海也有多架飞往中东的航班受到影响。昨晚（2月28日）国内航司白天出发前往中东地区的航班已相继返航，今天（3月1日）凌晨1点由上海飞往迪拜的东航MU265航班顺利返回上海浦东国际机场。有不少返航旅客表示，虽然行程取消了，但是还是很庆幸，安全最重要。 由于航班取消，还有部分旅客滞留在了中东地区的机场。比如，作为“世界中转站”的迪拜机场情况就不容乐观。根据中国旅客反映，滞留旅客退改签的队伍长达数百米，而航司客服电话也难打通。（看看新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6178728.d.html</link>
+            <guid>4706983</guid>
+            <pubDate>Sun, 01 Mar 2026 07:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗和美国代表在联合国安理会紧急会议上言辞交锋】当地时间2月28日下午，北京时间3月1日清晨，联合国安理会就伊朗局势召开紧急会议，伊朗和美国代表在会议上言辞交锋。伊朗常驻联合国代表伊拉瓦尼谴责美国和以色列的蓄意侵略已造成数百名平民伤亡，指控美国和以色列犯下战争罪和反人类罪。美国常驻联合国代表华尔兹则反驳称，伊朗的威胁性活动直接危及美国及其合作伙伴和盟友的利益，美国和以色列行动符合《联合国宪章》。在会上，伊拉瓦尼要求美国代表对伊朗“保持礼貌”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5478290.d.html</link>
+            <guid>4706982</guid>
+            <pubDate>Sun, 01 Mar 2026 07:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法规：印尼新棕榈油征税税率3月1日起生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2255332.d.html</link>
+            <guid>4706981</guid>
+            <pubDate>Sun, 01 Mar 2026 07:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天成自控：子公司获某合资车企乘用车座椅总成项目定点】天成自控公告称，其全资子公司武汉天成自控汽车座椅有限公司近日收到某全球知名合资汽车企业乘用车座椅总成项目的定点通知，被确定为该项目定点供应商。项目预计2026年12月开始量产，周期内配套乘用车总量待明确。该项目标志客户对公司能力的认可，有利于巩固其在乘用车领域影响力，但定点不构成实质性订单，项目开展存在不确定性，预计对未来业绩产生积极影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2254911.d.html</link>
+            <guid>4706980</guid>
+            <pubDate>Sun, 01 Mar 2026 07:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼精炼产品出口税为毛棕榈油参考价格的7.25% - 12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9075947.d.html</link>
+            <guid>4706979</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中源协和：子公司获人基因突变检测试剂盒医疗器械注册证】中源协和公告称，公司控股子公司中源维康（天津）医学检验所有限公司近日获国家药监局颁发的《中华人民共和国医疗器械注册证》，产品为人 EGFR/KRAS/BRAF/ERBB2/PIK3CA 基因突变检测试剂盒（飞行时间质谱法），注册分类为 III 类，有效期 5 年。该产品获批丰富了公司相关产品线，增强了综合竞争力，但实际销售情况取决于市场推广，无法预测对未来业绩的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6177802.d.html</link>
+            <guid>4706978</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新赛股份：持股5%以上股东减持股份至5%】新赛股份公告称，2月27日，金石期货代表兵投1号通过大宗交易方式减持公司无限售条件流通股1037.88万股，占公司总股本的1.79%。其持有公司股份从3944.7731万股减至2906.8931万股，占比由6.79%降至5%。本次减持不触及要约收购，不会导致控股股东、实控人变化，也不损害公司及股东利益，且未违反相关规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5477551.d.html</link>
+            <guid>4706977</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福龙马：2月预中标6个环卫项目 合同总额4555.67万元】福龙马公告称，2月预中标福建省、天津市、内蒙古自治区的6个环卫服务项目，首年服务费金额1961.15万元，占2024年度经审计营收的0.39%，合同总金额4555.67万元，将对2026年及以后业绩产生积极影响。截至公告披露日，公司在履行的环卫服务项目年化合同金额39.68亿元，合同总金额327.97亿元。因项目尚未全签正式合同，具体以最终合同为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2254734.d.html</link>
+            <guid>4706976</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赤峰黄金：聘任冯涛为公司副总裁兼总工程师】赤峰黄金公告称，公司于2026年召开第九届董事会第三次会议，审议通过聘任冯涛为公司副总裁兼总工程师，任期至第九届董事会任期届满。截至公告披露日，冯涛未持有公司股份，与公司董监高、实控人及持股5%以上股东无关联关系，任职资格符合要求。冯涛有20多年地质勘查与国际矿业技术管理经验，曾在多家国际知名矿业公司任职。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5477477.d.html</link>
+            <guid>4706975</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小商品城：聘任王正超为公司副总经理】小商品城公告称，公司于2026年2月28日召开第十届董事会第二次会议，审议通过聘任王正超为公司副总经理，任期自董事会通过之日起至本届董事会届满。王正超1986年2月出生，因股权激励持有公司股票3000股，与公司5%以上股东、实际控制人及其他董高人员无关联关系，无违规及失信记录。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2254648.d.html</link>
+            <guid>4706974</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【剑桥科技：附属公司订立9年9个月租赁协议 涉资6378.55万元】剑桥科技公告称，2月27日交易时段后，公司附属公司浙江剑桥通信设备有限公司与嘉善县中新产业发展投资有限公司订立租赁协议，租赁期限自2026年4月1日至2035年12月31日，为期9年9个月。租赁物业位于嘉善魏塘街道，建筑面积88,815.11平方米，用途为工业/办公/仓储。本集团将确认使用权资产价值约6378.55万元，此交易构成公司一次性关联交易，须遵守申报及公告规定，豁免独立股东批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2254568.d.html</link>
+            <guid>4706973</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华夏幸福：公开招募重整投资人并提示多项风险】华夏幸福公告称，廊坊中院已受理公司预重整并指定临时管理人，现临时管理人决定公开招募意向重整投资人，旨在推进预重整及重整工作。公司预计2025年净亏损160-240亿元，年末净资产为-100- -150亿元，股票可能被实施退市风险警示。公司预重整、进入重整程序均存在重大不确定性，若重整失败，股票将面临被终止上市的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2254492.d.html</link>
+            <guid>4706972</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【启迪环境：股价异常波动 2025年末净资产或为负存退市风险】启迪环境公告称，公司股票2月25日至27日连续3个交易日收盘价格涨幅偏离值累计超20%，属异常波动。经核实，公司前期信息无需更正补充，未发现影响股价的未公开重大信息，经营环境未变，大股东及董高人员在异常波动期间无买卖股票情形。公司预计2025年度期末归属于母公司净资产可能为负值，若经审计为负，股票交易可能在披露年报后被实施退市风险警示。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5477217.d.html</link>
+            <guid>4706971</guid>
+            <pubDate>Sun, 01 Mar 2026 07:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中钨高新：股票交易异常波动 提醒投资者注意风险】中钨高新公告称，公司股票于2026年2月25 - 27日连续三个交易日内日收盘价格涨幅偏离值累计超20%，属异常波动。经核查，公司前期信息无需更正补充，未发现未披露重大信息，经营正常，控股股东及实控人无买卖公司股票情况。截至2月27日，公司股价年初至今涨幅138.98%，滚动市盈率95.55，高于行业水平，存在回调风险。公司提醒投资者注意交易风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2254404.d.html</link>
+            <guid>4706970</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盛视科技：取得“上锁解锁监测及控制方法”发明专利授权通知】盛视科技公告称，公司近日收到国家知识产权局下发的《授予发明专利权通知书》，发明创造名称为“上锁解锁监测及控制方法以及电子锁系统”，专利号为202310621571.6。该发明基于检测电子锁内采样电压监测锁绳状态，实现锁具可监、可控、可追溯，可应用于多场景。该专利为公司自主研发，将巩固公司在相关领域优势，完善知识产权保护体系，公司将按要求办理登记手续。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2254357.d.html</link>
+            <guid>4706969</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法规显示：印尼将毛棕榈油出口税从参考价格的10%上调至12.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5477102.d.html</link>
+            <guid>4706968</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[艾哈迈德·瓦希迪被任命为伊朗伊斯兰革命卫队总司令。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5477002.d.html</link>
+            <guid>4706967</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方钽业：股票交易异常波动 不存在应披露未披露事项】东方钽业公告称，公司股票于2026年2月25日至27日连续三个交易日收盘价涨幅偏离值累计达20%以上，属异常波动。经核实，公司前期披露信息无更正补充之处，经营正常，内外部环境无重大变化，控股股东、实控人及董监高无应披露未披露重大事项，异动期间也无相关人员买卖公司股票行为。公司提醒投资者以指定媒体信息为准，理性投资，注意风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6177207.d.html</link>
+            <guid>4706966</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST生物：提示公司股票可能被终止上市风险】*ST生物公告称，2024年度公司利润总额、净利润、扣非后净利润均为负值且扣除后营收低于3亿元，股票于2025年4月30日起被实施退市风险警示。若2025年度出现《深圳证券交易所股票上市规则（2025年修订）》第9.3.12条规定的情形，如经审计的利润总额等三者孰低为负值且扣除后营收低于3亿元等，公司股票将被终止上市。公司已多次披露风险提示公告，2025年度最终财务数据以经审计报告为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6177164.d.html</link>
+            <guid>4706965</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰嘉股份：股价异常波动 2025年预计净亏损2250万-3200万元】泰嘉股份公告称，公司股票连续两个交易日（2026年2月26日、27日）收盘价涨幅偏离值累计超20%，属异常波动。公司预计2025年度归属于上市公司股东的净利润为-3200万元至-2250万元，同比下降163.47%至144.63%。锯切产品未用于光伏硅片切割，2025年度数据中心电源业务营收约3069万元，占比2.01%，不涉及AI芯片业务。公司目前经营正常，不存在应披露未披露事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5476865.d.html</link>
+            <guid>4706964</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京科锐：股票交易异常波动 不存在应披露未披露重大事项】北京科锐公告称，公司股票连续3个交易日内日收盘价格涨幅偏离值累计超过20%，属于异常波动。经核查，公司前期披露信息无需更正补充，未发现公共传媒报道未公开重大信息，近期经营及内外部环境无重大变化。除子公司拟设海外二级控股子公司、项目中标及控股股东股权结构调整事项外，公司、控股股东和实控人无应披露而未披露重大事项，实控人在此期间未买卖公司股票。公司2026年4月29日将披露年报，提醒投资者理性投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6177119.d.html</link>
+            <guid>4706963</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【章源钨业：股价异常波动 静态及动态市盈率显著高于行业均值】章源钨业公告称，公司股票于2026年2月26日、27日连续2个交易日收盘价格涨幅累计偏离20.38%，属于异常波动情形。经核实，公司前期披露信息无更正、补充之处，目前经营正常，无应披露而未披露的重大事项，控股股东和实控人在异动期间无买卖公司股票情况。截至2月26日，公司静态、动态市盈率显著高于行业平均水平，股价自1月1日以来涨幅达186.32%，短期存在回落风险。此外，公司经营还面临市场、原材料价格、汇率、信用等风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5476736.d.html</link>
+            <guid>4706962</guid>
+            <pubDate>Sun, 01 Mar 2026 07:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7连板豫能控股：股票交易严重异常波动 参股投资尚处筹划阶段】豫能控股公告称，2月25 - 27日公司股票连续三个交易日收盘价格涨幅偏离值累计超20％，2月9 - 27日连续9个交易日收盘价格涨幅偏离值累计达100.61％，属股票交易严重异常波动。公司拟参股增资先天算力，先天算力拟联合收购郑州合盈，目前参股投资尚处筹划阶段，收购未完成。2025年先天算力营收2217万元、净利润19万元 ，客户及业务增长、交易能否完成均存不确定性。公司基本面及主营业务未变，提醒投资者注意风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6176968.d.html</link>
+            <guid>4706961</guid>
+            <pubDate>Sun, 01 Mar 2026 07:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦政府发言人表示：抗议者在巴基斯坦北部纵火焚烧当地联合国办事处。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9074910.d.html</link>
+            <guid>4706960</guid>
+            <pubDate>Sun, 01 Mar 2026 07:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宗馥莉砍掉娃哈哈机器人业务，精机公司解散清算】2026年2月24日，杭州娃哈哈精密机械有限公司发布解散公示，正式进入清算程序，员工劳动合同于2月28日终止。该公司为娃哈哈商业股份全资持股，实际控制人为宗馥莉，曾承担集团智能化、机器人研发与智能装备制造业务。据了解，娃哈哈精机成立于2011年，2023、2024年社保人数分别为281人、261人。此次注销原因为决议解散，清算组负责人为宗馥莉旗下宏胜系核心高管严学峰。接近娃哈哈的人士表示，此举与宗庆后时期多元化思路不同，宗馥莉意在剥离非核心业务，将资源聚焦食品饮料主业。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5476250.d.html</link>
+            <guid>4706959</guid>
+            <pubDate>Sun, 01 Mar 2026 07:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗将领空关闭时间延长至当地时间3月3日中午12点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9074355.d.html</link>
+            <guid>4706958</guid>
+            <pubDate>Sun, 01 Mar 2026 07:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗最高领袖遇刺后，在卡拉奇美国领事馆附近，六名抗议者被杀。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9074100.d.html</link>
+            <guid>4706957</guid>
+            <pubDate>Sun, 01 Mar 2026 07:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国华能集团有限公司董事长温枢刚会见中国银行董事长葛海蛟】2月28日，中国华能集团有限公司董事长、党组书记温枢刚在集团公司总部会见中国银行党委书记、董事长葛海蛟。集团公司总会计师、党组成员李樱参加会见。温枢刚表示，希望双方在巩固已有良好合作的基础上，进一步围绕重大能源项目深化金融合作，共同为加快新型电力系统和新型能源体系建设贡献更大力量。葛海蛟表示，中国银行将积极对接中国华能发展需求，为中国华能绿色发展提供有力金融支持，共同开启高质量发展新篇章。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5475719.d.html</link>
+            <guid>4706956</guid>
+            <pubDate>Sun, 01 Mar 2026 07:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗国家电视台（IRIB）：伊朗战机轰炸了波斯湾及伊拉克北部的美军基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9073719.d.html</link>
+            <guid>4706955</guid>
+            <pubDate>Sun, 01 Mar 2026 07:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瓦轴B：要约收购期限届满 股票自3月2日起停牌】瓦轴B公告，截至2026年2月27日收市，本次要约收购期限已届满。公司股票自2026年3月2日（星期一）上午开市起停牌。根据深交所网站披露数据，截至2026年2月26日收市，本次预受要约股份数为4941.34万股。若本次要约收购期限届满，中国证券登记结算有限责任公司深圳分公司临时保管的预受要约的瓦轴B社会公众股股票申报数量超过3905万股，即收购后瓦轴B社会公众持股数量占总股本的比例低于10%，则公司股权分布不再具备上市条件，公司将向深交所申请主动终止股票上市交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9073304.d.html</link>
+            <guid>4706954</guid>
+            <pubDate>Sun, 01 Mar 2026 07:34:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：后方指挥部征集了2万名预备役军人。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6175179.d.html</link>
+            <guid>4706953</guid>
+            <pubDate>Sun, 01 Mar 2026 07:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特拉维夫-雅法市政府报告称，伊朗导弹袭击一夜之间造成 40 栋建筑物受损，200 多名居民已被疏散到酒店。]]></title>
+            <guid>4706952</guid>
+            <pubDate>Sun, 01 Mar 2026 07:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【莱斯信息：股东建银投资拟减持不超过1%】莱斯信息公告，中国建银投资有限责任公司持有1573.06万股，占公司总股本9.62%，系IPO前取得并于2024年6月28日解除限售并上市流通；因资金需求，拟自公告披露之日起15个交易日后的3个月内，通过集中竞价方式减持不超过163.47万股，减持比例不超过公司总股本1%，减持价格按实施时市场价格确定，若期间公司发生派发红利、送红股、转增股本、增发新股或配股等事项，减持数量将相应调整但减持比例不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9072765.d.html</link>
+            <guid>4706951</guid>
+            <pubDate>Sun, 01 Mar 2026 07:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[长城汽车：2月新能源车销售12,744台，1-2月累计销售30,773台。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2251738.d.html</link>
+            <guid>4706950</guid>
+            <pubDate>Sun, 01 Mar 2026 07:32:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【心脉医疗：Hector胸主多分支支架获美国 FDA 突破性医疗器械认定】心脉医疗公告，公司创新研发的 Hector /通天戟 胸主动脉多分支覆膜支架系统（Hector 胸主多分支支架）于 2026 年 2 月 27 日获得美国食品药品监督管理局（FDA）突破性医疗器械认定（Breakthrough Device Designation）。该产品用于微创伤介入治疗累及主动脉弓部三分支的胸主动脉病变。(上交所)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9072490.d.html</link>
             <guid>4706949</guid>
             <pubDate>Sun, 01 Mar 2026 07:32:19 GMT</pubDate>
         </item>
@@ -72,549 +594,6 @@
             <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6170227.d.html</link>
             <guid>4706937</guid>
             <pubDate>Sun, 01 Mar 2026 07:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列媒体：伊朗导弹在耶路撒冷附近的“贝特谢梅什”地区坠落。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5469357.d.html</link>
-            <guid>4706936</guid>
-            <pubDate>Sun, 01 Mar 2026 07:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔专业版数据，电影《镖人：风起大漠》上映13天， 总票房破11亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2246850.d.html</link>
-            <guid>4706935</guid>
-            <pubDate>Sun, 01 Mar 2026 07:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔专业版实时数据，截至3月1日15时13分，影片《镖人：风起大漠》票房突破11亿。]]></title>
-            <guid>4706934</guid>
-            <pubDate>Sun, 01 Mar 2026 07:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马来西亚总理安瓦尔：以色列对伊朗发动袭击，将中东推向灾难边缘，因此迫切需要立即无条件停火。]]></title>
-            <guid>4706933</guid>
-            <pubDate>Sun, 01 Mar 2026 07:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【袭击开始24小时后，各方军事态势】伊朗最高领导人在美以空袭中身亡，对这两个盟友而言是一场明确的胜利，但未来仍充满巨大不确定性。尽管美国和以色列宣称对伊朗一系列目标实施了极为成功的打击，包括清除其他关键领导人，但分析人士指出，目前仅能看到少量独立卫星拍摄的受损画面：其中显示最高领导人官邸被摧毁，另有画面显示一艘停靠的伊朗军舰上空升起黑烟。有观点认为，至少需要48 小时才能获得关于首日美以打击成效的确切信息与更多卫星照片证据。目前缺乏能证实伊朗导弹部队被摧毁的独立证据，这使得德黑兰方面仍保有多少火力储备成为疑问。自冲突爆发以来，伊朗已对中东多地目标发动反击 —— 据统计，发射了数百枚弹道导弹与逾千架无人机。但分析人士提醒，在去年夏天与以色列为期 12 天的冲突中，伊朗直到后期才动用了大量导弹与无人机库存。
-
-伊朗反击：
-周日早间已有迹象显示，伊朗宣布对该地区发动新一轮袭击，迪拜、巴林、阿布扎比、卡塔尔和以色列均在上午通报遭遇伊朗弹药来袭。冲突开始以来的伊朗反击视频显示，以色列、阿联酋、巴林等被打击国已动用大量防空拦截武器。
-
-弹药储备：
-尤其是在去年夏天为期 12 天的冲突中，美以消耗了数量巨大、且难以快速补充的防空拦截弹。如果伊朗仍为长期冲突储备有弹道导弹和无人机，外界对其现有储备还能支撑多久存在疑虑。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9066124.d.html</link>
-            <guid>4706932</guid>
-            <pubDate>Sun, 01 Mar 2026 07:13:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家航司公布涉中东机票退改方案】受中东局势影响，国航、东航、南航等国内多家航空公司相继发布了涉及中东地区航班机票特殊处理方案：国航通知显示，旅客于2026年2月28日20时（含）前购买的机票，旅行日期在2026年2月28日至3月15日（均含当日）之间的迪拜、阿布扎比、利雅得进出港航班，可申请变更或退票，首次变更免收手续费，但需补舱位差价。东航规定，旅客购买的机票至少含有一段未使用的涉及迪拜、阿布扎比、利雅得、马斯喀特的进港、出港或经停航班，航班起飞日期在2026年2月28日（含）至2026年3月15日（含），可免费变更一次至原航班前后3天（含）以内的航班。南航方案中，旅客购买的涉及迪拜、利雅得、德黑兰、多哈的进出港（含经停）航班机票，同样针对2026年2月28日20:00（含）前购买、旅行日期在2月28日至3月15日之间的机票，可免费变更一次。海南航空、深圳航空、四川航空、厦门航空也陆续发布了涉及中东地区航班机票特殊处理方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5467120.d.html</link>
-            <guid>4706931</guid>
-            <pubDate>Sun, 01 Mar 2026 07:12:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国泰航空于3月1日暂停中东地区航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvs6167730.d.html</link>
-            <guid>4706930</guid>
-            <pubDate>Sun, 01 Mar 2026 07:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在沙特证券交易所银行股、公用事业股和媒体股领跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2243935.d.html</link>
-            <guid>4706929</guid>
-            <pubDate>Sun, 01 Mar 2026 07:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：成功拦截导弹，同时接到报告称中部地区一处空旷地带发生坠落事件——目前尚无人员伤亡报告。]]></title>
-            <guid>4706928</guid>
-            <pubDate>Sun, 01 Mar 2026 07:11:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿拉伯主要股指缩减跌幅，目前下跌2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5466564.d.html</link>
-            <guid>4706927</guid>
-            <pubDate>Sun, 01 Mar 2026 07:11:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：中国正迅速迈向太阳能/电力的未来。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9064433.d.html</link>
-            <guid>4706926</guid>
-            <pubDate>Sun, 01 Mar 2026 07:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊拉克武装组织称打击美军基地】“伊拉克伊斯兰抵抗运动”旗下一武装组织3月1日发表声明称，“为支持伊朗抵抗美国和以色列侵略，保卫伊拉克国家主权”，该组织当天对位于伊拉克北部库尔德自治区首府埃尔比勒的美军基地发动无人机袭击。该组织2月28日还发表声明称，当天发射数十架无人机对位于伊拉克和中东其他地区的美军基地进行了16次袭击。 (新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5464013.d.html</link>
-            <guid>4706925</guid>
-            <pubDate>Sun, 01 Mar 2026 07:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈茂波：香港有足够预案应对中东战事带来的市场风险】香港特区政府财政司司长陈茂波今日（3月1日）表示，香港与伊朗的直接贸易和投资不多，但有关战事对环球造成很大不确定性。他估计受中东战事影响，金融市场波动比较大，资金流可能转向更快，也有不确定性，当地资金或寻求“安全港”而来到香港，特区政府要做好准备，小心处理金融风险，已经有足够预案。他指出，此次冲突可能短期影响金价、油价以及国际贸易运输成本，特区政府一直有评估相关风险。（大湾区之声）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5463654.d.html</link>
-            <guid>4706923</guid>
-            <pubDate>Sun, 01 Mar 2026 07:03:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列多地传出巨响。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5463195.d.html</link>
-            <guid>4706921</guid>
-            <pubDate>Sun, 01 Mar 2026 07:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【文远知行暂时停运阿联酋迪拜Robotaxi车队】3月1日，文远知行回应，经与当地监管部门沟通，文远知行在阿联酋首都阿布扎比以及沙特阿拉伯首都利雅得的Robotaxi车队维持正常公开商业运营，在阿联酋迪拜的Robotaxi车队暂时停运，等候恢复通知。2月28日，美国和以色列对伊朗发动军事打击，阿联酋多个城市受到波及。此前，中国自动驾驶科技公司文远知行、萝卜快跑、小马智行等均计划在阿联酋进行Robotaxi无人驾驶运营。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9061958.d.html</link>
-            <guid>4706920</guid>
-            <pubDate>Sun, 01 Mar 2026 07:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪拜称，碎片落在两栋房屋的后院造成两人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9061692.d.html</link>
-            <guid>4706919</guid>
-            <pubDate>Sun, 01 Mar 2026 07:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达与全球电信巨头携手，致力于在开放、安全的原生 AI 平台上构建 6G 网络】英伟达今日宣布，与博思艾伦、英国电信集团、思科、德国电信、爱立信、美国麻省理工学院研究与工程公司、诺基亚、OCUDU 生态基金会、开放数据中心委员会、韩国 SK 电讯、软银集团以及 T-Mobile 美国公司达成合作，致力于在原生 AI、开放、安全且可信的平台上，构建全球下一代无线网络。英伟达创始人兼首席执行官黄仁勋表示：“AI 正在重新定义计算，并推动人类历史上规模最大的基础设施建设，电信行业将是下一个变革领域。英伟达正与全球产业领袖联盟携手，打造 AI 无线接入网，将全球电信网络转变为无处不在的 AI 基础设施。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2240090.d.html</link>
-            <guid>4706918</guid>
-            <pubDate>Sun, 01 Mar 2026 07:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿拉伯主要股指早盘下跌4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9061420.d.html</link>
-            <guid>4706917</guid>
-            <pubDate>Sun, 01 Mar 2026 07:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达呼吁打造基于开放标准、以 AI 为核心的 6G 网络。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2239688.d.html</link>
-            <guid>4706916</guid>
-            <pubDate>Sun, 01 Mar 2026 07:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“女员工胸这么大”再引争议！椰树“擦边”近20年，被罚上百万，为何屡教不改？】近日，有消息称椰树集团对外开放工厂参观，但有多位网友在社交平台反馈投诉，椰树集团工厂的宣传广告语涉嫌低俗，最具争议的一张广告图写有“椰树女员工胸这么大”“追求胸大是让婴儿有奶吃”等宣传文案。 就相关争议，3月1日，椰树官方客服向《BUG》栏目表示，“最近我厂确实有组织参观，但广告宣传语相关事情需要等到元宵节后由相关部门进行解答。”而有椰树集团员工此前曾向媒体表示，“会关注网友的评论和建议，后续会改进。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5462060.d.html</link>
-            <guid>4706915</guid>
-            <pubDate>Sun, 01 Mar 2026 06:58:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【在伊经营酒店华人关店并撤离】“我在伊朗已经12年了，在当地留学并在德黑兰开设了一家酒店，原本这些年还是比较稳定的，酒店生意也还不错，但现在比较危险了，我近期已经回到中国，但我的合伙人还在当地。”王丹红3月1日接受记者采访时透露。谈及还在当地的华人朋友情况，王丹红对记者表示，一部分人在观望，也有一部分人计划是不是躲到农村地区、边境地区等，也有人考虑经陆路去亚美尼亚或土耳其。“我的合伙人也是中国人，他目前正在通过陆路去亚美尼亚的路上，希望他平安。”王丹红告诉记者。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2238919.d.html</link>
-            <guid>4706914</guid>
-            <pubDate>Sun, 01 Mar 2026 06:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[随着又一轮导弹袭击以色列，以色列全国各地拉响红色警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5461453.d.html</link>
-            <guid>4706913</guid>
-            <pubDate>Sun, 01 Mar 2026 06:56:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外长就最高领袖遇害发表声明】当地时间3月1日，伊朗外交部长阿拉格齐发布声明，悼念最高领袖哈梅内伊。声明指出，哈梅内伊因其坚定的决策、深远的规划和对真理的执着追求，为历史留下了关于尊严、智慧与抗争的重要遗产。声明称，其殉难是“巨大的损失和深切的悲痛”，但其所倡导的道路将继续延续。阿拉格齐表示，在当前关键历史时刻，守护这一遗产、延续其光明道路，是摆在伊朗人民面前的重要责任。他强调，这是一条“信仰、抵抗与希望之路”，将继续得到追随者的坚持与延续。声明还称，哈梅内伊所高举的旗帜不会倒下，伊朗将继续沿着其既定方向前行。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5461376.d.html</link>
-            <guid>4706912</guid>
-            <pubDate>Sun, 01 Mar 2026 06:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：亲伊朗示威者闯入美国驻巴基斯坦领事馆外围建筑群并纵火；安全部队开火，据报道有人员伤亡。]]></title>
-            <guid>4706911</guid>
-            <pubDate>Sun, 01 Mar 2026 06:55:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[记者3月1日在卡塔尔首都多哈看到，美国在中东最大的军事基地乌代德空军基地方向升起浓烟。（新华社）]]></title>
-            <guid>4706910</guid>
-            <pubDate>Sun, 01 Mar 2026 06:52:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：已识别出来自伊朗的导弹，正全力实施拦截。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5459786.d.html</link>
-            <guid>4706909</guid>
-            <pubDate>Sun, 01 Mar 2026 06:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：巴基斯坦抗议者正在袭击美国驻卡拉奇领事馆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2236073.d.html</link>
-            <guid>4706908</guid>
-            <pubDate>Sun, 01 Mar 2026 06:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗石油部长称，燃料储备充足。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2235887.d.html</link>
-            <guid>4706907</guid>
-            <pubDate>Sun, 01 Mar 2026 06:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体：巴林防空部队夜间拦截数十枚伊朗导弹】巴林官方媒体周日报道，巴林防空部队夜间对 “伊朗发动的敌意导弹袭击” 作出回应，共拦截至少45 枚导弹和9 架无人机。据巴林通讯社消息，巴林国家通讯中心证实：“拦截行动产生的部分残骸已确认坠落在多个区域。”巴林内政部表示，麦纳麦和穆哈拉格两市有三栋建筑 “因无人机袭击及被拦截导弹的残骸坠落” 受损。巴林国家通讯中心通过巴林通讯社表示：“专业团队已立即赶赴受影响区域，评估情况、保障公众安全，并处理袭击造成的各类后果。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2235830.d.html</link>
-            <guid>4706906</guid>
-            <pubDate>Sun, 01 Mar 2026 06:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美对伊动武暗藏三大算计 国际调解亟需介入】中东全面战争风险极高但未失控，美伊均不愿打持久战，双方报复循环易引发误判。察哈尔学会高级研究员成锡忠在接受采访时指出，美国借核谈判破裂打击伊朗核设施，暗藏三重目的，国际调解再不介入，中东恐陷长期动荡。（中国日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5458125.d.html</link>
-            <guid>4706905</guid>
-            <pubDate>Sun, 01 Mar 2026 06:46:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车：2月交付15,256辆汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvq9056599.d.html</link>
-            <guid>4706904</guid>
-            <pubDate>Sun, 01 Mar 2026 06:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多名伊朗高级指挥官遇袭身亡】今天（3月1日），伊朗方面确认，在2月28日美国和以色列针对伊朗发动的袭击中，多名伊朗武装力量高级指挥官遇袭身亡。遇难人员包括：伊朗武装部队总参谋长穆萨维、伊朗伊斯兰革命卫队总司令帕克普尔、伊朗国防委员会秘书沙姆哈尼以及伊朗国防部长纳希尔扎德。据悉，上述指挥官是在国防委员会会议期间遭袭身亡。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvm5457212.d.html</link>
-            <guid>4706903</guid>
-            <pubDate>Sun, 01 Mar 2026 06:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊拉克国家通讯社：哈梅内伊遇害后，伊拉克宣布全国哀悼三天。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnmvp2233750.d.html</link>
-            <guid>4706902</guid>
-            <pubDate>Sun, 01 Mar 2026 06:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广之旅：2月28日15:00前完成预订，且出发日期为2月28日至3月15日的团队为专项保障范围】3月1日，岭南控股（000534.SZ）旗下广之旅发布消息称，鉴于目前伊朗当地及周边中东国家局势影响，广之旅快速响应，第一时间启动境外团队安全应急预案，成立中东地区专项应对小组，全天候实时跟进当地情况，全力保障出行游客安全。经确认，广之旅在中东地区团队全部游客已获得妥善安置，全员安全、情绪良好。与此同时，广之旅表示，为进一步确保游客权益及安全，广之旅同步启动专项保障措施：涉及中东地区（阿联酋、卡塔尔、伊朗、巴林、阿曼、约旦、沙特等目的地国家），在2月28日15:00前完成预订，且出发日期为2月28日至3月15日的团队为专项保障范围。广之旅正积极联合境内外各环节资源方，安排相关旅游团队的取消与变更，全力将游客损失降至最低。]]></title>
-            <guid>4706901</guid>
-            <pubDate>Sun, 01 Mar 2026 06:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军称，过去24小时内向伊朗投掷了超过1,200枚导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpp5586840.d.html</link>
-            <guid>4706900</guid>
-            <pubDate>Sun, 01 Mar 2026 06:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  联合国核监督机构称将于周一召开关于伊朗的会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2363767.d.html</link>
-            <guid>4706899</guid>
-            <pubDate>Sun, 01 Mar 2026 06:41:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中东航班大乱：多国领空关闭大量航班绕道】受地区紧张局势影响，当地时间2月28日，中东多国宣布关闭领空，机场暂停运营，大量航班取消，旅客出行受到影响。截至2月28日晚些时候，汉莎航空、法国航空、印度航空等多家航空公司已宣布暂停往返中东多国的航线。根据航空数据公司睿思誉统计，当天有超过800架次飞往中东国家的航班被取消，导致大批旅客滞留在机场或中转城市，行程受阻。有业内人士指出，自俄乌冲突迫使航空公司避开两国领空以来，中东地区对全球航空业重要性日益凸显。本次中东紧张局势升级造成航空公司运营风险增加。并且多国领空关闭导致大量航班被迫绕道，燃油成本相应增加。 （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6287012.d.html</link>
-            <guid>4706898</guid>
-            <pubDate>Sun, 01 Mar 2026 06:39:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克转发与哈梅内伊相关的帖子】伊朗已故最高领袖哈梅内伊曾在1月3日发布一则帖子，称：“我们绝不会向敌人屈服。”马斯克在1月4日用波斯语回应该帖子称：“荒唐的幻想。”今日，马斯克转发其在1月4日发布的帖子，并说道：“事情就是这样。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6286844.d.html</link>
-            <guid>4706897</guid>
-            <pubDate>Sun, 01 Mar 2026 06:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美情报机构：对伊朗发动打击前已对哈梅内伊活动轨迹进行数月追踪】央视记者当地时间3月1日获悉，在美以两国即将对伊朗发动军事打击前，美国中央情报局就已经锁定伊朗最高领袖哈梅内伊的可能行踪。
-
-多名知情人士透露，美方情报机构已对哈梅内伊的活动轨迹进行数月跟踪，对其出行规律和可能位置的掌握程度不断提高。随后，美方获悉，伊朗多名高层官员计划于2月28日上午在首都德黑兰市中心一处领导人办公区举行会议，且哈梅内伊本人将出席。
-
-在获得上述情报后，美国与以色列方面决定调整原定打击时间。
-
-以方随后实施了筹划数月的定点打击行动。行动于以色列时间28日清晨启动，战机自基地起飞，约两小时后，远程导弹击中德黑兰相关目标区域。据称，袭击发生时，多名伊朗国家安全高层官员在同一栋建筑内，哈梅内伊则位于附近另一处建筑。
-
-以色列国防官员表示，此次行动在德黑兰多处地点同步展开，实现了“战术突然性”。白宫及美国中央情报局未就此发表评论。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpp5585511.d.html</link>
-            <guid>4706896</guid>
-            <pubDate>Sun, 01 Mar 2026 06:39:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【业内人士：中东局势或驱动甲醇价格上行】中东地区爆发冲突，或影响甲醇进口。记者采访获悉，2月28日甲醇价格略有回暖，波动不大，“后续如果进口量下降，甲醇价格或快速上行。”山东一甲醇从业人士对财联社记者表示。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2362346.d.html</link>
-            <guid>4706895</guid>
-            <pubDate>Sun, 01 Mar 2026 06:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体：黄金白银将迎来重新定价】美国和以色列突袭伊朗，但导弹不只是落在伊朗头上，冲击波已经越过山海，影响全球经济。 乱世买黄金，不是一句口号，是全球资本的本能。南开大学金融发展研究院院长田利辉给出清晰判断：黄金当前处于“避险属性”与“实际利率”的双重博弈中。短期避险需求主导，资金涌入推升金价银价。中期走势取决于实际利率变化：若高油价使通胀顽固、央行维持高利率，实际利率居高不下将削弱黄金吸引力；若冲突导致经济放缓预期增强、降息预期升温，实际利率下降则黄金获得更持久动能。 在他看来，当前金价处于地缘政治驱动的“脉冲式”上涨阶段，能否开启长期牛市，需观察冲突是否演变为颠覆全球货币体系的“范式变革”。对普通人而言，黄金既是避风港，也是波动场，追高仍需谨慎。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2361840.d.html</link>
-            <guid>4706894</guid>
-            <pubDate>Sun, 01 Mar 2026 06:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在2月28日伊朗方面宣布打击以色列后，总台记者在以色列特拉维夫看到，当地多处建筑在伊朗导弹袭击中受损。相关区域已实施严格管制，安保力量明显加强，人员出入受到限制。局势紧张态势仍在持续。（央视新闻）]]></title>
-            <guid>4706893</guid>
-            <pubDate>Sun, 01 Mar 2026 06:34:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗电视台：伊朗武装部队总参谋长阿卜杜勒拉希姆·穆萨维遇害。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6283972.d.html</link>
-            <guid>4706892</guid>
-            <pubDate>Sun, 01 Mar 2026 06:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国政协十四届四次会议新闻发布会3月3日举行】全国政协十四届四次会议新闻发布会定于3月3日（星期二）15:00在人民大会堂一层新闻发布厅举行。大会新闻发言人刘结一将向中外媒体介绍本次大会有关情况并回答记者提问。中央广播电视总台、新华网届时进行现场直播。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6283038.d.html</link>
-            <guid>4706891</guid>
-            <pubDate>Sun, 01 Mar 2026 06:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔专业版实时数据，截至3月1日14时29分，影片《飞驰人生3》票房突破37亿。]]></title>
-            <guid>4706890</guid>
-            <pubDate>Sun, 01 Mar 2026 06:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克：Facebook用户两天后就能看到开战消息了】网友讽刺“对于Instagram用户来说，明天就能看到开战消息了。马斯克转发并称：Facebook用户两天后就能看见了。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2357905.d.html</link>
-            <guid>4706889</guid>
-            <pubDate>Sun, 01 Mar 2026 06:29:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔内政部在社交平台X上称，卡塔尔正在应对工业区内一场因拦截导弹时碎片掉落引发的小规模火灾，暂无人员伤亡报告。]]></title>
-            <guid>4706888</guid>
-            <pubDate>Sun, 01 Mar 2026 06:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国最大内陆淡水湖进入新一年禁渔期】从3月1日起，我国最大内陆淡水湖新疆博斯腾湖再次进入为期112天的全面禁渔期。 (新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2357476.d.html</link>
-            <guid>4706887</guid>
-            <pubDate>Sun, 01 Mar 2026 06:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迪拜接连传出爆炸声 导弹降落城区】当地时间3月1日早晨，总台记者听到阿联酋迪拜接连传出多次爆炸声。当地居民拍摄到导弹降落城区的画面。1日，阿联酋的防御系统在迪拜上空拦截多枚导弹。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpp5579308.d.html</link>
-            <guid>4706886</guid>
-            <pubDate>Sun, 01 Mar 2026 06:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗媒体：德黑兰传出数声巨响。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2355649.d.html</link>
-            <guid>4706885</guid>
-            <pubDate>Sun, 01 Mar 2026 06:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗马汉航空暂停所有航班运营】伊朗马汉航空今日宣布，因伊朗空域受地区局势影响关闭，即日起临时暂停所有往返伊朗的航班运营，航班恢复时间将根据空域开放情况第一时间通过官方渠道公布。马汉航空运营从北京，上海，广州，深圳到伊朗德黑兰的航班。在此之前，阿联酋航空和卡塔尔航空已暂停所有航班运营，中国多家航司也取消中东航线。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6281329.d.html</link>
-            <guid>4706884</guid>
-            <pubDate>Sun, 01 Mar 2026 06:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗袭击阿联酋设施与地标，迪拜港口起火】据当地官方消息，周日上午，全球最大港口之一、支撑迪拜商业经济的杰贝阿里港遭空中拦截残骸坠落引发大火。美国国会一份报告显示，该港口曾为美国海军提供后勤支持，但并未有长期军事驻扎。近几小时内，伊朗导弹与自杀式无人机击中迪拜多处关键基础设施，包括国际机场与海港，以及多处标志性地点：人工棕榈岛（朱美拉棕榈岛）上的酒店、阿联酋地标建筑帆船酒店（Burj Al Arab）等。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9178063.d.html</link>
-            <guid>4706883</guid>
-            <pubDate>Sun, 01 Mar 2026 06:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美以袭击伊朗如何影响全球普通人？媒体：美以导弹炸到全球人钱包】美国和以色列突袭伊朗，但导弹不只是落在伊朗头上，冲击波已经越过山海，直奔全球很多人的钱包、账户与生活。首当其冲的就是油价，很多人手里的基金、股票可能迎来震荡。而比油价、股市、金价更深远的，是全链条成本上涨。美以的导弹，落在伊朗的土地上；但真正的代价，正在由全球普通人共同支付。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2352906.d.html</link>
-            <guid>4706882</guid>
-            <pubDate>Sun, 01 Mar 2026 06:19:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克：我一点也不信任OpenAI】有网友针对美国人工智能企业风波发生称“我认为，特朗普政府明智的做法是收回这一言论。我们希望军方能够使用他们选择的型号来提高生产效率。我不认为它们会构成严重的供应链风险。”马斯克转发推文，并称“我一点也不信任OpenAI”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpp5573619.d.html</link>
-            <guid>4706881</guid>
-            <pubDate>Sun, 01 Mar 2026 06:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第四届北京人工智能产业创新发展大会开幕】2月28日至3月1日，2026中关村论坛系列活动——第四届北京人工智能产业创新发展大会在国家会议中心二期隆重开幕。大会以“融合 效能 安全——让AI‘+’出新活力”为主题，设置“1场开幕式（主论坛）+16场分论坛”的总体构架，内容覆盖人工智能前沿领域和细分赛道，吸引了15000余名业界精英、专家学者和企业代表出席。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6277471.d.html</link>
-            <guid>4706880</guid>
-            <pubDate>Sun, 01 Mar 2026 06:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：03月01日13时44分在斐济群岛以南海域（南纬21.75度，西经179.40度）发生6.2级地震，震源深度570千米。]]></title>
-            <guid>4706879</guid>
-            <pubDate>Sun, 01 Mar 2026 06:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗危机或将导致天然气市场出现2022年以来最严重的动荡】中东冲突不断扩大，势必会对天然气市场造成自四年前俄乌冲突爆发颠覆全球贸易以来最严重的冲击。伊朗的邻国，如卡塔尔，都是世界上最重要的供应国，该地区也是一条重要的供应路线，20%的液化天然气出口都要经过霍尔木兹海峡，这是全球能源的关键咽喉要道。根据船舶追踪数据，经由这条狭窄水道进行的液化天然气贸易几乎完全停滞。贸易商表示，亚洲买家（他们约四分之一的液化天然气来自世界第二大出口国卡塔尔）一直在联系供应商，询问是否有替代货源。与此同时，在以色列关闭部分气田后，埃及正试图提前发货。伍德麦肯兹欧洲液化天然气和天然气总监汤姆·马尔泽克-曼瑟表示：“霍尔木兹海峡的任何海军活动都将对市场价格造成重大上行压力，卡塔尔液化天然气生产的任何进展也将如此。”]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpp5571746.d.html</link>
-            <guid>4706878</guid>
-            <pubDate>Sun, 01 Mar 2026 06:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路孚特数据显示，马斯喀特指数（<.MSX30>）早盘下跌3%。]]></title>
-            <guid>4706877</guid>
-            <pubDate>Sun, 01 Mar 2026 06:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【关于召开中国人民政治协商会议第十四届全国委员会第四次会议的决定】关于召开中国人民政治协商会议第十四届全国委员会第四次会议的决定
-
-（2026年3月1日政协第十四届全国委员会常务委员会第十五次会议通过）
-
-中国人民政治协商会议第十四届全国委员会常务委员会第十五次会议决定：中国人民政治协商会议第十四届全国委员会第四次会议于2026年3月4日在北京召开。建议会议的主要议程是：听取和审议中国人民政治协商会议全国委员会常务委员会工作报告和全国政协十四届三次会议以来提案工作情况的报告；列席中华人民共和国第十四届全国人民代表大会第四次会议，听取并讨论政府工作报告及其他有关报告，讨论国民经济和社会发展第十五个五年规划纲要草案。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9173187.d.html</link>
-            <guid>4706876</guid>
-            <pubDate>Sun, 01 Mar 2026 06:05:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗最高领袖顾问拉里贾尼：我们将袭击该地区的美国基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2346841.d.html</link>
-            <guid>4706875</guid>
-            <pubDate>Sun, 01 Mar 2026 06:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 伊朗已决定退出2026年世界杯。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpp5569303.d.html</link>
-            <guid>4706874</guid>
-            <pubDate>Sun, 01 Mar 2026 06:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国政协十四届常委会第十五次会议开幕 王沪宁出席】政协第十四届全国委员会常务委员会第十五次会议3月1日上午在北京开幕。中共中央政治局常委、全国政协主席王沪宁出席开幕会。
-
-会议审议通过关于召开政协第十四届全国委员会第四次会议的决定，听取全国政协主席会议关于全国政协2025年工作情况的报告，听取关于政协全国委员会常务委员会工作报告（草案）、关于政协十四届三次会议以来提案工作情况的报告（草案）起草情况的说明和有关事项的说明，听取政协第十四届全国委员会经济委员会、农业和农村委员会、人口资源环境委员会、教科卫体委员会、社会和法制委员会、民族和宗教委员会、港澳台侨委员会、外事委员会、文化文史和学习委员会2025年工作情况的汇报。
-
-中共中央政治局委员、全国政协副主席石泰峰主持开幕会。全国政协副主席兼秘书长王东峰等分别就有关议题作报告和说明。
-
-全国政协副主席胡春华、沈跃跃、王勇、周强、何厚铧、梁振英、巴特尔、苏辉、邵鸿、高云龙、穆虹、咸辉、姜信治、蒋作君、何报翔、王光谦、朱永新、杨震出席会议。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6274248.d.html</link>
-            <guid>4706873</guid>
-            <pubDate>Sun, 01 Mar 2026 06:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海遗体（角膜）捐献志愿登记近7.7万人，累计捐献1.9万例】3月1日，上海市迎来第二十四个遗体（器官、角膜）捐献纪念日，由上海市红十字会、上海市卫生健康委员会、上海市民政局共同主办的 “生命在奉献中延续” 主题缅怀纪念活动在青浦福寿园启幕。活动透露，截至 2025 年底，全市遗体（角膜）捐献志愿登记人数近 7.7 万，累计实现捐献 1.9 万例；人体器官捐献志愿登记人数达 13.7 万，累计捐献1398例。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9171983.d.html</link>
-            <guid>4706872</guid>
-            <pubDate>Sun, 01 Mar 2026 06:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋迪拜3月1日传出数声巨大爆炸声，杰贝阿里港冒出黑色浓烟。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpp5568686.d.html</link>
-            <guid>4706871</guid>
-            <pubDate>Sun, 01 Mar 2026 06:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美议员：对伊朗动武是“非法战争”】围绕美国与以色列突袭伊朗一事，美国国会多名民主党议员以及一些共和党议员2月28日对美方行动的合法性提出质疑与批评。美国方面消息称，民主党籍联邦众议员罗·康纳认为，“总统在没有紧迫威胁的情况下发动了一场非法战争”。特朗普的前政治盟友、原共和党籍联邦众议员玛乔丽·泰勒·格林批评称，特朗普竞选时承诺不再对外发动战争是“谎言”。她表示，“与伊朗的战争不会降低通货膨胀，也不会让生活成本变得负担得起。”丽根·博克斯是可能取代格林议员职位的共和党候选人之一，她也反对打击伊朗。博克斯称，“每次我们试图改变政权，尤其是在中东，我们只会破坏其稳定。”（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6273226.d.html</link>
-            <guid>4706870</guid>
-            <pubDate>Sun, 01 Mar 2026 06:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现代汽车印度2月国内销量52,407辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2345002.d.html</link>
-            <guid>4706869</guid>
-            <pubDate>Sun, 01 Mar 2026 05:59:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现代汽车印度公司2月份总销量增长12.6%至66,134辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6272793.d.html</link>
-            <guid>4706868</guid>
-            <pubDate>Sun, 01 Mar 2026 05:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球大量投资者告别美国 高盛：美股创30多年来最差开局】瑞银集团2月27日发布报告，下调美股配置评级至“基准”，而维持新兴市场股票“超配”。这份报告建议投资者更多配置全球市场其他股票资产，而不是美股。今年以来，市场资金流向也显示，越来越多投资者正“告别美国”，转向更具吸引力的新兴市场股市。美国高盛集团数据显示，美股正经历1995年以来最差开局。高盛分析团队2月初表示，市场上对冲基金已经连续四周净卖出美股，抛售速度达到去年美国政府加征“对等关税”以来的最快水平。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6272635.d.html</link>
-            <guid>4706867</guid>
-            <pubDate>Sun, 01 Mar 2026 05:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：03月01日13时44分在斐济群岛地区附近（南纬21.81度，西经179.44度）发生6.2级左右地震（深源），最终结果以正式速报为准。]]></title>
-            <guid>4706866</guid>
-            <pubDate>Sun, 01 Mar 2026 05:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗军方称对美以目标发动大规模无人机袭击】总台记者获悉，当地时间3月1日上午，伊朗军队发布3号公告。公告称，自28日晚间起，军队使用多种类型的破坏性和作战无人机，对美国和以色列的目标发动大规模无人机袭击。公告称，伊朗军队各部队的攻防行动持续进行，取得了压倒性胜利。公告表示，未来几个小时内，将向伊朗人民“带来更多令人振奋的行动消息。”（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2344063.d.html</link>
-            <guid>4706865</guid>
-            <pubDate>Sun, 01 Mar 2026 05:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗最高领袖顾问拉里贾尼：武装部队已部署了充足的资源，为行动的继续开展铺平了道路。]]></title>
-            <guid>4706864</guid>
-            <pubDate>Sun, 01 Mar 2026 05:55:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪拜居民报告听到爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9168697.d.html</link>
-            <guid>4706863</guid>
-            <pubDate>Sun, 01 Mar 2026 05:51:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔航空：航班业务暂时暂停。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9168537.d.html</link>
-            <guid>4706862</guid>
-            <pubDate>Sun, 01 Mar 2026 05:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国地球科学研究中心（GFZ）：斐济群岛地区发生6.15级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9168429.d.html</link>
-            <guid>4706861</guid>
-            <pubDate>Sun, 01 Mar 2026 05:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗最高安全官员拉里贾尼称，临时领导委员会将于3月1日成立。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9168212.d.html</link>
-            <guid>4706860</guid>
-            <pubDate>Sun, 01 Mar 2026 05:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非机场公司：阿联酋领空关闭影响阿联酋航空、卡塔尔航空航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9167395.d.html</link>
-            <guid>4706859</guid>
-            <pubDate>Sun, 01 Mar 2026 05:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗国家安全委员会秘书阿里·拉里贾尼： 殖民列强无论通过欺骗或其他任何手段进入一个国家，都是为了掠夺该国的资源。 美国现任掌权者正是这种掠夺的典型代表。]]></title>
-            <guid>4706858</guid>
-            <pubDate>Sun, 01 Mar 2026 05:47:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【迪拜国际机场一航站楼受到损坏】据阿联酋通讯社3月1日消息，迪拜国际机场的一栋航站楼在事故中遭受“轻微损坏”，4名受伤的工作人员已得到及时治疗。目前这起事故“已迅速得到控制”。迪拜政府媒体办公室称，由于此前已制定应急预案，大部分航站楼已清空乘客。2月28日，阿联酋已宣布关闭部分领空，阿联酋航空公司也宣布暂停往返迪拜的航班。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6268463.d.html</link>
-            <guid>4706857</guid>
-            <pubDate>Sun, 01 Mar 2026 05:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金店报价全线跳涨，银行紧急收紧风控备战波动】在国际地缘局势骤然升级背景下，黄金市场周末价格跳涨。2月28日，零售金店金价全线跳涨。老铺黄金启动年内首轮调价，涨幅高达30%。多家品牌金店金饰报价突破1600元/克，较上一日涨超30元/克。面对下周可能出现的剧烈波动，多家商业银行紧急收紧个人黄金业务风控，通过风险提示、准入限制等方式提前“排雷”。业内认为，短期市场将高度依赖冲突走向，美伊局势对金价的后续影响并非线性，而是取决于冲突的扩散范围与烈度。而长期来看，地缘事件对金价的推升效应或将逐步减弱，行情有望回归理性。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpp5562773.d.html</link>
-            <guid>4706856</guid>
-            <pubDate>Sun, 01 Mar 2026 05:43:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿提哈德航空公司称，往返阿布扎比的所有航班将暂停至阿联酋时间3月2日凌晨2点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9165510.d.html</link>
-            <guid>4706855</guid>
-            <pubDate>Sun, 01 Mar 2026 05:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 自以色列早上6点以来，以色列国土防卫司令部已发出超过6轮警报，警告伊朗导弹来袭。]]></title>
-            <guid>4706854</guid>
-            <pubDate>Sun, 01 Mar 2026 05:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗国家安全委员会秘书阿里·拉里贾尼：临时领导委员会将于周日举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpr2339123.d.html</link>
-            <guid>4706853</guid>
-            <pubDate>Sun, 01 Mar 2026 05:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗导弹命中以色列多处建筑】在以色列特拉维夫市中心，总台记者看到，伊朗导弹突破以色列防御系统，直接命中当地建筑。“我身后的一栋建筑几乎被完全摧毁，街道两边的很多车辆也都被摧毁。”（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6266689.d.html</link>
-            <guid>4706852</guid>
-            <pubDate>Sun, 01 Mar 2026 05:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗最高领袖顾问：伊朗局势依然稳定】据伊朗媒体3月1日报道，伊朗最高国家安全委员会秘书、最高领袖顾问拉里贾尼说，“敌人企图制造分裂、破坏团结，但伊朗局势依然稳定”，伊朗不允许国家分裂。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9164160.d.html</link>
-            <guid>4706851</guid>
-            <pubDate>Sun, 01 Mar 2026 05:39:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：X（原推特）今日用户量创新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6265948.d.html</link>
-            <guid>4706850</guid>
-            <pubDate>Sun, 01 Mar 2026 05:39:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗国家安全委员会秘书阿里·拉里贾尼：伊朗今天的袭击将比昨天更强。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9163804.d.html</link>
-            <guid>4706849</guid>
-            <pubDate>Sun, 01 Mar 2026 05:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[约旦拦截导弹，以色列警报持续响起。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9162949.d.html</link>
-            <guid>4706848</guid>
-            <pubDate>Sun, 01 Mar 2026 05:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交易商与船商纷纷避开霍尔木兹海峡 国际海运遭遇“急性运营危机”】多名交易机构消息人士2月28日说，在美国和以色列袭击伊朗后，伊朗宣布关闭霍尔木兹海峡航道，多个油轮船东、交易商已暂停经这一海峡运输原油、燃料及液化天然气。依照德国船东协会说法，海运行业遭遇“急性运营危机”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfpu6264528.d.html</link>
-            <guid>4706847</guid>
-            <pubDate>Sun, 01 Mar 2026 05:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿富汗首都遭空袭发生连续爆炸】阿富汗政府发言人穆贾希德3月1日在社交媒体平台发文，确认该国首都喀布尔当天遭到巴基斯坦空袭，并称局势得到了控制。当地时间3月1日5时40分许，新华社记者听到喀布尔上空传来连续爆炸声。双方军事攻防持续了大约半小时。2月26日夜间至27日凌晨，阿富汗和巴基斯坦在两国边境地区发生交火，巴军空袭阿首都喀布尔以及南部坎大哈省、东部帕克提卡省多个地点，两国紧张局势快速升级。巴国防部长阿西夫27日宣布对阿展开“公开战争”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-01/detail-inhpnfps9162533.d.html</link>
-            <guid>4706846</guid>
-            <pubDate>Sun, 01 Mar 2026 05:36:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

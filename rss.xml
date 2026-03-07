@@ -4,11 +4,418 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 07 Mar 2026 17:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 18:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场资讯：有喀秋莎火箭弹袭击美国驻巴格达大使馆。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwx8082662.d.html</link>
+            <guid>4725427</guid>
+            <pubDate>Sat, 07 Mar 2026 18:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国地球科学研究中心（GFZ）：阿富汗兴都库什地区发生5.35级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1324891.d.html</link>
+            <guid>4725426</guid>
+            <pubDate>Sat, 07 Mar 2026 18:33:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外交部：伊朗驻黎巴嫩大使馆仍将继续正常运作，对在黎伊朗公民的领事服务也将照常提供。]]></title>
+            <guid>4725425</guid>
+            <pubDate>Sat, 07 Mar 2026 18:32:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分伊朗公民撤离黎巴嫩】当地时间7日，伊朗外交部公共关系司发布声明称，鉴于以色列对黎巴嫩发动袭击导致当地安全形势恶化，为保障在黎伊朗公民的安全，在相关协调安排下，伊朗驻黎巴嫩大使馆工作人员的家属、伊朗学校的教师和学生，以及部分在黎伊朗公民已暂时离开贝鲁特。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4859394.d.html</link>
+            <guid>4725424</guid>
+            <pubDate>Sat, 07 Mar 2026 18:32:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克库尔德斯坦地区埃尔比勒市中心传出爆炸声。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezww1317488.d.html</link>
+            <guid>4725423</guid>
+            <pubDate>Sat, 07 Mar 2026 18:31:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列：以军空军已在伊朗境内投下超7500枚炸弹】以色列国防军发言人在新闻发布会上表示，以军空军在过去一周对伊朗的打击行动中投下了超过7500枚炸弹。他称，这一数量是“雄狮崛起行动”中投弹量的两倍，他所指的是以军2025年6月与伊朗进行的为期12天的冲突。他表示，此次行动总计实施了超过3400次打击。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4859030.d.html</link>
+            <guid>4725422</guid>
+            <pubDate>Sat, 07 Mar 2026 18:31:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：03月08日02时23分在四川雅安市石棉县（北纬29.00度，东经102.41度）发生3.1级地震，震源深度19千米。]]></title>
+            <guid>4725421</guid>
+            <pubDate>Sat, 07 Mar 2026 18:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿联酋称空中拦截行动致碎片坠落至迪拜一塔楼外立面】当地时间7日晚，阿联酋迪拜媒体办公室表示，因成功的空中拦截行动产生的碎片坠落至迪拜码头地区一座塔楼的外立面。目前，迪拜有关部门已对该事件进行处置，事件未造成任何人员伤亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezww1316783.d.html</link>
+            <guid>4725420</guid>
+            <pubDate>Sat, 07 Mar 2026 18:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据以色列医护人员称，真主党从黎巴嫩向海法地区发射了一连串火箭弹，目前尚无人员伤亡报告。]]></title>
+            <guid>4725419</guid>
+            <pubDate>Sat, 07 Mar 2026 18:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外长：任何因伊朗加强自卫而导致的局势升级 责任均在美方】当地时间7日晚间，伊朗外长阿拉格齐在社交媒体平台发文，指责美国政府近期在地区局势中的做法，并就伊朗立场作出表态。阿拉格齐表示，伊朗总统佩泽希齐扬此前曾表示愿意缓和本地区局势，但前提是邻国的领空、领土和海域不被用于对伊朗实施攻击。他称，美国方面对伊朗能力、决心和意图的误判，使这一努力受挫。如果美国选择升级局势，伊朗武装力量已做好应对准备，任何因伊朗加强自卫行动而导致的局势升级，其责任将由美国政府承担。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4856209.d.html</link>
+            <guid>4725418</guid>
+            <pubDate>Sat, 07 Mar 2026 18:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外交部长警告伊朗不要再向土耳其发射导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4854794.d.html</link>
+            <guid>4725417</guid>
+            <pubDate>Sat, 07 Mar 2026 18:18:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一位以色列高级安全官员：我们对伊朗的轰炸次数是美国的两倍，共投掷了7000枚炸弹。]]></title>
+            <guid>4725416</guid>
+            <pubDate>Sat, 07 Mar 2026 18:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉代总统罗德里格斯：我们重申，外交对话是解决分歧、推进共同协议的良性途径。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4854352.d.html</link>
+            <guid>4725415</guid>
+            <pubDate>Sat, 07 Mar 2026 18:16:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉代理总统罗德里格斯在致特朗普的信中表示：我们重申，我们愿意在相互尊重、平等和国际法的基础上建立长期关系。]]></title>
+            <guid>4725414</guid>
+            <pubDate>Sat, 07 Mar 2026 18:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克首都巴格达上空传出爆炸声】当地时间7日晚，伊拉克首都巴格达上空传出爆炸声，位于“绿区”的美国驻伊拉克使馆启动防空系统。据总台记者现场观察，美使馆防空系统开启的时间比较短促，目前尚未目击到爆炸源。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1321614.d.html</link>
+            <guid>4725413</guid>
+            <pubDate>Sat, 07 Mar 2026 18:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克巴格达传出爆炸声。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4852632.d.html</link>
+            <guid>4725412</guid>
+            <pubDate>Sat, 07 Mar 2026 18:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利国防部长敦促军工企业加快生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4852381.d.html</link>
+            <guid>4725411</guid>
+            <pubDate>Sat, 07 Mar 2026 18:11:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩外交部谴责以色列袭击联黎部队加纳营】黎巴嫩外交部7日发表声明称，联合国驻黎巴嫩临时部队（联黎部队）的加纳营遭到轰炸。黎外交部表示，袭击造成三名维和人员受伤，其中一人伤势严重，已被送往贝鲁特的一家医院接受治疗。黎巴嫩外交部“强烈谴责”此次袭击，称其严重违反了国际法。联黎部队仍在调查这起事件的具体情况。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4851498.d.html</link>
+            <guid>4725410</guid>
+            <pubDate>Sat, 07 Mar 2026 18:09:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩安全部门消息人士称，包括外交官及其家属在内的150多名伊朗公民于周六离开黎巴嫩。]]></title>
+            <guid>4725409</guid>
+            <pubDate>Sat, 07 Mar 2026 18:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【霍尔木兹海峡中断迫使阿布扎比国家石油公司调整产量】阿布扎比国家石油公司表示，由于中东紧张局势扰乱航运，公司正在调整海上生产以应对存储限制。该公司正在使用绕过霍尔木兹海峡的出口航线，并依靠国际存储设施来维持对全球客户的供应。该地区的冲突几乎切断了连接波斯湾和公海的关键水道，阻碍了中东油气的主要出口通道。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4848606.d.html</link>
+            <guid>4725408</guid>
+            <pubDate>Sat, 07 Mar 2026 18:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[真主党称袭击了特拉维夫东南部的以色列军队基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1317961.d.html</link>
+            <guid>4725407</guid>
+            <pubDate>Sat, 07 Mar 2026 18:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国前国土安全部长诺姆：美洲之盾的首要目标是控制移民。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4848367.d.html</link>
+            <guid>4725406</guid>
+            <pubDate>Sat, 07 Mar 2026 18:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗最新导弹袭击以色列北部，暂无人员伤亡报告】据以色列医务人员称，自午夜以来伊朗第九次向以色列发射弹道导弹袭击，目前尚无人员伤亡报告。初步军事评估显示，导弹击中了一处空旷地带。加利利地区响起了警报。与此同时，北部边境社区罗什哈尼克拉也响起了警报，疑似来自黎巴嫩的火箭弹袭击。以色列国防军后方司令部表示，警报响起地区的平民现在可以离开防空洞。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4848265.d.html</link>
+            <guid>4725405</guid>
+            <pubDate>Sat, 07 Mar 2026 18:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军称，过去一周在加沙摧毁了2公里长的地道，击毙了5名“恐怖分子”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwx8070811.d.html</link>
+            <guid>4725404</guid>
+            <pubDate>Sat, 07 Mar 2026 18:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：在对伊朗的一次袭击中，三名美国军人丧生，五人重伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4847539.d.html</link>
+            <guid>4725403</guid>
+            <pubDate>Sat, 07 Mar 2026 18:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国前国土安全部长诺姆：我要感谢特朗普总统给予我这份荣誉和机会，让我担任西半球特使。]]></title>
+            <guid>4725402</guid>
+            <pubDate>Sat, 07 Mar 2026 17:59:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿鲁比奥：我们希望全世界看到，与美国结盟是一件好事，而且这种友谊和盟友关系是相互的。]]></title>
+            <guid>4725401</guid>
+            <pubDate>Sat, 07 Mar 2026 17:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼苏门答腊岛明古鲁省发生5.7级地震】据印尼气象、气候和地球物理局发布的报告，当地时间3月7日23时58分，印尼苏门答腊岛明古鲁省乐帮县以西64公里处发生5.7级地震，震源深度47公里。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwx8069608.d.html</link>
+            <guid>4725400</guid>
+            <pubDate>Sat, 07 Mar 2026 17:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋表示，成功拦截产生的碎片在迪拜码头一座塔楼外立面引发了轻微事故，局势已得到控制，未报告有人员受伤。]]></title>
+            <guid>4725399</guid>
+            <pubDate>Sat, 07 Mar 2026 17:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一位美国高级官员称，战争的第二阶段已经开始，预计将持续12到14天。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1316330.d.html</link>
+            <guid>4725398</guid>
+            <pubDate>Sat, 07 Mar 2026 17:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芬兰总统：中东冲突或削弱俄罗斯与伊朗的军事合作，令乌克兰得益。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1316117.d.html</link>
+            <guid>4725397</guid>
+            <pubDate>Sat, 07 Mar 2026 17:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军监测到伊朗发射导弹 以北部多地响起防空警报】当地时间3月7日晚，以色列国防军表示，他们监测到伊朗正在向以色列发动导弹袭击，以军准备展开拦截行动。随后，以色列北部多地响起防空警报。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezww1309091.d.html</link>
+            <guid>4725396</guid>
+            <pubDate>Sat, 07 Mar 2026 17:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[预测市场平台Polymarket创始人兼首席执行官谢恩・科普兰表示，该行业与战争相关的合约面临的风险不断增加。他也承认，关注度提升带来的是 “更多的资金，也带来了更多的问题”。]]></title>
+            <guid>4725395</guid>
+            <pubDate>Sat, 07 Mar 2026 17:53:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：确认伊朗向以色列发射的导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1315819.d.html</link>
+            <guid>4725394</guid>
+            <pubDate>Sat, 07 Mar 2026 17:53:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩卫生部称，以色列今天在黎巴嫩造成45人死亡，自3月2日以来，死亡人数至少达到339人。]]></title>
+            <guid>4725393</guid>
+            <pubDate>Sat, 07 Mar 2026 17:51:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：特朗普声称，伊朗下一任领导人需要对美国和以色列表现得友好。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1315186.d.html</link>
+            <guid>4725392</guid>
+            <pubDate>Sat, 07 Mar 2026 17:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿布扎比国家石油公司（ADNOC）表示，该公司将继续使用绕过霍尔木兹海峡的出口产能以及其国际储存设施，以确保向全球市场持续供应石油。销售和贸易团队正在积极与那些装船计划可能受到影响的客户进行沟通。陆上业务继续进行。]]></title>
+            <guid>4725391</guid>
+            <pubDate>Sat, 07 Mar 2026 17:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿布扎比国家石油公司（ADNOC）表示，已启动其完善的预案，并正与相关部门密切合作，以保护员工、资产和运营安全。各业务部门正在逐产品、逐交易地评估局势，同时考虑到当前影响霍尔木兹海峡航运的干扰因素。]]></title>
+            <guid>4725390</guid>
+            <pubDate>Sat, 07 Mar 2026 17:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋安多克公司表示，尽管当前地区形势有所发展，但公司业务仍在继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezww1307747.d.html</link>
+            <guid>4725389</guid>
+            <pubDate>Sat, 07 Mar 2026 17:48:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长阿拉格齐：美国人民投票决定结束在中东代价高昂的泥潭。然而，他们最终得到的却是内塔尼亚胡经过数十年屡次失败的尝试后，终于成功哄骗其为以色列而战的政府。这是一场由一小撮“以色列优先”集团挑起的战争，而“以色列优先”永远意味着“美国垫底”。]]></title>
+            <guid>4725388</guid>
+            <pubDate>Sat, 07 Mar 2026 17:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长阿拉格齐：特朗普的国家情报委员会，汇集了美国18个情报机构的意见，认定对伊朗的战争注定失败。我也曾警告特朗普的特使，战争不会改善他们的谈判地位。这些警告传达了吗？]]></title>
+            <guid>4725387</guid>
+            <pubDate>Sat, 07 Mar 2026 17:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长阿拉格齐：特朗普为期一周的错误举动已经使美国军方损失了1000亿美元，此外还夺去了年轻士兵的生命。一旦市场重新开放，这一损失将大幅增加，并直接转嫁到普通美国民众身上，让他们在加油站承担更多费用。]]></title>
+            <guid>4725386</guid>
+            <pubDate>Sat, 07 Mar 2026 17:48:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长阿拉格齐：如果特朗普寻求局势升级，这正是我们强大的武装部队早已准备应对的，而且他必将自食其果。伊朗自卫行动若升级，责任将完全由美国政府承担。]]></title>
+            <guid>4725385</guid>
+            <pubDate>Sat, 07 Mar 2026 17:48:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长阿拉格齐：总统佩泽希齐扬对本地区局势缓和持开放态度——前提是邻国不得利用其领空、领土和水域攻击伊朗人民——但特朗普总统对伊朗的能力、决心和意图的误解几乎立即扼杀了这一意愿。]]></title>
+            <guid>4725384</guid>
+            <pubDate>Sat, 07 Mar 2026 17:48:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[由于库存问题，阿联酋国家石油公司（ADNOC）正在 “管控” 海上石油产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1314095.d.html</link>
+            <guid>4725383</guid>
+            <pubDate>Sat, 07 Mar 2026 17:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋总统表示，该国已做好应对安全威胁的准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4842228.d.html</link>
+            <guid>4725382</guid>
+            <pubDate>Sat, 07 Mar 2026 17:46:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其国防部表示，在塞浦路斯南部英国基地附近发生无人机事件后，希腊向北塞浦路斯派遣了 2 架 F-16 战斗机和 2 艘护卫舰，土耳其正在考虑向北塞浦路斯土耳其共和国部署 F-16 战斗机。]]></title>
+            <guid>4725381</guid>
+            <pubDate>Sat, 07 Mar 2026 17:45:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪拜：迪拜滨海区一栋大楼外墙残骸坠落，坠落残骸系空中拦截所致，坠落物事件未造成人员伤亡。]]></title>
+            <guid>4725380</guid>
+            <pubDate>Sat, 07 Mar 2026 17:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长：如果特朗普想要局势升级，他就会如愿以偿。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1313374.d.html</link>
+            <guid>4725379</guid>
+            <pubDate>Sat, 07 Mar 2026 17:43:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【担忧监控与自主武器问题，OpenAI机器人部门负责人辞职】自2024年11月起执掌OpenAI机器人部门的凯特琳・卡利诺夫斯基因对该公司军事谈判的担忧已离职。她称：“这并非一个轻松的决定。人工智能在国家安全领域有着重要作用，但未经司法监督的美国人监控、未经人类授权的致命自主武器，这些都是本应经过更审慎讨论的底线。这关乎原则，而非个人。”她的离职发生在一场争议升级的背景下：人工智能公司在支持美国军方使用该技术的边界问题上分歧加剧。近日，美国国防部与Anthropic公司的谈判因后者要求对国内监控和自主武器实施严格限制而破裂。此后不久，OpenAI与美国国防部达成协议，将其模型部署在一个机密的政府网络中。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwx8063816.d.html</link>
+            <guid>4725378</guid>
+            <pubDate>Sat, 07 Mar 2026 17:43:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：库尔德组织曾与美国中央情报局讨论伊朗政治方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwx8062137.d.html</link>
+            <guid>4725377</guid>
+            <pubDate>Sat, 07 Mar 2026 17:38:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[因担忧监控与自主武器问题，且受五角大楼合同影响，OpenAI机器人部门负责人辞职。]]></title>
+            <guid>4725376</guid>
+            <pubDate>Sat, 07 Mar 2026 17:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员：“布什” 号航空母舰很可能将与 “福特” 号和 “林肯” 号航空母舰协同行动。]]></title>
+            <guid>4725375</guid>
+            <pubDate>Sat, 07 Mar 2026 17:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列国防军称探测到伊朗新的弹道导弹袭击】以色列国防军称，在经历了四个小时的平静期后，他们探测到伊朗新的弹道导弹袭击。预计以色列北部地区将在未来几分钟内响起警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4838469.d.html</link>
+            <guid>4725374</guid>
+            <pubDate>Sat, 07 Mar 2026 17:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国中央情报局（CIA）已与部分伊朗库尔德组织接触数月。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1311000.d.html</link>
+            <guid>4725373</guid>
+            <pubDate>Sat, 07 Mar 2026 17:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩：已有45.4万人登记为流离失所者】黎巴嫩社会事务部长赛义德表示，自过去一周以色列与真主党之间爆发新一轮冲突以来，已有45.4万人登记为流离失所者。其中包括在政府避难所登记的112,525人。赛义德敦促剩余的流离失所者向当局登记姓名。本周，以色列已警告贝鲁特人口稠密的南部郊区以及黎巴嫩南部数百平方公里地区的居民撤离。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4837807.d.html</link>
+            <guid>4725372</guid>
+            <pubDate>Sat, 07 Mar 2026 17:35:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质调查局：阿根廷考塞特以东 119 公里处发生 5.1 级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwx8060214.d.html</link>
+            <guid>4725371</guid>
+            <pubDate>Sat, 07 Mar 2026 17:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军：已确认从伊朗向以色列发射的导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezww1303539.d.html</link>
+            <guid>4725370</guid>
+            <pubDate>Sat, 07 Mar 2026 17:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国：商业航班将于下周初从迪拜起飞。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezww1303299.d.html</link>
+            <guid>4725369</guid>
+            <pubDate>Sat, 07 Mar 2026 17:32:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦副总理兼外交部长伊沙克·达尔与伊朗外长阿巴斯·阿拉格齐就不断变化的地区局势进行了交谈。]]></title>
+            <guid>4725368</guid>
+            <pubDate>Sat, 07 Mar 2026 17:32:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：一架伊朗无人机袭击了阿联酋迪拜的23 Marina大厦。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwx8059399.d.html</link>
+            <guid>4725367</guid>
+            <pubDate>Sat, 07 Mar 2026 17:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普再威胁古巴】当地时间3月7日，美国政府在迈阿密附近的“特朗普国家多拉尔高尔夫俱乐部”举行所谓的“美洲之盾”峰会。美国总统特朗普再次威胁古巴，称将在对伊朗的行动结束后“把注意力转向古巴”，称其“将很快迎来巨大变革”，暗示将与古巴达成一项协议。近来，特朗普已多次对古巴发出类似威胁。 阿根廷、玻利维亚、智利、哥斯达黎加、多米尼加、厄瓜多尔、萨尔瓦多、圭亚那、洪都拉斯、巴拿马、巴拉圭以及特立尼达和多巴哥的领导人与会。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1309741.d.html</link>
+            <guid>4725366</guid>
+            <pubDate>Sat, 07 Mar 2026 17:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋：目前正在应对来自伊朗的导弹和无人机威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1309490.d.html</link>
+            <guid>4725365</guid>
+            <pubDate>Sat, 07 Mar 2026 17:29:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列国土防卫司令部：全国性限制措施仍然保持不变】当地时间3月7日晚，以色列国土防卫司令部表示，根据最新战事评估，尽管伊朗导弹发射频率有所下降，但全国性限制措施仍然保持不变，目前的限制措施将持续到当地时间3月9日20时。据悉，目前的限制性措施主要包括，禁止所有教育活动，在满足规定时间内可到达避难场所的条件下，允许举行最多50人的集会、开放办公场所。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwx8058498.d.html</link>
+            <guid>4725364</guid>
+            <pubDate>Sat, 07 Mar 2026 17:29:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国表示将包机接英国公民离开阿联酋。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezxc1309258.d.html</link>
+            <guid>4725363</guid>
+            <pubDate>Sat, 07 Mar 2026 17:29:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪拜居民手机收到导弹威胁警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqezwz4835425.d.html</link>
+            <guid>4725362</guid>
+            <pubDate>Sat, 07 Mar 2026 17:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋总统：阿联酋将国土安全和主权以及人民、居民和游客的安全置于首要位置。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8188033.d.html</link>
+            <guid>4725361</guid>
+            <pubDate>Sat, 07 Mar 2026 17:25:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特国防部证实，一枚伊朗弹道导弹击中了一处空旷地带，并未对苏丹王子空军基地造成任何损害。]]></title>
+            <guid>4725360</guid>
+            <pubDate>Sat, 07 Mar 2026 17:25:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋总统：阿联酋有能力应对侵略行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqy1432104.d.html</link>
+            <guid>4725359</guid>
+            <pubDate>Sat, 07 Mar 2026 17:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列方面目前的评估认为，伊朗前领导人之子穆杰塔巴仍然在世。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrf1438653.d.html</link>
+            <guid>4725358</guid>
+            <pubDate>Sat, 07 Mar 2026 17:23:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[真主党称使用无人机袭击了以色列海法炼油厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqy1431111.d.html</link>
+            <guid>4725357</guid>
+            <pubDate>Sat, 07 Mar 2026 17:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一架洛克希德C-5运输机抵达英国皇家空军费尔福德基地，成为第五架抵达格洛斯特郡该机场的美国军用飞机。]]></title>
+            <guid>4725356</guid>
+            <pubDate>Sat, 07 Mar 2026 17:21:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【埃及称正与各方密切接触 以遏制并缓和地区紧张局势】当地时间7日，埃及总统塞西表示，埃及正与各方密切接触，以遏制并缓和地区紧张局势。塞西警告称，地区和国际局势持续升级将带来负面经济影响。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8185686.d.html</link>
@@ -165,417 +572,6 @@
             <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrc4948671.d.html</link>
             <guid>4725326</guid>
             <pubDate>Sat, 07 Mar 2026 16:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗议会议长表示，只要美国在该地区继续驻扎军事基地，这些国家就无法享受和平。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8171321.d.html</link>
-            <guid>4725325</guid>
-            <pubDate>Sat, 07 Mar 2026 16:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军队：48小时内，伊朗境内300多个目标遭到袭击，黎巴嫩境内170多个目标遭到袭击。]]></title>
-            <guid>4725324</guid>
-            <pubDate>Sat, 07 Mar 2026 16:41:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科威特石油公司因中东冲突宣布不可抗力。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrc4946967.d.html</link>
-            <guid>4725323</guid>
-            <pubDate>Sat, 07 Mar 2026 16:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院：美国谴责伊朗无人机袭击阿塞拜疆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8169270.d.html</link>
-            <guid>4725321</guid>
-            <pubDate>Sat, 07 Mar 2026 16:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迪拜居民报告听到爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrc4946418.d.html</link>
-            <guid>4725320</guid>
-            <pubDate>Sat, 07 Mar 2026 16:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grok上个月的网站访问量约为3亿次。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8169148.d.html</link>
-            <guid>4725319</guid>
-            <pubDate>Sat, 07 Mar 2026 16:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军表示，连夜对伊朗首都德黑兰以及位于德黑兰梅赫拉巴德机场的军事基础设施进行了“大规模空袭”。]]></title>
-            <guid>4725318</guid>
-            <pubDate>Sat, 07 Mar 2026 16:34:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务院发布中东撤侨最新进展，称已有28000名美国公民安全返回美国。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8167955.d.html</link>
-            <guid>4725317</guid>
-            <pubDate>Sat, 07 Mar 2026 16:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI 首席执行官奥特曼：GPT-5.4在编码、知识工作、电脑操作等方面表现出色，很高兴看到大家对它如此喜爱。同时，它也是我最想聊天的模型。有一段时间我们在模型的人格塑造上没做到位，所以现在能朝着正确的方向调整，感觉格外棒。]]></title>
-            <guid>4725316</guid>
-            <pubDate>Sat, 07 Mar 2026 16:29:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一架美国 MQ-9 “死神” 无人机今日在伊朗霍尔木兹甘省上空被伊朗伊斯兰革命卫队航空航天部队击落。]]></title>
-            <guid>4725310</guid>
-            <pubDate>Sat, 07 Mar 2026 16:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国驻伊朗大使馆：关于韩国可能协助美国对伊朗开战的消息不实。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrf1421859.d.html</link>
-            <guid>4725308</guid>
-            <pubDate>Sat, 07 Mar 2026 16:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带72123人死亡】当地时间3月7日，据加沙地带卫生部门发布的报告，自去年10月11日达成停火以来，加沙地带因以军袭击导致的死亡人数已上升至640人，受伤总数达1707人。报告称，过去24小时内，共有3名死者和3名伤者被送往加沙地带的医院。报告还指出，自2023年10月7日新一轮巴以大规模冲突爆发以来，以色列对加沙地带的袭击已造成72123人死亡、171805人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrc4941922.d.html</link>
-            <guid>4725307</guid>
-            <pubDate>Sat, 07 Mar 2026 16:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质调查局：菲律宾胡卡伊西北偏北方向 2 公里处发生 5.0 级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8164603.d.html</link>
-            <guid>4725306</guid>
-            <pubDate>Sat, 07 Mar 2026 16:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一位印度政府消息人士周六表示，由于中东战乱，美国暂时豁免了印度从莫斯科进口原油的限制，新德里正在推进俄罗斯石油的进口。但印度坚称，进口俄罗斯石油并不需要美国的许可。]]></title>
-            <guid>4725303</guid>
-            <pubDate>Sat, 07 Mar 2026 16:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：现任美国卫部长小罗伯特·肯尼迪确认将参加2028年总统竞选。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrf1420921.d.html</link>
-            <guid>4725302</guid>
-            <pubDate>Sat, 07 Mar 2026 16:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗表示，针对美国在该地区的军事基地和设施的防御性行动绝不应被解读为对地区国家的敌对行为。]]></title>
-            <guid>4725300</guid>
-            <pubDate>Sat, 07 Mar 2026 16:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外交部声明：德黑兰将继续抗争，直至侵略停止，或直至联合国安理会履行其职责，查明侵略者身份。]]></title>
-            <guid>4725295</guid>
-            <pubDate>Sat, 07 Mar 2026 16:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴林国王重申，巴林王国的方针是坚持和平道路，并支持一切有助于增强本地区和世界安全与稳定的事物。]]></title>
-            <guid>4725294</guid>
-            <pubDate>Sat, 07 Mar 2026 16:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗外交部发表声明：回应以色列和美国的残酷军事侵略是伊朗固有的自卫权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8162798.d.html</link>
-            <guid>4725293</guid>
-            <pubDate>Sat, 07 Mar 2026 16:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国著名记者、作家乔治・帕克：特朗普的傲慢与新保守主义者如出一辙，和他们一样，他信奉美国至上主义，痴迷于美国军事的压倒性力量，但他毫无他们的理想主义。他唯一的承诺就是对自己。]]></title>
-            <guid>4725291</guid>
-            <pubDate>Sat, 07 Mar 2026 16:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称摧毁伊朗伊斯兰革命卫队空军防空指挥设施】以色列国防军当地时间7日表示，以军已摧毁伊朗伊斯兰革命卫队空军用于进行空中态势评估并负责防御伊朗领空的防空指挥设施。以军还表示，以空军对多处目标实施了打击，包括防空系统、用于制造和发射弹道导弹的设施，以及指挥中心、储存设施和其他相关建筑。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8162468.d.html</link>
-            <guid>4725290</guid>
-            <pubDate>Sat, 07 Mar 2026 16:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：英国已将“威尔士亲王号”航空母舰置于高度戒备状态，船员已被告知，他们必须做好在五天内出发的准备。]]></title>
-            <guid>4725288</guid>
-            <pubDate>Sat, 07 Mar 2026 16:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联合航空公司正在严厉打击使用噪音大且可能造成干扰的电子设备的行为。该公司已更新其政策，要求乘客在收听音频或观看视频内容时必须佩戴耳机。]]></title>
-            <guid>4725286</guid>
-            <pubDate>Sat, 07 Mar 2026 16:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普在拉丁美洲领导人峰会上为鲁比奥鼓掌：“我认为，他将成为历史上最优秀的国务卿。这是我的看法。”]]></title>
-            <guid>4725285</guid>
-            <pubDate>Sat, 07 Mar 2026 16:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫贸易顾问纳瓦罗为2月份就业数据辩护，称其受临时因素影响而出现失真。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrc4938184.d.html</link>
-            <guid>4725283</guid>
-            <pubDate>Sat, 07 Mar 2026 16:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗称击中巴林美军基地 以回击美国侵略】伊朗伊斯兰革命卫队当地时间7日表示，继“真实承诺4”第26轮行动之后，为回击美国从巴林朱菲尔基地发动的侵略，该美军基地已被伊朗伊斯兰革命卫队使用固体与液体燃料导弹击中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrc4937978.d.html</link>
-            <guid>4725281</guid>
-            <pubDate>Sat, 07 Mar 2026 16:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安全消息人士：（以色列）空袭目标为摩苏尔以南伊拉克人民动员部队总部。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8159122.d.html</link>
-            <guid>4725274</guid>
-            <pubDate>Sat, 07 Mar 2026 16:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：超过5万人在伦敦游行，反对美以对伊朗的攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrf1417281.d.html</link>
-            <guid>4725273</guid>
-            <pubDate>Sat, 07 Mar 2026 16:06:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安发表声明，宣布与英国首相斯塔默通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrc4934490.d.html</link>
-            <guid>4725271</guid>
-            <pubDate>Sat, 07 Mar 2026 16:03:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普称美军击沉42艘伊朗舰艇并瘫痪其通信系统】美国总统特朗普7日说，美军在3天内击沉了42艘伊朗海军舰艇，并瘫痪了伊朗的通信系统。特朗普当天在美国南部迈阿密举行的有12个西半球国家领导人参加的会议上说，美国在伊朗的行动“非常成功”，美军在3天之内击沉了42艘海军舰艇，瘫痪了伊朗的通信系统。特朗普在会上还宣布成立一个“全新的军事联盟”，目标是彻底消灭在西半球肆虐的“贩毒集团和恐怖网络”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqy1408862.d.html</link>
-            <guid>4725270</guid>
-            <pubDate>Sat, 07 Mar 2026 16:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方周六表示，一支以色列特种部队连夜在黎巴嫩东部登陆，搜寻一名失踪近40年的导航员的信息，但并未找到他的遗骸。此次行动造成数十人死亡。]]></title>
-            <guid>4725269</guid>
-            <pubDate>Sat, 07 Mar 2026 16:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国卫生机构称，美国自闭症咨询委员会将不会按原计划在3月举行会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8156549.d.html</link>
-            <guid>4725268</guid>
-            <pubDate>Sat, 07 Mar 2026 16:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影《星河入梦》上映20天， 总票房破1亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrc4933724.d.html</link>
-            <guid>4725267</guid>
-            <pubDate>Sat, 07 Mar 2026 16:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列继续空袭伊朗，袭击了一所据称曾用于训练伊朗伊斯兰革命卫队军官的大学。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevqz8156442.d.html</link>
-            <guid>4725266</guid>
-            <pubDate>Sat, 07 Mar 2026 16:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：致力于与英国在国防及其他领域开展合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-08/detail-inhqevrf1415122.d.html</link>
-            <guid>4725265</guid>
-            <pubDate>Sat, 07 Mar 2026 16:00:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列军方对贝鲁特南郊居民发布撤离警告，预示着即将发动袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrf1414921.d.html</link>
-            <guid>4725262</guid>
-            <pubDate>Sat, 07 Mar 2026 15:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金发科技深夜发公开信 计划上调部分产品价格】金发科技今日晚间在公司公众号发布致客户信，受中东局势影响，全球原油供应紧张、油价及物流成本攀升，行业成本激增，公司部分产品将上调价格。同时，公司承诺调价透明审慎，涨幅匹配成本增加，不牟取超额利润，并提前告知预留规划时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8156029.d.html</link>
-            <guid>4725261</guid>
-            <pubDate>Sat, 07 Mar 2026 15:58:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员表示，伊朗需要意识到，攻击整个周边地区对它自身并无益处。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrf1414598.d.html</link>
-            <guid>4725258</guid>
-            <pubDate>Sat, 07 Mar 2026 15:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔡佳云夺得米兰冬残奥会中国代表团首金】在7日进行的米兰-科尔蒂纳冬残奥会冬季两项男子站姿7.5公里比赛中，蔡佳云以总用时17分13秒6的成绩夺冠，这也是中国代表团在本届赛会中的首枚金牌。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrc4932687.d.html</link>
-            <guid>4725257</guid>
-            <pubDate>Sat, 07 Mar 2026 15:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相斯塔默发布与土耳其总统埃尔多安的通话声明，称双方一致认为，伊朗停止“侵略”至关重要。]]></title>
-            <guid>4725252</guid>
-            <pubDate>Sat, 07 Mar 2026 15:53:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗专家会议成员：最高领袖选举会议将在未来24小时内举行】据伊朗伊斯兰革命卫队7日发布的消息，一名伊朗专家会议成员称，选举伊朗最高领袖的会议将在未来24小时内举行。伊朗专家会议成员阿亚图拉·穆扎法里表示，目前专家会议成员正在等待条件成熟，以便审慎地选举新任最高领袖。穆扎法里说，截至目前有关会议和选举还没有公开举行，呼吁民众不要轻信谣言。伊朗专家会议是负责选举、监督、罢黜伊朗最高领袖的最高权力机构。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8154498.d.html</link>
-            <guid>4725247</guid>
-            <pubDate>Sat, 07 Mar 2026 15:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国陆军的乌克兰无人机防御系统系从美国在欧洲的库存中发出。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrf1413058.d.html</link>
-            <guid>4725245</guid>
-            <pubDate>Sat, 07 Mar 2026 15:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫在社交媒体上发布了特朗普前往多佛空军基地的照片。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqy1405737.d.html</link>
-            <guid>4725242</guid>
-            <pubDate>Sat, 07 Mar 2026 15:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多架美军轰炸机飞抵英国基地】当地时间3月6日晚至今天（3月7日），多架美军B-1B“枪骑兵”轰炸机降落在英国英格兰西部格洛斯特郡的英军费尔福德基地。此前，英国首相斯塔默已允许美军利用英国基地对伊朗导弹阵地实施所谓“防御性”打击。英国军方今天还向卡塔尔增派了4架“台风”战斗机。英国国防部称，这些战机将应对可能飞向海湾国家的空中威胁。 另据消息人士透露，英国正在为可能向中东地区部署航空母舰做准备。有消息称，英国海军“威尔士亲王”号航母的战备响应时间已被缩短至约5天，以便在必要时能够更快展开部署。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrc4930399.d.html</link>
-            <guid>4725241</guid>
-            <pubDate>Sat, 07 Mar 2026 15:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国陆军派遣经乌克兰测试的无人机（防御系统）打击伊朗无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrf1412337.d.html</link>
-            <guid>4725240</guid>
-            <pubDate>Sat, 07 Mar 2026 15:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰：俄罗斯于周五晚至周六凌晨向乌克兰发射了一连串导弹和无人机，造成12人死亡，十几人受伤，其中包括儿童。]]></title>
-            <guid>4725239</guid>
-            <pubDate>Sat, 07 Mar 2026 15:44:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗高级官员说伊正在寻找新的美国目标进行打击】一名不愿透露姓名的伊朗高级官员7日接受美国有线电视新闻网（CNN）采访时称，伊朗正在寻找新的美国目标进行打击，以回应美国总统特朗普此前发出的“伊朗将遭到极其猛烈的打击”威胁。这名官员表示，伊朗将认真审查尚未被纳入伊武装部队打击目标名单的与美国有关的部队和附属机构等，如果美方采取“不明智”的行动，伊朗将对其采取相应行动。特朗普7日在社交媒体上发文说，伊朗“今天将遭到极其猛烈的打击”，“一些原本未被考虑为打击目标的地区和人群，现在有可能面临彻底的摧毁和死亡”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrc4929793.d.html</link>
-            <guid>4725238</guid>
-            <pubDate>Sat, 07 Mar 2026 15:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：摧毁了伊朗伊斯兰革命卫队空军的防空作战指挥室。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqy1404950.d.html</link>
-            <guid>4725237</guid>
-            <pubDate>Sat, 07 Mar 2026 15:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：袭击了（伊朗的）防空系统和弹道导弹发射场。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqy1404901.d.html</link>
-            <guid>4725236</guid>
-            <pubDate>Sat, 07 Mar 2026 15:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔称拦截了一次导弹袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqy1404850.d.html</link>
-            <guid>4725233</guid>
-            <pubDate>Sat, 07 Mar 2026 15:43:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋总统表示，阿联酋“脸皮厚、肉味苦——不是好惹的猎物”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8151981.d.html</link>
-            <guid>4725229</guid>
-            <pubDate>Sat, 07 Mar 2026 15:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋总统表示，将履行对国家、人民以及同样是我们家庭一部分的居民的责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8151751.d.html</link>
-            <guid>4725226</guid>
-            <pubDate>Sat, 07 Mar 2026 15:41:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称打击了伊朗向黎巴嫩真主党转运武器的飞机】以色列国防军7日发表声明说，以空军在夜间大规模空袭伊朗首都德黑兰多处军事目标，“精确打击”了伊朗伊斯兰革命卫队下属“圣城旅”用于向黎巴嫩真主党转运武器的16架飞机。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8151718.d.html</link>
-            <guid>4725225</guid>
-            <pubDate>Sat, 07 Mar 2026 15:41:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自伊朗战争爆发以来，阿联酋总统首次公开发表评论，称该国“处于战争时期”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8151213.d.html</link>
-            <guid>4725224</guid>
-            <pubDate>Sat, 07 Mar 2026 15:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国总统特朗普称，美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的。]]></title>
-            <guid>4725223</guid>
-            <pubDate>Sat, 07 Mar 2026 15:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[普拉格能源（Plug Power）计划在美国电网拍卖中提供氢气产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8150906.d.html</link>
-            <guid>4725222</guid>
-            <pubDate>Sat, 07 Mar 2026 15:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫：美国将训练伙伴国家军队打击贩毒集团。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8150241.d.html</link>
-            <guid>4725219</guid>
-            <pubDate>Sat, 07 Mar 2026 15:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[卡塔尔当局通过手机发送新的警报，称安全威胁级别已“提升”。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8150113.d.html</link>
-            <guid>4725218</guid>
-            <pubDate>Sat, 07 Mar 2026 15:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴林防空部队正在拦截伊朗射入巴林领空的导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrc4927019.d.html</link>
-            <guid>4725217</guid>
-            <pubDate>Sat, 07 Mar 2026 15:34:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质调查局：印度尼西亚托贝洛以东 66 公里处发生 5.3 级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrf1408986.d.html</link>
-            <guid>4725216</guid>
-            <pubDate>Sat, 07 Mar 2026 15:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国海上运输办公室称，沙特阿拉伯附近发生的事件可能是无人机袭击所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrf1408849.d.html</link>
-            <guid>4725215</guid>
-            <pubDate>Sat, 07 Mar 2026 15:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗国家媒体：伊朗革命卫队袭击巴林朱法尔基地的美军，以报复美国袭击伊朗格什姆岛海水淡化厂。]]></title>
-            <guid>4725214</guid>
-            <pubDate>Sat, 07 Mar 2026 15:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[目击者称，一架无人机于周六（3月7日）在迪拜国际机场附近发动袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqy1401377.d.html</link>
-            <guid>4725213</guid>
-            <pubDate>Sat, 07 Mar 2026 15:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员表示，将继续保卫国家，保护这里的每一个人，确保逐步恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrc4926183.d.html</link>
-            <guid>4725212</guid>
-            <pubDate>Sat, 07 Mar 2026 15:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：卡塔尔和巴林响起警报，卡塔尔空中防御系统拦截了伊朗导弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrc4926111.d.html</link>
-            <guid>4725211</guid>
-            <pubDate>Sat, 07 Mar 2026 15:31:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员称法国的支持“非常出色”，阵风战斗机从第一天起就按照与阿联酋的协议投入使用，它们参与了持续的巡逻任务，击落导弹和无人机。]]></title>
-            <guid>4725210</guid>
-            <pubDate>Sat, 07 Mar 2026 15:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[目击者称多哈传出爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8148383.d.html</link>
-            <guid>4725209</guid>
-            <pubDate>Sat, 07 Mar 2026 15:29:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员表示，一直在食品储备和设施方面做好了准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevqz8148365.d.html</link>
-            <guid>4725208</guid>
-            <pubDate>Sat, 07 Mar 2026 15:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员表示，阿联酋希望伊朗立即停止对非战斗国家（即海湾国家）的“侵略”行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-07/detail-inhqevrc4925509.d.html</link>
-            <guid>4725207</guid>
-            <pubDate>Sat, 07 Mar 2026 15:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员表示，任何与伊朗达成的新谈判协议将不再局限于核问题，导弹问题现在才是焦点。]]></title>
-            <guid>4725206</guid>
-            <pubDate>Sat, 07 Mar 2026 15:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员称，伊朗的袭击行动造成了巨大的信任鸿沟，这一鸿沟将在未来数十年持续存在。]]></title>
-            <guid>4725205</guid>
-            <pubDate>Sat, 07 Mar 2026 15:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋官员表示，战争很快就会结束；阿联酋的税收制度和经济基础仍然是该地区最具吸引力的之一；基本面依然强劲。]]></title>
-            <guid>4725204</guid>
-            <pubDate>Sat, 07 Mar 2026 15:26:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

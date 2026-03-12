@@ -4,594 +4,590 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Thu, 12 Mar 2026 08:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 09:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【理想汽车连续三年盈利】理想汽车发布2025年第四季度及全年财报。全年营收1123亿元，净利润11亿元，现金储备1012亿元，连续三年营收破千亿、连续三年盈利。全年研发投入113亿元创历史新高，AI相关投入占比50%。全新一代理想L9将于二季度上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1833546.d.html</link>
-            <guid>4738384</guid>
-            <pubDate>Thu, 12 Mar 2026 08:41:02 GMT</pubDate>
+            <title><![CDATA[【国家工业信息安全发展研究中心：发布工业领域OpenClaw应用的风险预警通报】国家工业信息安全发展研究中心发布《关于工业领域OpenClaw应用的风险预警通报》：OpenClaw目前正加速在工业领域研发设计、生产制造、运维管理等环节部署应用。然而，由于OpenClaw存在信任边界模糊、多渠道统一接入、大模型灵活调用、双模持久化记忆等特点，一旦缺乏有效的权限控制策略或安全审计机制，可能因指令诱导、供应链投毒等被恶意接管，造成工控系统失控、敏感信息泄露等一系列安全风险。具体包括工业主机越权与生产失控风险；工业敏感信息泄露风险；工业企业攻击面扩展与攻击效果放大风险。因此，建议工业企业参照《工业控制系统网络安全防护指南》《工业互联网安全分类分级管理办法》等相关要求，参考工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）已发布的“六要六不要”建议，在部署和应用OpenClaw时强化安全防护措施，包括加强控制权限管理；强化网络边界隔离；做好漏洞补丁修复。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1728160.d.html</link>
+            <guid>4738510</guid>
+            <pubDate>Thu, 12 Mar 2026 09:41:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[生态环境部部长黄润秋：长江大保护十年来，长江流域的好三类优良水体比例提升了30个百分点，长江的江豚恢复到了1426头。青藏高原的藏羚羊增长到了30多万只，高原再现万羊齐奔的壮美景观。 （央视新闻）]]></title>
-            <guid>4738383</guid>
-            <pubDate>Thu, 12 Mar 2026 08:40:15 GMT</pubDate>
+            <title><![CDATA[【*ST海钦：股票可能被终止上市 披露第四次风险提示】*ST海钦公告称，公司2024年度扣非前后净利润均为负，扣除相关收入后的营收低于3亿元，期末净资产为负，股票于2025年4月29日起被实施退市风险警示。2026年2月27日，公司收到福建监管局《行政处罚事先告知书》，股票于3月2日起被叠加实施其他风险警示。若2025年度相关财务指标再次触及财务类强制退市情形，公司股票可能被终止上市。公司预计2025年净利润2800万元-4200万元，营收14.5亿元-18.5亿元，目前正开展年报编制及审计工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4755833.d.html</link>
+            <guid>4738509</guid>
+            <pubDate>Thu, 12 Mar 2026 09:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英飞凌与联华电子签署谅解备忘录】英飞凌科技股份公司（简称“英飞凌”）与联华电子股份有限公司（简称“联华电子”）近日宣布签署谅解备忘录（MOU），旨在协同推动双方的供应链减排，从而进一步推动供应链的可持续发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1833030.d.html</link>
-            <guid>4738381</guid>
-            <pubDate>Thu, 12 Mar 2026 08:39:31 GMT</pubDate>
+            <title><![CDATA[马来西亚央行：国内金融市场在全球波动中保持相对韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1728031.d.html</link>
+            <guid>4738508</guid>
+            <pubDate>Thu, 12 Mar 2026 09:41:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【砺算科技正式发布LX系列3款专业卡及7G100消费卡】今日在AWE2026上，砺算科技正式发布LX系列3款专业卡及7G100消费卡。据介绍，3款专业卡将于3月17日起接受企业用户订单。其中，LX MAX采用轴流风扇设计，定位轻量级应用，提供12GB显存；LX PRO使用轴流风扇，提供24GB显存；LX ULTRA适用于云计算/服务器领域，采用涡轮风扇设计，拥有24GB显存；7G100消费卡支持DSC、数十款Steam游戏及目前主流的AIPC大模型，将在京东618首发销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4845390.d.html</link>
-            <guid>4738380</guid>
-            <pubDate>Thu, 12 Mar 2026 08:39:28 GMT</pubDate>
+            <title><![CDATA[【山金国际：2026年的生产经营计划为黄金产量7-8吨，其他金属不低于2025年产量】山金国际在业绩说明会上表示，纳米比亚Osino项目预计2027年上半年投产，预计达产后将带来每年5吨的黄金产能。纳米比亚Osino项目采用露天开采的方式，原矿品位1.07g/t，回收率不低于90%，预计完全成本约1100美元/盎司至1200美元/盎司。2026年，公司确定的生产经营计划是：黄金产量7-8吨，其他金属不低于2025年产量。]]></title>
+            <guid>4738507</guid>
+            <pubDate>Thu, 12 Mar 2026 09:40:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【柳钢股份：同意柳钢集团非公开发行不超过20亿元可交换公司债券】柳钢股份公告，广西壮族自治区人民政府国有资产监督管理委员会同意广西柳州钢铁集团有限公司向上海证券交易所申请以其所持公司部分A股股票为标的非公开发行不超过人民币20亿元（含）可交换公司债券。柳钢集团目前持有公司19.11亿股，占公司总股本的72.54%。本次发行尚需提交监管部门审核，最终发行方案将在获得监管部门同意后确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8610117.d.html</link>
-            <guid>4738379</guid>
-            <pubDate>Thu, 12 Mar 2026 08:39:19 GMT</pubDate>
+            <title><![CDATA[莱茵集团（RWE）首席执行官：鉴于当前情况，我们与阿布扎比国家石油公司（ADNOC）就可能的液化天然气供应进行的谈判仍在进行中，不过节奏有所放缓。]]></title>
+            <guid>4738506</guid>
+            <pubDate>Thu, 12 Mar 2026 09:40:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[演示文件显示，亚马逊计划在2026 - 2028年期间向波兰投资230亿兹罗提。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1832647.d.html</link>
-            <guid>4738378</guid>
-            <pubDate>Thu, 12 Mar 2026 08:38:42 GMT</pubDate>
+            <title><![CDATA[马来西亚央行：关注全球金融市场的持续动态以及近期中东冲突的升级情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4747993.d.html</link>
+            <guid>4738505</guid>
+            <pubDate>Thu, 12 Mar 2026 09:40:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【艾能聚：多名股东累计减持1.1927%】艾能聚公告，嘉兴新萌投资有限公司、张良华、钱玉明于2026年2月13日至2026年3月11日通过集中竞价累计减持155.21万股，占公司总股本1.1927%，三者为公司实际控制人的一致行动人。本次减持后，实际控制人及其一致行动人持股比例由44.9926%降至43.7999%，权益变动触及1%整数倍披露线。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8609767.d.html</link>
-            <guid>4738377</guid>
-            <pubDate>Thu, 12 Mar 2026 08:38:29 GMT</pubDate>
+            <title><![CDATA[【南向资金今日净买入112.83亿港元】港股通（沪）方面，盈富基金、中国海洋石油分别获净买入39.80亿港元、5.81亿港元；腾讯控股净卖出额居首，金额为9.83亿港元；港股通（深）方面，盈富基金、中国海洋石油分别获净买入7.21亿港元、6.57亿港元；阿里巴巴-W净卖出额居首，金额为4109.61万港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4747982.d.html</link>
+            <guid>4738504</guid>
+            <pubDate>Thu, 12 Mar 2026 09:40:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST精伦：股票或因市值低于5亿、股价低于1元终止上市】*ST精伦公告称，公司股票2026年3月12日总市值为4.72亿元，已连续四日低于5亿元；收盘价为0.96元，再次首日低于1元。根据相关规定，若出现连续20个交易日每日股票收盘总市值均低于5亿元或收盘价均低于1元的情形，上交所将决定终止公司股票上市。此外，公司预计2025年度净利润为负值，且扣除相关收入后的营业收入低于3亿元，年报披露后也将触及终止上市情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1832556.d.html</link>
-            <guid>4738376</guid>
-            <pubDate>Thu, 12 Mar 2026 08:38:24 GMT</pubDate>
+            <title><![CDATA[【伊朗伊斯兰革命卫队空军指挥官遇袭身亡】据伊朗法尔斯通讯社12日报道，伊朗伊斯兰革命卫队空军指挥官萨达尔·伊斯梅尔·德甘及其妻子、两个孩子等在伊朗中部阿拉克遇袭身亡。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4747932.d.html</link>
+            <guid>4738503</guid>
+            <pubDate>Thu, 12 Mar 2026 09:39:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西陇科学：为子公司提供7000万元担保 累计担保情况披露】西陇科学公告称，公司为子公司上海西陇化工、广东西陇化工向金融机构融资提供担保。其中，为上海西陇化工在招商银行上海分行、上海农商行普陀支行的债务分别提供3000万元、1000万元担保，为广东西陇化工在兴业银行汕头分行的债务提供3000万元担保。截至公告日，公司及控股子公司累计对外担保总额为0元（不含合并报表内），对控股子公司、控股子公司对公司、子公司对子公司实际担保余额分别为9.52亿元、8.28亿元、1600万元，占最近一期经审计净资产比例分别为41.40%、35.99%、0.70%，均无逾期担保。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1832139.d.html</link>
-            <guid>4738375</guid>
-            <pubDate>Thu, 12 Mar 2026 08:37:31 GMT</pubDate>
+            <title><![CDATA[【大元泵业：股票交易异常波动 提醒关注业绩下滑风险】大元泵业公告称，公司股票于2026年3月10日至12日连续3个交易日内收盘价格涨幅偏离值累计超20%，属异常波动。自2025年7月31日以来，股价涨幅累计达112.39%。2026年3月12日换手率20.05%，与日常偏离大。公司基本面未变，目前经营正常，无应披露未披露重大事项。2024年净利润同比降10.55%，2025年前三季度降27.69%，提醒投资者注意交易和业绩下滑风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8504594.d.html</link>
+            <guid>4738502</guid>
+            <pubDate>Thu, 12 Mar 2026 09:39:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞士政府表示，正在与美国贸易代表办公室（USTR）进行磋商，以确定此次调查是否会以及将如何影响正在进行的谈判。]]></title>
-            <guid>4738374</guid>
-            <pubDate>Thu, 12 Mar 2026 08:37:12 GMT</pubDate>
+            <title><![CDATA[莱茵集团（RWE）首席执行官：如果冲突持续时间更长，我们将不得不仔细评估今年夏季为欧洲天然气储气库注气的计划。]]></title>
+            <guid>4738501</guid>
+            <pubDate>Thu, 12 Mar 2026 09:39:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲法院：由受欧盟制裁人员持股 50%的公司的资产可以被冻结。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4843995.d.html</link>
-            <guid>4738373</guid>
-            <pubDate>Thu, 12 Mar 2026 08:37:06 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气工业股份公司：两座天然气泵站在夜间遭到袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1726974.d.html</link>
+            <guid>4738500</guid>
+            <pubDate>Thu, 12 Mar 2026 09:38:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄总统特别代表证实已与美方讨论经济合作】俄罗斯总统特别代表德米特里耶夫12日证实说，他日前已访美并与美方代表讨论了经济合作议题。 德米特里耶夫当天在社交媒体上发文说，根据俄罗斯总统普京指示，他访问了美国，并与美方举行了俄美经济工作组会晤。双方讨论了有助于恢复俄美关系的合作项目，并就当前全球能源市场危机交换意见。 德米特里耶夫认为，许多国家，特别是美国，现在开始更清楚地认识到俄罗斯油气在维护全球经济稳定方面所发挥的作用。 德米特里耶夫是俄罗斯直接投资基金总裁、负责对外投资和经济合作事务的总统特别代表，先前多次同美国总统特使威特科夫等美方代表就旨在结束俄乌冲突的外交进程举行会谈。 去年12月，俄罗斯总统普京与美国总统特朗普通电话，双方同意专门成立安全工作组和经济工作组，以推动俄乌冲突的和平解决。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8609030.d.html</link>
-            <guid>4738372</guid>
-            <pubDate>Thu, 12 Mar 2026 08:36:37 GMT</pubDate>
+            <title><![CDATA[【西藏药业：预计2026年与康哲药业关联交易推广费不超17.8亿元】西藏药业公告称，公司2026年拟继续授权康哲药业下属公司为新活素、依姆多、雪山金罗汉止痛涂膜剂的独家总推广商，预计关联交易推广费及奖励金不超17.8亿元，推广保证销售额为28亿元（含税）。公司将向康哲药业下属公司提供不超500万元（含税）/年的辅助支持。2025年，相关关联交易实际发生15.56亿元，推广销售完成29.37亿元（含税），超额完成约定。上述议案尚需股东会审议。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1726770.d.html</link>
+            <guid>4738499</guid>
+            <pubDate>Thu, 12 Mar 2026 09:38:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：摩根大通、瑞银终止与卷入香港内幕交易案调查的对冲基金合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1831817.d.html</link>
-            <guid>4738371</guid>
-            <pubDate>Thu, 12 Mar 2026 08:36:33 GMT</pubDate>
+            <title><![CDATA[伊朗议会议长卡利巴夫表示，任何针对伊朗岛屿领土的侵略行为都将打破一切克制。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8503862.d.html</link>
+            <guid>4738498</guid>
+            <pubDate>Thu, 12 Mar 2026 09:38:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【冠龙节能成立智水科技公司，含AI及机器人业务】企查查APP显示，近日，上海冠龙智水科技有限公司成立，注册资本1000万元，经营范围包含：人工智能行业应用系统集成服务；智能机器人销售；工业机器人销售；人工智能硬件销售等。企查查股权穿透显示，该公司由冠龙节能全资持股。]]></title>
-            <guid>4738370</guid>
-            <pubDate>Thu, 12 Mar 2026 08:35:30 GMT</pubDate>
+            <title><![CDATA[【沪电股份：AI芯片配套高端PCB项目2026年下半年试产，泰国工厂获全球头部客户认证】沪电股份发布投资者关系活动记录表公告，公司2024年Q4规划投资约43亿元新建人工智能芯片配套高端印制电路板扩产项目，已于2025年6月下旬开工建设，预期2026年下半年开始试产并逐步提升产能。该项目旨在满足高速运算服务器、人工智能等新兴计算场景对高端PCB的中长期需求。沪士泰国生产基地2025年Q2进入小规模量产，已通过全球头部客户在AI服务器和交换机等领域的严格认证，获得正式供应资质；2025年Q4产值规模环比大幅攀升，产品结构、生产质量与运营效率同步提升。公司同时在常州金坛投资设立全资子公司，搭建CoWoP、mSAP及光铜融合等前沿技术孵化平台，待工艺验证成熟后将投建高密度光电集成线路板规模化生产线。]]></title>
+            <guid>4738497</guid>
+            <pubDate>Thu, 12 Mar 2026 09:38:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【理想汽车：2025年第四季度研发费用同比增加25.3%】理想汽车公告，2025年第四季度的营业费用为人民币56亿元（797.0百万美元），较2024年第四季度的人民币53亿元增加5.8%，较2025年第三季度的人民币56亿元减少1.3%。2025年第四季度的研发费用为人民币30亿元（431.4百万美元），较2024年第四季度的人民币24亿元增加25.3%，较2025年第三季度的人民币30亿元增加1.4%。研发费用较2024年第四季度增加主要由于支持我们扩展的产品组合及技术的AI及其他项目相关的成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8608388.d.html</link>
-            <guid>4738369</guid>
-            <pubDate>Thu, 12 Mar 2026 08:35:00 GMT</pubDate>
+            <title><![CDATA[【西藏药业：2025年净利润同比下降10.78%】西藏药业公告，公司2025年实现营业收入298,153.82万元，与上年同期相比增加17,482.49万元，同比增长6.23%；归属于上市公司股东的净利润93,793.14万元，与上年同期相比减少11,335.69万元，同比下降10.78%；归属于上市公司股东的扣除非经常性损益的净利润87,140.81万元，与上年同期相比增加1,270.79万元，同比增长1.48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8503700.d.html</link>
+            <guid>4738496</guid>
+            <pubDate>Thu, 12 Mar 2026 09:38:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【理想汽车：2025年第四季度车辆销售收入同比减少36.1%】理想汽车(02015.HK)公告，2025年第四季度的车辆销售收入为人民币273亿元（39亿美元），较2024年第四季度的人民币426亿元减少36.1%，较2025年第三季度的人民币259亿元增加5.4%。2025年第四季度的车辆毛利率为16.8%，而2024年第四季度为19.7%，2025年第三季度为15.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1831059.d.html</link>
-            <guid>4738368</guid>
-            <pubDate>Thu, 12 Mar 2026 08:34:46 GMT</pubDate>
+            <title><![CDATA[摩根大通警告称，在欧洲银行中，汇丰银行和渣打银行受中东冲突的影响最大。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4746258.d.html</link>
+            <guid>4738495</guid>
+            <pubDate>Thu, 12 Mar 2026 09:37:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【千款AWE科技新品天猫首发，消费者可在线逛展边逛边买】3月12日，2026年AWE在上海启幕，追觅会爬楼的扫地机、科沃斯陪伴型仿真宠物狗、鹿客隔空充电智能门锁等1000余款科技新品迎来首秀，同步天猫首发。消费者在淘宝上的“2026AWE”可在线逛展，边逛边买。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8608206.d.html</link>
-            <guid>4738367</guid>
-            <pubDate>Thu, 12 Mar 2026 08:34:42 GMT</pubDate>
+            <title><![CDATA[市场消息：利比亚方面称，道达尔能源宣布马布鲁克油田恢复生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4746055.d.html</link>
+            <guid>4738494</guid>
+            <pubDate>Thu, 12 Mar 2026 09:37:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【生态环境部部长黄润秋：去年全国优良天数比例创有监测以来最好水平】生态环境部部长黄润秋3月12日在十四届全国人大四次会议第三场“部长通道”上说，去年全国PM2.5平均浓度降到28微克/立方米，优良天数比例达到89.3%，创有监测以来最好水平；“十四五”时期全国PM2.5浓度累计下降20%，重污染天数减少25%。地表水优良水质断面比例达到91.4%，远超“十四五”设定目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1830283.d.html</link>
-            <guid>4738366</guid>
-            <pubDate>Thu, 12 Mar 2026 08:32:58 GMT</pubDate>
+            <title><![CDATA[【周鸿祎：中国最大的“预制菜公司”是软件行业，以后卖软件没有价值 】3月12日下午消息，在360公司龙虾安全媒体交流会上，360集团创始人周鸿祎谈到，“其实西贝很冤枉，中国最大的预制菜公司是谁？其实是中国软件行业。”他进一步谈到，“软件行业是不是一直在做预制菜？了解你的需求，在家里把软件编好，然后再做配置、调整，菜做好了之后你爱吃不吃，要吃的话还得等下一次更新版本。”他谈到，在小龙虾出现后，软件行业会出现变化。“以后再卖软件没有价值了，大家的能力在于把软件的智能体训练好，用户要的是龙虾能玩得起我的软件，所以软件肯定会插件化、底层化、模块化，这些软件会变成‘原材料’，我们的智能体会现场‘炒’给用户吃，组合软件的技能等等。”（ 新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1725623.d.html</link>
+            <guid>4738493</guid>
+            <pubDate>Thu, 12 Mar 2026 09:36:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST大立：2025年年审未完结 预计营收增27.35% - 41.91%】*ST大立公告称，公司2025年年度报告预约于2026年3月27日披露，截至公告日，2025年年审工作仍在进行。天健会计师事务所已执行多项审计程序，目前正对审计证据和底稿资料汇总分析，质控复核程序也未完结。2025年度公司预计营业收入3.50亿元 - 3.90亿元，较上年同期增长27.35% - 41.91%。若符合规定，公司将在年报披露后申请撤销退市风险警示。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4841341.d.html</link>
-            <guid>4738365</guid>
-            <pubDate>Thu, 12 Mar 2026 08:32:20 GMT</pubDate>
+            <title><![CDATA[印度外交部：印度外交部长与伊朗外交部长讨论了航运安全和能源安全问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1725434.d.html</link>
+            <guid>4738492</guid>
+            <pubDate>Thu, 12 Mar 2026 09:36:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[财报公布后，理想汽车(LI.O)美股盘前下跌近3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8607205.d.html</link>
-            <guid>4738364</guid>
-            <pubDate>Thu, 12 Mar 2026 08:32:16 GMT</pubDate>
+            <title><![CDATA[莱茵集团（RWE）首席执行官：市场目前预计伊朗危机将持续约3 - 4周，但目前完全不清楚这场冲突将持续多久。]]></title>
+            <guid>4738491</guid>
+            <pubDate>Thu, 12 Mar 2026 09:35:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[在岸人民币兑美元3月12日16:30收盘报6.8752，较上一交易日下跌52点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4848192.d.html</link>
-            <guid>4738363</guid>
-            <pubDate>Thu, 12 Mar 2026 08:32:12 GMT</pubDate>
+            <title><![CDATA[【通威股份：拟发行股份及支付现金购买资产并募资】通威股份公告称，2026年3月10日，公司第九届董事会第七次会议通过议案，拟发行股份及支付现金购买段雍等57名股东持有的青海丽豪清能股份有限公司100%股权，交易价格待定，发行股份价格为15.20元/股。同时，拟向不超35名特定投资者发行股份募集配套资金，总额不超购买资产交易价的100%，发行数量不超购买资产完成后总股本的30%。本次交易预计提升公司总资产、净资产和营收，增强持续经营能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8502352.d.html</link>
+            <guid>4738490</guid>
+            <pubDate>Thu, 12 Mar 2026 09:35:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港铁公司全年营收554.7亿港元，预估574.2亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4848148.d.html</link>
-            <guid>4738362</guid>
-            <pubDate>Thu, 12 Mar 2026 08:32:09 GMT</pubDate>
+            <title><![CDATA[【新赛股份：持股5%以上股东累计减持1.9953%股份】新赛股份公告称，持股5%以上股东中新建胡杨私募股权基金管理有限公司 - 新疆中新建胡杨产业投资基金合伙企业（有限合伙），因基金运作需要，于2026年3月2日和3月11日通过大宗交易累计减持1160万股，占公司总股本的1.9953%，持股比例由7.83%降至5.8365%。本次减持不触及要约收购，不会导致公司控股股东、实际控制人变化，也不存在损害公司及其股东利益的情形。]]></title>
+            <guid>4738489</guid>
+            <pubDate>Thu, 12 Mar 2026 09:34:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港铁公司全年净利润146.8亿港元，预估159.1亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8607095.d.html</link>
-            <guid>4738361</guid>
-            <pubDate>Thu, 12 Mar 2026 08:32:00 GMT</pubDate>
+            <title><![CDATA[【奇安信推出首款代码安全智能体】3月12日，奇安信正式推出首款代码安全智能体——Qcode Agents。作为其新成立的AI公司的首个落地成果，该产品聚焦于代码安全检测的智能化转型。与传统工具不同，Qcode Agents强调“多智能体协同”，凭借专家级推理、多能力集成、多场景覆盖，将安全检测深度嵌入研发流程，显著提升交付效率，推动国产代码安全检测正式迈入“全场景智能体”的闭环。奇安信表示，目前已创新规划研发了AI安全产品矩阵，后续将陆续推向市场，为行业客户提供更高水平的智能化安全解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4751569.d.html</link>
+            <guid>4738488</guid>
+            <pubDate>Thu, 12 Mar 2026 09:34:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[由于大宗商品价格高企，德国基尔世界经济研究所（IFW）将2026年经济增长预测从冬季预测的1.0%下调至0.8%。]]></title>
-            <guid>4738360</guid>
-            <pubDate>Thu, 12 Mar 2026 08:31:39 GMT</pubDate>
+            <title><![CDATA[【天龙股份：拟以642.02万元参与竞买昆山国投持有的苏州豪米波1.012%股权】天龙股份公告，公司于2026年3月12日召开第五届董事会第十一次会议，以7票同意、0票反对、0票弃权的表决结果，审议通过《关于与昆山开发区国投控股有限公司签署股权挂牌转让意向协议书的议案》，同意公司签署意向协议书，拟以642.02万元参与竞买昆山国投持有的苏州豪米波1.012%股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8501984.d.html</link>
+            <guid>4738487</guid>
+            <pubDate>Thu, 12 Mar 2026 09:34:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[理想汽车：2025年第四季度的净利润为人民币20.2百万元（2.9百万美元），而2024年第四季度的净利润为人民币35亿元。]]></title>
-            <guid>4738359</guid>
-            <pubDate>Thu, 12 Mar 2026 08:31:34 GMT</pubDate>
+            <title><![CDATA[【日本汽油价格持续上涨】由于霍尔木兹海峡通行受阻，严重依赖从中东进口石油的日本汽油价格近期暴涨。东京加油站汽油零售价已从一周前的每升150多日元（1美元约合159日元）升至每升190日元以上。共同社11日援引日本石油情报中心的消息报道，日本国内石油批发商拟从12日起将汽油批发价上调约每升25日元，各加油站可据此自行决定调价幅度。这将是1990年有可比数据以来最大涨幅。 (新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1724616.d.html</link>
+            <guid>4738486</guid>
+            <pubDate>Thu, 12 Mar 2026 09:34:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[理想汽车第四季度归属股东的调整后净利润2.607亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1829505.d.html</link>
-            <guid>4738358</guid>
-            <pubDate>Thu, 12 Mar 2026 08:31:09 GMT</pubDate>
+            <title><![CDATA[国际能源署（IEA）署长比罗尔在新闻发布会上拒绝就石油储备释放的每日节奏发表评论。]]></title>
+            <guid>4738485</guid>
+            <pubDate>Thu, 12 Mar 2026 09:33:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[理想汽车预计第一季度营收204亿元人民币至216亿元人民币。]]></title>
-            <guid>4738357</guid>
-            <pubDate>Thu, 12 Mar 2026 08:30:34 GMT</pubDate>
+            <title><![CDATA[市场消息：特斯拉正在设计生产线，每周生产数百辆Cybercab。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8501506.d.html</link>
+            <guid>4738484</guid>
+            <pubDate>Thu, 12 Mar 2026 09:33:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[理想汽车预计第一季度营收204亿元人民币至216亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4840182.d.html</link>
-            <guid>4738356</guid>
-            <pubDate>Thu, 12 Mar 2026 08:30:26 GMT</pubDate>
+            <title><![CDATA[【新赛股份：持股5%以上股东累计减持1.9953%股份】新赛股份公告称，持股5%以上股东中新建胡杨私募股权基金管理有限公司 - 新疆中新建胡杨产业投资基金合伙企业（有限合伙），因基金运作需要，于2026年3月2日和3月11日通过大宗交易累计减持1160万股，占公司总股本的1.9953%，持股比例由7.83%降至5.8365%。本次减持不触及要约收购，不会导致公司控股股东、实际控制人变化，也不存在损害公司及其股东利益的情形。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1724056.d.html</link>
+            <guid>4738483</guid>
+            <pubDate>Thu, 12 Mar 2026 09:32:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[理想汽车预计第一季度交付量85000至90000辆，预估87609。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1829125.d.html</link>
-            <guid>4738355</guid>
-            <pubDate>Thu, 12 Mar 2026 08:30:18 GMT</pubDate>
+            <title><![CDATA[【信维通信：不排除进一步提升对信维电子科技（益阳）有限公司的持股比例】信维通信3月12日在互动平台表示，公司作为参股股东之一，会遵循全体股东的意愿，不排除进一步提升对信维电子科技（益阳）有限公司的持股比例。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4750358.d.html</link>
+            <guid>4738482</guid>
+            <pubDate>Thu, 12 Mar 2026 09:32:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[理想汽车第四季度营收288亿元人民币，预估288.4亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4847002.d.html</link>
-            <guid>4738354</guid>
-            <pubDate>Thu, 12 Mar 2026 08:30:10 GMT</pubDate>
+            <title><![CDATA[市场消息：特斯拉全新无方向盘、无踏板的无人驾驶出租车 Cybercab 已于上月在奥斯汀工厂正式下线。]]></title>
+            <guid>4738481</guid>
+            <pubDate>Thu, 12 Mar 2026 09:32:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【自然资源部部长关志鸥：让乘邮轮、玩海钓成为文旅新时尚】自然资源部部长关志鸥3月12日在十四届全国人大四次会议第三场“部长通道”上表示，将在“十五五”时期，加快推动海洋经济高质量发展。其中，要更加注重人海和谐，精心守护碧海银滩，让乘邮轮、玩海钓成为文旅新时尚。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8605815.d.html</link>
-            <guid>4738353</guid>
-            <pubDate>Thu, 12 Mar 2026 08:28:57 GMT</pubDate>
+            <title><![CDATA[【送样未通过致股价下跌？联特科技回应：从未公布过相关信息】近日，有消息称联特科技800G/1.6T产品已实现批量出货，已获取英伟达800G及谷歌800G小批量订单，但本周“1.6T送样没通过”致股价下跌。对此，联特科技公司接线工作人员表示，“我们800G是一直是量产的状态，1.6T我们只是具备这个量产的能力，但是目前并没有实现出货。如果说1.6T情况有变化，我们一般会在互动易上对大家进行回复。”而对于网传的“供货谷歌”等相关客户信息，该工作人员称公司从未对外公布过，“对于网上各种各样的谣传，提醒一下大家保持谨慎”。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4749949.d.html</link>
+            <guid>4738480</guid>
+            <pubDate>Thu, 12 Mar 2026 09:31:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宝马首席财务官谈2026年关税影响降低：预计美国和欧盟将在下半年达成新协议，墨西哥和加拿大也会有相关进展。]]></title>
-            <guid>4738352</guid>
-            <pubDate>Thu, 12 Mar 2026 08:27:30 GMT</pubDate>
+            <title><![CDATA[德国伊弗经济研究所（Ifo）表示，如果能源价格在较长时间内维持高位，2026年德国国内生产总值（GDP）预测值可能会降低0.2个百分点。]]></title>
+            <guid>4738479</guid>
+            <pubDate>Thu, 12 Mar 2026 09:30:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【九号公司支持接入OpenClaw，3月13日启动内测报名】3月12日，记者从九号公司了解到，九号公司已支持OpenClaw接入，内测报名将于3月13日在九号出行App“圈子”启动。目前，ninebot-device-skill已正式上架ClawHub，用户未来可通过自然语言查询车辆状态、续航、电池健康度、定位及里程等信息，AI Agent可基于授权数据，主动提醒，生成车辆简报，提供出行效率分析及充电、安全提醒等服务。九号公司表示，首批开放能力仅限于只读权限，不涉及远程解锁、调速控制等车辆操控功能。（中证金牛座）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1827823.d.html</link>
-            <guid>4738351</guid>
-            <pubDate>Thu, 12 Mar 2026 08:26:50 GMT</pubDate>
+            <title><![CDATA[德国伊弗经济研究所（Ifo）警告称，能源价格长期飙升可能会使2026年经济增长率降至0.6%。]]></title>
+            <guid>4738478</guid>
+            <pubDate>Thu, 12 Mar 2026 09:30:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【蓝帆医疗：子公司完成8亿元收购两公司100%股权】蓝帆医疗公告称，公司控股子公司山东蓝帆健康科技有限公司以8亿元自有资金收购淄博蓝帆健康科技有限公司及淄博蓝帆防护用品有限公司100%股权。截至公告日，已完成全部股权转让价款支付并办毕工商变更登记，淄博健康科技股东由蓝帆医疗变为山东健康科技；淄博蓝帆防护股东由蓝帆（香港）贸易变为山东健康科技，市场主体类型从外商投资企业变为内资企业，注册资本变为62,749.4万元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4845130.d.html</link>
-            <guid>4738350</guid>
-            <pubDate>Thu, 12 Mar 2026 08:26:35 GMT</pubDate>
+            <title><![CDATA[【伊朗伊斯兰革命卫队称袭击美国油轮】伊朗伊斯兰革命卫队今天（3月12日）称袭击了一艘悬挂马绍尔群岛国旗的美国“萨菲西亚”号油轮，因其无视伊朗伊斯兰革命卫队海军的警告。 革命卫队还表示，在霍尔木兹海峡作业的油轮和船只应该明白，这种不安全是美国在该地区残酷侵略的结果。为了自身安全，他们必须遵守伊朗宣布的战时状态下的航行法律法规。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4748870.d.html</link>
+            <guid>4738477</guid>
+            <pubDate>Thu, 12 Mar 2026 09:30:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【百川股份：股票交易异常波动 2025年预亏6000万-1.1亿元】百川股份公告称，公司股票连续2个交易日（2026年3月11日、3月12日）收盘价格涨幅偏离值累计超20%，属异常波动。经核查，除部分化工产品涨价外，公司经营及内外环境未变，不存在应披露未披露重大事项，异常波动期间控股股东、实控人无买卖公司股票情况。公司2025年度预计净亏损6000万元-1.1亿元，同比下降201.22%-155.21%，业绩以年报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8604860.d.html</link>
-            <guid>4738349</guid>
-            <pubDate>Thu, 12 Mar 2026 08:26:30 GMT</pubDate>
+            <title><![CDATA[南非统计局：1月份南非黄金产量同比下降0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4741807.d.html</link>
+            <guid>4738476</guid>
+            <pubDate>Thu, 12 Mar 2026 09:29:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银河磁体：终止购买京都龙泰100%股权事项】银河磁体(300127)3月12日公告，公司原拟以发行股份及支付现金的方式购买四川京都龙泰科技有限公司100%股权。自本次交易预案披露以来，公司及相关各方有序推进和落实本次交易的各项工作，但由于公司与本次交易的交易对方就本次交易价格等部分核心条款未达成一致，公司经审慎研究后，决定终止本次交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1827632.d.html</link>
-            <guid>4738348</guid>
-            <pubDate>Thu, 12 Mar 2026 08:26:27 GMT</pubDate>
+            <title><![CDATA[【兔宝宝：2025年净利润7.22亿元，同比增长23.29%】兔宝宝发布业绩快报，2025年度实现营业总收入88.87亿元，同比下降3.29%；净利润7.22亿元，同比增长23.29%。报告期内归属于上市公司股东的净利润7.22亿元，同比增加23.29%，主要系参股公司悍高集团股份有限公司于2025年7月上市，公允价值变动损益增加2.53亿元所致。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1722528.d.html</link>
+            <guid>4738475</guid>
+            <pubDate>Thu, 12 Mar 2026 09:28:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【自然资源部部长关志鸥：去年海洋生产总值突破11万亿元】自然资源部部长关志鸥3月12日在十四届全国人大四次会议第三场“部长通道”上表示，我们的蓝色家底变得更加厚实。2025年海洋生产总值突破了11万亿元，占GDP的比重达到7.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8604677.d.html</link>
-            <guid>4738347</guid>
-            <pubDate>Thu, 12 Mar 2026 08:26:14 GMT</pubDate>
+            <title><![CDATA[以色列：开始对伊朗进行一系列空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4747799.d.html</link>
+            <guid>4738474</guid>
+            <pubDate>Thu, 12 Mar 2026 09:27:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根士丹利股价盘前下跌2.2%，因该公司旗下一只私人信贷基金在赎回潮后限制赎回。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4837710.d.html</link>
-            <guid>4738346</guid>
-            <pubDate>Thu, 12 Mar 2026 08:25:56 GMT</pubDate>
+            <title><![CDATA[【药明生物与Earendil Labs达成战略合作】药明生物与生物科技公司Earendil Labs今日共同宣布，双方签署战略合作协议，药明生物将为Earendil Labs管线中多款用于治疗自身免疫性疾病、肿瘤等疾病的双特异性/多特异性抗体及抗体偶联药物（ADC）提供一体化开发与生产服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1721958.d.html</link>
+            <guid>4738473</guid>
+            <pubDate>Thu, 12 Mar 2026 09:26:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【老板电器在AWE2026上发布全球首款AI烹饪眼镜】3月12日，老板电器(002508)在2026年中国家电及消费电子博览会（简称“AWE2026”）上正式发布全球首款AI烹饪眼镜。据介绍，该产品搭载老板电器自主研发的烹饪领域AI大模型“食神”，可以通过镜头识别到做饭时需要的食材，步骤等，并帮助用户减少烹饪过程中的疑问，同时还能联动老板电器AI数字厨电一整套烹饪设备，指挥油烟机、灶具、蒸烤箱等协同工作，完成从备菜到出锅的烹饪全流程。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8604402.d.html</link>
-            <guid>4738345</guid>
-            <pubDate>Thu, 12 Mar 2026 08:25:50 GMT</pubDate>
+            <title><![CDATA[【HCL宣布与谷歌云就AI智能体扩大合作】HCL公司3月12日宣布，将扩大与谷歌云的战略合作，HCL将运用Gemini模型为全球客户打造定制化AI智能体，同时通过谷歌工作空间强化协作与安全保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8498434.d.html</link>
+            <guid>4738472</guid>
+            <pubDate>Thu, 12 Mar 2026 09:25:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：科威特民航部门称，科威特国际机场遭多架无人机袭击，仅报告有物质损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4837432.d.html</link>
-            <guid>4738344</guid>
-            <pubDate>Thu, 12 Mar 2026 08:25:32 GMT</pubDate>
+            <title><![CDATA[知情人士：特朗普担心市场可能对他不利，而且高油价对他构成政治威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1721073.d.html</link>
+            <guid>4738471</guid>
+            <pubDate>Thu, 12 Mar 2026 09:25:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宏景科技今日20cm涨停，有3家机构专用席位净卖出1.44亿元】宏景科技今日20cm涨停，成交额36.72亿元，换手率33.96%，盘后龙虎榜数据显示，深股通专用席位买入2.48亿元并卖出2.43亿元，1家机构专用席位净买入6694.90万元，有3家机构专用席位净卖出1.44亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1826917.d.html</link>
-            <guid>4738343</guid>
-            <pubDate>Thu, 12 Mar 2026 08:25:25 GMT</pubDate>
+            <title><![CDATA[【俄莫斯科州音乐厅恐袭案宣判：15人被判终身监禁 4人重刑】当地时间3月12日，俄罗斯第二西部军事法院对“克罗库斯城”音乐厅恐怖袭击案作出判决，包含4名直接实施恐袭的凶手在内的15人被判处终身监禁，其余4人被判处19年11个月至22年6个月的有期徒刑。法庭还对被定罪人员处以250万至270万卢布不等的罚款。当天，俄罗斯联邦侦查委员会称，“克罗库斯城”音乐厅恐怖袭击案是出于乌克兰现领导层的利益而策划并实施的。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4746554.d.html</link>
+            <guid>4738470</guid>
+            <pubDate>Thu, 12 Mar 2026 09:24:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【南网数字今日跌4.82%，有4家机构专用席位净卖出1.25亿元】南网数字今日跌4.82%，成交额32.14亿元，换手率40.20%，盘后龙虎榜数据显示，深股通专用席位买入1.77亿元并卖出2.51亿元，有4家机构专用席位净卖出1.25亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4844015.d.html</link>
-            <guid>4738342</guid>
-            <pubDate>Thu, 12 Mar 2026 08:24:58 GMT</pubDate>
+            <title><![CDATA[【花旗银行关闭阿联酋所有分行至3月14日】花旗银行在网站表示，作为预防措施，将关闭其在阿联酋的所有分行和金融中心，直至3月14日。 计划于3月16日重新开放所有受影响的分行。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4739388.d.html</link>
+            <guid>4738469</guid>
+            <pubDate>Thu, 12 Mar 2026 09:24:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【自然资源部部长关志鸥：要加快推进不动产登记“跨省通办”】自然资源部部长关志鸥3月12日在十四届全国人大四次会议第三场“部长通道”上表示，近期要加快推进不动产登记“跨省通办”，实事求是解决林耕矛盾等历史遗留问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4843907.d.html</link>
-            <guid>4738341</guid>
-            <pubDate>Thu, 12 Mar 2026 08:24:49 GMT</pubDate>
+            <title><![CDATA[【宁德时代与力拓集团签署合作备忘录】近日，力拓集团与宁德时代签署《关于建立合作伙伴关系之谅解备忘录》，双方将围绕电气化战略发展与创新、供应链与循环经济以及商业与合作机制三大方向展开深度合作，共同把握低碳转型带来的产业新机遇。根据《备忘录》，双方将重点推进采矿作业领域的电气化应用，探索电池材料回收利用与关键矿产资源循环发展的商业路径，并研究循环经济实践和多元合作模式。宁德时代将发挥其在电池技术、系统集成及新能源解决方案领域的优势，助力力拓提升运营效率、推进碳减排和电气化进程。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4738612.d.html</link>
+            <guid>4738468</guid>
+            <pubDate>Thu, 12 Mar 2026 09:22:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【大金重工今日涨停，有4家机构专用席位净卖出1.43亿元】大金重工今日涨停，成交额16.41亿元，换手率3.71%，盘后龙虎榜数据显示，深股通专用席位买入1.29亿元并卖出1.75亿元，1家机构专用席位净买入3783.43万元，有4家机构专用席位净卖出1.43亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4836846.d.html</link>
-            <guid>4738340</guid>
-            <pubDate>Thu, 12 Mar 2026 08:24:39 GMT</pubDate>
+            <title><![CDATA[【工信部启动2026年度城域“毫秒用算”专项行动】工信部办公厅发布关于组织做好2026年度城域“毫秒用算”专项行动的通知。2026年度拟在50个地区开展城域“毫秒用算”专项行动，提升算力高效运载能力，推动算网融合发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1719921.d.html</link>
+            <guid>4738467</guid>
+            <pubDate>Thu, 12 Mar 2026 09:22:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中化化肥发通知要求客户不得参与化肥市场炒作】3月12日，中化化肥发布通知，当前正值国内春耕用肥关键时期，公司为进一步贯彻落实国家化肥保供稳价精神，要求公司客户不得参与化肥市场炒作、哄抬价格、囤积居奇等，要主动维护化肥市场秩序稳定，严禁客户转卖和囤积，要求客户合理定价销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1826067.d.html</link>
-            <guid>4738339</guid>
-            <pubDate>Thu, 12 Mar 2026 08:24:11 GMT</pubDate>
+            <title><![CDATA[【赣粤高速：2026年2月车辆通行服务收入3.48亿元】赣粤高速公告称，2026年2月车辆通行服务收入为348,138,907.48元，其中昌九高速105,956,346.08元、昌樟高速58,821,984.68元等。上述数据未经审计，通行服务收入含增值税。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4744978.d.html</link>
+            <guid>4738465</guid>
+            <pubDate>Thu, 12 Mar 2026 09:21:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊戈尔今日跌9.49%，有3家机构专用席位净卖出1.17亿元】伊戈尔今日跌9.49%，成交额16.13亿元，换手率10.16%，盘后龙虎榜数据显示，深股通专用席位买入2612.12万元并卖出3861.87万元，有3家机构专用席位净卖出1.17亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1825964.d.html</link>
-            <guid>4738338</guid>
-            <pubDate>Thu, 12 Mar 2026 08:24:04 GMT</pubDate>
+            <title><![CDATA[【*ST长药：股票3月20日起进入退市整理期 预计4月10日为最后交易日】*ST长药公告称，公司于2026年3月12日收到深交所终止公司股票上市交易的决定，公司股票将于3月20日起进入退市整理期，退市整理期为十五个交易日，预计最后交易日期为4月10日，期满的次一交易日摘牌并终止上市。退市整理期首个交易日不实行价格涨跌幅限制，此后每日涨跌幅限制为20%。期间公司不筹划或实施重大资产重组。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4737021.d.html</link>
+            <guid>4738464</guid>
+            <pubDate>Thu, 12 Mar 2026 09:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银轮股份今日跌7.83%，有4家机构专用席位净卖出2.94亿元】银轮股份今日跌7.83%，成交额22.92亿元，换手率5.96%，盘后龙虎榜数据显示，深股通专用席位买入2.46亿元并卖出1.24亿元，4家机构专用席位净买入1.60亿元，有4家机构专用席位净卖出2.94亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1825842.d.html</link>
-            <guid>4738337</guid>
-            <pubDate>Thu, 12 Mar 2026 08:23:53 GMT</pubDate>
+            <title><![CDATA[【罗普斯金：拟投资不超过600万美元设立越南孙公司】罗普斯金公告，拟以自有资金通过新加坡全资子公司设立越南全资孙公司，投资金额不超过600万美元，实际投资金额以中国及当地主管部门批准金额为准。越南孙公司注册地址为越南兴安省，注册资本600万美元，经营范围包括金属材料制造、门窗制造加工、货物进出口等。本次投资有利于公司开拓海外市场，提高海外产品供应与服务能力，符合公司长期发展战略规划。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8495213.d.html</link>
+            <guid>4738463</guid>
+            <pubDate>Thu, 12 Mar 2026 09:17:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伟明环保：中标印尼茂物垃圾焚烧发电项目】伟明环保公告称，2026年3月12日，公司收到中标通知书，确认作为牵头人组成的联合体为印尼茂物垃圾焚烧发电项目中标单位。项目规划建设约1500吨/日炉排炉垃圾焚烧处理及发电设施，建设期约2年，运营合作期自商业运营后30年。此次中标是公司在印尼第二个该类项目，将扩大业务规模，对未来业绩有积极影响，但对2026年度业绩无重大影响。后续将签正式协议，以最终签署的协议为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4836248.d.html</link>
-            <guid>4738336</guid>
-            <pubDate>Thu, 12 Mar 2026 08:23:44 GMT</pubDate>
+            <title><![CDATA[【美情报评估认为伊朗政权依然稳固】美国和以色列对伊朗军事打击近两周，且美以领导人多次吐露推动伊朗“政权更迭”的意图。但据多名消息人士透露，美国情报部门评估认为，伊朗政权依然稳固，不会如美以期望的那样迅速崩垮。 (参考消息)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4743568.d.html</link>
+            <guid>4738462</guid>
+            <pubDate>Thu, 12 Mar 2026 09:17:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【御银股份今日涨4.32%，3家机构专用席位净买入1.09亿元】御银股份今日涨4.32%，成交额26.36亿元，换手率41.07%，盘后龙虎榜数据显示，深股通专用席位买入1.48亿元并卖出9575.42万元，3家机构专用席位净买入1.09亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8602649.d.html</link>
-            <guid>4738335</guid>
-            <pubDate>Thu, 12 Mar 2026 08:23:24 GMT</pubDate>
+            <title><![CDATA[市场消息：乐天化学旗下部门因伊朗危机影响供应而警示可能宣布不可抗力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8494793.d.html</link>
+            <guid>4738461</guid>
+            <pubDate>Thu, 12 Mar 2026 09:16:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国泰航空下周三起上调燃油附加费，增幅超一倍】据香港电台3月12日报道，国泰航空宣布，3月18日起上调客运燃油附加费，短、中、长途航班增幅均超过一倍。下星期三起，短途航班将由现时港币142元上调至290元、中程航班由264元增至541元、长途航班由569元升至1164元。国泰航空表示，受中东局势最新发展影响，航空燃油价格自3月以来已上涨近一倍，燃油附加费将按既定机制上调。国泰航空说，会定期检视燃油附加费水平，密切留意航空燃油价格走势。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4842569.d.html</link>
-            <guid>4738334</guid>
-            <pubDate>Thu, 12 Mar 2026 08:22:57 GMT</pubDate>
+            <title><![CDATA[市场消息：真主党仍然拥有超过1000枚能够打击以色列的远程导弹，以及数万枚短程火箭弹。]]></title>
+            <guid>4738460</guid>
+            <pubDate>Thu, 12 Mar 2026 09:16:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：印度计划设立新的 110 亿美元基金，以支持本土芯片制造。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4835462.d.html</link>
-            <guid>4738333</guid>
-            <pubDate>Thu, 12 Mar 2026 08:22:44 GMT</pubDate>
+            <title><![CDATA[【以军宣布大规模空袭伊朗基础设施】以色列国防军今天（3月12日）宣布，以色列空军已对伊朗发动新一轮“大规模”空袭。以色列国防军称，此次空袭的目标是伊朗多个地区的基建设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4742749.d.html</link>
+            <guid>4738459</guid>
+            <pubDate>Thu, 12 Mar 2026 09:15:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国内航司再次停飞迪拜航班 东航机票最早4月1日开售】从3月13日开始，国内几家已经恢复部分迪拜航班的航空公司，再次取消飞往迪拜的航班。国航，东航等官网3月13日到3月31日均没有国内飞往阿联酋迪拜的航班，最早的机票开售日期是4月1日。此前几天，国航，东航，南航，海航已陆续恢复部分北上广和海口到迪拜的航班。航空公司人士透露，这一批恢复并非全面恢复定期航班，而是每一班都会对安全进行评估。 (第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8601483.d.html</link>
-            <guid>4738332</guid>
-            <pubDate>Thu, 12 Mar 2026 08:21:52 GMT</pubDate>
+            <title><![CDATA[【市场监管总局发布验光配镜计量消费提示和经营者合规提示】为加强眼镜制配环节的计量监管，从源头上保障消费者视力健康，市场监管总局近日发布验光配镜计量消费提示与眼镜制配经营者计量合规提示。两份提示分别面向消费者与经营者，旨在引导消费者科学选配眼镜、依法维护自身合法权益，同时督促从业者强化计量管理意识、规范眼镜制配计量行为。通过双向发力，共同维护公平、准确、安全的眼镜制配市场环境，守护清晰“视”界。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1716894.d.html</link>
+            <guid>4738458</guid>
+            <pubDate>Thu, 12 Mar 2026 09:15:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国银河等在哈尔滨成立股权投资合伙企业 出资额2.44亿】天眼查工商信息显示，近日，哈尔滨龙瑞股权投资合伙企业（有限合伙）成立，执行事务合伙人为银河创新资本管理有限公司，出资额2.44亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动，以自有资金从事投资活动，创业投资，由哈尔滨创业投资集团有限公司、中国银河（601881）旗下银河创新资本管理有限公司共同出资。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1824243.d.html</link>
-            <guid>4738331</guid>
-            <pubDate>Thu, 12 Mar 2026 08:21:49 GMT</pubDate>
+            <title><![CDATA[【神州数码：近期为子公司提供11.5亿元担保】神州数码公告称，公司近期为子公司提供三笔担保，包括为合肥神州数码1亿元授信业务、广州神州数码信息科技2.5亿元贸易事项提供连带责任保证；子公司神州数码（中国）为合肥神州数码8亿元贸易事项提供连带责任保证。截至公告日，公司及控股子公司对外担保总金额655.61亿元，实际占用额288.69亿元，占最近一期经审计净资产的312.26%，无逾期担保及涉诉担保。]]></title>
+            <guid>4738457</guid>
+            <pubDate>Thu, 12 Mar 2026 09:15:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中南文化：股票交易异常波动 拟购苏龙热电57.30%股权】中南文化公告称，公司股票交易价格连续两个交易日（2026年3月11日、3月12日）收盘价格涨幅偏离值累计超20%，属于异常波动。公司拟以发行股份及支付现金方式购买电力投资持有的苏龙热电57.30%股权并募集配套资金，相关审计、评估工作未完成。控股股东及实控人在异常波动期间未买卖公司股票，公司不存在应披露未披露重大事项，目前经营正常。本次交易尚需多项条件及主管部门批准，存在不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8601109.d.html</link>
-            <guid>4738330</guid>
-            <pubDate>Thu, 12 Mar 2026 08:21:27 GMT</pubDate>
+            <title><![CDATA[戴姆勒卡车首席执行官：电动卡车的利润率与内燃机卡车处于同一水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4742515.d.html</link>
+            <guid>4738456</guid>
+            <pubDate>Thu, 12 Mar 2026 09:15:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“3·15”倒计时 江苏发布消费“避坑”指南】据新华日报，“3·15”国际消费者权益日即将到来。3月12日，江苏省市场监管局、江苏省消保委联合发布消费提示，帮助广大消费者有效规避消费陷阱，维护自身合法权益。具体提示如下：维权的关键在于证据。请在消费过程中做好“三步走”：一是交易凭证必留存。消费时请务必索取并妥善保管发票、收据、支付记录、订单截图等交易凭证，明确商品名称、规格、价格、交易时间、商家信息等关键内容，避免因凭证缺失导致维权无据。二是口头承诺落纸面。对于商家的口头承诺，如退换货政策、质量保障、服务细则等，尽量要求商家以书面形式确认，或留存聊天记录、录音录像等电子证据，防止商家事后推诿扯皮。三是收货服务细核对。收到商品或接受服务后，请及时核对商品外观、规格、数量、质量及服务标准是否与约定一致；特别是易变质、易损耗商品，务必当场查验，一旦发现问题，立即拍照或录像取证，明确问题与商品的关联。遇到消费纠纷时，请按以下步骤处理，提高解决效率：一是首选沟通协商。主动与商家沟通，客观陈述问题，明确提出合法合理的诉求（如退换货、维修、赔偿等），并出示相关凭证。沟通时保持理性克制，避免发生言语冲突，争取通过协商达成一致解决方案。二是专业调解助力。若协商无果，可向当地消费者协会或行业调解组织申请调解，由专业调解人员依据相关法律法规进行调解，帮助化解纠纷。三是依法投诉举报。若发现商家存在涉嫌违法违规行为，可及时向相关部门、12315平台和12345热线投诉举报。请如实反映情况并提交相关证据，由相关部门依法调查处理、查处违法商家，维护市场秩序和消费者合法权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8600176.d.html</link>
-            <guid>4738329</guid>
-            <pubDate>Thu, 12 Mar 2026 08:20:27 GMT</pubDate>
+            <title><![CDATA[【财通证券：获证监会批复，可发不超80亿元次级债券】财通证券公告称，公司近日收到中国证监会批复，同意其向专业投资者公开发行面值总额不超过80亿元次级债券的注册申请。本次发行应按报送上海证券交易所的募集说明书进行，批复自同意注册之日起24个月内有效，公司可分期发行。发行结束前若发生重大事项，应及时报告处理。公司将按要求及股东会授权办理发行相关事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8493798.d.html</link>
+            <guid>4738455</guid>
+            <pubDate>Thu, 12 Mar 2026 09:14:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【司法部部长贺荣：规范涉企执法专项行动为企业减少经济损失近300亿元】司法部部长贺荣在十四届全国人大四次会议第三场“部长通道”上介绍，去年司法部部署在全国开展规范涉企执法专项行动，查处纠正6万多件相关案件，为企业减少经济损失近300亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8599359.d.html</link>
-            <guid>4738328</guid>
-            <pubDate>Thu, 12 Mar 2026 08:19:33 GMT</pubDate>
+            <title><![CDATA[【爱旭股份：为子公司提供7亿元担保 累计担保248.26亿元】爱旭股份公告称，公司为子公司珠海爱旭和浙江爱旭分别提供6亿元和1亿元担保，累计担保总额达248.26亿元，占公司最近一期经审计净资产的698.48%，仍在2024年年度股东会授权额度362亿元范围内，无需再次提交审议。被担保方均为公司合并报表范围内的全资及控股子公司，担保风险可控。截至公告日，公司及子公司无逾期担保情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1716584.d.html</link>
+            <guid>4738454</guid>
+            <pubDate>Thu, 12 Mar 2026 09:14:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乘联分会：新能源2月批发销量突破万辆的厂商达16家，占新能源乘用车总量90.9%】乘联分会数据显示，2月新能源乘用车企业总体走势较强，比亚迪纯电动与插混双驱动夯实自主品牌新能源领先地位；以比亚迪汽车、吉利汽车、奇瑞汽车等为代表的狭义插混表现持续较强。在产品投放方面，随着自主车企在新能源路线上“多线并举”策略的实施，市场基盘持续扩大，新能源月度批发销量突破万辆的厂商达到16家（同比多1家，环比持平），占新能源乘用车总量90.9%（上月90.5%，去年同期91.6%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1821782.d.html</link>
-            <guid>4738327</guid>
-            <pubDate>Thu, 12 Mar 2026 08:19:06 GMT</pubDate>
+            <title><![CDATA[【神州数码：近期为子公司提供11.5亿元担保】神州数码公告称，公司近期为子公司提供三笔担保，包括为合肥神州数码1亿元授信业务、广州神州数码信息科技2.5亿元贸易事项提供连带责任保证；子公司神州数码（中国）为合肥神州数码8亿元贸易事项提供连带责任保证。截至公告日，公司及控股子公司对外担保总金额655.61亿元，实际占用额288.69亿元，占最近一期经审计净资产的312.26%，无逾期担保及涉诉担保。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1716567.d.html</link>
+            <guid>4738453</guid>
+            <pubDate>Thu, 12 Mar 2026 09:14:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【爱诗科技近期完成3亿美元C轮融资】3月12日，记者获悉，爱诗科技近期完成了3亿美元C轮融资，由鼎晖投资领投，超过20家机构参与，包括中国儒意、三七互娱等文娱行业产业方，亦庄国投、苏创投等地方国资，UOB Venture Management、 Lion X基金等海外机构。这是目前为止中国视频生成领域最大的单笔融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4839073.d.html</link>
-            <guid>4738326</guid>
-            <pubDate>Thu, 12 Mar 2026 08:19:00 GMT</pubDate>
+            <title><![CDATA[俄罗斯国防部：乌克兰旨在停止向欧洲客户供应天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8492664.d.html</link>
+            <guid>4738452</guid>
+            <pubDate>Thu, 12 Mar 2026 09:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国际航协：1月航空客运总需求同比增长3.8%】国际航空运输协会3月12日发布2026年1月航空客运市场数据显示，总需求（按照RPK收入客公里计算）同比2025年1月增长3.8%。总运力（按照ASK可用座公里计算）同比增长3.5%，1月载客率82.0%，同比增0.2个百分点，创历年1月份新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1821691.d.html</link>
-            <guid>4738325</guid>
-            <pubDate>Thu, 12 Mar 2026 08:18:58 GMT</pubDate>
+            <title><![CDATA[俄罗斯国防部：核电站未受损。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8492578.d.html</link>
+            <guid>4738451</guid>
+            <pubDate>Thu, 12 Mar 2026 09:11:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[戴姆勒卡车首席财务官：2025年美国关税影响约为2.5亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4831537.d.html</link>
-            <guid>4738324</guid>
-            <pubDate>Thu, 12 Mar 2026 08:18:04 GMT</pubDate>
+            <title><![CDATA[欧洲议会贸易委员会主席表示，关于美国的301关税调查，任何偏离欧美贸易协定的举措都将是不可接受的。]]></title>
+            <guid>4738450</guid>
+            <pubDate>Thu, 12 Mar 2026 09:11:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗袭击以多处军事和安全机构目标】伊朗军方今天（3月12日）发布公告称，伊朗军队当天使用无人机对以色列帕尔马希姆和奥夫达空军基地以及以色列国家安全总局（辛贝特）总部发动袭击。声明称，此次行动打击了相关基地的指挥塔、跑道和机库等设施。伊朗方面表示，帕尔马希姆空军基地位于特拉维夫附近，是以色列卫星发射和导弹试验的重要基地，奥夫达空军基地为以色列空军的重要训练设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8598002.d.html</link>
-            <guid>4738323</guid>
-            <pubDate>Thu, 12 Mar 2026 08:17:38 GMT</pubDate>
+            <title><![CDATA[以色列国防军发言人：以色列国防军已在伊朗发动大规模袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8492505.d.html</link>
+            <guid>4738449</guid>
+            <pubDate>Thu, 12 Mar 2026 09:11:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国国防企业股价上涨3% - 5.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4838080.d.html</link>
-            <guid>4738322</guid>
-            <pubDate>Thu, 12 Mar 2026 08:17:25 GMT</pubDate>
+            <title><![CDATA[俄罗斯国防部：乌克兰连夜试图袭击俄罗斯天然气泵站。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1715202.d.html</link>
+            <guid>4738448</guid>
+            <pubDate>Thu, 12 Mar 2026 09:11:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宝马销售主管：中东是重要市场，未来几个月必须密切关注局势，但预计局势平息后客户会回流。]]></title>
-            <guid>4738321</guid>
-            <pubDate>Thu, 12 Mar 2026 08:17:04 GMT</pubDate>
+            <title><![CDATA[【中国炼油厂已被要求暂停石油出口？外交部回应】3月12日，外交部发言人郭嘉昆主持例行记者会。以下为部分问答实录。法新社记者：据报道，由于中东地区战事持续，霍尔木兹海峡交通中断，中国炼油厂已被要求暂停石油出口。中方对此有何评论？郭嘉昆：我不了解你提到的情况，具体问题建议向中方主管部门询问。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4733730.d.html</link>
+            <guid>4738447</guid>
+            <pubDate>Thu, 12 Mar 2026 09:11:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乘联分会：2026年1月中国占世界汽车份额33%】乘联分会数据显示，2025年全球汽车销量9,689万辆，同比增长6%。2026年1月的世界汽车销量达到718万辆，同比增长1%。随着中国和美国车市的相对放缓，2026年1月世界车市销量也随之增长放缓。中国车市走势总体较好，2020年以来中国的世界份额持续提升，到2023年达到33.8%，2024年达到34.2%，2025年中国车市达到世界35.4%。2026年1月中国车市达到世界32.7%，表现平稳。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4837733.d.html</link>
-            <guid>4738320</guid>
-            <pubDate>Thu, 12 Mar 2026 08:16:41 GMT</pubDate>
+            <title><![CDATA[【证监会同意天海电子深市主板IPO注册】证监会同意天海汽车电子集团股份有限公司（简称“天海电子”）首次公开发行股票并在深市主板上市的注册申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4732259.d.html</link>
+            <guid>4738446</guid>
+            <pubDate>Thu, 12 Mar 2026 09:08:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[本田首席执行官：索尼本田移动公司的股东正在讨论其未来发展方向，但截至目前尚未做出任何决定。]]></title>
-            <guid>4738319</guid>
-            <pubDate>Thu, 12 Mar 2026 08:16:34 GMT</pubDate>
+            <title><![CDATA[【一趟从中国丹东开往朝鲜平壤的国际旅客列车抵达平壤站】记者12日在现场看到，一趟从中国丹东开往朝鲜平壤的国际旅客列车抵达平壤站。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4739177.d.html</link>
+            <guid>4738445</guid>
+            <pubDate>Thu, 12 Mar 2026 09:08:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【司法部部长贺荣：今年将在全国统一推行行政检查“扫码入企”】司法部部长贺荣3月12日在十四届全国人大四次会议第三场“部长通道”上表示，今年，司法部将在全国统一推行行政检查“扫码入企”，企业一扫码，谁来检查、检查什么，一目了然。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4837525.d.html</link>
-            <guid>4738318</guid>
-            <pubDate>Thu, 12 Mar 2026 08:16:23 GMT</pubDate>
+            <title><![CDATA[伦敦金属交易所（LME）三个月期铝触及每吨3546.5美元，为2022年3月以来最高，涨幅2.5%。]]></title>
+            <guid>4738444</guid>
+            <pubDate>Thu, 12 Mar 2026 09:06:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【张江高科：2025年营收41.89亿元 同比增长111.22%】张江高科公告称，2025年公司营业总收入41.89亿元，同比增长111.22%，主要因销售租赁住房、产业办公空间载体，确认的空间载体销售收入增加。营业利润10.93亿元，同比减少11.09%；利润总额12.85亿元，同比增加0.79%；归属于上市公司股东的净利润9.85亿元，同比增加0.30%；扣非净利润9.07亿元，同比减少2.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4837195.d.html</link>
-            <guid>4738317</guid>
-            <pubDate>Thu, 12 Mar 2026 08:15:50 GMT</pubDate>
+            <title><![CDATA[IEA月报：海湾国家的石油总产量已减少至少1000万桶/日。如果航运流动无法迅速恢复，供应损失还将进一步扩大。]]></title>
+            <guid>4738443</guid>
+            <pubDate>Thu, 12 Mar 2026 09:06:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中广核技：持股5%以上股东部分股份被轮候冻结】中广核技公告称，3月12日接到持股5%以上股东国合集团函告，其所持本公司41,887,227股被轮候冻结，占其所持股份的35.22%，占公司总股本的4.43%。截至公告日，国合集团持有公司118,914,273股，占总股本12.58%，累计被冻结股份占其所持公司股份的100%，占公司总股本的12.58%。国合集团非控股股东，其股份冻结不影响公司正常经营。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4836827.d.html</link>
-            <guid>4738316</guid>
-            <pubDate>Thu, 12 Mar 2026 08:15:12 GMT</pubDate>
+            <title><![CDATA[嘉实黄金LOF：继续暂停申购（含定期定额投资）业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4730723.d.html</link>
+            <guid>4738442</guid>
+            <pubDate>Thu, 12 Mar 2026 09:06:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【玲珑轮胎：开展股东回馈活动】玲珑轮胎(601966.SH)公告称，为感谢股东支持，公司将开展股东回馈活动，活动时间为2026年3月12日至6月12日。所有玲珑轮胎股东均可参与，每位股东可专享一次“玲珑大师”系列产品9折优惠券，并有机会获得对应价值的京东E卡。活动通过微信扫描二维码参与，股东完成身份验证后可领取专属优惠券，并在京东“玲珑轮胎官方自营旗舰店”使用。活动不影响公司经营情况，敬请投资者注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4829826.d.html</link>
-            <guid>4738315</guid>
-            <pubDate>Thu, 12 Mar 2026 08:15:09 GMT</pubDate>
+            <title><![CDATA[德国农业合作社预测，2026年德国冬季油菜籽产量将同比增长3.7%，达到412.2万吨。]]></title>
+            <guid>4738441</guid>
+            <pubDate>Thu, 12 Mar 2026 09:06:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乘联分会：2月新能源乘用车企业总体走势较强】2月新能源乘用车企业总体走势较强，比亚迪纯电动与插混双驱动夯实自主品牌新能源领先地位；以比亚迪汽车、吉利汽车、奇瑞汽车等为代表的狭义插混表现持续较强。在产品投放方面，随着自主车企在新能源路线上“多线并举”策略的实施，市场基盘持续扩大，新能源月度批发销量突破万辆的厂商达到16家（同比多1家，环比持平），占新能源乘用车总量90.9%（上月90.5%，去年同期91.6%）。其中，比亚迪（187,782辆）、吉利汽车（117,488辆）、特斯拉中国（58,599辆）、长安汽车（40,886辆）、奇瑞汽车（36,091辆）、零跑汽车（28,067辆）、上汽通用五菱（26,874辆）、理想汽车（26,421辆）、上汽乘用车（21,962辆）、东风汽车（21,817辆）、蔚来汽车（20,797辆）、小米汽车（20,414辆）、小鹏汽车（15,256辆）、长城汽车（12,741辆）、广汽埃安（11,742辆）、赛力斯汽车（10,025辆）。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4829745.d.html</link>
-            <guid>4738314</guid>
-            <pubDate>Thu, 12 Mar 2026 08:15:02 GMT</pubDate>
+            <title><![CDATA[【九洲集团：拟为子公司800万元授信提供连带责任担保】九洲集团公告称，为满足子公司融资业务需求，拟为全资子公司兴泰生物质、富裕生物质向光大银行哈尔滨东大直支行申请各800万元综合授信提供连带责任担保，期限1年。兴泰生物质2025年营收2.53亿元，净利润818.88万元；富裕生物质2025年营收2.62亿元，净亏损522.18万元。截至公告日，公司及其控股子公司累计对外担保37.19亿元，占最近一期经审计净资产的156.18%，无逾期担保等情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4737132.d.html</link>
+            <guid>4738440</guid>
+            <pubDate>Thu, 12 Mar 2026 09:05:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乘联分会：2月新能源乘用车出口26.9万辆】2月新能源乘用车出口26.9万辆，同比增长124.7%，环比下降7.0%。占乘用车出口48.5%，较去年同期增长14.8个百分点；其中纯电动占新能源出口的58%（去年同期59%），作为核心焦点的A00+A0级纯电动车占纯电动出口的55%（去年同期56%）。伴随着中国新能源车的规模优势显现和市场扩张需求，中国制造的新能源品牌产品越来越多地走出国门，在海外的认可度持续提升。其中插混占新能源出口的38%（去年同期38%），虽然近期受到外部国家的一些干扰，但自主插混出口发展中国家增长迅猛，前景光明。2月厂商新能源出口方面优秀的企业是：比亚迪（98,706辆）、吉利汽车（40,852辆）、奇瑞汽车（28,304辆）、特斯拉中国（20,393辆）、上汽乘用车（14,138辆）、零跑汽车（9,769辆）、上汽通用五菱（9,568辆）、东风汽车（8,888辆）、长安汽车（6,031辆）、沃尔沃亚太（4,918辆）、智马达汽车（3,978辆）、小鹏汽车（3,648辆）、极星汽车（3,544辆）、长安马自达（1,742辆）、长城汽车（1,626辆）、东风本田（1,560辆）、北京汽车制造厂（1,455辆）、广汽埃安（1,295辆）、赛力斯汽车（湖北）（1,062辆）。其他车企新能源出口也有一定规模。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1819094.d.html</link>
-            <guid>4738313</guid>
-            <pubDate>Thu, 12 Mar 2026 08:14:41 GMT</pubDate>
+            <title><![CDATA[【豆粕ETF提示二级市场溢价风险】华夏基金管理有限公司公告，公司旗下华夏饲料豆粕期货交易型开放式证券投资基金（场内简称：豆粕ETF，交易代码：159985）二级市场交易价格明显高于基金份额参考净值，出现较大幅度溢价。特此提示投资者关注二级市场交易价格溢价风险，投资者如果盲目投资，可能遭受重大损失。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4736702.d.html</link>
+            <guid>4738439</guid>
+            <pubDate>Thu, 12 Mar 2026 09:04:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贺荣：“十四五”期间我国立法质量、效率不断提高】3月12日，十四届全国人大四次会议第三场“部长通道”在人民大会堂举行，司法部部长贺荣接受记者采访。贺荣介绍，“十四五”期间，立法质量和效率不断提高。一是内容上，精准服务党和国家工作大局的作用越来越凸显。民营经济促进法出台之后，全国各地相继出台了22部配套规定，对稳定预期、提振信心发挥了重要作用。国际邮轮靠港补给的规定出台之后，很大程度上促进了邮轮经济的发展。去年我国国际邮轮旅客的运输量超过了130万人次，同比增加了25.2%。二是效率上，用“小快灵”立法，及时回应“大民生”“小切口”。制定社会保险经办条例，惠及了13.9亿社保卡的持有人员。消费者权益保护法实施条例，惠及了9亿多网上消费者，在网上购物更加放心。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4836235.d.html</link>
-            <guid>4738312</guid>
-            <pubDate>Thu, 12 Mar 2026 08:14:19 GMT</pubDate>
+            <title><![CDATA[【嘉实原油LOF提示二级市场溢价风险】嘉实基金管理有限公司公告，公司旗下嘉实原油证券投资基金（QDII-LOF）（基金代码：160723，场内简称：嘉实原油LOF）二级市场交易价格高于基金份额净值，出现较大幅度溢价。特此郑重提醒广大投资者，应密切关注二级市场交易价格的溢价风险，审慎做出投资决策。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4729385.d.html</link>
+            <guid>4738438</guid>
+            <pubDate>Thu, 12 Mar 2026 09:03:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【司法部部长贺荣：保障新就业和灵活就业群体权益是政府立法重点】司法部部长贺荣3月12日在十四届全国人大四次会议第三场“部长通道”上表示，今年将制定实施供水、药品管理、道路运输管理等方面的行政法规。还有新就业和灵活就业群体权益保障问题、生产安全事故隐患排查问题等，这些关系人民群众的“幸福指数”和“安全指数”，都是政府立法的重点。 (新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8595299.d.html</link>
-            <guid>4738310</guid>
-            <pubDate>Thu, 12 Mar 2026 08:13:10 GMT</pubDate>
+            <title><![CDATA[【IEA大幅下调石油供应增长预期 称中东战争造成史上最大石油供应中断】国际能源署在实施历史性紧急释放库存行动一天后，下调了对石油供应增长的预测，原因是中东战争阻断了霍尔木兹海峡的流通。IEA目前预计，今年石油供应将增加110万桶/日，较此前预计的240万桶/日大幅下调。预计所有供应增长都将来自欧佩克+之外的地区，因为冲突迫使海湾地区主要产油国削减产量。预计3月石油供应将骤降800万桶/日至9880万桶/日，为2022年第一季度以来的最低水平。IEA表示：“中东战争正在造成全球石油市场历史上最大的供应中断。”]]></title>
+            <guid>4738437</guid>
+            <pubDate>Thu, 12 Mar 2026 09:03:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【司法部部长贺荣：今年将加快研究人工智能等领域立法】司法部部长贺荣3月12日在十四届全国人大四次会议第三场“部长通道”上表示，人工智能是今年两会的“高频词”。今年将加快研究人工智能、低空经济等领域立法，修订道路交通安全法、制定空域管理条例等。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8594951.d.html</link>
-            <guid>4738309</guid>
-            <pubDate>Thu, 12 Mar 2026 08:12:39 GMT</pubDate>
+            <title><![CDATA[【IEA大幅下调石油供应增长预期 称中东战争造成史上最大石油供应中断】国际能源署在实施历史性紧急释放库存行动一天后，下调了对石油供应增长的预测，原因是中东战争阻断了霍尔木兹海峡的流通。IEA目前预计，今年石油供应将增加110万桶/日，较此前预计的240万桶/日大幅下调。预计所有供应增长都将来自欧佩克+之外的地区，因为冲突迫使海湾地区主要产油国削减产量。预计3月石油供应将骤降800万桶/日至9880万桶/日，为2022年第一季度以来的最低水平。IEA表示：“中东战争正在造成全球石油市场历史上最大的供应中断。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8488390.d.html</link>
+            <guid>4738436</guid>
+            <pubDate>Thu, 12 Mar 2026 09:03:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[高盛预计，英国央行将分别在今年7月和11月各降息25个基点，在2027年2月再降息25个基点，此前其预测的降息时间为2026年4月、7月和11月。]]></title>
-            <guid>4738308</guid>
-            <pubDate>Thu, 12 Mar 2026 08:11:44 GMT</pubDate>
+            <title><![CDATA[国际能源署（IEA）署长比罗尔：我们释放4亿桶石油的决定对市场产生了重大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1711179.d.html</link>
+            <guid>4738435</guid>
+            <pubDate>Thu, 12 Mar 2026 09:03:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[本田首席财务官：预计高达2.5万亿日元的总损失包括因停止电动汽车相关开发而对供应商的补偿。]]></title>
-            <guid>4738307</guid>
-            <pubDate>Thu, 12 Mar 2026 08:10:44 GMT</pubDate>
+            <title><![CDATA[【科林电气：终止2025年度向特定对象发行A股股票事项】科林电气公告称，公司于2026年3月12日召开第五届董事会第十三次会议，鉴于决定终止2025年度向特定对象发行A股股票事项，同意与石家庄海信能源控股有限公司签署《附条件生效的股份认购协议之终止协议》。该交易构成关联交易，但不构成重大资产重组，依据2025年第三次临时股东大会授权，无需提交股东会审议。签署协议不会对公司日常生产经营造成重大不利影响，不存在损害股东利益情形。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4729087.d.html</link>
+            <guid>4738434</guid>
+            <pubDate>Thu, 12 Mar 2026 09:03:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【司法部部长贺荣：今年将通过政府立法着力解决“内卷式”竞争】司法部部长贺荣3月12日在十四届全国人大四次会议第三场“部长通道”上表示，今年政府立法工作将重点突出几个方面，其中之一是突出优化营商环境，制定全国统一大市场建设条例，着力解决大家关心的地方保护、不当设一些准入条件，还有“内卷式”竞争等问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1816583.d.html</link>
-            <guid>4738306</guid>
-            <pubDate>Thu, 12 Mar 2026 08:10:33 GMT</pubDate>
+            <title><![CDATA[【巴西ETF：提示二级市场交易价格溢价风险】华夏基金公告称，旗下华夏布拉德斯科巴西伊博维斯帕交易型开放式指数证券投资基金（QDII）（场内简称：巴西ETF）二级市场交易价格明显高于基金份额参考净值，出现较大幅度溢价。若2026年3月13日溢价幅度未有效回落，基金有权采取申请盘中临时停牌等措施。该基金运作正常且无应披露而未披露的重大信息，提醒投资者关注溢价风险，谨慎投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1710925.d.html</link>
+            <guid>4738433</guid>
+            <pubDate>Thu, 12 Mar 2026 09:03:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中欣氟材：控股股东质押600万股用于自身生产经营】中欣氟材公告称，近日，公司控股股东白云集团将600万股质押给中国农业银行股份有限公司杭州城西支行，占其所持股份比例9.23%，占公司总股本比例1.79%，质押起始日为2026年3月11日，质押用途为自身生产经营。截至公告披露日，控股股东及其一致行动人累计质押股份1750万股，占其所持股份比例18.49%，占公司总股本比例5.22%。目前质押风险可控，对公司生产经营无实质性影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1816477.d.html</link>
-            <guid>4738305</guid>
-            <pubDate>Thu, 12 Mar 2026 08:10:21 GMT</pubDate>
+            <title><![CDATA[IEA月报：将2026年石油供应总量预测从1.086亿桶/日下调至1.072亿桶/日。]]></title>
+            <guid>4738432</guid>
+            <pubDate>Thu, 12 Mar 2026 09:03:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乘联分会：2月新能源车国内零售渗透率44.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8593559.d.html</link>
-            <guid>4738304</guid>
-            <pubDate>Thu, 12 Mar 2026 08:10:10 GMT</pubDate>
+            <title><![CDATA[【国投白银LOF：3月13日开市起至当日10:30停牌】国投瑞银基金管理有限公司公告，公司旗下国投瑞银白银期货证券投资基金（LOF）A类基金份额（场内简称：国投白银LOF；交易代码：161226）二级市场交易价格明显高于基金份额净值，出现较大幅度溢价。为保护投资者利益，本基金将于2026年3月13日开市起至当日10:30停牌，自2026年3月13日10:30复牌，停牌期间本基金赎回业务照常办理。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4728645.d.html</link>
+            <guid>4738431</guid>
+            <pubDate>Thu, 12 Mar 2026 09:02:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿曼关键原油出口码头已恢复运营】能源记者Anthony Di Paola表示，根据海湾商品交易所消息，阿曼位于迈纳·阿尔·法哈尔港的原油出口码头在周四早些时候暂停数小时后，现已恢复正常运营。这家负责阿曼原油期货交易的交易所表示，目前装货活动正照常进行。此前，该码头撤离所有船只作为预防性措施。据数据情报公司Kpler称，法哈尔港每日约出口100万桶阿曼原油。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8593409.d.html</link>
-            <guid>4738303</guid>
-            <pubDate>Thu, 12 Mar 2026 08:09:53 GMT</pubDate>
+            <title><![CDATA[IEA月报：欧佩克+2月产量下降21万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4728358.d.html</link>
+            <guid>4738430</guid>
+            <pubDate>Thu, 12 Mar 2026 09:02:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【港股收盘：恒生指数跌0.703%，恒生科技指数跌0.538%】信达生物跌3.025%，恒基地产跌3.172%，九龙仓置业跌3.615%，洛阳钼业跌3.884%，农夫山泉跌4.363%，石药集团跌4.525%，商汤-W跌8.261%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4832663.d.html</link>
-            <guid>4738302</guid>
-            <pubDate>Thu, 12 Mar 2026 08:09:03 GMT</pubDate>
+            <title><![CDATA[【星际荣耀：可重复使用液体运载火箭生产总部基地成都工厂预计今年年底投入使用】在今日举行的2026年上海商业航天大会暨展览会上，星际荣耀副总经理谢红军表示，成都的工厂正在建设，“预计今年年底投入使用。”星际荣耀可重复使用液体运载火箭生产总部基地项目位于成都高新综合保税区双流园区内，项目占地200亩，总投资33亿元，于去年11月开工建设，项目建设内容包含液体运载火箭总装总测及部组件加工能力，建设6条数字化产线，包括4条智能总装产线和2条数字化测试产线，项目达产后具备年产20发可重复使用液体运载火箭的总装、试验和生产配套能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8487763.d.html</link>
+            <guid>4738429</guid>
+            <pubDate>Thu, 12 Mar 2026 09:02:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中科曙光scaleFabric国产原生RDMA高速网络首发】3月12日，中科曙光宣布实现国产高端原生RDMA技术重大突破，正式发布首款全栈自研400G无损高速网络——scaleFabric。该产品基于原生RDMA架构，从底层的112G SerDes IP、硬件设备到上层的管理软件实现100%自主研发，填补了国内数据中心高速网络领域的空白，以比肩国际顶尖同类产品的性能表现，为超大规模智算集群铺就了一条高带宽、低时延、真无损、超可靠的“算力大动脉”。此次发布的scaleFabric400系列网络产品技术规格全面对标英伟达NDR，部分指标实现赶超。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1815658.d.html</link>
-            <guid>4738301</guid>
-            <pubDate>Thu, 12 Mar 2026 08:08:54 GMT</pubDate>
+            <title><![CDATA[【LME有色金属库存日报】伦敦金属交易所（LME）有色金属库存及变化如下：1. 铜库存312350吨，增加275吨。2. 铝库存447300吨，减少2825吨。3. 镍库存285684吨，减少564吨。4. 锌库存98750吨，减少150吨。5. 铅库存284500吨，减少375吨。6. 锡库存8630吨，增加25吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4734985.d.html</link>
+            <guid>4738428</guid>
+            <pubDate>Thu, 12 Mar 2026 09:01:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乘联分会：2月新能源车市场零售46.4万辆，同比减少32%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4832530.d.html</link>
-            <guid>4738300</guid>
-            <pubDate>Thu, 12 Mar 2026 08:08:51 GMT</pubDate>
+            <title><![CDATA[【苏州苏创倍增创业投资合伙企业登记成立 出资额1亿】天眼查工商信息显示，近日，苏州苏创倍增创业投资合伙企业（有限合伙）成立，执行事务合伙人为苏州国发创新资本管理有限公司，出资额1亿人民币，经营范围为创业投资，股权投资，以自有资金从事投资活动。合伙人信息显示，该合伙企业由苏州工业园区元禾沙湖金融服务有限公司、苏州国发创业投资控股有限公司、苏州国发创新资本管理有限公司共同出资。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8487646.d.html</link>
+            <guid>4738427</guid>
+            <pubDate>Thu, 12 Mar 2026 09:01:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中钢洛耐：聘任李光辉为公司董事会秘书】中钢洛耐3月12日公告，公司第二届董事会第三十一次会议审议通过了《关于聘任公司董事会秘书的议案》，同意聘任李光辉为公司董事会秘书。因李光辉暂未取得上海证券交易所科创板董事会秘书任职培训证明，其将报名参加上海证券交易所举办的最近一期董事会秘书任职培训，并承诺取得科创板董事会秘书培训证明，待其取得科创板董事会秘书培训证明并经上海证券交易所备案通过后，聘任正式生效，任期至公司第二届董事会届满之日止。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8592722.d.html</link>
-            <guid>4738299</guid>
-            <pubDate>Thu, 12 Mar 2026 08:08:39 GMT</pubDate>
+            <title><![CDATA[国家互联网信息办公室发布第十六批深度合成服务算法备案信息的公告。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4727832.d.html</link>
+            <guid>4738426</guid>
+            <pubDate>Thu, 12 Mar 2026 09:01:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【安徽高投华民并购投资基金成立 出资额5亿】天眼查工商信息显示，近日，安徽高投华民并购投资基金合伙企业（有限合伙）成立，执行事务合伙人为华民股权投资基金管理（深圳）有限公司，出资额5亿人民币，经营范围为以私募基金从事股权投资、投资管理、资产管理等活动。合伙人信息显示，该基金由连云港高新股权投资合伙企业（有限合伙）、连云港润海股权投资基金合伙企业（有限合伙）、安徽省三重一创产业发展二期基金有限公司等共同出资。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8592339.d.html</link>
-            <guid>4738298</guid>
-            <pubDate>Thu, 12 Mar 2026 08:07:55 GMT</pubDate>
+            <title><![CDATA[IEA月报：2月份全球石油供应环比增加38万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8487336.d.html</link>
+            <guid>4738425</guid>
+            <pubDate>Thu, 12 Mar 2026 09:01:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【OPPO计划推出小布版龙虾Claw】OPPO计划推出小布Claw，据介绍，小布Claw可完成电话录音摘要整理、与平板跨端协同等。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8591168.d.html</link>
-            <guid>4738297</guid>
-            <pubDate>Thu, 12 Mar 2026 08:05:55 GMT</pubDate>
+            <title><![CDATA[【韩国散户深挖中国资产：押注人形机器人行业将保持领先优势】韩国散户投资者对中国机器人产业热情高涨，该国上市的七只追踪人形机器人行业的ETF基金中，投资中国公司的基金规模已与韩国本土基金规模相当，且远高于美国同类行业的ETF规模。分析师认为，中国在制造业和零部件供应方面的优势可转化为人形机器人全球竞赛中的领先地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4734574.d.html</link>
+            <guid>4738424</guid>
+            <pubDate>Thu, 12 Mar 2026 09:01:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乘联分会：2月中国汽车销量为104万辆，同比下降25.9%】乘联分会表示，2月中国汽车销量为104万辆，同比下降25.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4829596.d.html</link>
-            <guid>4738296</guid>
-            <pubDate>Thu, 12 Mar 2026 08:04:49 GMT</pubDate>
+            <title><![CDATA[IEA月报：将2026年全球石油需求增长预测从85万桶/日下调至64万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4734469.d.html</link>
+            <guid>4738423</guid>
+            <pubDate>Thu, 12 Mar 2026 09:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美股中概股盘前涨跌互现，蔚来涨3%】美股中概股盘前涨跌互现，蔚来涨3%，富途控股涨1%，BOSS直聘涨0.8%，京东跌0.2%，理想汽车、百度、阿里巴巴跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4822274.d.html</link>
-            <guid>4738295</guid>
-            <pubDate>Thu, 12 Mar 2026 08:04:23 GMT</pubDate>
+            <title><![CDATA[国际能源署称，伊朗战争导致有史以来最严重的石油市场动荡。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8487136.d.html</link>
+            <guid>4738422</guid>
+            <pubDate>Thu, 12 Mar 2026 09:00:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美股大型科技股盘前普跌，谷歌A跌0.7%】美股大型科技股盘前普跌，苹果跌0.2%，亚马逊、特斯拉跌0.3%，微软跌0.4%，Meta、英伟达跌0.5%，谷歌A跌0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8590198.d.html</link>
-            <guid>4738294</guid>
-            <pubDate>Thu, 12 Mar 2026 08:04:20 GMT</pubDate>
+            <title><![CDATA[行业组织：印度2月棕榈油进口总量为847,689吨，1月为766,384吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8486614.d.html</link>
+            <guid>4738421</guid>
+            <pubDate>Thu, 12 Mar 2026 08:59:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【荷兰国际：菲律宾将比其他亚洲国家更早感受到高油价的影响】荷兰国际集团的Deepali Bhargava在一份报告中表示，与泰国或印尼等大多数亚洲国家相比，菲律宾可能会更早感受到油价上涨的影响。菲律宾的燃料缓冲能力有限，国内价格传导迅速，而且存在结构性上更阔的经常账户赤字。她说：“作为该地区最依赖石油的经济体之一，与泰国、韩国、越南和新加坡一样，原油价格的持续上涨具有重要的外部影响。“如果中东供应收紧，化肥价格可能会上涨，最终将在今年晚些时候对作物产量和食品价格构成压力。她说，鉴于菲律宾对进口食品和燃料的依赖程度，该国很容易受到此类成本的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1812981.d.html</link>
-            <guid>4738293</guid>
-            <pubDate>Thu, 12 Mar 2026 08:04:16 GMT</pubDate>
+            <title><![CDATA[【ST西源：控股股东拟增持不超2%股份】ST西源公告称，控股股东重庆交通大学资产经营有限公司计划自2026年3月13日起6个月内，以自有资金增持公司股份，增持比例不超过公司总股本的2%。增持价格不高于3元/股，本次增持计划未设置价格区间。增持目的是基于对公司未来发展的信心和对公司价值的认可。增持计划实施存在不确定性，敬请投资者注意投资风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkp4733768.d.html</link>
+            <guid>4738420</guid>
+            <pubDate>Thu, 12 Mar 2026 08:59:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[本田汽车在美国上市的股票在盘前交易中下跌8.1%，此前该公司预警本财年运营亏损最高可达36亿美元。]]></title>
-            <guid>4738292</guid>
-            <pubDate>Thu, 12 Mar 2026 08:03:38 GMT</pubDate>
+            <title><![CDATA[【生态环境部部长带了一块芯片上通道】生态环境部部长黄润秋3月12日在十四届全国人大四次会议第三场“部长通道”展示了一块环境DNA测序芯片。他说，这个芯片包含长江江苏段19个断面水生生物的DNA监测信息，显示这个河段近5年来水生生物增加了20多种。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1709196.d.html</link>
+            <guid>4738419</guid>
+            <pubDate>Thu, 12 Mar 2026 08:58:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[本田首席执行官：将按计划推进本田“零阿尔法”电动汽车车型的推出。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkar4827955.d.html</link>
-            <guid>4738291</guid>
-            <pubDate>Thu, 12 Mar 2026 08:03:00 GMT</pubDate>
+            <title><![CDATA[【鹏鼎控股：公司及子公司申请超20亿元银行授信额度】鹏鼎控股公告称，公司第三届董事会第二十四次会议审议通过申请银行授信额度议案。公司及全资/控股子公司拟向多家银行申请授信，包括农行深圳龙华支行4亿元、民生银行深圳分行4亿元等，合计超20亿元。授信内容含短期贷款等信用品种，最终以银行审批为准。董事会授权董事长沈庆芳或其指定代表人签署相关法律文件，授信为日常经营用信用额度，无担保，无重大风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkk1708964.d.html</link>
+            <guid>4738418</guid>
+            <pubDate>Thu, 12 Mar 2026 08:57:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【陆家嘴：2025年净利润12.23亿元，同比下降18.90%】陆家嘴发布业绩快报，2025年度实现营业总收入181.65亿元，同比增长23.99%；净利润12.23亿元，同比下降18.90%。报告期内，公司营业总收入实现同比增长，一是本年度结转了川沙锦绣云澜、陆家嘴投资大厦等项目，房地产销售收入同比增长；二是金融板块因业务规模增长和投资收益增加，金融业务收入同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8589060.d.html</link>
-            <guid>4738290</guid>
-            <pubDate>Thu, 12 Mar 2026 08:02:28 GMT</pubDate>
+            <title><![CDATA[【理想汽车回应考虑回购港股股份：只是在讨论方案的可能性】从多位独立信源处获悉，理想汽车CEO李想近期正在考虑回购理想汽车部分港股市场股份，购回比例以及总额等仍在讨论中。我们求证理想官方，对方回应称：“只是在讨论方案的可能性。”如成功执行，这将成为公司成立以来首次回购。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkh4726308.d.html</link>
+            <guid>4738417</guid>
+            <pubDate>Thu, 12 Mar 2026 08:57:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国汽车工业协会乘用车市场信息联席会（CPCA）表示，中国2月份乘用车销量为104万辆，同比下降25.9%。]]></title>
-            <guid>4738289</guid>
-            <pubDate>Thu, 12 Mar 2026 08:02:01 GMT</pubDate>
+            <title><![CDATA[【中寰股份：董事慕超勇已减持0.16%】中寰股份公告，董事兼高级管理人员慕超勇减持时间区间届满，已通过集中竞价减持17万股，占总股本0.16%，成交价11.8元/股-15.29元/股，套现239.78万元，持股降至81.1万股，占0.78%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtqkm8486084.d.html</link>
+            <guid>4738416</guid>
+            <pubDate>Thu, 12 Mar 2026 08:57:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国 5 年期和 10 年期国债收益率当日开盘上涨约 4 个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1811608.d.html</link>
-            <guid>4738288</guid>
-            <pubDate>Thu, 12 Mar 2026 08:02:01 GMT</pubDate>
+            <title><![CDATA[【鹏鼎控股：2025年净利润37.38亿元，同比增长3.25%】鹏鼎控股发布业绩快报，2025年度营业总收入为391.47亿元，同比增长11.40%；净利润为37.38亿元，同比增长3.25%。2025年末，公司总资产为487.52亿元，较年初增长9.45%；归属于上市公司股东的所有者权益为341.36亿元，较年初增长6.31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1839067.d.html</link>
+            <guid>4738415</guid>
+            <pubDate>Thu, 12 Mar 2026 08:55:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国标普 500 期货下跌 0.46%，纳斯达克 100 期货下跌 0.43%，道琼斯期货下跌 0.59%。]]></title>
-            <guid>4738287</guid>
-            <pubDate>Thu, 12 Mar 2026 08:01:14 GMT</pubDate>
+            <title><![CDATA[【中广核新能源凌云公司增资至7.7亿 增幅约120%】天眼查App显示，近日，中广核新能源凌云有限公司发生工商变更，注册资本由约3.5亿人民币增至约7.7亿人民币，增幅约120%。 中广核新能源凌云有限公司成立于2022年6月，法定代表人为马丰云，经营范围包括水力发电、生物质燃气生产和供应、供电业务等。股东信息显示，该公司由中广核风电有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkak4855561.d.html</link>
+            <guid>4738414</guid>
+            <pubDate>Thu, 12 Mar 2026 08:55:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩国方便面生产商宣布降价】韩国方便面生产商周四表示，为响应政府稳定不断上涨的消费价格的举措，他们将于下个月降低方便面产品的价格。韩国四大拉面公司——农心、三养食品、不倒翁和八道——表示，此举旨在帮助消费者减轻生活成本。农心表示，自4月1日起，将12种方便面产品和4种零食的价格平均下调7%。以火鸡面而闻名的三养食品计划将旗下两款方便面产品和一款杯面的价格下调14.6%，但火鸡面不在此次降价计划之列。不倒翁计划将八款方便面产品的价格下调 6.3%。八道计划将19款产品的价格下调 4.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkap8587914.d.html</link>
-            <guid>4738286</guid>
-            <pubDate>Thu, 12 Mar 2026 08:00:41 GMT</pubDate>
+            <title><![CDATA[乌克兰安全局（SBU）官员称，乌克兰无人机袭击了俄罗斯克拉斯诺达尔地区一座石油泵站的基础设施。]]></title>
+            <guid>4738413</guid>
+            <pubDate>Thu, 12 Mar 2026 08:54:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【本田突发暴雷：因撤回电动化战略损失1000亿元】3月12日，本田汽车称，其2025财年（2025.4–2026.3）预计经营亏损2700亿~5700亿日元，此前预计收益5500亿日元；预计净亏损4200亿~6900亿日元（约合人民币116亿~247亿元），此前预计收益3000亿日元。该公司同日称，取消了部分美国制造电动汽车的研发和上市计划。预计因重新评估电气化战略产生的总费用和损失最高达2.5万亿日元（约合人民币1082亿元）。据了解，这是本田汽车自上市以来首次年度亏损。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1810629.d.html</link>
-            <guid>4738285</guid>
-            <pubDate>Thu, 12 Mar 2026 08:00:32 GMT</pubDate>
+            <title><![CDATA[土耳其财政部长表示，由于地缘政治紧张局势和能源价格上涨，2026年经常账户赤字可能高于预期。]]></title>
+            <guid>4738412</guid>
+            <pubDate>Thu, 12 Mar 2026 08:54:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其央行通过传统方式开展黄金换里拉卖出掉期拍卖，拍卖规模为6吨，到期日为3月23日。]]></title>
-            <guid>4738284</guid>
-            <pubDate>Thu, 12 Mar 2026 08:00:21 GMT</pubDate>
+            <title><![CDATA[【赛分科技：公司填料生产产量和价格预计不会受到此次中东事件的影响】赛分科技3月12日在互动平台表示，公司暂未直接向中东地区采购原材料，本次中东局势或会造成原材料的价格波动，但对公司整体影响较小，公司填料的生产产量和价格预计不会受到此次事件的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1838243.d.html</link>
+            <guid>4738411</guid>
+            <pubDate>Thu, 12 Mar 2026 08:53:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新加坡企业发展局（Enterprise Singapore）数据显示，截至3月11日当周，新加坡燃料油库存增加87.1万桶，升至2415.7万桶的五周高位。]]></title>
-            <guid>4738283</guid>
-            <pubDate>Thu, 12 Mar 2026 08:00:14 GMT</pubDate>
+            <title><![CDATA[伊朗外交部发言人：敌人不能想打仗就打，想停火就停。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-12/detail-inhqtkan1838046.d.html</link>
+            <guid>4738410</guid>
+            <pubDate>Thu, 12 Mar 2026 08:53:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

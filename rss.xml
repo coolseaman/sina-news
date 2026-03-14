@@ -4,11 +4,27 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 14 Mar 2026 20:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 21:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  阿联酋总统外交顾问加尔加什：阿联酋有权在面对 “恐怖主义侵略” 时自卫，但仍将优先保持理性与逻辑。  伊朗对阿联酋的指控是一项混乱且缺乏智慧的政策的一部分。]]></title>
+            <guid>4743815</guid>
+            <pubDate>Sat, 14 Mar 2026 20:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国财经媒体Semafor：美国官员透露，以色列本周告知美国，随着与伊朗的冲突持续激烈，其拦截导弹库存“严重不足”。]]></title>
+            <guid>4743814</guid>
+            <pubDate>Sat, 14 Mar 2026 20:44:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗启动“真实承诺4”第51轮军事行动】当地时间14日，伊朗伊斯兰革命卫队发布声明称，在“真实承诺4”第51轮行动中，伊朗向沙特阿拉伯苏尔坦亲王空军基地发射多枚导弹。声明表示，该基地为美军F-35和F-16战机的后勤和支援中心，并部署有空中预警机及加油机等设施。伊朗方面称，此次行动是对美军相关军事设施的打击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-15/detail-inhqzeaf9935948.d.html</link>
+            <guid>4743813</guid>
+            <pubDate>Sat, 14 Mar 2026 20:42:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[乌克兰驻以色列大使：预计下周初将举行会晤。内塔尼亚胡已请求与泽连斯基举行会谈，讨论在拦截伊朗无人机方面开展合作。]]></title>
             <guid>4743812</guid>
@@ -561,24 +577,6 @@
             <link>https://finance.sina.cn/7x24/2026-03-14/detail-inhqypek7240718.d.html</link>
             <guid>4743657</guid>
             <pubDate>Sat, 14 Mar 2026 13:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄称西南部多地遭袭 击落120余架乌无人机】综合俄罗斯国防部和地方救援指挥部消息，13日夜间至14日上午，俄西南部克拉斯诺达尔边疆区、别尔哥罗德州等多地遭乌克兰无人机袭击，俄防空火力击落120余架无人机。克拉斯诺达尔边疆区救援指挥部14日表示，位于该边疆区刻赤海峡东岸的高加索港遭到乌方无人机袭击，造成至少3人受伤，1艘工程船受损，1个泊位区起火燃烧，目前已完成灭火。别尔哥罗德州救援指挥部同日表示，共有211架无人机攻击了该州多个村镇，造成至少1人死亡、9人受伤。俄国防部称，13日20时至14日11时，俄军防空兵在其西南部多地及附近海域上空共击落乌方无人机124架。俄军还用“天竺葵”无人机摧毁了位于乌克兰苏梅州佩列莫加镇的几处发射、存放远程无人机的场所。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-14/detail-inhqypen4014714.d.html</link>
-            <guid>4743656</guid>
-            <pubDate>Sat, 14 Mar 2026 13:46:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩卫生部：以色列空袭已造成26名医护人员死亡】当地时间14日，黎巴嫩卫生部表示，自黎以新一轮冲突爆发以来，以色列的空袭已造成黎巴嫩26名医护人员死亡，另有51人受伤。据悉，以色列当天凌晨对黎巴嫩南部布尔杰卡拉维耶镇一处医疗中心发动空袭，造成至少12名医务人员死亡、1人受伤，另有4人失踪。黎卫生部声明指责以色列屡次“在救护车执行救援任务时袭击救护人员”，以色列军方则指责黎真主党将救护车用于军事用途，警告真主党必须立即停止使用医疗设施和救护车。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-14/detail-inhqypen4013964.d.html</link>
-            <guid>4743655</guid>
-            <pubDate>Sat, 14 Mar 2026 13:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克：‌TeraFab工厂项目将在7天后启动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-14/detail-inhqypen4013248.d.html</link>
-            <guid>4743654</guid>
-            <pubDate>Sat, 14 Mar 2026 13:43:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,13 +4,265 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 16 Mar 2026 20:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 21:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[  美国中央司令部称，自 2 月 28 日以来，已摧毁或击伤 100 艘伊朗船只。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshe9637810.d.html</link>
+            <guid>4748481</guid>
+            <pubDate>Mon, 16 Mar 2026 21:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国外交部：韩国外长认同，霍尔木兹海峡的航行自由对包括韩国在内的全球安全与经济至关重要。]]></title>
+            <guid>4748480</guid>
+            <pubDate>Mon, 16 Mar 2026 21:32:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  韩国外交部：鲁比奥对韩国外长表示，在稳定全球经济与油价方面，各国合作比以往任何时候都更为重要。]]></title>
+            <guid>4748478</guid>
+            <pubDate>Mon, 16 Mar 2026 21:30:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  新西兰财政部：冲突将抑制而非破坏其经济复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsfy5586941.d.html</link>
+            <guid>4748477</guid>
+            <pubDate>Mon, 16 Mar 2026 21:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  韩国外交部：韩国外长与美国国务卿鲁比奥讨论保障霍尔木兹海峡航行安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2363516.d.html</link>
+            <guid>4748476</guid>
+            <pubDate>Mon, 16 Mar 2026 21:28:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦称对阿富汗军事设施实施打击】巴基斯坦新闻与广播部16日晚发表声明说，巴军方当天夜间发动空袭，对位于阿富汗首都喀布尔和阿东部楠格哈尔省的军事设施等目标实施精准打击。声明说，此次打击目标包括技术设备和弹药仓库，巴方此次行动操作精准且实施过程谨慎，避免造成任何附带损害。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2363239.d.html</link>
+            <guid>4748474</guid>
+            <pubDate>Mon, 16 Mar 2026 21:27:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黄仁勋GTC主题演讲要点总结】
+1、从芯片公司到1万亿美元“代币工厂”，推理时代的经济重构。黄仁勋宣布计算需求进入“百万倍增长”阶段，将今后至2027年这段时期的算力需求预测由5000亿美元翻倍至1万亿美元。他定义了“代币工厂”概念，指出未来的数据中心将不再是存储中心，而是生产智能代币的工厂。英伟达强调，通过极端的“协同设计”，其单位代币成本已达到世界一流且无可撼动的水平，迫使全球CEO必须像管理资产一样管理“代币产出率”。
+ 2、Vera Rubin架构与Groq融合，解耦推理开启350倍加速。演讲揭晓了代号为Vera Rubin的下一代架构。该系统采用全液冷设计，引入了针对智能体任务优化的Vera CPU。最重磅的突破在于整合了Groq团队的确定性流处理器技术，通过Dynamo软件 实现了“解耦推理”：利用Rubin的海量内存处理复杂上下文，利用Groq芯片极速生成代币。这一组合使吉瓦级工厂的代币生成速度实现了惊人的350倍跨越。
+3、OpenClaw：AI时代的“Linux 时刻”与智能体操作系统。黄仁勋将开源项目OpenClaw定义为AI时代的Linux。这是一个能让AI智能体自主调用工具、执行代码、管理文件系统的操作系统级框架。为解决企业安全痛点，英伟达推出了NeMo Claw参考设计，集成 OpenShell 隐私护栏，标志着软件产业正从SaaS向AaaS 全面转型。
+4、物理AI的“ChatGPT时刻”：从自动驾驶到迪士尼雪宝。演讲展示了物理AI的爆发，宣布自动驾驶已进入大规模商用阶段。NVIDIA RoboTaxi Ready平台新增比亚迪、现代、吉利等合作伙伴，覆盖每年1800万辆新车，并与Uber达成部署协议。高潮部分是迪士尼机器人Olaf现身，展示了通过Omniverse和Newton求解器在虚拟世界中进化出的物理适应能力。
+5、Feynman架构与太空布局：垂直整合走向星辰大海。展望未来，黄仁勋披露了继Rubin之后的下一代GPU架构Feynman，将搭载LP 40处理器和Rosa CPU，支持共封装光学技术。此外，英伟达宣布进军太空计算，研发Vera Rubin Space-1计算机。通过Omniverse DSX平台，该公司正在构建一个“数字孪生”的全球（甚至太空）设计体系，实现从硬件层到宇宙级基础设施的垂直整合。]]></title>
+            <guid>4748472</guid>
+            <pubDate>Mon, 16 Mar 2026 21:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【葡萄牙外长：支持通过政治手段促霍尔木兹海峡通航】葡萄牙外交部长保罗·兰热尔16日表示，葡萄牙“没有、也不会卷入”当前中东战事，并支持通过政治和外交手段促使霍尔木兹海峡通航。据了解，兰热尔说，任何有助于打破霍尔木兹海峡僵局、恢复通航的努力都是积极的，在政治和外交层面可就此作出很多努力。有关美国总统特朗普施压北约成员国协助美国在霍尔木兹海峡护航，兰热尔表示对此“不予回应”。兰热尔还说，他与海湾地区多国外长保持沟通，以寻求解决方案，防止局势进一步升级。（央视新闻）]]></title>
+            <guid>4748471</guid>
+            <pubDate>Mon, 16 Mar 2026 21:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院议长约翰逊将于周二在国会山接待特朗普与爱尔兰领导人。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsfy5582660.d.html</link>
+            <guid>4748468</guid>
+            <pubDate>Mon, 16 Mar 2026 21:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[富时A50期指连续夜盘收跌0.02%，报14881点。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshc8391896.d.html</link>
+            <guid>4748466</guid>
+            <pubDate>Mon, 16 Mar 2026 21:16:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普暗示袭击哈尔克岛石油设施】美东时间3月16日下午，美国总统特朗普称，“伊朗哈尔克岛的管道迟早会出事”——暗示美军可能将袭击这座伊朗石油出口重要枢纽岛屿上的石油基础设施。伊朗武装部队发言人稍早前警告，倘若美国对哈尔克岛及其石油设施实施任何侵略或攻击，伊朗的回应将是果断而有力的——在这种情况下，所有发起针对哈尔克岛袭击行动的国家，其石油和天然气设施都将成为伊朗的强力打击目标。 特朗普于美东时间3月13日傍晚在社交媒体上发文称，美军猛烈轰炸了哈尔克岛，但没摧毁岛上石油基础设施。 哈尔克岛位于波斯湾北部，是伊朗石油出口的关键枢纽。分析人士指出，采取军事行动摧毁或控制岛上设施，会给伊朗造成沉重打击，也可能导致战争升级、引发能源市场新一轮震荡。长期以来，袭击哈尔克岛对美国而言都是一条“红线”。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsfy5581663.d.html</link>
+            <guid>4748464</guid>
+            <pubDate>Mon, 16 Mar 2026 21:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“只是为了误导石油交易员和公众” 伊朗外长否认近期与美方接触】伊朗外长阿拉格齐：我与美国特使威特科夫的最后一次联系是在美国决定通过再次对伊朗发动非法军事袭击、终结外交努力之前。任何相反的说法似乎只是为了误导石油交易员和公众。此前美媒援引名美国官员及知情人士透露，威特科夫与阿拉格齐之间的直接沟通渠道已于近日重新启用。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshe9628357.d.html</link>
+            <guid>4748461</guid>
+            <pubDate>Mon, 16 Mar 2026 21:12:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗武装部队：若哈尔克岛设施遭袭 将进行果断有力回击】伊朗武装部队高级发言人谢卡尔希当地时间17日表示，近期美国官员及军方指挥官多次扬言要对哈尔克岛发动袭击和侵略。谢卡尔希代表伊朗武装部队和伊朗人民发出警告，倘若美国对哈尔克岛及其石油设施与枢纽实施任何侵略或攻击，伊朗的回应将是果断而有力的。谢卡尔希表示，在这种情况下，所有发起针对哈尔克岛袭击行动国家的石油和天然气设施，都将成为伊朗武装部队的目标，并将遭到强力打击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsfy5580266.d.html</link>
+            <guid>4748460</guid>
+            <pubDate>Mon, 16 Mar 2026 21:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（3月16日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.8890元，较上周五纽约尾盘涨175点，日内整体交投于6.9085-6.8859元区间。]]></title>
+            <guid>4748459</guid>
+            <pubDate>Mon, 16 Mar 2026 21:11:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  联想与英伟达携手推进企业级 AI 量产落地 —— 从 AI 推理到吉瓦级 AI 工厂全场景覆盖。]]></title>
+            <guid>4748458</guid>
+            <pubDate>Mon, 16 Mar 2026 21:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗外长阿拉格奇：我与威特科夫的最后一次联系是在美国袭击伊朗之前。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshe9626699.d.html</link>
+            <guid>4748457</guid>
+            <pubDate>Mon, 16 Mar 2026 21:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美光科技生产与英伟达Vera Rubin相关的HBM4。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshe9623956.d.html</link>
+            <guid>4748454</guid>
+            <pubDate>Mon, 16 Mar 2026 21:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国贸易代表办公室（USTR）：美国宣布已成功解决针对蒂森克虏伯墨西哥弹簧与稳定器公司的快速反应劳工机制相关问题。]]></title>
+            <guid>4748453</guid>
+            <pubDate>Mon, 16 Mar 2026 21:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据英国《金融时报》：美国证实，其部署在海湾地区的三艘扫雷舰中有两艘已抵达马来西亚。]]></title>
+            <guid>4748452</guid>
+            <pubDate>Mon, 16 Mar 2026 21:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[STMicoroElectronics与英伟达围绕物理AI构建合作伙伴关系。Salesforce与英伟达就AI智能体（AI Agents）合作。]]></title>
+            <guid>4748451</guid>
+            <pubDate>Mon, 16 Mar 2026 21:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普在白宫讲话结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2352568.d.html</link>
+            <guid>4748450</guid>
+            <pubDate>Mon, 16 Mar 2026 21:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普承认伊朗报复范围超出预期】据《华尔街日报》，美国总统特朗普证实，在美国对伊朗发动打击后，伊朗报复行动的规模之大令他感到意外。特朗普在白宫对记者表示：“没人认为他们会袭击海湾国家。”《华尔街日报》上周报道称，伊朗的报复性攻击让特朗普措手不及。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2352360.d.html</link>
+            <guid>4748449</guid>
+            <pubDate>Mon, 16 Mar 2026 21:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国2月进口物价指数年率 1.2%，前值由-1.20%修正为-0.9%。韩国2月出口物价指数年率 10.7%，前值由7.80%修正为7.8%。]]></title>
+            <guid>4748448</guid>
+            <pubDate>Mon, 16 Mar 2026 21:00:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我认为我可以对古巴做任何事，解放它或者把它拿下。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsfy5574889.d.html</link>
+            <guid>4748447</guid>
+            <pubDate>Mon, 16 Mar 2026 21:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我确实认为我将有幸访问古巴。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshe9621258.d.html</link>
+            <guid>4748446</guid>
+            <pubDate>Mon, 16 Mar 2026 20:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特朗普：希望参议院多数党领袖图恩能推动《拯救美国法案》获得通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2350688.d.html</link>
+            <guid>4748444</guid>
+            <pubDate>Mon, 16 Mar 2026 20:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠与（HPE）同英伟达发布AI Factory和Supercomputing Advancements。]]></title>
+            <guid>4748443</guid>
+            <pubDate>Mon, 16 Mar 2026 20:53:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿布扎比媒体办公室：沙赫气田（Shah Gas Field）已暂停运营，目前正在评估受损情况。]]></title>
+            <guid>4748442</guid>
+            <pubDate>Mon, 16 Mar 2026 20:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿布扎比媒体办公室：阿布扎比当局已成功控制并扑灭沙赫天然气田发生的火灾。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsfy5573002.d.html</link>
+            <guid>4748441</guid>
+            <pubDate>Mon, 16 Mar 2026 20:52:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（3月16日）纽约尾盘，现货黄金跌0.23%，报5007.93美元/盎司，整体交投于5038.04-4967.91美元。COMEX黄金期货跌0.89%，报5016.80美元/盎司。]]></title>
+            <guid>4748440</guid>
+            <pubDate>Mon, 16 Mar 2026 20:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列再发视频回应总理身亡传言】3月16日，以色列总理内塔尼亚胡的办公室又在社交媒体发布一段视频，画面内容显示“内塔尼亚胡在耶路撒冷一处观景台的户外咖啡馆与民众交流互动，提醒人们待在靠近安全区的地方，以防备导弹袭击”。这是以色列方面继3月15日回应有关内塔尼亚胡身亡传言后发布的第二段视频。以色列媒体指出，这段视频与之前喝咖啡视频中内塔尼亚胡穿着相同服装，且拍摄地点相近，推测为同一天拍摄。 2月28日美国与以色列联合对伊朗展开大规模空袭后，内塔尼亚胡的视频基本均由他的办公室发布。他在战争爆发后的首次新闻发布会于3月12日以视频连线方式召开，相关画面在社交媒体引发“是否为人工智能合成视频”的争议。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2349815.d.html</link>
+            <guid>4748438</guid>
+            <pubDate>Mon, 16 Mar 2026 20:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  思科：宣布与英伟达合作，扩展其安全人工智能工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshc8385648.d.html</link>
+            <guid>4748437</guid>
+            <pubDate>Mon, 16 Mar 2026 20:49:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特朗普：最高法院裁决之后，我会以另一种方式重新启动关税政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2349305.d.html</link>
+            <guid>4748436</guid>
+            <pubDate>Mon, 16 Mar 2026 20:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美元指数16日下跌】衡量美元对六种主要货币的美元指数当天下跌0.65%，在汇市尾市收于99.705。截至纽约汇市尾市，1欧元兑换1.1521美元，高于前一交易日的1.1440美元；1英镑兑换1.3333美元，高于前一交易日的1.3245美元。1美元兑换158.95日元，低于前一交易日的159.61日元；1美元兑换0.7867瑞士法郎，低于前一交易日的0.7899瑞士法郎；1美元兑换1.3670加元，低于前一交易日的1.3734加元；1美元兑换9.3263瑞典克朗，低于前一交易日的9.4467瑞典克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshe9616790.d.html</link>
+            <guid>4748433</guid>
+            <pubDate>Mon, 16 Mar 2026 20:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  特朗普：最高法院关于关税的裁决不会改变关税政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsfy5571777.d.html</link>
+            <guid>4748432</guid>
+            <pubDate>Mon, 16 Mar 2026 20:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比利时首相：不会参与美国在霍尔木兹海峡的军事行动】当地时间16日，比利时首相德韦弗向外界表示，比利时联邦政府的立场是，比利时不会参与美国在霍尔木兹海峡军事行动。德韦弗表示，如果北约提出请求，或者在双边背景下提出请求，例如沙特阿拉伯或阿联酋提出的请求比方才会对此进行讨论。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2348816.d.html</link>
+            <guid>4748431</guid>
+            <pubDate>Mon, 16 Mar 2026 20:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔科技率先出货搭载英伟达GB300的桌面平台，通过NVIDIA NemoClaw和NVIDIA OpenShell赋能自主AI智能体。搭载GB10和GB300的戴尔Dell Pro Max系列提供专用的桌面超级计算机，用于开发和部署长期运行的自主智能体。]]></title>
+            <guid>4748430</guid>
+            <pubDate>Mon, 16 Mar 2026 20:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：战争很快就会结束，但不是这周。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2348718.d.html</link>
+            <guid>4748429</guid>
+            <pubDate>Mon, 16 Mar 2026 20:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈霍尔木兹海峡： 我们不知道是否真的投放过水雷，但想到水雷可能会被投放，就足以让拥有价值数十亿美元船只的人感到恐惧。]]></title>
+            <guid>4748424</guid>
+            <pubDate>Mon, 16 Mar 2026 20:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达、Adobe宣布战略合作伙伴关系。双方将交付下一代Firefly模型。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfsha2347533.d.html</link>
+            <guid>4748423</guid>
+            <pubDate>Mon, 16 Mar 2026 20:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达在今后至2028年这段时间于优步（Uber）推出L4软件驱动的无人驾驶出租车（Robotaxis）。]]></title>
+            <guid>4748421</guid>
+            <pubDate>Mon, 16 Mar 2026 20:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际油价16日大幅下跌】截至当天收盘，纽约商品交易所4月交货的轻质原油期货价格下跌5.21美元，收于每桶93.50美元，跌幅为5.28%；5月交货的伦敦布伦特原油期货价格下跌2.93美元，收于每桶100.21美元，跌幅为2.84%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshc8384070.d.html</link>
+            <guid>4748420</guid>
+            <pubDate>Mon, 16 Mar 2026 20:42:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英伟达发布开放实体 AI 数据工厂蓝图，用于加速机器人、视觉 AI 智能体及自动驾驶技术的开发。]]></title>
+            <guid>4748415</guid>
+            <pubDate>Mon, 16 Mar 2026 20:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达：罗氏在全球内部署超过3500 块英伟达 Blackwell GPU，以提升研发效率、推动下一代诊断技术并提高生产效率。]]></title>
+            <guid>4748414</guid>
+            <pubDate>Mon, 16 Mar 2026 20:38:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【德法英等五国呼吁缓和黎以局势 避免发动大规模地面进攻】当地时间3月16日，德国政府发布声明称，德国、法国、英国、意大利和加拿大领导人就黎巴嫩局势发表联合声明，呼吁缓和以色列与黎巴嫩真主党之间不断升级的冲突，并推动通过政治谈判解决危机。声明表示，各国对黎巴嫩局势持续恶化深感担忧，呼吁以色列和黎巴嫩方面展开有意义的接触，推动达成可持续的政治解决方案，并敦促各方立即采取措施缓和紧张局势。声明警告称，如果以色列在黎巴嫩发动大规模地面进攻，可能造成严重的人道主义后果，并导致冲突长期化。声明呼吁各方全面落实联合国安理会第1701号决议，并支持黎巴嫩政府为解除真主党武装、禁止真主党军事活动和遏制其武装敌对行动所做的努力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfshc8383262.d.html</link>
             <guid>4748413</guid>
             <pubDate>Mon, 16 Mar 2026 20:37:51 GMT</pubDate>
         </item>
@@ -327,252 +579,6 @@
             <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2457124.d.html</link>
             <guid>4748340</guid>
             <pubDate>Mon, 16 Mar 2026 19:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：沃尔沃将于今年年底停止在美国销售 EX30 及 EX30 Cross Country 车型。]]></title>
-            <guid>4748339</guid>
-            <pubDate>Mon, 16 Mar 2026 19:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美方声明：美国政府将与巴西戈亚斯州签署关于关键矿产及稀土的合作备忘录。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2456787.d.html</link>
-            <guid>4748338</guid>
-            <pubDate>Mon, 16 Mar 2026 19:43:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据NBC：美国总统特朗普每日都会收到结束伊朗冲突的方案选项。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5679517.d.html</link>
-            <guid>4748337</guid>
-            <pubDate>Mon, 16 Mar 2026 19:43:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋关键的石油出口港口富查伊拉在遭受又一次袭击后，于周一暂停了石油装载作业。富查伊拉是阿联酋唯一一个位于霍尔木兹海峡之外的港口。]]></title>
-            <guid>4748336</guid>
-            <pubDate>Mon, 16 Mar 2026 19:43:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通牵头的华尔街大行吸引到足够多的资金，来支持杠杆化收购艺电（EA）的大约150亿美元债务。]]></title>
-            <guid>4748335</guid>
-            <pubDate>Mon, 16 Mar 2026 19:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Meta将斥资高达270亿美元采购Nebius算力】Meta Platforms Inc.将在未来五年内支付最多270亿美元，以使用云服务提供商Nebius Group NV的人工智能基础设施。该公司正投入重金，在前沿AI模型领域与行业领先者展开竞争。荷兰公司Nebius周一在声明中表示，将从2027年初开始向Meta提供价值120亿美元的专属算力。Meta还承诺购买多达150亿美元的额外算力，这些算力来自Nebius正在为第三方客户建设的设施。Nebius是一家运营数据中心的所谓“新型云”（neocloud）公司，与英伟达存在战略伙伴关系。这笔支出是Meta签署的最大单笔合同之一，凸显这家Instagram和Facebook母公司正在全力寻求更多计算能力，以支持AI产品的开发。去年，Meta与Nebius签署过另一项30亿美元的协议。由于预期未来几年AI服务将出现爆发式增长，Meta及其部分大型科技同行预计将在2026年投入约6500亿美元，用于建设数据中心并采购其他基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmyf8502570.d.html</link>
-            <guid>4748334</guid>
-            <pubDate>Mon, 16 Mar 2026 19:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deep Fission表示，由于其模型的模块化特性以及周围基岩将为深埋反应堆提供的保护，其设计将大幅节省成本并提高安全性。]]></title>
-            <guid>4748333</guid>
-            <pubDate>Mon, 16 Mar 2026 19:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国核能初创企业Deep Fission公司在堪萨斯州帕森斯大平原工业园区破土动工，启动其尖端能源项目。这家创新的初创公司试图通过将核反应堆深埋地下，彻底改变传统的核能生产方式，并在此过程中将核能运营成本降低高达80%。]]></title>
-            <guid>4748332</guid>
-            <pubDate>Mon, 16 Mar 2026 19:41:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lumentum涨幅迅速艘纸质1.2%，此前一度涨8.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5677736.d.html</link>
-            <guid>4748331</guid>
-            <pubDate>Mon, 16 Mar 2026 19:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  埃及声明：埃及总统在与沙特王储通电话时，回顾了埃及与各地区及全球各方为缓和地区紧张局势所开展的沟通。]]></title>
-            <guid>4748330</guid>
-            <pubDate>Mon, 16 Mar 2026 19:38:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普：海湾地区银行韧性仍在，但中东冲突带来的不确定性仍存。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmyf8501397.d.html</link>
-            <guid>4748329</guid>
-            <pubDate>Mon, 16 Mar 2026 19:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国内政部长称：伊朗战争激发亚洲对进口美国能源的兴趣】美国内政部长道格·伯格姆表示，中东战争对石油和天然气运输的扰动促使亚洲国家对从美国进口更多能源产生了新的兴趣。“他们正在寻求能源供应多元化，”伯格姆结束在东京与亚太国家为期两天的会谈后表示。伯格姆说：“他们达成协议的紧迫性增加了，因为在座的许多国家”都依赖于通过该海峡运输的供应。据知情人士透露，日本经济产业大臣赤泽亮正在会谈中反复强调，日本约90%的石油供应依赖于经由霍尔木兹海峡运输的原油。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2453760.d.html</link>
-            <guid>4748328</guid>
-            <pubDate>Mon, 16 Mar 2026 19:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达CEO黄仁勋：Vera  Rubin Ultra 服务器将搭载 144 颗 GPU。]]></title>
-            <guid>4748327</guid>
-            <pubDate>Mon, 16 Mar 2026 19:35:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达CEO黄仁勋展示全新 Rubin Ultra 系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5676248.d.html</link>
-            <guid>4748326</guid>
-            <pubDate>Mon, 16 Mar 2026 19:35:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达CEO黄仁勋：CPU 业务 “肯定” 会成为数十亿美元级别的业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2453247.d.html</link>
-            <guid>4748325</guid>
-            <pubDate>Mon, 16 Mar 2026 19:34:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达CEO黄仁勋：公司已与台积电全面量产用于 Spectrum X 芯片的共封装光学芯片。]]></title>
-            <guid>4748324</guid>
-            <pubDate>Mon, 16 Mar 2026 19:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达CEO黄仁勋：全新基于 Groq 技术的服务器将搭载八颗 Groq 芯片，这些芯片属于第三代产品。]]></title>
-            <guid>4748323</guid>
-            <pubDate>Mon, 16 Mar 2026 19:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达表示，Vera 的性能是任何其他 CPU 的两倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmyf8500142.d.html</link>
-            <guid>4748322</guid>
-            <pubDate>Mon, 16 Mar 2026 19:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据Axios：美国特使威特科夫与伊朗外长阿拉格奇近期恢复沟通。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5675114.d.html</link>
-            <guid>4748321</guid>
-            <pubDate>Mon, 16 Mar 2026 19:32:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达发布全新 Groq 3 LPX AI 推理芯片，该芯片基于这家初创公司的技术打造。]]></title>
-            <guid>4748320</guid>
-            <pubDate>Mon, 16 Mar 2026 19:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达推出 Vera CPU，专为智能体 AI（Agentic AI） 量身打造。]]></title>
-            <guid>4748319</guid>
-            <pubDate>Mon, 16 Mar 2026 19:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达表示全新 Vera 处理器采用 LPDDR5 内存。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmyh9712323.d.html</link>
-            <guid>4748318</guid>
-            <pubDate>Mon, 16 Mar 2026 19:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[一艘巴基斯坦油轮成为第一艘开启自动应答系统穿越霍尔木兹海峡的非伊朗油轮。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5674409.d.html</link>
-            <guid>4748317</guid>
-            <pubDate>Mon, 16 Mar 2026 19:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达七款全新的Vera Rubin芯片现已进入全面量产阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmyf8499407.d.html</link>
-            <guid>4748316</guid>
-            <pubDate>Mon, 16 Mar 2026 19:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达推出 BlueField-4 STX 存储架构，已获得业界广泛采用。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmyf8499353.d.html</link>
-            <guid>4748315</guid>
-            <pubDate>Mon, 16 Mar 2026 19:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[无人机袭击巴格达绿区拉希德酒店，现场升起浓烟与火焰。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2451182.d.html</link>
-            <guid>4748314</guid>
-            <pubDate>Mon, 16 Mar 2026 19:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比罗尔：恢复稳定的石油和天然气流动的唯一最重要因素是恢复通过霍尔木兹海峡的运输。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5673899.d.html</link>
-            <guid>4748313</guid>
-            <pubDate>Mon, 16 Mar 2026 19:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达宣布推出基于 CPU 的全新服务器机架。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2450972.d.html</link>
-            <guid>4748312</guid>
-            <pubDate>Mon, 16 Mar 2026 19:29:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比罗尔：“就政府储备和由政府义务持有的行业储备而言，如果将两者合并计算，仍有超过14亿桶剩余，这意味着我们可以在以后需要时采取更多行动。”]]></title>
-            <guid>4748311</guid>
-            <pubDate>Mon, 16 Mar 2026 19:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英伟达宣布推出全新 GROQ LPU 产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5673650.d.html</link>
-            <guid>4748310</guid>
-            <pubDate>Mon, 16 Mar 2026 19:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际能源署署长法提赫·比罗尔：如有必要，可以释放更多战略石油储备，以限制因对伊战争导致的霍尔木兹海峡供应近乎完全受阻所造成的影响。]]></title>
-            <guid>4748309</guid>
-            <pubDate>Mon, 16 Mar 2026 19:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国一名法官叫停了特朗普政府削减儿童常规推荐疫苗种类的决定，并阻止其任命疫苗专家委员会的 13 名成员。]]></title>
-            <guid>4748308</guid>
-            <pubDate>Mon, 16 Mar 2026 19:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英伟达预计到2027年底Blackwell和Rubin芯片将带来至少1万亿美元收入】英伟达公司预计，到2027年底，其Blackwell和Rubin芯片将至少创造1万亿美元的收入。该公司此前预计，到2026年底，这些芯片的销售额将达到5000亿美元。首席执行官黄仁勋在公司活动上发布了最新预测。受此消息提振，股价一度上涨4.8%。在活动开始前，其股价今年以来已下跌3.4%。]]></title>
-            <guid>4748307</guid>
-            <pubDate>Mon, 16 Mar 2026 19:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗议会议长：停火只有以不再开战为前提时才合理】当地时间16日，伊朗议会议长卡利巴夫在接受采访时表示，停火只有以不再开战为前提时才合理。停火不能只是给敌人创造机会，让他们解决自己的问题，比如解决雷达被毁或拦截导弹短缺的问题，然后再次对伊朗发起攻击。卡利巴夫说，伊朗将继续战斗，在敌人真正感到后悔、并且全球和地区形成适宜的政治与安全条件之前，伊朗不会接受停火。卡利巴夫还表示，伊朗已为长期战争做好准备，因为伊朗预见到将遭受攻击。他认为如今已无人相信美国所谓“摧毁伊朗进攻能力”的言论。伊朗拥有充足的导弹和无人机储备，由于掌握自主技术，能够以远超敌人的效率和远低于敌方拦截导弹的成本来进行生产。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5673037.d.html</link>
-            <guid>4748306</guid>
-            <pubDate>Mon, 16 Mar 2026 19:26:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴基斯坦国家银行：巴基斯坦IT出口在2026年2月延续下降趋势，出口收入降至3.65亿美元。]]></title>
-            <guid>4748305</guid>
-            <pubDate>Mon, 16 Mar 2026 19:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美元指数跌0.7%】周一（3月16日）纽约尾盘，ICE美元指数跌0.68%，刷新日低至99.660点，北京时间16:00之前窄幅震荡于100.300点附近——在亚太盘初最高达到100.473点，之后持续下挫。彭博美元指数跌0.72%，报1208.10点，全天处于下跌状态，16:00以来也持续走低。美元兑日元跌0.46%，报159日元，日内交投区间为159.75-158.85日元。欧元兑日元涨0.45%，英镑兑日元涨0.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2449701.d.html</link>
-            <guid>4748304</guid>
-            <pubDate>Mon, 16 Mar 2026 19:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊总统：在确保伊朗不再遭受攻击之前谈论结束战争毫无意义】当地时间16日，伊朗总统佩泽希齐扬在其个人社交媒体透露了他与法国总统马克龙的通话内容。佩泽希齐扬表示，伊朗并未挑起这场残酷的战争。抵御侵略是伊朗的天赋权利，这正是伊朗擅长的。利用美国在该地区的军事基地来对抗伊朗，企图破坏伊朗与邻国的关系，这种行为必须停止。若无视以色列与美国对伊朗发动的侵略，就无法实现地区的和平与稳定。伊朗绝不会向霸凌者屈服。佩泽希齐扬说，伊朗期待国际社会谴责这一侵略行为，并说服侵略者尊重国际法。在确保伊朗领土未来不再遭受攻击之前，谈论结束战争是毫无意义的。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmyf8498402.d.html</link>
-            <guid>4748303</guid>
-            <pubDate>Mon, 16 Mar 2026 19:25:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西乙醇行业游说组织在联合声明中表示，预计2026/27年度乙醇产量将增加约40亿升，创下历史新高。]]></title>
-            <guid>4748302</guid>
-            <pubDate>Mon, 16 Mar 2026 19:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列北部遭火箭弹袭击多人受伤】以色列北部地区当地时间3月16日晚遭黎巴嫩真主党火箭弹和无人机袭击。以色列救援部门称，北部城市纳哈里亚有两栋房屋起火，造成至少7人受伤。以色列军方称，这可能是由一枚火箭弹造成的。但目前尚不清楚弹片来自火箭弹本身，还是来自拦截弹。 (CCTV国际时讯)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmyf8498175.d.html</link>
-            <guid>4748301</guid>
-            <pubDate>Mon, 16 Mar 2026 19:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芝加哥大豆期货跌超5.6%，油菜籽跌5%，咖啡C涨2.8%，棉花涨超3.9%】周一（3月16日）纽约尾盘，彭博谷物分类指数跌3.75%，报31.2497点，全天处于下跌状态，美股开盘之前持稳于32点整数位心理关口附近，之后持续扩大跌幅。CBOT玉米期货跌2.68%，报4.5475美元/蒲式耳。CBOT小麦期货跌2.78%，报5.97美元/蒲式耳。CBOT大豆期货跌5.66%，刷新日低至11.5525美元/蒲式耳，美股开盘以来加速下跌；豆粕期货跌3.10%，豆油期货跌5.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5671184.d.html</link>
-            <guid>4748300</guid>
-            <pubDate>Mon, 16 Mar 2026 19:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：多枚喀秋莎火箭弹射向巴格达美国大使馆。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2447916.d.html</link>
-            <guid>4748299</guid>
-            <pubDate>Mon, 16 Mar 2026 19:20:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国最高法院将审理相关辩论，涉及特朗普政府试图取消在美国境内部分海地裔和叙利亚裔人士临时法律保护的议题。]]></title>
-            <guid>4748298</guid>
-            <pubDate>Mon, 16 Mar 2026 19:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英伟达CEO黄仁勋：公司目标是2025年至2027年实现1万亿美元营收。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmye2446544.d.html</link>
-            <guid>4748297</guid>
-            <pubDate>Mon, 16 Mar 2026 19:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美驻伊拉克使馆所在区域再遭袭】当地时间3月16日晚，位于伊拉克首都巴格达“绿区”的美国大使馆拉响防空警报，之后不久使馆附近便遭到袭击，现场冒出浓烟。连日来，在伊拉克的美国军事、外交目标及美国企业等频繁遭袭。（CCTV国际时讯 ）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-03-17/detail-inhrfmya5669204.d.html</link>
-            <guid>4748296</guid>
-            <pubDate>Mon, 16 Mar 2026 19:15:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

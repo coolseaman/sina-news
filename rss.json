@@ -6,6 +6,654 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 4769923,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-25/detail-inhschnq7315817.d.html",
+            "title": "谷歌：谷歌电视将新增三项Gemini功能。",
+            "date_modified": "2026-03-24T16:08:56.000Z"
+        },
+        {
+            "id": 4769922,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-25/detail-inhschnu0328495.d.html",
+            "title": "【中国向马达加斯加捐赠新一批医疗物资】中国援马达加斯加医疗物资捐赠仪式24日在马达加斯加首都塔那那利佛举行。据介绍，在中非对口医院合作机制下，此次援助医疗物资是由兰州大学第一医院向马达加斯加阿努西亚拉医院捐赠的首批物资，包括数字化X射线摄影系统、多参数监护仪、超声雾化器、血气分析仪等，供医院呼吸内科临床诊疗使用。（新华社）",
+            "date_modified": "2026-03-24T16:08:14.000Z"
+        },
+        {
+            "id": 4769921,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-25/detail-inhschnq7315048.d.html",
+            "title": "OpenAI：罗伯特·凯登将加入OpenAI基金会并担任首席财务官。",
+            "date_modified": "2026-03-24T16:07:05.000Z"
+        },
+        {
+            "id": 4769920,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-25/detail-inhschnn1529176.d.html",
+            "title": "OpenAI：（利用智能代理），用户可以通过可视化方式浏览商品并进行选项对比。",
+            "date_modified": "2026-03-24T16:06:18.000Z"
+        },
+        {
+            "id": 4769918,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-25/detail-inhschnu0327172.d.html",
+            "title": "OpenAI：正在扩展智能代理商务协议， 赋能ChatGPT内的商品搜索与发现功能 。",
+            "date_modified": "2026-03-24T16:04:20.000Z"
+        },
+        {
+            "id": 4769917,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-25/detail-inhschns4090497.d.html",
+            "title": "摩根大通CEO戴蒙：摩根大通看好区块链，投机行为吸引力较低。",
+            "date_modified": "2026-03-24T16:03:06.000Z"
+        },
+        {
+            "id": 4769916,
+            "content_html": "",
+            "title": "美军第82空降师的布兰登・泰格特迈尔少将及其指挥参谋人员已奉命前往中东，五角大楼正考虑派遣该师执行可能的地面作战任务。",
+            "date_modified": "2026-03-24T16:02:21.000Z"
+        },
+        {
+            "id": 4769915,
+            "content_html": "",
+            "title": "法国国家统计局预计，调和消费者物价指数（HICP）通胀率将从2月份的1.1%升至6月份的2.2%。同时，将第一季度和第二季度的经济增长预期从之前的0.3%下调至0.2%。",
+            "date_modified": "2026-03-24T16:01:28.000Z"
+        },
+        {
+            "id": 4769914,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-25/detail-inhschnq7312373.d.html",
+            "title": "据猫眼专业版数据，电影《镖人：风起大漠》上映37天， 总票房破14亿。",
+            "date_modified": "2026-03-24T16:00:15.000Z"
+        },
+        {
+            "id": 4769913,
+            "content_html": "",
+            "title": "乌克兰能源部长表示，已就美国国际开发金融公司（DFC）提供14亿美元贷款以恢复天然气生产设施事宜进行了讨论。",
+            "date_modified": "2026-03-24T16:00:00.000Z"
+        },
+        {
+            "id": 4769912,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4089444.d.html",
+            "title": "亚马逊：正将受影响的巴林地区客户迁移至其他AWS区域。",
+            "date_modified": "2026-03-24T15:59:47.000Z"
+        },
+        {
+            "id": 4769911,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1526447.d.html",
+            "title": "亚马逊：受持续中东冲突影响，AWS巴林大区服务中断。",
+            "date_modified": "2026-03-24T15:58:32.000Z"
+        },
+        {
+            "id": 4769910,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1526359.d.html",
+            "title": "乌克兰能源部长表示，他在访问美国期间会见了美国能源部长。",
+            "date_modified": "2026-03-24T15:57:59.000Z"
+        },
+        {
+            "id": 4769909,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0324830.d.html",
+            "title": "【油价高企拖累航空业 美联航警告机票价格或不得不上涨20%】美国联合航空控股股份有限公司首席执行官Scott Kirby表示，如果航空燃油价格长期居高不下，机票价格可能不得不上涨20%。Kirby周二表示，如果机票价格继续上涨，该航司预计会出现一定程度的消费者抵制，出行人数也会减少。Kirby还表示，美联航已经削减了不盈利、无法覆盖燃油成本上涨的航线5%的运力。Kirby表示，不过目前需求依然非常强劲。",
+            "date_modified": "2026-03-24T15:56:39.000Z"
+        },
+        {
+            "id": 4769908,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1526116.d.html",
+            "title": "印度政府：加强天然气基础设施的命令立即生效。",
+            "date_modified": "2026-03-24T15:56:18.000Z"
+        },
+        {
+            "id": 4769907,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4088778.d.html",
+            "title": "市场资讯：美军第82空降师师长奉命部署至中东。",
+            "date_modified": "2026-03-24T15:56:01.000Z"
+        },
+        {
+            "id": 4769906,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7311449.d.html",
+            "title": "印度政府：该政令为在印度全国铺设和扩建输油管道提供了精简且有明确时限的框架。",
+            "date_modified": "2026-03-24T15:55:12.000Z"
+        },
+        {
+            "id": 4769905,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4088543.d.html",
+            "title": "印度政府：授权实体可在各地区无缝铺设及扩建管道。",
+            "date_modified": "2026-03-24T15:54:59.000Z"
+        },
+        {
+            "id": 4769904,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4088477.d.html",
+            "title": "摩根大通首席执行官戴蒙声称：伊朗是一个恐怖主义威胁，多年来一直如此。",
+            "date_modified": "2026-03-24T15:54:42.000Z"
+        },
+        {
+            "id": 4769903,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7311174.d.html",
+            "title": "印度政府：发布标志性政令，旨在强化天然气基础设施建设，并优化营商环境。",
+            "date_modified": "2026-03-24T15:54:12.000Z"
+        },
+        {
+            "id": 4769902,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0324346.d.html",
+            "title": "美国国务院官员迪南诺：尚未就恢复大气层核试验举行任何讨论。",
+            "date_modified": "2026-03-24T15:54:03.000Z"
+        },
+        {
+            "id": 4769901,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7311042.d.html",
+            "title": "美国国务院官员迪南诺：特朗普政府仍在评估恢复美国核武器试验的方案。",
+            "date_modified": "2026-03-24T15:53:43.000Z"
+        },
+        {
+            "id": 4769900,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7310986.d.html",
+            "title": "雪佛龙计划从萨布尔（Sable）公司购买原油，用于洛杉矶炼油厂。",
+            "date_modified": "2026-03-24T15:53:30.000Z"
+        },
+        {
+            "id": 4769899,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1525485.d.html",
+            "title": "阿斯麦员工参与罢工，工会敦促管理层重新考虑裁员计划。",
+            "date_modified": "2026-03-24T15:53:09.000Z"
+        },
+        {
+            "id": 4769898,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4087711.d.html",
+            "title": "摩根大通首席执行官戴蒙：美国需要反思自身在对华关系上的不足。",
+            "date_modified": "2026-03-24T15:51:40.000Z"
+        },
+        {
+            "id": 4769897,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7310438.d.html",
+            "title": "美国国家航空航天局局长贾里德・艾萨克曼：月球门户空间站资金将用于建造月球基地。",
+            "date_modified": "2026-03-24T15:51:19.000Z"
+        },
+        {
+            "id": 4769896,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1524870.d.html",
+            "title": "【欧洲央行管委：央行做好准备在必要时应对通胀】欧洲央行管委Francois Villeroy de Galhau表示，如果能源价格上涨开始波及经济其他领域，央行已做好准备应对通胀。Villeroy周二在巴黎介绍法国央行的年度报告时表示：“我们上周四一致决定维持利率不变，但我们处于良好境地，能够在必要时以必要的方式采取行动。”欧洲央行部分政策制定者暗示，随着能源价格上涨向商品和服务传导，央行可能最早于下月考虑提高借贷成本。",
+            "date_modified": "2026-03-24T15:50:28.000Z"
+        },
+        {
+            "id": 4769895,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4087082.d.html",
+            "title": "【国际原子能机构称扎波罗热核电站失去与主输电线路连接】国际原子能机构24日称，扎波罗热核电站当天失去了与750千伏主输电线路的连接，目前依赖唯一的备用供电线路维持外部电力供应。国际原子能机构总干事格罗西表示，该机构正在与乌俄双方讨论建立局部停火，以便对受损的输电线路进行维修，目前专家继续监测该核电站的局势。（央视新闻）",
+            "date_modified": "2026-03-24T15:48:34.000Z"
+        },
+        {
+            "id": 4769894,
+            "content_html": "",
+            "title": "两名黎巴嫩安全人士称，一枚伊朗导弹首次在黎巴嫩领空被拦截，拦截行动是由一艘外国军舰实施的。",
+            "date_modified": "2026-03-24T15:47:51.000Z"
+        },
+        {
+            "id": 4769893,
+            "content_html": "",
+            "title": "美国国土安全部表示，自政府停摆开始以来，已有超过450名美国运输安全管理局（TSA）官员辞职。",
+            "date_modified": "2026-03-24T15:47:33.000Z"
+        },
+        {
+            "id": 4769892,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1524285.d.html",
+            "title": "【俄外长：中东局势升级源于少数西方国家试图维持其霸权地位】俄罗斯外长拉夫罗夫24日表示，中东局势升级直接源于少数西方国家企图通过武力维持其残存的霸权地位。 拉夫罗夫当天在莫斯科举行的一场基金会理事会议上说，美国和以色列对伊朗的军事行动将破坏世界贸易，威胁全球能源安全以及国际运输和商业往来。 拉夫罗夫还说，俄罗斯正向伊朗和海湾合作委员会国家传达其对当前局势的评估。俄方相信，谈判以及在实现利益平衡的前提下达成协议符合中东地区国家利益。(新华社)",
+            "date_modified": "2026-03-24T15:47:16.000Z"
+        },
+        {
+            "id": 4769891,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4086210.d.html",
+            "title": "伊朗对每艘通过霍尔木兹海峡的船只征收200万美元的费用。",
+            "date_modified": "2026-03-24T15:44:49.000Z"
+        },
+        {
+            "id": 4769890,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0322212.d.html",
+            "title": "【海湾阿拉伯国家对伊朗逐渐失去耐心 或考虑加入美以对伊军事行动】据多名知情人士透露，伊朗在海湾地区最大的阿拉伯邻国正考虑加入美国和以色列对伊朗的战争，如果德黑兰攻击这些国家的关键基础设施，它们可能会被迫参战。知情人士说，海湾地区实力最强的国家，尤其是沙特阿拉伯和阿联酋，对伊朗发动的打击正日益失去耐心。相关袭击已波及港口、能源设施和机场。但知情人士补充说，只有在伊朗兑现威胁、攻击海湾国家至关重要的电力和供水基础设施时，它们才会加入战争，而这将是一个很高的门槛。",
+            "date_modified": "2026-03-24T15:44:16.000Z"
+        },
+        {
+            "id": 4769889,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0321960.d.html",
+            "title": "以色列：西加利利多个城镇因担心无人机渗透而拉响空袭警报。",
+            "date_modified": "2026-03-24T15:43:12.000Z"
+        },
+        {
+            "id": 4769888,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4085657.d.html",
+            "title": "【OpenAI非营利机构任命负责人，计划2026年投入10亿美元】OpenAI计划今年通过其非营利机构OpenAI基金会，向各类人工智能相关事业投入10亿美元。OpenAI基金会2026年的资金将重点用于两大方向：助力防范人工智能潜在风险，以及资助利用人工智能推动生命科学发展的相关项目。 该基金会将通过外部赠款和项目进行投资，并已任命多位核心负责人领导这家非营利机构，其中包括沃伊切赫・扎伦巴与雅各布・特雷费森。",
+            "date_modified": "2026-03-24T15:42:51.000Z"
+        },
+        {
+            "id": 4769887,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1522997.d.html",
+            "title": "纳斯达克100指数跌幅收窄至0.2%，标普500指数上涨0.1%。",
+            "date_modified": "2026-03-24T15:42:09.000Z"
+        },
+        {
+            "id": 4769886,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4085237.d.html",
+            "title": "OpenAI非营利机构任命领导层，计划今年支出10亿美元。",
+            "date_modified": "2026-03-24T15:41:24.000Z"
+        },
+        {
+            "id": 4769885,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7307893.d.html",
+            "title": "【国航开通布鲁塞尔至北京、成都直飞航线】中国国际航空公司24日在比利时布鲁塞尔国际机场举行布鲁塞尔至北京直飞航线首航仪式，同时宣布将于26日正式开通布鲁塞尔至成都直飞航线。",
+            "date_modified": "2026-03-24T15:40:57.000Z"
+        },
+        {
+            "id": 4769884,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7307321.d.html",
+            "title": "【京东公布AI进展，“龙虾”系产品近一周token调用量环比增长455%】3月24日，京东公布了包括模型开源、数字人、具身智能、“龙虾”在内的部分AI研发应用阶段性进展。大模型方面，京东首次开源基础大模型JoyAI-LLM Flash的Instruct版本，并表示该模型适配代码开发、智能体搭建、终端应用等多领域，尤其是适配近期火爆的“龙虾”。京东云表示，针对开发者关注的“龙虾”智能体，以及背后高昂的token成本问题，已经基于JoyAI大模型通过开源OpenClaw架构推出轻量云主机一键部署、一体机、云上SaaS版等多元产品形态。据统计，京东云“龙虾”系列产品上线后，近一周token调用量环比增长高达455%。",
+            "date_modified": "2026-03-24T15:39:15.000Z"
+        },
+        {
+            "id": 4769883,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7306382.d.html",
+            "title": "墨西哥总统辛鲍姆：墨西哥正等待巴西石油公司提交合作完整方案。",
+            "date_modified": "2026-03-24T15:36:20.000Z"
+        },
+        {
+            "id": 4769882,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4083350.d.html",
+            "title": "  市场资讯：墨西哥尚未就巴西石油公司与墨西哥国家石油公司的合作事宜作出决定。",
+            "date_modified": "2026-03-24T15:35:43.000Z"
+        },
+        {
+            "id": 4769881,
+            "content_html": "",
+            "title": "墨西哥总统辛鲍姆表示，巴西石油公司总裁将于4月抵达墨西哥，商讨与墨西哥国家石油公司的拟议合作事宜。",
+            "date_modified": "2026-03-24T15:34:32.000Z"
+        },
+        {
+            "id": 4769880,
+            "content_html": "",
+            "title": "康菲石油首席执行官表示，委内瑞拉需要对财政体系进行“全面重构”，才能吸引到石油产量大幅提升所需的投资。",
+            "date_modified": "2026-03-24T15:33:26.000Z"
+        },
+        {
+            "id": 4769879,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1520166.d.html",
+            "title": "康菲石油首席执行官表示，委内瑞拉要吸引大规模投资，必须先保障合同的长期稳定性。",
+            "date_modified": "2026-03-24T15:32:40.000Z"
+        },
+        {
+            "id": 4769878,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4082290.d.html",
+            "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.98。",
+            "date_modified": "2026-03-24T15:32:25.000Z"
+        },
+        {
+            "id": 4769877,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1519940.d.html",
+            "title": "瑞士国家银行（SNB）管委楚丁：央行干预外汇市场的准备程度已提升。",
+            "date_modified": "2026-03-24T15:32:03.000Z"
+        },
+        {
+            "id": 4769876,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4081918.d.html",
+            "title": "康菲石油首席执行官称委内瑞拉欠其约120亿美元。",
+            "date_modified": "2026-03-24T15:31:19.000Z"
+        },
+        {
+            "id": 4769875,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4081673.d.html",
+            "title": "TRADE DESK股价跌幅扩大至8.6%。",
+            "date_modified": "2026-03-24T15:30:24.000Z"
+        },
+        {
+            "id": 4769874,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4081096.d.html",
+            "title": "【捷克军工企业纵火案3名嫌疑人被捕】捷克警方24日在社交媒体宣布，3名涉嫌在捷克东部城市帕尔杜比采一家军工企业蓄意纵火的嫌疑人已被逮捕，其中包括捷克籍和美国籍公民。捷克警方说，有两名嫌疑人在捷克境内被捕，另有一名嫌疑人在斯洛伐克落网。捷克警方目前正与国际伙伴展开合作，继续全力追捕其余在逃嫌疑人。（新华社）",
+            "date_modified": "2026-03-24T15:27:56.000Z"
+        },
+        {
+            "id": 4769873,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7303825.d.html",
+            "title": "智利撤销对前总统米歇尔·巴切莱特出任联合国秘书长的支持。",
+            "date_modified": "2026-03-24T15:27:32.000Z"
+        },
+        {
+            "id": 4769872,
+            "content_html": "",
+            "title": "瑞士国家银行（SNB）管委楚丁：我们上周已经强调，我们对外汇市场的干预意愿较以往更高。",
+            "date_modified": "2026-03-24T15:26:47.000Z"
+        },
+        {
+            "id": 4769871,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0317315.d.html",
+            "title": "【微软与英伟达合作开发人工智能技术，企图破解核能行业发展瓶颈】据微软一篇官方博客文章透露，微软正与英伟达合作开发面向核能领域的人工智能工具，用以简化项目审批流程、加快设计研发速度，并优化行业运营效率。微软表示，核能对未来发展至关重要，但该行业目前仍深陷项目落地瓶颈之中。",
+            "date_modified": "2026-03-24T15:26:33.000Z"
+        },
+        {
+            "id": 4769870,
+            "content_html": "",
+            "title": "花旗集团将《纽约时报》目标股价从每股77.00美元上调至每股94.00美元，维持对《纽约时报》的买入评级。",
+            "date_modified": "2026-03-24T15:26:03.000Z"
+        },
+        {
+            "id": 4769869,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4080464.d.html",
+            "title": "【伊朗革命卫队在霍尔木兹海峡驱逐“塞伦”号集装箱船】伊朗革命卫队海军司令阿里雷扎·坦格西里在X上发帖称，集装箱货轮“塞伦号”因未遵守法律协议且缺乏通过霍尔木兹海峡的许可而被革命卫队海军驱逐。他表示，通过该航道必须与伊朗海事部门进行全面协调。",
+            "date_modified": "2026-03-24T15:25:32.000Z"
+        },
+        {
+            "id": 4769868,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0316873.d.html",
+            "title": "瑞士国家银行（SNB）管委楚丁：中期来看，这一状况将会有所缓解。",
+            "date_modified": "2026-03-24T15:24:29.000Z"
+        },
+        {
+            "id": 4769867,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7302993.d.html",
+            "title": "瑞士国家银行（SNB）管委楚丁：我们预计短期内通胀将出现小幅上升。",
+            "date_modified": "2026-03-24T15:24:20.000Z"
+        },
+        {
+            "id": 4769866,
+            "content_html": "",
+            "title": "康菲石油首席执行官表示，美国石油行业2026年产能难以进一步提升，当前产能规划已敲定。",
+            "date_modified": "2026-03-24T15:24:00.000Z"
+        },
+        {
+            "id": 4769865,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4080064.d.html",
+            "title": "【内塔尼亚胡派亲信紧盯美伊谈判动向 确保以色列利益】一位以色列官员表示，以色列总理内塔尼亚胡要求亲信Ron Dermer关注美伊旨在结束战争的谈判动向，确保以色列的利益得到维护。这位官员表示，Dermer的重点在于确保伊朗的核计划被拆除，并收回和销毁其约440公斤(972磅)的高浓缩铀。这位官员还表示，以色列政府认为美国总统特朗普持有相同目标。Dermer曾任驻美大使，并在去年11月前担任以色列战略事务部部长，与特朗普政府多名成员关系密切，包括特朗普本人。此举表明内塔尼亚胡高度重视特朗普周一宣布的谈判，以色列政府也对美国可能达成不符合以色列利益的协议抱有一定警惕。",
+            "date_modified": "2026-03-24T15:23:51.000Z"
+        },
+        {
+            "id": 4769864,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7302555.d.html",
+            "title": "康菲石油首席执行官表示，阿拉斯加柳树项目完工进度约为50%。",
+            "date_modified": "2026-03-24T15:22:58.000Z"
+        },
+        {
+            "id": 4769863,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4079657.d.html",
+            "title": "康菲石油首席执行官表示，阿拉斯加柳树项目将日产15万至16万桶原油。",
+            "date_modified": "2026-03-24T15:22:48.000Z"
+        },
+        {
+            "id": 4769862,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4079615.d.html",
+            "title": "【美股软件股暴跌 因据报亚马逊推出新人工智能工具】周二软件股集体暴跌，成为该行业近期剧烈波动的最新例证。此前，由于市场担忧人工智能(AI)带来的颠覆性影响，该板块一直表现低迷。此前报道称，亚马逊云服务部门正在开发AI工具，旨在实现销售及业务开发团队职能的自动化iShares科技软件板块ETF下跌3.9%，年内累计跌幅达到23%投资者纷纷抛售此类股票，担心新型AI工具会削减市场对传统软件产品的需求。与此同时，半导体股票指数周二微涨0.1%。跌幅显著的个股包括： Atlassian跌8.6%、UiPath 跌8.5%、HubSpot跌7.9%、Intapp跌7.7%、Pegasystems跌6.6%、Zeta Global跌6.7%、GitLab 跌6%、甲骨文跌4.1%、微软跌2.7%。",
+            "date_modified": "2026-03-24T15:22:40.000Z"
+        },
+        {
+            "id": 4769861,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4079130.d.html",
+            "title": "【伊朗多地传出爆炸声 两处能源设施遭袭】23日到24日，美国和以色列称持续袭击伊朗多地，伊朗中部两处能源基础设施遭袭。伊朗方面称，使用导弹和无人机打击以军目标和美国在中东的军事基地。（央视新闻）",
+            "date_modified": "2026-03-24T15:21:21.000Z"
+        },
+        {
+            "id": 4769860,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4078910.d.html",
+            "title": "【以色列系统性对巴勒斯坦人施酷刑】3月23日，联合国巴勒斯坦被占领土人权状况特别报告员弗兰切丝卡·阿尔巴内塞在提交给联合国人权理事会的报告中谴责以色列长期以来系统性对巴勒斯坦人实施酷刑。阿尔巴内塞在报告中说，在长期的有罪不罚和政治掩护下，以色列对巴勒斯坦人的系统性酷刑已成为其持续进行种族灭绝的核心手段。她警告，以方“长期用于支配、侮辱和摧残巴勒斯坦人的体系，已经演变并固化为国家意志”。（CCTV国际时讯）",
+            "date_modified": "2026-03-24T15:20:46.000Z"
+        },
+        {
+            "id": 4769859,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4078590.d.html",
+            "title": "卡塔尔警察局长表示，已要求美国政府保护卡塔尔资产。",
+            "date_modified": "2026-03-24T15:19:47.000Z"
+        },
+        {
+            "id": 4769858,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1516809.d.html",
+            "title": "阿联酋国防部表示，在伊朗对巴林发动的袭击中身亡的人员是一名摩洛哥籍文职承包商。",
+            "date_modified": "2026-03-24T15:19:19.000Z"
+        },
+        {
+            "id": 4769857,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0315463.d.html",
+            "title": "微软与英伟达将为核能审批与设计开发相关工具。",
+            "date_modified": "2026-03-24T15:19:15.000Z"
+        },
+        {
+            "id": 4769856,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0315412.d.html",
+            "title": "英国查尔斯国王将于 4 月 27 日当周在美国国会发表讲话。",
+            "date_modified": "2026-03-24T15:18:57.000Z"
+        },
+        {
+            "id": 4769855,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1516671.d.html",
+            "title": "联合航空警告称，为应对油价飙升，票价将上涨20%。",
+            "date_modified": "2026-03-24T15:18:39.000Z"
+        },
+        {
+            "id": 4769854,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7301043.d.html",
+            "title": "乌克兰：利沃夫地区发生无人机袭击事件，初步造成7人受伤，其中1人伤势危重。",
+            "date_modified": "2026-03-24T15:17:55.000Z"
+        },
+        {
+            "id": 4769853,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1516346.d.html",
+            "title": "康菲石油公司首席执行官：油价曲线可能会转为期货溢价。",
+            "date_modified": "2026-03-24T15:17:28.000Z"
+        },
+        {
+            "id": 4769852,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7300937.d.html",
+            "title": "微软与英伟达宣布在核能领域展开人工智能合作。",
+            "date_modified": "2026-03-24T15:17:18.000Z"
+        },
+        {
+            "id": 4769851,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4078089.d.html",
+            "title": "微软将租用甲骨文与OpenAI放弃运营的得克萨斯州数据中心。",
+            "date_modified": "2026-03-24T15:17:13.000Z"
+        },
+        {
+            "id": 4769850,
+            "content_html": "",
+            "title": "伊朗议会议长加利巴夫：我们清楚石油市场正在发生的一切，包括那些受雇操纵石油期货的公司。我们也看到了更大范围的舆论造势行动。 但我们倒要看看，他们能不能把这些手段变成加油站里的实际燃油——或者干脆直接 “印” 出汽油分子来。",
+            "date_modified": "2026-03-24T15:16:50.000Z"
+        },
+        {
+            "id": 4769849,
+            "content_html": "",
+            "title": "以色列国防军发言人声称：国防军和辛贝特（以色列国家安全局）在黎巴嫩击毙了一名圣城旅成员，此人受伊朗情报机构指使，策划恐怖袭击。",
+            "date_modified": "2026-03-24T15:12:18.000Z"
+        },
+        {
+            "id": 4769848,
+            "content_html": "",
+            "title": "黎巴嫩卫生部：自3月2日以色列侵略黎巴嫩以来，已有1072人殉难，2966人受伤。",
+            "date_modified": "2026-03-24T15:11:32.000Z"
+        },
+        {
+            "id": 4769847,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4075837.d.html",
+            "title": "沙特阿拉伯希望通过大幅削弱伊朗的巡航导弹和弹道导弹能力来结束与伊朗的战争。",
+            "date_modified": "2026-03-24T15:09:43.000Z"
+        },
+        {
+            "id": 4769846,
+            "content_html": "",
+            "title": "一位伊朗消息人士称，美国近期通过中间人与德黑兰方面接触，但双方尚未正式展开谈判。伊朗愿意听取旨在结束冲突的“可持续”方案，而不仅仅是停火。",
+            "date_modified": "2026-03-24T15:09:21.000Z"
+        },
+        {
+            "id": 4769845,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7298355.d.html",
+            "title": "美国参议员班克斯敦促商务部长卢特尼克重新考虑英伟达的芯片出口许可证。",
+            "date_modified": "2026-03-24T15:08:38.000Z"
+        },
+        {
+            "id": 4769844,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4075398.d.html",
+            "title": "【以军称打击黎巴嫩境内“真主党加油站”】以色列国防军24日称，以军对黎巴嫩境内为真主党“提供资金”的加油站发动了新一轮打击。以军说，其在过去一天打击了黎巴嫩境内由真主党控制的阿玛纳公司旗下多个加油站。以军称，该公司是黎巴嫩真主党“重要资金来源”，并利用这些加油站为“运送武器和人员的卡车”加油。以军还称，袭击这些加油站破坏了“真主党在黎巴嫩的基础设施”，限制了其策划武装行动的能力。（新华社）",
+            "date_modified": "2026-03-24T15:08:17.000Z"
+        },
+        {
+            "id": 4769842,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7298004.d.html",
+            "title": "海湾国家考虑动用军事手段应对伊朗局势升级。",
+            "date_modified": "2026-03-24T15:07:41.000Z"
+        },
+        {
+            "id": 4769841,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4075092.d.html",
+            "title": "以色列：初步调查证实，坠落在特拉维夫的火箭是一枚完整的火箭，而不是爆炸性弹头。",
+            "date_modified": "2026-03-24T15:07:30.000Z"
+        },
+        {
+            "id": 4769840,
+            "content_html": "",
+            "title": "乌克兰总理就俄罗斯对利沃夫发动无人机袭击发表讲话：俄罗斯竟在光天化日之下袭击人员密集的市中心。",
+            "date_modified": "2026-03-24T15:06:37.000Z"
+        },
+        {
+            "id": 4769839,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4074701.d.html",
+            "title": "德国检察官：两人因涉嫌为俄罗斯情报部门工作被捕。",
+            "date_modified": "2026-03-24T15:06:25.000Z"
+        },
+        {
+            "id": 4769838,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7297479.d.html",
+            "title": "苹果企业服务将取代Essentials、Manager、Connect三款产品。",
+            "date_modified": "2026-03-24T15:06:17.000Z"
+        },
+        {
+            "id": 4769837,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1513089.d.html",
+            "title": "苹果：苹果地图广告将于今年夏季面向企业开放。",
+            "date_modified": "2026-03-24T15:05:46.000Z"
+        },
+        {
+            "id": 4769836,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4074208.d.html",
+            "title": "苹果企业服务包括免费连接、基础功能、管理员用户等功能。",
+            "date_modified": "2026-03-24T15:05:15.000Z"
+        },
+        {
+            "id": 4769835,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4073552.d.html",
+            "title": "【日本不法之徒携刀强闯我使馆】3月24日上午，一名自称为日本自卫队现役官员的不法之徒，因翻墙强行闯入中国驻日本大使馆被逮捕。警视厅通报称，这名23岁的男子村田见大，隶属于陆上自卫队虾野驻屯地，是三等陆尉。他被捕后，警方据其交代在使馆植被中发现了一把刃长约18厘米的刀具。村田已因涉嫌非法侵入建筑物被逮捕。在接受调查时，他承认相关指控，并称“是为了当面向中国大使表达意见”。目前，警视厅正在进一步调查其作案动机等情况。（CCTV国际时讯）",
+            "date_modified": "2026-03-24T15:03:35.000Z"
+        },
+        {
+            "id": 4769834,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1512187.d.html",
+            "title": "伊朗革命卫队在霍尔木兹海峡拦截并驱离集装箱船SELEN号。",
+            "date_modified": "2026-03-24T15:03:13.000Z"
+        },
+        {
+            "id": 4769833,
+            "content_html": "",
+            "title": "苹果推出苹果企业服务（Apple Business），整合了设备管理、邮件与日历功能。",
+            "date_modified": "2026-03-24T15:02:39.000Z"
+        },
+        {
+            "id": 4769832,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0310103.d.html",
+            "title": "市场消息：海湾国家权衡军事选项以应对伊朗的局势升级。",
+            "date_modified": "2026-03-24T15:01:22.000Z"
+        },
+        {
+            "id": 4769831,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7295456.d.html",
+            "title": "【Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体】 Anthropic旗下的Claude如今已能够操控用户电脑完成各类任务，该公司正致力于打造可与爆红的OpenClaw相抗衡的 AI智能体。3月24日，Anthropic宣布，用户现在可以通过手机向Claude发送任务指令，随后该AI智能体将在电脑上完成这项任务。Anthropic表示，收到指令后，Claude可以在电脑上打开应用程序、操作浏览器，还能填写电子表格。在3月23日发布的一段演示视频中，展示了这样一个场景：用户开会快要迟到，于是让Claude将一份演示文稿导出为PDF格式，并添加到会议邀请中。视频显示Claude顺利完成了该任务。Anthropic此次最新升级，凸显出各大人工智能公司正竞相打造所谓 “智能体”—— 能够全天候自主代用户执行任务的AI系统。",
+            "date_modified": "2026-03-24T15:00:04.000Z"
+        },
+        {
+            "id": 4769830,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1511074.d.html",
+            "title": "【夜盘期货收盘】液化石油气连续跌6.36%，乙二醇连续跌5.53%，聚丙烯连续跌4.73%，低硫燃料油连续跌4.66%，甲醇连续跌4.05%。",
+            "date_modified": "2026-03-24T15:00:03.000Z"
+        },
+        {
+            "id": 4769829,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7295402.d.html",
+            "title": "海湾国家正考虑采取军事选项，以反制伊朗方面的升级行动。",
+            "date_modified": "2026-03-24T14:59:49.000Z"
+        },
+        {
+            "id": 4769828,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7295153.d.html",
+            "title": "【特朗普转发巴基斯坦总理贴文 后者称愿意充当斡旋方】美国总统特朗普在社交媒体转发了巴基斯坦总理的帖子，后者帖文的内容为：“巴基斯坦欢迎并全力支持为结束中东战争而进行的对话努力，这符合该地区及其他地区的和平与稳定利益。在征得美国和伊朗同意的前提下，巴基斯坦随时准备并荣幸地担任东道主，为旨在全面解决当前冲突的具有实质性和结论性的谈判提供便利。”",
+            "date_modified": "2026-03-24T14:58:58.000Z"
+        },
+        {
+            "id": 4769827,
+            "content_html": "",
+            "title": "消息人士：近日美国和德黑兰之间已建立“接触”，伊朗愿意听取结束战争的“可持续”方案。",
+            "date_modified": "2026-03-24T14:58:21.000Z"
+        },
+        {
             "id": 4769826,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1510215.d.html",
@@ -38,654 +686,6 @@
             "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4070748.d.html",
             "title": "【联合国官员：当今世界“正处于二战以来最暴力时期”】联合国项目事务厅执行主任若热·莫雷拉·达席尔瓦23日表示，中东局势持续升级，对平民和生计造成毁灭性打击，并产生全球连锁反应，当今世界“正处于二战以来最暴力时期”。达席尔瓦在联合国项目事务厅发表的一份声明中说，战争持续近一个月，其毁灭性影响已跨越了受冲突影响国家的边界，导致石油、燃料和天然气价格呈指数级上涨，世界经济受到冲击。达席尔瓦说，“我们的世界正处于二战以来最暴力时期”，流离失所、被迫逃离家园的人数每小时都在增加。他呼吁各方执行联合国安理会的所有决议，并通过外交和平手段结束这场混乱和人民苦难。（新华社）",
             "date_modified": "2026-03-24T14:54:10.000Z"
-        },
-        {
-            "id": 4769821,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7293211.d.html",
-            "title": "科威特军方：火箭弹碎片导致电力线路中断。",
-            "date_modified": "2026-03-24T14:53:16.000Z"
-        },
-        {
-            "id": 4769820,
-            "content_html": "",
-            "title": "科威特国防部发言人：过去 24 小时内，我们在领空发现了 17 枚敌方弹道导弹，并摧毁了其中 13 枚。",
-            "date_modified": "2026-03-24T14:52:50.000Z"
-        },
-        {
-            "id": 4769819,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0307696.d.html",
-            "title": "瓶片连续主力合约日内跌4%，现报7968.00元。",
-            "date_modified": "2026-03-24T14:52:34.000Z"
-        },
-        {
-            "id": 4769818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7292947.d.html",
-            "title": "对二甲苯连续主力合约日内跌5%，现报9370.00元。",
-            "date_modified": "2026-03-24T14:52:34.000Z"
-        },
-        {
-            "id": 4769817,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7292945.d.html",
-            "title": "甲醇连续主力合约日内跌5%，现报3026.00元。",
-            "date_modified": "2026-03-24T14:52:34.000Z"
-        },
-        {
-            "id": 4769816,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7292943.d.html",
-            "title": "低硫燃料油连续主力合约日内跌4%，现报5153.00元。",
-            "date_modified": "2026-03-24T14:52:34.000Z"
-        },
-        {
-            "id": 4769815,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7292932.d.html",
-            "title": "消息人士称，以色列空军正在调查今天早上未能拦截袭击特拉维夫的伊朗弹道导弹的原因。",
-            "date_modified": "2026-03-24T14:52:34.000Z"
-        },
-        {
-            "id": 4769814,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4070034.d.html",
-            "title": "科威特军方：4枚伊朗导弹落入威胁区域外。",
-            "date_modified": "2026-03-24T14:52:24.000Z"
-        },
-        {
-            "id": 4769813,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1508930.d.html",
-            "title": "白银连续主力合约日内涨3%，现报17442.00元。",
-            "date_modified": "2026-03-24T14:52:19.000Z"
-        },
-        {
-            "id": 4769812,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0307597.d.html",
-            "title": "燃料油连续主力合约日内跌4%，现报4462.00元。",
-            "date_modified": "2026-03-24T14:52:19.000Z"
-        },
-        {
-            "id": 4769811,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1508836.d.html",
-            "title": "【中公高科：2025年营收2.74亿元 拟派现1368.27万元】中公高科公告称，2025年母公司营收2.6亿元，同比增长1.67%，净利润5241.49万元，同比增长10.80%；合并报表营收2.74亿元，同比增长5.56%，归属于上市公司股东的净利润4559.88万元，同比增长2.19%。公司拟向全体股东按每股派发现金红利0.2052元（含税），合计拟派发现金红利1368.27万元（含税），现金分红金额占归属于上市公司股东的净利润比例为30%。",
-            "date_modified": "2026-03-24T14:51:59.000Z"
-        },
-        {
-            "id": 4769810,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0307385.d.html",
-            "title": " 微软股价下跌幅度高达2.8%，创下2025年4月以来新低。",
-            "date_modified": "2026-03-24T14:51:39.000Z"
-        },
-        {
-            "id": 4769809,
-            "content_html": "",
-            "title": "巴基斯坦伊斯兰共和国总理：巴基斯坦欢迎并全力支持为结束中东战争而正在进行的对话努力，以维护该地区乃至更广泛地区的和平与稳定。在得到美国和伊朗的同意后，巴基斯坦随时准备并荣幸地成为东道国，为全面解决当前冲突提供有意义且最终的会谈。",
-            "date_modified": "2026-03-24T14:50:55.000Z"
-        },
-        {
-            "id": 4769808,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0306912.d.html",
-            "title": "伊朗革命卫队海军：任何通过霍尔木兹海峡的船只都需要与伊朗海上主权进行全面协调。",
-            "date_modified": "2026-03-24T14:50:02.000Z"
-        },
-        {
-            "id": 4769807,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4069192.d.html",
-            "title": "【3月24日增减持汇总】据统计，3月24日，盘后比音勒芬披露增持情况。泰嘉股份、科泰电源、大千生态、华菱线缆、京能热力、井松智能在内的6家A股上市公司披露拟减持情况。",
-            "date_modified": "2026-03-24T14:49:49.000Z"
-        },
-        {
-            "id": 4769806,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4069187.d.html",
-            "title": "德国经济部长：截至2030年，将完成最高12吉瓦陆上风电装机容量的招标出让。",
-            "date_modified": "2026-03-24T14:49:48.000Z"
-        },
-        {
-            "id": 4769805,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7291976.d.html",
-            "title": "【国投科创基金揭牌 规模100亿元】上海市与全国社会保障基金理事会战略合作框架协议签约暨国投科创基金揭牌仪式在沪举行。据悉，国投科创基金由社保基金会、国家开发投资集团、建设银行、交通银行、上海国投公司、浦东创投共同组建，规模为100亿元。（上证报）",
-            "date_modified": "2026-03-24T14:49:42.000Z"
-        },
-        {
-            "id": 4769804,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7291525.d.html",
-            "title": "PTA连续主力合约日内跌4%，现报6528.00元。",
-            "date_modified": "2026-03-24T14:48:30.000Z"
-        },
-        {
-            "id": 4769803,
-            "content_html": "",
-            "title": "伊朗革命卫队海军：我们迫使集装箱船“塞琳”号返航，因为它没有通过霍尔木兹海峡的许可。",
-            "date_modified": "2026-03-24T14:48:14.000Z"
-        },
-        {
-            "id": 4769802,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4068449.d.html",
-            "title": "【丰业银行：加拿大失业率预计不会阻碍央行政策决定】丰业银行的Derek Holt表示，加拿大人口和劳动力的萎缩料将拉低该国失业率，这与一些偏宽松的观点相悖，这些观点认为，不断上升的失业率可能会阻碍加拿大央行应对正在形成的一场重大通胀冲击的政策反应。这位经济学家表示，加拿大统计局劳动力调查中人口数据的滞后性将导致未来数据出现向下修正，因此失业率可能会降至6%甚至更低。Holt说，一些持偏宽松立场的人士在谈论失业率将升至7%，但他认为，鉴于失业率已达6.7%，加拿大央行“行长Macklem会对该预测不予理会“，即使失业率不是更有可能下降。",
-            "date_modified": "2026-03-24T14:47:45.000Z"
-        },
-        {
-            "id": 4769801,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7290671.d.html",
-            "title": "法国金融检察院：正对“爱泼斯坦文件”曝光内容启动相关调查。",
-            "date_modified": "2026-03-24T14:46:23.000Z"
-        },
-        {
-            "id": 4769800,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7290607.d.html",
-            "title": "焦煤连续主力合约日内跌2%，现报1238.00元。",
-            "date_modified": "2026-03-24T14:46:15.000Z"
-        },
-        {
-            "id": 4769799,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1506910.d.html",
-            "title": "乙二醇连续主力合约日内跌6%，现报4980.00元。",
-            "date_modified": "2026-03-24T14:46:00.000Z"
-        },
-        {
-            "id": 4769798,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4067353.d.html",
-            "title": "【报告：英国在中东战事之际易受衰退风险影响】Nuveen的Laura Cooper在一份报告中称，受中东战事影响，英国面临“不可忽视的温和衰退风险“。Cooper说，该国经济增长疲软，失业率处于5.2%的多年高点，但高昂的能源成本带来的通胀风险限制了英国央行通过降息来支持经济的能力。英国公共财政正在恶化，这使得政府在能源成本不断上涨的情况下难以向家庭提供支持。她说，如果高昂的能源成本导致英国央行加息，那么英国陷入温和衰退的风险就会增加。",
-            "date_modified": "2026-03-24T14:45:06.000Z"
-        },
-        {
-            "id": 4769797,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4067235.d.html",
-            "title": "PVC连续主力合约日内跌4%，现报5737.00元。",
-            "date_modified": "2026-03-24T14:44:48.000Z"
-        },
-        {
-            "id": 4769796,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0305191.d.html",
-            "title": "塑料连续主力合约日内跌5%，现报8643.00元。",
-            "date_modified": "2026-03-24T14:44:45.000Z"
-        },
-        {
-            "id": 4769795,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4067114.d.html",
-            "title": "微软首席执行官：人工智能推广的最大障碍在于说服人们改变工作方式。",
-            "date_modified": "2026-03-24T14:44:29.000Z"
-        },
-        {
-            "id": 4769794,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4067101.d.html",
-            "title": "甲醇连续主力合约日内跌4%，现报3056.00元。",
-            "date_modified": "2026-03-24T14:44:28.000Z"
-        },
-        {
-            "id": 4769793,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7289667.d.html",
-            "title": "市场消息：沙特国防部长与法国武装部队部长讨论防务关系。",
-            "date_modified": "2026-03-24T14:43:44.000Z"
-        },
-        {
-            "id": 4769792,
-            "content_html": "",
-            "title": "美国白宫科技事务顾问Michael Kratsios：推行国家监督管理AI的方式。",
-            "date_modified": "2026-03-24T14:43:29.000Z"
-        },
-        {
-            "id": 4769791,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0304669.d.html",
-            "title": "洲际交易所（ICE）阿拉比卡咖啡价格上涨近4%，报每磅3.1950美元。",
-            "date_modified": "2026-03-24T14:43:07.000Z"
-        },
-        {
-            "id": 4769790,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7289297.d.html",
-            "title": "【俄克拉荷马州任命新议员填补共和党在参议院空缺】当地时间3月24日，美国俄克拉荷马州州长任命能源高管艾伦·阿姆斯特朗进入美国参议院任职至今年年底，以接替新任国土安全部部长、共和党人马克韦恩·马林尚未完成的任期。共和党籍州长凯文·斯蒂特此前曾承诺将挑选一位“保守派人士”来填补马林的席位。根据俄克拉荷马州法律规定，阿姆斯特朗必须承诺不参加今年秋季举行的正式任期竞选。与此同时，共和党籍美国联邦众议员凯文·哈特迅速宣布参选该参议院席位，并已获得了美国总统唐纳德·特朗普的背书支持。（央视新闻）",
-            "date_modified": "2026-03-24T14:43:00.000Z"
-        },
-        {
-            "id": 4769789,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1505430.d.html",
-            "title": "据港交所文件：浙江可胜技术股份有限公司向港交所提交上市申请书。",
-            "date_modified": "2026-03-24T14:41:29.000Z"
-        },
-        {
-            "id": 4769788,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7288654.d.html",
-            "title": "【2025年地区“财富榜”：北京人均存款35.6万，上海29万】在人均住户存款方面，如果按照全国总人口140489万人估算，去年末，相当于人均存款11.89万元。而具体到各个区域则差异较大，其中，北京、上海的人均住户存款规模形成“断崖式”领先，分别达到35.62万元和29.02万元，是全国的“绝对富裕圈层”。浙江、辽宁、江苏、江西等4个省份的人均存款均超过15万元，形成“高储蓄第二梯队”，分别为17.77万元、16.05万元、15.6万元、15.17万元。其中，辽宁作为东北省份，人均存款位居全国第四，显示出较高的储蓄意愿，在居民资产结构中，存款占比高。（第一财经）",
-            "date_modified": "2026-03-24T14:41:24.000Z"
-        },
-        {
-            "id": 4769787,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7288617.d.html",
-            "title": "白银连续主力合约日内涨2%，现报17267.00元。",
-            "date_modified": "2026-03-24T14:41:20.000Z"
-        },
-        {
-            "id": 4769786,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0303867.d.html",
-            "title": "【伊马外长通话磋商 再次阐明霍尔木兹海峡通行限制】伊朗外交部表示，伊朗外长阿拉格齐与马来西亚外长哈桑就地区局势，特别是美国和以色列对伊朗的侵略战争带来的后果和经济影响进行了电话交流。我方外长重申了伊朗坚决捍卫国家主权和领土完整的决心。阿拉格齐强调：伊朗已根据国际法在这一水道采取了一系列措施。霍尔木兹海对属于或与美国和以色列相关的船只，以及任何以某种方式参与或协助其对伊朗的军事侵略的方都已关闭，但其他船只可以在与伊朗相关主管部门协调的情况下，确保安全通行。马来西亚外长强调了马来西亚在谴责美国和以色列对伊朗侵略行为方面的原则立场，重申了降低紧张局势、恢复地区稳定和安全的必要性。",
-            "date_modified": "2026-03-24T14:40:50.000Z"
-        },
-        {
-            "id": 4769785,
-            "content_html": "",
-            "title": "美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，捍卫总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划。",
-            "date_modified": "2026-03-24T14:40:03.000Z"
-        },
-        {
-            "id": 4769784,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7287860.d.html",
-            "title": "联合航空首席执行官表示，如果油价维持高位，机票价格需要上涨20%。",
-            "date_modified": "2026-03-24T14:39:35.000Z"
-        },
-        {
-            "id": 4769783,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4064875.d.html",
-            "title": "【伯恩斯坦：Strategy股价仍有上涨空间】伯恩斯坦的分析师表示，比特币似乎已触底，并指出Strategy的股价较周一收盘价138.20美元可能上涨226%。他们维持该股“跑赢大盘”评级和450美元的目标价，并提到该公司在比特币自2025年10月峰值下跌约50%的过程中展现出的韧性。 分析师认为，Strategy转向永续优先股工具，使其投资逻辑对短期比特币价格走势的依赖度降低。该公司于2025年7月推出了STRC优先股，将其定位为货币市场工具的数字信贷替代品，目前月现金股息率为11.5%。 分析师称，STRC的月度交易量在过去三个月增长了65%，30天日均交易量达到2.2亿美元，成为市场上流动性最强的优先股产品。该工具在Robinhood和SoFi Invest等零售平台上交易。他们表示，包括FMR、贝莱德、资本集团和VanEck在内的机构投资者持有约23%的已发行STRC供应量。",
-            "date_modified": "2026-03-24T14:39:14.000Z"
-        },
-        {
-            "id": 4769782,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1504598.d.html",
-            "title": "匈牙利央行行长表示：若有必要对市场进行干预，我们保留采取行动的权利。",
-            "date_modified": "2026-03-24T14:39:10.000Z"
-        },
-        {
-            "id": 4769781,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4064791.d.html",
-            "title": "【第五届全国老健会4月启幕 设14个“适老化”项目】记者24日从在京召开的新闻通气会上获悉，第五届全国老年人体育健身大会（以下简称“第五届老健会”）将于今年4月至10月在全国15个省份的有关城市及县区分项举办，共设置14个“适老化”交流展示项目。 （新华社）",
-            "date_modified": "2026-03-24T14:39:02.000Z"
-        },
-        {
-            "id": 4769780,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4064407.d.html",
-            "title": "【巴克莱无视宏观风险，将标普500指数目标价上调至7,650点】巴克莱银行策略师将标普500指数2026年底的目标价从7,400点上调至7,650点，意味着较3月23日收盘价存在16%的上行空间。他们指出，尽管面临伊朗战争、人工智能（AI）带来的颠覆以及私募信贷压力等日益增长的宏观风险，美国在名义增长和科技驱动的利好因素方面仍处于领先地位。",
-            "date_modified": "2026-03-24T14:38:05.000Z"
-        },
-        {
-            "id": 4769779,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1503972.d.html",
-            "title": "匈牙利央行行长瓦尔加表示，得益于高实际利率，我们拥有政策调整空间。",
-            "date_modified": "2026-03-24T14:37:34.000Z"
-        },
-        {
-            "id": 4769778,
-            "content_html": "",
-            "title": "哈萨克斯坦能源部长表示，里海管道联盟（CPC）在1月及12月装船中断后，哈萨克斯坦原油产量已恢复。",
-            "date_modified": "2026-03-24T14:37:27.000Z"
-        },
-        {
-            "id": 4769777,
-            "content_html": "",
-            "title": "哈萨克斯坦能源部长：哈萨克斯坦当前原油日产量为170万桶，此外日产凝析油与天然气液体总计40万桶。",
-            "date_modified": "2026-03-24T14:36:24.000Z"
-        },
-        {
-            "id": 4769776,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschns4063178.d.html",
-            "title": "巴克莱：上调标普500指数目标至7650点。",
-            "date_modified": "2026-03-24T14:35:07.000Z"
-        },
-        {
-            "id": 4769775,
-            "content_html": "",
-            "title": "市场消息：哈萨克斯坦能源部长表示，哈萨克斯坦“高度依赖里海管道联盟（CPC）输油管道，必须确保该管道不受制裁与袭击影响”。",
-            "date_modified": "2026-03-24T14:34:40.000Z"
-        },
-        {
-            "id": 4769774,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnq7285765.d.html",
-            "title": "俄罗斯无人机击中乌克兰西部利沃夫市中心一栋居民楼。",
-            "date_modified": "2026-03-24T14:34:29.000Z"
-        },
-        {
-            "id": 4769773,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnu0300450.d.html",
-            "title": "联合航空首席执行官表示，当前航空需求极为强劲。",
-            "date_modified": "2026-03-24T14:32:12.000Z"
-        },
-        {
-            "id": 4769772,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1501568.d.html",
-            "title": "【妙可蓝多：2025年营收56.03亿元】妙可蓝多公告称，2025年净利润1.18亿元，同比增长4.29%。营收56.03亿元，其中奶酪、贸易、液态奶营收分别为46.15亿元、6.23亿元、3.65亿元；第四季度营收16.67亿元。销售渠道上，不同渠道1 - 12月营收分别为39.45亿元、10.35亿元、6.23亿元；按区域看，北区、中区、南区1 - 12月营收分别为19.48亿元、24.85亿元、11.71亿元。截至2025年末，经销商总数6047个，1 - 12月增加2007个、减少3757个。",
-            "date_modified": "2026-03-24T14:31:42.000Z"
-        },
-        {
-            "id": 4769771,
-            "content_html": "",
-            "title": "特朗普政府将向法国能源公司道达尔支付 10 亿美元，以停止在东海岸附近开发两个海上风电场。",
-            "date_modified": "2026-03-24T14:31:27.000Z"
-        },
-        {
-            "id": 4769770,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhschnn1501297.d.html",
-            "title": "德国能源部长：若要建设数据中心，必须争取当地社区支持并维系信任。",
-            "date_modified": "2026-03-24T14:31:00.000Z"
-        },
-        {
-            "id": 4769769,
-            "content_html": "",
-            "title": "伊朗外交部：阿拉格齐向马来西亚外长解释了与战争无关的船只通过霍尔木兹海峡的可能性。",
-            "date_modified": "2026-03-24T14:30:00.000Z"
-        },
-        {
-            "id": 4769768,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeu4191368.d.html",
-            "title": "Circle Internet跌幅扩大至15%，创6月份以来盘中最差。",
-            "date_modified": "2026-03-24T14:28:45.000Z"
-        },
-        {
-            "id": 4769767,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeu4191127.d.html",
-            "title": "现代牧业全年净亏损11.3亿元人民币，预估亏损9.59亿元人民币。",
-            "date_modified": "2026-03-24T14:27:55.000Z"
-        },
-        {
-            "id": 4769766,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0429595.d.html",
-            "title": "燃料油连续主力合约日内跌3%，现报4505.00元。",
-            "date_modified": "2026-03-24T14:27:29.000Z"
-        },
-        {
-            "id": 4769765,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7413826.d.html",
-            "title": "聚丙烯连续主力合约日内跌5%，现报8874.00元。",
-            "date_modified": "2026-03-24T14:27:27.000Z"
-        },
-        {
-            "id": 4769764,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeu4190988.d.html",
-            "title": "【中国通号：2025年营收346.77亿元 2026年将持续推进专项行动】中国通号公告称，2025年实现营业总收入346.77亿元，同比增加6.23%，利润总额49.08亿元，同比增加3.75%，归属母公司所有者净利润36.86亿元，同比增长5.48%。公司在轨交和低空智控领域取得进展，新签合同额441.4亿元。2026年，公司将持续推动“提质增效重回报”专项行动，聚焦主责主业，强化科技创新，加大市场开拓力度，加强市值管理，坚持高比例现金分红，建立多层次投资者沟通机制，规范运作并强化“关键少数”责任。",
-            "date_modified": "2026-03-24T14:27:25.000Z"
-        },
-        {
-            "id": 4769763,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7413818.d.html",
-            "title": "丙烯连续主力合约日内跌5%，现报8737.00元。",
-            "date_modified": "2026-03-24T14:27:24.000Z"
-        },
-        {
-            "id": 4769762,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0429521.d.html",
-            "title": "PVC连续主力合约日内跌3%，现报5797.00元。",
-            "date_modified": "2026-03-24T14:27:07.000Z"
-        },
-        {
-            "id": 4769761,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeq1630731.d.html",
-            "title": "甲醇连续主力合约日内跌3%，现报3090.00元。",
-            "date_modified": "2026-03-24T14:26:45.000Z"
-        },
-        {
-            "id": 4769760,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0429141.d.html",
-            "title": "塑料连续主力合约日内跌4%，现报8733.00元。",
-            "date_modified": "2026-03-24T14:26:04.000Z"
-        },
-        {
-            "id": 4769759,
-            "content_html": "",
-            "title": "巴克莱将小鹏汽车目标价从每股17美元下调至每股16美元；维持小鹏汽车减持评级。",
-            "date_modified": "2026-03-24T14:25:47.000Z"
-        },
-        {
-            "id": 4769758,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7413270.d.html",
-            "title": "乙二醇连续主力合约日内跌5%，现报5032.00元。",
-            "date_modified": "2026-03-24T14:25:14.000Z"
-        },
-        {
-            "id": 4769757,
-            "content_html": "",
-            "title": "乌克兰空军发言人表示，俄罗斯周二向乌克兰发动了超400架无人机袭击，这是罕见的日间大规模攻击。",
-            "date_modified": "2026-03-24T14:24:33.000Z"
-        },
-        {
-            "id": 4769756,
-            "content_html": "",
-            "title": "真主党：“为了保卫黎巴嫩及其人民，伊斯兰抵抗运动的圣战者用火箭弹袭击了卡米尔定居点属于以色列敌军的基础设施。”",
-            "date_modified": "2026-03-24T14:24:04.000Z"
-        },
-        {
-            "id": 4769755,
-            "content_html": "",
-            "title": "壳牌：可能会在 2026 年底前对 1 至 2 个委内瑞拉天然气项目做出最终决定。",
-            "date_modified": "2026-03-24T14:23:22.000Z"
-        },
-        {
-            "id": 4769754,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7412276.d.html",
-            "title": "【西班牙阿尔梅里亚省发生枪击事件 造成1死1重伤】当地时间3月24日，西班牙东南部安达卢西亚大区的阿尔梅里亚省发生一起严重枪击事件。据当地警方通报，事件发生在该省佩奇纳地区的一处乡村农庄内。一名女性在枪击中当场身亡，另有一名男性受重伤，已被紧急送往当地医院抢救。初步调查显示，这起血案可能与当地的“毒品交易及黑帮报复”有关。近年来，该地区由于地理位置特殊，已成为非法团伙活动频繁的地带。此次事件再次引发了公众对乡村地区治安及跨国非法贸易渗透的担忧。目前，西班牙民防军司法警察小组已全面接管调查工作，正对涉案枪支来源及潜逃嫌疑人展开大规模搜捕。（央视新闻）",
-            "date_modified": "2026-03-24T14:21:44.000Z"
-        },
-        {
-            "id": 4769753,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0427616.d.html",
-            "title": "【巴曙松离任港交所董事总经理】记者从香港交易所（以下简称港交所）方面采访了解到，巴曙松已于2025年底离开香港交易所，离职前曾担任非全职顾问，至于他的其他消息无法评论。巴曙松最近一次以港交所董事总经理、首席中国经济学家身份公开露面，是在2025年10月底港交所于上海举办的一场官方活动上。记者查阅港交所发布的2025年年报发现，在2025年内及截至2026年3月16日港交所附属公司董事名单中，巴曙松位列其中。巴曙松于2015年加盟港交所，出任首任内地事务科的首席中国经济学家一职。在此之前，他曾任国务院发展研究中心金融研究所副所长及中国银行业协会首席经济学家。今年1月，巴曙松曾以北京大学汇丰商学院金融学特聘教授身份发表署名文章。（每经）",
-            "date_modified": "2026-03-24T14:21:39.000Z"
-        },
-        {
-            "id": 4769752,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0427280.d.html",
-            "title": "乙二醇连续主力合约日内跌4%，现报5087.00元。",
-            "date_modified": "2026-03-24T14:20:36.000Z"
-        },
-        {
-            "id": 4769751,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0427204.d.html",
-            "title": "【心源性猝死，张雪峰不幸去世】今晚（3月24日），苏州峰学蔚来教育科技有限公司发布讣告称，张雪峰因突发疾病，经抢救无效不幸去世。记者了解到，今天中午12点26分，张雪峰在公司跑步后出现不适，被紧急送至医院。遗憾的是，经全力抢救无效于下午3点50分不幸去世。医院诊断，原因为心源性猝死。张雪峰是峰学蔚来创始人之一，今年42岁。峰学蔚来总经理武亮表示，目前公司各项业务正常运营，服务有序，团队稳定，学员与员工权益均有充分保障。苏州工业园区和相关部门也表示将继续关心和支持公司的发展。公司和家属将全力做好相关善后工作，感谢社会各界一直以来对张雪峰和公司的关心和支持。（姑苏晚报）",
-            "date_modified": "2026-03-24T14:20:24.000Z"
-        },
-        {
-            "id": 4769750,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0427037.d.html",
-            "title": "【分析：中东基础设施受损将加剧化肥短缺】Jefferies的分析师写道，由于中东地区基础设施受损，化肥价格将在长期内保持高位。这些分析师表示，霍尔木兹海峡的实质性关闭导致氨出口受限，这将推高价格。自2月份以来，氨和钾肥的合同价格分别上涨了6%和2%。这些分析师称，在Yara International暂停其位于澳大利亚皮尔巴拉工厂的生产后，氨的供应将进一步减少。欧洲化肥股上涨，其中氨生产商Yara上涨4.2%，钾肥生产商K+S上涨3.4%。化工集团IMCD上涨5.1%。",
-            "date_modified": "2026-03-24T14:19:47.000Z"
-        },
-        {
-            "id": 4769749,
-            "content_html": "",
-            "title": "市场消息：乌克兰武装部队对俄罗斯库尔斯克地区的格拉马兹迪诺村发动袭击，造成一人死亡，六人受伤。",
-            "date_modified": "2026-03-24T14:18:50.000Z"
-        },
-        {
-            "id": 4769748,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0426558.d.html",
-            "title": "【美国企业活动增长放缓至近一年低点 支付价格上升】美国3月企业活动增长放缓至近一年来最低水平，材料及其他投入品的支付价格在伊朗战争爆发后上升。周二公布的数据表明，标普全球3月综合产出指数初值下降0.5点至51.4。读数高于50表示扩张。支付价格指标上升逾3点，至5月以来最高水平。整体综合指标回落主要由于服务业活动增长降至近一年来最弱水平。服务业投入价格升至5月以来最高，而制造业投入成本升至七个月高位。标普全球市场财智首席商业经济学家Chris Williamson在声明中说：“企业表示，冲突带来的额外不确定性以及对生活成本的影响导致需求受冲击。”他称：“金融市场动荡和消费能力受限加剧了与出行、运输和旅游相关的问题，尤其包括对利率上升、能源价格飙升以及供应链延误影响的担忧。”3月员工人数一年来首次下降，反映服务提供商收缩用工。新订单增长基本持平，但低于去年大部分时间的水平。与此同时，美国制造业继续显现企稳迹象。订单增长为10月以来最强，产出小幅加快。制造商对产出的预期升至逾一年高位。",
-            "date_modified": "2026-03-24T14:17:52.000Z"
-        },
-        {
-            "id": 4769746,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeq1627492.d.html",
-            "title": "【知情人士： 沙特王储敦促特朗普持续对伊军事行动，称系重塑中东历史性机遇】据报道，沙特阿拉伯事实上的领导人穆罕默德·本·萨勒曼亲王一直在推动特朗普总统继续对伊朗的战争，根据听取了美国官员关于双方对话内容的人士透露，他认为美以两国的军事行动为重塑中东提供了一个“历史性机遇”。 据知情人士称，在过去一周的一系列对话中，穆罕默德亲王向特朗普表示，他必须坚持推进摧毁伊朗强硬派政府的行动。 然而，沙特和美国政府的高级官员都担心，如果冲突持续下去，伊朗可能会对沙特石油设施发动更具破坏性的袭击，而美国则可能陷入一场无休止的战争。 沙特官员否认了穆罕默德亲王推动延长战争的说法。",
-            "date_modified": "2026-03-24T14:16:26.000Z"
-        },
-        {
-            "id": 4769745,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeu4187938.d.html",
-            "title": "壳牌：目前正更多着眼于委内瑞拉的天然气业务机遇。",
-            "date_modified": "2026-03-24T14:15:49.000Z"
-        },
-        {
-            "id": 4769744,
-            "content_html": "",
-            "title": "伊朗伊斯兰革命卫队：在第（41）号声明中，军方宣布，伊朗武装部队今天凌晨对海法的“拉斐尔”军工综合体、本古里安机场附近的该实体航空航天工业设施以及机场内的加油机进行了无人机袭击。报告显示，以色列航空航天工业公司（IAI）是该国最大的武器生产公司之一。“拉斐尔”公司也是国防技术研发领域的领先中心之一，负责设计和生产包括“铁穹”和“大卫投石器”系统在内的先进系统。",
-            "date_modified": "2026-03-24T14:14:26.000Z"
-        },
-        {
-            "id": 4769743,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeq1626225.d.html",
-            "title": "维兹航空开始逐步淘汰A321ceo机型机队。",
-            "date_modified": "2026-03-24T14:12:34.000Z"
-        },
-        {
-            "id": 4769742,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeu4186189.d.html",
-            "title": "液化石油气连续主力合约日内跌9%，现报6479.00元。",
-            "date_modified": "2026-03-24T14:10:58.000Z"
-        },
-        {
-            "id": 4769741,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeu4186152.d.html",
-            "title": "苯乙烯连续主力合约日内跌3%，现报10064.00元。",
-            "date_modified": "2026-03-24T14:10:52.000Z"
-        },
-        {
-            "id": 4769740,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7408735.d.html",
-            "title": "【王毅同伊朗外长阿拉格齐通电话】中共中央政治局委员、外交部长王毅24日应约同伊朗外长阿拉格齐通电话。阿拉格齐通报了地区局势发展演变的最新情况，感谢中方提供紧急人道主义援助。表示伊朗人民更加团结在一起，抵御外来侵略行径，维护国家主权和独立。伊方致力于实现全面停战而不仅仅是暂时停火。霍尔木兹海峡对所有人开放，船只可以安全通过，但正在交战的国家不在考虑之列。希望各方采取的举措有利于推动局势降温而非升级冲突。期待中方为促和止战继续发挥积极作用。王毅重申了中方的原则立场，强调所有热点问题都应通过对话谈判解决，而不应使用武力。谈起来总比打下去好。这符合伊朗国家和人民的利益，也呼应了国际社会普遍愿望。希望各方抓住一切和平机会和窗口，尽快启动和谈进程。中方将继续秉持客观公正立场，反对侵犯别国主权，积极劝和止战，致力于地区和平稳定。 (新华社)",
-            "date_modified": "2026-03-24T14:10:17.000Z"
-        },
-        {
-            "id": 4769739,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7408623.d.html",
-            "title": "美国联合航空公司首席执行官表示：票价将继续随油价同步上涨。",
-            "date_modified": "2026-03-24T14:10:04.000Z"
-        },
-        {
-            "id": 4769738,
-            "content_html": "",
-            "title": "壳牌首席执行官：必须确保各国政府不要采取加剧全球能源供应中断影响的措施。全球正面临日益加剧的政治分裂态势。",
-            "date_modified": "2026-03-24T14:09:33.000Z"
-        },
-        {
-            "id": 4769737,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeq1624763.d.html",
-            "title": "匈牙利央行行长表示，维护外汇市场稳定至关重要。",
-            "date_modified": "2026-03-24T14:09:15.000Z"
-        },
-        {
-            "id": 4769736,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7408204.d.html",
-            "title": "聚丙烯连续主力合约日内跌4%，现报8968.00元。",
-            "date_modified": "2026-03-24T14:09:13.000Z"
-        },
-        {
-            "id": 4769735,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeu4185103.d.html",
-            "title": "甲醇连续主力合约日内跌2%，现报3122.00元。",
-            "date_modified": "2026-03-24T14:08:37.000Z"
-        },
-        {
-            "id": 4769734,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7407861.d.html",
-            "title": "【光伏企业扎堆进军商业航天】随着马斯克引爆太空光伏热潮，除了迈为股份，多家光伏企业在加速切入商业航天赛道，有企业已直接参与航天项目。据悉，不止一家光伏企业参与了垣信卫星新一轮融资，其中不乏组件龙头企业。垣信卫星是中国两大低轨星座运营商之一，为千帆星座建设运营主体。3月10日，垣信卫星公布预披露增资项目，但未公开金额、用途等。同时，界面新闻自产业链多方人士处获悉，多家光伏公司正在接触各种类型的商业航天企业，尤其是卫星环节，以寻求潜在的投资标的和机会。“很多新能源企业都在寻找相关项目。”一业内人士告诉界面新闻记者，在数月前商业航天最火爆的阶段，有参与者只是慢了半拍，相对优质的核心投资份额就已无余量可拿。当下，地面光伏行业内卷加剧，企业加码布局航天领域，一是希望抢占太空光伏这一增量市场，同时进一步绑定国家商业航天与新能源战略，打开长期第二增长曲线。据观察，钧达股份是目前在航天领域布局最为深入且直接的光伏企业。其也是该行业最早涉足商业航天的企业。（界面新闻）",
-            "date_modified": "2026-03-24T14:08:31.000Z"
-        },
-        {
-            "id": 4769733,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0423031.d.html",
-            "title": "对二甲苯连续主力合约日内跌4%，现报9468.00元。",
-            "date_modified": "2026-03-24T14:08:27.000Z"
-        },
-        {
-            "id": 4769732,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7407818.d.html",
-            "title": "液化石油气连续主力合约日内跌8%，现报6551.00元。",
-            "date_modified": "2026-03-24T14:08:27.000Z"
-        },
-        {
-            "id": 4769731,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeq1624201.d.html",
-            "title": "匈牙利央行行长表示，我们当前的预测面临着高于往常的不确定性。",
-            "date_modified": "2026-03-24T14:08:12.000Z"
-        },
-        {
-            "id": 4769730,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7407556.d.html",
-            "title": "PTA连续主力合约日内跌3%，现报6596.00元。",
-            "date_modified": "2026-03-24T14:07:57.000Z"
-        },
-        {
-            "id": 4769729,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaew0422481.d.html",
-            "title": "匈牙利央行行长表示，受中东冲突影响，能源价格已大幅上涨。",
-            "date_modified": "2026-03-24T14:07:37.000Z"
-        },
-        {
-            "id": 4769728,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeq1623642.d.html",
-            "title": "液化石油气连续主力合约日内跌7%，现报6621.00元。",
-            "date_modified": "2026-03-24T14:07:15.000Z"
-        },
-        {
-            "id": 4769727,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaeu4184234.d.html",
-            "title": "壳牌首席执行官：下个月混乱局面将从亚洲蔓延至欧洲。",
-            "date_modified": "2026-03-24T14:06:54.000Z"
-        },
-        {
-            "id": 4769726,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-03-24/detail-inhscaes7407023.d.html",
-            "title": "【中国科学院香港创新研究院发布“术影”SurgMotion手术视频大模型】3月24日，中国科学院香港创新研究院人工智能与机器人创新中心（CAIR）发布“术影”SurgMotion手术视频大模型，称其为“目前业内规模最大、最完整的手术视频通用智能底座”。界面新闻记者获悉，“术影”SurgMotion大模型将全面开源。（界面）",
-            "date_modified": "2026-03-24T14:06:47.000Z"
         }
     ]
 }

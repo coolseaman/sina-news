@@ -4,11 +4,555 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sun, 26 Apr 2026 02:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 05:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【民调机构：德国选择党支持率创新高】德国INSA舆情研究所25日发布的最新民调显示，极右翼的德国选择党支持率已升至28%。这是该机构开展相关民调以来，德国选择党支持率的最高纪录。民调结果显示，德国选择党的支持率较上周上升了一个百分点，继续稳居民调榜首。与此同时，由基民盟和基社盟组成的联盟党支持率维持在24%；与联盟党组建执政联盟的社会民主党（社民党）支持率为14%。其他在野党中，绿党支持率下降一个百分点，跌至12%；左翼党维持在11%。此外，自民党和莎拉·瓦根克内希特联盟的支持率均为3%，这意味着若现在举行选举，这两党将因未能达到5%的门槛而无法进入联邦议院。德国其他几家民调机构的数据也显示，德国选择党支持率近期维持在高位。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvveai3259334.d.html</link>
+            <guid>4841436</guid>
+            <pubDate>Sun, 26 Apr 2026 05:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息人士：白宫记协晚宴安全事件嫌疑人作案目标为美政府官员】美国哥伦比亚电视台当地时间4月26日凌晨援引两名消息人士的话报道称，在25日晚发生的美国白宫记协晚宴安全事件中的涉案嫌疑人已向美执法当局供述，其作案目标为美国政府官员。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvveai3258687.d.html</link>
+            <guid>4841435</guid>
+            <pubDate>Sun, 26 Apr 2026 05:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[两名消息人士：白宫记者晚宴枪击事件披露嫌疑人已认罪。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvveai3256742.d.html</link>
+            <guid>4841434</guid>
+            <pubDate>Sun, 26 Apr 2026 05:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌自研新款芯片，旨在缩小与微软、亚马逊的云端业务差距。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvvean8657894.d.html</link>
+            <guid>4841433</guid>
+            <pubDate>Sun, 26 Apr 2026 05:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：涉嫌在白宫记者晚宴周边开枪的嫌疑人已向当局承认，他当时的袭击目标是特朗普政府官员。]]></title>
+            <guid>4841432</guid>
+            <pubDate>Sun, 26 Apr 2026 05:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【壁仞科技：壁砺166系列完成DeepSeek-V4适配验证与优化】4月25日晚，壁仞科技宣布，完成DeepSeek-V4在旗舰通用GPU壁砺™166系列产品的适配验证与优化。壁仞科技本次适配聚焦DeepSeek-V4核心技术特性，围绕MoE架构、稀疏注意力、FP8混合精度等关键模块展开深度优化，依托BIRENSUPA软件栈与AIModelMaster，完成模型验证跑通、定制化算子开发及端到端性能调优。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvveam0031332.d.html</link>
+            <guid>4841431</guid>
+            <pubDate>Sun, 26 Apr 2026 05:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国土安全部长：白宫记者晚宴枪击事件相关调查正在推进中。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvveam0031052.d.html</link>
+            <guid>4841430</guid>
+            <pubDate>Sun, 26 Apr 2026 05:18:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比特币升破78000美元，日内涨0.49%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3383095.d.html</link>
+            <guid>4841429</guid>
+            <pubDate>Sun, 26 Apr 2026 05:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【荣耀YOYO接入DeepSeek-V4】据悉，荣耀YOYO已接入最新发布的DeepSeek-V4，是首家接入DeepSeekV4的安卓手机厂商。据悉，接入DeepSeek-V4以后，荣耀YOYO将具备更强性能、更长上下文、更高推理效率，提供更智能的AI编程、高阶数学建模、法律等专业长文档智能分析、个性化学习路径规划等能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0159920.d.html</link>
+            <guid>4841428</guid>
+            <pubDate>Sun, 26 Apr 2026 05:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华为余承东：尊界新车价格在200万左右】4月26日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东在北京车展鸿蒙智行会客厅直播中透露，尊界更高端的200万级新车将在6月底对外发布，价格200万元左右。余承东介绍，尊界S800上市以来，10个月累计交付1.6万台。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3381360.d.html</link>
+            <guid>4841427</guid>
+            <pubDate>Sun, 26 Apr 2026 05:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯向国际空间站发射“进步MS-34”货运飞船】俄罗斯“进步MS-34”货运飞船26日从哈萨克斯坦境内的拜科努尔航天发射场发射升空，将为国际空间站送去超过2.5吨货物。俄罗斯国家航天集团直播画面显示，搭载“进步MS-34”货运飞船的“联盟-2.1a”运载火箭于莫斯科时间26日1时22分（北京时间6时22分）发射升空。飞船已进入预定轨道，正继续飞往国际空间站。按计划，飞船将在28日与国际空间站俄罗斯舱段“星辰”号服务舱对接。据介绍，此次“进步MS-34”飞船为国际空间站送去的货物包括燃料、食品、饮用水、氧气、实验设备、宇航服等。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuq8782243.d.html</link>
+            <guid>4841426</guid>
+            <pubDate>Sun, 26 Apr 2026 05:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国正考量效仿欧盟，推出类似的武器贷款计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0157246.d.html</link>
+            <guid>4841425</guid>
+            <pubDate>Sun, 26 Apr 2026 05:04:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总统：很欣慰得知美国总统特朗普、第一夫人梅拉尼娅·特朗普、副总统万斯、美国各位领导人以及白宫记者晚宴的来宾们，在此次的枪击事件中均安然无恙。]]></title>
+            <guid>4841424</guid>
+            <pubDate>Sun, 26 Apr 2026 05:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国及其盟友正考虑设立“国防银行”，统筹武器资金拨款。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3379723.d.html</link>
+            <guid>4841423</guid>
+            <pubDate>Sun, 26 Apr 2026 05:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普两年内遭遇至少4次刺杀威胁】当地时间25日晚，因美国白宫记者协会晚宴突发安全事件，美国总统特朗普及其夫人梅拉尼娅以及一众与会美国高级官员紧急疏散。记者梳理发现，从2024年7月至今，特朗普至少遭遇了4次刺杀威胁。 美国特勤局2月22日称，特勤局特工在美国总统特朗普位于佛罗里达州西棕榈滩的海湖庄园开枪击毙了一名二十多岁的男子，该男子当时试图非法进入安全警戒区。据悉，事发时，特朗普在华盛顿。
+
+2024年7月13日，还是总统候选人的特朗普在宾夕法尼亚州巴特勒举行的一场集会上被枪手袭击，特朗普耳部中弹，1人当场死亡，还有2人受伤。事发时，枪手站在距离讲台约100米的建筑屋顶上，用突击步枪开火。特勤局特工当场打死了枪手。经美国联邦调查局确认，枪手为20岁的托马斯·马修·克鲁克斯。
+
+两个月后，2024年9月15日下午，特朗普在佛罗里达州西棕榈滩自家高尔夫俱乐部遭遇未遂刺杀。事发时，特朗普正在打高尔夫球，该高尔夫球俱乐部距离海湖庄园仅10分钟车程。
+
+当地时间2024年10月12日晚，加州南部里弗赛德县科切拉谷地的特朗普竞选集会场地，在特朗普本人抵达现场前，执法人员在场外安检关卡拘捕了一名驾驶黑色运动型多用途汽车(SUV）的男子，车牌为自制，未经合法注册。执法人员看到车内杂乱无章，搜出一支霰弹枪、一把已装弹的手枪、弹药以及多本使用不同姓名的假护照和驾驶证。当地官员直指，特朗普可能险遭“第三次刺杀”。（极目新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0156707.d.html</link>
+            <guid>4841422</guid>
+            <pubDate>Sun, 26 Apr 2026 05:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古特雷斯谴责马里多地发生的袭击事件】联合国秘书长古特雷斯的发言人迪雅里克25日发表声明说，古特雷斯对马里多地发生的袭击事件深表关切并强烈谴责这些暴力行径。声明说，古特雷斯向马里人民表达声援，强调必须保护平民和民用基础设施。他呼吁国际社会协调一致提供支持，以应对非洲萨赫勒地区不断演变的暴力极端主义和恐怖主义威胁，并满足紧迫的人道主义需求。他再次呼吁在该地区开展强有力的安全协调与合作。马里军方25日说，身份尚未确定的武装恐怖组织当天清晨袭击了首都巴马科等地点及军营。马里武装部队在应对多地遭袭过程中已击毙数百名恐怖分子，相关清剿行动仍在继续。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3379439.d.html</link>
+            <guid>4841421</guid>
+            <pubDate>Sun, 26 Apr 2026 05:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度新德里一客机起飞时发动机故障起火 6人在紧急疏散中受伤】当地时间26日，一架从印度新德里飞往瑞士苏黎世的瑞士航空空客A330客机在英迪拉·甘地国际机场滑跑起飞时，一台发动机发生故障并起火，机组人员随后中止飞行程序并对机内人员进行紧急疏散。有6名乘客在疏散过程中受伤，已被送医治疗。目前客机事故详情仍在调查中。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0155982.d.html</link>
+            <guid>4841420</guid>
+            <pubDate>Sun, 26 Apr 2026 04:59:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒披露晚宴枪手身份背景】当地时间4月26日，CNN援引知情人士报道，涉嫌在白宫记者协会晚宴现场开枪的男子为来自美国南加州的一名教师兼游戏开发者。资料显示，艾伦于2017年毕业于加州理工学院，获机械工程学士学位，并于去年在加州州立大学多明格斯山分校获得计算机科学硕士学位。此外，根据美国联邦选举委员会记录，艾伦曾于2024年10月向卡玛拉·哈里斯的总统竞选捐款25美元。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuq8779742.d.html</link>
+            <guid>4841419</guid>
+            <pubDate>Sun, 26 Apr 2026 04:58:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国华盛顿特区警察局26日凌晨在社交媒体发文称，警方已拘捕白宫记者协会晚宴枪击事件一名嫌疑人，收缴两把枪支和多把刀具。（新华社）]]></title>
+            <guid>4841418</guid>
+            <pubDate>Sun, 26 Apr 2026 04:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【C919广州⇌合肥新航线开通】4月26日上午，搭载144名旅客的南航“大美湾区号”CZ3813航班，从广州白云国际机场起飞，随后平稳降落在合肥新桥国际机场，缓缓穿过象征民航最高礼仪的“水门”，标志着南航国产大飞机C919广州往返合肥新航线顺利开通运行，合肥也成为C919商业通航的第23座城市。国产大飞机将进一步助力粤港澳大湾区城市群和长三角城市群的往来。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3378184.d.html</link>
+            <guid>4841417</guid>
+            <pubDate>Sun, 26 Apr 2026 04:57:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鸭肉冒充牛肉卖，上海公布一批网络餐饮食安典型案例】日前，上海市市场监督管理局发布第一批网络餐饮食品安全专项治理工作典型案例，聚焦伪造资质、食材掺假、信息虚假、卫生不达标等违法违规行为。此次通报的案例中包含多起“以鸭充牛”案件。例如，浦东新区某餐饮店自2023年开业以来，线下制售并通过外卖平台售卖炽牛土豆烤盘饭，平台标注主料为土豆、牛肉。4月16日，浦东新区市场监管局联合浦东公安开展现场检查，查实该店后厨待用的“黑椒柳条”原料，配料仅为鸭肉、水、淀粉等，却被用于制作多款标称含牛肉的烤盘饭。当事人以鸭肉冒充牛肉对外销售，构成经营掺假掺杂食品违法行为，执法人员已依法扣押涉案原料。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3377674.d.html</link>
+            <guid>4841416</guid>
+            <pubDate>Sun, 26 Apr 2026 04:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中际旭创：800G和1.6T产品硅光方案占比超一半 两种技术都会持续布局】有投资者向中际旭创(300308)提问：公司1.6T系列产品中，使用自研硅光芯片方案的占比大体是多少？目前看到的新技术如XPO、NPO、CPO等全部是硅光方案，传统可插拔模块里硅光渗透率也在提升，因为EML方案下内部器件体积和功耗都太大的原因，整个行业里未来EML是不是会逐步边缘化？对此，中际旭创4月26日在互动平台回复称，目前800G和1.6T产品硅光方案占比超过一半，硅光方案的比重有望持续提升；但硅光方案和EML方案都是重要技术方向，公司未来都会持续布局。另外，中际旭创表示，公司目前在CPU领域暂无布局。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuq8778609.d.html</link>
+            <guid>4841415</guid>
+            <pubDate>Sun, 26 Apr 2026 04:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【斑马智能联合东风研发总院，淘宝闪购Agent首发上车】4月26日，2026北京国际车展期间，斑马智能与东风研发总院联合宣布，基于元神AI的淘宝闪购Agent首发上车，将落地东风天元智舱。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9977819.d.html</link>
+            <guid>4841414</guid>
+            <pubDate>Sun, 26 Apr 2026 04:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：04月26日12时23分在蒙古（北纬46.85度，东经93.15度）发生6.0级地震，震源深度15千米。]]></title>
+            <guid>4841413</guid>
+            <pubDate>Sun, 26 Apr 2026 04:47:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据美国媒体报道，白宫记者晚宴安全事件枪击案嫌疑人曾于2024年10月向哈里斯的总统竞选活动捐款。]]></title>
+            <guid>4841412</guid>
+            <pubDate>Sun, 26 Apr 2026 04:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息： 伊朗处决一名与俾路支武装组织有关联人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3369055.d.html</link>
+            <guid>4841411</guid>
+            <pubDate>Sun, 26 Apr 2026 04:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：04月26日12时23分在蒙古附近（北纬46.89度，东经93.19度）发生6.3级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>4841410</guid>
+            <pubDate>Sun, 26 Apr 2026 04:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【DeepSeek V4成OpenClaw默认模型】OpenClaw最新版本官宣，DeepSeek V4 Flash正式成为默认大模型。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0146023.d.html</link>
+            <guid>4841409</guid>
+            <pubDate>Sun, 26 Apr 2026 04:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理就白宫记者晚宴事件表态：强烈谴责暴力行为，暴力与民主格格不入。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3367302.d.html</link>
+            <guid>4841407</guid>
+            <pubDate>Sun, 26 Apr 2026 04:20:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普：美国总统是危险职业 不想生活在恐惧之中】据《纽约时报》报道，当地时间25日，美国总统特朗普在白宫新闻简报室就当日白宫记者协会晚宴突发安全事件举行新闻发布会。当被问及是否担心生命受到威胁时，特朗普说，“这(美国总统)是个危险的职业。”特朗普接着说道，“不想生活在恐惧之中。”他还开玩笑说，如果国务卿鲁比奥当初告诉他存在暴力风险，他可能就不会竞选总统了。特朗普表示，枪手根本没有靠近他，也没有破门进入主宴会厅。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuq8763702.d.html</link>
+            <guid>4841406</guid>
+            <pubDate>Sun, 26 Apr 2026 04:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长三角海铁联运提前14天突破百万标箱 同比增长11.3%】记者4月26日从中国铁路上海局集团有限公司获悉，截至4月25日，长三角铁路今年已完成海铁联运100.6万标箱，同比增长11.3%，较去年提前14天突破百万标箱。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0140662.d.html</link>
+            <guid>4841405</guid>
+            <pubDate>Sun, 26 Apr 2026 04:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界知识产权组织：体育产业专利蓬勃发展】4月26日是世界知识产权日。世界知识产权组织将今年的主题设为“知识产权和体育：各就位、预备、创新！”，相关报告显示，体育产业知识产权应用蓬勃发展，高尔夫、游泳和球拍类运动成为该产业专利申请最密集的项目。 世界知识产权组织报告显示，在截至2025年的十年间，全球专利申请年均增长率为4.4%，而体育相关专利年均增长率达到7.6%，体育商标注册、体育工业品外观设计等领域的增速也远高于整体水平。从地域看，亚洲是专利和外观设计申请的最大来源地，分别占总量的63%和76%，而欧洲在商标注册方面表现突出，占比达到43%。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuq8759036.d.html</link>
+            <guid>4841404</guid>
+            <pubDate>Sun, 26 Apr 2026 04:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫晚宴枪击发生地是里根遇刺酒店】1981年，美国总统里根总统在希尔顿酒店外遭枪击——这一事件促使酒店重新设计，加强了安保措施，并在入口附近增设了一间总统套房，供各国领导人入住。4月25日晚事件发生后，特朗普曾短暂入住该套房。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9955354.d.html</link>
+            <guid>4841403</guid>
+            <pubDate>Sun, 26 Apr 2026 03:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：瑞士航空德里飞往苏黎世航班因发动机故障被迫疏散，六名乘客受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3356353.d.html</link>
+            <guid>4841402</guid>
+            <pubDate>Sun, 26 Apr 2026 03:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京东启动AI硬件孵化计划】4月26日，京东宣布启动“Aidol创造营”计划，面向全球征集AI智能硬件项目，希望联合产业伙伴在今年孵化101个AI硬件标杆。据京东介绍，报名截止到5月15日，首期“Aidol创造营”活动将于5月25日至6月18日落地，与京东618大促周期深度联动。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9951381.d.html</link>
+            <guid>4841401</guid>
+            <pubDate>Sun, 26 Apr 2026 03:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【零跑Lafa5 Ultra上市：零百加速进入5s级，限时售价11.88万-12.48万元】4月26日上午消息，2026北京车展期间，零跑汽车携ABCD全系产品亮相，并正式官宣零跑Lafa5 Ultra上市，新车共推出500Ultra和600Ultra两个版本，上市限时售价为11.88-12.48万元。（新浪科技）]]></title>
+            <guid>4841400</guid>
+            <pubDate>Sun, 26 Apr 2026 03:36:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦检察官：根据目前掌握的情况可以明确，该嫌疑人蓄意制造最大限度的人员伤亡与破坏。]]></title>
+            <guid>4841399</guid>
+            <pubDate>Sun, 26 Apr 2026 03:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家气象局：德克萨斯州中北部发布龙卷风预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3353158.d.html</link>
+            <guid>4841398</guid>
+            <pubDate>Sun, 26 Apr 2026 03:32:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫晚宴枪击事件嫌疑人下周出庭】美国联邦检察官办公室检察官珍妮·皮罗表示，白宫晚宴枪击事件嫌疑人被控两项罪名：在暴力犯罪中使用枪支，以及使用危险武器袭击联邦执法人员。皮罗称，被告将于周一（4月27日）在联邦法院出庭受审，预计还将面临更多指控。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9948209.d.html</link>
+            <guid>4841397</guid>
+            <pubDate>Sun, 26 Apr 2026 03:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙多地爆发抗议 反对美以对伊朗军事行动】当地时间25日，西班牙超过200个市镇爆发大规模抗议活动，反对美以对伊朗的军事打击。西班牙首都马德里市中心聚集了大批抗议民众，他们高举“反对战争”的标语，要求结束中东地区的冲突，同时强调西班牙不应卷入这场战争。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3352799.d.html</link>
+            <guid>4841396</guid>
+            <pubDate>Sun, 26 Apr 2026 03:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊朗外长与埃及、土耳其就停火问题举行了通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9947212.d.html</link>
+            <guid>4841395</guid>
+            <pubDate>Sun, 26 Apr 2026 03:29:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦检察官：白宫记者晚宴枪击案嫌疑人已被控以持枪和袭击罪名。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0128993.d.html</link>
+            <guid>4841394</guid>
+            <pubDate>Sun, 26 Apr 2026 03:29:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球单机容量最大漂浮式海上风电平台在广东阳江开始安装】4月25日，全球单机容量最大的16兆瓦漂浮式海上风电平台“三峡领航号”，在广东阳江青洲海上风电场水域正式开始安装。这标志着我国首个大容量漂浮式海上风电科研示范工程的关键节点正式开始，为深远海风电规模化发展迈出实质性一步。（中国三峡能源）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3351673.d.html</link>
+            <guid>4841393</guid>
+            <pubDate>Sun, 26 Apr 2026 03:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙人士：必须高度警惕日本政府放宽武器出口限制等举动】近期日本危险动作频频。日本政府21日在内阁会议上正式修改了“防卫装备转移三原则”及其运用指南，原则上将允许出口杀伤性武器。西班牙人士表示，日本政府放宽武器出口限制等一系列举动非常令人担忧，危及地区乃至世界的和平与稳定，必须予以高度警惕。国际社会也必须对此予以强烈谴责。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0128571.d.html</link>
+            <guid>4841392</guid>
+            <pubDate>Sun, 26 Apr 2026 03:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超算互联网推出DeepSeek-V4限时免费对话服务】4月26日，国家超算互联网推出DeepSeek-V4限时免费对话服务。企业、科研机构及个人开发者只需登录超算互联网进入Chat页面，即可免费体验DeepSeek-V4的百万Token超长上下文实时、流畅对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9946584.d.html</link>
+            <guid>4841391</guid>
+            <pubDate>Sun, 26 Apr 2026 03:27:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦检察官：我们认为嫌疑人是华盛顿希尔顿酒店的入住宾客， 我方将向公众公布所有已掌握信息。]]></title>
+            <guid>4841390</guid>
+            <pubDate>Sun, 26 Apr 2026 03:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国代理司法部长：白宫记者晚宴事件嫌疑人将于明日出庭受审。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0127088.d.html</link>
+            <guid>4841389</guid>
+            <pubDate>Sun, 26 Apr 2026 03:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度陕西水果网络销售额同比增长9.55%】近日，据省果业中心消息：一季度，陕西水果网络零售额达72.01亿元，同比增长9.55%，销售额位居全国第二。 从地区看，核心主产区的网络销售优势显著。一季度，渭南、咸阳、延安分别实现水果网络零售额18.36亿元、14.68亿元和14.48亿元。（陕西发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9945130.d.html</link>
+            <guid>4841388</guid>
+            <pubDate>Sun, 26 Apr 2026 03:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广汽集团北京车展发布五款新车】4月26日上午消息，2026北京车展期间，广汽集团围绕自主品牌焕新举办新闻发布会，携旗下传祺、埃安、昊铂及全新高端品牌启境组成的自主品牌全矩阵，发布五款新车型，并同步展示了最新科技创新成果。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3349291.d.html</link>
+            <guid>4841387</guid>
+            <pubDate>Sun, 26 Apr 2026 03:22:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦检察官：嫌疑人的袭击目标仍在调查中。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuq8742479.d.html</link>
+            <guid>4841386</guid>
+            <pubDate>Sun, 26 Apr 2026 03:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦检察官：目前尚无法确定嫌疑人的作案动机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxup0125116.d.html</link>
+            <guid>4841385</guid>
+            <pubDate>Sun, 26 Apr 2026 03:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦检查官：该嫌疑人后续还将面临多项额外指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3347774.d.html</link>
+            <guid>4841384</guid>
+            <pubDate>Sun, 26 Apr 2026 03:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东软智行与腾讯云达成战略合作 打造AI智能座舱产品及解决方案】据东软集团消息，2026北京国际车展期间，东软集团子公司东软智行与腾讯云宣布达成战略合作，双方将立足“AI定义汽车”的产业发展趋势，聚焦智能座舱、端侧AI大模型应用、生态内容融合、车联网安全及云服务等关键领域，整合双方技术与资源展开深度协同，打造AI智能座舱产品及解决方案，加速整车智能化升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9943176.d.html</link>
+            <guid>4841383</guid>
+            <pubDate>Sun, 26 Apr 2026 03:17:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：原油冲击或导致今年剩余时间内美国每月流失1万个就业岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9942552.d.html</link>
+            <guid>4841382</guid>
+            <pubDate>Sun, 26 Apr 2026 03:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦检察官：被告将于周一提审。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3346973.d.html</link>
+            <guid>4841381</guid>
+            <pubDate>Sun, 26 Apr 2026 03:15:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦检察官：嫌疑人面临两项罪名指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3346448.d.html</link>
+            <guid>4841380</guid>
+            <pubDate>Sun, 26 Apr 2026 03:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华盛顿特区临时警察局长：嫌疑人携带手枪、霰弹枪及多把刀具，执法人员与该嫌疑人发生交火，嫌疑人确为单独作案。]]></title>
+            <guid>4841379</guid>
+            <pubDate>Sun, 26 Apr 2026 03:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国安全官员：嫌疑人携带霰弹枪、手枪及多把刀具。嫌疑人已被送往医院接受检查评估。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9940787.d.html</link>
+            <guid>4841378</guid>
+            <pubDate>Sun, 26 Apr 2026 03:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华盛顿市长就白宫记者晚宴安全事件发表声明：目前没有理由认为还有其他人员涉案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuq8739037.d.html</link>
+            <guid>4841377</guid>
+            <pubDate>Sun, 26 Apr 2026 03:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华盛顿市长就白宫记者晚宴安全事件发表声明：一名独枪手在大厅冲撞特勤局，已被特勤局特工制服。]]></title>
+            <guid>4841376</guid>
+            <pubDate>Sun, 26 Apr 2026 03:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【破解行李中转难题 民航新版指南明确全新保障模式】记者从民航局了解到，为持续提升国内通程航班和中转便利化服务向规范化、标准化、品质化方向发展，民航局日前印发《民航旅客中转便利化实施指南（第三版）》。新修订的《指南》重点规范了旅客服务、行李服务、信息服务、保障措施等方面要求。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9938446.d.html</link>
+            <guid>4841375</guid>
+            <pubDate>Sun, 26 Apr 2026 03:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经纬恒润与爱芯元智达成战略合作 共促智驾量产落地】据经纬恒润消息，4月25日，北京车展期间，经纬恒润与爱芯元智正式签署战略合作协议。双方将通过深度整合软硬一体系统集成能力与智能驾驶芯片技术，共同探索前沿技术的落地路径，加速新一代智能驾驶解决方案的研发与量产进程。此次战略合作标志着双方在智能驾驶领域的协同进入全新阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuq8736767.d.html</link>
+            <guid>4841374</guid>
+            <pubDate>Sun, 26 Apr 2026 03:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中广核启动8.4GW光伏组件集采招标】近日，中广核发布《中广核新能源2026年度光伏组件设备框架集采》公告。此次招标共两个包件七个标段，每个标段1.2GW，总计容量8.4GW。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9937097.d.html</link>
+            <guid>4841373</guid>
+            <pubDate>Sun, 26 Apr 2026 03:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普白宫记者会结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3342719.d.html</link>
+            <guid>4841372</guid>
+            <pubDate>Sun, 26 Apr 2026 03:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：白宫记者晚宴枪击事件不会阻挡我赢得伊朗战争。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxum3342596.d.html</link>
+            <guid>4841371</guid>
+            <pubDate>Sun, 26 Apr 2026 03:02:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：如果我们没有执行我们的行动，伊朗就会拥有核武器。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuxuh9936300.d.html</link>
+            <guid>4841370</guid>
+            <pubDate>Sun, 26 Apr 2026 03:02:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【突发安全事件后 特朗普召开记者会提及白宫宴会厅建设项目】当地时间25日晚，因美国白宫记者协会晚宴突发安全事件，参加晚宴的美国总统特朗普及其夫人梅拉尼娅以及一众与会美国高级官员从该活动现场紧急疏散。事件发生后不久，美国总统特朗普在白宫新闻简报室举行新闻发布会。除了通报有关本次安全事件的部分细节，特朗普还在发布会上将此次遭遇的事件与正在推进的白宫宴会厅项目挂钩，并强调需要达到“一种前所未有的安保级别”。
+
+特朗普在发布会上称，当晚一名男子手持多种武器，试图强闯安检关卡，随后被几位特勤局特工制服。一名特勤局特工遭到枪击，但因穿了防弹背心而幸免于难。
+
+特朗普在发布会前于社交媒体上率先发布了一张照片，照片显示一名男子躺在华盛顿希尔顿酒店的地上。该男子似乎是嫌疑人。特朗普还发布了一段监控录像，录像显示一名男子跑过华盛顿希尔顿酒店的安检点。视频中，安检人员拔枪并似乎开始射击。特朗普在发布会上表示，他公布监控录像是为了“提高透明度”，并展示安保人员对枪手的反应速度。
+
+特朗普还在发布会上提及了白宫宴会厅建设项目。特朗普表示，他们审视了当晚事发时的种种具体情况，这栋建筑在安保方面其实并非特别坚固。特朗普称，他本不愿提及这一点，但这正是他们必须在白宫实施此前规划的所有安保升级措施的原因所在。特朗普表示，白宫的那个房间空间更为宽敞，且安保级别要高得多。它具备防无人机袭击的能力，并装有防弹玻璃。特朗普表示，特勤局、军方需要使用白宫宴会厅。特朗普还强调，在过去的150年里，出于各种不同的原因，特勤局、军方等方面一直希望能使用那个宴会厅。但如今的情况有些特殊，因为在当下，他们需要达到一种前所未有的安保级别。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3473007.d.html</link>
+            <guid>4841369</guid>
+            <pubDate>Sun, 26 Apr 2026 03:00:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：没有任何国家能免于政治暴力。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0249434.d.html</link>
+            <guid>4841368</guid>
+            <pubDate>Sun, 26 Apr 2026 02:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普讲述晚宴安全事件细节】在当地时间4月25日举行的发布会上，美国总统特朗普在回答记者提问时表示，当天发生在白宫记者协会晚宴上的突发事件“完全令人震惊”，他听到一声响动，但是以为是托盘掉在地上了。“我当时正在观察情况，”但是他的妻子躲避得更快，似乎很快就意识到发生了什么事。特朗普表示，他希望继续举行晚宴，并承诺会尽快重新安排晚宴日期。特朗普表示，晚宴前他没有收到任何关于威胁的简报。 特朗普还提到了此前针对他的暗杀企图，并呼吁美国民众“化解彼此分歧”。他同时提到，两党人士当晚都对相关事件进行了谴责。特朗普还向媒体人士表达感谢，称媒体“在报道中表现得非常负责任”。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3472149.d.html</link>
+            <guid>4841367</guid>
+            <pubDate>Sun, 26 Apr 2026 02:57:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金正恩于人民革命军成立日视察部队勉励官兵】据朝中社26日报道，在朝鲜人民革命军成立日之际，朝鲜劳动党总书记、国务委员会委员长金正恩25日视察了朝鲜人民军西部地区机械化步兵师所属联合部队，并观摩了轻步兵部队迫击炮兵射击比赛。报道说，金正恩向全军官兵致以勉励和问候，并要求全军以有力的竞争方法进一步开展各级部队、各专门兵种部队之间的训练比赛。 (新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0248943.d.html</link>
+            <guid>4841366</guid>
+            <pubDate>Sun, 26 Apr 2026 02:56:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我的判断是，该嫌疑人属于单独作案人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3471211.d.html</link>
+            <guid>4841365</guid>
+            <pubDate>Sun, 26 Apr 2026 02:54:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理卡尼：很欣慰得知美国总统特朗普、第一夫人和所有嘉宾在今晚白宫记者晚宴的枪击事件中都安然无恙。政治暴力在民主中没有立足之地，我的心与所有因这一令人不安事件而受到影响的人同在。]]></title>
+            <guid>4841364</guid>
+            <pubDate>Sun, 26 Apr 2026 02:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：今晚安保部署面面俱到。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0064013.d.html</link>
+            <guid>4841363</guid>
+            <pubDate>Sun, 26 Apr 2026 02:53:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：明日将掌握被捕人员的大量相关信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutns8862300.d.html</link>
+            <guid>4841362</guid>
+            <pubDate>Sun, 26 Apr 2026 02:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：认为此事与战事无关。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0063431.d.html</link>
+            <guid>4841361</guid>
+            <pubDate>Sun, 26 Apr 2026 02:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普谈枪击案是否与伊朗局势有关：“我不这么认为”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0247553.d.html</link>
+            <guid>4841360</guid>
+            <pubDate>Sun, 26 Apr 2026 02:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普：枪击嫌疑人来自加州 携多件武器强闯安检关卡致1人伤】美国总统特朗普25日在白宫新闻发布会上说，白宫记者协会晚宴上的枪击事件嫌疑人来自加利福尼亚州。他说，嫌疑人当时携带了多件武器，强闯安全检查关卡，后被特勤局人员抓获。枪击事件导致一名人员中弹，受伤人员目前情况良好。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0247369.d.html</link>
+            <guid>4841359</guid>
+            <pubDate>Sun, 26 Apr 2026 02:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：袭击者疑似为单独作案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0062721.d.html</link>
+            <guid>4841358</guid>
+            <pubDate>Sun, 26 Apr 2026 02:51:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：未收到潜在威胁的通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0062483.d.html</link>
+            <guid>4841357</guid>
+            <pubDate>Sun, 26 Apr 2026 02:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普被问及是否为袭击目标时回应：“应该是吧”。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3469727.d.html</link>
+            <guid>4841356</guid>
+            <pubDate>Sun, 26 Apr 2026 02:50:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普在被问及是否需要重新考量室内活动的举办方式时表示：我无法这么做。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0246724.d.html</link>
+            <guid>4841355</guid>
+            <pubDate>Sun, 26 Apr 2026 02:49:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：当时的房间非常非常安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3469365.d.html</link>
+            <guid>4841354</guid>
+            <pubDate>Sun, 26 Apr 2026 02:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦调查局长：我请求任何有信息的人向我方提供相关信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0061506.d.html</link>
+            <guid>4841353</guid>
+            <pubDate>Sun, 26 Apr 2026 02:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：已整装待发，全力筹备下一届白宫记者晚宴。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3468789.d.html</link>
+            <guid>4841352</guid>
+            <pubDate>Sun, 26 Apr 2026 02:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：我们被迅速带走了；没多少时间思考。]]></title>
+            <guid>4841351</guid>
+            <pubDate>Sun, 26 Apr 2026 02:46:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：听到一声响，还以为是托盘掉下来了。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3468529.d.html</link>
+            <guid>4841350</guid>
+            <pubDate>Sun, 26 Apr 2026 02:46:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普：此类事件的发生总是令人震惊。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0245287.d.html</link>
+            <guid>4841349</guid>
+            <pubDate>Sun, 26 Apr 2026 02:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普在社交平台表示，如果不能通过《拯救美国法案》，将会导致美国参议院历史上某个政党面临最糟糕的结果——那将是一种无法挽回的亡命之愿！！！同样，对于“冗长辩论阻挠议事程序”——现在就终止它！！！]]></title>
+            <guid>4841348</guid>
+            <pubDate>Sun, 26 Apr 2026 02:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦调查局局长：涉案武器包含一支长枪。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3467637.d.html</link>
+            <guid>4841347</guid>
+            <pubDate>Sun, 26 Apr 2026 02:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦调查局长：联邦调查局目前正在同步开展证人问询工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3467576.d.html</link>
+            <guid>4841346</guid>
+            <pubDate>Sun, 26 Apr 2026 02:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国代理司法部长：调查刚刚启动，目前正在申请搜查令。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0244513.d.html</link>
+            <guid>4841345</guid>
+            <pubDate>Sun, 26 Apr 2026 02:42:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国代理司法部长：执法部门正忙于办理搜查令相关工作。]]></title>
             <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0244385.d.html</link>
@@ -62,539 +606,6 @@
             <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutns8856008.d.html</link>
             <guid>4841336</guid>
             <pubDate>Sun, 26 Apr 2026 02:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：夫人与我迅速被带离了现场。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutns8855902.d.html</link>
-            <guid>4841335</guid>
-            <pubDate>Sun, 26 Apr 2026 02:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：希望美国民众以和平方式化解分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutns8855561.d.html</link>
-            <guid>4841334</guid>
-            <pubDate>Sun, 26 Apr 2026 02:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：嫌疑人已被完全制服。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutns8855251.d.html</link>
-            <guid>4841333</guid>
-            <pubDate>Sun, 26 Apr 2026 02:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：这起事件表明需要加强安保。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0056513.d.html</link>
-            <guid>4841332</guid>
-            <pubDate>Sun, 26 Apr 2026 02:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：所有人都应当感谢执法人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0242271.d.html</link>
-            <guid>4841331</guid>
-            <pubDate>Sun, 26 Apr 2026 02:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：这座建筑的安保并不严密。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0242194.d.html</link>
-            <guid>4841330</guid>
-            <pubDate>Sun, 26 Apr 2026 02:36:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：中枪执法人员因身着防弹衣得救。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutns8854804.d.html</link>
-            <guid>4841329</guid>
-            <pubDate>Sun, 26 Apr 2026 02:36:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：白宫记者晚宴举办建筑安保措施存在明显漏洞。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0242029.d.html</link>
-            <guid>4841328</guid>
-            <pubDate>Sun, 26 Apr 2026 02:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普表示：已有一名警员中弹，目前情况良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3464608.d.html</link>
-            <guid>4841327</guid>
-            <pubDate>Sun, 26 Apr 2026 02:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：警员遭近距离枪击。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0055615.d.html</link>
-            <guid>4841326</guid>
-            <pubDate>Sun, 26 Apr 2026 02:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：刚刚公布袭击事件相关录像。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0055485.d.html</link>
-            <guid>4841325</guid>
-            <pubDate>Sun, 26 Apr 2026 02:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：嫌疑犯持有大量武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0241596.d.html</link>
-            <guid>4841324</guid>
-            <pubDate>Sun, 26 Apr 2026 02:35:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普谈及白宫记者晚宴事件：一名男子冲向安检关卡。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutns8853951.d.html</link>
-            <guid>4841323</guid>
-            <pubDate>Sun, 26 Apr 2026 02:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【预告：国家能源局季度例行新闻发布会周一10:30召开】国家能源局季度例行新闻发布会将于4月28日（周一）10:30召开，将介绍2026年一季度全国能源形势及发展成效、可再生能源并网运行情况、可再生能源制氢发展情况、电动汽车充电基础设施建设情况等，并就社会关注问题回答记者提问。（国家能源局）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3463592.d.html</link>
-            <guid>4841322</guid>
-            <pubDate>Sun, 26 Apr 2026 02:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普在社交平台上发布枪击嫌犯照片。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0240219.d.html</link>
-            <guid>4841321</guid>
-            <pubDate>Sun, 26 Apr 2026 02:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国海军“丝路方舟”号医院船圆满完成“和谐使命-2025”任务归国】中国海军“丝路方舟”号医院船26日圆满完成“和谐使命-2025”任务，靠泊海南三亚某军港。此次任务历时234天，总航程约3.6万海里，是自2010年以来第11次“和谐使命”任务，是历时最长的一次，也是“丝路方舟”号医院船入列以来首次走出国门执行该系列任务。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1742673.d.html</link>
-            <guid>4841320</guid>
-            <pubDate>Sun, 26 Apr 2026 02:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普即将在白宫新闻简报室发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0051352.d.html</link>
-            <guid>4841319</guid>
-            <pubDate>Sun, 26 Apr 2026 02:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿维塔概念车VISION XPECTRA首秀，2030年计划推出17款车型】4月26日上午消息，2026北京车展期间，阿维塔科技携全系产品亮相。阿维塔首款概念车VISION XPECTRA迎来亚洲首秀，近期上市的新阿维塔12、阿维塔06T同步亮相。阿维塔科技董事长王辉在车展发布会上表示：“面向下一个五年，阿维塔将继续推动科技实力、产品实力、全球化布局不断进阶。到2030年，奋斗全球销量80万辆，海外销量占比超40%；产品上，到2030年，我们将推出17款全新产品，接下来我们将发布大六座旗舰SUV，并将首批搭载宁德时代麒麟凝聚态电池。”（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0237773.d.html</link>
-            <guid>4841318</guid>
-            <pubDate>Sun, 26 Apr 2026 02:24:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单】美国太空军宣布已向12家公司授出总价值最高达32亿美元的合同，用于开发天基导弹防御拦截系统，从而推进美国总统特朗普提出的“金穹”计划。]]></title>
-            <guid>4841317</guid>
-            <pubDate>Sun, 26 Apr 2026 02:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统：获悉特朗普总统及其夫人在此次事件后平安无事，深感欣慰。 我们致以诚挚关切。暴力绝非解决问题的途径。]]></title>
-            <guid>4841316</guid>
-            <pubDate>Sun, 26 Apr 2026 02:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“大连海运01”轮今日正式投入运营】4月26日，大连海运有限公司的“大连海运01”轮正式投入运营，标志着该公司正式开启市场化运营，为大连东北亚国际航运中心建设东北海陆大通道完善注入新动能。（大连发布）]]></title>
-            <guid>4841315</guid>
-            <pubDate>Sun, 26 Apr 2026 02:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国有线电视新闻网援引消息人士信息报道，已确认4月25日白宫记协晚宴“安全事件”嫌疑人为一名来自加利福尼亚州的30岁男子。（CCTV国际时讯）]]></title>
-            <guid>4841314</guid>
-            <pubDate>Sun, 26 Apr 2026 02:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国团队研发光催化技术 实现聚酯塑料和二氧化硫变废为宝】记者4月26日从中国科学院理化技术研究所(理化所)获悉，该所科研团队最近在废弃塑料高值化利用方面取得新突破，通过他们最新研发的光催化技术，实现废弃聚酯(PET)塑料和工业废气二氧化硫变废为宝，转化为可广泛应用的有机硫化合物。这项光催化领域重要研究成果，为有机硫化合物的合成提供出新策略，也为废旧塑料的高附加值转化开拓新途径，丰富了聚酯升级回收产物谱系。其相关论文近日在国际专业学术期刊《德国应用化学》发表。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0233526.d.html</link>
-            <guid>4841313</guid>
-            <pubDate>Sun, 26 Apr 2026 02:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京津冀“共造一辆车”：三地新能源汽车年产量超百万】据新京报消息，近日，京津冀智能网联新能源汽车主题对接活动暨生态港招商推介会举行，记者在现场获悉，2025年京津冀三地新能源汽车产量108.4万辆，“十四五”时期年均增速超过60%，汽车零部件配套圈正加速形成。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1734656.d.html</link>
-            <guid>4841312</guid>
-            <pubDate>Sun, 26 Apr 2026 02:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫记协晚宴安全事件细节】路透社援引一名美国联邦调查局官员的话说，当地时间4月25日，有持霰弹枪者试图突破白宫记者协会晚宴安保，嫌犯还向特勤局特工开枪，特工无恙。 特勤局发言人安东尼·古列尔米称，目前正在调查晚宴入口主安检区附近的枪击事件。 当地时间4月25日，白宫记者协会晚宴突发“安全事件”，当身着作战装备的特勤人员冲入宴会厅时，数百名宾客钻到桌底躲避。特朗普夫妇在讲台后方蹲伏后，被特勤人员迅速带离现场。2600名与会者大多就地隐蔽，服务人员则纷纷逃往宴会厅前部。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3454903.d.html</link>
-            <guid>4841311</guid>
-            <pubDate>Sun, 26 Apr 2026 02:09:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小米：捏造散布涉小米及雷军谣言的李某华，被行政拘留】4月26日，小米公司发言人发布消息称，近日公司关注到网络用户李某华在微信群中捏造、散布有关公司及创始人雷军的谣言。公司报警后，公安机关迅速展开调查并抓获实际造谣人。李某华因故意散布谣言、扰乱公共秩序，被依法处以行政拘留十日。小米表示，对于散布失实信息、蓄意抹黑公司及雷军声誉的行为，将采取法律手段捍卫自身权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3453148.d.html</link>
-            <guid>4841310</guid>
-            <pubDate>Sun, 26 Apr 2026 02:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东方甄选主播集体离职 俞敏洪回应】4月26日上午消息，4月25日，东方甄选主播明明、天权、中灿、林林宣布离职。当天，明明、天权等主播在发文中提到，离职因公司管理层、理念等变化。针对主播集体离职事件，俞敏洪在直播中回应。俞敏洪表示，已与主播进行沟通挽留，最终尊重他们的选择，希望他们事业一帆风顺，有需要帮助的话可以随时联系。同时，俞敏洪坦言，管理层调整后，公司管理方式出现偏差，过度侧重制度管控，忽视团队人文关怀，导致团队氛围出现问题。后续东方甄选将优化管理模式，平衡制度化运营与人文关怀，整改僵化、高压的管理问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0229950.d.html</link>
-            <guid>4841309</guid>
-            <pubDate>Sun, 26 Apr 2026 02:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安森美与蔚来扩大战略合作 推进下一代900V电动汽车平台发展】据安森美消息，安森美今日宣布，与蔚来汽车进一步扩大战略合作，共同推进下一代电动汽车（EV）平台发展。基于多年合作，双方将更紧密协同，安森美提供最新的EliteSiC M3e技术，加速蔚来从400V向900V架构的转型。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1729073.d.html</link>
-            <guid>4841308</guid>
-            <pubDate>Sun, 26 Apr 2026 01:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京发布土地经营权流转价格模型】今后，北京农村的土地经营权流转价格不再“雾里看花”，而是可以通过手机小程序“一键算清”。日前，北京市召开农村产权流转交易工作推进会，正式发布农村土地经营权流转价格模型。该模型依托大数据技术搭建，并嵌入北京市农村产权流转交易平台，实现“一地一价、即算即知”，为全市土地流转提供了科学透明的定价工具。（ 北京日报）]]></title>
-            <guid>4841305</guid>
-            <pubDate>Sun, 26 Apr 2026 01:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中东局势影响燃油供应，匈牙利多地加油站陷困境】近日，匈牙利石油协会和独立加油站协会表示，受中东地区局势外溢和匈牙利政府实施燃油价格保护政策影响，匈牙利燃油正面临断供风险，多地加油站面临经营困难，有的甚至濒临倒闭。匈牙利独立加油站协会主席、加油站业主杰普森·拉斯洛表示，加油站要运营就必须有燃油。我们不知道燃油供应能够维持多久，会一直供应到国家安全库存耗尽为止吗？然后我们将面临燃油全无的困境，加油站要支付员工工资，管理费、电费、水费、通信费，一旦资金耗尽，加油站就将被迫关闭。匈牙利能源专家、独立加油站协会理事会成员艾格里表示，匈牙利目前成品油库存仅够维持约15天，对加油站的供应无法得到100%的保障。目前加油站仍能得到燃油，但预计未来几周，匈牙利加油站，主要是私营加油站，可能会出现严重的燃油短缺。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1726545.d.html</link>
-            <guid>4841304</guid>
-            <pubDate>Sun, 26 Apr 2026 01:48:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦调查局官员：嫌疑人向特勤局特工开枪，特工安然无恙。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0036262.d.html</link>
-            <guid>4841303</guid>
-            <pubDate>Sun, 26 Apr 2026 01:47:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦调查局官员：一名持霰弹枪的男子曾企图闯入白宫记者晚宴安保区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1725860.d.html</link>
-            <guid>4841302</guid>
-            <pubDate>Sun, 26 Apr 2026 01:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普：30分钟后将召开新闻发布会】特朗普表示：执法部门依据安保规程，要求我方立即撤离现场，我们将遵照执行。我将于30分钟后在白宫新闻发布厅召开新闻发布会。第一夫人、副总统以及全体内阁成员均平安无事。半小时后我将向公众发表讲话。我已与活动所有负责人沟通，本次晚宴将在30天内重新择期举办。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1723916.d.html</link>
-            <guid>4841301</guid>
-            <pubDate>Sun, 26 Apr 2026 01:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：我已与此次活动的所有负责人代表沟通过，我们将在30天内重新安排活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3446588.d.html</link>
-            <guid>4841300</guid>
-            <pubDate>Sun, 26 Apr 2026 01:37:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：执法部门已要求我们按照相关规定离开此地，我们将立即照办。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0032875.d.html</link>
-            <guid>4841299</guid>
-            <pubDate>Sun, 26 Apr 2026 01:37:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普：30分钟后将在白宫新闻发布厅召开新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0223469.d.html</link>
-            <guid>4841298</guid>
-            <pubDate>Sun, 26 Apr 2026 01:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因突发事件撤离晚宴后 特朗普发帖：已建议“让活动继续进行”】当地时间4月25日，美国总统特朗普在社交平台“真实社交”上表示，华盛顿特区度过了一个非同寻常的夜晚。他称特勤局和执法部门的表现出色，枪手已被抓获。特朗普表示，已建议“让活动继续进行”，但他将完全听从执法部门的安排。无论最终决定如何，当晚的活动都将与原定计划大不相同。特朗普于25日晚参加白宫记者协会晚宴，宴会上发生“安全事件”。有消息称，现场传出“巨大声响”，特朗普在安保人员护送下离开。随后，有消息显示涉事枪手已身亡。另有消息称，一名嫌疑人被拘捕。特勤局随后对该酒店实施了封锁。这场由白宫记者协会主办的晚宴预计将继续进行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0031862.d.html</link>
-            <guid>4841297</guid>
-            <pubDate>Sun, 26 Apr 2026 01:34:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普多次推销美国石油 美原油和石油产品出口量创新高】美国能源信息局发布的最新数据显示，截至17日的一周内，美国原油和石油产品合计出口量日均约1290万桶，创历史新高。美国总统特朗普多次利用当前中东战事“推销”美国石油。近期，大量空载油轮驶入墨西哥湾。特朗普在社交媒体上发帖称，这些油轮准备装载“世界上最优质、最‘甜美’的石油（以及天然气）”。专家警告，美国原油出口增加让能源企业赚足了钱，但被推高的美国国内油价，将进一步加剧通胀风险。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0222385.d.html</link>
-            <guid>4841296</guid>
-            <pubDate>Sun, 26 Apr 2026 01:32:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国特勤局表示，目前尚不清楚涉事人员的状况，执法部门正在对局势进行积极评估。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3444511.d.html</link>
-            <guid>4841295</guid>
-            <pubDate>Sun, 26 Apr 2026 01:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国特勤局表示，特朗普与其夫人安然无恙。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0221589.d.html</link>
-            <guid>4841294</guid>
-            <pubDate>Sun, 26 Apr 2026 01:30:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普说白宫记协晚宴涉事枪手已被捕】美国总统特朗普25日在社交媒体上说，白宫记者协会晚宴“安全事件”的一名涉事枪手已被拘捕。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0221414.d.html</link>
-            <guid>4841293</guid>
-            <pubDate>Sun, 26 Apr 2026 01:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国特勤局表示，目前正在调查这起枪击事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1719514.d.html</link>
-            <guid>4841292</guid>
-            <pubDate>Sun, 26 Apr 2026 01:29:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列民众抗议以政府升级紧张局势】当地时间25日晚，大批以色列民众在特拉维夫市中心举行集会，抗议以色列政府不断升级紧张局势。抗议者表示，他们希望生活在一个渴望和平的国家。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3443319.d.html</link>
-            <guid>4841291</guid>
-            <pubDate>Sun, 26 Apr 2026 01:25:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【据称25日仅有3艘船只通过霍尔木兹海峡】当地时间25日，据美国方面消息，当天霍尔木兹海峡的流量仍明显低于冲突爆发前的水平，仅有3艘船只通过海峡。美国方面援引船舶追踪数据显示，截至当地时间25日下午，当天仅有2艘油轮和一艘游艇通过了霍尔木兹海峡。目前尚不清楚美国对伊朗海上交通的封锁是否会对这些船只接下来的航行造成影响。消息同时指出，受信号干扰、部分船只关闭船舶自动识别系统等因素影响，数据可能与实际情况不一致。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3443168.d.html</link>
-            <guid>4841290</guid>
-            <pubDate>Sun, 26 Apr 2026 01:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【思特奇亮相CCBN 2026，展示全链智驱广电网络解决方案】据思特奇消息，第三十二届中国国际广播电视信息网络展览会（CCBN 2026）期间，思特奇紧扣中国广电核心战略，全面展示全链智驱广电网络解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0219997.d.html</link>
-            <guid>4841289</guid>
-            <pubDate>Sun, 26 Apr 2026 01:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普在枪击事件后发声：建议继续演讲】白宫记者晚宴发生枪击事件后，特朗普在社交平台发文称，今晚华盛顿局势异常。特勤局与执法部门表现出色，行动迅速、英勇果敢。枪手已被逮捕，我已提议“活动继续进行”，但一切将完全遵从执法部门安排，相关决定很快就会公布。无论最终决议如何，今晚的活动都将与原定计划大不相同，我们后续只能另行补办。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0027858.d.html</link>
-            <guid>4841288</guid>
-            <pubDate>Sun, 26 Apr 2026 01:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普表示，在枪击事件发生后，希望晚宴继续进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0218630.d.html</link>
-            <guid>4841287</guid>
-            <pubDate>Sun, 26 Apr 2026 01:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：他们（晚宴工作人员）会很快做出决定。无论那个决定是什么，今晚的活动都会与计划大相径庭，我们只好再来一次。]]></title>
-            <guid>4841286</guid>
-            <pubDate>Sun, 26 Apr 2026 01:19:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国媒体25日报道，白宫记者协会晚宴发生“安全事件”后，美国总统特朗普“安全无恙”，晚宴将继续举行。（新华社）]]></title>
-            <guid>4841285</guid>
-            <pubDate>Sun, 26 Apr 2026 01:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情消息人士透露，白宫记者晚宴事件的涉案嫌疑人已被羁押，目前生命体征平稳。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0218203.d.html</link>
-            <guid>4841284</guid>
-            <pubDate>Sun, 26 Apr 2026 01:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统特朗普：特勤局和执法部门做得非常出色。他们反应迅速且勇敢。枪手已被抓获，我建议我们“继续进行演讲”，但完全会听从执法部门的指示。]]></title>
-            <guid>4841283</guid>
-            <pubDate>Sun, 26 Apr 2026 01:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【突发安全事件 特朗普紧急撤离白宫记者晚宴】当地时间25日，美国总统特朗普当晚参加白宫记者协会晚宴，宴会上发生“安全事件”。有消息称，现场传出“巨大声响”，特朗普在安保人员护送下离开。随后，有消息显示涉事枪手已身亡。另有消息称，一名嫌疑人被拘捕。特勤局随后对该酒店实施了封锁。这场由白宫记者协会主办的晚宴预计将继续进行。据悉，多位政府高官出席了此次晚宴，其中包括副总统万斯、国务卿鲁比奥以及国防部长赫格塞思。枪声响起时，特朗普正就座于主席台上。白宫记者协会成立于1914年，是一个独立组织，由报道白宫和美国总统的记者组成。该协会从1921年开始举行年度晚宴，是媒体与政府官员加强沟通的社交活动，总统出席并发表讲话一度成为惯例。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0218062.d.html</link>
-            <guid>4841282</guid>
-            <pubDate>Sun, 26 Apr 2026 01:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【酒价内参4月26日价格发布：五粮液普五习酒君品领跌 总价小幅回调】新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价在4月26日整体小幅回落。如果主要单品各取一瓶整体打包售卖，今日总售价为9959元，较昨日下跌8元，自高位小幅回调。市场在前一日创下20天新高后技术性调整，终端交投情绪相对平稳但量能下降，核心单品涨跌分化依然显著。今日白酒市场11大单品四涨六跌一平，输家占据上风。上涨方面，精品茅台涨幅居前，上涨5元/瓶；古井贡古20上涨3元/瓶，连续两日上行，价格再度创下近一个月最高；洋河梦之蓝M6+上涨2元/瓶；五粮液1618小幅上涨1元/瓶。下跌方面，五粮液普五八代与习酒君品跌幅居前，均下跌5元/瓶；国窖1573下跌4元/瓶；飞天茅台下跌3元/瓶，前两日强势冲高后今日小幅回落；青花汾20与青花郎均小幅回落1元/瓶。水晶剑南春的价格环比保持不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0025168.d.html</link>
-            <guid>4841281</guid>
-            <pubDate>Sun, 26 Apr 2026 01:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：据悉美国特勤局不希望特朗普回到晚宴现场，但特朗普坚持要回去。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0024201.d.html</link>
-            <guid>4841280</guid>
-            <pubDate>Sun, 26 Apr 2026 01:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普和第一夫人梅拉尼娅·特朗普将返回白宫记者协会晚宴现场。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0023858.d.html</link>
-            <guid>4841279</guid>
-            <pubDate>Sun, 26 Apr 2026 01:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫记协晚宴发生“安全事件” 一名嫌疑人被拘捕】美国媒体25日援引白宫记者协会晚宴现场记者的话说，当晚的宴会上发生“安全事件”，一名嫌疑人已被拘捕。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0215827.d.html</link>
-            <guid>4841278</guid>
-            <pubDate>Sun, 26 Apr 2026 01:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国白宫记者晚宴现场相关媒体自由摄影师在酒店内听到4至6声巨响，事发地点并非白宫记者晚宴紧邻区域。]]></title>
-            <guid>4841277</guid>
-            <pubDate>Sun, 26 Apr 2026 01:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：目击者称，万斯平安无事。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0022560.d.html</link>
-            <guid>4841276</guid>
-            <pubDate>Sun, 26 Apr 2026 01:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院少数党领袖舒默：我正在密切关注白宫记者晚宴的事态发展。感谢执法部门的迅速反应，祈祷大家都能平安。]]></title>
-            <guid>4841275</guid>
-            <pubDate>Sun, 26 Apr 2026 01:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：安全事件发生在特朗普所在会场外部区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3436579.d.html</link>
-            <guid>4841274</guid>
-            <pubDate>Sun, 26 Apr 2026 01:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华泰证券：光纤光缆产业进入历史大周期】华泰证券研报称，2025年四季度以来，全球光纤光缆市场呈现“量价共振”态势。本轮光纤光缆景气周期的核心驱动力在于供给需求关系重构。市场认为光纤价格上涨会引发企业大规模扩产，而华泰证券认为行业未来2年内新增有效供给有限，景气周期有望拉长。首先，光棒扩产周期长，且行业经历上一轮出清后扩产趋于理性，短期难有大规模新产能落地；其次，高端光纤结构性挤占产能，主流厂商产能正向AI数通、无人机A2产品倾斜，挤占普通光纤供给。华泰证券认为，龙头企业光棒产能份额高，行业格局集中并在优化，这使得龙头在供需收紧时具备更强的议价与利润获取能力。同时，龙头企业有望通过出口结构优化与高端产品占比提升业绩成长性。二线厂商中具备光棒复产或扩产能力且估值处于低位的公司，在需求回暖、龙头满产的背景下，存在“业绩修复+估值修复”的双重机遇。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0213505.d.html</link>
-            <guid>4841273</guid>
-            <pubDate>Sun, 26 Apr 2026 01:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利人工智能使用率欧盟倒数第二】据意大利《24小时太阳报》报道，无论是出于学习还是工作目的，意大利人对人工智能的使用率远低于欧盟平均水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0213267.d.html</link>
-            <guid>4841272</guid>
-            <pubDate>Sun, 26 Apr 2026 01:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国白宫记者晚宴主持表示，更多细节将很快分享。特朗普预计将如期回到活动现场并发表演讲。]]></title>
-            <guid>4841271</guid>
-            <pubDate>Sun, 26 Apr 2026 01:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国白宫记者晚宴即将恢复举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1708947.d.html</link>
-            <guid>4841270</guid>
-            <pubDate>Sun, 26 Apr 2026 01:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国白宫记者晚宴活动将于短期内恢复进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnm0018694.d.html</link>
-            <guid>4841269</guid>
-            <pubDate>Sun, 26 Apr 2026 00:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国副总统万斯同样从白宫记者晚宴现场紧急撤离。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnk1707208.d.html</link>
-            <guid>4841268</guid>
-            <pubDate>Sun, 26 Apr 2026 00:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普安全无恙。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnp3432652.d.html</link>
-            <guid>4841267</guid>
-            <pubDate>Sun, 26 Apr 2026 00:54:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国白宫记者晚宴发生枪击事件 枪手身亡】当地时间4月25日，美国白宫记者晚宴大厅发生枪击事件，枪手现已身亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0208481.d.html</link>
-            <guid>4841266</guid>
-            <pubDate>Sun, 26 Apr 2026 00:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国特勤局称嫌疑枪手已被拘留。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0208219.d.html</link>
-            <guid>4841265</guid>
-            <pubDate>Sun, 26 Apr 2026 00:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白宫记者晚宴传出“枪声” 特朗普被紧急疏散】当地时间4月25日，有消息称美国华盛顿希尔顿酒店内传出“枪声”后，美国总统唐纳德·特朗普紧急撤离了白宫记者晚宴现场。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvutnr0207759.d.html</link>
-            <guid>4841264</guid>
-            <pubDate>Sun, 26 Apr 2026 00:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间4月25日，美国总统特朗普在白宫记者晚宴上因安全事件被紧急疏散。（央视新闻）]]></title>
-            <guid>4841263</guid>
-            <pubDate>Sun, 26 Apr 2026 00:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普撤离白宫记者晚宴后，暂无人员受伤的明显迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupen1834385.d.html</link>
-            <guid>4841262</guid>
-            <pubDate>Sun, 26 Apr 2026 00:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 美国白宫记者晚宴现场传出枪声。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupet0336838.d.html</link>
-            <guid>4841261</guid>
-            <pubDate>Sun, 26 Apr 2026 00:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：安保人员护送特朗普撤离白宫记者晚宴现场。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupen1832679.d.html</link>
-            <guid>4841260</guid>
-            <pubDate>Sun, 26 Apr 2026 00:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：白宫记者晚宴现场突发状况，特朗普等参会人员紧急避险。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupep0141751.d.html</link>
-            <guid>4841259</guid>
-            <pubDate>Sun, 26 Apr 2026 00:36:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：安全是我们首要的设计目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuper3557005.d.html</link>
-            <guid>4841258</guid>
-            <pubDate>Sun, 26 Apr 2026 00:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：阿联酋总统与印度国家安全顾问商讨地区稳定事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupet0333917.d.html</link>
-            <guid>4841257</guid>
-            <pubDate>Sun, 26 Apr 2026 00:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国总统特朗普和第一夫人抵达白宫记者晚宴。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuper3555038.d.html</link>
-            <guid>4841256</guid>
-            <pubDate>Sun, 26 Apr 2026 00:29:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奇瑞汽车与宁德时代签约，将开发适配换电电池及换电网络车型】4月25日，奇瑞汽车股份有限公司、宁德时代新能源科技股份有限公司、奇瑞绿能生态科技有限公司、时代电服科技有限公司在北京签署战略合作协议。根据协议，奇瑞汽车将开发适配换电电池及换电网络的车型，宁德时代、时代电服负责换电电池的开发迭代与供应保障，奇瑞绿能配套提供全场景绿色能源解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupep0137271.d.html</link>
-            <guid>4841255</guid>
-            <pubDate>Sun, 26 Apr 2026 00:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Momenta曹旭东：物理AI是大势所趋，一定要有现金流业务来支持其研发】4月26日上午消息，日前2026北京车展开幕，Momenta期间举办“Momenta R7，物理AI序章”主题分享会。会后，Momenta CEO 曹旭东与新浪科技等媒体进行对话。曹旭东透露，物理AI是大势所趋，数字AI发展成熟后，技术必然向物理世界延伸。他预判，物理AI核心是数据闭环和商业闭环，二者形成正反馈，会让AI在接近人类水平后快速超越。自动驾驶是物理AI的序章，已率先实现规模化双闭环；机器人领域还需时间。他指出，物理AI有极高门槛，需要百亿甚至千亿美金级投入，“物理AI是有门票的，而这个门票就是你的现金流业务，无论如何一定要有一个现金流业务来支持物理AI的研发。”（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupep0137134.d.html</link>
-            <guid>4841254</guid>
-            <pubDate>Sun, 26 Apr 2026 00:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南AI中心落地湘江新区】据湖南日报消息，4月24日，省级人工智能产业应用创新赋能平台——湖南AI中心在湖南湘江新区世界计算·长沙智谷正式发布。该中心由五八科创集团打造并全权运营，深度扎根智谷，聚焦人工智能应用场景创新，集展示体验、场景研发、供需对接和生态培育四大核心功能于一体，致力于构建“可看、可体验、可合作、可落地”的AI产业综合体。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuper3552728.d.html</link>
-            <guid>4841253</guid>
-            <pubDate>Sun, 26 Apr 2026 00:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本正考虑出资，强化美军基地建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuper3551209.d.html</link>
-            <guid>4841252</guid>
-            <pubDate>Sun, 26 Apr 2026 00:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Momenta曹旭东：创业是要找到志同道合的人干喜欢的事，让自己的人生生机勃勃】4月26日上午消息，日前2026北京车展开幕，Momenta期间举办“Momenta R7，物理AI序章”主题分享会。会后，Momenta CEO 曹旭东与新浪科技等媒体进行对话。谈及“创业十年的感受”，曹旭东表示：“我觉得还是蛮幸运，一路走来，最重要的是跟志同道合的人去干真正喜欢的事情，会让你的人生生机勃勃。”（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvuper3551096.d.html</link>
-            <guid>4841251</guid>
-            <pubDate>Sun, 26 Apr 2026 00:18:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Momenta R7强化学习世界模型量产首发，曹旭东：世界模型与强化学习构成物理AI两大核心支柱】4月26日上午消息，在近日的北京国际车展期间，Momenta举办“Momenta R7，物理AI序章”主题分享会。四位合伙人同台出席，正式宣布Momenta R7强化学习世界模型实现量产首发。Momenta R7强化学习世界模型理解物理世界的运动规律与交互逻辑，而非依赖场景记忆与规则匹配。Momenta宣布，已成功交付超过70款量产车型，累计定点车型数超过200款，量产落地覆盖十余个国家和地区。（新浪科技）]]></title>
-            <guid>4841250</guid>
-            <pubDate>Sun, 26 Apr 2026 00:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马里政府：该国遭袭地区局势已完全得到控制】当地时间4月25日晚，马里政府发布通告表示，当天上午恐怖武装组织对该国部分城市发动了袭击，造成16人受伤，其中包括平民和军人，目前已由医疗机构进行救治。由于马里军方的迅速反应，多名恐怖分子已被击毙，其图谋被挫败。截至目前，相关地区局势已完全得到控制。马里武装部队总参谋部此前表示，身份尚未确定的武装恐怖组织当天清晨袭击了首都巴马科和部分其他地点及军营。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupen1823720.d.html</link>
-            <guid>4841249</guid>
-            <pubDate>Sun, 26 Apr 2026 00:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗克尔曼沙赫市传出防空警报声，原因不明。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupet0326245.d.html</link>
-            <guid>4841248</guid>
-            <pubDate>Sun, 26 Apr 2026 00:11:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【镜片装反致孩子近视暴涨到900度？宝视达眼镜：出厂交付时不存在左右镜片装反情况】4月26日凌晨，宝视达眼镜发布关于媒体报道“4月22日镜片装反孩子暴涨到900度妈妈崩溃”的调查说明。宝视达表示，综合数据核查、流程追溯、实物检查、外部监督及专业分析，调查结论为：该副眼镜出厂交付时不存在左右镜片装反的情况。经全国售后系统、门店台账及客服记录全面核查：该顾客自2024年7月12日取镜后，在长达1年8个月的佩戴期间，未通过任何渠道向公司反馈过佩戴不适、视物异常、外观或参数异常等问题，也无任何售后咨询或投诉记录。网传“孩子佩戴后头晕，门店要求强行适应”以及佩戴1年8个月后称“在其他品牌眼镜店提供服务时才被动发现镜片装反”、“你们做对了，安反了”均非事实情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupet0325789.d.html</link>
-            <guid>4841247</guid>
-            <pubDate>Sun, 26 Apr 2026 00:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【近一周机构调研个股超350只 鼎泰高科热度第一】近一周机构调研个股有350多只，鼎泰高科调研机构数最多。鼎泰高科有316家机构调研，包括72家基金公司、40家证券公司、31家私募、20家保险公司等。鼎泰高科是本轮行情最大牛股之一，2024年低点以来最大涨幅超过20倍。立讯精密、水晶光电、安克创新、芯源微等10多只个股也获得超百家机构调研。从市场表现来看，近一周机构调研股平均下跌0.08%，金富科技、金宏气体、永鼎股份等个股均涨超15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupet0322661.d.html</link>
-            <guid>4841246</guid>
-            <pubDate>Sat, 25 Apr 2026 23:57:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哥伦比亚西部考卡省炸弹袭击事件已致14人死亡】据当地媒体消息，当地时间25日，哥伦比亚西部考卡省发生炸弹袭击事件，截至目前，已造成14人死亡、多人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupet0321693.d.html</link>
-            <guid>4841245</guid>
-            <pubDate>Sat, 25 Apr 2026 23:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯东西伯利亚一高山雪崩致三死一失联】位于俄罗斯东西伯利亚的布里亚特共和国民防与紧急情况署25日发布消息说，一支7人登山队在攀登布里亚特共和国境内的蒙库萨尔德克山时遭遇雪崩，造成三人死亡、三人受伤、一人失联。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupep0126247.d.html</link>
-            <guid>4841244</guid>
-            <pubDate>Sat, 25 Apr 2026 23:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【地平线与安斯泰莫签署战略合作协议】4月25日，北京国际车展现场，地平线与全球汽车零部件系统供应商——安斯泰莫 (Astemo) 正式签署战略合作协议。基于此次合作，双方将以地平线征程6系列芯片为算力底座，联合开发ADAS L2级至L2++级全场景智能驾驶产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-04-26/detail-inhvupen1814079.d.html</link>
-            <guid>4841243</guid>
-            <pubDate>Sat, 25 Apr 2026 23:42:39 GMT</pubDate>
         </item>
     </channel>
 </rss>

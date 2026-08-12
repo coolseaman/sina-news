@@ -6,6 +6,356 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 5038157,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnw4866786.d.html",
+            "title": "委内瑞拉央行：7月通胀率达19.9%。",
+            "date_modified": "2026-08-12T21:39:16.000Z"
+        },
+        {
+            "id": 5038156,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchpa3486472.d.html",
+            "title": "中国地震台网正式测定：08月13日05时28分在青海海南州兴海县（北纬35.28度，东经99.54度）发生3.7级地震，震源深度10千米。",
+            "date_modified": "2026-08-12T21:37:57.000Z"
+        },
+        {
+            "id": 5038155,
+            "content_html": "",
+            "title": "【潘兴广场新增投资维萨、奈飞等标的】潘兴广场公司在致股东信中表示，自完成IPO以来，该基金已完成六笔新增投资。潘兴广场称：“我们近期新建仓投资了维萨、万事达卡、奈飞、标普全球、洲际交易所以及爱尔康，这些企业都是我们已密切跟踪多年的公司。”潘兴广场表示，叠加上述新标的，以及原有持仓微软、亚马逊、Meta、优步、布鲁克菲尔德、Restaurant Brands国际，将助力基金实现强劲的未来收益。",
+            "date_modified": "2026-08-12T21:33:01.000Z"
+        },
+        {
+            "id": 5038154,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnw4863397.d.html",
+            "title": "Cerebras首席财务官表示，如果不是因为通过租回更多自有系统来扩大云容量导致成本上升，公司第二季度调整后毛利率本应高出500个基点。",
+            "date_modified": "2026-08-12T21:30:06.000Z"
+        },
+        {
+            "id": 5038153,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnw4863133.d.html",
+            "title": "【伊朗：霍尔木兹海峡使用者必须“修复”海湾环境损害】伊朗外交部发言人巴加埃称：“所有从霍尔木兹海峡商业航运中获益的各方，在法律和道义上都有义务修复对波斯湾和阿曼海造成的环境损害。”巴加埃表示，“初步证据显示一艘外国散货船”是污染来源。他表示，未来任何有关霍尔木兹海峡控制权的安排，都必须解决该水道的环境状况。",
+            "date_modified": "2026-08-12T21:29:08.000Z"
+        },
+        {
+            "id": 5038152,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnw4862978.d.html",
+            "title": "思科预计2027财年人工智能订单将大幅增长。",
+            "date_modified": "2026-08-12T21:28:28.000Z"
+        },
+        {
+            "id": 5038151,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnz3589508.d.html",
+            "title": "市场资讯：美国人工智能监管框架预计很快将把开源模型纳入管辖范围。",
+            "date_modified": "2026-08-12T21:26:05.000Z"
+        },
+        {
+            "id": 5038150,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchpa3481950.d.html",
+            "title": "思科：受Mythos带来的威胁影响，各家企业正将预算重新投向网络安全领域。",
+            "date_modified": "2026-08-12T21:23:45.000Z"
+        },
+        {
+            "id": 5038149,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnz3587105.d.html",
+            "title": "Cerebras首席执行官表示，目前254亿美元的剩余履约义务并未反映来自AWS或其他任何超大规模客户的业务积压情况。",
+            "date_modified": "2026-08-12T21:20:21.000Z"
+        },
+        {
+            "id": 5038148,
+            "content_html": "",
+            "title": "思科2026财年人工智能相关订单实现约40亿美元营收。",
+            "date_modified": "2026-08-12T21:17:21.000Z"
+        },
+        {
+            "id": 5038147,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnz3585868.d.html",
+            "title": "思科称供应链并未出现明显交期问题。",
+            "date_modified": "2026-08-12T21:16:06.000Z"
+        },
+        {
+            "id": 5038146,
+            "content_html": "",
+            "title": "思科表示其年度营收指引持审慎态度。",
+            "date_modified": "2026-08-12T21:14:44.000Z"
+        },
+        {
+            "id": 5038145,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnw4858019.d.html",
+            "title": "截至2026年6月30日，上市公司合计持有128万枚比特币（价值760亿美元），占比特币总供给量的6.11%。Strategy仍是最大持有方，持仓846842枚比特币。",
+            "date_modified": "2026-08-12T21:14:25.000Z"
+        },
+        {
+            "id": 5038144,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnz3584501.d.html",
+            "title": "思科预计2027年核心业务增速约10%。",
+            "date_modified": "2026-08-12T21:11:25.000Z"
+        },
+        {
+            "id": 5038143,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnz3584390.d.html",
+            "title": "思科预计2027年安全业务将实现高个位数增长。",
+            "date_modified": "2026-08-12T21:10:57.000Z"
+        },
+        {
+            "id": 5038142,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchnz3583487.d.html",
+            "title": "伊朗称霍尔木兹海峡使用者必须“弥补”海湾环境损害。",
+            "date_modified": "2026-08-12T21:08:19.000Z"
+        },
+        {
+            "id": 5038141,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininchpa3477532.d.html",
+            "title": "【DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5】8月13日，DeepSeek官方把V4 Pro从预览版正式转正。官方定价页上，模型版本号已经更新为DeepSeek-V4-Pro-0813。从官方群放出的评测对比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多项测试中接近 Fable 5 水平，相比之前的预览版能力大幅提升。DeepSeek V4 Pro价格明显高于V4-Flash。按每1M token计算，缓存命中输入0.025元，缓存未命中输入3元，输出6元。相比之下，V4-Flash分别为0.02元、1元和2元。",
+            "date_modified": "2026-08-12T21:07:33.000Z"
+        },
+        {
+            "id": 5038139,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4982949.d.html",
+            "title": "明晟（MSCI）：阿斯特拉有限公司（ASTRAL）、巴尔克里希纳工业有限公司（BALKRISHNA INDUSTRIES）、印度国家银行支付卡有限公司（SBI CARDS AND PAYMENT）将被剔除出明晟印度指数。",
+            "date_modified": "2026-08-12T20:59:46.000Z"
+        },
+        {
+            "id": 5038138,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafh0377171.d.html",
+            "title": "【美国佐治亚州校园枪击案致两人受伤】据当地警方消息，美国佐治亚州休斯敦县一所高中12日发生一起枪击事件，造成至少两名学生受伤，嫌疑人已被拘留。",
+            "date_modified": "2026-08-12T20:56:58.000Z"
+        },
+        {
+            "id": 5038137,
+            "content_html": "",
+            "title": "明晟公司（MSCI）：Lenskart Solutions将被纳入明晟印度指数。",
+            "date_modified": "2026-08-12T20:55:17.000Z"
+        },
+        {
+            "id": 5038136,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3708669.d.html",
+            "title": "明晟（MSCI）：泰国正大集团印尼子公司（Charoen Pokphand Indo）将被剔除出明晟印尼指数。",
+            "date_modified": "2026-08-12T20:55:02.000Z"
+        },
+        {
+            "id": 5038135,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3708572.d.html",
+            "title": "明晟公司（MSCI）：按完全调整后市值计算，纳入MSCI世界指数的三大新增成分股分别为美国公司闪迪、卡彭特技术公司（Carpenter Technology）以及美国铝业公司（ATI）。",
+            "date_modified": "2026-08-12T20:54:34.000Z"
+        },
+        {
+            "id": 5038134,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4980927.d.html",
+            "title": "明晟公司（MSCI）：在本次指数审议中，明晟将继续不对MSCI孟加拉国指数中归类为孟加拉国的任何证券实施调整。",
+            "date_modified": "2026-08-12T20:54:13.000Z"
+        },
+        {
+            "id": 5038133,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3707989.d.html",
+            "title": "美国商务部长卢特尼克：明日将宣布苹果得州Mac mini工厂相关消息。",
+            "date_modified": "2026-08-12T20:53:18.000Z"
+        },
+        {
+            "id": 5038132,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3707753.d.html",
+            "title": "明晟公司（MSCI）：MSCI世界全股本指数将新增137只成分股，剔除73只成分股。",
+            "date_modified": "2026-08-12T20:52:33.000Z"
+        },
+        {
+            "id": 5038131,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4980040.d.html",
+            "title": "思科预计2027财年AI业务收入75亿美元。",
+            "date_modified": "2026-08-12T20:51:43.000Z"
+        },
+        {
+            "id": 5038130,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafe3603001.d.html",
+            "title": "美国商务部长卢特尼克：关税使福特在美国创造了更多就业机会。",
+            "date_modified": "2026-08-12T20:50:59.000Z"
+        },
+        {
+            "id": 5038129,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4979694.d.html",
+            "title": "美国商务部长卢特尼克：福特正在将更多制造业转移到美国。",
+            "date_modified": "2026-08-12T20:50:44.000Z"
+        },
+        {
+            "id": 5038128,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3706979.d.html",
+            "title": "智利国家铜业公司高管：公司正研究扩建特尼恩特铜矿的坑采作业面，以弥补因地震风险推迟投产造成的产量损失。",
+            "date_modified": "2026-08-12T20:50:28.000Z"
+        },
+        {
+            "id": 5038127,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4979458.d.html",
+            "title": "【已致刚果（金）两千余人死亡 世卫：或为有记录以来最致命埃博拉疫情】目前，刚果（金）已报告超过4400例埃博拉确诊病例、2000多人死亡。世界卫生组织总干事谭德塞8月12日警告，如果刚果（金）埃博拉疫情维持当前传播速度，其规模可能超过2014年至2016年西非埃博拉疫情，成为有记录以来最致命的埃博拉疫情。",
+            "date_modified": "2026-08-12T20:50:14.000Z"
+        },
+        {
+            "id": 5038126,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4979113.d.html",
+            "title": "【思科公布远超预期财测 将业绩归功于创纪录的“广泛”需求】思科系统公司给出了远远超过华尔街预估的当季营收展望，表明该公司在人工智能数据中心市场夺取更大网络设备份额的努力取得了成功。该公司周三在公告中表示，截至10月的第一财季营收将介于180亿至182亿美元。分析师的平均预估为168亿美元。剔除部分项目的每股收益料在1.32至1.34美元，也高于市场预计的1.17美元。公司将强劲的销售归功于“对思科技术广泛且创纪录的高需求”。行业研究分析师Woo Jin Ho在报告中写道：“我们预计人工智能的势头将保持强劲。” 思科股价在盘后交易中上涨1%至125.19美元。截至周三收盘，该股今年以来累计攀升了61%。尽管专注于供应人工智能数据中心，思科的销售仍然依赖于传统网络业务。在截至7月的第四财季，该公司营收同比增长18%达到173亿美元。不计部分项目的每股收益报1.22美元。分析师此前预测的营收为168亿美元，每股收益则在1.17美元。",
+            "date_modified": "2026-08-12T20:49:15.000Z"
+        },
+        {
+            "id": 5038125,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3706326.d.html",
+            "title": "思科称第四财季超大规模客户订单实现三位数增幅。",
+            "date_modified": "2026-08-12T20:48:28.000Z"
+        },
+        {
+            "id": 5038124,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafe3602095.d.html",
+            "title": "美国一架来自胡德堡基地的阿帕奇武装直升机在得克萨斯州中部坠毁，两名飞行员全部遇难，事故引发野火，当地已启动人员疏散。",
+            "date_modified": "2026-08-12T20:47:39.000Z"
+        },
+        {
+            "id": 5038123,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafe3601663.d.html",
+            "title": "思科首席执行官在电话会议上表示，未来六个月，公司有望拿下多项AI设计订单，覆盖G300、G200、P200 Silicon One芯片及光模块产品。",
+            "date_modified": "2026-08-12T20:46:17.000Z"
+        },
+        {
+            "id": 5038122,
+            "content_html": "",
+            "title": "美国国务院批评以色列国防部长卡茨，表示以色列在黎巴嫩南部的军事部署违背相关协议；而卡茨称以色列国防军将在安全区保持长期驻军。",
+            "date_modified": "2026-08-12T20:46:09.000Z"
+        },
+        {
+            "id": 5038121,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4978107.d.html",
+            "title": "伊朗方面称，有报告显示格什姆岛附近出现石油污染，将此事归咎于一艘外籍油轮，要求就波斯湾的环境破坏追究责任。",
+            "date_modified": "2026-08-12T20:45:58.000Z"
+        },
+        {
+            "id": 5038120,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4975237.d.html",
+            "title": "美国经济顾问委员会主席：CPI报告削弱了加息的理由。",
+            "date_modified": "2026-08-12T20:37:37.000Z"
+        },
+        {
+            "id": 5038119,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3701603.d.html",
+            "title": "美国最高法院目前暂停苹果应用商店费率相关诉讼程序。",
+            "date_modified": "2026-08-12T20:34:33.000Z"
+        },
+        {
+            "id": 5038118,
+            "content_html": "",
+            "title": "特朗普的总统直升机海军陆战队一号与商业航班近距离接近事件发生后，美国联邦航空管理局计划修复里根国家机场的通信系统。",
+            "date_modified": "2026-08-12T20:32:59.000Z"
+        },
+        {
+            "id": 5038117,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4973155.d.html",
+            "title": "伊朗官方驳斥特朗普有关美国完全掌控霍尔木兹海峡的说法。",
+            "date_modified": "2026-08-12T20:31:23.000Z"
+        },
+        {
+            "id": 5038116,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3697619.d.html",
+            "title": "美国能源部表示，不会继续推进2024年12月选定的三条拟议国家利益输电走廊，不再将其纳入后续审查流程。",
+            "date_modified": "2026-08-12T20:22:05.000Z"
+        },
+        {
+            "id": 5038115,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3696943.d.html",
+            "title": "【美国出行旺季汽油与柴油价格均创历年同期新高】时值美国驾车出行旺季，汽油与柴油价格均升至历年同期最高水平。美国汽车协会数据显示，汽油和柴油价格均创历年同期新高。8月第二周，美国汽油平均价格达到每加仑4美元，柴油则达到每加仑5.40美元，均创历年同期新高。眼下正值出行旺季，通常有数以百万计的美国人驾车外出度假或探亲。去年同期，汽油价格为每加仑3.20美元，柴油为每加仑3.70美元。",
+            "date_modified": "2026-08-12T20:19:57.000Z"
+        },
+        {
+            "id": 5038114,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3696693.d.html",
+            "title": "【美元指数12日上涨】衡量美元对六种主要货币的美元指数当天上涨0.19%，在汇市尾市收于100.014。截至纽约汇市尾市，1欧元兑换1.1521美元，低于前一交易日的1.1540美元；1英镑兑换1.3488美元，低于前一交易日的1.3503美元。1美元兑换159.49日元，高于前一交易日的159.26日元；1美元兑换0.8137瑞士法郎，高于前一交易日的0.8112瑞士法郎；1美元兑换1.3947加元，高于前一交易日的1.3920加元；1美元兑换9.5858瑞典克朗，高于前一交易日的9.5244瑞典克朗。",
+            "date_modified": "2026-08-12T20:19:17.000Z"
+        },
+        {
+            "id": 5038113,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4967834.d.html",
+            "title": "伊朗国家福利组织康复事务负责人周三表示，由于资金不足，仍有超过15.2万名重度残疾人在等待护理补贴的等候名单上。",
+            "date_modified": "2026-08-12T20:14:43.000Z"
+        },
+        {
+            "id": 5038112,
+            "content_html": "",
+            "title": "路透社调查显示，美国能源信息署（EIA）周四发布的报告预计，上周美国天然气库存增加320亿立方英尺。",
+            "date_modified": "2026-08-12T20:09:37.000Z"
+        },
+        {
+            "id": 5038111,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4966142.d.html",
+            "title": "思科第四财季来自超大规模云服务商的AI订单达40亿美元。",
+            "date_modified": "2026-08-12T20:09:14.000Z"
+        },
+        {
+            "id": 5038110,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafe3590969.d.html",
+            "title": "思科预计2027财年调整后每股收益5.05至5.11美元，市场预期4.84美元。",
+            "date_modified": "2026-08-12T20:07:42.000Z"
+        },
+        {
+            "id": 5038109,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4965703.d.html",
+            "title": "思科2027财年销售额指引超出市场预期，股价大涨7%。",
+            "date_modified": "2026-08-12T20:07:28.000Z"
+        },
+        {
+            "id": 5038108,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafc3692709.d.html",
+            "title": "航空导航数据显示：阿联酋王室专机（注册号A6‑RJA）今日飞抵德黑兰。该飞机昨日也曾飞往德黑兰，停留一小时后返回阿联酋。",
+            "date_modified": "2026-08-12T20:05:56.000Z"
+        },
+        {
+            "id": 5038107,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4964301.d.html",
+            "title": "Nebius股价收盘上涨34%，创去年9月以来最大涨幅。",
+            "date_modified": "2026-08-12T20:02:34.000Z"
+        },
+        {
+            "id": 5038106,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincaey4964045.d.html",
+            "title": "超微电脑收盘上涨19%，创7月22日以来最佳单日表现。",
+            "date_modified": "2026-08-12T20:02:03.000Z"
+        },
+        {
             "id": 5038105,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inincafe3589019.d.html",
@@ -342,355 +692,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavwz3334817.d.html",
             "title": "  乌克兰国家安全局（SBU）称，乌军在袭击俄罗斯新罗西斯克港口行动中打击三艘军舰及其他设施。",
             "date_modified": "2026-08-12T17:09:10.000Z"
-        },
-        {
-            "id": 5038055,
-            "content_html": "",
-            "title": "  美国 10 年期国债拍卖结束后，美债收益率基本持平；10 年期收益率下行 1 个基点，报 4.67%。",
-            "date_modified": "2026-08-12T17:06:46.000Z"
-        },
-        {
-            "id": 5038054,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxa5032660.d.html",
-            "title": "马斯克：综合智能水平、速度与成本来看，Grok 4.6 客观排名第一。",
-            "date_modified": "2026-08-12T17:05:52.000Z"
-        },
-        {
-            "id": 5038053,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavwx6561296.d.html",
-            "title": "美国10年期国债标售创出2007年以来最高收益率。",
-            "date_modified": "2026-08-12T17:05:04.000Z"
-        },
-        {
-            "id": 5038052,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavwx6560686.d.html",
-            "title": "美国至8月12日10年期国债竞拍-得标利率 4.683%，前值4.58%。\n美国至8月12日10年期国债竞拍-投标倍数 2.53，前值2.59。",
-            "date_modified": "2026-08-12T17:03:18.000Z"
-        },
-        {
-            "id": 5038051,
-            "content_html": "",
-            "title": "【夜盘期货收盘】国际铜夜盘收跌0.36%，沪铜收跌0.36%，沪铝收跌0.62%，沪锌收涨0.19%，沪铅收涨0.57%，沪镍收涨0.18%，沪锡收跌0.43%。氧化铝夜盘收跌0.81%，铝合金收跌1.06%。不锈钢夜盘收跌0.10%。",
-            "date_modified": "2026-08-12T17:00:02.000Z"
-        },
-        {
-            "id": 5038050,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxf3756502.d.html",
-            "title": "SpaceX涨幅扩大至8%，总市值达1.9万亿美元，本月已累升逾32%。",
-            "date_modified": "2026-08-12T16:56:24.000Z"
-        },
-        {
-            "id": 5038049,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxa5027914.d.html",
-            "title": "【意大利埃特纳火山持续喷发 航班受影响】本月初，位于意大利西西里岛的埃特纳火山发生喷发并持续至今。据意大利国家地球物理学与火山学研究所8月12日发布的报告，埃特纳火山先后出现多处新喷口，熔岩流向山下推进，火山灰云主要向南及西南方向移动。岛上的卡塔尼亚机场当天暂停所有航班降落和起飞，管控措施持续到当地时间13日16时。（央视新闻）",
-            "date_modified": "2026-08-12T16:52:40.000Z"
-        },
-        {
-            "id": 5038048,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxa5027613.d.html",
-            "title": "【黑石考虑放弃30亿美元债务融资计划】知情人士称，黑石集团正在考虑放弃一项约30亿美元的债务融资计划，该计划原本有助于公司向投资者返还部分资金。知情人士称，黑石数月来一直在为旗下一只较早设立的私募股权二级市场基金筹划所谓的基金抵押债务凭证（CFO），该基金约有700项底层投资。因相关信息非公开，这些人士要求匿名。其中一些人士称，黑石一直难以为这笔交易的权益档找到买家，而权益档通常是此类交易中风险最高的部分。知情人士称，黑石高管仍在权衡各种选择，公司可能决定继续推进这笔CFO交易，也可能寻求其他方式向现有投资者返还资金。",
-            "date_modified": "2026-08-12T16:51:51.000Z"
-        },
-        {
-            "id": 5038047,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxa5026512.d.html",
-            "title": "  俄罗斯农业部：备选运输通道包括波罗的海、里海、远东地区的港口，以及各类陆路运输线路。",
-            "date_modified": "2026-08-12T16:48:48.000Z"
-        },
-        {
-            "id": 5038046,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxa5026305.d.html",
-            "title": "俄罗斯考虑为粮食出口开辟替代路线。",
-            "date_modified": "2026-08-12T16:48:14.000Z"
-        },
-        {
-            "id": 5038045,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxf3753610.d.html",
-            "title": "  塔斯社援引俄相关部门消息：俄罗斯正着手将货运流量转向替代运输线路。",
-            "date_modified": "2026-08-12T16:48:02.000Z"
-        },
-        {
-            "id": 5038044,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxf3753494.d.html",
-            "title": "乌克兰武装部队：2026 年 8 月 12 日夜，乌克兰国防军各部队开展联合行动，袭击了俄罗斯克拉斯诺达尔边疆区新罗西斯克海军基地。",
-            "date_modified": "2026-08-12T16:47:34.000Z"
-        },
-        {
-            "id": 5038043,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavxf3750671.d.html",
-            "title": "  哥伦比亚全国咖啡种植者联合会：哥伦比亚加勒比海港口咖啡出口持续正常开展，未受中断影响。因基础设施检查及通路受阻，哥伦比亚布埃纳文图拉港咖啡出口临时暂停。",
-            "date_modified": "2026-08-12T16:38:53.000Z"
-        },
-        {
-            "id": 5038042,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininavwz3325511.d.html",
-            "title": "  苹果聘请美国航空资深高管出任政府事务主管。",
-            "date_modified": "2026-08-12T16:36:13.000Z"
-        },
-        {
-            "id": 5038041,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarqz6682305.d.html",
-            "title": "【欧洲债市：德国国债和英国国债持稳，长端表现略逊】德国国债和英国国债回吐涨幅，由于围绕重新开放霍尔木兹海峡的谈判进展仍不明朗，油价收复早前跌幅。交易员基本无视符合市场预期的美国7月通胀数据，目前预计欧洲央行到年底加息39个基点， 英国央行到年底加息28个基点。布伦特原油价格下跌0.1%，至每桶88.82美元。",
-            "date_modified": "2026-08-12T16:30:34.000Z"
-        },
-        {
-            "id": 5038040,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarqz6681878.d.html",
-            "title": "  美国国际贸易委员会：万胜（Maxell）指控三星侵犯移动设备相关专利。",
-            "date_modified": "2026-08-12T16:29:01.000Z"
-        },
-        {
-            "id": 5038039,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarre5150692.d.html",
-            "title": "【巴勒斯坦总统与土耳其总统会谈 讨论巴以局势等】当地时间12日，巴勒斯坦总统阿巴斯在安卡拉同土耳其总统埃尔多安举行正式会谈。双方就巴以局势最新进展、双边关系及共同关心的问题深入交换意见。（央视新闻）",
-            "date_modified": "2026-08-12T16:28:24.000Z"
-        },
-        {
-            "id": 5038038,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarri3877935.d.html",
-            "title": "美国国际贸易委员会发起针对三星设备的 337 条款调查。",
-            "date_modified": "2026-08-12T16:27:50.000Z"
-        },
-        {
-            "id": 5038037,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarrc3452832.d.html",
-            "title": "【关键沙特石油出口港数周来首次发现油轮装载】一艘超大型油轮停靠在沙特阿拉伯位于波斯湾的主要石油出口码头，这是近一个月来首次出现类似情况。随着针对沙特石油出口的威胁扩大至红海，沙特正努力维持原油运输。欧盟“哨兵-2号”（Sentinel 2）卫星周二拍摄的一张卫星图像显示，一艘能够装载约200万桶原油的超大型原油运输船（VLCC）停泊在朱艾迈赫（Ju’aymah）的一处单点系泊设施。该设施是沙特巨型拉斯坦努拉（Ras Tanura）石油出口综合体的一部分。",
-            "date_modified": "2026-08-12T16:24:16.000Z"
-        },
-        {
-            "id": 5038036,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarre5148903.d.html",
-            "title": "【多空争夺160大关 交易员密切关注日元是否会再遭干预】日元兑美元周三持稳在160关口附近，令投资者密切关注当局是否会再次进场干预。纽约时间上午11时左右，日元兑美元基本持平于159.23。本月以来日元已贬值逾1%，回吐了美国和日本不久前联手干预刺激的部分涨幅。日元兑美元逼近四十年来最低点164的关键时刻，两国当局协调进场买入。不过此类行动的局限性也十分明显，有利于美元的利差导致日元回吐了相当大一部分反弹，令其再度逼近160这一重要关口。",
-            "date_modified": "2026-08-12T16:23:40.000Z"
-        },
-        {
-            "id": 5038035,
-            "content_html": "",
-            "title": "【南苏丹霍乱疫情致1721人死亡 确诊病例超11万例】当地时间8月12日，南苏丹卫生部长卢克·汤普森·托安在新闻发布会上表示，自2025年9月以来，南苏丹卫生部门已登记1721例霍乱疫情死亡病例和110574例确诊病例。此次霍乱疫情已遍布全国9个州55个县和3个行政区，是南苏丹迄今最大规模的霍乱疫情。（央视新闻）",
-            "date_modified": "2026-08-12T16:16:05.000Z"
-        },
-        {
-            "id": 5038034,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarrc3448488.d.html",
-            "title": "  谷歌：Pixel 11 Pro Fold 今日开启预购，将于 8 月 20 日上市开售。",
-            "date_modified": "2026-08-12T16:11:52.000Z"
-        },
-        {
-            "id": 5038033,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarri3870666.d.html",
-            "title": "  谷歌：推出 Pixel 11 Pro Fold。",
-            "date_modified": "2026-08-12T16:11:14.000Z"
-        },
-        {
-            "id": 5038032,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarri3869351.d.html",
-            "title": "乌克兰总统泽连斯基：同亚美尼亚总理进行了交谈。",
-            "date_modified": "2026-08-12T16:08:14.000Z"
-        },
-        {
-            "id": 5038031,
-            "content_html": "",
-            "title": "美国农业部：将阿根廷2025/2026年度大豆产量预期从之前的5000万吨下调至4950万吨；将巴西2025/2026年度大豆产量预期从之前的1.8亿吨上调至1.805亿吨。维持阿根廷2025/2026年度玉米产量预期在6300万吨不变；将巴西2025/2026年度玉米产量预期从之前的1.38亿吨上调至1.4亿吨。",
-            "date_modified": "2026-08-12T16:06:42.000Z"
-        },
-        {
-            "id": 5038030,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarri3867723.d.html",
-            "title": "MUFG 试点项目计划于年底前完成，该项服务预计在 2027‑2029 财年间全面落地。",
-            "date_modified": "2026-08-12T16:04:57.000Z"
-        },
-        {
-            "id": 5038029,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarri3867604.d.html",
-            "title": "  CBOT 玉米期货在美国农业部报告发布后扩大涨幅。",
-            "date_modified": "2026-08-12T16:04:35.000Z"
-        },
-        {
-            "id": 5038028,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarre5139550.d.html",
-            "title": "市场消息：日本三菱日联金融集团将通过区块链推出日本国债即时交易业务。",
-            "date_modified": "2026-08-12T16:03:27.000Z"
-        },
-        {
-            "id": 5038027,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarqz6672757.d.html",
-            "title": "  俄罗斯统计局：7 月汽油价格环比上涨 6.5%，柴油价格环比上涨 9.2%。",
-            "date_modified": "2026-08-12T16:03:01.000Z"
-        },
-        {
-            "id": 5038026,
-            "content_html": "",
-            "title": "美国农业部：8月美国2026/2027年度大豆产量预期为45.19亿蒲式耳，市场预期为44.72亿蒲式耳，7月预期为44.75亿蒲式耳。8月美国2026/2027年度大豆期末库存预期为3.2亿蒲式耳，市场预期为3.04亿蒲式耳，7月预期为3.1亿蒲式耳。8月美国2026/2027年度大豆单产预期为52.7蒲式耳/英亩，市场预期为52.9蒲式耳/英亩，7月预期为53蒲式耳/英亩。",
-            "date_modified": "2026-08-12T16:02:48.000Z"
-        },
-        {
-            "id": 5038025,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarqz6672565.d.html",
-            "title": "市场消息：派拉蒙首席执行官被要求接受国会质询。",
-            "date_modified": "2026-08-12T16:02:36.000Z"
-        },
-        {
-            "id": 5038024,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-ininarri3865985.d.html",
-            "title": "俄罗斯统计局：7 月 CPI 环比上涨 0.54%，同比上涨 5.98%。",
-            "date_modified": "2026-08-12T16:01:55.000Z"
-        },
-        {
-            "id": 5038023,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarrc3443898.d.html",
-            "title": "【Jane Street发行146亿美元债券 10年期收益率逾8%】Jane Street发行146亿美元债券，这家做市巨头将把融资所得用于技术基础设施并拓展交易策略。知情人士称，Jane Street发行了2031年、2033年和2036年到期的高级担保票据，规模分别为58.6亿美元、51.3亿美元和36.4亿美元。其中期限最长的一档债券定价收益率为8.088%。这笔由摩根大通牵头的固定利率债券发行是Jane Street偿还浮动利率贷款并重整110亿美元债务负担计划的一部分。彭博此前报道，Jane Street一直在与品浩(PIMCO)等机构磋商，由后者提供相关融资。",
-            "date_modified": "2026-08-12T15:59:37.000Z"
-        },
-        {
-            "id": 5038022,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarqz6670351.d.html",
-            "title": "【DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型】DeepSeek官网“API 文档”上的“模型 & 价格”页面中，模型版本新增了DeepSeek-V4-Pro-0813，其支持非思考与思考模式。不过，官方尚未发布 DeepSeek-V4-Pro-0813 的更新日志。",
-            "date_modified": "2026-08-12T15:55:03.000Z"
-        },
-        {
-            "id": 5038021,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarrc3441308.d.html",
-            "title": "  贸易商 SUCAFINA ：哥伦比亚布埃纳文图拉港因开展基础设施评估，咖啡出口业务暂停。该公司正在评估备选运输路线及物流方案，“尽可能维持咖啡货运的连续性”。",
-            "date_modified": "2026-08-12T15:49:52.000Z"
-        },
-        {
-            "id": 5038020,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarre5134706.d.html",
-            "title": "GOOGLE：推出 Google Pixel Tag， 产品将于 11 月 11 日上市，用户可按 29 美元购买，或以 99 美元购入 4‑pack 套装。",
-            "date_modified": "2026-08-12T15:49:01.000Z"
-        },
-        {
-            "id": 5038019,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarre5134036.d.html",
-            "title": "  软商品贸易商 SUCAFINA 称，受地震影响，哥伦比亚大部分产区的咖啡运输 “严重受阻”。",
-            "date_modified": "2026-08-12T15:46:54.000Z"
-        },
-        {
-            "id": 5038018,
-            "content_html": "",
-            "title": "【渣打牵头的Anchorpoint推出港元稳定币】据一封电子邮件声明显示，渣打牵头的持牌稳定币发行机构Anchorpoint Financial宣布推出港元稳定币。港元稳定币HKDAP通过测试接入面向机构分销商和专业投资者推出。",
-            "date_modified": "2026-08-12T15:43:50.000Z"
-        },
-        {
-            "id": 5038017,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarri3859991.d.html",
-            "title": "【瑞士拟立法强制延迟银行高管奖金发放 最长可达五年】瑞士政府希望把银行高管奖金递延数年发放的要求写入法律，作为瑞信倒闭后加强金融监管的一揽子措施之一。瑞士政府周三公布的方案显示，这项措施将适用于包括瑞银集团在内的大型银行，可能要求将40%至60%的浮动薪酬递延发放，最长可达五年。瑞士财政部长Karin Keller-Sutter在伯尔尼表示：“以牺牲金融稳定为代价换取短期回报，绝对不应得到奖励。”",
-            "date_modified": "2026-08-12T15:43:09.000Z"
-        },
-        {
-            "id": 5038016,
-            "content_html": "",
-            "title": "【黎巴嫩政府军指责以色列违反框架协议持续袭击黎南 】黎巴嫩政府军12日发表声明说，以色列持续违反现有框架协议和国际法，对黎南部发动持续袭击并炸毁多处建筑，阻碍当地居民返回家园以及黎军部署。（新华社）",
-            "date_modified": "2026-08-12T15:42:21.000Z"
-        },
-        {
-            "id": 5038015,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarri3858552.d.html",
-            "title": "欧洲斯托克50指数收盘跌0.2%，德国DAX指数跌0.2%，英国富时100指数跌0.12%，法国CAC 40指数跌0.46%。",
-            "date_modified": "2026-08-12T15:39:04.000Z"
-        },
-        {
-            "id": 5038014,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarri3858499.d.html",
-            "title": "【诚志股份：上半年净利润同比增长1416%】诚志股份(000990.SZ)公告称，公司发布2026年半年度报告，实现营业收入61.47亿元，同比增长2.77%；归属于上市公司股东的净利润2.9亿元，同比增长1416.23%。公司Q2净利润0.57亿，Q1净利润2.33亿，据此计算，Q2净利润环比下降75%。",
-            "date_modified": "2026-08-12T15:38:55.000Z"
-        },
-        {
-            "id": 5038013,
-            "content_html": "",
-            "title": "美国至8月12日4个月国债竞拍-投标倍数 3.16，前值3.19。\n美国至8月12日4个月国债竞拍-得标利率配置百分比 9.14%，前值94.66%。\n美国至8月12日4个月国债竞拍-得标利率 3.755%，前值3.79%。",
-            "date_modified": "2026-08-12T15:35:12.000Z"
-        },
-        {
-            "id": 5038012,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarre5128754.d.html",
-            "title": "【谷歌发布新一代Pixel智能手机 硬件和设计上小幅升级】Alphabet Inc.旗下谷歌发布最新一代Pixel智能手机，在硬件和设计上进行小幅升级。新系列包括Pixel 11 Pro XL，起售价1,299美元；Pixel 11 Pro，起售价1,099美元；Pixel 11，899美元。此外还有折叠屏手机Pixel 11 Pro Fold，起售价1,899美元。新机带来一些真正的新功能，例如“HiLight”，可把相机闪光灯变成更实用的通知指示灯。此外，还包括一些更务实的改进，例如提升抗刮性能和屏幕亮度。受前所未有的内存芯片供应紧张影响，这几款手机的起售价均较去年上涨100美元。除了提价，谷歌还下调了Pixel 11 Pro和Pro XL基础版本的内存，从去年的16GB降至12GB。高存储版本仍保留16GB内存。不过，新机的基础存储容量有所增加，从128GB提高至256GB。",
-            "date_modified": "2026-08-12T15:32:26.000Z"
-        },
-        {
-            "id": 5038011,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarqz6662950.d.html",
-            "title": "SpaceXAI：Grok 4.6今日已在Cursor和Grok Build中上线。Grok 4.6定价为每百万输入Token收费2美元，每百万输出Token收费6美元。Grok 4.6也已通过API以及OpenRouter、Vercel和Cloudflare等合作伙伴平台上线。",
-            "date_modified": "2026-08-12T15:31:39.000Z"
-        },
-        {
-            "id": 5038010,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarri3855511.d.html",
-            "title": "  阿拉比亚电视台消息人士：巴基斯坦调解方正寻求延长（美伊）60天停火期限。巴基斯坦调解方对 60 天期限得以延长持乐观态度。",
-            "date_modified": "2026-08-12T15:31:17.000Z"
-        },
-        {
-            "id": 5038009,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarrc3434020.d.html",
-            "title": "SpaceXAI：推出Grok 4.6。",
-            "date_modified": "2026-08-12T15:28:25.000Z"
-        },
-        {
-            "id": 5038008,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarre5125668.d.html",
-            "title": "据灯塔专业版实时数据，截至8月12日23时20分，影片《奥德赛》点映及预售总票房突破1亿。",
-            "date_modified": "2026-08-12T15:25:43.000Z"
-        },
-        {
-            "id": 5038007,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarre5125171.d.html",
-            "title": "  以色列国防军发言人：今日早些时候，参谋长就凯齐拉地区正在发生的事态，与中央司令部司令、作战局局长及作战处处长再次举行局势评估会议。",
-            "date_modified": "2026-08-12T15:24:24.000Z"
-        },
-        {
-            "id": 5038006,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarrc3432018.d.html",
-            "title": "市场消息：以色列国防军袭击加沙地带北部拜特哈利亚地区。",
-            "date_modified": "2026-08-12T15:22:21.000Z"
-        },
-        {
-            "id": 5038005,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-12/detail-ininarqz6659013.d.html",
-            "title": "美国银行将斥资约19亿美元收购JIO金融部门49.9%的股份。",
-            "date_modified": "2026-08-12T15:20:43.000Z"
         }
     ]
 }

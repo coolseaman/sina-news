@@ -6,6 +6,515 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 5039984,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3170747.d.html",
+            "title": "巴西Titans指数报22739.78点，下跌237.12点，跌幅1.03%。",
+            "date_modified": "2026-08-13T19:00:59.000Z"
+        },
+        {
+            "id": 5039983,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3170595.d.html",
+            "title": "阿根廷国家统计与普查局(INDEC)公布，7月阿根廷12个月滚动通胀率为33.8%。",
+            "date_modified": "2026-08-13T19:00:49.000Z"
+        },
+        {
+            "id": 5039982,
+            "content_html": "",
+            "title": "阿根廷7月消费者价格环比上涨2.1%；此前预期为上涨2.00%。",
+            "date_modified": "2026-08-13T19:00:41.000Z"
+        },
+        {
+            "id": 5039981,
+            "content_html": "",
+            "title": "恒指期货夜盘收跌0.63%，报25212.20点，低水184.31点。",
+            "date_modified": "2026-08-13T19:00:02.000Z"
+        },
+        {
+            "id": 5039980,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4442484.d.html",
+            "title": "美国地质调查局：菲律宾萨兰加尼以南11公里处发生5.3级地震。",
+            "date_modified": "2026-08-13T18:58:34.000Z"
+        },
+        {
+            "id": 5039979,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4441955.d.html",
+            "title": "西北河流预报中心（NWRFC）：美国西北部河流径流量降至82%。",
+            "date_modified": "2026-08-13T18:57:07.000Z"
+        },
+        {
+            "id": 5039978,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3168313.d.html",
+            "title": "【俄外长：将扣押西方国家船只作为对等反制】俄罗斯外交部长拉夫罗夫13日对俄媒表示，俄方将“自行决定”扣押哪些西方国家船只，作为对西方国家扣押俄船只行为的反制。拉夫罗夫说，西方国家把“强盗行径和海盗行为”当作官方政策，俄罗斯将从服务于西方国家利益的船只中自主选择扣押目标，至于如何处理“将由俄方自行决定”。（新华社）",
+            "date_modified": "2026-08-13T18:54:00.000Z"
+        },
+        {
+            "id": 5039977,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffef9732371.d.html",
+            "title": "WORKDAY股价上涨至30%。",
+            "date_modified": "2026-08-13T18:50:59.000Z"
+        },
+        {
+            "id": 5039976,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4439919.d.html",
+            "title": "阿根廷经济部长表示，阿根廷的通货紧缩过程堪称奇迹。",
+            "date_modified": "2026-08-13T18:50:32.000Z"
+        },
+        {
+            "id": 5039975,
+            "content_html": "",
+            "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
+            "date_modified": "2026-08-13T18:50:02.000Z"
+        },
+        {
+            "id": 5039974,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4439035.d.html",
+            "title": "布伦特原油期货结算价报每桶87.07美元，下跌1.91美元，跌幅2.15%。",
+            "date_modified": "2026-08-13T18:47:46.000Z"
+        },
+        {
+            "id": 5039973,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffee2958632.d.html",
+            "title": "由于股价波动，WORKDAY股票再次暂停交易。",
+            "date_modified": "2026-08-13T18:46:05.000Z"
+        },
+        {
+            "id": 5039972,
+            "content_html": "",
+            "title": "Workday暴涨26%，创2012年以来最大涨幅。",
+            "date_modified": "2026-08-13T18:45:44.000Z"
+        },
+        {
+            "id": 5039971,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3164563.d.html",
+            "title": "市场消息：Unigel称未就出售硫酸工厂开展正在进行的谈判。",
+            "date_modified": "2026-08-13T18:42:03.000Z"
+        },
+        {
+            "id": 5039970,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffee2957030.d.html",
+            "title": "特朗普：今天在美国国际贸易法庭取得重大胜利。",
+            "date_modified": "2026-08-13T18:40:07.000Z"
+        },
+        {
+            "id": 5039969,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3163801.d.html",
+            "title": "特朗普：今天在“最低限额”豁免问题上取得重大胜利。",
+            "date_modified": "2026-08-13T18:39:43.000Z"
+        },
+        {
+            "id": 5039968,
+            "content_html": "",
+            "title": "WORKDAY股票恢复交易；涨幅扩大至14%。",
+            "date_modified": "2026-08-13T18:39:34.000Z"
+        },
+        {
+            "id": 5039967,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffef9729275.d.html",
+            "title": "市场消息：法官下令卡尔希停止多项华盛顿业务。",
+            "date_modified": "2026-08-13T18:39:28.000Z"
+        },
+        {
+            "id": 5039966,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4434782.d.html",
+            "title": "Workday股价迅速飙升6.3%，交易暂停。",
+            "date_modified": "2026-08-13T18:34:49.000Z"
+        },
+        {
+            "id": 5039965,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffee2955135.d.html",
+            "title": "消息人士称，银湖资本正洽谈收购Workday，相关商议仍在进行中。",
+            "date_modified": "2026-08-13T18:33:21.000Z"
+        },
+        {
+            "id": 5039964,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffef9727416.d.html",
+            "title": "苹果公司：今年将在休斯顿启动Mac Mini生产。",
+            "date_modified": "2026-08-13T18:32:52.000Z"
+        },
+        {
+            "id": 5039963,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4434064.d.html",
+            "title": "美国原油期货结算价报每桶81.25美元，下跌2.02美元，跌幅2.43%。",
+            "date_modified": "2026-08-13T18:32:43.000Z"
+        },
+        {
+            "id": 5039962,
+            "content_html": "",
+            "title": "【日元汇率距离160大关仅咫尺之遥 政府支持加息的消息几无影响】尽管据称日本首相高市早苗政府支持加息，但日元兑美元汇率仍处在一个关键水平触手可及的范围之内。日元周四小幅走低，纽约午后交易中一度跌至1美元兑159.56日元。过去，在接近160时，日元贬值势头往往会受到遏制。据知情人士透露，日本央行可能会在9月份或10月份加息。他们补充说，日本央行担心日元疲软推高物价，而日本政府希望强化近期美日联合干预汇市的效果，双方因此在近期加息必要性这一点上的立场趋于一致。投资者表示，这一消息对日元影响不大，原因是市场本已预期日本央行将加息。近几日日元持续走弱，因为日本与美国之间仍存在较大的利差，同时日本还背负着沉重的债务负担。",
+            "date_modified": "2026-08-13T18:31:59.000Z"
+        },
+        {
+            "id": 5039961,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3160761.d.html",
+            "title": "苹果公司向休斯顿工厂投资数亿美元，首批先进AI服务器已发货。",
+            "date_modified": "2026-08-13T18:30:36.000Z"
+        },
+        {
+            "id": 5039960,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4433264.d.html",
+            "title": "市场消息：苹果在休斯顿开设先进制造中心。",
+            "date_modified": "2026-08-13T18:30:25.000Z"
+        },
+        {
+            "id": 5039959,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3160574.d.html",
+            "title": "上期所原油期货夜盘收涨0.44%，报553.00元人民币/桶。沪金夜盘收跌1.24%，沪银收跌1.48%。",
+            "date_modified": "2026-08-13T18:30:02.000Z"
+        },
+        {
+            "id": 5039958,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4432653.d.html",
+            "title": "【XRG通过进军委内瑞拉推进全球天然气战略】阿布扎比国家石油公司（ADNOC）旗下XRG通过海上Loran许可证进入委内瑞拉。XRG将与BP、UCC共同持有该许可证的权益。XRG称该许可证包含超过4万亿立方英尺的已探明天然气资源。",
+            "date_modified": "2026-08-13T18:28:20.000Z"
+        },
+        {
+            "id": 5039957,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4431427.d.html",
+            "title": "市场消息：XRG进军委内瑞拉市场，推进其全球天然气战略。",
+            "date_modified": "2026-08-13T18:24:16.000Z"
+        },
+        {
+            "id": 5039956,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3158738.d.html",
+            "title": "市场消息：挪威海德鲁在达成天然气协议后提高巴西氧化铝产量。",
+            "date_modified": "2026-08-13T18:23:49.000Z"
+        },
+        {
+            "id": 5039955,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3158110.d.html",
+            "title": "【2026 XAIR Expo具身智能产业博览会9月在广州举行 数字华夏将携全系列人形机器人亮相】2026XAIRExpo具身智能产业博览会将深度协同第二十一届中国国际中小企业博览会（以下简称“中博会”），于9月3日至6日在广州广交会展馆D区举办。",
+            "date_modified": "2026-08-13T18:22:07.000Z"
+        },
+        {
+            "id": 5039954,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3157788.d.html",
+            "title": "美国地质调查局：麦夸里岛以西发生5.1级地震。",
+            "date_modified": "2026-08-13T18:21:03.000Z"
+        },
+        {
+            "id": 5039953,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4430298.d.html",
+            "title": "美国国家运输安全委员会：瑞安航空1879号航班发动机碎片击穿窗户。",
+            "date_modified": "2026-08-13T18:20:31.000Z"
+        },
+        {
+            "id": 5039952,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3157122.d.html",
+            "title": "阿根廷经济部长：美元贷款将降低比索利率。",
+            "date_modified": "2026-08-13T18:18:30.000Z"
+        },
+        {
+            "id": 5039951,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4429581.d.html",
+            "title": "市场消息：阿根廷允许银行将美元存款最高15%用于向企业放贷。",
+            "date_modified": "2026-08-13T18:18:07.000Z"
+        },
+        {
+            "id": 5039950,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4428908.d.html",
+            "title": "墨西哥央行将官方比索汇率定为17.0530比索兑1美元。",
+            "date_modified": "2026-08-13T18:15:40.000Z"
+        },
+        {
+            "id": 5039949,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffef9721937.d.html",
+            "title": "NTSB称，瑞安航空7月事故涉及的发动机曾在5月接受检查，当时未发现任何问题。",
+            "date_modified": "2026-08-13T18:11:44.000Z"
+        },
+        {
+            "id": 5039948,
+            "content_html": "",
+            "title": "达美航空夏季将每日使用空客A330-900执飞奥斯汀至巴黎戴高乐机场航线。",
+            "date_modified": "2026-08-13T18:09:36.000Z"
+        },
+        {
+            "id": 5039947,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffef9721116.d.html",
+            "title": "达美航空将于3月27日开通奥斯汀至巴黎的直飞航线。",
+            "date_modified": "2026-08-13T18:09:08.000Z"
+        },
+        {
+            "id": 5039946,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3153895.d.html",
+            "title": "美国独立机构NTSB称，在7月瑞安航空事件中，在发动机附近发现包括羽毛在内的鸟类残骸。",
+            "date_modified": "2026-08-13T18:08:21.000Z"
+        },
+        {
+            "id": 5039945,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffee2948260.d.html",
+            "title": "达美航空开通首条飞往巴黎的航线。",
+            "date_modified": "2026-08-13T18:07:30.000Z"
+        },
+        {
+            "id": 5039944,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3153513.d.html",
+            "title": "杰富瑞将Coherent目标价从每股375.00美元上调至420.00美元。",
+            "date_modified": "2026-08-13T18:07:15.000Z"
+        },
+        {
+            "id": 5039943,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3152642.d.html",
+            "title": "【联合国特使警告也门面临重新陷入大规模冲突风险】联合国秘书长也门问题特使汉斯·格伦德贝里当地时间13日向联合国安理会通报也门局势。格伦德贝里警告说，与2022年联合国斡旋促成停火以来相比，也门当前面临的重新陷入大规模冲突的风险“前所未有”。他指出，持续数年的相对平静局面，可能在短短数周的升级中付诸东流。（央视新闻）",
+            "date_modified": "2026-08-13T18:04:31.000Z"
+        },
+        {
+            "id": 5039942,
+            "content_html": "",
+            "title": "委内瑞拉石油部长称，该国与BP、阿联酋XRG及卡塔尔UCC就委内瑞拉洛兰气田签署协议。",
+            "date_modified": "2026-08-13T18:04:14.000Z"
+        },
+        {
+            "id": 5039941,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4423450.d.html",
+            "title": "【伊朗外交部再次谴责美以违反国际人道法】当地时间13日，在《日内瓦第四公约》通过77周年之际，伊朗外交部发表声明，谴责美国和以色列违反国际人道法，并呼吁国际社会采取行动，确保《日内瓦公约》得到遵守。伊朗外交部在声明中谴责以色列过去数年在巴勒斯坦、黎巴嫩和叙利亚实施违反国际人道法的行为，并称美国对以色列的支持进一步加剧了相关问题。（央视新闻）",
+            "date_modified": "2026-08-13T18:00:22.000Z"
+        },
+        {
+            "id": 5039940,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3150753.d.html",
+            "title": "以色列方面消息：美国海军上将呼吁对伊朗天然气、石油及电力基础设施重新发动打击。",
+            "date_modified": "2026-08-13T18:00:01.000Z"
+        },
+        {
+            "id": 5039939,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffee2945380.d.html",
+            "title": "沙特方面消息：也门胡塞武装用两枚弹道导弹袭击了位于曼德海峡附近的哈里基亚重要设施。",
+            "date_modified": "2026-08-13T17:59:03.000Z"
+        },
+        {
+            "id": 5039938,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4420785.d.html",
+            "title": "美国国家飓风中心：热带风暴拉拉已生成。",
+            "date_modified": "2026-08-13T17:54:02.000Z"
+        },
+        {
+            "id": 5039937,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3148092.d.html",
+            "title": "美国国家飓风中心：空军侦察机即将对拉拉热带风暴开展探测任务。",
+            "date_modified": "2026-08-13T17:53:38.000Z"
+        },
+        {
+            "id": 5039936,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4419036.d.html",
+            "title": "以色列军方称，周四在加沙击毙一名哈马斯指挥官。",
+            "date_modified": "2026-08-13T17:48:57.000Z"
+        },
+        {
+            "id": 5039935,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffee2941497.d.html",
+            "title": "纽约联储8月13日常备回购操作中，收到的20亿美元投标全部接纳。",
+            "date_modified": "2026-08-13T17:46:54.000Z"
+        },
+        {
+            "id": 5039934,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3145342.d.html",
+            "title": "土耳其外交部长表示，土耳其位于地中海以北，埃及位于以南，这种联盟“正划出一条直线穿过中间”，有着明确的目的，而土耳其自己的联盟并非针对任何国家，而是旨在建立合作框架并确立威慑力。",
+            "date_modified": "2026-08-13T17:45:34.000Z"
+        },
+        {
+            "id": 5039933,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffef9713342.d.html",
+            "title": "土耳其外交部长表示，当被问及是否在该地区针对土耳其正在形成其他联盟时，他回答“是的，有”，并指出，在麦加联盟签署之前，以色列、希腊塞浦路斯当局和希腊已在东地中海建立了安全联盟。",
+            "date_modified": "2026-08-13T17:45:17.000Z"
+        },
+        {
+            "id": 5039932,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffcy4416956.d.html",
+            "title": "PLACER.AI数据：8月3日当周TACO BELL客流量下降8%，而7月中旬降幅接近20%。",
+            "date_modified": "2026-08-13T17:43:12.000Z"
+        },
+        {
+            "id": 5039931,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3143433.d.html",
+            "title": "【第二艘超级油轮现身沙特主要石油出口码头 装船活动或在回升】第二艘超级油轮似乎已停靠沙特位于波斯湾的主要石油出口码头，进一步显示该枢纽的装船活动可能正在回升。与此同时，沙特经红海的替代运输路线正面临威胁。欧盟“哨兵2号”卫星周四拍摄的图像显示，又一艘超大型原油运输船停靠在朱艾迈的一处单点系泊设施。此类油轮可装载约200万桶原油。朱艾迈码头是大型拉斯坦努拉石油出口设施的一部分。附近一处周二曾停靠另一艘油轮的系泊设施目前已经空出。",
+            "date_modified": "2026-08-13T17:40:54.000Z"
+        },
+        {
+            "id": 5039930,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-ininffec3142781.d.html",
+            "title": "【美国股债相关性创30年来新高，达到互联网泡沫破裂前几年的水平】美国国债与股票回报率的三个月相关性升至1997年以来最高水平，以120天衡量的相关性更突破50%，这是上世纪90年代末互联网泡沫破裂前几年才出现过的水平，反映通胀升温再次打破传统股债负相关关系。分析认为，通胀若持续高企并推动市场重新押注美联储加息，将同时压低债券价格和股票估值，对“60/40”投资组合构成风险。不过，花旗研究指出，历史数据显示，高名义收益率本身并不会压制标普500指数表现，真正值得警惕的是收益率快速上行。随着就业和通胀数据走弱，以及美联储主席凯文·沃什政策基调偏鸽，利率急剧上行的风险有所下降，强劲企业盈利也为股市提供缓冲。",
+            "date_modified": "2026-08-13T17:39:20.000Z"
+        },
+        {
+            "id": 5039929,
+            "content_html": "",
+            "title": "德意志银行将德赛西威评级上调至持有；目标价93元人民币。",
+            "date_modified": "2026-08-13T17:36:44.000Z"
+        },
+        {
+            "id": 5039928,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3067209.d.html",
+            "title": "美国参议员沃伦要求小罗伯特·肯尼迪详细说明联邦对环孢子虫疫情的应对措施。",
+            "date_modified": "2026-08-13T17:31:40.000Z"
+        },
+        {
+            "id": 5039927,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3270446.d.html",
+            "title": "KNDS称意大利工厂无人员受伤，事故原因正在调查。",
+            "date_modified": "2026-08-13T17:30:32.000Z"
+        },
+        {
+            "id": 5039926,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3269954.d.html",
+            "title": "【美防长称可无限期封锁伊朗】美国国防部长赫格塞思8月13日表示，美军拥有足够资源对伊朗实施“无限期”的海上封锁，并可根据需要轮换部署在该地区的舰船。赫格塞思对媒体称：“美国海军完全有能力维持此类封锁，想封多久就封多久。我们将像此前那样，持续轮换部署的舰船。”（CCTV国际时讯）",
+            "date_modified": "2026-08-13T17:28:55.000Z"
+        },
+        {
+            "id": 5039925,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3269245.d.html",
+            "title": "Rumo首席财务官表示，预计第三季度价格将同比保持稳定，第四季度将上涨。",
+            "date_modified": "2026-08-13T17:26:35.000Z"
+        },
+        {
+            "id": 5039924,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4539908.d.html",
+            "title": "【上期所基本金属夜盘多数下跌，不锈钢跌0.94%】国际铜涨0.10%，沪铜跌0.03%，沪铝跌0.62%，沪锌跌0.12%，沪铅跌0.81%，沪镍跌0.88%，沪锡涨0.07%；氧化铝跌0.07%，铝合金跌0.79%。",
+            "date_modified": "2026-08-13T17:21:02.000Z"
+        },
+        {
+            "id": 5039923,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3265707.d.html",
+            "title": "纽约联储8月13日接受逆回购工具提交的4.5亿美元全额投标。",
+            "date_modified": "2026-08-13T17:16:00.000Z"
+        },
+        {
+            "id": 5039922,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywi9834976.d.html",
+            "title": "Rumo首席财务官表示，由于公司专注于从现有资产中挖掘价值，2027年的投资规模将低于2026年。",
+            "date_modified": "2026-08-13T17:15:12.000Z"
+        },
+        {
+            "id": 5039921,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3265413.d.html",
+            "title": "市场消息：PSP投资公司披露持有10万股SpaceX股份。",
+            "date_modified": "2026-08-13T17:15:07.000Z"
+        },
+        {
+            "id": 5039920,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4537365.d.html",
+            "title": "【美军着手组建中东多国无人机特遣队】当地时间8月13日，美军中央司令部宣布着手组建史上首支“多域、多国攻击无人机特遣队”。该部队名为“猎鹰打击特遣队”，将配备自杀式攻击无人机，整合空中、海面以及水下无人作战装备，由美国及地区伙伴国的军事保障人员操作。 此次“猎鹰打击”的启动，距离美军中央司令部成立“蝎子打击特遣队”——美军在中东地区首支专门的攻击无人机中队——已过去九个月。（CCTV国际时讯）",
+            "date_modified": "2026-08-13T17:13:03.000Z"
+        },
+        {
+            "id": 5039919,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3263995.d.html",
+            "title": "ZOETIS公司股价因其治疗螺旋蝇药物获得紧急使用授权而上涨。",
+            "date_modified": "2026-08-13T17:11:01.000Z"
+        },
+        {
+            "id": 5039918,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3263707.d.html",
+            "title": "【美法官驳回特朗普政府针对哈佛大学的诉讼】当地时间8月13日，美国马萨诸塞州地区法院法官理查德·斯特恩斯驳回特朗普政府针对哈佛大学提起的诉讼。该诉讼指控哈佛大学未能保护犹太和以色列学生免受骚扰。斯特恩斯在裁决中表示，特朗普政府今年3月提起的诉讼未能合理证明哈佛大学校园内目前仍存在违反联邦民权法的行为。（央视新闻）",
+            "date_modified": "2026-08-13T17:10:13.000Z"
+        },
+        {
+            "id": 5039917,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3263284.d.html",
+            "title": "市场消息：ANTHROPIC首席财务官克里希纳·拉奥正牵头与投资者进行早期IPO会议，尚未讨论估值事宜。",
+            "date_modified": "2026-08-13T17:08:42.000Z"
+        },
+        {
+            "id": 5039916,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3059945.d.html",
+            "title": "市场消息：美国食品药品监督管理局授予药物紧急使用授权，用于治疗犬类新世界螺旋蝇感染。",
+            "date_modified": "2026-08-13T17:06:45.000Z"
+        },
+        {
+            "id": 5039915,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4535036.d.html",
+            "title": "谷歌：GEMINI SPARK 从今天起将使用 GEMINI 3.7 Flash。",
+            "date_modified": "2026-08-13T17:06:14.000Z"
+        },
+        {
+            "id": 5039914,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4534059.d.html",
+            "title": "市场消息：CEREBRAS因与OPENAI合作而减少损失。",
+            "date_modified": "2026-08-13T17:03:27.000Z"
+        },
+        {
+            "id": 5039913,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3261293.d.html",
+            "title": "美国30年期国债拍卖收益率创2001年以来新高。",
+            "date_modified": "2026-08-13T17:03:04.000Z"
+        },
+        {
+            "id": 5039912,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3261183.d.html",
+            "title": "美国30年期国债收益率下降5.216%，低于预售时的5.212%。",
+            "date_modified": "2026-08-13T17:02:36.000Z"
+        },
+        {
+            "id": 5039911,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3058660.d.html",
+            "title": "市场消息：Anthropic首席财务官的相关会议并未涉及估值谈判。",
+            "date_modified": "2026-08-13T17:02:31.000Z"
+        },
+        {
             "id": 5039910,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4533371.d.html",
@@ -182,518 +691,6 @@
             "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4519056.d.html",
             "title": "哥伦比亚灾害管理部门称，地震死亡人数升至273人，仍有377人失踪。",
             "date_modified": "2026-08-13T16:27:04.000Z"
-        },
-        {
-            "id": 5039884,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3046907.d.html",
-            "title": "加拿大主要产粮省份萨斯喀彻温省省长斯科特·莫伊就加美贸易谈判表示，我们需要保持更广泛的目标，即审查并更新《美墨加协定》。",
-            "date_modified": "2026-08-13T16:26:49.000Z"
-        },
-        {
-            "id": 5039883,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3245948.d.html",
-            "title": "【英国一客运列车脱轨】当地时间8月13日下午，英国东萨塞克斯郡的刘易斯火车站附近发生客运列车脱轨事故。警方、急救人员及消防队已赶赴现场处置。目前尚未确认人员伤亡情况及事故具体原因。 位于刘易斯镇‌的这处火车站是英国南部铁路网络中的重要站点，主要服务于‌英国南方铁路公司‌运营的线路。英国铁路网公司及南方铁路公司表示已知悉脱轨事故，将在获取更多信息后及时公布。（CCTV国际时讯）",
-            "date_modified": "2026-08-13T16:25:33.000Z"
-        },
-        {
-            "id": 5039882,
-            "content_html": "",
-            "title": "【以军空袭打死加沙市警察局长】当地时间13日，巴勒斯坦加沙地带内政部门发表声明说，以色列军方在加沙城西南沿海的拉希德公路空袭了加沙市警察局长阿布·卡米勒的车辆，致其身亡。当地消息人士和目击者称，以战机向该车辆发射3枚导弹，阿布·卡米勒当场身亡，另有3人受伤，车辆被完全摧毁。（央视新闻）",
-            "date_modified": "2026-08-13T16:20:01.000Z"
-        },
-        {
-            "id": 5039881,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4515301.d.html",
-            "title": "钯金期货日内跌4%，现报1318.54美元/盎司。",
-            "date_modified": "2026-08-13T16:18:20.000Z"
-        },
-        {
-            "id": 5039880,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4515169.d.html",
-            "title": "纽约期金失守4410美元/盎司，日内跌1.33%。",
-            "date_modified": "2026-08-13T16:17:57.000Z"
-        },
-        {
-            "id": 5039879,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3043263.d.html",
-            "title": "市场消息，意大利部长乌尔索预计西西里岛将迎来数据中心投资。",
-            "date_modified": "2026-08-13T16:16:42.000Z"
-        },
-        {
-            "id": 5039878,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4514420.d.html",
-            "title": "消息人士称，底特律汽车制造商将向白宫表示，修订后的北美贸易协定可能令它们损失数十亿美元。",
-            "date_modified": "2026-08-13T16:16:05.000Z"
-        },
-        {
-            "id": 5039877,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3241330.d.html",
-            "title": "市场消息：沙特阿拉伯国防部长会见伊拉克武装部队总司令办公室主任，讨论军事和防务领域的关系。",
-            "date_modified": "2026-08-13T16:15:03.000Z"
-        },
-        {
-            "id": 5039876,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3241212.d.html",
-            "title": "市场消息：穆迪拟将秘鲁2026年GDP增长预估从3.0%上调至3.5%。",
-            "date_modified": "2026-08-13T16:14:44.000Z"
-        },
-        {
-            "id": 5039875,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywh3042035.d.html",
-            "title": "【Citadel甚至对部分分析师也施加了为期两年的竞业禁止协议】Ken Griffin 的 Citadel 公司要求投资人员（包括一些分析师）签署长达两年的竞业禁止协议。员工的竞业禁止期与员工的总薪酬挂钩，投资组合经理或分析师的收入越高，竞业禁止期就越长。该公司的竞业禁止协议可能会对员工的职业生涯产生影响，一位招聘人员表示，被禁赛两年“实际上会毁掉他们的职业生涯”。",
-            "date_modified": "2026-08-13T16:13:16.000Z"
-        },
-        {
-            "id": 5039874,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4512318.d.html",
-            "title": "【为月球正反面差异提供科学证据 嫦娥六号月壤研究取得新进展】记者近日从自然资源部中国地质调查局了解到，中国地质科学院地质研究所研究团队对嫦娥六号月壤样品的研究取得新进展，为破解月球正反面存在巨大差异的谜题提供了新证据。（央视新闻）",
-            "date_modified": "2026-08-13T16:11:05.000Z"
-        },
-        {
-            "id": 5039873,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3238160.d.html",
-            "title": "墨西哥主要股指下跌1%。",
-            "date_modified": "2026-08-13T16:07:00.000Z"
-        },
-        {
-            "id": 5039872,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4510307.d.html",
-            "title": "【也门胡塞武装称使用无人机袭击沙特炼油厂】也门胡塞武装13日称，该组织当天使用无人机袭击了位于沙特阿拉伯西南部吉赞地区的一座沙特阿美公司炼油厂。据胡塞武装控制的萨巴通讯社消息，胡塞武装使用两架无人机袭击这座炼油厂，袭击非常“精准”。本月9日，也门胡塞武装表示，该组织使用无人机对位于吉赞的沙特阿美公司炼油厂发动了“精准打击”。（央视新闻）",
-            "date_modified": "2026-08-13T16:05:35.000Z"
-        },
-        {
-            "id": 5039871,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4509915.d.html",
-            "title": "OPENAI：Denise Dresser将在过渡期结束后离开OPENAI，寻求其他发展机会。",
-            "date_modified": "2026-08-13T16:04:39.000Z"
-        },
-        {
-            "id": 5039870,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywi9811428.d.html",
-            "title": "OPENAI：还与CHAD PEETS和RPT PARTNERS建立了战略合作伙伴关系。",
-            "date_modified": "2026-08-13T16:03:30.000Z"
-        },
-        {
-            "id": 5039869,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3236384.d.html",
-            "title": "OPENAI任命DALI RAJIC为首席营收官。",
-            "date_modified": "2026-08-13T16:02:47.000Z"
-        },
-        {
-            "id": 5039868,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3236264.d.html",
-            "title": "【私募信贷上演“抢盐大战”：“什么都行，就是别碰软件”】一份最近在业内流传的、带有调侃意味的私募信贷术语表中，通常代表资产支持证券(asset-backed securities)的缩写ABS，被戏称为“Anything But Software” —— “什么都行，就是别碰软件”。软件公司曾经是市场宠儿，如今却备受冷落，因为人工智能可能彻底颠覆它们的商业模式。虽然大量融资活动已经转向支持AI基础设施建设热潮，但重资产、传统经济企业也越来越受到私募信贷市场青睐。以American Rock Salt为例，这家公司开采和销售道路用盐以及其他氯化钠产品。尽管其信用评级属于垃圾级，贷款机构目前却在激烈争抢这笔生意。",
-            "date_modified": "2026-08-13T16:02:31.000Z"
-        },
-        {
-            "id": 5039867,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywf3235055.d.html",
-            "title": "市场消息：美国抵押贷款利率六周来首次小幅回落。",
-            "date_modified": "2026-08-13T16:00:35.000Z"
-        },
-        {
-            "id": 5039866,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-14/detail-inineywa4507481.d.html",
-            "title": "房地美：截至8月13日当周，美国30年期固定抵押贷款平均利率为6.67%，前一周为6.69%。",
-            "date_modified": "2026-08-13T16:00:20.000Z"
-        },
-        {
-            "id": 5039865,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4506917.d.html",
-            "title": "洲际交易所9月柴油期货结算价为每吨1250.75美元。",
-            "date_modified": "2026-08-13T15:58:11.000Z"
-        },
-        {
-            "id": 5039864,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4506360.d.html",
-            "title": "利比亚国家石油公司负责人：苏尔特石油公司已将哈蒂巴油田的一口新气井投产，日增天然气产能500万立方英尺。",
-            "date_modified": "2026-08-13T15:56:13.000Z"
-        },
-        {
-            "id": 5039863,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4506097.d.html",
-            "title": "市场消息：OpenAI不到一年便聘任新任首席营收官。",
-            "date_modified": "2026-08-13T15:55:23.000Z"
-        },
-        {
-            "id": 5039862,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywh3035906.d.html",
-            "title": "【也门政府军基地遭胡塞武装袭击 致3死15伤】也门政府军一名消息人士13日对记者说，胡塞武装当天使用无人机袭击了也门东南部哈德拉毛省一处政府军基地，造成至少3名政府军士兵死亡、15人受伤。（新华社）",
-            "date_modified": "2026-08-13T15:54:07.000Z"
-        },
-        {
-            "id": 5039861,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4505577.d.html",
-            "title": "CEREBRAS首席执行官表示，市场对AMD联合产品的需求巨大。",
-            "date_modified": "2026-08-13T15:53:30.000Z"
-        },
-        {
-            "id": 5039860,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4504642.d.html",
-            "title": "CEREBRAS首席执行官：公司业务将以惊人的速度增长。数据中心对所有人来说都是一个挑战。",
-            "date_modified": "2026-08-13T15:50:52.000Z"
-        },
-        {
-            "id": 5039859,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3231444.d.html",
-            "title": "【荷兰警方确认鹿特丹港爆炸系工作事故】荷兰鹿特丹警方13日初步确认，当天发生在鹿特丹港一家能源公司厂区的爆炸属于工作事故。警方在声明中说，目前来看爆炸是一起工作事故。荷兰社会事务与就业部将对事故进行继续调查，并负责处理后续事宜。（新华社）",
-            "date_modified": "2026-08-13T15:49:01.000Z"
-        },
-        {
-            "id": 5039858,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywh3033829.d.html",
-            "title": "巴西国家统计局表示，部分客户没有可用的数据中心。",
-            "date_modified": "2026-08-13T15:47:13.000Z"
-        },
-        {
-            "id": 5039857,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywh3033412.d.html",
-            "title": "市场消息：美国在伊朗战争中损失了约25%的“死神”无人机。",
-            "date_modified": "2026-08-13T15:46:04.000Z"
-        },
-        {
-            "id": 5039856,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3230101.d.html",
-            "title": "智利中央银行以平均每份913.00智利比索的价格卖出7300万美元外汇远期合约。",
-            "date_modified": "2026-08-13T15:45:28.000Z"
-        },
-        {
-            "id": 5039855,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3229721.d.html",
-            "title": "【伊朗最高领袖顾问：若条件得不到满足 或升级冲突】伊朗最高领袖顾问穆赫贝尔13日在社交媒体上发文说，如果伊朗提出的条件得不到满足，最高领袖已明确作出战略决策，将采取升级冲突的方式予以回应。穆赫贝尔说，当前局势已证明美国缺乏保护其波斯湾盟友的能力。他还表示，建立地区新秩序最为持久的路径，在于推动实施“霍尔木兹经济安全机制”，以摆脱对美国军事保障的依赖。（新华社）",
-            "date_modified": "2026-08-13T15:44:38.000Z"
-        },
-        {
-            "id": 5039854,
-            "content_html": "",
-            "title": "【亿万富豪阿克曼旗下Pershing将推出首支风险投资基金 押注IPO前企业】对冲基金亿万富豪比尔·阿克曼旗下投资公司正在筹备一项新的投资工具，让投资者能够投资首次公开募股（IPO）前的公司，成为又一家推出新基金、为投资者提供高增长初创企业投资敞口的公司。阿克曼和公司首席投资官Ryan Israel周三在致股东信中表示，Pershing Square Inc.已启动Pershing Square Ventures Ltd.基金的筹备工作。这是一种常青型永久资本投资工具，在所投企业上市后仍可继续持有其股份。",
-            "date_modified": "2026-08-13T15:43:57.000Z"
-        },
-        {
-            "id": 5039853,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4501579.d.html",
-            "title": "【美媒：美国将向中东部署“华盛顿”号航母】美国《华尔街日报》13日援引美官员的话报道，美国正准备将“乔治·华盛顿”号航母部署到中东，以替换“亚伯拉罕·林肯”号航母。（新华社）",
-            "date_modified": "2026-08-13T15:42:55.000Z"
-        },
-        {
-            "id": 5039852,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4501306.d.html",
-            "title": "【尼泊尔西部发生山体滑坡 已致10人死亡】近日，尼泊尔西部罗尔帕地区连降暴雨并引发山体滑坡。当地警方表示，截至当地时间13日，灾害已造成至少10人死亡。当地警方通报称，此次山体滑坡掩埋了多栋建筑。救援人员和医疗卫生工作组已赶赴灾区现场。（央视新闻）",
-            "date_modified": "2026-08-13T15:42:20.000Z"
-        },
-        {
-            "id": 5039851,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4500902.d.html",
-            "title": "洲际交易所英国9月天然气期货结算价为148.48便士/撒姆。",
-            "date_modified": "2026-08-13T15:41:26.000Z"
-        },
-        {
-            "id": 5039850,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4500358.d.html",
-            "title": "闪迪高管称公司预计明年向客户交付首批用于推理设备的HBF样品。",
-            "date_modified": "2026-08-13T15:40:12.000Z"
-        },
-        {
-            "id": 5039849,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3227199.d.html",
-            "title": "闪迪高管称公司已完成首款高带宽闪存芯片的流片。",
-            "date_modified": "2026-08-13T15:38:52.000Z"
-        },
-        {
-            "id": 5039848,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4499192.d.html",
-            "title": "【工业旅游市场有望突破3000亿元】七部门出台政策扶持工业旅游，开放产线观摩、手工体验等多元业态。2025年国内工业旅游总收入1200亿元，同比增长10%。研究机构预测，中国工业旅游年均增速达18%，2029年市场有望突破3000亿元，产业增长空间广阔。（央视财经）",
-            "date_modified": "2026-08-13T15:37:23.000Z"
-        },
-        {
-            "id": 5039847,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4498919.d.html",
-            "title": "巴西CSN公司首席财务官称，该公司仍在为旗下钢铁业务分析战略可能性，这些可能性\"将提升该业务的现金创造能力\"。",
-            "date_modified": "2026-08-13T15:36:44.000Z"
-        },
-        {
-            "id": 5039846,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3226056.d.html",
-            "title": "【报道称AMD拟通过债券发行融资高达50亿美元】据报道，AMD拟通过债券发行融资高达50亿美元，或为该公司史上最大规模投资级债券发行，加入AI热潮驱动的企业发债浪潮。据知情人士透露，此次发行的最终规模尚未确定，可能根据需求进行调整。另一位知情人士表示，AMD将分四批发行票据，期限从3年到10年不等。最长期限品种的初始价格指引为较美国国债收益率溢价1.15个百分点。",
-            "date_modified": "2026-08-13T15:36:01.000Z"
-        },
-        {
-            "id": 5039845,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3226041.d.html",
-            "title": "【高争民爆：上半年净利润同比下降53.11%】高争民爆公告显示，2026年上半年营业收入7.32亿元，同比下降5.16%；净利润3245.04万元，同比下降53.11%。其中，第二季度净利润环比第一季度增长142%。",
-            "date_modified": "2026-08-13T15:35:53.000Z"
-        },
-        {
-            "id": 5039844,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3226019.d.html",
-            "title": "市场消息：马克·沃尔特质押古根海姆股份，用以快速获取贷款。",
-            "date_modified": "2026-08-13T15:35:46.000Z"
-        },
-        {
-            "id": 5039843,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3225636.d.html",
-            "title": "【高盛副董事长称美联储7月未加息绝对正确 或可“拖一拖”观察更多信号】高盛集团副董事长、前达拉斯联储银行行长Robert Kaplan表示，美联储7月没有加息“绝对”是正确的决定，并呼吁决策者在9月前保持开放态度。Kaplan认为，当前推升和压低通胀的力量相互交织，过于僵化的前瞻指引反而可能适得其反。“如果我看到有切实的改善，我可能愿意拖一拖，什么都不做，”Kaplan表示。“但在作出判断前，我希望充分利用从现在到9月的每一点时间，避免过于僵化或提前确定立场。”",
-            "date_modified": "2026-08-13T15:34:44.000Z"
-        },
-        {
-            "id": 5039842,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4497932.d.html",
-            "title": "市场消息：美国大使馆称已在墨西哥米却肯州恢复相关活动。",
-            "date_modified": "2026-08-13T15:34:05.000Z"
-        },
-        {
-            "id": 5039841,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4497642.d.html",
-            "title": "【华盛顿号赴中东换防 林肯号舰员身心俱疲遭议员问责】据报道，知情美国官员称，美国正准备按此前计划好的轮换方案，派遣“华盛顿”号航空母舰前往中东接替“林肯”号。“林肯”号已执行了漫长的部署任务，停靠港口次数极少，引发国会议员对舰上生活条件的担忧。“林肯”号于去年11月开始按计划部署，并于今年1月在对伊开战前被调往中东。该航母及其搭载的飞机在美国“史诗之怒”轰炸行动中发挥了关键作用，此后还参与了美国对伊朗港口的封锁。据国会议员称，高强度的作战节奏和长时间部署带来的压力已令舰员不堪重负。他们正向五角大楼施压，要求提供更多关于舰上生活条件和心理健康问题的信息。",
-            "date_modified": "2026-08-13T15:33:10.000Z"
-        },
-        {
-            "id": 5039840,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224839.d.html",
-            "title": "市场消息：美国八周期国库券的投标/承销比率为2.85，高于上一次拍卖的2.74。",
-            "date_modified": "2026-08-13T15:32:29.000Z"
-        },
-        {
-            "id": 5039839,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywi9800708.d.html",
-            "title": "市场消息：新的航空母舰将取代林肯号航母。",
-            "date_modified": "2026-08-13T15:31:24.000Z"
-        },
-        {
-            "id": 5039838,
-            "content_html": "",
-            "title": "欧洲STOXX指数上涨0.18%；欧元区蓝筹股上涨0.16%。",
-            "date_modified": "2026-08-13T15:31:09.000Z"
-        },
-        {
-            "id": 5039837,
-            "content_html": "",
-            "title": "法国CAC 40指数下跌0.29%；西班牙IBEX指数下跌0.1%。",
-            "date_modified": "2026-08-13T15:31:04.000Z"
-        },
-        {
-            "id": 5039836,
-            "content_html": "",
-            "title": "英国富时100指数下跌0.69%；德国DAX指数下跌0.15%。",
-            "date_modified": "2026-08-13T15:31:00.000Z"
-        },
-        {
-            "id": 5039835,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224299.d.html",
-            "title": "市场消息：美国法官驳回特朗普政府指控哈佛大学未能保护犹太学生的诉讼。",
-            "date_modified": "2026-08-13T15:30:43.000Z"
-        },
-        {
-            "id": 5039834,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224260.d.html",
-            "title": "闪迪高管称，Meta将加入联盟，共同制定高带宽闪存开放标准。",
-            "date_modified": "2026-08-13T15:30:34.000Z"
-        },
-        {
-            "id": 5039833,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224196.d.html",
-            "title": "京东在美国上市的股票跌幅扩大，最新下跌7.9%。",
-            "date_modified": "2026-08-13T15:30:26.000Z"
-        },
-        {
-            "id": 5039832,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3224009.d.html",
-            "title": "纳斯达克中国金龙指数跌超2%，京东跌7.87%，盛丰物流跌6.28%，中比能源跌4.81%，Tims中国跌4.71%，满帮跌4.64%。",
-            "date_modified": "2026-08-13T15:29:51.000Z"
-        },
-        {
-            "id": 5039831,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4496420.d.html",
-            "title": "英国央行货币政策委员会委员就英国GDP数据发表看法：这朝着让我确信我们并未陷入急剧衰退的方向发展。",
-            "date_modified": "2026-08-13T15:29:16.000Z"
-        },
-        {
-            "id": 5039830,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywf3223644.d.html",
-            "title": "市场消息：美国将向中东派遣新型航空母舰。",
-            "date_modified": "2026-08-13T15:28:31.000Z"
-        },
-        {
-            "id": 5039829,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywi9799308.d.html",
-            "title": "柴油裂解价差<HOc1-CLc1>升至每桶98美元上方，创历史新高，此前有报道称也门胡塞武装袭击了沙特阿拉伯的阿美炼油厂。",
-            "date_modified": "2026-08-13T15:26:42.000Z"
-        },
-        {
-            "id": 5039828,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4494893.d.html",
-            "title": "闪迪(SNDK.O)持续走高，涨幅扩大至15%。",
-            "date_modified": "2026-08-13T15:24:39.000Z"
-        },
-        {
-            "id": 5039827,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4494626.d.html",
-            "title": "市场消息：AMD拟通过发债募资至多50亿美元。",
-            "date_modified": "2026-08-13T15:24:10.000Z"
-        },
-        {
-            "id": 5039826,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4493314.d.html",
-            "title": "美国国防部长赫格塞思称，关于“亚伯拉罕·林肯”号航母上状况的报道存在失实陈述。",
-            "date_modified": "2026-08-13T15:21:08.000Z"
-        },
-        {
-            "id": 5039825,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4493006.d.html",
-            "title": "美国原油期货<CLc1>和布兰特原油期货<LCOc1>缩减跌幅，下跌1美元，此前有报导称，胡塞武装用两架无人机袭击了沙特阿美在吉赞的炼油厂。",
-            "date_modified": "2026-08-13T15:20:23.000Z"
-        },
-        {
-            "id": 5039824,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywi9796899.d.html",
-            "title": "美国国防部长赫格塞思就伊朗问题表态：美国可根据需要长时间实施封锁。",
-            "date_modified": "2026-08-13T15:19:47.000Z"
-        },
-        {
-            "id": 5039823,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineywa4492516.d.html",
-            "title": "哥伦比亚Cerrejon煤矿称，周四早些时候其位于拉瓜希拉省的铁路基础设施遭袭，未接获人员伤亡报告。",
-            "date_modified": "2026-08-13T15:19:00.000Z"
-        },
-        {
-            "id": 5039822,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqe4622836.d.html",
-            "title": "欧洲斯托克600指数<.STOXX>转跌，最新报跌0.03%。",
-            "date_modified": "2026-08-13T15:17:11.000Z"
-        },
-        {
-            "id": 5039821,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqi3349106.d.html",
-            "title": "闪迪股价涨幅超过10%。",
-            "date_modified": "2026-08-13T15:13:53.000Z"
-        },
-        {
-            "id": 5039820,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqi3349059.d.html",
-            "title": "市场消息：飞利浦发现并遏制了一次网络安全入侵企图。",
-            "date_modified": "2026-08-13T15:13:43.000Z"
-        },
-        {
-            "id": 5039819,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqi3348848.d.html",
-            "title": "市场消息：英国首相顾问就布里斯托尔并购案联系阿斯利康。",
-            "date_modified": "2026-08-13T15:13:11.000Z"
-        },
-        {
-            "id": 5039818,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqk3153176.d.html",
-            "title": "杰富瑞将加拿大航空目标价从26加元上调至31加元。",
-            "date_modified": "2026-08-13T15:12:32.000Z"
-        },
-        {
-            "id": 5039817,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqe4620928.d.html",
-            "title": "【AI安全攻防测评 国内高校团队低成本位列全球第二】8月13日，记者获悉，国际AI安全基准测试平台CyberGym发布最新榜单，复旦大学团队研发的白泽智能体Whitzard以91.2%的真实漏洞攻防成功率位列全球第二、高校第一，超过Anthropic面向网络安全打造的前沿模型Claude Mythos，以及微软、Google旗下Wiz等国际头部团队。该测试覆盖188个大型开源项目的1507个真实漏洞，要求智能体在完整代码库中自主完成漏洞定位、攻击构造和验证。（央视新闻）",
-            "date_modified": "2026-08-13T15:11:57.000Z"
-        },
-        {
-            "id": 5039816,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqi3347719.d.html",
-            "title": "【惠誉：美国私募信贷违约率7月升至纪录新高】惠誉评级周四发布报告称，其追踪的1300家美国私募信贷借款人的违约率在7月升至纪录新高。惠誉自2024年8月开始追踪该数据，按过去12个月滚动计算，这一借款人群体的违约率7月升至6.1%，高于6月的6%。对于惠誉为保险公司提供私募评级的300家发行人，违约率则由6月的9.4%降至7月的8.6%。在上述1300家私募信贷借款人中，惠誉7月记录了3起私募信贷违约事件，涉及1家新增违约借款人和2家再次违约借款人。截至2026年7月的12个月，有83家借款人发生违约，合计触发105起违约事件。",
-            "date_modified": "2026-08-13T15:10:41.000Z"
-        },
-        {
-            "id": 5039815,
-            "content_html": "",
-            "title": "赫兹全球股价下跌高达13%，创6月以来最大跌幅。",
-            "date_modified": "2026-08-13T15:09:23.000Z"
-        },
-        {
-            "id": 5039814,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqi3346781.d.html",
-            "title": "标普：网络安全提供商SOPHOS因再融资风险被列入负面信用观察名单。",
-            "date_modified": "2026-08-13T15:08:56.000Z"
-        },
-        {
-            "id": 5039813,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqi3346532.d.html",
-            "title": "也门胡塞武装称，该组织用两架无人机袭击了沙特阿拉伯吉赞的阿美炼油厂。",
-            "date_modified": "2026-08-13T15:08:21.000Z"
-        },
-        {
-            "id": 5039811,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqe4618158.d.html",
-            "title": "闪迪股价涨幅进一步扩大，最新上涨6.3%。",
-            "date_modified": "2026-08-13T15:05:26.000Z"
-        },
-        {
-            "id": 5039810,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-08-13/detail-inineuqk3150166.d.html",
-            "title": "闪迪：预计将把全部超额现金返还给股东。",
-            "date_modified": "2026-08-13T15:04:09.000Z"
         }
     ]
 }

@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 15 Aug 2026 16:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 17:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[布伦特原油暗盘跌破86美元，日内跌超0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmpac1952591.d.html</link>
+            <guid>5042407</guid>
+            <pubDate>Sat, 15 Aug 2026 16:59:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月16日00时25分在印尼托米尼湾（北纬0.20度，东经120.25度）发生5.9级地震，震源深度80千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmpaf8362392.d.html</link>
+            <guid>5042406</guid>
+            <pubDate>Sat, 15 Aug 2026 16:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼中苏拉威西省附近海域发生6.2级地震】据印尼气象、气候和地球物理局发布的报告，当地时间8月15日23时25分，印尼中苏拉威西省附近海域发生6.2级地震， 震源深度44公里。预计不会有海啸风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmpac1944264.d.html</link>
+            <guid>5042405</guid>
+            <pubDate>Sat, 15 Aug 2026 16:36:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网正式测定：08月16日00时07分在四川眉山市仁寿县（北纬29.77度，东经104.25度）发生2.8级地震，震源深度7千米。]]></title>
             <link>https://finance.sina.cn/7x24/2026-08-16/detail-ininmpaf8352957.d.html</link>
@@ -588,24 +606,6 @@
             <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmani2061946.d.html</link>
             <guid>5042277</guid>
             <pubDate>Sat, 15 Aug 2026 10:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【魏牌V8X上市：搭载双VLA原生AI舱驾智能体，限时权益价22.68万元】魏牌旗下五座旗舰SUV车型V8X正式上市，共有运动版Max、运动版Ultra、豪华家庭版Max、豪华家庭版Ultra、豪华家庭版Ultra+5个版本，限时权益价22.68万-30.28万元起。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3333662.d.html</link>
-            <guid>5042276</guid>
-            <pubDate>Sat, 15 Aug 2026 10:49:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列对黎巴嫩南部袭击造成死亡人数升至九人。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3330071.d.html</link>
-            <guid>5042275</guid>
-            <pubDate>Sat, 15 Aug 2026 10:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋强调，必须确保伊朗完全致力于停止一切敌对行动，并全面、无条件地重新开放霍尔木兹海峡。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-08-15/detail-ininmane3328481.d.html</link>
-            <guid>5042274</guid>
-            <pubDate>Sat, 15 Aug 2026 10:38:52 GMT</pubDate>
         </item>
     </channel>
 </rss>

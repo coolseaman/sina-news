@@ -6,6 +6,689 @@
     "description": "新浪全球实时财经新闻直播",
     "items": [
         {
+            "id": 5090369,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5430503.d.html",
+            "title": "刚果（金）称埃博拉疫情已扩散至南乌班吉省。",
+            "date_modified": "2026-09-11T20:30:45.000Z"
+        },
+        {
+            "id": 5090364,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8657602.d.html",
+            "title": "政府数据显示，刚果埃博拉死亡确诊病例已超7000例。",
+            "date_modified": "2026-09-11T20:29:27.000Z"
+        },
+        {
+            "id": 5090362,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5429604.d.html",
+            "title": "康宁股价在达成股权分配协议后盘后下跌3%。",
+            "date_modified": "2026-09-11T20:26:37.000Z"
+        },
+        {
+            "id": 5090360,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5429501.d.html",
+            "title": "【国际油价11日下跌】截至当天收盘，纽约商品交易所10月交货的轻质原油期货价格下跌2.43美元，收于每桶100.05美元，跌幅为2.37%；11月交货的伦敦布伦特原油期货价格下跌3.02美元，收于每桶104.61美元，跌幅为2.81%。",
+            "date_modified": "2026-09-11T20:26:20.000Z"
+        },
+        {
+            "id": 5090358,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8656676.d.html",
+            "title": "市场消息：康宁达成最高20亿美元的股权配售协议。",
+            "date_modified": "2026-09-11T20:25:09.000Z"
+        },
+        {
+            "id": 5090356,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5429061.d.html",
+            "title": "伊拉克政府表示将与盟友和友邦合作，防止此类袭击再次发生。",
+            "date_modified": "2026-09-11T20:24:28.000Z"
+        },
+        {
+            "id": 5090355,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8656421.d.html",
+            "title": "伊拉克总理已下令对袭击事件的具体情况及其幕后黑手展开调查。",
+            "date_modified": "2026-09-11T20:24:17.000Z"
+        },
+        {
+            "id": 5090354,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5428899.d.html",
+            "title": "伊拉克称拒绝任何威胁沙特安全与稳定的袭击。",
+            "date_modified": "2026-09-11T20:23:59.000Z"
+        },
+        {
+            "id": 5090353,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8656231.d.html",
+            "title": "伊拉克表示赞赏沙特阿拉伯暂不采取报复行动的决定。",
+            "date_modified": "2026-09-11T20:23:28.000Z"
+        },
+        {
+            "id": 5090352,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5428618.d.html",
+            "title": "阿根廷出售8.41万亿阿根廷比索的本币及美元挂钩证券。",
+            "date_modified": "2026-09-11T20:22:49.000Z"
+        },
+        {
+            "id": 5090350,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5428175.d.html",
+            "title": "STAR BULK以每股24.50欧元的价格发行440万股新股。",
+            "date_modified": "2026-09-11T20:21:15.000Z"
+        },
+        {
+            "id": 5090346,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8655007.d.html",
+            "title": "阿斯利康股价盘后下跌2%，因三期临床试验结果令人失望。",
+            "date_modified": "2026-09-11T20:19:07.000Z"
+        },
+        {
+            "id": 5090341,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5427302.d.html",
+            "title": "富国银行、摩根大通、纽约梅隆银行也在向 Anthropic推介财富管理服务。",
+            "date_modified": "2026-09-11T20:18:03.000Z"
+        },
+        {
+            "id": 5090340,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5427149.d.html",
+            "title": "【报道：高盛、美银等争夺管理Anthropic员工IPO巨额财富】华尔街各大银行正竞相争取管理 Anthropic PBC 员工在公司首次公开募股（IPO）后预期积累的财富。Anthropic已要求各机构提交财富管理业务方案，并披露费用、服务及其他运营细节。这家AI公司的上市预计将为员工创造巨额财富，有专家表示，期待此次IPO催生新一批百万富翁是“非常合理的”。",
+            "date_modified": "2026-09-11T20:17:23.000Z"
+        },
+        {
+            "id": 5090339,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5427048.d.html",
+            "title": "阿斯利康的Etcamah在SERENA-4试验中未达到主要无进展生存期终点。",
+            "date_modified": "2026-09-11T20:17:05.000Z"
+        },
+        {
+            "id": 5090338,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8654428.d.html",
+            "title": "美国银行存款从前一周的19.559万亿美元增至19.5666万亿美元。",
+            "date_modified": "2026-09-11T20:16:46.000Z"
+        },
+        {
+            "id": 5090337,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8654407.d.html",
+            "title": "阿斯利康：SERENA-4临床试验未达到主要终点。",
+            "date_modified": "2026-09-11T20:16:41.000Z"
+        },
+        {
+            "id": 5090336,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8654317.d.html",
+            "title": "Anthropic拟向员工提供一份财富顾问名单。",
+            "date_modified": "2026-09-11T20:16:23.000Z"
+        },
+        {
+            "id": 5090334,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8654216.d.html",
+            "title": "标普将西班牙信用评级由A上调至A+。",
+            "date_modified": "2026-09-11T20:16:06.000Z"
+        },
+        {
+            "id": 5090332,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8654018.d.html",
+            "title": "高盛、美国银行争相承销Anthropic员工所持股份的IPO巨额交易。",
+            "date_modified": "2026-09-11T20:15:24.000Z"
+        },
+        {
+            "id": 5090329,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvn8653359.d.html",
+            "title": "【“美联储传声筒”：美联储下周势将加息 但只加息一次无法解决问题】“美联储传声筒”Nick Timiraos最新撰文称，投资者已基本认定美联储下周将进行三年来首次加息，更难的问题是之后会怎样。由于美联储内部几乎没人认为单次加息25个基点足以压低通胀，若下周决定加息，则反映的是利率此前处于错误水平的判断，一次加息无法解决问题。自1990年代以来，美联储仅有一次“一次性”加息。沃什7月曾表示不认为美联储擅长“微调”，分析人士称，一位对微调持怀疑态度的主席不太可能加息25个基点后便宣布任务完成。沃什上月表示，没有太多证据显示借贷条件正在限制经济活动。如果以这一理由推动加息，市场自然会追问利率需要升至多高。如果缺乏解释，市场可能会将一次加息解读为更大规模行动的开始。因此，本周投资者不再将9月会议视为单次会议的问题。市场目前预计，到明年6月累计加息次数至少达到三次，高于此前预计的两次。",
+            "date_modified": "2026-09-11T20:13:07.000Z"
+        },
+        {
+            "id": 5090326,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirpcvq5424937.d.html",
+            "title": "沙特外交部声明称，保留采取一切必要措施维护其主权、安全、设施、公民及居民的权利。",
+            "date_modified": "2026-09-11T20:10:11.000Z"
+        },
+        {
+            "id": 5090325,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5555520.d.html",
+            "title": "标普：预测2027年沙特石油产量将上升，但产量仍将远低于其报告的最高可行产能1230万桶/日。",
+            "date_modified": "2026-09-11T20:09:27.000Z"
+        },
+        {
+            "id": 5090324,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5555316.d.html",
+            "title": "沙特外交部声明称，应伊拉克总理请求，现阶段选择不采取报复行动。",
+            "date_modified": "2026-09-11T20:09:01.000Z"
+        },
+        {
+            "id": 5090322,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5554947.d.html",
+            "title": "周五（9月11日），彭博电动汽车价格回报指数跌1.21%，报3319.82点，本周累计下跌2.90%，9月8-9日大致持稳于3420点形成本周顶部，10-11日持续下挫。",
+            "date_modified": "2026-09-11T20:07:43.000Z"
+        },
+        {
+            "id": 5090320,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5554650.d.html",
+            "title": "市场消息：美国防长赫格塞斯将于9月15日会见德国国防部长皮斯托里乌斯。",
+            "date_modified": "2026-09-11T20:07:03.000Z"
+        },
+        {
+            "id": 5090319,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5553955.d.html",
+            "title": "【沙特东西输油管道遭袭后预防性关闭】沙特阿拉伯能源部11日发表声明说，该国东西输油管道的利雅得段及麦地那地区段10日上午多次遭袭，现已对该管道采取预防性关闭措施。袭击造成一些人员受伤。声明还说，袭击发生后，应急和专业技术团队立即展开处置，并按照相关安全程序和应急预案采取必要措施，以确保管道安全并评估其状况。声明未说明袭击方式、袭击者身份以及管道恢复运营时间。（央视新闻）",
+            "date_modified": "2026-09-11T20:05:19.000Z"
+        },
+        {
+            "id": 5090317,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5553866.d.html",
+            "title": "沙特外交部声明称，东西输油管道遭来自伊拉克的无人机袭击。",
+            "date_modified": "2026-09-11T20:04:56.000Z"
+        },
+        {
+            "id": 5090316,
+            "content_html": "",
+            "title": "标普确认沙特阿拉伯“A+/A-1”评级；展望稳定。",
+            "date_modified": "2026-09-11T20:04:36.000Z"
+        },
+        {
+            "id": 5090315,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5553056.d.html",
+            "title": "戴尔科技、惠与（HPE）创收盘历史新高。",
+            "date_modified": "2026-09-11T20:03:03.000Z"
+        },
+        {
+            "id": 5090314,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8780149.d.html",
+            "title": "本周，标普累跌0.4%，道指跌1.5%，纳指跌0.5%。费城半导体指数涨0.6%，存储芯片指数跌1.2%，科技股七巨头跌0.1%，降息赢家指数跌3.7%。周五发布美国CPI通胀数据当天，标普500指数初步收涨0.8%，电信、科技、工业板块至少涨约1%，公用事业板块跌0.3%。纳斯达克100指数初步大致收平，成分股中，ADI初步收涨4.7%，恩智浦涨4.5%，思科涨4.3%，德州仪器涨3.7%，高通涨2.8%，英特尔涨2.6%，SpaceX涨2.2%，谷歌A涨1.9%，苹果涨1.8%，Nebius集团跌1.6%，派拓网络PANW跌2.3%，西部数据跌3%，闪迪跌3.6%，希捷科技跌3.7%。",
+            "date_modified": "2026-09-11T20:02:08.000Z"
+        },
+        {
+            "id": 5090313,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5552198.d.html",
+            "title": "多伦多股指.GSPTSE非官方收盘报35697.49点，上涨191.21点，涨幅0.54%。",
+            "date_modified": "2026-09-11T20:00:50.000Z"
+        },
+        {
+            "id": 5090312,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8779632.d.html",
+            "title": "【美股收盘：三大股指集体收涨】道指涨0.98%，标普500指数涨0.86%，纳指涨0.96%。慧与涨12.42%，戴尔涨11.95%，美国网存涨8.54%，ON SEMICONDUCTOR涨8.51%，惠普涨8.37%，CDW Corporation涨7.85%，超微电脑涨7.28%。“七姐妹”方面：亚马逊涨1.94%，苹果涨1.75%，谷歌涨1.53%，微软涨0.65%，Meta Platforms涨0.57%，特斯拉涨0.52%，英伟达跌0.03%。",
+            "date_modified": "2026-09-11T20:00:48.000Z"
+        },
+        {
+            "id": 5090306,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8778738.d.html",
+            "title": "对冲基金经理迈克尔·伯里表示他已全部出售了其 Flutter（Flutter Entertainment）持仓。",
+            "date_modified": "2026-09-11T19:57:33.000Z"
+        },
+        {
+            "id": 5090305,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8777857.d.html",
+            "title": "据称，FIREHAWK AEROSPACE公司正在寻求12.5亿美元的融资。",
+            "date_modified": "2026-09-11T19:53:42.000Z"
+        },
+        {
+            "id": 5090304,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5550357.d.html",
+            "title": "【法国一载客列车脱轨 约20人受伤】当地时间9月11日晚，一列由法国鲁昂开往卡昂的区域快速列车在滨海塞纳省克莱翁附近脱轨。法国交通部长菲利普·塔巴罗表示，列车上载有180名乘客，目前初步统计约有20人受伤。据悉，事故发生在图尔维尔与埃尔伯夫-圣欧班之间。滨海塞纳省省长已前往现场，并协调救援力量展开处置。法国国家铁路公司相关团队也在现场参与应对。此前，滨海塞纳省政府已启动省级应急行动中心，并启动针对大量伤员事故的应急预案。（央视新闻）",
+            "date_modified": "2026-09-11T19:53:31.000Z"
+        },
+        {
+            "id": 5090303,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8776237.d.html",
+            "title": "阿根廷中央银行今日外汇储备为504.7亿美元。",
+            "date_modified": "2026-09-11T19:48:39.000Z"
+        },
+        {
+            "id": 5090302,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5548709.d.html",
+            "title": "市场消息：法拉奇的英国改革党获得本・德洛 3600 万英镑捐赠。",
+            "date_modified": "2026-09-11T19:48:28.000Z"
+        },
+        {
+            "id": 5090301,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5547823.d.html",
+            "title": "本周，ICE原糖期货累计上涨0.72%，ICE白糖期货累涨0.65%。ICE阿拉比卡咖啡期货累跌3.35%，咖啡“C”期货累跌2.95%。罗布斯塔咖啡期货累涨2.68%。纽约可可期货累跌4.24%，周五（9月11日）纽约尾盘报5913美元/吨。伦敦可可期货累跌4.54%。芝加哥WCE双低油菜籽期货跌1.32%。ICE棉花期货跌0.30%。",
+            "date_modified": "2026-09-11T19:45:50.000Z"
+        },
+        {
+            "id": 5090300,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8774824.d.html",
+            "title": "【美军称对伊海上封锁已使99艘商船改变航向】当地时间9月11日，美军中央司令部称，美军持续执行针对伊朗的海上封锁行动。截至9月11日，美军已使99艘商船改变航向。（央视新闻）",
+            "date_modified": "2026-09-11T19:43:50.000Z"
+        },
+        {
+            "id": 5090299,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5547179.d.html",
+            "title": "法国交通部长称，法国北部鲁昂与卡昂之间发生火车脱轨事故，造成约20人受伤。",
+            "date_modified": "2026-09-11T19:42:54.000Z"
+        },
+        {
+            "id": 5090298,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8773858.d.html",
+            "title": "惠誉确认危地马拉评级为“BB+”，展望稳定。",
+            "date_modified": "2026-09-11T19:39:47.000Z"
+        },
+        {
+            "id": 5090297,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8773823.d.html",
+            "title": "Jaguar LAA收购层流项目相关资产。",
+            "date_modified": "2026-09-11T19:39:36.000Z"
+        },
+        {
+            "id": 5090296,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8773473.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：截至2026年9月8日当周，股票基金经理削减标普500 CME净多头头寸19,683份合约，至907,776份。股票基金投机者增加标普500 CME净空头头寸29,085份合约，至336,643份。",
+            "date_modified": "2026-09-11T19:38:46.000Z"
+        },
+        {
+            "id": 5090295,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8772719.d.html",
+            "title": "【花旗预测美联储9月加息 然后在2027年降息】花旗集团调整了对美联储利率路径的预测，提出了9月份加息、然后到2027年年中开始降息的判断。花旗经济学家Andrew Hollenhorst和Veronica Clark周五在一份研究报告中写道，8月份高于预期的核心通胀数据以及能源价格再次上涨，“很可能刚好足以促成共识，支持在下周的联邦公开市场委员会会议上加息25个基点”该行预计，美联储在9月份加息后将维持利率不变直至6月份；然后随着通胀回落，美联储从6月份到2027年底将降息三次此前，花旗预计劳动力市场走弱将促使美联储今年降息。",
+            "date_modified": "2026-09-11T19:37:09.000Z"
+        },
+        {
+            "id": 5090294,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8772103.d.html",
+            "title": "美国商品期货交易委员会（CFTC）数据显示，截至9月8日当周，原油投机者将西德克萨斯中质原油（WTI）的净多头头寸增加21153手，至140046手。",
+            "date_modified": "2026-09-11T19:35:39.000Z"
+        },
+        {
+            "id": 5090293,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5543921.d.html",
+            "title": "美国商品期货交易委员会（CFTC）：截至2026年9月8日当周， 瑞士法郎净空头头寸为29,985份合约，英镑净空头头寸为58,836份合约，欧元净空头头寸为42,616份合约，日元净多头头寸为10,796份合约。",
+            "date_modified": "2026-09-11T19:34:15.000Z"
+        },
+        {
+            "id": 5090288,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5542557.d.html",
+            "title": "伊朗方面消息：伊朗外交部发言人表示，沙特、日本和约旦因支持针对伊朗的国际原子能机构决议，将面临后果。",
+            "date_modified": "2026-09-11T19:31:12.000Z"
+        },
+        {
+            "id": 5090287,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8769878.d.html",
+            "title": "CFTC-投机客在截至9月8日当周增持CBOT美国2年期国债期货净空头仓位46,589手至929,107手。",
+            "date_modified": "2026-09-11T19:30:48.000Z"
+        },
+        {
+            "id": 5090286,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8769808.d.html",
+            "title": "CFTC-投机客在截至9月8日当周将CBOT美国超长期国债期货净空头仓位削减24,171手至345,140手。",
+            "date_modified": "2026-09-11T19:30:36.000Z"
+        },
+        {
+            "id": 5090285,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5542292.d.html",
+            "title": "美国商品期货交易委员会(CFTC)数据显示，截至9月8日当周，纽约商业期货交易所(NYMEX)和洲际交易所(ICE)四大市场的天然气投机客净空头仓位增加3,719口，至54,416口。",
+            "date_modified": "2026-09-11T19:30:27.000Z"
+        },
+        {
+            "id": 5090284,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5542205.d.html",
+            "title": "CFTC-COMEX白银投机客在截至9月8日当周增持净多头仓位2,006口，至14,176口。",
+            "date_modified": "2026-09-11T19:30:19.000Z"
+        },
+        {
+            "id": 5090283,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8769622.d.html",
+            "title": "CFTC-COMEX黄金投机客在截至9月8日当周削减净多头仓位1,263口，至139,548口。",
+            "date_modified": "2026-09-11T19:30:15.000Z"
+        },
+        {
+            "id": 5090282,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8769528.d.html",
+            "title": "截至2026年9月8日当周，CFTC比特币净多头持仓为1,524手合约。",
+            "date_modified": "2026-09-11T19:30:01.000Z"
+        },
+        {
+            "id": 5090280,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5541351.d.html",
+            "title": "【摩根大通改弦更张 现预计美联储9月和12月加息】摩根大通根据个人消费支出价格指数衡量的核心通胀趋势，将其对美联储的预估改为9月和12月各加息25个基点。该行首席美国经济学家Michael Feroli周五在研报中说：“下周加息的理由很简单，核心个人消费支出通胀今年每个月都高于3%，而且最近在向2%靠拢上进展甚微”摩根大通7月下旬还预测美联储会在12月加息，但也曾指出若通胀数据过热，央行最早可能在9月就动手Feroli写道：“撇开中期选举不谈，绕过10月的一个合理理由是，需要时间来观察加息对经济的影响”此外，“通胀看起来仍然是由供给冲击所驱动，因此我们不认为加息周期会拉长到明年”",
+            "date_modified": "2026-09-11T19:27:26.000Z"
+        },
+        {
+            "id": 5090279,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8768295.d.html",
+            "title": "宾夕法尼亚州卫生部：截至目前，2026年已确认124例与麻疹相关的住院病例。",
+            "date_modified": "2026-09-11T19:25:53.000Z"
+        },
+        {
+            "id": 5090278,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5540630.d.html",
+            "title": "宾夕法尼亚州卫生部：宣布截至目前，2026年宾夕法尼亚州全州37个县已确诊676例麻疹病例。",
+            "date_modified": "2026-09-11T19:25:20.000Z"
+        },
+        {
+            "id": 5090275,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8767309.d.html",
+            "title": "【芝加哥大豆期货周五跌2.5%】周五（9月11日）纽约尾盘，彭博谷物分类指数跌1.88%，报34.5625点，北京时间00:00美国农业部发布谷物库存月报时出现一波尖锐的冲高回落行情，本周乐基下跌1.04%，整体高开低走。CBOT玉米期货跌0.33%，报5.32美元/蒲式耳，本周累跌0.88%。CBOT小麦期货跌2.02%，报7.2625美元/蒲式耳，本周累跌0.89%。CBOT大豆期货跌2.50%，报12.99美元/蒲式耳，本周累跌0.86%；豆粕期货累跌0.65%，豆油期货累涨0.80%。",
+            "date_modified": "2026-09-11T19:22:56.000Z"
+        },
+        {
+            "id": 5090274,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5539322.d.html",
+            "title": "美军中央司令部：截至9月11日，在针对伊朗的封锁行动中，已经有99艘商船被改道。",
+            "date_modified": "2026-09-11T19:21:22.000Z"
+        },
+        {
+            "id": 5090265,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5536886.d.html",
+            "title": "泽连斯基：在多伦多，我会见了许多领先加拿大公司、金融机构和投资基金的高级管理人员。",
+            "date_modified": "2026-09-11T19:13:16.000Z"
+        },
+        {
+            "id": 5090264,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5535676.d.html",
+            "title": "特朗普谈5000美元分红：我说到做到。",
+            "date_modified": "2026-09-11T19:09:27.000Z"
+        },
+        {
+            "id": 5090262,
+            "content_html": "",
+            "title": "房利美股价上涨高达5.4%；房地美股价上涨高达3.1%。",
+            "date_modified": "2026-09-11T19:08:27.000Z"
+        },
+        {
+            "id": 5090259,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5534911.d.html",
+            "title": "花旗集团预计美联储将在9月加息，并在2027年中期之前降息。",
+            "date_modified": "2026-09-11T19:07:30.000Z"
+        },
+        {
+            "id": 5090258,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5533986.d.html",
+            "title": "  律师称，苹果的全天候 AI 功能正在经受窃听相关法律的考验。",
+            "date_modified": "2026-09-11T19:05:27.000Z"
+        },
+        {
+            "id": 5090255,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5533630.d.html",
+            "title": "房利美和房地美股价飙升至盘中高点。",
+            "date_modified": "2026-09-11T19:05:05.000Z"
+        },
+        {
+            "id": 5090254,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5533038.d.html",
+            "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7079元，较周四夜盘收盘涨36点。成交量487.67亿美元。",
+            "date_modified": "2026-09-11T19:03:56.000Z"
+        },
+        {
+            "id": 5090252,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8758684.d.html",
+            "title": "恒指期货夜盘收跌0.05%，报24787.17点，低水18.46点。",
+            "date_modified": "2026-09-11T19:00:02.000Z"
+        },
+        {
+            "id": 5090247,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5528060.d.html",
+            "title": "  土耳其外交消息人士称，土耳其外长与沙特外长通电话，就地区局势以及针对沙特的袭击事件展开磋商。",
+            "date_modified": "2026-09-11T18:52:49.000Z"
+        },
+        {
+            "id": 5090246,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8755429.d.html",
+            "title": "  法官称，派拉蒙的和解谈判将于 10 月下旬举行。",
+            "date_modified": "2026-09-11T18:52:36.000Z"
+        },
+        {
+            "id": 5090245,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5525965.d.html",
+            "title": "  以色列第 12 频道：伊朗向霍尔木兹海峡内的船只发射无人机。",
+            "date_modified": "2026-09-11T18:48:03.000Z"
+        },
+        {
+            "id": 5090242,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8752197.d.html",
+            "title": "【委总统夫妇辩护团队申请暂时释放第一夫人】委内瑞拉执政党统一社会主义党11日在社交媒体发布公告说，遭美国关押的马杜罗总统夫妇的辩护团队以健康理由申请暂时释放第一夫人西莉亚·弗洛雷斯。根据该公告，辩护团队向美国纽约一家法院提交了申请，请求基于“危急的医疗状况”、宪法原则及安全保证，批准第一夫人暂时获释。（新华社）",
+            "date_modified": "2026-09-11T18:45:06.000Z"
+        },
+        {
+            "id": 5090241,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8751296.d.html",
+            "title": "【安理会通过决议 对苏丹制裁授权进行一个月的技术性延期】11日，联合国安理会通过一项决议，对苏丹制裁授权进行一个月的技术性延期。中国常驻联合国代表团临时代办孙磊在解释性发言中表示，考虑到安理会成员间分歧明显，对苏丹制裁授权进行一个月的技术性延期，使大家有更充分时间讨论，中方对此不持异议，在表决中投了赞成票。中方多次强调制裁是手段不是目的，不能成为外交努力的替代。当务之急是聚焦如何更好落实现有机制，随意扩大强制性措施范围只会恶化苏丹人道局势，甚至助推苏丹分裂前景，威胁地区稳定，损害安理会权威。中方希望在接下来的磋商中，各方尽早达成共识，为促进苏丹停火止战、维护苏丹团结统一发挥建设性作用。（央视新闻）",
+            "date_modified": "2026-09-11T18:42:32.000Z"
+        },
+        {
+            "id": 5090237,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8749650.d.html",
+            "title": "  高盛：美联储加息预期再度升温，可能触发交易商解除对冲头寸，并引发金价出现超出常规幅度的回调。",
+            "date_modified": "2026-09-11T18:39:14.000Z"
+        },
+        {
+            "id": 5090236,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8749492.d.html",
+            "title": "  高盛：若 ETF 投资者资金流入回暖，且当前偏高的看涨期权持仓维持不变，交易商对冲行为或将从机制上放大上涨行情，推动金价大幅超出我们的预测。",
+            "date_modified": "2026-09-11T18:38:53.000Z"
+        },
+        {
+            "id": 5090235,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8748856.d.html",
+            "title": "  高盛：我们给出的 2026 年底黄金公允估值 4900 美元 / 盎司，前提是各国央行持续强劲购金。",
+            "date_modified": "2026-09-11T18:37:34.000Z"
+        },
+        {
+            "id": 5090234,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5520924.d.html",
+            "title": "  高盛仍认为其 2026 年底金价 4900 美元 / 盎司预测存在上行净风险，但金价走势也将面临更大的双向波动。",
+            "date_modified": "2026-09-11T18:36:46.000Z"
+        },
+        {
+            "id": 5090233,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8747514.d.html",
+            "title": "【梅德韦杰夫否认“俄罗斯打算进攻欧洲”】俄联邦安全会议副主席、统一俄罗斯党主席梅德韦杰夫11日表示，俄罗斯没有任何针对欧洲的军事目标，欧洲领导层所谓“俄罗斯打算进攻欧洲”的说法，是为其援乌政策作辩护，以谋求在地缘政治上击败俄罗斯。梅德韦杰夫当天在社交媒体发布的一段视频中说，欧洲各国目前民生承压，欧洲领导层编造“俄罗斯威胁论”，用以向民众解释为何要投入大量资金援助乌克兰。他说，炒作“俄罗斯威胁论”是为这场战争持续筹措资金的最佳手段。（新华社）",
+            "date_modified": "2026-09-11T18:35:16.000Z"
+        },
+        {
+            "id": 5090232,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5518218.d.html",
+            "title": "WTI 10月原油期货收报100.05美元/桶。NYMEX 10月天然气期货收报2.8310美元/百万英热单位。NYMEX 10月汽油期货收报3.3072美元/加仑，NYMEX 10月取暖油期货收报4.9593美元/加仑。",
+            "date_modified": "2026-09-11T18:31:12.000Z"
+        },
+        {
+            "id": 5090231,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8745260.d.html",
+            "title": "上期所原油期货夜盘收涨4.96%，报850.10元人民币/桶。沪金夜盘收平，沪银收涨0.54%。",
+            "date_modified": "2026-09-11T18:30:02.000Z"
+        },
+        {
+            "id": 5090230,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8744916.d.html",
+            "title": "沙特能源部：袭击造成部分人员受伤，伤者已接受救治。",
+            "date_modified": "2026-09-11T18:28:47.000Z"
+        },
+        {
+            "id": 5090229,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5517202.d.html",
+            "title": "沙特能源部：周四利雅得和麦地那地区的东西向输油管道遭遇多起袭击，管道已临时关闭。",
+            "date_modified": "2026-09-11T18:27:55.000Z"
+        },
+        {
+            "id": 5090228,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8744294.d.html",
+            "title": "上海原油连续主力合约日内涨5%，现报850.80元。",
+            "date_modified": "2026-09-11T18:26:48.000Z"
+        },
+        {
+            "id": 5090227,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5515864.d.html",
+            "title": "上海原油连续主力合约日内涨4%，现报842.40元。",
+            "date_modified": "2026-09-11T18:23:47.000Z"
+        },
+        {
+            "id": 5090226,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5515449.d.html",
+            "title": "  也门胡塞武装卫生部称，自 9 月 3 日以来，沙特主导的袭击已造成 82 人伤亡。",
+            "date_modified": "2026-09-11T18:22:34.000Z"
+        },
+        {
+            "id": 5090225,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5514858.d.html",
+            "title": "市场消息：据福克斯新闻记者Trey Yingst在阿拉伯海的 “乔治・华盛顿” 号航空母舰上发回报道。随着美伊紧张局势不断升级，美军正筹备夜间军事行动。这艘航母搭载约 5000 名水兵，由多艘驱逐舰护航。上周末该航母遭到伊朗弹道导弹袭击，本周双方已发生多轮交火。美国官员表示，海上封锁仍在执行，美军正通过在霍尔木兹海峡附近开展军事行动持续向伊朗施压。",
+            "date_modified": "2026-09-11T18:21:03.000Z"
+        },
+        {
+            "id": 5090224,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8741714.d.html",
+            "title": "  斯特兰蒂斯与 Roshel 签署谅解备忘录，拟出售加拿大工厂。",
+            "date_modified": "2026-09-11T18:19:13.000Z"
+        },
+        {
+            "id": 5090223,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8739812.d.html",
+            "title": "【美国2026财年前11个月预算赤字累计达到1.97万亿美元】美国联邦政府本财年前11个月预算赤字达到1.97万亿美元，为有记录以来最高水平之一。财政部周五公布的数据显示，截至8月的11个月，赤字较2025年同期小幅下降。单看8月，财赤缺口为1,668亿美元。财年最后一个月（即9月）通常会因为企业缴税期限而录得盈余。赤字扩大的部分原因是债务利息支出上升，而美债收益率上涨又是利息成本走高的原因之一。财政部数据显示，截至8月底，可交易美国国债的平均利率升至3.48%，比五年前高出逾2个百分点。随着低收益率债券陆续到期，财政部不得不以更高成本再融资，这一平均利率预计还会继续上升。",
+            "date_modified": "2026-09-11T18:13:42.000Z"
+        },
+        {
+            "id": 5090222,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5510232.d.html",
+            "title": "  美国商务部还确认印度尼西亚、老挝存在非法补贴。",
+            "date_modified": "2026-09-11T18:08:07.000Z"
+        },
+        {
+            "id": 5090221,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5510134.d.html",
+            "title": "  美国商务部确认印度存在非法太阳能补贴。",
+            "date_modified": "2026-09-11T18:07:46.000Z"
+        },
+        {
+            "id": 5090220,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5507281.d.html",
+            "title": "美国当前财年（至9月的12个月）的头11个月预算赤字1.97万亿美元。",
+            "date_modified": "2026-09-11T18:01:28.000Z"
+        },
+        {
+            "id": 5090218,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxpq8734011.d.html",
+            "title": "  美国财政部：8 月海关净收入 128.36 亿美元，总收入 233.77 亿美元，退税 105.41 亿美元。",
+            "date_modified": "2026-09-11T18:00:17.000Z"
+        },
+        {
+            "id": 5090217,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirnxps5505865.d.html",
+            "title": "美国8月政府预算 -1667.97亿美元，预期 -2200亿美元，前值 -3448亿美元。",
+            "date_modified": "2026-09-11T17:58:45.000Z"
+        },
+        {
+            "id": 5090215,
+            "content_html": "",
+            "title": "  巴西基准股指博维斯塔指数下跌约 1%，跌至盘中低点；巴西雷亚尔回吐早前涨幅，最新兑美元下跌 0.3%。",
+            "date_modified": "2026-09-11T17:53:26.000Z"
+        },
+        {
+            "id": 5090214,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8858844.d.html",
+            "title": "【三菱日联预计美联储本月加息25基点 10月将按兵不动】三菱日联放弃了对于美联储今年维持利率不变的预估，预计央行将在9月加息25个基点。策略师George Goncalves和Agron Nicaj调整预期的理由包括美联储主席沃什在杰克逊霍尔发表的偏鹰讲话、8月就业数据稳健，以及周五公布的CPI高于预期。策略师写道，加息有可能成为一次“政策错误”，但在市场已经预期美联储下周加息的情况下，美联储很难选择按兵不动。他们表示：“鉴于沃什反复强调‘通胀是选项之一’，如果他什么都不做，会带来问题”。三菱日联预计，9月加息后，美联储将在10月维持利率不变，其认为官员不太可能在中期选举前释放积极推进紧缩周期的信号。策略师认为，12月再次加息的可能性为55%-60%。",
+            "date_modified": "2026-09-11T17:48:09.000Z"
+        },
+        {
+            "id": 5090213,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8857811.d.html",
+            "title": "  洲际交易所：截至 9 月 8 日当周，布伦特原油投机者净多头头寸增加 4318 手，至 265753 手。",
+            "date_modified": "2026-09-11T17:46:57.000Z"
+        },
+        {
+            "id": 5090212,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8852121.d.html",
+            "title": "欧洲央行首席经济学家连恩：今年工资并未因能源冲击出现明显反应。",
+            "date_modified": "2026-09-11T17:36:10.000Z"
+        },
+        {
+            "id": 5090211,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5623914.d.html",
+            "title": "  洲际交易所：截至 9 月 8 日当周，柴油投机者净多头头寸增加 3465 手，至 93533 手。",
+            "date_modified": "2026-09-11T17:33:48.000Z"
+        },
+        {
+            "id": 5090210,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8851002.d.html",
+            "title": "  加拿大食品检验局：多米尼加共和国批准进口加拿大牛肉及牛肉制品（含内脏）。",
+            "date_modified": "2026-09-11T17:32:38.000Z"
+        },
+        {
             "id": 5090209,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5622852.d.html",
@@ -18,686 +701,6 @@
             "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8849074.d.html",
             "title": "市场消息：雅诗兰黛推进针对沃尔玛仿冒产品的诉讼。",
             "date_modified": "2026-09-11T17:24:37.000Z"
-        },
-        {
-            "id": 5090207,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5620775.d.html",
-            "title": "  白宫官员：俄罗斯官员将出席下周在休斯顿举行的二十国集团能源会议。",
-            "date_modified": "2026-09-11T17:22:03.000Z"
-        },
-        {
-            "id": 5090206,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5620587.d.html",
-            "title": "欧洲央行首席经济学家连恩：若能源价格持续上涨，可能会在秋季冲击消费，该问题仍存在不确定性。",
-            "date_modified": "2026-09-11T17:21:17.000Z"
-        },
-        {
-            "id": 5090205,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5619299.d.html",
-            "title": "周五（9月11日），美联储隔夜逆回购协议（RRP）使用规模为52.55亿美元（交易对手3家），上个交易日报47.36亿美元。",
-            "date_modified": "2026-09-11T17:16:19.000Z"
-        },
-        {
-            "id": 5090204,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8842173.d.html",
-            "title": "  贝克休斯：美国能源企业四周来首次增加钻井平台数量。",
-            "date_modified": "2026-09-11T17:02:48.000Z"
-        },
-        {
-            "id": 5090203,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5614139.d.html",
-            "title": "美国9月11日当周石油钻井数 450，前值 449。",
-            "date_modified": "2026-09-11T17:01:24.000Z"
-        },
-        {
-            "id": 5090202,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5614059.d.html",
-            "title": "美国9月11日当周总钻井数 591，前值 588。",
-            "date_modified": "2026-09-11T17:01:20.000Z"
-        },
-        {
-            "id": 5090201,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8841501.d.html",
-            "title": "美国9月11日当周天然气钻井数 132，前值 130。",
-            "date_modified": "2026-09-11T17:01:17.000Z"
-        },
-        {
-            "id": 5090200,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8840969.d.html",
-            "title": "【夜盘期货收盘】国际铜夜盘收跌0.39%，沪铜收跌0.20%，沪铝收跌0.79%，沪锌收跌0.95%，沪铅收跌0.68%，沪镍收跌0.89%，沪锡收跌2.35%。氧化铝夜盘收跌2.12%，铝合金收跌0.75%。不锈钢夜盘收跌0.84%。",
-            "date_modified": "2026-09-11T17:00:02.000Z"
-        },
-        {
-            "id": 5090199,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8839780.d.html",
-            "title": "  秘鲁与印度进入自贸谈判最后阶段，部长称目标在 2027 年达成协议。",
-            "date_modified": "2026-09-11T16:56:10.000Z"
-        },
-        {
-            "id": 5090198,
-            "content_html": "",
-            "title": "LME期铜收涨6美元，报14240美元/吨。LME期铝收跌40美元，报3253美元/吨。LME期锌收跌11美元，报3881美元/吨。LME期铅收跌9美元，报1892美元/吨。LME期镍收跌197美元，报16469美元/吨。LME期锡收跌980美元，报53364美元/吨。LME期钴收跌530美元，报41850美元/吨。",
-            "date_modified": "2026-09-11T16:52:08.000Z"
-        },
-        {
-            "id": 5090197,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5610004.d.html",
-            "title": "  甲骨文股价走势反转，最新下跌 1.1%。",
-            "date_modified": "2026-09-11T16:50:16.000Z"
-        },
-        {
-            "id": 5090196,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8837236.d.html",
-            "title": "俄罗斯总统普京会见了埃及总统塞西。",
-            "date_modified": "2026-09-11T16:49:08.000Z"
-        },
-        {
-            "id": 5090195,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5609497.d.html",
-            "title": "据报道，消息人士称，美国白宫正在考虑如何利用《国防生产法》扩大美国炼油能力，以应对燃料价格飙升。",
-            "date_modified": "2026-09-11T16:47:29.000Z"
-        },
-        {
-            "id": 5090194,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5607443.d.html",
-            "title": "美国参议院Warren发函给财政部长贝森特，质询他“俄罗斯外长为何出席了近期在美国主办的二十国集团（G20）会议”。",
-            "date_modified": "2026-09-11T16:41:38.000Z"
-        },
-        {
-            "id": 5090193,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5606274.d.html",
-            "title": "  花旗重申铜价 0–3 个月目标价为每吨 15000 美元。",
-            "date_modified": "2026-09-11T16:38:41.000Z"
-        },
-        {
-            "id": 5090192,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8833061.d.html",
-            "title": "【报道：沙特阿拉伯输油管道周四遭袭击】两名知情美国官员透露，沙特一处关键输油管道系统于周四遭到弹药袭击。一名美国官员称，初步研判，遭打击目标是管道配套泵站。周五拍摄的卫星图像显示，其中一座泵站遭受严重火灾损毁；周四另一座泵站的影像记录到小型火情，冒出滚滚黑色浓烟。目前尚不明确袭击实施方，也无法确认管道本体管线是否受损，但其中一名美国官员表示，发动袭击的无人机来自伊拉克。多方消息称，现阶段尚不清楚修复受损设施需要多久。",
-            "date_modified": "2026-09-11T16:36:55.000Z"
-        },
-        {
-            "id": 5090191,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5603813.d.html",
-            "title": "市场消息：沙特阿拉伯一条石油管道周四遭炮弹袭击。",
-            "date_modified": "2026-09-11T16:32:31.000Z"
-        },
-        {
-            "id": 5090190,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8830289.d.html",
-            "title": "美国商务部长在被问及 5000 美元补助事宜时，提及美国所持英特尔股份。",
-            "date_modified": "2026-09-11T16:30:16.000Z"
-        },
-        {
-            "id": 5090189,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8829811.d.html",
-            "title": "美国商务部长卢特尼克：美国或将尝试为 5000 美元支票项目 “创收”。5000美元支票计划不会依靠税收资金。",
-            "date_modified": "2026-09-11T16:28:19.000Z"
-        },
-        {
-            "id": 5090188,
-            "content_html": "",
-            "title": "也门国防部：空军已开始对此前公布的杀伤区实施轰炸。我们要求民众避开塔伊兹 - 穆哈公路以及穆哈 - 杜巴布公路。在另行通知前，民众不得使用上述禁行道路。”",
-            "date_modified": "2026-09-11T16:26:01.000Z"
-        },
-        {
-            "id": 5090187,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5598639.d.html",
-            "title": "【美国第二季度家庭净资产创纪录环比增加12.803万亿美元】美联储数据显示，美国第二季度家庭净资产环比增加12.803万亿美元，第一季度增幅修正为7,929亿美元。第二季度家庭净资产的名义增量创1950年代有数据记录以来最大。",
-            "date_modified": "2026-09-11T16:18:50.000Z"
-        },
-        {
-            "id": 5090186,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5598256.d.html",
-            "title": "  AMD 高管：随着公司业务扩张，预计计算与企业人工智能业务将占到服务器 CPU 当前整体市场的 50%。",
-            "date_modified": "2026-09-11T16:17:51.000Z"
-        },
-        {
-            "id": 5090185,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5597603.d.html",
-            "title": "【美联储下周加息几成定局 手机资费大涨或是关键推手】美国手机服务价格涨幅创纪录，推动一项关键通胀指标高于预期，可能进而锁定了美联储下周加息的决定。美国劳工统计局周五公布的数据显示，8月份剔除食品和能源后的核心消费者价格指数环比上涨0.3%，高于彭博调查预估中值0.2%。其中，无线电话服务价格单月上涨5.9%，单这一项就为核心CPI贡献了约0.1个百分点。这一分项主要反映移动运营商提供的预付费和月度套餐价格。美国银行、巴克莱和Pantheon Macroeconomics的经济学家指出，AT&T和T-Mobile US等主要运营商近期调整资费方案，可能是推高该分项的主要原因。美国劳工统计局拒绝进一步说明这些运营商的调整具体如何影响该数据。",
-            "date_modified": "2026-09-11T16:16:19.000Z"
-        },
-        {
-            "id": 5090184,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8824261.d.html",
-            "title": "【佩斯科夫：俄美乌或在近期举行三方会晤】当地时间9月11日，俄罗斯总统新闻秘书佩斯科夫在接受采访时表示，克里姆林宫预计，在近期俄罗斯、美国和乌克兰能够举行三方会晤并继续对话。他还补充说，就乌克兰问题谈判本身，没有人为举行谈判预设条件，俄罗斯保持开放态度。（央视新闻）",
-            "date_modified": "2026-09-11T16:14:36.000Z"
-        },
-        {
-            "id": 5090183,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5595764.d.html",
-            "title": "  美国疾控中心：波及 21 个州、与卷心莴苣相关的环孢子虫疫情现已结束。",
-            "date_modified": "2026-09-11T16:12:13.000Z"
-        },
-        {
-            "id": 5090182,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8821667.d.html",
-            "title": "苹果：太平洋时间 9 月 12 日凌晨 5 点（北京时间 9 月 12 日 20:00）起，消费者可在苹果官网以及 Apple Store App 上预约订购 iPhone 18 Pro 与 iPhone 18 Pro Max。",
-            "date_modified": "2026-09-11T16:07:53.000Z"
-        },
-        {
-            "id": 5090181,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5593185.d.html",
-            "title": "  美国农业部发布世界农业供需报告后，洲际交易所棉花期货跌幅扩大，最新下跌 1.4%。",
-            "date_modified": "2026-09-11T16:05:39.000Z"
-        },
-        {
-            "id": 5090180,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5591073.d.html",
-            "title": "  俄罗斯统计局：8 月俄罗斯消费者物价指数环比下降 0.08%，8月俄罗斯消费者物价指数同比上涨 6.33%。",
-            "date_modified": "2026-09-11T16:01:58.000Z"
-        },
-        {
-            "id": 5090178,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5590579.d.html",
-            "title": "美国农业部（USDA）：预计美国期末棉花库存360万捆，分析师预期379万捆，USDA之前预计400万捆。",
-            "date_modified": "2026-09-11T16:01:02.000Z"
-        },
-        {
-            "id": 5090177,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5590547.d.html",
-            "title": "美国农业部（USDA）：预计美国期末小麦总库存7.1777亿蒲式耳，分析师预期71.777亿蒲式耳，USDA之前预计71.7亿蒲式耳。",
-            "date_modified": "2026-09-11T16:00:59.000Z"
-        },
-        {
-            "id": 5090176,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfs8817916.d.html",
-            "title": "美国农业部（USDA）：预计美国期末玉米库存15.10877亿蒲式耳，分析师预期15.108亿蒲式耳，USDA之前预计16.53亿蒲式耳。",
-            "date_modified": "2026-09-11T16:00:52.000Z"
-        },
-        {
-            "id": 5090175,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5590344.d.html",
-            "title": "  俄新社援引俄罗斯统计局消息：俄罗斯第二季度国内生产总值同比增长 1.3%，数据已确认。",
-            "date_modified": "2026-09-11T16:00:41.000Z"
-        },
-        {
-            "id": 5090174,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-12/detail-inirntfu5590046.d.html",
-            "title": "美国农业部（USDA）：预计美国期末大豆库存3.10亿蒲式耳，分析师预期2.9137亿蒲式耳，USDA之前预计3.20亿蒲式耳。",
-            "date_modified": "2026-09-11T16:00:19.000Z"
-        },
-        {
-            "id": 5090173,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfu5589819.d.html",
-            "title": "【武契奇半个月后辞职】9月11日，塞尔维亚总统武契奇表示，他从联合国大会返回后，将于9月25日或26日辞去总统职务，转而参加议会选举的竞选活动。塞尔维亚执政的前进党总委员会日前决定，推举武契奇为该党议会选举名单领衔人和总理候选人。武契奇随后接受推举。9月9日，武契奇签署总统令解散议会，并宣布于10月25日提前举行议会选举。（CCTV国际时讯）",
-            "date_modified": "2026-09-11T15:59:55.000Z"
-        },
-        {
-            "id": 5090172,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfu5589527.d.html",
-            "title": "据半岛电视台：美国中央司令部称，库珀上将正在沙特阿拉伯举行会议，就胡塞武装近期在也门的攻势开展协调工作。",
-            "date_modified": "2026-09-11T15:59:15.000Z"
-        },
-        {
-            "id": 5090171,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfs8816366.d.html",
-            "title": "【英国天然气期货本周涨超11%】周五（9月11日）欧市尾盘，ICE英国天然气期货跌2.71%，报199.520便士/千卡，本周累计上涨11.67%，9月8-10日持续走高。TTF基准荷兰天然气期货跌2.78%，报80.147欧元/兆瓦时，本周累涨10.13%。ICE欧盟碳排放交易许可（期货价格）涨0.06%，报85.33欧元/吨，本周累涨2.02%。",
-            "date_modified": "2026-09-11T15:57:44.000Z"
-        },
-        {
-            "id": 5090170,
-            "content_html": "",
-            "title": "  国际金融协会（IIF）：截至 8 月，2026 年新兴市场债务资金流入达 2429 亿美元，去年同期为 2120 亿美元；新兴市场股票资金流出 881 亿美元，去年同期为 74 亿美元。",
-            "date_modified": "2026-09-11T15:51:42.000Z"
-        },
-        {
-            "id": 5090169,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfu5585614.d.html",
-            "title": "  国际金融协会（IIF）：8 月非居民向新兴市场投资组合净增持 113 亿美元，为连续第二个月实现资金流入。",
-            "date_modified": "2026-09-11T15:51:31.000Z"
-        },
-        {
-            "id": 5090168,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfs8812939.d.html",
-            "title": "  国际金融协会（IIF）：8 月新兴市场债务资金流入 112 亿美元，股票资金流入基本持平，为 10 亿美元。",
-            "date_modified": "2026-09-11T15:51:24.000Z"
-        },
-        {
-            "id": 5090167,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfu5585333.d.html",
-            "title": "【知名策略师认为美国中期选举前汽油价格达到5美元的风险“极高”】资深大宗商品策略师Jeff Currie表示，美国汽油平均价格在中期选举前几乎肯定会达到每加仑5美元，原因是供应稀缺与货币贬值形成了危险的叠加效应。Real Macro创始人兼首席执行官Currie表示，最初出现在成品油领域的短缺如今正在向上游蔓延至原油，能源冲击正进入一个危险的新阶段。Currie此前在高盛集团任职，并由此在华尔街声名鹊起。Currie周五接受采访时表示：“原油才是信号，而现在我们谈到的成品油，它们只是噪音。”",
-            "date_modified": "2026-09-11T15:51:08.000Z"
-        },
-        {
-            "id": 5090166,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfs8812035.d.html",
-            "title": "  XRG、阿布扎比国家石油公司（ADNOC）与 SEFE 签署谅解备忘录，为德国及欧洲探寻天然气、液化天然气供应、基础设施与航运合作机遇。",
-            "date_modified": "2026-09-11T15:50:04.000Z"
-        },
-        {
-            "id": 5090165,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfs8806998.d.html",
-            "title": "  基辅市长：防空部队正在首都开展行动，请留在防空掩体！",
-            "date_modified": "2026-09-11T15:40:32.000Z"
-        },
-        {
-            "id": 5090164,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirntfu5578709.d.html",
-            "title": "  委内瑞拉官员：委内瑞拉与苏里南签署石油、天然气、渔业、交通及旅游相关协议。",
-            "date_modified": "2026-09-11T15:39:05.000Z"
-        },
-        {
-            "id": 5090163,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5707719.d.html",
-            "title": "阿联酋阿布扎比国家石油公司、XRG 公司与马斯达尔签署协议，同德国企业扩大在能源、工业及先进技术领域的合作。相关协议有望撬动超过 50 亿欧元的投资。",
-            "date_modified": "2026-09-11T15:35:51.000Z"
-        },
-        {
-            "id": 5090161,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8934565.d.html",
-            "title": "波兰央行货币政策委员Dabrowski： 利率将维持不变直至 2027 年第二季度。波兰降息概率略高于加息。",
-            "date_modified": "2026-09-11T15:34:44.000Z"
-        },
-        {
-            "id": 5090160,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5706478.d.html",
-            "title": "俄罗斯总统普京与南非总统举行会谈。",
-            "date_modified": "2026-09-11T15:33:29.000Z"
-        },
-        {
-            "id": 5090159,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5705660.d.html",
-            "title": "德国DAX 30指数初步收涨0.68%，报25532.81点，本周累跌大约2%。法国股指初步收涨0.67%，意大利股指初步收涨1.10%、银行指数涨1.55%，英国股指初步收涨0.26%。",
-            "date_modified": "2026-09-11T15:31:30.000Z"
-        },
-        {
-            "id": 5090158,
-            "content_html": "",
-            "title": "欧洲STOXX 600指数初步收涨0.41%，报638.54点，本周累计下跌大约1.7%。欧元区STOXX 50指数初步收涨0.71%，报6313.28点，本周累跌约1.2%。富时泛欧绩优300指数初步收涨0.39%，报2550.79点。",
-            "date_modified": "2026-09-11T15:31:06.000Z"
-        },
-        {
-            "id": 5090157,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5703919.d.html",
-            "title": "Stellantis 将投资超 10 亿欧元，在法国生产新款厢式货车。",
-            "date_modified": "2026-09-11T15:27:29.000Z"
-        },
-        {
-            "id": 5090156,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8930672.d.html",
-            "title": "  特斯拉：Semi 电动卡车即将登陆欧洲。",
-            "date_modified": "2026-09-11T15:26:13.000Z"
-        },
-        {
-            "id": 5090155,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5702127.d.html",
-            "title": "市场消息：GTCR 正洽谈收购软件厂商 SPS Commerce。",
-            "date_modified": "2026-09-11T15:23:43.000Z"
-        },
-        {
-            "id": 5090154,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8929168.d.html",
-            "title": "【美国股市有望结束6月以来最长连跌 科技股受甲骨文提振】美国股市在动荡一周的最后阶段迎来上涨，油价下跌缓和了对通胀压力的担忧。纽约时间11:02，标普500指数和道指上涨0.8%，纳斯达克100指数上涨0.9%。美股有望结束6月以来最长的连跌走势。美国消费者价格指数显示，在伊朗战争、关税以及数据中心建设带来的持续压力下，美国通胀上月朝美联储目标回落的进展仍然有限。不过，22V Research的Peter Williams表示，市场反应似乎表明，在投资者担忧政策过度宽松或进一步加剧通胀的背景下，通胀数据“刚好偏热到足以促使美联储收紧政策”，反而可能是一件好事。Lombard Odier Investment Managers的Florian Ielpo表示：“这显然不是市场此前担心的那种通胀报告，但也并不足以彻底地解决有关美国通胀的问题。”与此同时，甲骨文云计算业务增速快于预期，为科技股交易带来新的提振。微软计划将数据中心容量扩大至目前的三倍以上，也被市场视为积极信号。",
-            "date_modified": "2026-09-11T15:23:02.000Z"
-        },
-        {
-            "id": 5090151,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5700147.d.html",
-            "title": "市场消息：美国众议院计划于下周就俄罗斯制裁法案进行全院投票。",
-            "date_modified": "2026-09-11T15:19:27.000Z"
-        },
-        {
-            "id": 5090150,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5697718.d.html",
-            "title": "  以色列国防军：未来数小时黎巴嫩境内预计将发生袭击，西加利利地区将听到爆炸声。",
-            "date_modified": "2026-09-11T15:13:06.000Z"
-        },
-        {
-            "id": 5090149,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5694841.d.html",
-            "title": "市场消息：法院阻止特朗普要求维持密歇根州燃煤电厂运营的行政令。能源部针对燃煤电厂的行政令越权。",
-            "date_modified": "2026-09-11T15:05:59.000Z"
-        },
-        {
-            "id": 5090148,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8921618.d.html",
-            "title": "市场消息：以色列空军正在对黎巴嫩南部的曼苏里镇和瓦迪萨卢基地区实施空袭。",
-            "date_modified": "2026-09-11T15:04:49.000Z"
-        },
-        {
-            "id": 5090147,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5693394.d.html",
-            "title": "市场消息：伊朗驻联合国代表驳斥了针对该国核计划的新一轮指控，谴责联合国安理会就此问题召开会议是滥用安理会程序与职权。",
-            "date_modified": "2026-09-11T15:03:30.000Z"
-        },
-        {
-            "id": 5090146,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5692923.d.html",
-            "title": "俄罗斯总统普京：俄罗斯感谢南非在联合国支持俄方提出的各项倡议。",
-            "date_modified": "2026-09-11T15:02:35.000Z"
-        },
-        {
-            "id": 5090145,
-            "content_html": "",
-            "title": "【夜盘期货收盘】纯碱连续跌3.06%，玻璃连续跌2.74%，苯乙烯连续跌2.21%，焦炭连续跌1.74%，20号胶连续跌1.52%。",
-            "date_modified": "2026-09-11T15:00:02.000Z"
-        },
-        {
-            "id": 5090144,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8918708.d.html",
-            "title": "纯碱连续主力合约日内跌3%，现报1046.00元。",
-            "date_modified": "2026-09-11T14:59:42.000Z"
-        },
-        {
-            "id": 5090143,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8917497.d.html",
-            "title": "【美国通胀报告被视为扫清美联储下周加息障碍 债市计入年内两次加息】美国核心通胀数据高于预期后，交易员加大对美联储加息的押注，目前市场认为下周加息的概率达到90%，并已完全计入年底前两次加息。利率互换显示，交易员提高了对未来数月基准利率上升的押注，市场认为持续的价格压力可能迫使美联储主席凯文·沃什领导的政策制定者采取行动。施罗德全球经济主管David Rees表示：“美联储已经落后于形势。它可以选择下周加息，让美国短期借贷成本以可控方式上升；也可以选择不行动，但那样就有可能面临长期借贷成本失控上升的风险。”",
-            "date_modified": "2026-09-11T14:58:00.000Z"
-        },
-        {
-            "id": 5090142,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5689757.d.html",
-            "title": "由于缺少大额订单，德国将批准交付小批量8×8轮式装甲平台 “拳师犬”装甲车。",
-            "date_modified": "2026-09-11T14:57:32.000Z"
-        },
-        {
-            "id": 5090141,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5687894.d.html",
-            "title": "【莱茵河水位再降推高驳船运费，柴油运往瑞士成本升至逾228欧元/吨】受莱茵河关键咽喉考布（Kaub）河段水位持续处于历史低位影响，沿河运输柴油和汽油的成本再度攀升。据预测，9月15日该河段水位将降至19厘米，届时航道将几乎无法通行。内河航运公司Riverlake指出，目前从鹿特丹驶往考布的驳船仅能装载约254吨货物，仅为标准载货量的十分之一。该公司警告，运力受限将继续推高莱茵河货运价格。数据显示，从鹿特丹至瑞士的柴油驳船运费周四已升至每吨228欧元以上，创8月20日以来新高，但仍低于今年夏季的历史峰值。",
-            "date_modified": "2026-09-11T14:54:53.000Z"
-        },
-        {
-            "id": 5090140,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5687564.d.html",
-            "title": "【烽火通信800G+空芯光纤完成实景验证】据烽火通信消息，在2026年光博会现场，烽火通信展出全场景算力互联解决方案。其中，800G Scale-Across传输设备+空芯光纤融合方案成功完成端到端实景验证，为全域算力协同、跨域算力池化落地提供了标准化、可规模化复制的成熟方案。",
-            "date_modified": "2026-09-11T14:54:29.000Z"
-        },
-        {
-            "id": 5090139,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5686883.d.html",
-            "title": "【范波会见韩国驻华大使卢载宪一行】9月11日，江苏省委常委、苏州市委书记范波会见率团来苏州访问的韩国驻华大使卢载宪一行。范波对卢载宪一行到访表示欢迎，向韩国各界对苏州发展的关心支持表示感谢。他说，今年1月5日，习近平主席同李在明总统举行会谈，为深化发展中韩战略合作伙伴关系做出指引。苏州是中国东部地区重要的中心城市，当前正锚定习近平主席赋予的“代表未来的发展方向”等殷切期望，牢牢把握高质量发展首要任务，积极推动经济向新向优发展，加快建设国际化现代化人民城市。苏州与韩国交流渊源深厚，既是文化相融的“知音”，也是产业互补的“伙伴”，更是友城相牵的“邻里”。明年将迎来中韩建交35周年，苏州愿与韩方一道落实两国元首共识，深化人工智能、电子信息、生物医药等领域产业合作，提升贸易互联互通水平，拓展青年、文旅、非遗等人文交流，持续夯实中韩友好民意基础。苏州将持续扩大高水平对外开放，深入开展“三服务”专项行动，积极打造“有呼必应、事事闭环”营商环境品牌，全方位服务广大企业深耕发展，更好实现互利共赢。（苏州日报）",
-            "date_modified": "2026-09-11T14:53:37.000Z"
-        },
-        {
-            "id": 5090138,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8913786.d.html",
-            "title": "印度外交部：莫迪总理在与伊朗总统会晤中强调，须维护航行与商业自由，保障船员的安全与福祉。",
-            "date_modified": "2026-09-11T14:53:01.000Z"
-        },
-        {
-            "id": 5090137,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5685607.d.html",
-            "title": "印度外交部表示：莫迪总理在与伊朗总统会晤时强调，必须持续努力，以确保该地区实现持久的和平与稳定。",
-            "date_modified": "2026-09-11T14:51:53.000Z"
-        },
-        {
-            "id": 5090136,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8912163.d.html",
-            "title": "【中国南水北调集团将统筹加快引汉济渭工程运营】记者11日从中国南水北调集团获悉，中国南水北调集团已成为引汉济渭公司的控股股东，将统筹加快引汉济渭工程投资建设运营。(新华社)",
-            "date_modified": "2026-09-11T14:50:42.000Z"
-        },
-        {
-            "id": 5090135,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8912142.d.html",
-            "title": "【60家外卖店仅20家明厨亮灶达标】今年6月1日起，《网络餐饮服务经营者落实食品安全主体责任监督管理规定》正式施行，倡导推行“互联网+明厨亮灶”。新规实施三个多月，实际执行情况如何？ 记者选取北京、天津、济南三城，随机对多个外卖平台上60家标有“明厨亮灶”标识的店铺逐一调查。统计数据显示：60家样本店铺中，17家“明厨亮灶”功能完全失效，无法显示后厨直播画面；其余43家中，仅20家直播画面符合要求，另有23家店铺的直播画面不达标，存在画面避开后厨核心作业区等问题。17家店铺的画面加载不出，其中数十家店铺长期显示“该商户直播内容审核中”，全程无后厨实时画面更新。 此外，记者实地探访济南一家无堂食外卖店：店门外杂物堆积，员工光膀子徒手处理烤鸡，消毒柜里放置快递盒，垃圾箱未加盖且紧邻敞开存放的食材，微波炉内壁附着厚厚油污。济南市高新区管委会市场监管部执法人员针对这家快餐店存在的违反《餐饮服务食品安全操作规范》的行为，下达了《责令改正通知书》，责令当事人于2026年9月15日前改正。（央视财经）",
-            "date_modified": "2026-09-11T14:50:40.000Z"
-        },
-        {
-            "id": 5090134,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5683553.d.html",
-            "title": "欧洲防务巨头莱茵金属公司(RHEINMETALL AG) <RHMG.DE> 股价走低，现下跌3.8%。",
-            "date_modified": "2026-09-11T14:49:02.000Z"
-        },
-        {
-            "id": 5090133,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5682589.d.html",
-            "title": "【特朗普在五角大楼纪念9·11并辩护伊朗战争，称将确保伊朗永远无法拥核】美国总统特朗普在五角大楼出席9·11事件25周年纪念仪式时发表演讲，将为伊朗战争辩护，并将当前冲突与美国的反恐斗争相联系，强调美国将确保伊朗永远无法拥有核武器。国防部长赫格塞斯在讲话中声称美国正控制着霍尔木兹海峡，并表示将结束这场斗争。",
-            "date_modified": "2026-09-11T14:47:49.000Z"
-        },
-        {
-            "id": 5090132,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8907288.d.html",
-            "title": "俄罗斯总统助手乌沙科夫：俄罗斯总统普京在与印度总理莫迪的会谈中向莫迪介绍了与前几日与美国谈判代表的接触情况。",
-            "date_modified": "2026-09-11T14:43:41.000Z"
-        },
-        {
-            "id": 5090131,
-            "content_html": "",
-            "title": "美国疾控中心报告过去一周新增 160 例麻疹病例；2026 年累计 3294 例。",
-            "date_modified": "2026-09-11T14:42:41.000Z"
-        },
-        {
-            "id": 5090130,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8905685.d.html",
-            "title": "市场消息： 克里姆林宫表示俄罗斯愿意谈判，寻求举行三方会晤。",
-            "date_modified": "2026-09-11T14:41:11.000Z"
-        },
-        {
-            "id": 5090129,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5676607.d.html",
-            "title": "【哈塞特称柴油价格目前是美国一大关切】美国国家经济委员会主任凯文·哈塞特在接受采访时表示，柴油价格目前是美国“一大关切”。他说：“柴油面临一个非常严重的问题，因为它属于成品油”，“大量炼油活动发生在受到冲突扰动的地区”。哈塞特称，特朗普政府正寻求提高美国国内的炼油能力。",
-            "date_modified": "2026-09-11T14:37:59.000Z"
-        },
-        {
-            "id": 5090128,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5675943.d.html",
-            "title": "【中远海运特运拜访宁波舟山港】中远海运特运董事长、党委书记陈帅带队拜访宁波舟山港股份有限公司，宁波舟山港股份有限公司党委书记、总经理倪彦博热情接待了陈帅董事长一行。会谈中，陈帅董事长详细介绍了中远海运特运近期生产经营发展情况，对宁波舟山港长期以来给予公司的帮助与支持表示感谢。倪彦博总经理介绍了宁波舟山港最新发展情况与未来规划。双方围绕港航功能提升、多货源多领域合作等重点工作深入交换意见。双方一致表示，将持续深化港航战略合作，强化业务协同，携手推动港航产业高质量发展。",
-            "date_modified": "2026-09-11T14:36:48.000Z"
-        },
-        {
-            "id": 5090127,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8902970.d.html",
-            "title": "【道明证券放弃按兵不动的预测 目前料美联储9月起将总计加息三次】道明证券策略师周五表示，他们预计美联储将在9月启动本轮三次加息中的第一次，此前他们的预测是2026年余下时间央行按兵不动。包括Oscar Munoz和Gennadiy Goldberg在内的策略师在周五发布的研报中写道：“我们预计本轮周期总共将加息三次，后两次升息将在10月和明年1月进行。美联储可能不会提供前瞻指，但点阵图应会偏鹰”这一预期调整发生在周五公布的美国8月CPI高于预期后。该数据促使交易员提高了对美联储近期加息的预期上述策略师在报告中写道：“在8月CPI显示通胀缺乏进展后，我们预计美联储将在9月启动加息周期”。",
-            "date_modified": "2026-09-11T14:35:52.000Z"
-        },
-        {
-            "id": 5090126,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8902341.d.html",
-            "title": "【北交所出手严打“私下交易” 3名投资者被限制交易三个月】记者9月11日获悉，当日，北京证券交易所对3名在新股发行过程中私下收购新股、约定新股收益分成的投资者作出处罚，采取限制证券账户交易三个月的自律监管措施。（上证报）",
-            "date_modified": "2026-09-11T14:34:53.000Z"
-        },
-        {
-            "id": 5090125,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5673612.d.html",
-            "title": "美国国防部长赫格塞斯谈伊朗：我们控制着霍尔木兹海峡，我们将结束这场战斗。",
-            "date_modified": "2026-09-11T14:32:36.000Z"
-        },
-        {
-            "id": 5090124,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5672073.d.html",
-            "title": "阿布扎比Masdar签署合作协议，可能会向德国能源输送行业投资80亿欧元。",
-            "date_modified": "2026-09-11T14:28:45.000Z"
-        },
-        {
-            "id": 5090123,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5671526.d.html",
-            "title": "特朗普：我军目前正在采取行动，确保伊朗永远无法拥有核武器。",
-            "date_modified": "2026-09-11T14:27:06.000Z"
-        },
-        {
-            "id": 5090122,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8898699.d.html",
-            "title": "【鲁银投资：董事长杨耀东因个人原因辞职】鲁银投资公告称，公司近日收到董事长杨耀东的书面辞职报告，杨耀东因个人原因申请辞去公司董事、董事长及董事会战略委员会委员职务，辞职后不再担任公司任何职务，辞职报告自送达董事会之日起生效。本次辞职未导致公司董事会成员低于法定最低人数，不会影响董事会正常运行及公司日常运营，公司将尽快完成空缺董事、董事长的补选工作。",
-            "date_modified": "2026-09-11T14:26:15.000Z"
-        },
-        {
-            "id": 5090121,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8898570.d.html",
-            "title": "【中国能建与国家电投集团签署战略合作协议】中国能建消息，9月11日，中国能建与国家电投集团签署战略合作协议。双方将在规划咨询、工程服务、科技创新、国际业务、战略投资等领域开展合作。",
-            "date_modified": "2026-09-11T14:25:59.000Z"
-        },
-        {
-            "id": 5090120,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8898253.d.html",
-            "title": "PTA连续主力合约日内涨3%，现报6502.00元。",
-            "date_modified": "2026-09-11T14:25:11.000Z"
-        },
-        {
-            "id": 5090119,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8897751.d.html",
-            "title": "【哈马斯下属卡桑旅证实其高级成员被以军打死】巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别卡桑旅11日发表声明说，卡桑旅总军事委员会成员兼汗尤尼斯旅高级指挥官穆罕默德·亚祖里10日在以色列“暗杀行动”中身亡。 声明说，亚祖里曾在哈马斯2023年10月对以色列发起的“阿克萨洪水”行动中发挥重要作用。 以色列国防军当天早些时候发表声明称，以军与国家安全总局（辛贝特）10日在汗尤尼斯地区实施打击行动，打死了亚祖里。（新华社）",
-            "date_modified": "2026-09-11T14:24:02.000Z"
-        },
-        {
-            "id": 5090118,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8896528.d.html",
-            "title": "据伊朗法尔斯通讯社11日报道，伊朗外交部发言人巴加埃当天宣布，伊朗、伊拉克等波斯湾沿岸国家将于14日在阿曼举行地区会议，就建立霍尔木兹海峡商业航运安全航线交换意见。（新华社）",
-            "date_modified": "2026-09-11T14:21:31.000Z"
-        },
-        {
-            "id": 5090117,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8896343.d.html",
-            "title": "甲骨文股价转跌，抹去了此前高达 8.5% 的涨幅。",
-            "date_modified": "2026-09-11T14:21:06.000Z"
-        },
-        {
-            "id": 5090116,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8896238.d.html",
-            "title": "【9月11日增减持汇总】9月11日盘后，据不完全统计，包括日月明、矩阵股份、同宇新材、蓝丰生化、清研环境、皓元医药在内的6家A股上市公司披露拟减持情况，当日暂无A股上市公司披露拟增持情况。",
-            "date_modified": "2026-09-11T14:20:49.000Z"
-        },
-        {
-            "id": 5090115,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5667657.d.html",
-            "title": "欧洲央行行长拉加德：我们将在每次货币政策会议上依据数据为后续决策提供指引。",
-            "date_modified": "2026-09-11T14:18:12.000Z"
-        },
-        {
-            "id": 5090114,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8894443.d.html",
-            "title": "克罗格股价在业绩和展望公布后继续上涨，涨幅达4.3%，创盘新高。",
-            "date_modified": "2026-09-11T14:16:27.000Z"
-        },
-        {
-            "id": 5090113,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5666847.d.html",
-            "title": "【胡塞武装称除沙特外其余国家船只红海航行安全】当地时间9月11日，也门胡塞武装发表声明称，胡塞武装9月3日起从多个方向发起大规模军事行动，目标是驱逐在也门西部沿海部分地区集结的沙特方面武装力量。声明称，此次行动是在沙特方面武装力量近年来持续对也门西部沿海地区民众和村落发动袭击、近期相关行动进一步升级的背景下展开的。胡塞武装声明称，此次行动取得以下成果：第一，驱逐沙特方面武装力量，控制也门塔伊兹省和荷台达省的6个地区，涉及区域总面积约5400平方公里。第二，打击沙特方面7个军事编队，共计38个旅，造成数百名人员死亡、受伤或被俘。第三，解救部分被沙特方面武装力量扣押在也门西部沿海地区多年的也门被俘人员。第四，针对沙特战机实施32次拦截行动，击落9架沙特战机。关于红海航运安全问题，胡塞武装声明称，目前海上航行对各国企业的船只均是安全的，但沙特船只除外。声明还称，也门胡塞武装将继续实施“以封锁对抗封锁、以升级应对升级”的行动，打击沙特方面在也门的军事集结，直至沙特方面停止“军事行动”并解除对也门的“封锁”。（央视新闻）",
-            "date_modified": "2026-09-11T14:16:06.000Z"
-        },
-        {
-            "id": 5090111,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5665739.d.html",
-            "title": "【报道：Situational Awareness开始重新买入期权，标的包括SK海力士等】消息人士称，Situational Awareness在期权市场较为活跃。Faber表示，Leopold Aschenbrenner“在上周晚些时候和本周初重新开始买入期权，支付了数亿美元的期权费”涉及的标的包括他此前投资组合中常见的公司，例如SK海力士、闪迪、Advanced Micro、Bloom Energy和CoreWeave。Faber还表示，目前尚不清楚Aschenbrenner是否为公开市场投资募集了新的资金。",
-            "date_modified": "2026-09-11T14:13:19.000Z"
-        },
-        {
-            "id": 5090110,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8893041.d.html",
-            "title": "【中国保险行业协会消费者权益保护专业委员会召开三季度交流座谈会】9月11日，中国保险行业协会消费者权益保护专业委员会召开三季度交流座谈会。本次会议紧扣年度金融教育宣传周“清朗金融网络、守护安心消费”核心主题，聚焦打击“代理退保”黑灰产、深化警保协同共治、筑牢金融消费安全防线开展专题交流研讨。消保专委会主任委员代表、泰康保险集团管委会成员董燕发布行业倡议。（保险行业协会）",
-            "date_modified": "2026-09-11T14:13:05.000Z"
-        },
-        {
-            "id": 5090109,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5665088.d.html",
-            "title": "戴尔股价飙升10.5%，惠普股价上涨11.4%，HP攀升9%。",
-            "date_modified": "2026-09-11T14:12:06.000Z"
-        },
-        {
-            "id": 5090108,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5663856.d.html",
-            "title": "【Meta在欧洲开展非交易路演，超大规模科技企业加速拓展全球多币种融资】Meta Platforms已至少一周在欧洲与债券投资者进行非交易路演，旨在为人工智能基础设施建设筹集资金。知情人士透露，Meta并未就潜在债券发行的时间表给出具体指引，且此次路演不保证最终会在欧洲市场发债。Meta此前从未在美元市场以外筹集过债务，其上一次发债为今年4月发行的250亿美元债券。",
-            "date_modified": "2026-09-11T14:09:21.000Z"
-        },
-        {
-            "id": 5090107,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8890729.d.html",
-            "title": "【标普全球能源：欧洲夏季干旱致甜菜减产，2026/27榨季欧盟糖产量或降至十余年低点】受夏季干旱重创甜菜作物及前期种植面积缩减双重影响，欧洲糖价飙升至近一年高位。据标普全球能源旗下普氏能源资讯数据，9月3日西北欧国内糖价触及每吨550欧元，较年初上涨近40%。标普全球能源预计，2026/27榨季欧盟和英国食糖产量将同比下降18.5%至1430万吨，创十余年新低，并预测第四季度西北欧糖价可能进一步攀升至每吨600欧元左右。在全球层面，印度因国内供应趋紧转向进口，叠加厄尔尼诺现象引发亚洲减产担忧，预计2026/27榨季全球糖市将出现供应短缺。英国联合食品公司首席执行官乔治·韦斯顿表示，欧洲糖产量将出现大幅缺口，糖价前景乐观。不过，由于大部分糖通过远期合约销售，且面临能源成本上涨及非洲产量下降等因素，生产商收益的兑现可能面临滞后。",
-            "date_modified": "2026-09-11T14:08:15.000Z"
-        },
-        {
-            "id": 5090106,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxw5662778.d.html",
-            "title": "【荣耀“魔法画报”事件当事人澄清：事件与荣耀无关】近日，济南张先生在社交媒体发文反映，母亲突发心梗，因荣耀手机“魔法画报”错过最佳抢救时间，此事引发大量网友关注。9月11日下午，在第三方人员的见证下，当事人张先生与荣耀品牌方进行了面对面沟通，现场还原当时使用场景等，当事人张先生现场澄清，“事发凌晨，我身患脑梗的年迈父亲使用荣耀X70正常对外拨打了求救电话，我因为家庭突发变故，情绪激动，误解是手机问题导致没有拨通电话。我发帖的本意是希望手机公司能够重视这个问题，避免发生悲剧。经过沟通事件我才发现与荣耀手机无关，我在网上发的帖子中有部分内容与实情不符，为给荣耀品牌造成的影响致歉。”（新浪科技）",
-            "date_modified": "2026-09-11T14:07:13.000Z"
-        },
-        {
-            "id": 5090105,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2026-09-11/detail-inirnnxu8890179.d.html",
-            "title": "【黄果在西藏调研藏药高质量发展工作】近日，国家药监局党组书记、局长黄果带队赴西藏拉萨、山南等地调研。 在拉萨，调研组来到医药企业和医疗机构，详细了解藏药标准制修订、藏药新药研发、藏药医疗机构制剂应用等情况。在山南，调研组来到基层市场监管部门、医药企业和藏药材种植养殖基地，调研基层药品监管、创新药研发和藏药材生产管理等情况。",
-            "date_modified": "2026-09-11T14:07:08.000Z"
         }
     ]
 }

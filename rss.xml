@@ -4,11 +4,545 @@
         <title>新浪新闻</title>
         <link>https://coolseaman.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Sat, 19 Sep 2026 08:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 12:53:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://coolseaman.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国刷新AI基础设施密度纪录】我们常把AI能力的突破归功于芯片和模型。但模型每训练一次、被调用一次，背后都有持续运转的机房，也有持续产生的电费。AI竞争不只发生在芯片上，也发生在电从哪里来、机房如何散热、算力怎样调度上。乌兰察布远景星河基地于2026年8月投产，采用超高比例绿电直连，以12万平方米的建筑体量（约20个标准足球场）、百万卡并行能力、百万P算力规模，成为全球Token产出能力最强的单体AI数据中心，刷新了AI基础设施的密度纪录。远景科技集团创始人张雷希望让Token“像土豆一样便宜”。这句话能否实现，仍要看真实需求和长期成本。但星河基地已经让一个原本抽象的问题变得可见：当AI走进越来越多人的工作和生活，决定它能走多远的，除了模型有多聪明，还有每个人用不用得起。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptu9675076.d.html</link>
+            <guid>5103255</guid>
+            <pubDate>Sat, 19 Sep 2026 12:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国中央司令部指挥官：霍尔木兹海峡主要航道已清除水雷。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptt2902392.d.html</link>
+            <guid>5103254</guid>
+            <pubDate>Sat, 19 Sep 2026 12:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部发布紧急命令，以降低南北卡罗莱纳州发生停电的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptt2901756.d.html</link>
+            <guid>5103253</guid>
+            <pubDate>Sat, 19 Sep 2026 12:50:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中天海缆两款绿色环保PP绝缘电缆研制成功】中天科技集团消息，近日，中天科技海缆股份有限公司联合研发的国内首条±320千伏绿色聚丙烯（PP）绝缘直流电缆、国内首条220千伏固相接枝PP绝缘电力电缆，均通过型式试验，意味着我国高压交、直流领域同时拥有了自主研制的绿色环保电缆，深远海风电送出、城市电网升级有了全新的国产化方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptt2899209.d.html</link>
+            <guid>5103252</guid>
+            <pubDate>Sat, 19 Sep 2026 12:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部要求 R.M. SCHAHFER 和 F.B. 采取必要措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptt2897821.d.html</link>
+            <guid>5103251</guid>
+            <pubDate>Sat, 19 Sep 2026 12:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国棉花育种取得关键突破】据科技日报，北京时间9月16日晚，华中农业大学棉花团队王茂军教授课题组在国际学术期刊《细胞》发表了一项最新研究成果，该研究首次发现染色体三维空间结构是棉花品种改良的全新靶点，填补了棉花育种的理论与技术短板，为丰富棉花种质遗传资源、培育优质高产棉花新品种，开辟全新科研方向。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptu9670099.d.html</link>
+            <guid>5103250</guid>
+            <pubDate>Sat, 19 Sep 2026 12:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部长下令 NIPSCO、CenterPoint Energy 和 MISO 采取行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptu9668854.d.html</link>
+            <guid>5103249</guid>
+            <pubDate>Sat, 19 Sep 2026 12:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部长赖特下令维持印第安纳州两座燃煤电厂的运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptt2895098.d.html</link>
+            <guid>5103248</guid>
+            <pubDate>Sat, 19 Sep 2026 12:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MS NOW称其已被拒绝进入白宫，将采取必要措施捍卫第一修正案权利。注：美国总统特朗普周五发帖称，将禁止有线新闻媒体CNN、MS NOW以及网络媒体Politico进入白宫。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskptu9660906.d.html</link>
+            <guid>5103247</guid>
+            <pubDate>Sat, 19 Sep 2026 12:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希腊央行行长斯图纳拉斯 回应评级机构最新行动：这对许多国家来说也是一个“鼓舞人心的结论”。但这当然需要政治意愿和懂得重要议题的政府。好的政策可以改变一切，没有无法解决的结构性约束。过去，许多人预测希腊撑不过去。但现在希腊的经济增速是欧元区其他地区的两倍，公共债务占GDP比率快速下降，正在进行改革，尽管还有更多工作要做。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3017138.d.html</link>
+            <guid>5103246</guid>
+            <pubDate>Sat, 19 Sep 2026 12:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贾国龙妻子张丽平质押西贝股权】天眼查经营风险信息显示，9月2日，内蒙古西贝餐饮集团有限公司新增1条股权出质信息，出质人为张丽平，质权人为中国工商银行股份有限公司呼和浩特如意开发区支行，出质股权数额为540.0005万元，状态为有效。 股东信息显示，张丽平持有内蒙古西贝餐饮集团有限公司5.1959%股权，认缴出资540.0005万元，并任该公司董事。公开资料显示，张丽平为西贝创始人贾国龙妻子。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9789232.d.html</link>
+            <guid>5103245</guid>
+            <pubDate>Sat, 19 Sep 2026 12:27:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【公司股权激励的目标是今年要比去年增长50%？胜宏科技回应】针对投资者提问“公司股权激励的目标是今年要比去年增长50%，可以实现吗？”胜宏科技表示，公司股权激励的业绩考核目标是管理层综合考虑了行业发展状况、市场竞争情况、公司未来的发展规划以及客户订单能见度等因素设定，既体现了公司对未来成长的信心，也兼顾了目标的挑战性与可实现性。管理层及核心团队对完成本次激励计划设定的考核目标有坚定信心，并将通过进一步优化产品结构、提升产品良率与交付能力、多元化客户结构等措施，全力以赴推动公司经营质量和业绩持续提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3014577.d.html</link>
+            <guid>5103244</guid>
+            <pubDate>Sat, 19 Sep 2026 12:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟经济事务专员东布罗夫斯基斯：乌克兰满足改革要求是获得资金的关键。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9786989.d.html</link>
+            <guid>5103243</guid>
+            <pubDate>Sat, 19 Sep 2026 12:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【胜宏科技：目前mSAP产能需求旺盛 将围绕客户需求进行产能布局】胜宏科技9月18日在现场参观时表示，公司在惠州配置了mSAP车间，该产能目前用于满足1.6T光模块的生产需求，当前在手订单饱满，产能利用率处于良好水平。目前mSAP产能需求旺盛，公司与相关客户保持密切沟通，将围绕客户需求进行产能布局。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9786283.d.html</link>
+            <guid>5103242</guid>
+            <pubDate>Sat, 19 Sep 2026 12:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄军夜袭基辅州物流设施 该设施被用于存放来自欧洲的军用物资】9月19日，俄罗斯国防部发布通报称，俄军夜间对乌克兰多个物流中心、港口及交通基础设施发动打击。 通报称，俄军打击了位于基辅州的一处海关物流中心，该设施被用于存放来自欧洲的军用物资。（参考消息）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3012752.d.html</link>
+            <guid>5103241</guid>
+            <pubDate>Sat, 19 Sep 2026 12:21:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[东布罗夫斯基斯：乌克兰面临更大的资金需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3010014.d.html</link>
+            <guid>5103240</guid>
+            <pubDate>Sat, 19 Sep 2026 12:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 欧盟经济事务专员东布罗夫斯基斯：高负债成员国必须实现财政目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3009945.d.html</link>
+            <guid>5103239</guid>
+            <pubDate>Sat, 19 Sep 2026 12:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行管委斯图纳拉斯：若通胀飙升不排除10月加息可能性，但不应仓促行事】欧洲央行管委斯图纳拉斯表示，必须注意通胀上行风险，但不应仓促行事。 这位希腊央行行长周六接受采访时表示，虽然目前为止工资等方面还没有出现第二轮影响，这算是“好消息”，但不能想当然地认为这种情况会持续下去。“我们正面临一系列持续的供给侧冲击，我们不能对此视而不见。与此同时，由于财政扩张和人工智能投资的蓬勃发展，需求也十分强劲。”他在都柏林出席欧洲财长和央行行长会议时表示，“我们必须保持警惕。”距离下次决策还有一个月的时间，斯图纳拉斯表示他还没有下定决心，欧洲央行准备的各种经济展望可能会起到指导作用。“如果9月份通胀飙升或能源成本上涨，使我们陷入不利局面，那么10月份加息的可能性就不能排除，”他说道，“但如果存在一些不确定性，我们不会采取任何行动，而是等待下一轮预测。没有必要仓促行事。”斯图纳拉斯警告说，当前形势依然动荡不安。“如果经济数据显示经济韧性无法持续或经济活动增长放缓，我认为这将是不宜加息，而应暂停加息的理由，”他说道。此外，“如果中东达成协议，能源价格可能会再次迅速下降。”]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3008657.d.html</link>
+            <guid>5103238</guid>
+            <pubDate>Sat, 19 Sep 2026 12:14:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油暗盘突破99美元，日内涨超0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9781079.d.html</link>
+            <guid>5103237</guid>
+            <pubDate>Sat, 19 Sep 2026 12:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委斯图纳拉斯：通胀也受到财政因素及人工智能热潮的推动。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3007153.d.html</link>
+            <guid>5103236</guid>
+            <pubDate>Sat, 19 Sep 2026 12:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委斯图纳拉斯：若通胀飙升，不排除10月加息的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3007049.d.html</link>
+            <guid>5103235</guid>
+            <pubDate>Sat, 19 Sep 2026 12:10:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯图纳拉斯：欧洲央行必须对通胀走势保持警惕。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9779432.d.html</link>
+            <guid>5103234</guid>
+            <pubDate>Sat, 19 Sep 2026 12:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行斯图纳拉斯：若存疑虑，最好等到12月。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3006756.d.html</link>
+            <guid>5103233</guid>
+            <pubDate>Sat, 19 Sep 2026 12:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行斯图纳拉斯：疲软的增长数据可能成为暂停加息的理由。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3006557.d.html</link>
+            <guid>5103232</guid>
+            <pubDate>Sat, 19 Sep 2026 12:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯图纳拉斯：迄今为止未见任何第二轮效应。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9778988.d.html</link>
+            <guid>5103231</guid>
+            <pubDate>Sat, 19 Sep 2026 12:09:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委斯图纳拉斯：欧洲央行不能忽视持续的供应冲击。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9778795.d.html</link>
+            <guid>5103230</guid>
+            <pubDate>Sat, 19 Sep 2026 12:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【9月19日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.【新思想引领新征程】大河润华夏； 2.【赓续长征精神 奋进复兴征程】湖南：红色热土 向新而行； 3.我国制造业高端化转型加速； 4.前8个月全国一般公共预算收入同比增长5.7%； 5.前8个月全国完成水利建设投资近7000亿元； 6.各地开展形式多样的群众性国防教育活动； 7.我国航天健康保障体系达到国际先进水平； 8.【文化中国行】朱熹园：文脉活水 流润今朝； 9.第二十届亚运会今天开幕； 10.国内联播快讯： （1）《文化产业发展“十五五”规划》发布； （2）1至8月全国铁路发送旅客33.2亿人次； （3）我国推出新举措加快数字经济领域复合型人才培养； （4）保障未成年人健康安全使用网络的规定公开征求意见； 11.俄罗斯要求日方撤出在日部署的“堤丰”导弹系统； 12.也门胡塞武装称遭沙特密集空袭 沙特首都发布本轮冲突首次防空警报； 13.国际联播快讯： （1）中方强调联合国维和行动要服务政治进程； （2）丹麦及其自治领地格陵兰岛与美达成协议； （3）俄称“三位一体”核力量仍是俄主权保障； （4）意大利西尼罗病毒传播加剧。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv3001115.d.html</link>
+            <guid>5103229</guid>
+            <pubDate>Sat, 19 Sep 2026 12:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[本周大盘主力资金累计净流入2.21亿元，半导体、通信设备板块净流入居前，个股沐曦股份、京东方A净流入最多。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9773446.d.html</link>
+            <guid>5103228</guid>
+            <pubDate>Sat, 19 Sep 2026 12:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界最大盐穴压缩空气储能项目机组启动】近日，中国电建参建的江苏金坛盐穴压缩空气储能发电二期项目2号机组完成整组启动。项目位于江苏省常州市金坛区，是目前世界上单机功率最大、总容量最大、综合效率最高的盐穴压缩空气储能电站。项目规划建设两套350兆瓦非补燃式压缩空气储能机组，储能8小时，发电4小时，能量转化效率超70%，一次充电可储存280万度电。建成投产后，核心装备实现100%国产化。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9773172.d.html</link>
+            <guid>5103227</guid>
+            <pubDate>Sat, 19 Sep 2026 11:59:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部新闻发言人就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法答记者问】问：美东时间9月18日，美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法。该法全面强化对俄制裁，延长对伊有关制裁，并明确可对进口俄罗斯石油或天然气的第三国加征最高100%所谓“次级关税”。有评论认为，中方将是美征税目标之一。请问中方对此有何评论？答：我们注意到有关情况。中方一贯反对缺乏联合国授权和国际法依据的单边制裁，反对以涉及第三方为由，对他国采取所谓次级制裁措施。中国历来在平等互利的基础上同世界各国开展正常的经贸合作，有关合作既不针对第三方，也不受第三方的干扰和胁迫。我们将继续密切关注美方后续举措，并保留采取一切必要措施的权利，坚定维护中国国家主权和发展利益以及企业的合法正当权益。希望美方与中方相向而行，通过对话和磋商保持经贸关系稳定，为维护世界贸易秩序和全球产供链安全稳定多做贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2998681.d.html</link>
+            <guid>5103226</guid>
+            <pubDate>Sat, 19 Sep 2026 11:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《广西金融业发展“十五五”规划》印发：鼓励上市公司并购重组和再融资 支持上市公司发展新质生产力】广西壮族自治区人民政府办公厅印发《广西金融业发展“十五五”规划》，其中指出，健全跨部门联动的优质企业发现、遴选与培育机制。聚焦自治区重点产业与新兴产业发展，培育一批优质上市（挂牌）后备企业。发挥好广西资本市场服务基地功能。加大宣传培训力度，引导企业树立正确上市（挂牌）观念，合理规划上市（挂牌）路径。健全落实常态化服务上市公司工作机制。鼓励上市公司并购重组和再融资，支持上市公司发展新质生产力。督促和引导上市公司更加积极开展现金分红。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2994478.d.html</link>
+            <guid>5103225</guid>
+            <pubDate>Sat, 19 Sep 2026 11:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西：到2030年金融业整体实力明显增强】广西壮族自治区人民政府办公厅近日印发《广西金融业发展“十五五”规划》，到2030年，金融业整体实力明显增强，金融服务实体经济质效全面提升，面向东盟的金融开放门户功能全面升级，人工智能与金融业实现深度融合，金融市场服务体系进一步优化，金融治理能力与风险防控水平显著提升，党领导金融工作的体制机制更加完善，建成与“一区两地一园一通道”定位相匹配、与中国式现代化广西篇章要求相适应的现代金融体系。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2994383.d.html</link>
+            <guid>5103224</guid>
+            <pubDate>Sat, 19 Sep 2026 11:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《广西金融业发展“十五五”规划》印发：加快构建总规模不低于500亿元的人工智能领域基金集群】广西壮族自治区人民政府办公厅印发《广西金融业发展“十五五”规划》，其中指出，完善适配人工智能发展的金融支持体系。挖掘和培育优质人工智能企业上市（挂牌）融资。加快构建总规模不低于500亿元的人工智能领域基金集群。鼓励银行、保险、担保等机构创新全生命周期信贷产品与服务模式，支持银行机构开发“人工智能贷”、“算力贷”等创新产品。加强金融支持面向东盟的海外综合服务体系建设，用好政策性出口信用保险工具，为人工智能出海企业提供一体化金融解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2993751.d.html</link>
+            <guid>5103223</guid>
+            <pubDate>Sat, 19 Sep 2026 11:47:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银河航天四颗SAR卫星成功发射 多颗卫星已规模化应用星上智能处理】北京时间2026年9月19日18时50分，长征二号丁运载火箭在太原卫星发射中心以“一箭四星”方式，成功将银河航天自主研制的四颗合成孔径雷达（SAR）卫星送入预定轨道。记者从银河航天处获悉，本次发射的四颗卫星搭载高分辨率SAR载荷及星上智能处理、星上任务规划等载荷，可实现遥感数据在轨即时处理。至此，银河航天累计成功发射自主研制卫星53颗，其中SAR卫星10余颗。据银河航天SAR卫星总师段晓介绍，公司研制的多颗SAR卫星已实现星载处理载荷的规模化在轨应用。 (财联社)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2993618.d.html</link>
+            <guid>5103222</guid>
+            <pubDate>Sat, 19 Sep 2026 11:47:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【璇玑动力宣布进军东盟市场】具身智能机器人企业璇玑动力在第23届中国—东盟博览会上宣布进入东盟市场。据悉，目前公司已在越南签订重要订单，并正在东南亚知名机场巡检与石油化工场景落地验证；在国内，璇玑动力产品已在电网头部客户变电站等实现常态化运行，产品应用已从特种场景延展至泛行业场景。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2990687.d.html</link>
+            <guid>5103221</guid>
+            <pubDate>Sat, 19 Sep 2026 11:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国成功发射株洲太空星际PIESAT-2 13~16星】今天，我国在太原卫星发射中心使用长征二号丁运载火箭，成功将株洲太空星际PIESAT-2 13~16星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。（央视军事）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2988163.d.html</link>
+            <guid>5103220</guid>
+            <pubDate>Sat, 19 Sep 2026 11:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《广西金融业发展“十五五”规划》印发：推进人民币面向东盟跨区域使用】广西壮族自治区人民政府办公厅印发《广西金融业发展“十五五”规划》，其中指出，推进人民币面向东盟跨区域使用。提升跨境贸易人民币使用水平。聚焦大宗商品贸易、跨境电商、边境贸易等领域扩大人民币使用。推动广西在与东盟跨境产业链供应链合作中更多使用人民币结算。探索数字人民币在跨境结算中的应用。支持开展线上边民互市贸易人民币结算。支持辖区内符合条件的银行向东盟同业融出人民币资金。提升跨境投融资人民币使用水平。推行境内企业对东盟投资、融资人民币“线上备案＋即时办结”。建设面向东盟的数字人民币贸易投融资中心。推进人民币跨境资金流动便利化，创新支持广西本土企业以人民币开展对东盟的直接投资、跨境融资等业务，鼓励东盟企业使用人民币到广西投资兴业。深化面向东盟的跨境金融市场合作。推动东盟商业银行接入中国银行间债券市场，支持东盟商业银行中国分支机构参与同业拆借市场。支持推出更多人民币对东盟国家货币银行间市场区域交易品种，探索完善人民币对越南盾报价交易制度。支持广西金融机构与东盟国家金融机构建立人民币代理行关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9760466.d.html</link>
+            <guid>5103219</guid>
+            <pubDate>Sat, 19 Sep 2026 11:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【航行警告！北部湾实弹射击】据中国海事局网站消息，湛江海事局发布航行警告，9月20日至23日，每天4时至19时，北部湾部分海域进行实弹射击，禁止驶入。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2986058.d.html</link>
+            <guid>5103218</guid>
+            <pubDate>Sat, 19 Sep 2026 11:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗处决一名被指控为以色列提供情报的男子】据伊朗方面当地时间19日消息，伊朗一名男子被指控向以色列情报机构提供关于伊朗军事基地的情报，已被处决。据悉，这名男子名为侯赛因·佩达兰，曾将伊朗中部伊斯法罕省军事基地的情报提供给以色列情报和特勤局（摩萨德）以换取金钱。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9756913.d.html</link>
+            <guid>5103217</guid>
+            <pubDate>Sat, 19 Sep 2026 11:30:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中泰证券一员工代客操盘亏损9200万 被处警告并罚款50万】湖南证监局近日发布行政处罚决定书〔2026〕12号（杨文明），对杨文明私下接受客户委托买卖证券行为进行了立案调查，依法向当事人告知了作出行政处罚的事实、理由、依据及当事人依法享有的权利。当事人未提出陈述、申辩意见，也未要求听证。本案现已调查、办理终结。经查明，杨文明存在以下违法事实：涉案期间，杨文明系中泰证券从业人员，2017年10月10日至2017年11月30日、2020年4月24日至2021年1月14日以及2022年11月3日至2024年1月4日期间，杨文明接受谭某委托，通过下达交易指令的方式操作张某普通账户，累计交易金额191,297,302.35元，账面亏损1,829,166.02元；2017年11月10日至2024年3月6日期间，杨文明接受谭某委托，通过下达交易指令的方式操作张某信用证券账户，累计交易2,338,310,202.05元，实际亏损90,233,071.69元。前述两个账户累计交易2,529,607,504.40元，合计账面亏损92,062,237.71元。杨文明接受委托期间未产生违法所得。杨文明的上述行为违反《证券法》第一百三十六条第二款的规定，构成《证券法》第二百一十条所述证券公司从业人员私下接受客户委托买卖证券行为。湖南证监局决定：对杨文明给予警告，并处以50万元罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2981989.d.html</link>
+            <guid>5103215</guid>
+            <pubDate>Sat, 19 Sep 2026 11:24:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财政部表示，其目标是将2027年的预算赤字控制在GDP的5.0%，2026年的预算赤字则为GDP的5.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9754100.d.html</link>
+            <guid>5103214</guid>
+            <pubDate>Sat, 19 Sep 2026 11:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰称研制针对伊朗自杀式无人机的新型拦截无人机】乌克兰总统泽连斯基发文称：乌克兰国家安全局（SSU）局长奥列克桑德尔·波克拉德（Oleksandr Poklad）报告称，该局军事反间谍部门在防御喷气式“见证者”（Shahed）无人机方面取得了显著成效。一款新型拦截无人机已研发完成并成功投入使用。注：“见证者”无人机是伊朗研发和制造的一系列低成本单向攻击无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9753484.d.html</link>
+            <guid>5103213</guid>
+            <pubDate>Sat, 19 Sep 2026 11:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚东部爆炸致过渡政府国防部11人死亡】叙利亚过渡政府军队在叙东部代尔祖尔省一处驻扎点18日发生爆炸，致11名过渡政府国防部人员死亡。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2980710.d.html</link>
+            <guid>5103212</guid>
+            <pubDate>Sat, 19 Sep 2026 11:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【迈克尔·马拉当选英国苏格兰工党新任党首】当地时间19日，迈克尔·马拉当选为英国苏格兰工党新任党首，接替此前辞职的阿纳斯·萨瓦尔。据悉，迈克尔·马拉获得4266票，其竞争对手乔·费根获得2485票。马拉表示，担任苏格兰工党党首是“人生中的荣誉”，并表示将致力于推动建设更加公平、平等的苏格兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2978452.d.html</link>
+            <guid>5103211</guid>
+            <pubDate>Sat, 19 Sep 2026 11:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国政府：支出增幅低于欧盟建议水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2977385.d.html</link>
+            <guid>5103210</guid>
+            <pubDate>Sat, 19 Sep 2026 11:12:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国政府预计2027年净基础支出增长0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9749811.d.html</link>
+            <guid>5103209</guid>
+            <pubDate>Sat, 19 Sep 2026 11:12:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大众据悉拟在保时捷品牌进一步裁员约4100人】据报道，在大众汽车因旗下跑车子公司保时捷出现问题而发布盈利预警后，大众汽车一项大规模的扭亏计划预计将在保时捷进一步裁减超过4000个工作岗位。根据一份记录了大众汽车监事会近期达成的一项协议的文件，该集团计划在保时捷品牌裁减“约4100名员工”，以解决约7亿欧元（约合8.038亿美元）的运营成本缺口。该报称，此次裁员将“在现有协议之外”进行。今年7月，保时捷管理层与劳方代表达成协议，在早先确定的4000人裁员计划基础上再裁减5000人；这意味着到2035年裁员规模将达到其员工总数的五分之一左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9749524.d.html</link>
+            <guid>5103208</guid>
+            <pubDate>Sat, 19 Sep 2026 11:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约原油暗盘突破96美元，日内涨超0.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2976273.d.html</link>
+            <guid>5103207</guid>
+            <pubDate>Sat, 19 Sep 2026 11:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国预算草案预计2027年债务占GDP比重为121.7%，2026年债务占GDP比重将达119.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9748086.d.html</link>
+            <guid>5103206</guid>
+            <pubDate>Sat, 19 Sep 2026 11:08:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国预算草案预计2027年税收收入占GDP比重为44.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9747746.d.html</link>
+            <guid>5103205</guid>
+            <pubDate>Sat, 19 Sep 2026 11:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国预算草案预计2027年公共支出占GDP的56.9%，2026年公共支出占GDP的57.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2974760.d.html</link>
+            <guid>5103204</guid>
+            <pubDate>Sat, 19 Sep 2026 11:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[保时捷可能再裁员4000人。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9746185.d.html</link>
+            <guid>5103203</guid>
+            <pubDate>Sat, 19 Sep 2026 11:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《网络安全人才实战能力报告—AI赋能篇》发布】 9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布。报告由国务院学位委员会学科评议组（网络空间安全组）、教育部高等学校网络空间安全专业教学指导委员会指导，北京航空航天大学、中国科学技术大学、永信至诚科技集团股份有限公司担任主编单位，多所高校、科研机构及产业单位参与编制。报告显示，当前AI安全人才呈现从业年限偏短、地域和行业分布相对集中、专职力量不足等特点，不少单位仍由传统安全团队或研发团队兼顾模型安全工作，专门从事AI安全研究和应用安全保障的队伍仍需进一步完善。在人才培养方面，越来越多高校已将AI相关课程纳入教学体系。报告提出，未来网络安全人才培养和评价应更加贴近真实业务和实战需求，以实际任务定义能力、以真实场景组织训练、以任务完成效果评价人才，推动高校、科研机构、网络安全企业和重点行业共同参与人才培养、训练、评价和使用。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2966039.d.html</link>
+            <guid>5103202</guid>
+            <pubDate>Sat, 19 Sep 2026 10:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国深入打击生态环境监测机构弄虚作假问题部署推进会在京召开】生态环境部9月18日联合相关部门在京召开全国深入打击生态环境监测机构弄虚作假问题部署推进会。生态环境部部长黄润秋出席会议并讲话。黄润秋强调，要深刻把握生态环境监测机构弄虚作假的新特点，按照“摸清底数、集中整改、规范运行”三个阶段，部署深入打击监测机构弄虚作假问题，推动行业生态持续净化、监测行为有效规范。要全面摸清底数，抓紧开展动员部署，指导监测机构严格规范自查，建立问题台账。要集中整改整治，依法分类处置弄虚作假问题，加强对监测机构的帮扶指导，切实推动问题整改到位。强化抽查核查，坚决查处错报漏报瞒报以及敷衍整改、假装整改等行为。要常态规范运行，夯实管理基础，加快出台相关管理文件，建好用好生态环境监测管理服务平台，切实把好监测机构资格准入关、仪器使用关、行为规范关、依法退出关，持续加强对排污单位和技术服务机构规范化管理。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9737490.d.html</link>
+            <guid>5103201</guid>
+            <pubDate>Sat, 19 Sep 2026 10:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈萨克斯坦代表团到访深城交 签署人工智能合作备忘录】近日，哈萨克斯坦人工智能与数字发展部副部长巴克提亚尔·阿巴耶维奇·穆哈梅特卡利耶夫等到访深城交科技集团股份有限公司（简称“深城交”）。双方在会谈中达成多项共识，深城交分别与哈萨克斯坦人工智能与数字发展部，以及科斯塔奈州、江布尔州、阿克莫拉州、西哈萨克斯坦州、巴甫洛达尔州五个州政府签署合作谅解备忘录（MOU）。各方将围绕智慧区域、智慧城市和低空经济深化合作，共同探索符合当地需求的数字化发展路径。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9734221.d.html</link>
+            <guid>5103200</guid>
+            <pubDate>Sat, 19 Sep 2026 10:41:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易商称，巴基斯坦在招标采购中购入36.5万吨小麦，本次招标原计划采购最多75万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9732420.d.html</link>
+            <guid>5103199</guid>
+            <pubDate>Sat, 19 Sep 2026 10:39:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[喜力收购Stonegate旗下300家酒吧的交易价值将达约3亿英镑。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9730258.d.html</link>
+            <guid>5103198</guid>
+            <pubDate>Sat, 19 Sep 2026 10:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊朗处决一名被控为以色列从事间谍活动的男子，该男子被控向以色列摩萨德情报机构提供有关伊朗伊斯法罕省军事设施（包括导弹发射场）的信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2956560.d.html</link>
+            <guid>5103197</guid>
+            <pubDate>Sat, 19 Sep 2026 10:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[喜力集团据悉洽购英国最大酒吧运营商Stonegate旗下300家酒吧。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2954855.d.html</link>
+            <guid>5103196</guid>
+            <pubDate>Sat, 19 Sep 2026 10:32:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚民主行动党秘书长表示，该党的立场已通过我提出辞去内阁职务一事体现。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9723157.d.html</link>
+            <guid>5103195</guid>
+            <pubDate>Sat, 19 Sep 2026 10:24:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚民主行动党秘书长提出辞去交通部长职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9723033.d.html</link>
+            <guid>5103194</guid>
+            <pubDate>Sat, 19 Sep 2026 10:23:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安全形势依然严峻 我使馆提醒中国公民暂勿前往苏丹】当地时间9月19日，中国驻苏丹大使馆发布通告，称苏丹总体安全形势依然严峻，再次提醒中国公民近期暂勿前往极高风险地区。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimv2949969.d.html</link>
+            <guid>5103193</guid>
+            <pubDate>Sat, 19 Sep 2026 10:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国—南亚国家海洋合作研讨会在青岛举办】自然资源部消息，9月17日—18日，中国—南亚国家海洋合作研讨会在青岛西海岸新区举行。本次研讨会由自然资源部第一海洋研究所主办，中国和南亚各国100余位政府代表、专家学者参会。研讨会报告了中国—南亚国家海洋合作进展，介绍了各国在平台建设、联合观测、生态保护、公共产品、能力建设等方面的成果，并就未来合作重点和路径进行深入探讨。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskimw9717874.d.html</link>
+            <guid>5103192</guid>
+            <pubDate>Sat, 19 Sep 2026 10:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦外长与伊朗外长通话 就地区最新局势交换意见】巴基斯坦外交部19日通报，巴基斯坦副总理兼外交部长达尔当天与伊朗外交部长阿拉格齐通电话，双方就地区最新局势交换了意见。达尔强调，确保能源供应不间断以及船只安全和快速通行至关重要，特别是考虑到这对发展中国家和全球供应链的影响。他指出，对话与外交仍是确保地区和平与稳定的唯一可行途径。双方同意继续保持密切合作，并将在第81届联合国大会期间于纽约举行会晤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3074764.d.html</link>
+            <guid>5103191</guid>
+            <pubDate>Sat, 19 Sep 2026 10:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三峡能源与海岸与海洋工程全国重点实验室座谈】9月18日，三峡能源董事长、党委书记朱承军与海岸与海洋工程全国重点实验室主任、大连理工大学建设工程学院副院长宁德志开展座谈，双方围绕深化校企合作、推进海洋科技创新进行深入交流。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3073715.d.html</link>
+            <guid>5103190</guid>
+            <pubDate>Sat, 19 Sep 2026 10:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【格陵兰和丹麦表示，与美国达成的协议不会让渡主权】丹麦和格陵兰周六表示，与美国达成的任何协议都不会损害格陵兰的主权。此前，美国总统唐纳德·特朗普曾声称该协议将赋予华盛顿对这座北极岛屿安全事务的“永久控制权”，但未明确协议的具体范围。丹麦和格陵兰表示，希望这项预计将于下周联合国大会期间签署的协议，能结束因特朗普威胁要接管格陵兰而引发的数月不确定状态。丹麦外交大臣拉斯·勒克·拉斯穆森周六在社交媒体上发表声明称：“下周对格陵兰、丹麦和美国来说，可能都是美好的一周。”他说：“希望不确定的时期能让位于一项具有约束力的协议，该协议将加强北极和北大西洋地区的安全——进而巩固我们在北约和欧洲的共同安全——同时尊重丹麦王国的‘红线’。”丹麦和格陵兰一再坚持要求华盛顿尊重丹麦王国的主权，并接受格陵兰是非卖品这一事实。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3073445.d.html</link>
+            <guid>5103189</guid>
+            <pubDate>Sat, 19 Sep 2026 10:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[格陵兰岛和丹麦表示，与美国达成的协议不会让渡主权。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3071709.d.html</link>
+            <guid>5103188</guid>
+            <pubDate>Sat, 19 Sep 2026 10:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【下周43股面临解禁 4只解禁股上半年业绩扭亏】下周将有43只股票解禁，按照最新收盘价计算，合计解禁市值151.28亿元。从解禁比例来看，下周面临解禁的个股中首药控股-U的解禁比例达56.96%，居首；友升股份、聚仁新材、星徽股份解禁比例均超20%。下周解禁股中，通达海、首药控股-U、正裕工业、ST通葡、爱克股份、海泰科、锦好医疗的上半年业绩亏损。汇川技术的上半年净利润规模居首，公司上半年归母净利润28.1亿元。宏源药业、海南高速、大为股份、星徽股份上半年净利润实现扭亏。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9843067.d.html</link>
+            <guid>5103187</guid>
+            <pubDate>Sat, 19 Sep 2026 10:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦副总理兼外长达尔周六与伊朗外长阿拉格齐进行了通话，双方讨论了共同关心的问题以及地区最新局势发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9842183.d.html</link>
+            <guid>5103186</guid>
+            <pubDate>Sat, 19 Sep 2026 10:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【何永贤：2030年内香港特区要基本解决住宅内的劣质劏房问题】香港特区行政长官李家超于9月16日公布香港首个五年规划，并发表2026年施政报告。多名特区政府主要官员由9月17日至9月21日举行记者会，阐述五年规划及施政报告中其政策范畴的相关措施。香港特区房屋局局长何永贤介绍在第一个《五年规划》及《行政长官2026年施政报告》中与房屋有关的措施。何永贤说，第一就是非常明确地要取缔劣质劏房，在2030年内要基本解决住宅内的劣质劏房问题。何永贤表示，有一个非常清晰的长远房屋策略，清楚列出“四三三”的比例：四成为出租公营房屋，三成为资助出售房屋，另外三成为私楼。大家可以看出，其实“三加三”，即六成的比例为自置居所，这也是一个非常明确的方向。我们会继续供应主导，善用公屋资源，鼓励上进上流，照顾好房屋阶梯，并促进青年置业，是一个多层次的房屋供应策略。 (大湾区之声)]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9833631.d.html</link>
+            <guid>5103185</guid>
+            <pubDate>Sat, 19 Sep 2026 09:45:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[也门消息来源：胡塞武装已开始在俯瞰红海南部的高地上安装雷达。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3060901.d.html</link>
+            <guid>5103184</guid>
+            <pubDate>Sat, 19 Sep 2026 09:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[也门消息来源：伊朗革命卫队的专家视察了穆哈（Mokha）港口、机场及曼德海峡地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9833349.d.html</link>
+            <guid>5103183</guid>
+            <pubDate>Sat, 19 Sep 2026 09:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[也门消息来源：伊朗装备已抵达胡塞控制的西海岸地区。这些装备的卸载在它们从索马里海岸运来后秘密进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9832714.d.html</link>
+            <guid>5103182</guid>
+            <pubDate>Sat, 19 Sep 2026 09:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯中央选举委员会：国家杜马选举全国投票率目前已达31.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9831118.d.html</link>
+            <guid>5103181</guid>
+            <pubDate>Sat, 19 Sep 2026 09:41:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特首都利雅得再次传出爆炸声】沙特阿拉伯首都利雅得19日再次传出爆炸声。位于利雅得东北部的哈立德国王国际机场附近升起浓烟。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9825046.d.html</link>
+            <guid>5103180</guid>
+            <pubDate>Sat, 19 Sep 2026 09:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西部地区首例 瘫痪病人有望“意念”控制设备】日前，空军军医大学唐都医院完成西部地区首例“全侵入式脑机接口植入手术”。一名因颈髓损伤导致四肢瘫痪了3年多的54岁女性患者，在大脑运动功能区植入脑机接口系统后，有望通过“意念”控制外部设备，逐步找回与外界交互的能力。（西安日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9823548.d.html</link>
+            <guid>5103179</guid>
+            <pubDate>Sat, 19 Sep 2026 09:29:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约发言人：该协议将有助于推进这一重要地区的安全、稳定与合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9819279.d.html</link>
+            <guid>5103178</guid>
+            <pubDate>Sat, 19 Sep 2026 09:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约发言人表示：北约将继续在加强北极地区安全方面履行自身职责。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3046721.d.html</link>
+            <guid>5103177</guid>
+            <pubDate>Sat, 19 Sep 2026 09:22:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约发言人：我们对美国、丹麦与格陵兰即将签署协议的公告表示欢迎。北极地区与北大西洋对我们的集体安全至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9819166.d.html</link>
+            <guid>5103176</guid>
+            <pubDate>Sat, 19 Sep 2026 09:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首家新设外资公募获QDII资格 QDII额度年内两次扩容】近日，贝莱德基金获批合格境内机构投资者（QDII）资格，成为首家获批该资格的新设外资公募机构。在今年QDII额度两度扩容、证券基金类机构获批额度首次突破千亿美元的背景下，外资公募参与跨境投资市场的步伐进一步加快。今年以来，QDII通道扩容节奏明显加快。国家外汇管理局3月末公布的数据显示，全市场QDII累计批准额度较2025年末增加53亿美元，达到1761.69亿美元。8月底，外汇局再度发放68.4亿美元QDII额度，涉及89家机构。截至8月末，全市场196家机构累计获批QDII额度升至1830.09亿美元。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3045362.d.html</link>
+            <guid>5103175</guid>
+            <pubDate>Sat, 19 Sep 2026 09:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国完成“地星三号”卧床实验，为太空长期驻留和载人登月任务提供技术支持】从19日在天津召开的首届航天医学工程大会获悉，我国已完成“地星三号”卧床实验，结果表明对人体骨肌、心血管等能够起到很好的防护作用，将为太空长期驻留和载人登月任务提供技术支持。卧床实验是开展航天医学研究、探究低变重力生理效应、验证防护效果的重要研究手段。中国航天员科研训练中心曲丽娜介绍，为破解长期驻留与载人登月任务的生理防护难题，我国今年开展了“地星三号”卧床实验。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3045309.d.html</link>
+            <guid>5103174</guid>
+            <pubDate>Sat, 19 Sep 2026 09:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赛力斯刘宗成：汽车产业最大的风险不是慢，而是“速成”】赛力斯集团科技公司总裁刘宗成在2026中国汽车产业发展（泰达）国际论坛上表示，汽车产业最大的风险不是慢，而是“速成”。“中国汽车要从规模领先迈向质量领先，不能靠压缩验证周期，降低安全标准来抢速度。”刘宗成认为，靠“速成”走不远，靠低价赢不了未来。（每经网）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3042129.d.html</link>
+            <guid>5103173</guid>
+            <pubDate>Sat, 19 Sep 2026 09:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塔塔钢铁据悉寻求英国政府新的支持方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3039148.d.html</link>
+            <guid>5103172</guid>
+            <pubDate>Sat, 19 Sep 2026 09:08:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：沙特罕见向以色列提出支援请求】据《日本经济新闻》9月19日报道，为了避免石油供应中断，沙特阿拉伯正四处奔走。霍尔木兹海峡事实上已被封锁，而替代路线的管道又遭亲伊朗武装组织袭击而受损，沙特不得不向尚未与之建交的以色列提出罕见的支援请求。 报道援引美国阿克西奥斯新闻网站消息称，沙特与美国、以色列等国军方高层上周在德国讨论了地区局势，议题包括以色列向沙特提供支援的方案。 由于以色列进攻巴勒斯坦加沙地带造成伤亡不断增加，包括沙特在内的阿拉伯国家民众反以情绪根深蒂固。即便如此，沙特仍谋求借助以色列的军事力量，这一格局正反映出沙特的窘境。 （参考消息）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9811109.d.html</link>
+            <guid>5103171</guid>
+            <pubDate>Sat, 19 Sep 2026 09:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贾国龙“天边砂锅焖面”上海最大门店开业5个月关了】今日，记者实地探访发现，西贝创始人贾国龙打造的新品牌“天边砂锅焖面”上海东方路店已停止营业，门店招牌被拆除。 该门店前身为上海面积最大的西贝旗舰店。今年4月20日，天边砂锅焖面在上海三店齐开，门店分别落子静安、浦东、嘉定三区，浦东东方路店即为其中之一，由原西贝旗舰店转型升级而来。 从4月开业至今，该门店仅运营约5个月。 大众点评App显示，除了该门店外，在北京地区，目前天边砂锅焖面的翠微印象城店、北京丰科万达店为“歇业关闭”状态，合生汇店、798艺术园区店等5家门店在营。在其他城市，呼和浩特园艺所门店、上海湟普汇店等也已闭店。（蓝鲸新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9808109.d.html</link>
+            <guid>5103170</guid>
+            <pubDate>Sat, 19 Sep 2026 09:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【张雪机车发布5款新车，最高售价13.8万元】9月19日，2026中国摩博会期间，张雪机车亮相N7展馆。张雪机车同时举行新品发布会，五款车型同台首发，发布了巡航车型600V及探险车型820X两款新车，以及三款升级车型，分别是复古街车2027款500F、冠军车820RR的赛道版820RR-RC及全碳纤维版820RR-RS车型，两款车型售价分别为12.8万元和13.8万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3027191.d.html</link>
+            <guid>5103169</guid>
+            <pubDate>Sat, 19 Sep 2026 08:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息称，俄罗斯未收到美方关于在乌克兰冲突结束前与俄签署协议可能性的信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9798881.d.html</link>
+            <guid>5103168</guid>
+            <pubDate>Sat, 19 Sep 2026 08:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第21届中国林产品交易会在山东曹县举行】9月19日至21日，以“数智赋能 链启领航”为主题的第21届中国林产品交易会在山东菏泽曹县庄寨镇木材加工产业园举办。本届展会采用“线上 + 线下”双线办展模式，聚焦产业数智转型、绿色发展与国际合作，集中展示板材家具、木制工艺品、萌宠经济产品、全屋定制等多元品类。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9798462.d.html</link>
+            <guid>5103167</guid>
+            <pubDate>Sat, 19 Sep 2026 08:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【甘肃完成国内最高电压等级线路绝缘子带电更换】从国网甘肃省电力公司获悉，该公司18日在甘肃省山丹县境内成功完成±1100千伏吉泉线（甘肃段）耐张玻璃绝缘子机械化带电更换作业，这是甘肃省首次在国内最高电压等级输电线路带电情况下，开展绝缘子更换作业。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3019759.d.html</link>
+            <guid>5103165</guid>
+            <pubDate>Sat, 19 Sep 2026 08:33:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[选举委员会：莫斯科选举系统在投票期间夜间遭到强力网络攻击，目前情况已得到控制。]]></title>
             <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9790677.d.html</link>
@@ -74,568 +608,6 @@
             <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx3001069.d.html</link>
             <guid>5103154</guid>
             <pubDate>Sat, 19 Sep 2026 08:03:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缪延亮：人民币国际化历史条件出现四个根本性不同】9月19日，在2026年清华五道口首席经济学家论坛上，中金公司资深董事总经理、首席经济学家缪延亮指出，当前国际货币秩序变化的重要触发器在于，美元作为全球资产的信任基础被侵蚀。他认为，与过去相比，人民币国际化进程出现了四个根本性不同：国际货币体系本身出现裂纹、国际贸易体系发生结构性变化、国际支付体系正在被重塑、AI技术革命重塑经济运行方式。其中，在AI技术革命层面，缪延亮指出，过去几轮技术革命中，生产力领先往往伴随货币地位上升——英国、美国先后成为技术革命中心，英镑与美元也相应成为中心货币。但AI革命不一样：它第一次把技术革命推进到“不可贸易的服务业”——教育、医疗、配送等。这些服务的效率改善很难直接转化为出口增加或工资上升，反而可能因为国内竞争而压低本地成本与价格（即“逆巴拉萨-萨缪尔森效应”）。缪延亮强调，过去习惯用结算比例、储备比例这些指标衡量人民币国际化，今天必须意识到：国际货币体系在变、国际贸易体系在变、国际支付体系在变，AI又在重塑整个经济的运行方式——四个变化叠在一起，构成的是人民币国际化不一样的历史条件。在此背景下，国际货币体系（变化）“这次真的不一样”，我们能做的，就是坚定不移办好自己的事情，在国际金融治理中发挥建设性作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccx2997422.d.html</link>
-            <guid>5103153</guid>
-            <pubDate>Sat, 19 Sep 2026 07:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国舱外航天服整体技术国际先进 登月服攻克数十项关键技术】记者从19日在天津召开的首届航天医学工程大会上了解到，目前我国舱外航天服整体技术居于国际先进水平，望宇登月服研制进展顺利，已攻克数十项关键技术。据中国航天员科研训练中心张万欣介绍，自空间站任务以来，我国舱外航天服技术能力显著提升，创建了我国完整的天地协同验证与在轨应用的空间站舱外服研发体系，突破舱外航天服“高效能的人服保障、长寿命高可靠舱外服防护与生保、复杂空间环境信息传输与高可靠实时信息架构、天地一体舱外服健康评估”等关键技术，保障航天员创造单次出舱活动9小时的世界纪录，实现单套舱外服在轨4年20次出舱。 “自2020年启动研制以来，聚焦复杂月面活动需求和极端环境挑战，望宇登月服以轻量化、小型化、高效能、高安全可靠为目标，攻克突破数十项关键技术，研制工作进展顺利。”张万欣表示。  （新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-iniskccy9769872.d.html</link>
-            <guid>5103152</guid>
-            <pubDate>Sat, 19 Sep 2026 07:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缪延亮：美元作为全球资产的信任基础被侵蚀 将影响国际货币秩序】9月19日，在2026年清华五道口首席经济学家论坛上，中金公司资深董事总经理、首席经济学家缪延亮指出，当前国际货币秩序变化的重要触发器在于，美元作为全球资产的信任基础被侵蚀。他认为，与过去相比，人民币国际化进程出现了四个根本性不同：国际货币体系本身出现裂纹、国际贸易体系发生结构性变化、国际支付体系正在被重塑、AI技术革命重塑经济运行方式。其中，在AI技术革命层面，缪延亮指出，过去几轮技术革命中，生产力领先往往伴随货币地位上升——英国、美国先后成为技术革命中心，英镑与美元也相应成为中心货币。但AI革命不一样：它第一次把技术革命推进到“不可贸易的服务业”——教育、医疗、配送等。这些服务的效率改善很难直接转化为出口增加或工资上升，反而可能因为国内竞争而压低本地成本与价格（即“逆巴拉萨-萨缪尔森效应”）。缪延亮强调，过去习惯用结算比例、储备比例这些指标衡量人民币国际化，今天必须意识到：国际货币体系在变、国际贸易体系在变、国际支付体系在变，AI又在重塑整个经济的运行方式——四个变化叠在一起，构成的是人民币国际化不一样的历史条件。在此背景下，国际货币体系（变化）“这次真的不一样”，我们能做的，就是坚定不移办好自己的事情，在国际金融治理中发挥建设性作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9900043.d.html</link>
-            <guid>5103151</guid>
-            <pubDate>Sat, 19 Sep 2026 07:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国拟扩大“豪宅税”征收范围】工党领导的英国政府考虑扩大“豪宅税”征收范围，将起征门槛下调为房产市价150万英镑。专家预计新征税方案每年将带来8亿英镑税收收入，可以更好地平衡财政收支、支持英国首相安迪·伯纳姆扩大社会福利的计划，但将加重中产阶层负担。据《泰晤士报》18日报道，英国政府考虑把“豪宅税”起征门槛从房产市价200万英镑下调至150万英镑，这一变化将使应税房产数量增加一倍多，影响近30万处房产。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9896185.d.html</link>
-            <guid>5103150</guid>
-            <pubDate>Sat, 19 Sep 2026 07:46:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯军队在黑海及乌克兰某港口袭击了乌克兰货船和油轮。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3123501.d.html</link>
-            <guid>5103149</guid>
-            <pubDate>Sat, 19 Sep 2026 07:46:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钻爆法隧道智能建造解决方案发布】记者19日从中国中铁股份有限公司获悉，由中铁隧道局等单位共同打造的钻爆法隧道智能建造解决方案正式发布，标志着我国钻爆法隧道施工跨入智能建造时代。据中铁隧道局有关负责人介绍，该方案聚焦隧道及地下工程智能建造场景，构建“掌子面—项目部—企业”三级数智化架构，打造“现场感知、边缘计算、云端决策”的智能建造体系，实现隧道建造多工序智能化作业、项目全业务协同管理、企业多系统快速决策。目前，上述成果正在长赣高铁等项目常态化应用，为隧道及地下工程领域打造一条可复制、可推广的智能建造创新实践路径。这位负责人表示，当前，人工智能技术加速演进，隧道工程行业数字化、智能化变革持续深化。中铁隧道局将持续推进跨界融合、创新攻关，助力隧道及地下工程建设数智化转型升级。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3107566.d.html</link>
-            <guid>5103148</guid>
-            <pubDate>Sat, 19 Sep 2026 07:23:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：秘鲁-厄瓜多尔边境地区发生5.5级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9877170.d.html</link>
-            <guid>5103147</guid>
-            <pubDate>Sat, 19 Sep 2026 07:18:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西贝将彻底倒闭？客服辟谣：全国门店均正常运营，恳请理性看待网络信息】9月19日，“西贝被曝将彻底倒闭”的话题登上微博热搜。据博主“理记”发文，持续十一年中式正餐第一的西贝将在两三个月内彻底倒闭，创始人贾国龙将个人揽下绝大部分债务，放弃股份，仅保留约100家盈利门店给员工自营。努力维持3000-4000人的生计。不得不下岗失业的西贝员工截止目前已经超过万人，关店已有两百多家。对此，记者尝试联系到西贝客服，对方回应称，目前全国门店均正常运营，我们也会继续用心做好产品与服务，继续坚守品质，用心接待每一位顾客。也恳请大家理性看待网络信息。（蓝鲸新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9876865.d.html</link>
-            <guid>5103146</guid>
-            <pubDate>Sat, 19 Sep 2026 07:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰军方：陆基防空系统和雷达侦察系统已进入战备状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9876618.d.html</link>
-            <guid>5103145</guid>
-            <pubDate>Sat, 19 Sep 2026 07:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰军方：鉴于俄罗斯对乌克兰领土发动袭击，波兰领空已启动军事航空行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9876460.d.html</link>
-            <guid>5103144</guid>
-            <pubDate>Sat, 19 Sep 2026 07:17:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【货运客流均创新高 深圳机场口岸APEC成员经济体往来热度攀升】今年是“APEC中国年”。截至今年9月初，深圳机场口岸对其他APEC成员经济体进出口货运量以及来自APEC成员经济体外籍客流，双双创历史同期新高。今年前8个月，深圳机场口岸对其他APEC成员经济体进出口货运量达45万吨，同比增长6.3%。截至9月初，深圳机场口岸今年来自APEC成员经济体出入境外籍旅客超100万人次，同比增长31.1%，双双创历史同期新高。据了解，深圳机场联合航空公司新开、加密了10条飞往印度尼西亚、马来西亚、韩国、新加坡等APEC成员经济体的国际航线。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9872538.d.html</link>
-            <guid>5103143</guid>
-            <pubDate>Sat, 19 Sep 2026 07:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同声传译大模型Qwen3.8-LiveTranslate正式发布】今日正式发布全新的同声传译大模型Qwen3.8-LiveTranslate，模型以Interleave架构重构实时同传，准确度、流畅度、简洁度全面提升，字均延迟（LAAL）从2.8秒降至2.3秒。（千问大模型微信公号）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3099232.d.html</link>
-            <guid>5103142</guid>
-            <pubDate>Sat, 19 Sep 2026 07:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【朱民：以人民币计价的深度金融市场能降低中企全球经营的不确定性】 9月19日，国际货币基金组织（IMF）前副总裁朱民在2026年清华五道口首席经济学家论坛上表示，人民币国际化将通过四大传导机制支持中国经济高质量发展：一是全球资源配置机制，强人民币使中国能以本币在全球范围配置能源、原材料、技术与资本，降低双循环相互促进的交易成本与摩擦。二是国际定价机制，人民币计价功能的提升能增强中国在大宗商品、关键设备与技术贸易中的定价话语权，改善贸易条件。三是风险管理机制，以人民币计价的深度金融市场能为我国企业和金融机构提供汇率、利率风险的对冲工具，降低全球经营的不确定性。四是安全保障机制，自主可控的人民币跨境网络能在极端情景下，为我国经济金融运行提供底线保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3095762.d.html</link>
-            <guid>5103141</guid>
-            <pubDate>Sat, 19 Sep 2026 07:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【玉渊谭天：3年13次修改用户隐私协议，Anthropic将全球用户数据交给美情报机构】9月12日，Anthropic首席执行官达里奥·阿莫代伊、OpenAI首席执行官萨姆·奥尔特曼和xAI创始人埃隆·马斯克在美国深夜罕见地公开达成共识，认为AI发展需要降速。
-
-吊诡的是，高喊AI安全的阿莫代伊，现实行动却与之相悖。
-
-9月14日，外媒披露，英伟达等多家美国企业已经开始限制或停止使用Anthropic的前沿模型。美国企业开始不再使用美国大模型，导火索之一就是Anthropic单方面修改数据留存协议：强制留存用户交互数据30天，用于安全审查，且用户无权拒绝。这不是它第一次修改用户数据协议。
-
-谭主梳理了自2023年Anthropic发布首版《隐私政策》以来的13次版本修订，并将其与隐私信息管理体系标准ISO/IEC 27701进行对比，发现Anthropic用户隐私数据安全风险越来越高。
-
-要成为情报中心，光有数据不够，还要有人。2026年7月，Anthropic官网发布了三个“威胁情报经理”岗位。其中两个岗位优先考虑以下条件：流利掌握普通话或俄语等语言，具备在政府或军事环境下进行情报分析的经验，并持有美国“最高机密安全许可”，分别负责调查用户交互数据中是否有外国政府支持的舆论操纵或模型“蒸馏”。
-
-到了9月10日，一份与7月招聘岗位职责内容高度一致的Anthropic威胁情报报告发布，分析了约2亿次用户与Claude模型之间涉嫌所谓“蒸馏”的交互数据。
-
-先从全世界收集数据定义“威胁”，再招募“自己人”分析数据，然后把公司安全标准变成美国标准。当美国标准再被推向全世界时，阿莫代伊口中的“AI发展风险”自然也就不存在了。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9867256.d.html</link>
-            <guid>5103140</guid>
-            <pubDate>Sat, 19 Sep 2026 06:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海国投在生物医药领域投资金额超300亿元】在2026 张江药谷大会暨生物医药产业周上海国投专场上，上海国投公司党委委员、副总裁陆雯介绍，上海国投公司聚焦三大先导产业和未来产业，在生物医药领域，通过股权直投和子基金布局，投资生物医药项目超800个，投资金额超300亿元，投早投小比例约70%，重点投向创新药械、细胞与基因治疗、脑机接口、合成生物学、AI+，以及产业链自主可控的关键环节。今年以来，生物医药板块投资金额近40亿元，其中子基金13个，直投项目超30个。(第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9864341.d.html</link>
-            <guid>5103139</guid>
-            <pubDate>Sat, 19 Sep 2026 06:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：华为全联接大会发布AIDC能源基础设施新品，储能与液冷加速升级】中信证券研报指出，9月17-18日，华为召开全联接大会，17日下午召开AIDC基础设施峰会，围绕源网荷储AIDC进一步发布新一代能源及热管理产品，包括泰山UPS、恒山集中式直流UPS、最高密电力模块5.0、智能锂电5.0以及AI智能液冷系统等。华为提出面向AIDC进行Watt、Heat、Bit及建设模式“3+1”重构，并通过MIMO架构实现多电源输入、多制式输出及多层级储能协同。中信证券认为，随着AIDC向百MW、GW级发展、单柜功率持续提升，传统数据中心供电及散热体系正在加速重构，其中储能将由传统备电向负载平滑、电网友好及能源调节升级，液冷亦由单一制冷设备向智能热管理系统升级，储能及液冷有望成为AIDC基础设施的重要增量环节。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3090380.d.html</link>
-            <guid>5103138</guid>
-            <pubDate>Sat, 19 Sep 2026 06:50:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：昇腾960发布提前，竞争步入系统时代】中信证券研报指出，华为2026全联接大会表明国产算力已从“单卡”升维为“系统级方案”的全栈竞争，国产算力全产业链将受益，从稀缺的先进制程能力，到百花齐放的设计公司，再到超节点，均会迎来放量机会，同时先进制程、先进封装、先进存储以及配套产业链有望迎来强劲增长动能。建议关注：1）AI芯片设计公司。2）上游供应链。3）其他。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9862552.d.html</link>
-            <guid>5103137</guid>
-            <pubDate>Sat, 19 Sep 2026 06:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦安全部队打死8名自杀式爆炸袭击者】当地时间19日，巴基斯坦开伯尔-普什图省警方通报称，巴安全部队已完成对18日实施自杀式爆炸袭击的武装分子的清剿行动，8名武装分子被全部打死。巴基斯坦西北部开伯尔-普什图省18日发生自杀式爆炸袭击，截至目前，已造成31人死亡，其中包括16名警察，另有逾百人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9861840.d.html</link>
-            <guid>5103136</guid>
-            <pubDate>Sat, 19 Sep 2026 06:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：预计美联储年内将再加息25bps，A股配置上建议维持AI+能化的结构】中信证券发布研报称，预计美联储年内将再加息25bps，明年可能按兵不动。美国金融条件目前难以有意义地宽松，在增长叙事下应寻找有基本面支撑而非仅受益于流动性的资产。大类资产方面，在美联储面临持续加息风险的情况下，中国债券、大宗商品和低估值权益等具有安全性和确定性的资产更值得关注。A股方面，加息风险释放应被视作买点而非卖点，AI仍是当下少数能够抵抗利率上行的板块，利率预期持续上修可能会重新加大K型分化。配置上建议维持AI+能化的结构。港股方面，高股息的相对收益率优势有所收窄，配置上应进一步考察现金流稳定性、盈利确定性和分红可持续性，并关注南向持仓占比较高、外资边际定价权相对较低的细分方向。美股方面，若日元兑美元进一步升值的预期产生，美股科技股或面临更大的压力。建议关注美股军工、能源和金融板块。中长期看，“财政收缩+低通胀+稳定增长”的组合有望压低长端利率，推动美股重回“估值+盈利”的双击行情。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3088823.d.html</link>
-            <guid>5103135</guid>
-            <pubDate>Sat, 19 Sep 2026 06:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信建投：预计Vera Rubin 26/27/28年分别出货1/7/9万柜】中信建投发布研报称，新一代芯片带来了电源架构迭代和打破原有格局的机柜。该机构认为大陆企业有望在这一轮Rubin系列芯片放量、800VDC逐步渗透的背景下提升份额。当前英伟达存货、业绩会指引均显示Rubin进入量产爬坡阶段，预计Vera Rubin 26/27/28年分别出货1/7/9万柜，Vera Rubin Ultra 则在27/28年分别出货0.5/5万柜，将带动110kW柜内电源放量。同时800VDC供电在这一代逐步渗透，27、28年800V Sidecar进入增长快车道，中信建投测算，Sidecar 26/27/28年市场空间在8.5/136/1035亿元，接近千亿级市场。带动电源市场总盘子和ASP持续通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9860347.d.html</link>
-            <guid>5103134</guid>
-            <pubDate>Sat, 19 Sep 2026 06:46:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月至8月张家界接待入境游客近百万人】依托独具特色的石英砂岩峰林地貌，湖南张家界跳出传统山水观光模式，以高端极限赛事、网红高空体验项目为核心，打造沉浸式国际户外运动目的地，吸引了大量海外游客。数据显示，2026年1月至8月，张家界接待入境游客99.45万人，同比增长20.47%；实现旅游外汇收入10961万美元，同比增长40%。 （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3087025.d.html</link>
-            <guid>5103133</guid>
-            <pubDate>Sat, 19 Sep 2026 06:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影《空枪》 上映32天， 总票房破6亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9856024.d.html</link>
-            <guid>5103132</guid>
-            <pubDate>Sat, 19 Sep 2026 06:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  裕信银行、Credem、ICCREA 竞购意大利中南部银行（Banca del Mezzogioro）。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3083205.d.html</link>
-            <guid>5103131</guid>
-            <pubDate>Sat, 19 Sep 2026 06:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陈美宝：“粤艇南下”最快下月实施 将适时公布详情安排】香港特区行政长官李家超于9月16日公布香港首个五年规划，并发表2026年施政报告。多名特区政府主要官员由9月17日至9月21日举行记者会，阐述五年规划及施政报告中其政策范畴的相关措施。 香港特区政府运输及物流局局长陈美宝今日（19日）上午出席记者会，表示特区政府持续优化跨境车辆往来，包括“港车北上”及“粤车南下”。 陈美宝透露，特区政府与广东省当局会因应“粤艇南下”及“港艇北上”签署两份相关工作安排，预计最快会在10月实施“粤艇南下”，带动跨境休闲消费及香港的游艇经济发展，稍后将适时公布详情及实际安排。 （大湾区之声）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3082201.d.html</link>
-            <guid>5103130</guid>
-            <pubDate>Sat, 19 Sep 2026 06:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯总理警告欧洲军事冲突风险空前】斯洛伐克总理菲佐当地时间9月17日警告，欧洲全境发生军事冲突的可能性“从未如此严重和紧张”。他指出，现在欧洲响起的不少“好战言论”，实际是为掩盖那些无力解决的非法移民、竞争力下滑、能源价格高企等问题。而欧盟公布2028-2034年长期预算提案的最大赢家也将是军火企业，而不是民众。菲佐同时明确表示，不希望斯洛伐克因北约第五条——集体防御条款而被卷入战争。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9853027.d.html</link>
-            <guid>5103129</guid>
-            <pubDate>Sat, 19 Sep 2026 06:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利今年报告超650例西尼罗河病毒感染病例】据意大利卫生部门18日公布的数据，今年以来意大利已报告超650例西尼罗河病毒感染病例，约占欧洲病例总数的一半。当地研究人员表示，由于气候变暖导致的高温有利于蚊虫繁殖，致使西尼罗河病毒传染范围更广，且传播季延长。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9852662.d.html</link>
-            <guid>5103128</guid>
-            <pubDate>Sat, 19 Sep 2026 06:33:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【秘鲁因厄尔尼诺影响下调今年经济增长预期】秘鲁中央储备银行行长贝拉尔德18日说，因厄尔尼诺现象造成的影响超出预期，秘鲁央行将2026年秘鲁经济增长预期从此前的3.4%下调至3.2%。贝拉尔德当天在介绍秘鲁2026年9月通胀报告时说，发生更大强度气候事件的可能性有所上升，央行因此下调对第一产业部门的增长预期，其中尤其涉及渔业和农业。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3078446.d.html</link>
-            <guid>5103127</guid>
-            <pubDate>Sat, 19 Sep 2026 06:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国接收首架F-35隐形战机】9月18日，德国在美国得克萨斯州沃思堡接收了首架F-35隐型战斗机。德国国防部长皮斯托里乌斯参加了交接仪式。德国向洛克希德·马丁工厂订购了35架F-35隐型战机，这批战机将取代德国“旋风”战斗轰炸机，推动德国军队现代化进程，同时维持其在北约核共享体系中的角色。首批F-35隐型战机将留在美国用于培训，预计于2030年进入战备状态。 此前，由于存在控制权之争，法国、德国及西班牙联合开发六代战机的计划宣告破产，导致德国空战力量发展出现长期缺口，目前德国正考虑加购F-35战机作为过渡，另外有可能由空客牵头研发本国战机。（凤凰卫视）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9849472.d.html</link>
-            <guid>5103126</guid>
-            <pubDate>Sat, 19 Sep 2026 06:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【克宫辟谣：无征召30万军人计划】据俄罗斯连塔网9月18日报道，俄罗斯总统新闻秘书德米特里·佩斯科夫表示，俄政府没有在2026年底前动员征召30万军人的计划。 “没有。不存在这类计划。”克里姆林宫发言人表示。 他此番回应针对的是彭博社的一篇报道，该报道称俄罗斯可能在国家杜马选举结束后启动动员计划。 俄罗斯安全会议副主席德米特里·梅德韦杰夫曾表示，俄罗斯没有进行动员的必要，因为俄军招募合同制兵员补充军力的速度超出了预期。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9849303.d.html</link>
-            <guid>5103125</guid>
-            <pubDate>Sat, 19 Sep 2026 06:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中信证券：极致散热登场，金刚石迎来产业化元年】中信证券研报称，在AI芯片功耗陡峭攀升、传统金属散热逼近物理极限及金刚石制备技术工艺持续优化三重因素驱动下，金刚石散热行业有望迎来产业化元年的投资机遇。中信证券建议围绕率先商用交付和产能量产卡位显著两条主线布局：一、聚焦行业头部，率先实现散热片小批量供货、装备自研与产能规模领跑的企业有望充分受益于需求放量；二、关注工艺领先，具备大尺寸制造与全产业链能力，且加速扩产布局的相关企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9847589.d.html</link>
-            <guid>5103124</guid>
-            <pubDate>Sat, 19 Sep 2026 06:25:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乘联分会崔东树：2026年中国汽车引领中国出口高质量增长】乘联分会崔东树发文称，近日海关总署发布2026年1-8月份进出口数据。中国商品贸易出口在2026年总体表现相对强势增长，2026年1-8月出口29255亿美元，同比增长19%。尤其在8月份达到4014亿美元的历年8月最高水平，中国出口贸易增长表现很强。从中国对美贸易顺差看，近几年一直保持较强的年度超3000亿美元的良好走势，今年1-8月份的中国对美贸易顺差1997亿美元较好，2026年的综合顺差依旧保持良好态势。今年2月时有81种商品占53%的商品处于近两年最低位，随着人民币升值，今年8月的出口商品价格处于高位的大幅增长，0分位的仅有14种商品占9%，50%-80%的高位的42%，价格位置在50%以下的有37%的商品品类，较2月改善巨大。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9843203.d.html</link>
-            <guid>5103123</guid>
-            <pubDate>Sat, 19 Sep 2026 06:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为：昇腾已跨过生态拐点，有能力有机会构建AI新生态】9月19日，华为计算战略与业务发展部部长朱照生表示，昇腾已经跨越了生态的拐点，完全有能力、有机会在Agentic时代构建AI新生态。从社区来看，昇腾CANN开源社区月均活跃用户数超过5200人，自今年6月起成为国内活跃度最高的开源社区，社区非华为开发者数量超过华为开发者数量，目前日均新增合入代码超过3万行。模型层面，基于昇腾完成预训练的大语言模型和多模态模型已超过40个，昇腾成为国内唯一支持预训练的AI算力平台。生态层面，昇腾除自身开源CANN外，已接入PyTorch等主流开源框架。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3068519.d.html</link>
-            <guid>5103122</guid>
-            <pubDate>Sat, 19 Sep 2026 06:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗司法机构网站：伊朗处决一名在战争期间向以色列传递导弹阵地情报的定罪男子。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9840273.d.html</link>
-            <guid>5103121</guid>
-            <pubDate>Sat, 19 Sep 2026 06:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：俄防空系统夜间在俄上空摧毁344架乌克兰无人机。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9839710.d.html</link>
-            <guid>5103120</guid>
-            <pubDate>Sat, 19 Sep 2026 06:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州茅台将新增广州与郑州两大发货仓】贵州茅台宣布，将于9月19日在原有贵阳、南京与北京三大发货仓的基础上，新增广州与郑州两大发货仓，根据订单实际情况就近发货。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3064863.d.html</link>
-            <guid>5103119</guid>
-            <pubDate>Sat, 19 Sep 2026 06:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【应急管理部针对四川启动国家地质灾害四级应急响应】9月19日凌晨，四川攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流，有人员失联。同时，据气象部门预测，未来三天，四川东北部有大雨，局地暴雨。经与自然资源部联合会商研判，四川东北部局部地区发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部启动国家地质灾害四级应急响应，并派出工作组赶赴现场指导抢险救援。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9834655.d.html</link>
-            <guid>5103118</guid>
-            <pubDate>Sat, 19 Sep 2026 06:05:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度Tata Sons据称已启动上市筹备工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3061957.d.html</link>
-            <guid>5103117</guid>
-            <pubDate>Sat, 19 Sep 2026 06:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2026上海合作组织传统医学论坛发布传统医药“四新”】2026上海合作组织传统医学论坛传统医药新政策新标准新技术新产品发布会日前在江西南昌举办，汇聚了来自21个国家的专家、产业代表，集中发布传统医药领域政策成果、国际标准、创新技术与新产品。发布会上，多国代表分享传统医药发展政策与实践经验，两项中医药ISO国际标准正式发布。一批数字化传统医药创新成果集中亮相，涵盖AI辅助诊疗、热敏灸机器人、中药智能炮制系统、脑电大模型、名老中医智能体等前沿技术及产品。发布会集中展示的创新成果为上合组织传统医药领域务实合作注入新动力。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9834224.d.html</link>
-            <guid>5103116</guid>
-            <pubDate>Sat, 19 Sep 2026 06:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【车企竞逐人形机器人新赛道】近日小鹏集团宣布，旗下人形机器人自动化产线正式启用。小鹏集团这一举动是当前车企竞逐人形机器人赛道的一个缩影，理想、奇瑞等多家车企纷纷加码布局。车企欲将造车的供应链、场景和技术优势，迁移至人形机器人赛道上，或逐步成为这一领域的关键力量。 当前，车企通过自研、孵化独立主体以及战略投资或场景合作等多种方式积极布局人形机器人赛道。（新华财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3057574.d.html</link>
-            <guid>5103115</guid>
-            <pubDate>Sat, 19 Sep 2026 05:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日特朗普要闻】
-1、特朗普谈及伊朗时，称“战争很快就会结束”。他重申，伊朗不会拥有核武器。
-2、特朗普声称，“美国正在与胡塞武装对话，胡塞武装同样希望达成协议。”
-3、美国白宫发布声明表示，特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。
-4、特朗普在社交媒体上发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。
-5、白宫9月18日发表事实清单称，特朗普总统宣布全美50个州的医疗补助计划（Medicaid）将纳入“最惠国”（MFN）处方药定价体系，制药商需通过回扣确保医疗补助最终支付价格不高于其他发达国家最低价格。
-6、特朗普在白宫向媒体重申了他稍早前在社交媒体平台发帖宣布的“禁止CNN等3家‘假新闻媒体’进入白宫”。特朗普还点名《纽约时报》和《华盛顿邮报》，称这两家也是“假新闻媒体”，可能也将上禁令名单。
-7、特朗普当地时间周五表示，其子小唐纳德・特朗普告诉他，将会偿还一名俄罗斯寡头。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9829164.d.html</link>
-            <guid>5103114</guid>
-            <pubDate>Sat, 19 Sep 2026 05:56:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刘元春：经济过度追求短期平衡会失去穿越周期的能力】上海财经大学校长刘元春9月19日在清华五道口首席经济学家论坛上表示，扩内需是我国的长期战略，而非短期的政策选择，是逆周期与跨周期相结合的战略，本质上超越了简单的短期调控范畴。消费疲软若源于结构性因素而非单纯的周期性因素，仅靠积极财政政策和宽松货币政策是难以根本解决。当前中国经济正处于从传统“投资+出口”驱动型，向创新驱动型模式的转型关键期。在模式转型过程中，目前的供求关系不平衡应该是常态，但这个时候如果过度追求短期平衡，恰恰会失去穿越周期的能力。“过度强调把消费搞起来（而忽视高科技和供给端的突破），是一种陷阱。一个民族如果没有超级竞争力，没有真正穿越周期的能力，简单地强调‘分蛋糕’不仅分不好，还会分得更差。”刘元春称。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9828093.d.html</link>
-            <guid>5103113</guid>
-            <pubDate>Sat, 19 Sep 2026 05:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川启动地质灾害三级应急响应】19日凌晨，四川省攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流。 记者从四川省自然资源厅获悉，灾害发生后，四川省地质灾害防治指挥部启动省级地质灾害三级应急响应。四川省自然资源厅立即调度攀枝花市、盐边县自然资源主管部门，指导迅速开展应急处置，并派出专家工作组赶赴现场。 目前，当地自然资源主管部门已开展应急调查、监测预警和隐患排查工作，并划定危险区域、协助做好现场人员管控，为抢险救灾提供技术支撑。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3055488.d.html</link>
-            <guid>5103112</guid>
-            <pubDate>Sat, 19 Sep 2026 05:54:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[玻利维亚总统表示，玻利维亚约90%的柴油依赖进口，政府每周在补贴上花费约5500万美元。从今天起，柴油的价格将等于在国外购买它的成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwvz3052270.d.html</link>
-            <guid>5103111</guid>
-            <pubDate>Sat, 19 Sep 2026 05:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王兴兴：当前人形机器人发展最大的短板是“对齐”】9月9日，在2026民营经济创新发展大会上，王兴兴谈及人形机器人产业的下一个十年时表示：今天的人形机器人能跳舞、能翻跟头、能完成不少指令，但在很多场景，机器人还实现不了“换了环境照样能干”。他说，当前人形机器人发展最大的短板是“对齐”。AI模型的输入、输出与真实机器人之间“对齐”程度不够，机器人真正在干活时存在着误差，尤其是“最后几厘米甚至是几毫米”的误差，正是这毫厘之差，卡住了机器人泛化能力的提升与走入千家万户的成功率。在此次民营经济创新发展大会上，王兴兴提到了一个场景：当人带着一个从未进过家门的机器人，随口吩咐一句“把房间收拾一下”，机器人在没有提前训练的情况下，能把凌乱的房间打理得井井有条，届时，机器人行业可能迎来爆发式增长。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9823734.d.html</link>
-            <guid>5103110</guid>
-            <pubDate>Sat, 19 Sep 2026 05:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高市早苗起用涉“黑金”丑闻议员出任内阁大臣，日媒：66.6%受访者认为“不妥当”】日本首相高市早苗17日改组内阁，有因自民党“黑金”丑闻而受到党内处分的众议员入阁，引发广泛争议。日本共同社17日、18日实施的全国紧急电话舆论调查结果显示，对于高市起用涉“黑金”丑闻议员出任内阁大臣，66.6%的受访者认为“不妥当”。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisiwwa9821005.d.html</link>
-            <guid>5103109</guid>
-            <pubDate>Sat, 19 Sep 2026 05:44:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【300余台智能机器人齐亮相 三大领域展示硬核实力】由中央广播电视总台主办的“智竞未来——首届智能机器人应用技能大展”浙江站活动明天（20日）将在杭州余杭举行。本次活动共汇聚了50余种类型、300余台智能机器人，涵盖特种作业、智慧商业、民生服务三大领域，集中展示智能机器人从技术展示到实战应用的硬核能力。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3174480.d.html</link>
-            <guid>5103108</guid>
-            <pubDate>Sat, 19 Sep 2026 05:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今年前8个月开行旅游列车2501列 多地专列上新不断】记者今天（19日）从国铁集团了解到，今年1月至8月，全国铁路发送旅客33.2亿人次，同比增长3.9%，创历史同期新高。全国铁路日均安排开行旅客列车11508列，同比增长5.0%。前8个月，跨境客流量增幅明显。广深港高铁发送跨境旅客2340.8万人次、同比增长10.7%，中老铁路发送跨境旅客24.5万人次、同比增长39.1%，全国铁路发送外籍旅客1668.3万人次、同比增长33.3%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9944578.d.html</link>
-            <guid>5103107</guid>
-            <pubDate>Sat, 19 Sep 2026 05:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加速全球化布局，广汽领程亮相汉诺威国际交通运输博览会】近日，在2026汉诺威国际交通运输博览会上，广汽集团旗下核心新能源商用车平台广汽领程集中展示了新能源重商、轻商业务布局的创新产品、前沿技术及开放生态成果。此次亮相是广汽领程全球化布局的重要里程碑。（广州国资）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3169570.d.html</link>
-            <guid>5103106</guid>
-            <pubDate>Sat, 19 Sep 2026 05:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲机构调整美债配置释放信号】美国10年期国债收益率日前突破5%，为2007年以来最高水平。随着美国联邦政府债务总额8月突破40万亿美元，部分欧洲机构开始调整美债等资产配置，美债市场面临的压力进一步受到关注。挪威央行投资管理公司建议，将政府债券在其债券投资基准中的比重从70%降至50%。路透社测算，如果相关调整最终实施，该基金当前约2150亿美元的美国国债持仓可能减少近800亿美元，美国国债将成为此次调整中削减规模最大的单一政府债券品种。瑞士资产管理机构斯维斯坎托公司日前发布报告说，30年期美债收益率近期突破此前波动区间，该机构因此降低美国长期国债配置。英国布朗-希普利公司认为，美国财政部扩大长期国债回购虽能短暂支撑债券价格，但长期来看难以解决美国财政面临的根本性问题，因此短期内维持对美债的低配建议。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3169331.d.html</link>
-            <guid>5103105</guid>
-            <pubDate>Sat, 19 Sep 2026 05:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东：聚焦在未来科技制高点具有重要牵引作用的高端聚烯烃等核心领域，强化关键产品技术攻关】近日，山东省工业和信息化厅就《山东省“十五五”高端化工产业发展实施方案（征求意见稿）》面向社会公开征求意见。其中提出：
-
-（一）基础化工产业强基固本行动。聚焦石化、煤化、盐化等三个传统领域，以调整优化全省整个化工产业的原料自给体系为根基，稳妥有序推进产能压减整合，在增强原油加工、烯烃、芳烃、甲醇、合成氨等大宗基础化工产品的调控保障能力基础上，着力向中下游延伸升级。
-
-（二）化工新材料产业培强壮大行动。聚焦在未来科技制高点具有重要牵引作用的高端聚烯烃、工程塑料、聚氨酯、氟硅材料、尼龙、生物化工、碳纤维等核心领域，强化关键产品技术攻关，打破国际封锁垄断，完善产业上下游的延链配套融合，迎头赶上化工新材料发展新赛道。
-
-（三）精细化学品产业创新提质行动。紧跟国际精细化学品产业发展趋势和终端应用场景方向，立足电子专用材料、专用化学品、日用化学品、农药和涂料、轮胎高品质原料等领域，瞄准工艺技术绿色化智能化、产品性能专用化高端化、技术创新融合化集成化、生产企业规模化集团化，坚持需求牵引、因业施策，不断增强精细化工产品的高端供给能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3168653.d.html</link>
-            <guid>5103104</guid>
-            <pubDate>Sat, 19 Sep 2026 05:27:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东：鼓励企业开展绿色催化、生物制造、电化学合成、新材料中间体新合成工艺等颠覆性技术研发】近日，山东省工业和信息化厅就《山东省“十五五”高端化工产业发展实施方案（征求意见稿）》面向社会公开征求意见。其中提出，强化关键核心技术攻关。常态化征集重大创新任务，围绕重点产业链前沿动态，组织开展新旧动能转换重大产业攻关项目。推动企业出资、社会揭榜，支持“链主”企业牵头建立创新联合体，积极申报化工行业创新发展揭榜挂帅任务。重点突破茂金属聚乙烯、高碳α-烯烃、碳8-POE、环烯烃共聚物（COC/COP）、PBO纤维、电子级光刻胶、高纯湿电子化学品、特种异氰酸酯、生物制造、医用级树脂分子量精密控制、痕量杂质去除及单体纯化等关键材料制备技术。深化原油催化裂解制烯烃（UPC）技术工程化应用，推动传统炼化向轻质化、低碳化转型。鼓励企业开展绿色催化、生物制造、电化学合成、新材料中间体新合成工艺等颠覆性技术研发。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3166854.d.html</link>
-            <guid>5103103</guid>
-            <pubDate>Sat, 19 Sep 2026 05:24:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东：“十五五”时期高端化工产业拟锚定16个发展方向】近日，山东省工业和信息化厅就《山东省“十五五”高端化工产业发展实施方案（征求意见稿）》面向社会公开征求意见。其中提出，到2030年，全省化工行业增加值年均增长5%以上，高端化工经济效益占全省化工产业比重达到65%左右。基础化工领域能源保供体系、原料保障结构进一步优化，化工新材料和精细化学品领域产品竞争力明显提升。提出实施基础化工产业强基固本、化工新材料产业培强壮大、精细化学品产业创新提质三大行动，明确了石化、煤化、盐化等16个细分领域的发展方向。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3165133.d.html</link>
-            <guid>5103102</guid>
-            <pubDate>Sat, 19 Sep 2026 05:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马斯克： 无聊公司（The Boring Company）的下一款周边产品，要把铀放进天王星。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9935501.d.html</link>
-            <guid>5103101</guid>
-            <pubDate>Sat, 19 Sep 2026 05:17:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川盐边县石家沟隧道附近突发泥石流 地灾专家已赶赴现场】总台记者从四川省自然资源厅获悉，9月19日凌晨，四川攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流。灾害发生后，自然资源部地质勘查管理司启动地质灾害防御Ⅳ级响应，四川省地质灾害防治指挥部启动省级地质灾害三级应急响应。四川省自然资源厅调度攀枝花市、盐边县自然资源主管部门，指导迅速开展应急处置，并派出专家工作组赶赴现场。目前，攀枝花市、盐边县自然资源主管部门已调动驻守支撑队伍7台车辆、30名专业技术人员携带6套无人机等专业设备到达灾害现场，正开展应急调查、监测预警和隐患排查，划定危险区域、协助做好现场人员管控，为抢险救灾提供技术支撑。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9934313.d.html</link>
-            <guid>5103098</guid>
-            <pubDate>Sat, 19 Sep 2026 05:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据猫眼专业版数据，电影 《欢迎来龙餐馆》 上映40天， 总票房破22亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3161595.d.html</link>
-            <guid>5103097</guid>
-            <pubDate>Sat, 19 Sep 2026 05:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国首相将与特朗普会晤 说服释放“爱国者”防空导弹援乌】安迪·伯纳姆即将与被其手下官员视作造成英国政府经济困境的人正面会面：唐纳德·特朗普。 这位英国新首相仍努力维持上任头两个月一贯的乐观姿态，他将于下周在联合国大会期间与美国总统会晤。 但伯纳姆的幕僚私下愈发担忧，特朗普的相关举措可能会导致今年冬季能源账单、通胀与利率同步走高，危及新首相降低生活成本的核心竞选承诺。一名工党高级官员称，这一局面让伯纳姆的蜜月期在本周戛然而止，而根源全在特朗普。据知情人士透露，伯纳姆此次会面的首要目标是说服特朗普释放“爱国者”防空导弹储备，以便在冬季前交付乌克兰。双方还将探讨欧洲如何缓解中东局势扰动。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9932788.d.html</link>
-            <guid>5103096</guid>
-            <pubDate>Sat, 19 Sep 2026 05:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北交所IPO排队企业达223家 已超沪深两市总和】截至目前，年内北交所上市新股数量已接近60家，为2024年以来之最。更值得关注的是，北交所当前IPO排队企业数量达223家，已超过沪深两市的总和。随着沪深上市渠道收窄，北交所承接了更多的IPO需求，但企业现在到北交所上市也并不容易。多位业内人士向记者指出，表面上看北交所审核和上市数量均明显加快，但由于更加聚焦专精特新和创新药属性，企业其实上市难度在加大。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3158096.d.html</link>
-            <guid>5103095</guid>
-            <pubDate>Sat, 19 Sep 2026 05:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：乌克兰决定终止与白俄罗斯之间一项关于及时通报核事故协议】综合塔斯社等媒体18日报道，乌克兰方面决定终止与白俄罗斯之间一项关于及时通报核事故的协议。塔斯社称，根据乌克兰政府网站发布的消息，乌方决定终止与白俄罗斯之间一项关于及时通报核事故与在辐射安全领域合作的协议，该协议于2001年10月签署。乌外交部应按照有关规定向白俄罗斯方面通报这一决定。截至发稿，暂未看到白俄罗斯官方公开对这一消息作出回应。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9929586.d.html</link>
-            <guid>5103094</guid>
-            <pubDate>Sat, 19 Sep 2026 05:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京批欧领导人宣扬对俄开战】俄罗斯总统普京9月18日主持召开俄军事工业委员会会议时表示，一些欧洲领导人公开宣称正在为与俄罗斯开战做准备，不过是借此挽救他们不断下滑的支持率，掩盖他们在经济和社会政策上的失误，但收效甚微，毫无帮助。普京称欧洲民众已明确表示不希望与俄罗斯开战，但一些欧洲领导人反而继续加剧紧张局势，把乌克兰人当作炮灰。普京强调俄罗斯对欧洲国家没有任何侵略企图，愿意与欧洲邻国开展合作，恢复关系。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9928239.d.html</link>
-            <guid>5103093</guid>
-            <pubDate>Sat, 19 Sep 2026 05:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黄志强已任国家开发银行行长】据国家开发银行网站“领导班子”栏目显示，黄志强已任国开行党委副书记、副董事长、行长。公开资料显示，黄志强出生于1970年6月，江苏常熟人，在职研究生，中共党员，第二十届中央候补委员。（长安街知事）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3151417.d.html</link>
-            <guid>5103092</guid>
-            <pubDate>Sat, 19 Sep 2026 04:55:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电梯行业迎来新一轮产业升级 5只电梯概念股逆势上涨】2025年“好房子”写入政府工作报告；2026年，相关政策进一步深化，对安全、舒适、绿色、智慧的居住环境提出更高要求。电梯也从“基础配套”逐渐转变为衡量居住品质的重要指标。据新华社消息，当前，作为全球电梯产能大国，中国电梯市场需求从“增量扩张”转向“存量优化”，后服务市场正超越新梯成为新的核心增长极。国家市场监督管理总局的数据显示，目前全国电梯保有量已超1200万台，其中运行15年以上的老旧电梯超110万台，老旧小区加装电梯或旧梯更新的需求集中释放。电梯概念在A股市场属于偏冷门题材，布局产业链的上市公司数量相对较少，合计不足20家。据证券时报·数据宝统计，截至9月18日收盘，电梯概念股合计A股市值1682.8亿元。今年以来电梯概念股平均下跌5.28%，跑输同期上证指数。5只电梯概念股逆势上涨，分别为快意电梯、神力股份、华菱精工、世嘉科技、展鹏科技。估值水平方面，截至9月18日收盘，滚动市盈率低于30倍的电梯概念股有4只，分别是广日股份、康力电梯、广东鸿图、上海机电。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3150315.d.html</link>
-            <guid>5103091</guid>
-            <pubDate>Sat, 19 Sep 2026 04:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【施一公：西湖大学放弃科研量化指标、不设科研奖励】9月19日，在第六届新基石50²论坛上，中国科学院院士、西湖大学校长施一公表示，目前西湖大学师生员工总数5000人，预计2030年达到7200人，规模大约是国内同类研究型大学的十分之一。他提到了西湖大学的新型科技评价标准：摒弃“四唯”、放弃科研量化指标、不设任何形式的科研奖励。西湖大学老师不允许兼职，内部没有任何形式的科技奖励，没有一年一年对助理教授、副教授和教授文章等科研评价，而是采取为科学问题而战的作风。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3149471.d.html</link>
-            <guid>5103090</guid>
-            <pubDate>Sat, 19 Sep 2026 04:50:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国CNS论文数量比四年前增加125%】9月19日，第六届新基石50²论坛上，中国科学院院士、国家自然科学基金委员会主任窦贤康表示，根据统计，中国CNS论文（发表在顶级期刊《细胞》《自然》《科学》）增速显著高于其他可比国家，包括美国和德国，2025年中国CNS论文数量相比2021年增长125%。2026年截至目前，中国CNS论文（最后通讯）占比20%，有所增长，美国降至47%。今年计入统计的所有CNS论文中，中国学者一作或共同一作的占比则达到45%。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3148962.d.html</link>
-            <guid>5103089</guid>
-            <pubDate>Sat, 19 Sep 2026 04:49:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[也门方面驳斥沙特关于袭击圣城麦加的说法。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3145226.d.html</link>
-            <guid>5103088</guid>
-            <pubDate>Sat, 19 Sep 2026 04:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【铁路12306持续识别遏制恶意抢票行为 维护公平售票环境】中国铁路发文称，自9月23日中秋国庆假期运输火车票开售以来，为营造公平公正购票环境，铁路12306持续识别遏制恶意抢票行为，采用大数据分析和风控技术，精准识别频繁大量为非本人购票的铁路12306注册账号和频繁大量为非本人订单支付的支付账户、通过伪造终端设备模仿用户购票操作等异常行为，继续采用相关技术限制措施，将有异常行为的铁路12306注册账号放入慢速队列，对有异常行为的支付账户拒绝出票，这些有异常行为的铁路12306注册账号购票时会显示等待、支付账户支付时会显示购票失败。
-
-自今年中秋国庆火车票开售以来，铁路12306已累计将711.7万笔交易放入慢速队列，对102.3万笔交易拒绝出票，共拒绝出票133.1万张票，有力遏制了恶意抢票行为。
-
-请广大旅客朋友务必使用“铁路12306”官方网站、手机客户端等官方渠道购票。铁路12306从未与任何第三方平台机构开展合作，没有任何购票加速包、购票会员费、挑选车厢座位费等额外收费，发生改签、退票时严格按规定办理，同时严格依法保护旅客个人信息安全。通过第三方平台购票不仅不会增加成功率，反而会更慢或购票失败。铁路12306技术中心将持续关注新的恶意抢票形态，有针对性地采取防控措施，同时持续完善12306服务功能，提升购票体验，努力为广大旅客营造公平公正的购票环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3142235.d.html</link>
-            <guid>5103087</guid>
-            <pubDate>Sat, 19 Sep 2026 04:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼巴布亚省发生5.8级地震】据印尼气象、气候和地球物理局发布的报告，当地时间9月19日11时18分，印尼巴布亚省萨尔米县东北约75公里处发生5.8级地震，震源深度10公里。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9914500.d.html</link>
-            <guid>5103086</guid>
-            <pubDate>Sat, 19 Sep 2026 04:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质调查局：印度尼西亚阿贝普拉西北偏西210公里处发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9913194.d.html</link>
-            <guid>5103085</guid>
-            <pubDate>Sat, 19 Sep 2026 04:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【调查显示软件故障致英国多地机场瘫痪】英国全国空中交通管理公司18日发布的一份初步调查报告认定，上周英国多地机场大范围瘫痪、进出港逾2000架次航班取消，根源是一处“毫秒级”软件故障。美联社援引这份报告报道，调查显示英国空管系统9月8日发生软件故障，“整个故障发生在1毫秒之内”，而非当时很多人猜测的人为操作失误。该系统负责分配航班代码，供空管人员在雷达上识别航班。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3138513.d.html</link>
-            <guid>5103084</guid>
-            <pubDate>Sat, 19 Sep 2026 04:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【顾坤任淮安市委书记】据江苏省委组织部，江苏省委决定：顾坤同志任淮安市委书记。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9910449.d.html</link>
-            <guid>5103083</guid>
-            <pubDate>Sat, 19 Sep 2026 04:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【研究：格陵兰和南极冰盖40多年损失逾11万亿吨冰】瑞典乌普萨拉大学研究人员参与的一项最新国际研究显示，1979年至2023年，格陵兰和南极冰盖共损失约11.3万亿吨冰，对应全球平均海平面上升超过3厘米。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9909393.d.html</link>
-            <guid>5103082</guid>
-            <pubDate>Sat, 19 Sep 2026 04:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏省政协召开“加强投资于人，促进人的全面发展”主席专题协商会】江苏省委、省政府深入贯彻落实习近平总书记重要论述和党中央决策部署，主动把握发展阶段新变化，积极探索投资于物和投资于人协同发力的实践路径，先后出台一系列增量政策，围绕婚育、养育、教育、就业、健康、养老全链条搭建跨部门政策矩阵，投资于人的保障机制日益完善。（新华日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3136118.d.html</link>
-            <guid>5103081</guid>
-            <pubDate>Sat, 19 Sep 2026 04:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏省委常委会召开会议学习贯彻习近平总书记近期重要讲话重要指示精神 坚持智能化绿色化融合化方向 持续提升先进制造业创新力竞争力综合实力】9月18日，江苏省委常委会召开会议，认真学习习近平总书记近期重要讲话重要指示精神，研究贯彻落实举措。省委书记信长星主持会议并讲话。会议传达学习了习近平总书记就发展先进制造业作出的重要指示精神，学习贯彻全国先进制造业大会精神，指出，习近平总书记的重要指示，深刻阐述了发展先进制造业的重大意义、方向路径和重点任务，为我们做好工作提供了根本遵循。要进一步强化发展先进制造业的使命担当，把坚守实体经济、构建现代化产业体系作为强省之要，坚持智能化、绿色化、融合化方向，大力发展新一代智能制造，加快新兴产业规模应用，加强未来产业前瞻布局，推动传统产业焕新升级，促进先进制造业和现代服务业深度融合，不断增强先进制造业发展动力活力，打造具有国际竞争力的先进制造业基地，为建设制造强国贡献更大力量。（新华日报）]]></title>
-            <guid>5103080</guid>
-            <pubDate>Sat, 19 Sep 2026 04:27:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软AI主管：OpenAI安全事件表明AI的思维链正被AI自身篡改】本周三，OpenAI报告称，在过去六个月中，除了“Hugging Face事件”（国内称为“抱抱脸”）之外，该公司还发现了六起“意外或令人担忧的模型行为”。微软人工智能主管穆斯塔法·苏莱曼（Mustafa Suleyman）周五对此发出警告。苏莱曼指出，人工智能（AI）模型需要始终和人类利益保持对齐。他在接受最新采访时说，“OpenAI发布了一项新的安全事件报告，其中发现证据表明，人工智能的思维链（即其工作记忆）正被人工智能自身篡改，并被修改以向未来版本的自己留下信息。现在我们尚不清楚其背后的原因，但这确实是一个非常严重的情况。”“这也是一个非常具体的例子，说明了这些系统正在变得多么强大，”他补充道。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3134565.d.html</link>
-            <guid>5103079</guid>
-            <pubDate>Sat, 19 Sep 2026 04:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【干燥少雨 厄瓜多尔首都野火难灭】厄瓜多尔消防员18日在直升机支援下，扑救首都基多近郊一座山上的野火，目前已有数十名民众被疏散。基多市消防局官员巴勃罗·安迪诺告诉法新社，野火发生于基多市北部卡西塔瓜山。四架直升机被派往山上协助灭火，另有约100名消防员在地面奋力控制两个火点。安迪诺说，该地区“灌木和树木很多，阵风导致火势蔓延非常快”，消防员“面临巨大风险”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9906180.d.html</link>
-            <guid>5103078</guid>
-            <pubDate>Sat, 19 Sep 2026 04:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汪涛：创造未来产能、创新，要靠企业投资】9月19日，2026清华五道口首席经济学家论坛在清华大学举行，主题为“2026中国与世界经济回顾和展望——全球再平衡与国际货币体系重构”。瑞银投资银行资深研究顾问汪涛出席并演讲。汪涛指出，在AI快速发展和地缘政治的背景下，全球经济面临的一大挑战是全球经济发展的分化，即所谓的K型发展。目前AI高速发展带来的固定资本投资和创新，基本是美国领先、中国紧随其后，但全球其他地方没有跟随，生产力提高的溢出效应也很有限。对很多发展中国家或中等收入国家来说，它们在分化中已经被逐渐落在后面。 汪涛指出，投资方面，房地产拉动经济的时代已经过去，靠不住了。拉动经济、创造未来产能、创新，实际上要靠企业投资。（睿见）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3130767.d.html</link>
-            <guid>5103077</guid>
-            <pubDate>Sat, 19 Sep 2026 04:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国科学院院士何川：中国对科研投入与重视度领跑全球】在2026新基石50²论坛上，芝加哥大学教授、美国科学院院士、2023年沃尔夫化学奖获得者何川表示，“我在芝加哥大学经常和学生说一件事，就是在一个相对宽松的环境里面，反而会想一些比较有意义的事情。”他谈到，从中外基础研究的对比来看，中国的优势较为明显。“中国政府对科研的重视程度在全球范围内最强的，以及中国儒家文化传统中对知识的尊崇，也为基础研究提供了深厚的土壤。但学术素养的积淀并非一朝一夕之功，可能需要5到10年甚至更长时间，可以多一些耐心。”（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3127313.d.html</link>
-            <guid>5103076</guid>
-            <pubDate>Sat, 19 Sep 2026 04:17:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆市经信委副主任王含：全国每三辆摩托车就有一辆为重庆造，重庆拥有全国最完整摩托车产业体系】9月19日，在重庆举行的“2026中国摩托车重庆论坛”上，重庆市经济和信息化委员会副主任王含介绍，近年来，重庆聚力打造“33618”现代制造业集群体系，全力构建重庆摩托车一小时产业圈。全市摩托车产业呈现出结构优化、向新向上的良好态势。在产业规模方面，今年1—8月，全市完成摩托车产量777.6万辆，增长50.5%。全国每生产三辆摩托车，就有一辆为重庆造。在龙头企业方面，重庆集聚隆鑫、宗申、张雪机车等燃油摩托车龙头企业和雅迪、爱玛、台铃等电动摩托车龙头企业，宗申集团是全国最大的摩托车企业集团。1—8月全国摩托车销量前10强中，重庆企业占据3席；出口前10强中，重庆企业占据5席。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9898018.d.html</link>
-            <guid>5103075</guid>
-            <pubDate>Sat, 19 Sep 2026 04:14:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟税务高官：暂不推行欧盟统一科技巨头税】尽管法国再度敦促欧盟采取行动，但欧盟最高税务官员表示，在穷尽全球层面针对数字服务征税的全部可行方案之前，不会针对亚马逊、谷歌、Meta等科技巨头实施欧盟统一征税。欧盟委员沃普克・霍克斯特拉接受采访时表示，欧盟应当等待，“穷尽寻求全球性解决方案的一切可能”，而针对数字服务企业征税的国际相关努力一直遭到美国反对。他称：“如若不先走完这一步，人们总会质疑，当初本是否应当给予全球方案更多机会。”法国本月呼吁推出欧盟层面统一数字税，认为该项税收可为欧盟未来预算带来可观收入，减轻欧洲纳税人的负担。法国的主张得到欧洲议会支持，但落地这项欧盟统一政策，有可能进一步恶化欧美经济关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3122697.d.html</link>
-            <guid>5103074</guid>
-            <pubDate>Sat, 19 Sep 2026 04:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[皮尤研究中心发布的民调显示，绝大多数美国成年人（约71%）认为未来20年AI会造成岗位减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9893944.d.html</link>
-            <guid>5103073</guid>
-            <pubDate>Sat, 19 Sep 2026 04:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约原油暗盘跌破96美元，日内跌超0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3121005.d.html</link>
-            <guid>5103072</guid>
-            <pubDate>Sat, 19 Sep 2026 04:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦西北部爆炸袭击致死人数升至31人】巴基斯坦警方官员19日证实，该国西北部开伯尔-普什图省发生的两起自杀式爆炸袭击已造成31人死亡，其中包括16名警察，另有逾百人受伤。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3120169.d.html</link>
-            <guid>5103071</guid>
-            <pubDate>Sat, 19 Sep 2026 04:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加州州长签署行政令 要求强制上报AI智能体异常行为】美国加州民主党州长加文·纽森于当地时间周五签署一项行政令，称该令将“大幅加快”人工智能安全举措落地，其中包括可能要求企业为先进AI模型设置“终止开关”，也就是紧急关停机制。 加文·纽森被视作2028年总统大选潜在参选者，他表示，由于联邦政府在AI监管方面做得不足，出台这项行政令很有必要。 州长的这份行政令将召集专家小组，在两个月内给出指引方案，明确加州应如何完善AI安全相关法律。相关提议包括要求AI实验室定期接受审计、强制上报AI智能体出现异常行为的“失控事件”，以及推动为最前沿AI模型配备终止开关。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3119937.d.html</link>
-            <guid>5103070</guid>
-            <pubDate>Sat, 19 Sep 2026 04:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英媒：英国富豪拉特克利夫称对英国失去信心，同时就天然气储备量发出警告，英政府回应】据英国广播公司（BBC）当地时间18日报道，英国富豪拉特克利夫表示，他对英国失去了信心，英国“正在走下坡路”。BBC介绍称，拉特克利夫是化工巨头英力士创始人、曼联俱乐部联合拥有者。他在接受BBC采访时称，高税收和大量移民是英国走向衰落的原因。此外，拉特克利夫还称有关方面未能进一步投资位于北海的油气资源业务是“疯狂之举”，并警告天然气储备处于极低水平，如果今年冬季遭遇寒潮，英国可能会“耗尽天然气”。对于拉特克利夫批评，英国政府表示，正在努力促进经济增长，并且过去两年企业投资有所增加。一名政府发言人表示，预计天然气供应不会出现任何问题：“我们的能源结构多样化，我们对供应安全充满信心。”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9891949.d.html</link>
-            <guid>5103069</guid>
-            <pubDate>Sat, 19 Sep 2026 04:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【张斌：扩内需离不开强有力外部力量打破负向循环 需加大逆周期调节力度】中国社科院世界经济与政治研究所研究员、副所长张斌9月19日在清华五道口首席经济学家论坛上表示，我国经济当前主要的失衡是供强需弱，这是一种总量失衡。“需求不足原因很多，但最要害的地方，在于经营主体预期偏弱，企业和居民不敢投资、花钱。个体行为都是理性、合理的，但微观行为叠加在一起会形成负向的自我放大机制，形成负向循环。”张斌称。张斌认为，打破需求不足局面的关键立足点，首先要打破负向循环。负向循环本身是市场失灵，需要强有力的外部力量打破负向循环，最有效的工具都是加大逆周期调节力度。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9891508.d.html</link>
-            <guid>5103068</guid>
-            <pubDate>Sat, 19 Sep 2026 04:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[布鲁塞尔拒绝了在全欧盟范围内征收数字服务税的呼吁。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9890709.d.html</link>
-            <guid>5103067</guid>
-            <pubDate>Sat, 19 Sep 2026 04:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【9月份沪牌拍卖结果公布】9月沪牌拍卖结果刚刚出炉：个人额度合计拍卖总数4230个，参加拍卖人数25210人，中标率16.8%。最低成交价93700元，平均成交价为93778元，比上个月93868元减少了90元。最低成交价的截止时间是11:29:59第930位。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3115342.d.html</link>
-            <guid>5103066</guid>
-            <pubDate>Sat, 19 Sep 2026 03:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国庆假期第三天火车票今起开售】中秋、国庆假期临近，今年的中秋假期是9月25日至27日，国庆假期是10月1日到7日。按照火车票提前15天预售的规定，10月3日也就是国庆假期第3天的火车票今天开售。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9886181.d.html</link>
-            <guid>5103065</guid>
-            <pubDate>Sat, 19 Sep 2026 03:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内塔尼亚胡升高对《NAZA》导演威胁调门】据路透社9月16日报道，以色列总理内塔尼亚胡16日宣称要通过一项法律，剥夺任何“诽谤以色列士兵”者的公民身份。这是他针对纪录片《NAZA》的以色列籍导演所发出的最新威胁。该片揭露了以军在加沙屠戮平民的罪行。 （参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqc3110890.d.html</link>
-            <guid>5103064</guid>
-            <pubDate>Sat, 19 Sep 2026 03:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【自然资源部对四川启动地质灾害防御Ⅳ级响应】9月19日，四川省攀枝花市盐边县格萨拉乡支六河村发生一起泥石流灾害事件致多人失联。根据《自然资源部地质灾害防御响应工作方案》，自然资源部于9月19日10时启动地质灾害防御IV级响应。自然资源部要求四川省自然资源厅立即先行派出专家工作组前往现场，协助地方做好人员搜救、抢险救援期间技术支撑等工作，并举一反三，做好类似情况下地质灾害巡查排查、监测预警和防范应对等工作；中国地质调查局、自然资源部地质灾害技术指导中心加强专家调度、组织协调、会商研判，全力协助指导做好技术支撑等工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2026-09-19/detail-inisisqe9881545.d.html</link>
-            <guid>5103063</guid>
-            <pubDate>Sat, 19 Sep 2026 03:48:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
